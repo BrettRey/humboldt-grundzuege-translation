@@ -1,0 +1,261 @@
+{
+  "section": "3",
+  "synthesis_sha256": "08a5b33297c27c3ecc662181c648b471f86d0429b8b64274ae30847ef1af2255",
+  "auditors": [
+    {
+      "auditor": "claude",
+      "models": [
+        "claude-fable-5-2"
+      ],
+      "coverage": {
+        "p3:s1": "checked; minor findings F1, F2, F3",
+        "p3:s2": "checked; minor finding F4",
+        "p3:s3": "checked; minor finding F5",
+        "p3:s4": "checked; no defect beyond the Wesen/Natur collapse noted in F4 and an advisory note in F8",
+        "p3:s5": "checked; minor findings F6, F7"
+      },
+      "verdict": "No material defects. No omissions, additions or reversals of claim were found in any of the five sentences; scope, qualifications and the reichlich/hinreichend contrast are preserved. Eight minor or advisory points remain, of which the two most worth fixing are the attachment ambiguity in p3:s5 (F6) and the weak rendering of 'bearbeitet' in p3:s3 (F5).",
+      "findings": [
+        {
+          "id": "F1",
+          "source_id": "p3:s1",
+          "severity": "minor",
+          "issue": "The hedging particle 'wohl' is not rendered, and the nominal predication 'ein Bedürfniss … genannt werden' is recast as 'the general study of language calls for'. The sense survives, but the German is a hedged claim about what may justly be called a need; the English is slightly more direct and makes the discipline the agent.",
+          "source_support": "'Es darf daher wohl mit Recht ein Bedürfniss für die allgemeine Sprachkunde genannt werden'",
+          "proposed_fix": "'It may therefore well be called, and with justice, a need of general linguistics to consider the American languages …' (or keep the current syntax and restore the hedge: 'It may therefore surely be said with justice that …')."
+        },
+        {
+          "id": "F2",
+          "source_id": "p3:s1",
+          "severity": "minor",
+          "issue": "'the general study of language' for 'die allgemeine Sprachkunde' can be read as studying language in a general way, not as the named field. It also uses singular 'language', where the context is the comparative knowledge of languages. Unresolved alternative: 'general linguistics' is clearer as a discipline name but arguably anachronistic for Humboldt; 'general study of languages' is the more literal option.",
+          "source_support": "'für die allgemeine Sprachkunde' (definite, discipline-naming compound; the sentence goes on to comparison with 'den Sprachen der übrigen Welttheile')",
+          "proposed_fix": "'general linguistics' or 'the general study of languages', used consistently wherever 'Sprachkunde' recurs in the wider text."
+        },
+        {
+          "id": "F3",
+          "source_id": "p3:s1",
+          "severity": "advisory",
+          "issue": "Two renderings are defensible but not the only readings. (a) 'in their interconnection' for 'in ihrem Zusammenhange' fixes the sense as mutual relations among the languages; the German also allows 'as a connected whole'. The end of §2 (large traits of similarity across all American languages, no real North/South boundary) supports either. (b) 'parts of the world' for 'Welttheile' is literal, but the period sense is 'continents', as 'des Welttheils' in §2 shows.",
+          "source_support": "'die Amerikanischen Sprachen in ihrem Zusammenhange zu betrachten'; 'der Sprachen der übrigen Welttheile'; §2: 'der Norden und Süden des Welttheils'",
+          "proposed_fix": "No change is required. Optionally 'in their connection with one another' or 'as a connected whole', and 'the other continents'. If 'parts of the world' is kept, use it consistently for 'Welttheil'."
+        },
+        {
+          "id": "F4",
+          "source_id": "p3:s2",
+          "severity": "minor",
+          "issue": "'Wesen' (s2) and 'Natur' (s4) are both rendered 'nature', which erases a lexical distinction in the source. The two words are not used contrastively against each other here, so no claim is distorted. A smaller instance of the same kind: 'Schrift' (s2) and 'Werken' (s5) both become 'work(s)'.",
+          "source_support": "s2: 'in das Wesen dieser Sprachen eindringenden Forschung'; s4: 'liegt in der Natur der Sache selbst'; s2: 'bei der gegenwärtigen Schrift'; s5: 'in mehreren andren Werken'",
+          "proposed_fix": "s2: 'into the essence (or essential character) of these languages', keeping 'nature' for s4. Optionally 'the present treatise' for 'Schrift'."
+        },
+        {
+          "id": "F5",
+          "source_id": "p3:s3",
+          "severity": "minor",
+          "issue": "'worked on them myself' is weak for 'selbst bearbeitet' and blurs the 'nicht bloss … sondern' contrast, since studying a language is already working on it. 'Bearbeiten' here means working the languages up or elaborating them, which matches the opening of §4 on his own grammars and dictionaries. Unresolved alternative: after 'nicht bloss … sondern', 'selbst' can be the intensifier 'even' ('but even worked them up') and not the reflexive 'myself'. Both readings are grammatical; the translation silently chooses 'myself'. The added 'also' is harmless.",
+          "source_support": "'die einzelnen Sprachen nicht bloss studirt, sondern selbst bearbeitet'; §4: 'die Herausgabe der einzelnen Grammatiken und Wörterbücher'",
+          "proposed_fix": "'not merely studied the individual languages but worked them up myself'. If the unresolved reading is to be recorded, add a note that 'selbst' may mean 'even'."
+        },
+        {
+          "id": "F6",
+          "source_id": "p3:s5",
+          "severity": "minor",
+          "issue": "Attachment ambiguity created in English. In the German, 'verbunden mit dem … Vorgearbeiteten' comes after the finite verb 'bieten', so it modifies the main clause: the resources, combined with the earlier work, provide the material. In the English, 'together with the very useful preparatory work' directly follows the relative clause 'which are to be regarded as the sources for this investigation', so it can be read as saying the earlier work is also to be regarded as sources. That blurs the source's distinction between his own 'Hülfsmittel' as 'Quellen' and what others have already worked out.",
+          "source_support": "'die Hülfsmittel, die mir zu Gebote stehen, und die als Quellen für diese Untersuchung anzusehen sind, bieten, verbunden mit dem schon in mehreren andren Werken sehr zweckmässig Vorgearbeiteten, einen reichlichen Stoff …'",
+          "proposed_fix": "'But the resources at my disposal, which are to be regarded as sources for this investigation, provide, when combined with what has already been very serviceably prepared in several other works, abundant material for a treatment covering the whole field of this investigation, and sufficient material for a sound judgment.'"
+        },
+        {
+          "id": "F7",
+          "source_id": "p3:s5",
+          "severity": "minor",
+          "issue": "Three small shifts. (a) 'the sources' adds a definite article the German lacks ('als Quellen'), implying these are the sole sources. (b) 'very useful preparatory work' turns the adverb of manner 'sehr zweckmässig' (work done very purposively or serviceably) into an adjective of utility; 'preparatory work … done in several other works' also repeats 'work' awkwardly and may suggest those works were merely preparatory. (c) The two coordinated relative clauses ('die mir zu Gebote stehen, und die … anzusehen sind') are rendered asymmetrically, the first as a restrictive phrase and the second as a non-restrictive clause. German punctuation does not settle restrictiveness, so a fully restrictive reading ('those aids at my disposal that count as sources') remains open.",
+          "source_support": "'und die als Quellen für diese Untersuchung anzusehen sind'; 'dem schon in mehreren andren Werken sehr zweckmässig Vorgearbeiteten'",
+          "proposed_fix": "Drop the article ('as sources'); render 'what has already been very serviceably (or aptly) prepared in several other works'. The relative-clause asymmetry may stand, but should not be treated as resolved."
+        },
+        {
+          "id": "F8",
+          "source_id": "p3:s1",
+          "severity": "advisory",
+          "issue": "Cross-sentence vocabulary. 'Investigat-' covers both 'erforschen' (s1) and 'Untersuchung' (s5, twice), while 'Forschung' (s2) becomes 'inquiry'. So the erforschen/Forschung word family is split and one of its members is merged with 'Untersuchung'. Nothing is misstated, but the echo of §2's 'tiefer eindringenden Forschung' in s2 depends on how §2 is rendered. Separately, 'the nature of the undertaking' (s4) narrows 'Natur der Sache' ('the matter itself') slightly; this is acceptable.",
+          "source_support": "s1: 'ihren Bau zu erforschen'; s2: 'eindringenden Forschung'; s5: 'für diese Untersuchung', 'das ganze Feld dieser Untersuchung'; §2: 'vor der tiefer eindringenden Forschung'; s4: 'in der Natur der Sache selbst'",
+          "proposed_fix": "Optionally s1 'to investigate' → 'to inquire into' or 'to explore', keeping 'inquiry' for 'Forschung' and 'investigation' for 'Untersuchung'. Match s2's 'inquiry that penetrates …' to the rendering of the §2 phrase. s4 may read 'the nature of the matter itself'."
+        }
+      ],
+      "limitations": [
+        "The audit is against the supplied German text only. The print, PDF and scan were not consulted, and the fingerprints, the Leitzmann reading and the reported manuscript cancellation (Drechsel 2024) were not verified.",
+        "No tools, outside research or additional reviewers were used, per instruction. Judgments on period usage (Sprachkunde, Welttheil, bearbeiten, zweckmässig, selbst) rest on general knowledge of early nineteenth-century German, not on checked lexica or a Humboldt concordance.",
+        "No translations of §2 or §4 and no project glossary were supplied, so consistency of recurring terms (Bau, Forschung, Sprachkunde, Welttheil) across sections could not be checked.",
+        "Three points remain open and are not errors: the sense of 'in ihrem Zusammenhange' (F3), 'selbst' as 'myself' or 'even' (F5), and the restrictiveness of the relative clauses in s5 (F7). The source does not decide them."
+      ]
+    },
+    {
+      "auditor": "muse",
+      "models": [
+        "muse-wonder-full-1.0"
+      ],
+      "coverage": [
+        "p3:s1",
+        "p3:s2",
+        "p3:s3",
+        "p3:s4",
+        "p3:s5"
+      ],
+      "verdict": "No material defects; minor corrections advised.",
+      "findings": [
+        {
+          "id": "F1",
+          "source_id": "p3:s1",
+          "severity": "minor",
+          "issue": "“May rightly be said that … calls for” drops the modal qualifier “wohl” and recasts a “Bedürfniss für” the discipline as the discipline itself calling for something, slightly shifting modality and agency.",
+          "source_support": "Es darf daher wohl mit Recht ein Bedürfniss für die allgemeine Sprachkunde genannt werden",
+          "proposed_fix": "It may well therefore rightly be called a need for the general study of language to consider …"
+        },
+        {
+          "id": "F2",
+          "source_id": "p3:s2",
+          "severity": "minor",
+          "issue": "Rendering “Wesen” as “nature” uses the same English word later used for “Natur” in p3:s4, obscuring a German terminological distinction. Whether “Wesen” requires the more technical “essence” cannot be settled from the supplied packet alone.",
+          "source_support": "in das Wesen dieser Sprachen; cf. p3:s4: in der Natur der Sache selbst",
+          "proposed_fix": "Prefer, subject to an explicit terminology decision, “… penetrates as deeply as possible into the essence of these languages.”"
+        },
+        {
+          "id": "F3",
+          "source_id": "p3:s3",
+          "severity": "minor",
+          "issue": "“Worked on them myself” weakens “selbst bearbeitet”: the German indicates his own working-up or elaboration of the languages, not merely effort expended on them, and that sense also connects with “Bearbeitung” in p3:s5.",
+          "source_support": "die einzelnen Sprachen nicht bloss studirt, sondern selbst bearbeitet",
+          "proposed_fix": "“… not merely studied the individual languages but myself worked them up …”"
+        },
+        {
+          "id": "F4",
+          "source_id": "p3:s4",
+          "severity": "minor",
+          "issue": "“Can never be complete; that follows from the nature of the undertaking” turns attaining “Vollständigkeit” into a state, changes “liegt in” into an inference, and narrows the generic “Sache” to an “undertaking.”",
+          "source_support": "Dass das Sammeln dieser Art nie Vollständigkeit erreichen kann, liegt in der Natur der Sache selbst.",
+          "proposed_fix": "That collecting of this kind can never attain completeness lies in the nature of the matter itself."
+        },
+        {
+          "id": "F5",
+          "source_id": "p3:s5",
+          "severity": "minor",
+          "issue": "“The sources” adds definiteness and possible exhaustiveness not expressed by the bare plural “als Quellen.”",
+          "source_support": "die als Quellen für diese Untersuchung anzusehen sind",
+          "proposed_fix": "“… which are to be regarded as sources for this investigation …”"
+        },
+        {
+          "id": "F6",
+          "source_id": "p3:s5",
+          "severity": "minor",
+          "issue": "“Sound assessment” shifts “sichren Beurtheilung” from a secure or reliable judgment toward one that is well-founded in quality.",
+          "source_support": "einen hinreichenden zu einer sichren Beurtheilung",
+          "proposed_fix": "“… and sufficient material for a secure judgment.”"
+        }
+      ],
+      "limitations": [
+        "This audit is confined to the supplied German §3, the adjacent German context, and the supplied English; the reported manuscript cancellation and editorial status were not independently verified.",
+        "No glossary or wider authorial corpus was supplied. Terminology-dependent alternatives remain unresolved, notably “Zusammenhang” as interconnection or connected whole, “Bau” as structure or build, and “Wesen” as nature or essence; F2 therefore flags only the observable collapse of the “Wesen”/“Natur” distinction.",
+        "Historical spellings were interpreted as printed in the packet, without outside research."
+      ]
+    }
+  ],
+  "dispositions": [
+    {
+      "auditor": "claude",
+      "finding_id": "F1",
+      "source_id": "p3:s1",
+      "severity": "minor",
+      "resolution": "Restore well and the explicit good-reason qualification; retain a readable calls-for recasting without claiming a stronger obligation."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F2",
+      "source_id": "p3:s1",
+      "severity": "minor",
+      "resolution": "Retain the established general study of language; no modern disciplinary boundary is imposed. Singular language names the field rather than changing the plural languages under investigation."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F3",
+      "source_id": "p3:s1",
+      "severity": "advisory",
+      "resolution": "Use continents consistently with §§1–2. Keep interconnection, noting connected-whole as an alternative and avoiding a common-origin inference."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F4",
+      "source_id": "p3:s2",
+      "severity": "minor",
+      "resolution": "Use essential character for Wesen locally and nature for Natur. Keep present work for Schrift without inventing a specific publication genre."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F5",
+      "source_id": "p3:s3",
+      "severity": "minor",
+      "resolution": "Use prepared my own treatments to preserve active scholarly working-up beyond studying. Do not specify completed grammars/dictionaries; record the possible scalar selbst."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F6",
+      "source_id": "p3:s5",
+      "severity": "minor",
+      "resolution": "Place the combined-with adjunct after provide so it plainly modifies provision of material, not the relative clause about sources."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F7",
+      "source_id": "p3:s5",
+      "severity": "minor",
+      "resolution": "Remove the added definite article before sources, restore parallel relative clauses, and use very usefully prepared rather than treating the other works themselves as merely preparatory."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F8",
+      "source_id": "p3:s1",
+      "severity": "advisory",
+      "resolution": "Use inquiring/inquiry for the local erforschen/Forschung echo; retain investigation for Untersuchung. Restore matter itself in sentence4."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F1",
+      "source_id": "p3:s1",
+      "severity": "minor",
+      "resolution": "Restore well and the explicit good-reason qualification; retain readable indirect predication rather than a stiff nominal calque."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F2",
+      "source_id": "p3:s2",
+      "severity": "minor",
+      "resolution": "Use essential character for Wesen locally, distinguishing Natur without freezing essence as a universal glossary rule."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F3",
+      "source_id": "p3:s3",
+      "severity": "minor",
+      "resolution": "Strengthen to prepared my own treatments and qualify its scope in a note."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F4",
+      "source_id": "p3:s4",
+      "severity": "minor",
+      "resolution": "Restore attaining completeness, inherence and matter itself; retain the semicolon as an English sentence-structure choice."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F5",
+      "source_id": "p3:s5",
+      "severity": "minor",
+      "resolution": "Use sources without an added definite article; no claim of exhaustiveness is introduced."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F6",
+      "source_id": "p3:s5",
+      "severity": "minor",
+      "resolution": "Use reliable assessment to preserve epistemic reliability rather than suggesting absolute certainty; judgment remains a defensible alternative."
+    }
+  ]
+}

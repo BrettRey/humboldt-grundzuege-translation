@@ -15,6 +15,10 @@
     {
       "path": "passages/0147/records.json",
       "sha256": "7a6f0d094e09d73c2f89a03283b495d23b2a85fdeb195d4e14b0c49ae79993d2"
+    },
+    {
+      "path": "passages/passage-0003/records.json",
+      "sha256": "f8236a2916518708c5fd3f9f8d96f048d9ba041eca0d6b9151380ed8ce6fc66a"
     }
   ],
   "format": "humboldt.edition",
@@ -34,6 +38,11 @@
       "section": "147",
       "source_id": "difficult-147-de-v1",
       "target_id": "en147-revised-v2"
+    },
+    {
+      "section": "3",
+      "source_id": "grundzuege-003-v1",
+      "target_id": "en3-revised-v2"
     }
   ],
   "resources": [

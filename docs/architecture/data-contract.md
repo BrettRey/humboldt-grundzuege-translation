@@ -30,4 +30,4 @@ One authoritative project copy writes the journal; other contributors exchange d
 
 Optional source attachments are declared resources. Their absence is reported, while embedded transcriptions/quotations retain their recorded verification level. The preserved 1906 provisional-base policy, uncertain source readings and lack of specialist validation remain visible in the actual data.
 
-Generated `build/` and local `releases/` are excluded from Git. Source code, schema resources, durable edition records, tests and maintained documentation are the material intended for version control. The repository remains local and uncommitted until a separate commit/publication instruction.
+Generated `build/` and local `releases/` are excluded from Git. Source code, schema resources, durable edition records, tests and maintained documentation are the material intended for version control. D014 supplies the commit/publication instruction and explicitly approves the reviewed workflow archives; the handoff records actual publication status. Scoped license grants do not relicense third-party quotations or source publications.

@@ -3689,6 +3689,29 @@
         "Python 3.14.10 tested; no full compatibility matrix or formal proof.",
         "No actual translation edits, Git commit or publication."
       ]
+    },
+    {
+      "id": "paragraph-003-cycle",
+      "authority": "D014–D015",
+      "source": "translations/paragraph-003/source.json",
+      "English": "translations/paragraph-003/revised.md",
+      "record": {
+        "path": "translations/paragraph-003/record.json",
+        "sha256": "29d4dabc3393971b077c2e9f9cc688813571d23b05bf25fc8f90ec9ac51e2e90"
+      },
+      "verification": {
+        "path": "translations/paragraph-003/verification.json",
+        "sha256": "5d4c4d995a44366ebc2e3eb10cb2e493458d68253242641e115bddf40ebc972a"
+      },
+      "coverage": {
+        "source_sentences": 5,
+        "candidates": 3,
+        "audits": 2,
+        "audit_findings": 14,
+        "dispositions": 14
+      },
+      "review_status": "English/editorial review pending; no specialist fidelity certification",
+      "preservation": "All earlier scholarly rows and 118 protected files unchanged."
     }
   ]
 }

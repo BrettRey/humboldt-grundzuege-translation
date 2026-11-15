@@ -1,0 +1,28 @@
+{
+  "section": "3",
+  "stage": "coordinator pre-audit synthesis",
+  "sentences": [
+    {
+      "source_id": "p3:s1",
+      "english": "It may therefore rightly be said that the general study of language calls for considering the American languages in their interconnection, investigating and describing their structure, and comparing it with that of the languages of the other parts of the world."
+    },
+    {
+      "source_id": "p3:s2",
+      "english": "My intention in the present work is to do this to the best of my abilities, with due completeness, but above all through inquiry that penetrates as deeply as possible into the nature of these languages."
+    },
+    {
+      "source_id": "p3:s3",
+      "english": "To achieve this aim, I have for a number of years not merely studied the individual languages but also worked on them myself, and for an even longer time collected materials, chiefly in manuscript."
+    },
+    {
+      "source_id": "p3:s4",
+      "english": "Collecting of this kind can never be complete; that follows from the nature of the undertaking itself."
+    },
+    {
+      "source_id": "p3:s5",
+      "english": "But the resources at my disposal, which are to be regarded as the sources for this investigation, together with the very useful preparatory work already done in several other works, provide abundant material for a treatment covering the whole field of this investigation, and sufficient material for a sound assessment."
+    }
+  ],
+  "frozen_at": "2026-11-15T23:10:32.501768+00:00",
+  "candidates_sha256": "916d6f24fea64b3aa5fb30e6f4745c95141c92f439b081f5d96c583fcf11f898"
+}

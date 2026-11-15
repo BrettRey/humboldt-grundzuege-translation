@@ -88,7 +88,7 @@ The default suite uses synthetic fixtures, generated event-sequence checks, clea
 ./humboldt verify --against releases/0.2.0/release.json
 ```
 
-The first command checks the explicitly frozen base; the second compares the entire current edition to the selected release and reports intentional differences too. Neither changes data or forces future accepted work to retain an old digest. Local releases and the append-only journal preserve working history; the repository remains uncommitted pending a separate Git instruction.
+The first command checks the explicitly frozen base; the second compares the entire current edition to the selected release and reports intentional differences too. Neither changes data or forces future accepted work to retain an old digest. Local releases and the append-only journal preserve working history. D014 now authorizes public Git publication; the handoff records the current state.
 
 Inside a portable release, compare its own included edition with `python3 humboldt verify --against release.json`. The `test` commands require the source checkout; `validate` and `verify` also work in the portable package.
 

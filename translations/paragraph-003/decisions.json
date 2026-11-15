@@ -1,0 +1,35 @@
+{
+  "section": "3",
+  "decisions": [
+    {
+      "id": "D015.s1",
+      "source_id": "p3:s1",
+      "question": "Discipline, comparative scope and qualifications",
+      "resolution": "Retain the qualified claim about the needs of general language study, interconnection and structure; use continents consistently without asserting a common original language."
+    },
+    {
+      "id": "D015.s2",
+      "source_id": "p3:s2",
+      "question": "Aim and depth of inquiry",
+      "resolution": "Preserve personal ability, due completeness and above-all priority; render Wesen as essential character locally, distinguishing Natur."
+    },
+    {
+      "id": "D015.s3",
+      "source_id": "p3:s3",
+      "question": "Study versus own treatment; manuscript resources",
+      "resolution": "Preserve the contrast between studying and personally preparing treatments and the longer collecting period. Do not invent completed grammars, fieldwork or autograph-only manuscripts."
+    },
+    {
+      "id": "D015.s4",
+      "source_id": "p3:s4",
+      "question": "Limits of collecting",
+      "resolution": "Preserve the impossibility of completeness and its inherence in the matter itself; the semicolon does not add an independent causal premise."
+    },
+    {
+      "id": "D015.s5",
+      "source_id": "p3:s5",
+      "question": "Sources, prior work and adequacy",
+      "resolution": "Keep source resources distinct from the earlier work combined with them. Preserve abundant versus sufficient material and repeat the elided noun in English."
+    }
+  ]
+}

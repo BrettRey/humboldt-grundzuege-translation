@@ -1,0 +1,44 @@
+{
+  "section": "3",
+  "sentences": [
+    {
+      "id": "p3:s1",
+      "text": "Es darf daher wohl mit Recht ein Bedürfniss für die allgemeine Sprachkunde genannt werden, die Amerikanischen Sprachen in ihrem Zusammenhange zu betrachten, ihren Bau zu erforschen, darzustellen, und mit dem Bau der Sprachen der übrigen Welttheile zu vergleichen."
+    },
+    {
+      "id": "p3:s2",
+      "text": "Dies nach meinen Kräften, in gehöriger Vollständigkeit, vorzüglich aber mit so tief, als möglich, in das Wesen dieser Sprachen eindringenden Forschung zu thun, ist meine Absicht bei der gegenwärtigen Schrift."
+    },
+    {
+      "id": "p3:s3",
+      "text": "Um dieselbe zu erreichen, habe ich eine Reihe von Jahren hindurch die einzelnen Sprachen nicht bloss studirt, sondern selbst bearbeitet, und seit noch längerer Zeit Materialien, vorzüglich handschriftliche, gesammelt."
+    },
+    {
+      "id": "p3:s4",
+      "text": "Dass das Sammeln dieser Art nie Vollständigkeit erreichen kann, liegt in der Natur der Sache selbst."
+    },
+    {
+      "id": "p3:s5",
+      "text": "Aber die Hülfsmittel, die mir zu Gebote stehen, und die als Quellen für diese Untersuchung anzusehen sind, bieten, verbunden mit dem schon in mehreren andren Werken sehr zweckmässig Vorgearbeiteten, einen reichlichen Stoff zu einer, das ganze Feld dieser Untersuchung umfassenden Bearbeitung, und einen hinreichenden zu einer sichren Beurtheilung dar."
+    }
+  ],
+  "body": "Es darf daher wohl mit Recht ein Bedürfniss für die allgemeine Sprachkunde genannt werden, die Amerikanischen Sprachen in ihrem Zusammenhange zu betrachten, ihren Bau zu erforschen, darzustellen, und mit dem Bau der Sprachen der übrigen Welttheile zu vergleichen. Dies nach meinen Kräften, in gehöriger Vollständigkeit, vorzüglich aber mit so tief, als möglich, in das Wesen dieser Sprachen eindringenden Forschung zu thun, ist meine Absicht bei der gegenwärtigen Schrift. Um dieselbe zu erreichen, habe ich eine Reihe von Jahren hindurch die einzelnen Sprachen nicht bloss studirt, sondern selbst bearbeitet, und seit noch längerer Zeit Materialien, vorzüglich handschriftliche, gesammelt. Dass das Sammeln dieser Art nie Vollständigkeit erreichen kann, liegt in der Natur der Sache selbst. Aber die Hülfsmittel, die mir zu Gebote stehen, und die als Quellen für diese Untersuchung anzusehen sind, bieten, verbunden mit dem schon in mehreren andren Werken sehr zweckmässig Vorgearbeiteten, einen reichlichen Stoff zu einer, das ganze Feld dieser Untersuchung umfassenden Bearbeitung, und einen hinreichenden zu einer sichren Beurtheilung dar.",
+  "printed_pages": [
+    365,
+    366
+  ],
+  "pdf_pages": [
+    375,
+    376
+  ],
+  "scan_leaves": [
+    377,
+    378
+  ],
+  "source_path": "sources/raw/gs-v-1906.pdf",
+  "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+  "body_sha256": "3d8bb5d73ad60153d891ce3e7f24c2410c7a7c9f9d52218a8e55de714f23a5b8",
+  "source_status": "Follows GS V (Leitzmann 1906), §3, printed365–366 / PDF375–376 / scan leaves377–378. Drechsel (2024:155) reports cancellation of the first seven paragraphs. Manuscript marks, extent and editorial meaning remain independently unverified. Retained as the printed reading; authorial finality unresolved.",
+  "verification": "Coordinator comparison with rendered page images; not specialist human validation",
+  "boundary": "From marginal3 on printed365 to before marginal4 on printed366; page-break word division joined; no source/editor footnote in this paragraph."
+}
