@@ -1,0 +1,111 @@
+{
+  "status": "One complete §147 comparison/audit/revision cycle; English review pending",
+  "recorded_at": "2026-11-15T17:22:57.068868+00:00",
+  "authority": "D010",
+  "working_decisions": "D011",
+  "workers": [
+    {
+      "label": "candidate-claude",
+      "models": [
+        "claude-fable-5-2"
+      ],
+      "receipt": "tmp/difficult-147/candidate-claude-receipt.json",
+      "exit_code": 0,
+      "elapsed_seconds": 87.2,
+      "prompt_sha256": "70b4111ffd5e8bef94e533bfd139836e78c3b9cb44b41f9b134913ad27d5d976"
+    },
+    {
+      "label": "candidate-muse",
+      "models": [
+        "muse-wonder-full-1.0"
+      ],
+      "receipt": "tmp/difficult-147/candidate-muse-receipt.json",
+      "exit_code": 0,
+      "elapsed_seconds": 42.9,
+      "prompt_sha256": "70b4111ffd5e8bef94e533bfd139836e78c3b9cb44b41f9b134913ad27d5d976"
+    },
+    {
+      "label": "candidate-codex",
+      "models": [
+        "gpt-6.1-sol"
+      ],
+      "receipt": "tmp/difficult-147/candidate-codex-receipt.json",
+      "exit_code": 0,
+      "elapsed_seconds": 35.5,
+      "prompt_sha256": "70b4111ffd5e8bef94e533bfd139836e78c3b9cb44b41f9b134913ad27d5d976"
+    },
+    {
+      "label": "audit-claude",
+      "models": [
+        "claude-fable-5-2"
+      ],
+      "receipt": "tmp/difficult-147/audit-claude-receipt.json",
+      "exit_code": 0,
+      "elapsed_seconds": 150.0,
+      "prompt_sha256": "2091ad51ad6a272e6c5b557e4b24621004cfc9675bb1045c37d3f075476898a3"
+    },
+    {
+      "label": "audit-muse",
+      "models": [
+        "muse-wonder-full-1.0"
+      ],
+      "receipt": "tmp/difficult-147/audit-muse-receipt.json",
+      "exit_code": 0,
+      "elapsed_seconds": 127.6,
+      "prompt_sha256": "2091ad51ad6a272e6c5b557e4b24621004cfc9675bb1045c37d3f075476898a3"
+    }
+  ],
+  "candidate_freeze": {
+    "path": "translations/difficult-147/candidates.json",
+    "sha256": "0477449dedd968b8bde4d1d69dd1d5bfc84d61ee3a970f38aeef5c78decc0e97",
+    "frozen_at": "2026-11-15T17:12:34.714433+00:00"
+  },
+  "input_sha256": {
+    "translations/difficult-147/source.json": "06f5bc0af19d0ccdc0f3bd0fa54c4600360e71fb74167d1f06dd1fb4010ac34e",
+    "translations/difficult-147/packet.md": "cc85b39ebea4f907cd99aeb0f9b7846669afc33188074f4b95a0e3e81b13f9ab",
+    "translations/difficult-147/candidates.json": "0477449dedd968b8bde4d1d69dd1d5bfc84d61ee3a970f38aeef5c78decc0e97",
+    "translations/difficult-147/synthesis.json": "00847b81e100342008bc6ddb223833765916df6aed54b70f1ffd7bb596d118d7",
+    "translations/difficult-147/revised.json": "61204bc8300e8bfdd5a543ed648342c55254e331fb3df1310a4d31c95fae15b8",
+    "translations/difficult-147/alignments.json": "c98b214d19196222e33d29bfea555e328aed19b6f2d0485e1d96968a4a6cf29b",
+    "translations/difficult-147/decisions.json": "e4eb98cb7a4d45b4ba57239fb507f4ffeec84b2e5ac3a5812c95cd0c0910900e",
+    "translations/difficult-147/term-links.json": "61fff1db2144bee747919229b947b892aee11259cb9d6e46120ab1fa83770ca4",
+    "translations/difficult-147/notes.json": "fe859b8c10c906a2517e9aee78d89f09b76e768d4bd321dd20541d2d31c161d4",
+    "translations/difficult-147/audits.json": "7daf3dfb6f22f00e0420e330934b9a01f32b2806a9b4b81517dad3508475e015",
+    "translations/difficult-147/baseline.json": "23d2c57af1c6969c3b5a7e167fcd461cb00041e0f37ceae21b788e6205c1e2d1"
+  },
+  "coverage": {
+    "source_sentences": 18,
+    "candidate_renderings": 54,
+    "synthesis_versions": 2,
+    "consequential_span_alignments": 9,
+    "selected_term_rule_links": 6,
+    "audit_findings": 13,
+    "dispositions": 13
+  },
+  "limits": [
+    "1906 provisional print, no manuscript/critical-edition collation.",
+    "Coordinator image checks and model audits, no specialist human certification.",
+    "Final revision coordinator-checked; no further independent model round.",
+    "Chinese transcription identity/phonetic value, source footnote terminal98 and local antecedent alternatives remain qualified.",
+    "Old English and sealed terminology inputs preserved; no section3 or148 drafted."
+  ],
+  "software_checks": {
+    "tests": 43,
+    "test_seconds": 39.773,
+    "exit_code": 0,
+    "database": "tmp/difficult-147/pilot.sqlite",
+    "counts": {
+      "text_version": 21,
+      "analysis": 27,
+      "unit": 86978,
+      "evidence": 1768,
+      "decision": 1575,
+      "alignment": 183
+    },
+    "integrity": "ok",
+    "foreign_key_errors": [],
+    "preserved_inputs": 82,
+    "all_previous_database_rows_preserved": true,
+    "warning": "Earlier tests emit pre-existing unclosed-connection ResourceWarnings; the run completed successfully."
+  }
+}

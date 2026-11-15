@@ -1,0 +1,440 @@
+{
+  "headword_aliases": {
+    "Organe": "Organ",
+    "Ganzes": "das Ganze",
+    "Adjectiva": "Adjectivum",
+    "Adverbia": "Adverbium",
+    "Participien": "Participium",
+    "Wortvorrath": "Wörtervorrath",
+    "Pluralis": "Plural",
+    "Intellectualität": "Intellectualitaet",
+    "Subjectivität": "Subjectivitaet",
+    "Totalität": "Totalitaet",
+    "symbolisiren": "Symbolisiren"
+  },
+  "sense_overrides": {
+    "late|grammatische Form|1": {
+      "definition": "A grammatical determination that an analyst can recover or render in a language despite the lack of its own special designation. The claim does not decide whether strict grammatical form is present in the language itself.",
+      "rule": "Describe recoverability in§133 without equating it with overt linguistic marking. Compare the later strict audible criterion in§147 and the speaker/language distinction of§142.",
+      "caution": "Shared thought-relations, analyst labels and a language’s own means remain different questions."
+    },
+    "late|Satz|1": {
+      "renderings": [
+        "sentence"
+      ],
+      "caution": "Use proposition only where a logical-judgement use is explicitly at issue, such as the separately recorded assertion use;§136 itself supplies no modern truth-condition definition. Preserve the contrast with Periode, and do not infer a new sense from printed448’s unresolved same-Satz phrase."
+    },
+    "late|Periode|1": {
+      "definition": "The grammatical whole in which thought-form and language-form unite: unity of thought-relations is joined by linguistic embodiment, the regulated resources of the language, and conditions of intelligibility and utterance.",
+      "rule": "Retain period or an explained sentence-period as distinct from Satz. The contrast concerns the whole’s principle of unity, not merely sentence length.",
+      "caution": "This is the local§136 distinction, not a fixed equation with modern clause/sentence terminology."
+    },
+    "late|Symbol|1": {
+      "label": "symbolic embodiment in linguistic expression",
+      "definition": "The symbol or sensible embodiment in which language casts thought, analytically distinguished from thought’s essence within a discussion that also insists on the synthetic unity of the two forms.",
+      "rule": "Retain symbol as the source word here, with its local thought/embodiment contrast. Do not treat the symbol as an arbitrary detachable label.",
+      "caution": "This is a contextual/metaphorical use, not proof that every Symbol occurrence has the strict natural-form definition of§101. In§136 the analytically distinguished forms are inseparable in actual language."
+    },
+    "late|Zeichen|1": {
+      "label": "empty sign contrasted with designated content",
+      "definition": "A sign contrasted with substituting what is designated for it; the immediately parallel phrase contrasts putting a concept in place of form.",
+      "rule": "Preserve both parallels in§141. The formal reading is supported by this local opposition, not by importing§147’s strict criterion into the fragment.",
+      "caution": "Empty is the source’s description in this polemic, not a claim that speakers cannot understand or that all signs lack contribution."
+    },
+    "middle|Vermögen|1": {
+      "rule": "Use faculties for the cooperating mental powers in§90 (p421), and capacity for a language’s ability to meet expressive need in§110 (p434). A capacity is not one actual act or its resulting content.",
+      "caution": "The bearers and English renderings are conditional; this does not establish a strict universal Kraft/Vermögen taxonomy."
+    },
+    "early|Form|3": {
+      "definition": "Connection in discourse as form relative to words as matter; this division is explicitly not the sounds/rules division."
+    },
+    "early|Verstand|1": {
+      "rule": "Use understanding/intellect for the analytical faculty. Use sense only when the construction concerns meaning or an interpretation, as in im strengsten Verstände; not every prepositional im Verstande phrase is idiomatic."
+    },
+    "late|Verstand|1": {
+      "rule": "Use understanding for this faculty. The possessed construction im Verstande des Redenden also names the speaker’s understanding, not the sense of an expression.",
+      "caution": "A preposition alone does not decide the meaning; distinguish the separate meaning/interpretation idiom by syntax and context."
+    }
+  },
+  "sense_groups": {
+    "early|Form|2": "form-mode-activity",
+    "early|Form|4": "form-mode-activity",
+    "middle|Form|2": "form-mode-activity",
+    "late|Form|1": "form-mode-activity",
+    "middle|Form|3": "form-configuration",
+    "middle|Form|4": "form-configuration",
+    "early|Form|1": "form-grammatical",
+    "middle|Form|1": "form-grammatical",
+    "early|Form|3": "form-relative-matter",
+    "middle|Form|5": "form-relative-matter",
+    "middle|Form|6": "form-relative-matter",
+    "middle|Form|7": "form-relative-matter",
+    "early|Verstand|1": "verstand-faculty",
+    "middle|Verstand|1": "verstand-faculty",
+    "late|Verstand|1": "verstand-faculty",
+    "early|Weltansicht|1": "weltansicht-view",
+    "middle|Weltansicht|1": "weltansicht-view",
+    "early|Sprachform|1": "sprachform-language-form",
+    "late|Sprachform|1": "sprachform-language-form",
+    "late|Verstand|2": "verstand-idiom",
+    "early|Verstand|2": "verstand-idiom"
+  },
+  "merged_senses": {
+    "form-mode-activity": {
+      "label": "form or mode of formative activity",
+      "definition": "Form used for the mode or organization of mental/linguistic activity, including determinate thought and its externalization. The explicit law/direction/procedure stipulation belongs to§136.",
+      "renderings": [
+        "form"
+      ],
+      "rule": "Identify the operation and bearer in the local use. Keep§136’s stipulation visible without retroactively making it the exhaustive definition of every earlier Form.",
+      "caution": "These are grouped contextual uses of a broad form vocabulary, not a single unchanging technical doctrine. The individual source uses and their conditions remain below."
+    },
+    "form-configuration": {
+      "label": "word or sound configuration considered as a pattern",
+      "definition": "A formed word/sound configuration, considered as a persistent or general pattern relative to changing content and individual actualization.",
+      "renderings": [
+        "form",
+        "configuration"
+      ],
+      "rule": "Use form for the cited pattern; distinguish it from current word-content and from a form/matter analysis of the faculties.",
+      "caution": "The printed word-formation and general-word contexts remain distinct uses; neither licenses phoneme or morpheme as an automatic replacement."
+    },
+    "form-grammatical": {
+      "label": "grammatical or purely formal determination",
+      "definition": "Form used for grammatical means or formal determination, with the local contrast between a device and its effect or between formal indication and unnecessary substantive content.",
+      "renderings": [
+        "form"
+      ],
+      "rule": "Preserve the particular formal/material or means/effect contrast; do not identify all such uses with one later strict criterion for genuine grammatical form.",
+      "caution": "This is a working grouping of related uses. The source’s rankings and causal claims remain attributed, not endorsed."
+    },
+    "form-relative-matter": {
+      "label": "form relative to the matter or material of a particular analysis",
+      "definition": "The organizing or active side of a locally specified form/matter relation: discourse-connection versus words, the word’s coordinating contribution, or thought’s operations versus objects.",
+      "renderings": [
+        "form"
+      ],
+      "rule": "State what counts as matter and form in each source use. In§55 words/discourse-connection is expressly not sounds/rules; the word and thought discussions have different bearers.",
+      "caution": "These contextual uses must not be flattened into syntax, sound shape, or one independent metaphysical substance."
+    },
+    "verstand-faculty": {
+      "label": "faculty of understanding",
+      "definition": "Understanding as an intellectual faculty engaged in analysis, distinctions and thought, locally contrasted with other faculties such as creative imagination or synthesizing reason.",
+      "renderings": [
+        "understanding",
+        "intellect"
+      ],
+      "rule": "Prefer understanding where faculty contrasts matter. In im Verstande des Redenden the possessor identifies the speaker’s faculty; it is not the idiom in the sense.",
+      "caution": "Different activities of this faculty are retained as contextual uses, not counted as new lexical senses. The separate sense-of-expression idiom requires its own construction and context."
+    },
+    "weltansicht-view": {
+      "label": "view or standpoint of the world",
+      "definition": "A view/standpoint of the world belonging to an individual and further shaped and intensified through language; a language’s connected presentation can thus have its own distinctive world-view.",
+      "renderings": [
+        "view of the world",
+        "world-view"
+      ],
+      "rule": "Preserve the individual standpoint already possible independently of language in§39 and the additional contribution made by language. Keep individual and language bearers explicit.",
+      "caution": "The uses do not imply identical beliefs or one ideology for all speakers. The later Weltansicht/Weltanschauung interpretive distinction is a control, not an invariant lexical law proved here."
+    },
+    "sprachform-language-form": {
+      "label": "form of a language and its expression",
+      "definition": "Language’s form(s), considered as shared patterns admitting individual use and, in§136, as specifically linguistic organization distinct in analysis from thought-form.",
+      "renderings": [
+        "language-form",
+        "linguistic form"
+      ],
+      "rule": "In§50 preserve general forms and individualized use; in§136 preserve the extra linguistic conditions directed toward the Periode. Use the local bearer rather than counting plurality alone as a new lexical sense.",
+      "caution": "Do not insert inner where the source does not say it, or reduce Sprachform to morphology. The local thought/language distinction does not make two separable substances."
+    },
+    "verstand-idiom": {
+      "label": "sense or interpretation in a qualifying idiom",
+      "definition": "The meaning or interpretation in which something is taken, as in the strictest or proper sense, rather than the intellectual faculty of a person.",
+      "renderings": [
+        "sense"
+      ],
+      "rule": "Use sense for the cited qualifying idioms im strengsten/eigentlichen Verstände. A possessed phrase such as im Verstande des Redenden refers instead to the speaker’s understanding.",
+      "caution": "The preposition im alone is not a diagnostic. Syntax, possessor and the surrounding argument decide the local use."
+    }
+  },
+  "term_overrides": {},
+  "candidate_overrides": [
+    {
+      "id": "early:0216",
+      "disposition": "included",
+      "target": "Denkender",
+      "reason": "Substantivized participle: the person thinking in whose mind the word becomes an object, printed 381. Distinct from Sprechender; not a spelling or inflection of it."
+    }
+  ],
+  "carry_forward": {
+    "bildsam": {
+      "target": "Bildsamkeit",
+      "disposition": "derivational note, not a claimed source form",
+      "reason": "The old adjective label explained the noun’s family. No separate adjective occurrence is claimed; the actual local noun record is Bildsamkeit."
+    },
+    "eigentliche Literatur": {
+      "target": "Literatur",
+      "disposition": "qualified phrase",
+      "reason": "The adjective restriction remains in the individual Literatur record and its§2 source evidence, rather than being treated as a second lexical noun."
+    },
+    "abschleifen": {
+      "target": "abschleifend",
+      "disposition": "editorial infinitive linked to the attested participial use",
+      "reason": "The cited source form is abschleifenden in§1. The dictionary verb is a morphological control, not a falsely attested separate source infinitive."
+    },
+    "Wortvorrath": {
+      "target": "Wörtervorrath",
+      "disposition": "compound-label variant",
+      "reason": "Wortvorrath/Wörtervorrath and their inflections are preserved as forms of the vocabulary entry; no distinct technical sense or revision chronology is asserted."
+    }
+  },
+  "relations": [
+    {
+      "source": "Denkform",
+      "type": "near_equivalent",
+      "target": "Gedankenform",
+      "reason": "Both local compounds concern thought-form contrasted with Sprachform; no separate doctrine is inferred from the lexical difference."
+    },
+    {
+      "source": "Verkehr",
+      "type": "related",
+      "target": "Berührung",
+      "reason": "§1 distinguishes native interaction/dealings and contact; neither term alone certifies a particular mechanism of language mixture."
+    },
+    {
+      "source": "Sprachstamm",
+      "type": "distinguish_from",
+      "target": "Völkerstamm",
+      "reason": "Linguistic stock and human grouping are different bearers in the opening; continental grouping is not a certified modern language family."
+    },
+    {
+      "source": "Wurzel",
+      "type": "related",
+      "target": "Stammwort",
+      "reason": "§§74,121–122 distinguish relative lexical bases, grammatical/lexical root roles and unjustified derivation of every word from a root."
+    },
+    {
+      "source": "Begriffsbezeichnung",
+      "type": "related",
+      "target": "Sachbegriff",
+      "reason": "§§144–147 separate concept designation/substantive conceptual content from a relation indicated as relation; neither is simply an English meaning/denotation split."
+    }
+  ],
+  "evidence_overrides": {
+    "middle|Buchstabe|1|1": {
+      "term_form": "Buchstaben",
+      "evidence_role": "direct_occurrence",
+      "selection_note": "Narrowed the original locator expression to the actual headword form within it; the quotation is unchanged."
+    },
+    "middle|Form|1|1": {
+      "term_form": "Form",
+      "evidence_role": "direct_occurrence",
+      "selection_note": "Narrowed the original locator expression to the actual headword form within it; the quotation is unchanged."
+    },
+    "middle|Materie|1|1": {
+      "term_form": "Materie",
+      "evidence_role": "direct_occurrence",
+      "selection_note": "Narrowed the original locator expression to the actual headword form within it; the quotation is unchanged."
+    },
+    "middle|Bezeichnung|1|1": {
+      "term_form": "Bezeichnung",
+      "evidence_role": "direct_occurrence",
+      "selection_note": "Narrowed the original locator expression to the actual headword form within it; the quotation is unchanged."
+    },
+    "middle|Denken|1|1": {
+      "term_form": "Denken",
+      "evidence_role": "direct_occurrence",
+      "selection_note": "Narrowed the original locator expression to the actual headword form within it; the quotation is unchanged."
+    },
+    "middle|Methode|1|1": {
+      "term_form": "Methode",
+      "evidence_role": "direct_occurrence",
+      "selection_note": "Narrowed the original locator expression to the actual headword form within it; the quotation is unchanged."
+    },
+    "middle|Grammatik|1|1": {
+      "term_form": "Grammatik",
+      "evidence_role": "direct_occurrence",
+      "selection_note": "Narrowed the original locator expression to the actual headword form within it; the quotation is unchanged."
+    },
+    "middle|Grammatik|2|1": {
+      "term_form": "Grammatik",
+      "evidence_role": "direct_occurrence",
+      "selection_note": "Narrowed the original locator expression to the actual headword form within it; the quotation is unchanged."
+    },
+    "middle|Regel|1|1": {
+      "term_form": "Regel",
+      "evidence_role": "direct_occurrence",
+      "selection_note": "Narrowed the original locator expression to the actual headword form within it; the quotation is unchanged."
+    },
+    "middle|Gesetz|1|1": {
+      "term_form": "Gesetzen",
+      "evidence_role": "direct_occurrence",
+      "selection_note": "Narrowed the original locator expression to the actual headword form within it; the quotation is unchanged."
+    },
+    "middle|Vermögen|1|1": {
+      "term_form": "Vermögen",
+      "evidence_role": "direct_occurrence",
+      "selection_note": "Narrowed the original locator expression to the actual headword form within it; the quotation is unchanged."
+    },
+    "middle|Empfinden|1|1": {
+      "term_form": "Empfinden",
+      "evidence_role": "direct_occurrence",
+      "selection_note": "Narrowed the original locator expression to the actual headword form within it; the quotation is unchanged."
+    },
+    "middle|Element|1|1": {
+      "term_form": "Element",
+      "evidence_role": "direct_occurrence",
+      "selection_note": "Narrowed the original locator expression to the actual headword form within it; the quotation is unchanged."
+    },
+    "middle|Erfahrung|1|1": {
+      "term_form": "Erfahrung",
+      "evidence_role": "direct_occurrence",
+      "selection_note": "Narrowed the original locator expression to the actual headword form within it; the quotation is unchanged."
+    },
+    "middle|Wirklichkeit|1|1": {
+      "term_form": "Wirklichkeit",
+      "evidence_role": "direct_occurrence",
+      "selection_note": "Narrowed the original locator expression to the actual headword form within it; the quotation is unchanged."
+    },
+    "middle|Wirkung|1|1": {
+      "term_form": "Wirkung",
+      "evidence_role": "direct_occurrence",
+      "selection_note": "Narrowed the original locator expression to the actual headword form within it; the quotation is unchanged."
+    },
+    "middle|Verbindung|1|1": {
+      "term_form": "Verbindung",
+      "evidence_role": "direct_occurrence",
+      "selection_note": "Narrowed the original locator expression to the actual headword form within it; the quotation is unchanged."
+    },
+    "late|Ueberflüssigkeit|1|1": {
+      "term_form": "Ueberflüssigkeiten",
+      "evidence_role": "direct_occurrence",
+      "selection_note": "Narrowed the original locator expression to the actual headword form within it; the quotation is unchanged."
+    },
+    "late|Indifferentismus|1|1": {
+      "term_form": "Indifferentismus",
+      "evidence_role": "direct_occurrence",
+      "selection_note": "Narrowed the original locator expression to the actual headword form within it; the quotation is unchanged."
+    },
+    "middle|Form|7|2": {
+      "evidence_role": "supporting_context",
+      "term_form": null,
+      "selection_note": "Continuation/context explaining Form, not a new occurrence or spelling variant of Form."
+    },
+    "middle|Form|7|3": {
+      "evidence_role": "supporting_context",
+      "term_form": null,
+      "selection_note": "Continuation/context explaining Form, not a new occurrence or spelling variant of Form."
+    },
+    "middle|Schöpfungsvermögen|1|1": {
+      "evidence_role": "word_part",
+      "term_form": null,
+      "fragment": "Schöpfungs-",
+      "composite_group": "schoepfungsvermoegen-424-425",
+      "part_order": 1,
+      "selection_note": "One compound divided by print page-end hyphenation; neither fragment is a standalone variant of the whole headword."
+    },
+    "middle|Schöpfungsvermögen|1|2": {
+      "evidence_role": "word_part",
+      "term_form": null,
+      "fragment": "vermögen",
+      "composite_group": "schoepfungsvermoegen-424-425",
+      "part_order": 2,
+      "selection_note": "One compound divided by print page-end hyphenation; neither fragment is a standalone variant of the whole headword."
+    },
+    "middle|bezeichnender Begriff|1|1": {
+      "evidence_role": "elliptical_expression",
+      "term_form": null,
+      "expression_parts": [
+        "bezeichnenden",
+        "Begriffe"
+      ],
+      "selection_note": "The first coordinated modifier shares the following head noun by ellipsis; the phrase is not falsely quoted as contiguous."
+    }
+  },
+  "alias_reasons": {
+    "Organe": "Grammatical-number form of Organ; distinct bodily and instrumental uses remain sourced.",
+    "Ganzes": "Substantivized whole; the article/inflection does not create a second headword.",
+    "Adjectiva": "Attested Latin plural label retained under the singular label Adjectivum.",
+    "Adverbia": "Attested Latin plural label retained under Adverbium.",
+    "Participien": "Attested plural label retained under Participium.",
+    "Wortvorrath": "Observed compound-label variation with Wörtervorrath; no distinct technical meaning established.",
+    "Pluralis": "Full Latin grammatical label and shortened label name the same number category in the cited uses.",
+    "Intellectualität": "Same lexeme with historical ae/ä spelling or editorial nominalization/capitalization. This canonical lookup choice does not claim that every alias is a checked print form; form roles retain that distinction.",
+    "Subjectivität": "Same lexeme with historical ae/ä spelling or editorial nominalization/capitalization. This canonical lookup choice does not claim that every alias is a checked print form; form roles retain that distinction.",
+    "Totalität": "Same lexeme with historical ae/ä spelling or editorial nominalization/capitalization. This canonical lookup choice does not claim that every alias is a checked print form; form roles retain that distinction.",
+    "symbolisiren": "Same lexeme with historical ae/ä spelling or editorial nominalization/capitalization. This canonical lookup choice does not claim that every alias is a checked print form; form roles retain that distinction."
+  },
+  "relation_overrides": {
+    "Alphabet|Lautsystem": {
+      "type": "related",
+      "reason": "In§56 Alphabet is explained as a system of articulated sounds. The link concerns that audible inventory/system use, not writing or an asserted part/whole taxonomy."
+    },
+    "Geist|Seele": {
+      "type": "related",
+      "reason": "Related inward-bearer lexemes; the records do not establish an invariant faculty opposition."
+    },
+    "Sprachkraft|Sprachvermögen": {
+      "type": "related",
+      "reason": "Related expressions whose local roles must be inspected; separate lexemes do not prove a strict two-faculty theory."
+    },
+    "Sprachkunde|Sprachforschung": {
+      "type": "related",
+      "reason": "Related inquiry vocabulary; no invariant boundary between historical disciplines is established."
+    },
+    "Weltansicht|Weltvorstellung": {
+      "type": "related",
+      "reason": "Different observed formulations kept searchable; no invariant semantic opposition is inferred merely from different nouns."
+    },
+    "Stamm|Wurzel": {
+      "type": "related",
+      "reason": "Stamm has human-group and lexical-base uses; Wurzel belongs to word-formation analysis. Compare only the relevant local use rather than positing one universal opposition."
+    },
+    "Wort|Laut": {
+      "type": "constitutive_aspect",
+      "reason": "Sound is the word’s sensible contribution in§72; the word is treated as a unity, not as an independently complete sound plus an independently finished concept."
+    },
+    "Grammatik|allgemeine Grammatik": {
+      "type": "qualified_term",
+      "reason": "The modifier specifies a general-grammar inquiry in the cited contexts; it does not identify every use of Grammatik with modern universal grammar."
+    },
+    "Phantasie|Zuverlässigkeit": {
+      "type": "methodological_caution",
+      "reason": "Imaginative historical/etymological discovery does not by itself establish secure evidence; these are not two psychological faculties in a taxonomy."
+    }
+  },
+  "control_links": [
+    {
+      "headword": "Bildung",
+      "control_id": "control:prep:LEX-BILDEN",
+      "relation": "period word-family control",
+      "comment": "The dictionary entry is bilden; this is an explicitly indirect formation-family comparison, not an invented Bildung technical definition."
+    },
+    {
+      "headword": "Anschauung",
+      "control_id": "control:prep:LEX-ANSCHAUEN",
+      "relation": "period word-family control",
+      "comment": "The consulted entry is anschauen; the noun’s local senses still depend on their own Humboldt quotations."
+    },
+    {
+      "headword": "abschleifend",
+      "control_id": "control:prep:LEX-ABSCHLEIFEN",
+      "relation": "period verb/participle comparison",
+      "comment": "The consulted verb supplies the abrasive/smoothing range; the actual opening participle and its bearer are separately quoted."
+    },
+    {
+      "headword": "Treue",
+      "control_id": "control:prep:NORD",
+      "relation": "project-policy comparison",
+      "comment": "Nord’s purpose/loyalty framework is a later translation-policy control, not a lexical equivalent or historical definition of Humboldt’s Treue."
+    }
+  ],
+  "form_exclusions": {
+    "Sprechender": [
+      "Denkenden"
+    ]
+  },
+  "form_exclusion_reasons": {
+    "Sprechender|Denkenden": "Denkenden on printed 381 is the person thinking, not an inflection of Sprechender; preserve the distinct word and its own local evidence."
+  }
+}

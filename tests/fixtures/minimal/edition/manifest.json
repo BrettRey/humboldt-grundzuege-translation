@@ -1,0 +1,18 @@
+{
+  "datasets": [
+    {
+      "path": "passages/minimal.json",
+      "sha256": "a4f35bdd2095d335b8734ac42c6e341a44e556ca1498b6b2ccafd2afdf8f71d1"
+    }
+  ],
+  "format": "humboldt.edition",
+  "id": "synthetic-test-edition",
+  "resources": [
+    {
+      "path": "sources/fixture.txt",
+      "required": false,
+      "sha256": "dd7aaf64a3e9ae29d44de682182fac0d9c4bd94de36b1b30f247bb15c7a780eb"
+    }
+  ],
+  "schema_version": 1
+}

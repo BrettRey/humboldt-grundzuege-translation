@@ -1,0 +1,76 @@
+{
+  "anchors": [
+    {
+      "id": "definition",
+      "sentence": "s05",
+      "german": "eine so feste und reine Andeutung",
+      "english": "an indication of the grammatical relation in the audible part of language itself that is so fixed and pure",
+      "label": "definition",
+      "note": "Fixed and pure audible indication; the full sentence retains both conditions."
+    },
+    {
+      "id": "shared-condition",
+      "sentence": "s05",
+      "german": "und die Art der Andeutung gar nicht für eine Begriffsbezeichnung genommen werden kann",
+      "english": "and that the manner of indication cannot be taken as a designation of a concept at all",
+      "label": "shared-condition",
+      "note": "Second criterion kept under that, not an unconditioned general assertion."
+    },
+    {
+      "id": "independent-point",
+      "sentence": "s06",
+      "german": "einen festen, nicht wieder nur an seiner Stellung erkenntlichen Punkt",
+      "english": "a fixed point that is not itself recognizable merely by its position",
+      "label": "independent-point",
+      "note": "Independent identifiability, not merely fixed serial order."
+    },
+    {
+      "id": "content-concept",
+      "sentence": "s07",
+      "german": "durch einen Sachbegriff",
+      "english": "through a concept with substantive content",
+      "label": "content-concept",
+      "note": "Content need not be a noun or concrete object."
+    },
+    {
+      "id": "observer-proviso",
+      "sentence": "s10",
+      "german": "wenn man nur nicht darauf achtet",
+      "english": "provided one pays no attention",
+      "label": "observer-proviso",
+      "note": "Negated observer proviso preserved."
+    },
+    {
+      "id": "outside-order",
+      "sentence": "s12",
+      "german": "weil es ihr an einem festen Mittelpunkt ausser ihr fehlt",
+      "english": "because it lacks a fixed centre outside itself",
+      "label": "outside-order",
+      "note": "Itself refers to position, not to language or an external metaphysical realm."
+    },
+    {
+      "id": "relation-word",
+      "sentence": "s13",
+      "german": "in wirkliche Verhältnisswörter übergehen",
+      "english": "pass into actual relational words",
+      "label": "relation-word",
+      "note": "Actual does not silently replace ächt with the same English word."
+    },
+    {
+      "id": "alone-limit",
+      "sentence": "s18",
+      "german": "es lässt sich also nicht immer allein mehr der Sprache ansehen",
+      "english": "it is no longer always possible to tell from the language alone",
+      "label": "alone-limit",
+      "note": "Retains not always and the evidential limitation."
+    },
+    {
+      "id": "historical-knowledge",
+      "sentence": "s18",
+      "german": "man müsste dazu die Auffassungsweise der Nation, und diese in verschiednen Epochen kennen",
+      "english": "one would have to know the nation’s manner of apprehension, and to know it at different epochs",
+      "label": "historical-knowledge",
+      "note": "Historical knowledge remains a requirement, not supplied evidence."
+    }
+  ]
+}

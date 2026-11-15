@@ -1,0 +1,44 @@
+[
+  {
+    "id": "form",
+    "sentence": "s05",
+    "quote": "grammatischer Form",
+    "headword": "grammatische Form",
+    "sense_id": "lex:grammatische-form:s04"
+  },
+  {
+    "id": "indication",
+    "sentence": "s05",
+    "quote": "feste und reine Andeutung",
+    "headword": "Andeutung",
+    "sense_id": "lex:andeutung:s02"
+  },
+  {
+    "id": "content",
+    "sentence": "s07",
+    "quote": "Sachbegriff",
+    "headword": "Sachbegriff",
+    "sense_id": "lex:sachbegriff:s02"
+  },
+  {
+    "id": "apprehension",
+    "sentence": "s04",
+    "quote": "Auffassung",
+    "headword": "Auffassung",
+    "sense_id": "lex:auffassung:s02"
+  },
+  {
+    "id": "word",
+    "sentence": "s13",
+    "quote": "Sachwörter",
+    "headword": "Sachwort",
+    "sense_id": "lex:sachwort:s01"
+  },
+  {
+    "id": "meaning",
+    "sentence": "s17",
+    "quote": "Sachbedeutung",
+    "headword": "Sachbedeutung",
+    "sense_id": "lex:sachbedeutung:s01"
+  }
+]

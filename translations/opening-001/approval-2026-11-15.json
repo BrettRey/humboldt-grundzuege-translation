@@ -1,0 +1,17 @@
+{
+  "recorded_at": "2026-11-15T12:09:23.800695+00:00",
+  "reviewed_path": "translations/opening-001/revised.md",
+  "reviewed_bytes": 4693,
+  "reviewed_sha256": "6d3248bb508e45fc4812dcfd2e3c56c08e41690ab9ed183a7c56d7992151f7d5",
+  "original_body_sha256": "83b11d5ca8f8936e5c49ff0f3afc458fb06db3b83a229f1edf7b1c98fa91e886",
+  "body_integrity": "Complete opened body retained exactly; only overall comment appended.",
+  "completion_event_observed": true,
+  "completion_event_count": 1,
+  "user_comment": "looks good",
+  "user_comment_at": "2026-11-15T11:55:54.467Z",
+  "user_next_instruction": "proceed",
+  "scope": "English readability and editorial usefulness accepted; no independent source-language certification. Proceed interpreted as one equivalent bounded cycle for §2, stopping before §3.",
+  "english_version": "en-revised-v2",
+  "sealed_English_json_sha256": "510782ce9ada63b3d31442618881d6a90b25ab2385f5b4b9ebbacdb40743bda2",
+  "archive": "tmp/opening-001-cycle/revised-approved.md"
+}

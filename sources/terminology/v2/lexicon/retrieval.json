@@ -1,0 +1,410 @@
+[
+  {
+    "lemma": "Verstand",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_5_0_911",
+    "title": "Der Verstand",
+    "search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Verstand",
+    "status": "consulted digital entries",
+    "edition": "BSB digital1811 edition; article capture may contain errors",
+    "source_path": "sources/raw/lexicon-v2/adelung-verstand.html",
+    "source_sha256": "541e587f01332b00bed7ba5d5000d41b645ee93fd82679677293b827feb0e2d0",
+    "text_path": "sources/terminology/v2/lexicon/adelung-verstand.txt",
+    "text_sha256": "81c937549cb7d12758965bff48249d1891800a24e97c15bd02e16eb66e48f3d0",
+    "consulted_sections": "subjective faculty and objective meaning/sense",
+    "consultation_status": "consulted; no etymology or historical linguistic claims validated"
+  },
+  {
+    "lemma": "Vernunft",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_5_0_637",
+    "title": "Die Vernunft",
+    "search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Vernunft",
+    "status": "consulted digital entries",
+    "edition": "BSB digital1811 edition; article capture may contain errors",
+    "source_path": "sources/raw/lexicon-v2/adelung-vernunft.html",
+    "source_sha256": "b75ea01be2e671e871a9e3c5f6885a606e566f8528a065292e56c7300fb9c607",
+    "text_path": "sources/terminology/v2/lexicon/adelung-vernunft.txt",
+    "text_sha256": "c8183b312ee90516a080e35afffac6dcbe71a81e1b0c510e155a492d5568a298",
+    "consulted_sections": "§2 subjective and objective uses",
+    "consultation_status": "consulted; no etymology or historical linguistic claims validated"
+  },
+  {
+    "lemma": "Seele",
+    "search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Seele",
+    "status": "consulted digital entries",
+    "returned": [
+      [
+        "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_2_0_116",
+        "1. Die Seele"
+      ],
+      [
+        "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_2_0_117",
+        "2. Die Seele"
+      ]
+    ],
+    "articles": [
+      {
+        "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_2_0_116",
+        "title": "1. Die Seele",
+        "source_path": "sources/raw/lexicon-v2/adelung-seele-1.html",
+        "source_sha256": "166713d9389fc26b5f56ef1156856183f94595514fff7da4cd8ef7734302d2f3",
+        "text_path": "sources/terminology/v2/lexicon/adelung-seele-1.txt",
+        "text_sha256": "a727a63ee2adc7ea1e6068b1577afcfba914ac9c55883affac62f9c3b33376bb",
+        "consulted_sections": "numbered homograph1",
+        "consultation_status": "consulted; no etymology or historical linguistic claims validated"
+      },
+      {
+        "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_2_0_117",
+        "title": "2. Die Seele",
+        "source_path": "sources/raw/lexicon-v2/adelung-seele-2.html",
+        "source_sha256": "83b7dc880282d1534de22a4386c7969a6b475241dc58d250cdd98f93af628697",
+        "text_path": "sources/terminology/v2/lexicon/adelung-seele-2.txt",
+        "text_sha256": "1964936d599ab2f7c8a8dcb058e27871c52c2ee8d83816125eb24c3219e27056",
+        "consulted_sections": "numbered homograph2, senses2–3",
+        "consultation_status": "consulted; no etymology or historical linguistic claims validated"
+      }
+    ],
+    "search_encoding_note": "Native form uses ISO-8859-1; UTF-8 search gave false negatives for umlauts. Numbered homographs retained separately."
+  },
+  {
+    "lemma": "Gemüth",
+    "search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Gem%C3%BCth",
+    "status": "consulted digital entries",
+    "returned": [],
+    "native_encoding_search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Gem%FCth",
+    "native_encoding_results": [
+      [
+        "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009132_2_1_1251",
+        "Das Gemüth"
+      ]
+    ],
+    "articles": [
+      {
+        "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009132_2_1_1251",
+        "title": "Das Gemüth",
+        "source_path": "sources/raw/lexicon-v2/adelung-gemüth.html",
+        "source_sha256": "4ab76a19d1380f6eaf95b0b464eca869f4ce441bd57ff8641255e48bde9a668e",
+        "text_path": "sources/terminology/v2/lexicon/adelung-gemüth.txt",
+        "text_sha256": "431f6f6902c061b23070e66a6edd887469f27e3d17be22b6806937c19bd0ae80",
+        "consulted_sections": "headword definition",
+        "consultation_status": "consulted; no etymology or historical linguistic claims validated"
+      }
+    ],
+    "search_encoding_note": "Native form uses ISO-8859-1; UTF-8 search gave false negatives for umlauts. Numbered homographs retained separately."
+  },
+  {
+    "lemma": "Einbildungskraft",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009131_7_0_406",
+    "title": "Die Einbildungskraft",
+    "search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Einbildungskraft",
+    "status": "consulted digital entries",
+    "edition": "BSB digital1811 edition; article capture may contain errors",
+    "source_path": "sources/raw/lexicon-v2/adelung-einbildungskraft.html",
+    "source_sha256": "521b5ce0f5545a1c4969494b5233d2ea2a731011f036e949876edc6ea5369bce",
+    "text_path": "sources/terminology/v2/lexicon/adelung-einbildungskraft.txt",
+    "text_sha256": "fd1b15de2327e8f1fbd0b360119bc86aa595a696a459c2b33bfee2f9bca72db9",
+    "consulted_sections": "headword definition",
+    "consultation_status": "consulted; no etymology or historical linguistic claims validated"
+  },
+  {
+    "lemma": "Vorstellung",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_5_1_1841",
+    "title": "Die Vorstellung",
+    "search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Vorstellung",
+    "status": "consulted digital entries",
+    "edition": "BSB digital1811 edition; article capture may contain errors",
+    "source_path": "sources/raw/lexicon-v2/adelung-vorstellung.html",
+    "source_sha256": "c636ae5940893a53af3783ae79068ab9f8fb762286e34edf13e1e3da49c3bb27",
+    "text_path": "sources/terminology/v2/lexicon/adelung-vorstellung.txt",
+    "text_sha256": "46177c39b5c6e5a9c86e1e41b113464d5fbd2524ba86da8b44eb7f4eaf553c69",
+    "consulted_sections": "§2(3), mental use",
+    "consultation_status": "consulted; no etymology or historical linguistic claims validated"
+  },
+  {
+    "lemma": "Anschauung",
+    "search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Anschauung",
+    "status": "no unique exact headword",
+    "returned": []
+  },
+  {
+    "lemma": "Empfindung",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009131_7_1_1194",
+    "title": "Die Empfindung",
+    "search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Empfindung",
+    "status": "consulted digital entries",
+    "edition": "BSB digital1811 edition; article capture may contain errors",
+    "source_path": "sources/raw/lexicon-v2/adelung-empfindung.html",
+    "source_sha256": "afff0fd43367ef54d3c29232e2265f583763e1716e7172125ef4f417e5e91008",
+    "text_path": "sources/terminology/v2/lexicon/adelung-empfindung.txt",
+    "text_sha256": "99cddadb9c96121fc99ac590a476df52068c8a8cbb55912ee8797aa04214c942",
+    "consulted_sections": "numbered senses1–3",
+    "consultation_status": "consulted; no etymology or historical linguistic claims validated"
+  },
+  {
+    "lemma": "Gefühl",
+    "search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Gef%C3%BChl",
+    "status": "consulted digital entries",
+    "returned": [],
+    "native_encoding_search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Gef%FChl",
+    "native_encoding_results": [
+      [
+        "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009132_2_0_724",
+        "1. Das Gefühl"
+      ],
+      [
+        "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009132_2_0_725",
+        "2. Das Gefühl"
+      ]
+    ],
+    "articles": [
+      {
+        "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009132_2_0_724",
+        "title": "1. Das Gefühl",
+        "source_path": "sources/raw/lexicon-v2/adelung-gefühl-1.html",
+        "source_sha256": "12ad0b7f052a721605cb0e90af9f87944fafc334c3b8b7531dfcb7110ef4584a",
+        "text_path": "sources/terminology/v2/lexicon/adelung-gefühl-1.txt",
+        "text_sha256": "f2f50f93cdac5dd5089a9813fd552c29585091e3a6bc35c984346ddc78f5110a",
+        "consulted_sections": "numbered homograph1",
+        "consultation_status": "consulted; no etymology or historical linguistic claims validated"
+      },
+      {
+        "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009132_2_0_725",
+        "title": "2. Das Gefühl",
+        "source_path": "sources/raw/lexicon-v2/adelung-gefühl-2.html",
+        "source_sha256": "7385b98bdd3ba812b5105cad0cd3c1ff952aacb41bf581b735f1b2febbfb7de5",
+        "text_path": "sources/terminology/v2/lexicon/adelung-gefühl-2.txt",
+        "text_sha256": "4703241e6a92aa86ada9d79b467c1107fd5c64768428b915225c9c47b9ee4735",
+        "consulted_sections": "numbered homograph2, senses1–2",
+        "consultation_status": "consulted; no etymology or historical linguistic claims validated"
+      }
+    ],
+    "search_encoding_note": "Native form uses ISO-8859-1; UTF-8 search gave false negatives for umlauts. Numbered homographs retained separately."
+  },
+  {
+    "lemma": "Bedeutung",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009131_4_0_919",
+    "title": "Die Bedeutung",
+    "search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Bedeutung",
+    "status": "consulted digital entries",
+    "edition": "BSB digital1811 edition; article capture may contain errors",
+    "source_path": "sources/raw/lexicon-v2/adelung-bedeutung.html",
+    "source_sha256": "eebf177915f31ca4e028548694be0242087a74f8518ea9229e1838d27d859230",
+    "text_path": "sources/terminology/v2/lexicon/adelung-bedeutung.txt",
+    "text_sha256": "cb90f4f5a63bf93ff476118597367bc54147c6cb18a31e91b9979d0e8790d887",
+    "consulted_sections": "§2(b)–(c)",
+    "consultation_status": "consulted; no etymology or historical linguistic claims validated"
+  },
+  {
+    "lemma": "Bezeichnung",
+    "search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Bezeichnung",
+    "status": "no unique exact headword",
+    "returned": []
+  },
+  {
+    "lemma": "Zeichen",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_9_0_278",
+    "title": "Das Zeichen",
+    "search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Zeichen",
+    "status": "consulted digital entries",
+    "edition": "BSB digital1811 edition; article capture may contain errors",
+    "source_path": "sources/raw/lexicon-v2/adelung-zeichen.html",
+    "source_sha256": "d96aedef65e48011dd51ebc911d24b3218fe8620b00dab910f7de34d54f0335b",
+    "text_path": "sources/terminology/v2/lexicon/adelung-zeichen.txt",
+    "text_sha256": "41c760044cd2a2818ca767a858660639b13affb77cd6b30361087c47fc5451ba",
+    "consulted_sections": "§2",
+    "consultation_status": "consulted; no etymology or historical linguistic claims validated"
+  },
+  {
+    "lemma": "Symbol",
+    "search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Symbol",
+    "status": "no unique exact headword",
+    "returned": []
+  },
+  {
+    "lemma": "Wort",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_6_2_2820",
+    "title": "Das Wort",
+    "search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Wort",
+    "status": "consulted digital entries",
+    "edition": "BSB digital1811 edition; article capture may contain errors",
+    "source_path": "sources/raw/lexicon-v2/adelung-wort.html",
+    "source_sha256": "ae0019127914cc1595246e11549526738b63337d1e391215ffbc8af572f28e41",
+    "text_path": "sources/terminology/v2/lexicon/adelung-wort.txt",
+    "text_sha256": "d18b67b763b5bd9298fdd175264abd208e59cff821be160d3fad1682be663cc6",
+    "consulted_sections": "§1 and§2",
+    "consultation_status": "consulted; no etymology or historical linguistic claims validated"
+  },
+  {
+    "lemma": "Satz",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009133_7_0_457",
+    "title": "Der Satz",
+    "search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Satz",
+    "status": "consulted digital entries",
+    "edition": "BSB digital1811 edition; article capture may contain errors",
+    "source_path": "sources/raw/lexicon-v2/adelung-satz.html",
+    "source_sha256": "dbf799c064618846ca9a802a8aaa77928f43cd1e53e53143988c1b0ba379f559",
+    "text_path": "sources/terminology/v2/lexicon/adelung-satz.txt",
+    "text_sha256": "aad5d80e63d01c010894aad46096b2367ffd1742d2d3b6a67ff4f696044fc414",
+    "consulted_sections": "§2(2)(a), logical use",
+    "consultation_status": "consulted; no etymology or historical linguistic claims validated"
+  },
+  {
+    "lemma": "Periode",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009133_4_0_440",
+    "title": "Die Periode",
+    "search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Periode",
+    "status": "consulted digital entries",
+    "edition": "BSB digital1811 edition; article capture may contain errors",
+    "source_path": "sources/raw/lexicon-v2/adelung-periode.html",
+    "source_sha256": "e726ca29bd958e90c518844206216427659953ed95393c30e2ffca6a48141940",
+    "text_path": "sources/terminology/v2/lexicon/adelung-periode.txt",
+    "text_sha256": "43078f9e5d3c8bbd4cf1095abe18aa61663090021bd7625f47a77ef99cfe16c7",
+    "consulted_sections": "§1 rhetoric",
+    "consultation_status": "consulted; no etymology or historical linguistic claims validated"
+  },
+  {
+    "lemma": "Grammatik",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009132_2_2_2858",
+    "title": "Die Grammatik",
+    "search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Grammatik",
+    "status": "consulted digital entries",
+    "edition": "BSB digital1811 edition; article capture may contain errors",
+    "source_path": "sources/raw/lexicon-v2/adelung-grammatik.html",
+    "source_sha256": "8ad3eae91dc5858c22b4d9e06e80807a99d31e612a9b188407c8e6488b3a25b2",
+    "text_path": "sources/terminology/v2/lexicon/adelung-grammatik.txt",
+    "text_sha256": "3d96687a265d58810334dd793ae4dd577fe4c9c3c1a81c6e44ca6d4dc3b9cffa",
+    "consulted_sections": "headword and derivations",
+    "consultation_status": "consulted; no etymology or historical linguistic claims validated"
+  },
+  {
+    "lemma": "Sprache",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_2_1_1744",
+    "title": "Die Sprache",
+    "search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Sprache",
+    "status": "consulted digital entries",
+    "edition": "BSB digital1811 edition; article capture may contain errors",
+    "source_path": "sources/raw/lexicon-v2/adelung-sprache.html",
+    "source_sha256": "2263f0f5c9733de5a08beba57f4844e24f16da3d057a36b1b76381efd171de50",
+    "text_path": "sources/terminology/v2/lexicon/adelung-sprache.txt",
+    "text_sha256": "246e10fcf74ed48ae789d651d2ad4661f575d73332eeb13c4194fbe13d60057f",
+    "consulted_sections": "abstract§1 and concrete§2",
+    "consultation_status": "consulted; no etymology or historical linguistic claims validated"
+  },
+  {
+    "lemma": "Thätigkeit",
+    "search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Th%C3%A4tigkeit",
+    "status": "consulted digital entries",
+    "returned": [],
+    "native_encoding_search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Th%E4tigkeit",
+    "native_encoding_results": [
+      [
+        "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_3_0_442",
+        "Die Thätigkeit"
+      ]
+    ],
+    "articles": [
+      {
+        "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_3_0_442",
+        "title": "Die Thätigkeit",
+        "source_path": "sources/raw/lexicon-v2/adelung-thätigkeit.html",
+        "source_sha256": "b43b9a2af7518a98df54d9eb288030ff042281c4eb77715b9992162ddb30e18d",
+        "text_path": "sources/terminology/v2/lexicon/adelung-thätigkeit.txt",
+        "text_sha256": "609fe260fbbdf1e6b8227ffa84d6fbd651e6e4a338a385ae5c19155191ad634f",
+        "consulted_sections": "headword definition",
+        "consultation_status": "consulted; no etymology or historical linguistic claims validated"
+      }
+    ],
+    "search_encoding_note": "Native form uses ISO-8859-1; UTF-8 search gave false negatives for umlauts. Numbered homographs retained separately."
+  },
+  {
+    "lemma": "Wirkung",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_6_2_2527",
+    "title": "Die Wirkung",
+    "search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Wirkung",
+    "status": "consulted digital entries",
+    "edition": "BSB digital1811 edition; article capture may contain errors",
+    "source_path": "sources/raw/lexicon-v2/adelung-wirkung.html",
+    "source_sha256": "df498b1d7042748eab5cba7486f82b4606fc351585dcc080751696364be25a64",
+    "text_path": "sources/terminology/v2/lexicon/adelung-wirkung.txt",
+    "text_sha256": "54d539b5e96c68e9663a5c84ddd632b5e71b1137e69a7aeaebe584ba29eb8eac",
+    "consulted_sections": "headword definition",
+    "consultation_status": "consulted; no etymology or historical linguistic claims validated"
+  },
+  {
+    "lemma": "Vermögen",
+    "search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Verm%C3%B6gen",
+    "status": "consulted digital entries",
+    "returned": [],
+    "native_encoding_search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Verm%F6gen",
+    "native_encoding_results": [
+      [
+        "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_5_0_609",
+        "Vermögen"
+      ],
+      [
+        "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_5_0_610",
+        "Das Vermögen"
+      ]
+    ],
+    "articles": [
+      {
+        "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_5_0_609",
+        "title": "Vermögen",
+        "source_path": "sources/raw/lexicon-v2/adelung-vermögen-1.html",
+        "source_sha256": "772a00d2dad731dd78278da7068fc1615a8930b1204696e7344d4294d2e30ab2",
+        "text_path": "sources/terminology/v2/lexicon/adelung-vermögen-1.txt",
+        "text_sha256": "83da66cad71d965beeef1d6bccc8afee18bd23e49fb655e28d776beb442d4ab7",
+        "consulted_sections": "verb, senses1–3",
+        "consultation_status": "consulted; no etymology or historical linguistic claims validated"
+      },
+      {
+        "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_5_0_610",
+        "title": "Das Vermögen",
+        "source_path": "sources/raw/lexicon-v2/adelung-vermögen-2.html",
+        "source_sha256": "27f0152e943036b661e01fa83adba20af6a1dfe746634d87f861399ac6438c88",
+        "text_path": "sources/terminology/v2/lexicon/adelung-vermögen-2.txt",
+        "text_sha256": "02a67992da3f411f2f206d0abdb7573cde49b836de34935182efd16eb2f08a92",
+        "consulted_sections": "noun,§1",
+        "consultation_status": "consulted; no etymology or historical linguistic claims validated"
+      }
+    ],
+    "search_encoding_note": "Native form uses ISO-8859-1; UTF-8 search gave false negatives for umlauts. Numbered homographs retained separately."
+  },
+  {
+    "lemma": "Organismus",
+    "search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Organismus",
+    "status": "no unique exact headword",
+    "returned": []
+  },
+  {
+    "lemma": "Formell",
+    "search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Formell",
+    "status": "no unique exact headword",
+    "returned": []
+  },
+  {
+    "lemma": "Willkühr",
+    "search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Willk%C3%BChr",
+    "status": "consulted digital entries",
+    "returned": [],
+    "native_encoding_search_url": "https://lexika.digitale-sammlungen.de/adelung/suche/abfrage?lemma=Willk%FChr",
+    "native_encoding_results": [
+      [
+        "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_6_2_2234",
+        "Die Willkühr"
+      ]
+    ],
+    "articles": [
+      {
+        "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_6_2_2234",
+        "title": "Die Willkühr",
+        "source_path": "sources/raw/lexicon-v2/adelung-willkühr.html",
+        "source_sha256": "15a5f58c2bb0e445773f9bf0f88b00feadc8bb979a4031f7861727c1e123f47a",
+        "text_path": "sources/terminology/v2/lexicon/adelung-willkühr.txt",
+        "text_sha256": "dd4965865de148df7bd741170cab79d4e4a779ebe94b76431f6cda08f020fb26",
+        "consulted_sections": "senses1–2",
+        "consultation_status": "consulted; no etymology or historical linguistic claims validated"
+      }
+    ],
+    "search_encoding_note": "Native form uses ISO-8859-1; UTF-8 search gave false negatives for umlauts. Numbered homographs retained separately."
+  }
+]

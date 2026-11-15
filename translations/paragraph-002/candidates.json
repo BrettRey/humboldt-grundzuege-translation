@@ -1,0 +1,212 @@
+{
+  "status": "Frozen fresh §2 candidates; not fidelity-approved.",
+  "candidates": [
+    {
+      "id": "claude",
+      "model": "claude-fable-5-2",
+      "prompt_sha256": "7d70e52a767d3b6fcf9bb7dea75465bdd7a70a4fe7da30b80f8d257b77d4b20a",
+      "exit_code": 0,
+      "elapsed_seconds": 37.2,
+      "raw_stdout_sha256": "8b19baa6838bc3e615060df0ad704f6005682088bb657e0d6f79a9d30f92b40a",
+      "sentences": [
+        {
+          "id": "g2:s1",
+          "english": "Now the striking similarity of the American languages also speaks in favour of this."
+        },
+        {
+          "id": "g2:s2",
+          "english": "In the cultivation of the nations to which they belong there have certainly been significant differences, unmistakable also in the languages themselves; yet the lack of alphabetic writing, and hence of literature proper, nonetheless sets all of them, without exception, equal on a lower level."
+        },
+        {
+          "id": "g2:s3",
+          "english": "The sameness of their structure, which has sometimes been falsely asserted, does indeed vanish before more deeply penetrating research, just as does the deviation from the structure of all other languages, which has at times also been asserted; but all the languages of America do really present great features of similarity, and the north and south of that part of the world do not even allow truly separating boundaries to be drawn in this respect."
+        }
+      ],
+      "notes": [
+        {
+          "source_ids": [
+            "g2:s1"
+          ],
+          "issue": "'Dafür' points back to §1, which is context only and not translated; 'nun' is a discourse particle, not clearly temporal.",
+          "choice": "'in favour of this', with the antecedent left open as in the German; 'Now' as a sentence-opening connective.",
+          "alternative": "'This is now also supported by the striking similarity of the American languages.'",
+          "uncertainty": "Low for the sense. Which §1 claim is meant (isolation from foreign influence, or the wearing-down effect of purely internal intercourse) is not settled by §2 itself."
+        },
+        {
+          "source_ids": [
+            "g2:s2"
+          ],
+          "issue": "Pronoun reference: 'sie' (welchen sie angehören), 'in ihnen selbst' and 'alle'.",
+          "choice": "'sie' is the languages, so 'in ihnen selbst' is rendered explicitly as 'in the languages themselves'; 'alle' is kept as the open 'all of them'.",
+          "alternative": "'in ihnen selbst' could mean in the nations themselves; 'alle' could be all the nations or all the languages.",
+          "uncertainty": "Moderate. The explicit 'the languages themselves' is an interpretive resolution and could revert to 'in them themselves' to keep the German ambiguity. The reference of 'alle' is not grammatically decidable."
+        },
+        {
+          "source_ids": [
+            "g2:s2"
+          ],
+          "issue": "'Ausbildung' and 'auf einer niedrigeren Stufe gleichstellen'. This is the author's evaluative ranking, which the parallel fragment lacks; it is retained without endorsement.",
+          "choice": "'cultivation'; 'sets all of them ... equal on a lower level', keeping the comparative and the dative (location, not movement).",
+          "alternative": "'development', 'formation' or 'education' for Ausbildung; 'a rather low level' if the comparative is absolute.",
+          "uncertainty": "Moderate on 'Ausbildung', where no dictionary was consulted. The comparative has no stated standard of comparison, so 'lower' than what is left implicit as in the German."
+        },
+        {
+          "source_ids": [
+            "g2:s3"
+          ],
+          "issue": "Asymmetric qualification of the two asserted views, and the terms 'Einerleiheit' and 'Aehnlichkeit'.",
+          "choice": "'falsely' is attached only to the asserted sameness; the deviation is 'at times also asserted' ('auch wohl'), though both are said to vanish. 'Sameness' for Einerleiheit, 'similarity' for Aehnlichkeit, 'great features' for 'grosse Züge'.",
+          "alternative": "'identity' or 'uniformity' for Einerleiheit; 'broad traits of resemblance'; 'wohl' as 'presumably' or 'no doubt' instead of 'at times'.",
+          "uncertainty": "Moderate on the force of 'auch wohl'. 'ebenso als' is taken as the older equivalent of 'ebenso wie'."
+        },
+        {
+          "source_ids": [
+            "g2:s3"
+          ],
+          "issue": "Scope of 'nicht einmal' and reference of 'darin'; singular 'erlaubt' with the coordinated subject 'der Norden und Süden'; 'Welttheil'; 'abscheidende'.",
+          "choice": "'do not even allow ... in this respect', with 'darin' taken as pointing back to structure or similarity; plural English verb; 'that part of the world'; 'separating'.",
+          "alternative": "'not even in this do the north and south permit ...' (focus on 'darin'); 'not even the north and the south permit ...' (focus on the subject); 'continent'; 'dividing' or 'demarcating'.",
+          "uncertainty": "Moderate to high on focus and on the antecedent of 'darin'. English word order cannot keep all the readings open, and a stronger grammatical argument could overturn the choice."
+        }
+      ]
+    },
+    {
+      "id": "muse",
+      "model": "muse-wonder-full-1.0",
+      "prompt_sha256": "7d70e52a767d3b6fcf9bb7dea75465bdd7a70a4fe7da30b80f8d257b77d4b20a",
+      "exit_code": 0,
+      "elapsed_seconds": 28.5,
+      "raw_stdout_sha256": "c202a247c5f7a94f3c0e5b74b145e902c31fafd94276134cd69a14c0be9a74c9",
+      "sentences": [
+        {
+          "id": "g2:s1",
+          "english": "The striking similarity of the American languages also now speaks in favour of this."
+        },
+        {
+          "id": "g2:s2",
+          "english": "In the development of the nations to which they belong there have certainly been considerable differences, unmistakable also in them themselves, but the lack of alphabetic writing, and hence of literature in the proper sense, nevertheless places all of them, without exception, equally on a lower level."
+        },
+        {
+          "id": "g2:s3",
+          "english": "The uniformity of their structure, sometimes falsely asserted, does indeed disappear before more deeply penetrating research, just as does the deviation from the structure of all other languages that has also been asserted; but all the languages of America nevertheless really do exhibit broad features of similarity, and the north and south of the continent does not in this respect even allow truly separating boundaries to be drawn."
+        }
+      ],
+      "notes": [
+        {
+          "source_ids": [
+            "g2:s1"
+          ],
+          "issue": "Dafür is anaphoric and its referent lies in the preceding context, which is not translated here.",
+          "choice": "in favour of this",
+          "alternative": "in favour of that view",
+          "uncertainty": "The precise referent is not resolved within §2 alone."
+        },
+        {
+          "source_ids": [
+            "g2:s2"
+          ],
+          "issue": "Ausbildung and the pronouns in ihnen selbst and alle may refer primarily to the nations, the languages, or span both.",
+          "choice": "development; them themselves; all of them, retaining the ambiguity",
+          "alternative": "cultivation or formation; in the languages themselves; all the nations",
+          "uncertainty": "Antecedents and the scope of Ausbildung are not unambiguous in the supplied sentence."
+        },
+        {
+          "source_ids": [
+            "g2:s2"
+          ],
+          "issue": "eigentlicher Literatur and niedrigeren Stufe carry the author's qualification and evaluation.",
+          "choice": "literature in the proper sense; on a lower level",
+          "alternative": "literature properly so called; at a lower stage",
+          "uncertainty": "Level and stage differ slightly; the evaluative wording is retained without endorsement."
+        },
+        {
+          "source_ids": [
+            "g2:s3"
+          ],
+          "issue": "Einerleiheit must remain stronger than Aehnlichkeit, and Bau recurs in a contrast with all other languages.",
+          "choice": "uniformity for Einerleiheit; structure for Bau; similarity for Aehnlichkeit",
+          "alternative": "sameness or identical character; construction",
+          "uncertainty": "Uniformity may not exhaust the force of Einerleiheit."
+        },
+        {
+          "source_ids": [
+            "g2:s3"
+          ],
+          "issue": "auch wohl, singular erlaubt with Norden und Süden, Welttheil, and darin are compressed or grammatically singular in the source.",
+          "choice": "has also been asserted; does not allow; continent; in this respect",
+          "alternative": "has also at times been asserted; do not allow; part of the world; in that regard",
+          "uncertainty": "The force of wohl and the intended collective treatment of north and south remain uncertain."
+        }
+      ]
+    },
+    {
+      "id": "codex",
+      "model": "gpt-6.1-sol",
+      "prompt_sha256": "7d70e52a767d3b6fcf9bb7dea75465bdd7a70a4fe7da30b80f8d257b77d4b20a",
+      "exit_code": 0,
+      "elapsed_seconds": 31.0,
+      "raw_stdout_sha256": "91c0e3cb11c3d187d92ddb19fb4443ceacf36c7825b2201e1050bc4f89068d6f",
+      "sentences": [
+        {
+          "id": "g2:s1",
+          "english": "The striking similarity of the American languages now also speaks in favour of this."
+        },
+        {
+          "id": "g2:s2",
+          "english": "There have certainly been substantial differences in the development of the nations to which they belong, differences unmistakable in the languages themselves as well; yet the lack of alphabetic writing and hence of literature proper places them all, without exception, on an equal footing at a lower level."
+        },
+        {
+          "id": "g2:s3",
+          "english": "Admittedly, the sameness of their structure sometimes falsely asserted disappears under more penetrating investigation, as does their departure from the structure of all other languages, which has also sometimes been asserted; nevertheless, all the languages of America do indeed exhibit broad features of similarity, and even in this respect the north and south of the continent do not permit truly separating boundaries to be drawn."
+        }
+      ],
+      "notes": [
+        {
+          "source_ids": [
+            "g2:s1"
+          ],
+          "issue": "The backward reference of Dafür.",
+          "choice": "Retained as “this,” referring to the preceding account of prolonged interaction within America.",
+          "alternative": "“This is also supported by the striking similarity…”",
+          "uncertainty": "The precise scope of the backward reference remains interpretive."
+        },
+        {
+          "source_ids": [
+            "g2:s2"
+          ],
+          "issue": "References of ihnen selbst and alle.",
+          "choice": "Read ihnen selbst as the languages; retained “them all” to leave the final reference open.",
+          "alternative": "The nations themselves may be intended, and alle may likewise refer to the nations.",
+          "uncertainty": "The grammar does not conclusively settle these references; the parallel supports a language reference without determining the base."
+        },
+        {
+          "source_ids": [
+            "g2:s2"
+          ],
+          "issue": "Ausbildung, eigentlicher Literatur and the explicit ranking.",
+          "choice": "Used “development,” “literature proper,” and “at a lower level,” preserving the author's evaluation.",
+          "alternative": "“Cultivation” and “literature in the strict sense.”",
+          "uncertainty": "The intended breadth of development and literature is not defined here; the ranking belongs explicitly to the base."
+        },
+        {
+          "source_ids": [
+            "g2:s3"
+          ],
+          "issue": "Einerleiheit contrasts with broad similarity; auch wohl qualifies the second reported assertion.",
+          "choice": "Used “sameness” and “also sometimes been asserted,” retaining both rejected claims.",
+          "alternative": "“Uniformity” and “also on occasion been asserted.”",
+          "uncertainty": "The precise force of wohl is uncertain; it need not express the author's endorsement."
+        },
+        {
+          "source_ids": [
+            "g2:s3"
+          ],
+          "issue": "The scope of darin and the force of wahrhaft abscheidende Gränzen.",
+          "choice": "Retained “even in this respect” and “truly separating boundaries,” taking the reference to concern the linguistic similarities just discussed.",
+          "alternative": "“Even here, no genuinely divisive boundaries can be drawn between the continent's north and south.”",
+          "uncertainty": "The German leaves the exact respect and geographical relation compressed; the alternative makes the relation more explicit."
+        }
+      ]
+    }
+  ]
+}

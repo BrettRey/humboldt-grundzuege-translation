@@ -1,0 +1,157 @@
+{
+  "findings": [
+    {
+      "headword_or_candidate_id": "grammatische Form",
+      "source_page": [
+        453,
+        462,
+        469,
+        470
+      ],
+      "issue": "The record never defines the stipulated strict use in sec.147 (p.469), although two rules only warn about it; the p.453 sense ('recoverable... even without a special overt designation') conflates an analyst's ability to render/detect a relation ('in irgend einer Art sie wiederzugeben... nachweisen') with the form being present in the language, which pp.462 and 469-470 expressly put in question (grammar as law in speakers vs 'was wirklich im sinnlichen Laute liegt'). The stillschweigende/ausdrueckliche Grammatik distinction (p.462) that frames the whole contrast is also absent.",
+      "severity": "high",
+      "proposed_correction": "Add a sec.147 sense with its full conditions: fixed, pure indication of the grammatical relation in the audible part of the language itself, recognisably not a Begriffsbezeichnung, with word-order admitted only if absolutely fixed and anchored to a point identifiable independently of its position (pp.469-470, with the Chinese countercase). Reword the p.453 sense as analyst-recoverability, and cross-link stillschweigende vs ausdrueckliche Grammatik."
+    },
+    {
+      "headword_or_candidate_id": "Andeutung / Bezeichnung",
+      "source_page": [
+        426,
+        469,
+        470
+      ],
+      "issue": "Andeutung is recorded only for intellectual concepts and metaphors (p.426), omitting the central grammatical use by which sec.147 defines grammatische Form and opposes Verhaeltnissbezeichnung to Begriffsbezeichnung (p.469) and denies Chinese Bezeichnung des Verbum (p.470). Bezeichnung is meanwhile rendered indiscriminately 'designation/marking', flattening the Begriffs-/Verhaeltniss- contrast on which the strict sense depends.",
+      "severity": "high",
+      "proposed_correction": "Add the grammatical Andeutung-of-a-relation use, cross-linked to grammatische Form (sec.147); in Bezeichnung distinguish Begriffsbezeichnung from Verhaeltnissbezeichnung in definition and rendering rule instead of one undifferentiated 'designation'."
+    },
+    {
+      "headword_or_candidate_id": "Form",
+      "source_page": [
+        402,
+        438,
+        439,
+        455
+      ],
+      "issue": "Twelve senses present changing bearers (mental activity, word-sound, faculties, discourse-connection, etc.) as distinct lexical senses, while the governing stipulation on p.455 ('Unter Form kann man nur Gesetz, Richtung, Verfahrungsweise verstehen') is demoted to the last sense. Several bearer-definitions exceed their fragments: p.402 gives no antecedent for 'ihn... als Zeichen der Form', and the pp.438-439 evidence as supplied never shows the claimed complement ('die Thaetigkeit des' + asserted 'Denkens'); the p.439 quote begins elsewhere.",
+      "severity": "high",
+      "proposed_correction": "Restructure as one core sense (law/direction/mode of proceeding, p.455) with bearer-indexed uses, retaining separate senses only where a technical opposition is evidenced (e.g. Materie/Form p.399, Form des Denkens vs language's own form, grammatische Form). Mark the p.402 and pp.438-439 definitions provisional until a wider, syntactically complete window is supplied."
+    },
+    {
+      "headword_or_candidate_id": "Satz / Periode",
+      "source_page": [
+        445,
+        456
+      ],
+      "issue": "Satz offers 'proposition' as a rendering, which imports a truth-bearing logical unit not warranted by 'Einheit des Satzes, des einfachen und zusammengesetzten' whose unity-principle is the Gedankenverhaeltniss of its parts. Periode is defined only as 'the grammatical whole of speech assembled or analyzed by grammar' (p.445 fragment), omitting the p.456 additions that constitute it: the relations of language as Versinnlichung des Gedanken and as a definitely regulated, limited organ, under constant regard to Versaendlichkeit und Aussage, and the Periode as the whole in which Gedanken- and Sprachform unite.",
+      "severity": "medium",
+      "proposed_correction": "Drop or heavily restrict 'proposition' for Satz (keep 'sentence' with a local-distinction note); rebuild Periode from p.456 with those added conditions and the union-of-both-forms clause, keeping it visibly distinct from Satz rather than a generic grammatical whole."
+    },
+    {
+      "headword_or_candidate_id": "Hinzudenken",
+      "source_page": [
+        463,
+        469,
+        470
+      ],
+      "issue": "The rule ('Not necessarily conscious inference, recovery of a previously spoken word, or permission to insert an overt form') asserts three exclusions that the five-word evidence ('das Hinzudenken des Verbum: seyn') does not state, and 'what is required to complete an expression' risks equating mental supplementation with a missing overt grammatical form without relating it to, or distinguishing it from, the p.469 form present in speakers 'als leitendes Gesetz des Verstaendnisses' and p.470 'in die Sprache hineingetragen'.",
+      "severity": "medium",
+      "proposed_correction": "Downgrade the three exclusions to an explicit translator's caution pending a fuller window, and add cross-references to stillschweigende Grammatik/hineingetragen flagged as related-but-not-identified, rather than defining Hinzudenken in isolation."
+    },
+    {
+      "headword_or_candidate_id": "Symbol",
+      "source_page": [
+        428,
+        455
+      ],
+      "issue": "Sense 1 adds 'its natural form remains independently substantial', which the quoted main_text clause does not contain; on the full p.428 page such material sits in the Creuzer footnote and deleted variants, so the layering is misrepresented. Sense 2 (p.455) treats a looser use ('das Symbol, in welches die Sprache den Gedanken fasst') as a second sense 'distinguished from thought's essence' while omitting p.455's condition that the two forms concerned 'lassen sich nicht von einander trennen, da die Sprache sie synthetisch in Eins verschmelzt'.",
+      "severity": "medium",
+      "proposed_correction": "Remove or re-source the 'independently substantial' clause to its actual layer, demote p.455 to a contextual/metaphorical use of the technical term (or flag distinctness as unproven), and state the inseparability/synthetic-fusion condition."
+    },
+    {
+      "headword_or_candidate_id": "Zeichen",
+      "source_page": [
+        428,
+        461
+      ],
+      "issue": "The p.461 sense glosses 'Bezeichnetes an die Stelle des leeren Zeichens setzen' as 'a sign considered formally without introducing a substantive concept', with the rule that 'empty' still carries grammatical contribution; neither the formal reading nor the grammatical-contribution claim is visible in the supplied fragment, and the gloss silently assimilates this use to the formal/relation-sign discussion elsewhere (cf. p.469).",
+      "severity": "medium",
+      "proposed_correction": "Trim the definition to what the fragment bears ('empty sign vs putting the designated in its place') and mark any formal/grammatical reading as an inference to be confirmed from a wider window; keep this use separate from the well-evidenced p.428 sign/word contrast."
+    },
+    {
+      "headword_or_candidate_id": "Verstand",
+      "source_page": [
+        392,
+        395,
+        410,
+        432,
+        455,
+        462
+      ],
+      "issue": "Three of the four senses are one faculty sense in different activities (analysing, distinguishing/retaining, supporting pure thought), i.e. contextual uses split as lexical senses; only 'im strengsten Verstaende' (p.392) is a distinct idiomatic sense. The p.455 sense's rule ('distinguish ordinary im Verstande = in the sense') overgeneralises the phrase-form and would mislead on the unrecorded p.462 faculty occurrence 'als Typus im Verstaende des Redenden ruhende [Grammatik]'.",
+      "severity": "high",
+      "proposed_correction": "Collapse the three faculty uses into one sense with use-notes; define the idiom by its construction (im strengsten/weniger strengen Verstaende, no personal possessor) rather than by 'im Verstande' alone, and add p.462 as faculty evidence."
+    },
+    {
+      "headword_or_candidate_id": "Vermoegen",
+      "source_page": [
+        421,
+        434
+      ],
+      "issue": "One definition merges two different bearers -- the plural 'Vermoegen der Seele' whose mutual relation constitutes a word's subjective form (p.421) and a language's singular 'Vermoegen dem Beduerfniss des Ausdrucks zu genuegen' (p.434) -- and lists 'faculty' and 'capacity' as interchangeable renderings with no bearer condition.",
+      "severity": "medium",
+      "proposed_correction": "Keep one headword but split bearer-conditioned uses: 'faculties' only for powers of the soul, 'capacity' for a language's ability to meet expressive need; do not present them as one undifferentiated gloss."
+    },
+    {
+      "headword_or_candidate_id": "Weltansicht",
+      "source_page": [
+        387,
+        420
+      ],
+      "issue": "The p.387 definition ('arising from the connected subjective and word-sound effects of a language') reverses the quoted condition: each human individuality is 'schon unabhaengig von der Sprache' an own standpoint of Weltansicht and becomes so 'noch viel mehr' through language. The two recorded senses are bearer variants (individual, language) of one sense.",
+      "severity": "medium",
+      "proposed_correction": "Rewrite to state the pre-linguistic individual standpoint with language as intensifying/mediating condition, and merge the p.387 and p.420 uses into one sense with bearer notes."
+    },
+    {
+      "headword_or_candidate_id": "Denkform / Gedankenform (and Sprachform)",
+      "source_page": [
+        396,
+        456,
+        459
+      ],
+      "issue": "Denkform and Gedankenform carry parallel independent definitions although no supplied evidence distinguishes them -- the Denkform rule itself warns against creating such a distinction. Similarly the plural generic 'Allgemeinheit der Sprachformen' (p.396) is promoted to a separate sense beside the technical singular Sprachform of p.456, multiplying senses from number/context alone.",
+      "severity": "medium",
+      "proposed_correction": "Cross-link Denkform and Gedankenform as variants under one definition unless a distinguishing passage is produced, and demote the p.396 plural to a use-note under Sprachform."
+    },
+    {
+      "headword_or_candidate_id": "EXCLUSION SAMPLE: early:0025 Allein; early:0658 Mensch; early:0659 Menschen",
+      "source_page": [
+        366,
+        368,
+        371,
+        376,
+        377,
+        378,
+        379,
+        380,
+        381,
+        382,
+        385,
+        386,
+        387,
+        389,
+        391,
+        392,
+        393,
+        395,
+        396,
+        397,
+        398,
+        399
+      ],
+      "issue": "A single boilerplate reason ('ordinary connective, pronoun, quantifier, inflected modifier or referential nominalization') is applied to plain nouns (Mensch, Ausnahme, Punkt, Nutzen, Unterbrechung, etc.) where the category does not fit, and claims inspection of all contexts ('in these contexts', 'explicit reviewed list') for forms with 8-22 occurrences across 6-14 pages while the supplied sample shows one window each. The dispositions may be correct, but the certainty and inspection claim are unsupported by the evidence presented.",
+      "severity": "medium",
+      "proposed_correction": "Replace the boilerplate with form-specific reasons, and either limit the reviewed claim to the windows actually shown or supply all occurrence windows before asserting explicit review of every context."
+    }
+  ],
+  "checked_scope": "Only the supplied material was audited: 26 candidate headword records (Alphabet to Zeichen) with their quoted evidence and stated image-check statuses, the 22-candidate exclusion sample with one source window each, and the seven full source-control pages (printed pp.428, 455, 456, 462, 469, 470, 473). Particular checks requested were applied: Form's multiple bearers, Satz/Periode, recoverable grammar versus the sec.147 strict audible criterion, Hinzudenken, word/sign/symbol on p.428, faculty versus idiomatic Verstand, and contextual uses versus distinct lexical senses. OCR-only quotations were treated throughout as unchecked, exactly as labelled.",
+  "limits": "This is a single bounded pass over the supplied records and windows, not a complete independent reading of the work and not an image check: no page images were inspected, no external sources or memory of the work were used, and image-checked/OCR-only statuses are the records' own. 'Unsupported' therefore means unsupported within the supplied evidence (several definitions rest on two-to-five-word fragments); a fuller window may later justify some of them, so those findings call for added evidence or provisional marking rather than asserting falsity. The exclusion audit is limited to the sample as presented (one window per candidate regardless of occurrence count), and no new paragraph was translated."
+}

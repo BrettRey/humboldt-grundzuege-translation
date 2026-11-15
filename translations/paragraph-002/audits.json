@@ -1,0 +1,148 @@
+{
+  "audited_text": {
+    "status": "Pre-audit coordinator synthesis; not certified.",
+    "sentences": [
+      {
+        "id": "g2:s1",
+        "english": "Further support for this comes from the striking similarity of the American languages."
+      },
+      {
+        "id": "g2:s2",
+        "english": "There have certainly been substantial differences in the development of the nations to which they belong, differences unmistakable in the languages themselves as well; yet the lack of alphabetic writing, and hence of literature in the proper sense, places them all, without exception, on an equal footing at a lower level."
+      },
+      {
+        "id": "g2:s3",
+        "english": "It is true that the sometimes falsely asserted sameness of their structure disappears under more penetrating investigation, as does their deviation from the structure of all other languages, which has also sometimes been asserted. Nevertheless, all the languages of America do exhibit broad features of similarity, and the north and south of the continent do not permit genuinely separating boundaries to be drawn even in this respect."
+      }
+    ]
+  },
+  "audited_sha256": "3d7dc0df82b23720477d8b0ce41bb70af3d14f87656eb6929df38b0c412c215a",
+  "audits": [
+    {
+      "id": "claude",
+      "model": "claude-fable-5-2",
+      "findings": [
+        {
+          "id": "F1",
+          "source_ids": [
+            "g2:s2"
+          ],
+          "source_quote": "auch in ihnen selbst unverkennbare Unterschiede",
+          "english_quote": "differences unmistakable in the languages themselves as well",
+          "severity": "open",
+          "category": "referent",
+          "finding": "German has only the pronoun 'ihnen'; its antecedent can be 'sie' (the languages, subject of 'welchen sie angehören') or 'Nationen'. The English substitutes an explicit noun, so it settles the question in the text itself. The languages reading is defensible and probably the stronger one: 'auch ... selbst' marks a shift to a different entity from the one whose 'Ausbildung' is at issue, and a nations reading ('differences in the nations' Ausbildung, unmistakable in the nations themselves') is close to tautological. That is an argument from sense, not a grammatical proof, and the packet asks for interpretations to go in separate notes.",
+          "suggestion": "Retain 'in the languages themselves', but add a translator's note that the German reads 'in ihnen selbst' and that 'Nationen' is a grammatically possible antecedent. Do not present the reading as settled.",
+          "confidence": "medium"
+        },
+        {
+          "id": "F2",
+          "source_ids": [
+            "g2:s2"
+          ],
+          "source_quote": "stellt doch alle, ohne Ausnahme, auf einer niedrigeren Stufe gleich",
+          "english_quote": "places them all",
+          "severity": "open",
+          "category": "referent",
+          "finding": "Bare 'alle' may be 'alle Nationen' (the clause concerns 'Ausbildung' and 'Stufe') or 'alle Sprachen' (the paragraph's topic). 'Them all' is itself a suitably open pronoun, but because F1's explicit 'the languages themselves' now sits immediately before it, an English reader will most likely take 'them' as the languages. The German does not force that, and it changes what is ranked lower: the languages or the nations' cultivation. The printed parallel ('Alle sind ferner in dem Mangel alphabetischer Schrift ... einander gleich') shows a languages reading is possible for Humboldt, but the packet bars using it to decide the base text.",
+          "suggestion": "Retain 'them all'; do not expand to 'all these languages' or 'all these nations'. Record in the F1 note that 'alle' is equally unspecified and that the English proximity effect is a by-product of the F1 choice.",
+          "confidence": "medium"
+        },
+        {
+          "id": "F3",
+          "source_ids": [
+            "g2:s3"
+          ],
+          "source_quote": "erlaubt nicht einmal darin, wahrhaft abscheidende Gränzen zu ziehen",
+          "english_quote": "do not permit genuinely separating boundaries to be drawn even in this respect",
+          "severity": "open",
+          "category": "scope",
+          "finding": "The English puts the focus of 'nicht einmal' on 'darin' ('not even in this respect'). The adjacency 'nicht einmal darin' supports that, so the rendering is defensible. Two things stay open: what 'darin' refers to (the 'Züge der Aehnlichkeit', or structure generally), and whether the intended force is instead 'do not even permit truly dividing boundaries to be drawn in this', with the north/south division as the thing that fails. 'In this respect' is a suitably neutral rendering of 'darin'.",
+          "suggestion": "Retain. Optionally note that the antecedent of 'darin' is not explicit. 'Truly dividing' for 'wahrhaft abscheidende' is a stylistic alternative only.",
+          "confidence": "low"
+        },
+        {
+          "id": "F4",
+          "source_ids": [
+            "g2:s3"
+          ],
+          "source_quote": "bieten doch alle Sprachen Amerika's wirklich dar",
+          "english_quote": "all the languages of America do exhibit broad features of similarity",
+          "severity": "minor",
+          "category": "omission",
+          "finding": "'wirklich' is carried only by emphatic 'do'. In the German it answers 'fälschlich behauptete' (wrongly asserted sameness against really present similarity), and that contrast is fainter in the English. This is a weakening, not a meaning error.",
+          "suggestion": "'all the languages of America do in fact exhibit broad features of similarity' (or 'really do exhibit').",
+          "confidence": "medium"
+        }
+      ],
+      "coverage": [
+        {
+          "id": "g2:s1",
+          "result": "pass",
+          "note": "'Dafür spricht nun auch' is adequately given by 'Further support for this comes from'; 'auch' is preserved through 'Further'. 'auffallende' as 'striking' is fine. Nothing added from §1."
+        },
+        {
+          "id": "g2:s2",
+          "result": "open",
+          "note": "There are no semantic errors, but two antecedents are open (F1, F2). The scope is right: 'alphabetischer' restricts 'Schrift' (lack of alphabetic writing, not of writing as such), and 'eigentlicher' restricts 'Literatur' only, with both genitives under 'Mangel' and 'mithin' given as 'hence'. The lower-level evaluation is kept unsoftened: the comparative 'niedrigeren' is 'a lower level', and 'ohne Ausnahme' and concessive 'gewiss ... allein ... doch' are all present. 'On an equal footing at a lower level' stacks two metaphors, which is stylistic only. 'Development' for 'Ausbildung' is acceptable; 'cultivation' or 'formation' would be closer to Humboldt's usage, a terminology preference and not an error."
+        },
+        {
+          "id": "g2:s3",
+          "result": "finding",
+          "note": "'zwar ... aber' is kept as 'It is true that ... Nevertheless', and the sentence split is permitted. 'auch wohl behauptete' as 'has also sometimes been asserted' is sound. Supplied 'their' before 'deviation' is implied by the German. Comparative 'tiefer eindringenden' is kept as 'more penetrating'. No 'in ihrem Baue' has been imported from the parallel. 'Falsely' for 'fälschlich' could suggest deceit; 'wrongly' is a stylistic improvement. 'Continent' for 'Welttheil' and plural 'do' for singular 'erlaubt' are acceptable. See F3 (open) and F4 (minor)."
+        }
+      ],
+      "overall": "No material semantic error found. The explicit languages reading of 'in ihnen selbst' is defensible and probably preferable, but it is an interpretation the German does not state. It needs a note, and it tilts English 'them all' toward the languages where the German 'alle' stays open. The scope of 'alphabetischer' and 'eigentlicher' is correct, and the author's lower-level evaluation is preserved. The only suggested wording change is to strengthen 'wirklich' (F4). Limits: these are model judgments from the prompt packet alone, with no scan, dictionary or manuscript consulted, and they are not approval or a fidelity certification. Better primary evidence or a stronger grammatical argument could overturn F1 to F3. As the brief required, no tools were used, so the session's advisor and plan-file steps were not followed. The session-start integrity hook reported unbaselined steering-file changes; they were not examined and nothing in this audit relies on them."
+    },
+    {
+      "id": "muse",
+      "model": "muse-wonder-full-1.0",
+      "findings": [
+        {
+          "id": "F1",
+          "source_ids": [
+            "g2:s3"
+          ],
+          "source_quote": "ebenso als die auch wohl behauptete Abweichung von dem Bau aller übrigen Sprachen",
+          "english_quote": "as does their deviation from the structure of all other languages, which has also sometimes been asserted",
+          "severity": "open",
+          "category": "modality",
+          "finding": "The second 'sometimes' has no direct counterpart in this clause: German has 'auch wohl behauptete', not a repetition of 'bisweilen'. The English therefore imports the frequency of the first claim into the second and leaves the force of 'wohl' unrepresented. 'fälschlich' is correctly confined to the asserted sameness and is not extended to the deviation.",
+          "suggestion": "Retain only if an ellipsis of 'bisweilen' is intended; otherwise use 'as does the also asserted deviation from the structure of all other languages' and treat 'wohl' as an unresolved modal nuance.",
+          "confidence": "medium"
+        },
+        {
+          "id": "F2",
+          "source_ids": [
+            "g2:s3"
+          ],
+          "source_quote": "der Norden und Süden des Welttheils erlaubt nicht einmal darin, wahrhaft abscheidende Gränzen zu ziehen",
+          "english_quote": "the north and south of the continent do not permit genuinely separating boundaries to be drawn even in this respect",
+          "severity": "open",
+          "category": "referent",
+          "finding": "German uses singular 'erlaubt' with 'der Norden und Süden des Welttheils', presenting north and south collectively as one part of the world. English plural 'do not permit' is idiomatic but presents them more as two separate subjects, slightly weakening that collective presentation. Placing 'even in this respect' at the end nevertheless preserves the sense of 'nicht einmal darin'.",
+          "suggestion": "Retain for idiomatic English agreement, or recast as 'nor does the continent, north and south, permit genuinely separating boundaries to be drawn even in this respect' to preserve the collective singular.",
+          "confidence": "medium"
+        }
+      ],
+      "coverage": [
+        {
+          "id": "g2:s1",
+          "result": "pass",
+          "note": "'Dafür spricht nun auch' is acceptably compressed as 'Further support for this comes from'; the referent and the striking similarity of the American languages are preserved."
+        },
+        {
+          "id": "g2:s2",
+          "result": "pass",
+          "note": "The concessive contrast, 'gewiss', 'mithin', 'ohne Ausnahme', and the lower level are preserved. Resolving 'in ihnen selbst' as 'in the languages themselves' is a defensible interpretation; the German pronoun is less explicit."
+        },
+        {
+          "id": "g2:s3",
+          "result": "finding",
+          "note": "Both the asserted sameness and the asserted deviation from all other languages disappear under investigation, while broad similarity is retained; 'fälschlich' correctly modifies only the sameness claim. The open points are 'auch wohl' versus the added second 'sometimes', and singular 'erlaubt' versus English plural 'do'. 'nicht einmal darin' is retained in sense as 'even in this respect'."
+        }
+      ],
+      "overall": "No material semantic error was found in this bounded, source-only audit. The rendering preserves the main contrasts and qualifications; the two findings in g2:s3 are open, low-level questions of modality and collective reference rather than demonstrated mistranslations. This is a model judgment based solely on the supplied packet, not a fidelity certification."
+    }
+  ]
+}

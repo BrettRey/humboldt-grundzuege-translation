@@ -1,0 +1,21 @@
+{
+  "format": "humboldt.architecture-review",
+  "schema_version": 1,
+  "model": "claude-fable-5-2",
+  "files": {
+    "probe-output.txt": "e613f8cfd75ce8add5dddb10b1bcac10ab7798f7a1f2ce67c5063a77e481d0ce",
+    "checked-findings.md": "f00240b5045928ba693bec7220996604643df67b6e73cbae896d26772ddf97b8",
+    "probe-stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "prompt.txt": "17c3d050f57627d8ad7db05894850acb0923f78a00b65a7d44af6fe94ae109e4",
+    "probes.json": "e613f8cfd75ce8add5dddb10b1bcac10ab7798f7a1f2ce67c5063a77e481d0ce",
+    "stderr.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inputs.json": "876b5311d11b1d70a26d24df1a557893a66493fbd592497d6a99d3c73ab8c940",
+    "probes.py": "5b8fcc736f9b7baff84ce3a2c95422db66a4be0e773c9beb2ff66730998910b4",
+    "response.json": "32d222e8c4dca16d22ff170733670229c2c00b163f4c78467c0b364006038985",
+    "review.md": "45b12bc24ab13a8c92367477551d872e16f3fd64d1c829c9e197e4f59b7cd928",
+    "receipt.json": "9426752b97e3bb3dd9d82793626d52bd4e9062426ed96f33e82195e128778912"
+  },
+  "reviewed_files_unchanged": 28,
+  "protected_files_unchanged": 118,
+  "release_file_hashes_unchanged": 27
+}

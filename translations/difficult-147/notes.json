@@ -1,0 +1,20 @@
+{
+  "author_note": {
+    "anchor": "s15; immediately after Abel-Rémusat, as the print places the callout",
+    "source": "Lettre sur le génie de la langue Chinoise à Monsieur Abel Remusat. p. 22. [editor callout 1] 98.",
+    "English": "Lettre sur le génie de la langue Chinoise à Monsieur Abel Remusat [Letter on the character of the Chinese language to Monsieur Abel Remusat], p.22; terminal “98.” retained as printed, with its function unresolved."
+  },
+  "editor_note": {
+    "source": "1) Vgl. oben S. 268.",
+    "English": "GS editor: “Cf. above, p.268.” This is Leitzmann’s reference, not an addition to Humboldt’s main text."
+  },
+  "translator_notes": [
+    "“Grammatical form” is explicitly restricted here to the fixed, pure audible indication described in the definition. The following examples concern Humboldt’s historical analysis of Chinese; the English does not certify that analysis as modern linguistic fact.",
+    "“Substantive content” renders the related Sach- vocabulary in concept, word and meaning. It contrasts here with relation as such, and includes the action expressed by “use”; it does not mean “noun” or only a concrete object. Nor is it an automatic equation with a modern content-word class.",
+    "In the sentence beginning “If I now assume,” “the grammatical form” resolves German sie. Its grammar also permits “the indication.” The following section’s statement that speakers put the concept of grammatical relations into language supports the chosen reading, without eliminating the syntactic ambiguity.",
+    "“Mind” here renders Seele; “soul” remains an alternative. This local choice does not equate every Seele with Geist. “Apprehension” preserves Auffassung and its relation to Auffassungsweise, without treating understanding as merely hearing sound.",
+    "The source has Latin Nomen/Nomina. “Noun” is the working English label here; its precise historical extension is not independently settled. “Used as a noun or as a verb” describes use, not a modern category-membership test.",
+    "The historical transcription ì reproduces the coordinator’s reading of the accented italic i in print. No Chinese character, phonetic value or modern pinyin has been supplied. The footnote’s terminal98 remains uninterpreted; the footnote’s original form is preserved in source.json.",
+    "The final sentence retains the limit “not always,” “from the language alone,” and the need to know speakers’ manner of apprehension at different epochs. It does not say that etymology alone proves present grammatical function."
+  ]
+}

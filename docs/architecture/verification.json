@@ -1,0 +1,769 @@
+{
+  "canonical_manifest_sha256": "71b225f6cfea07ea79180ee2aa4304b1b661ef09f25d96f0e9ffbe773ee0cace",
+  "clean_copy": {
+    "absent": [
+      "tmp",
+      "tools",
+      "sources",
+      "translations",
+      "tests"
+    ],
+    "copied": [
+      "src/",
+      "edition/",
+      "humboldt",
+      "pyproject.toml"
+    ],
+    "environment": "Minimal PATH/LANG only; no model credentials; socket connections disabled",
+    "logical_digest": "53334ec49b583ad5538bb21d17249eb8416c38adb14b44874d6ac5027a83a962",
+    "runs": [
+      {
+        "command": [
+          "python3",
+          "humboldt",
+          "validate"
+        ],
+        "exit_code": 0,
+        "seconds": 22.757
+      },
+      {
+        "command": [
+          "python3",
+          "humboldt",
+          "build"
+        ],
+        "exit_code": 0,
+        "seconds": 30.519
+      },
+      {
+        "command": [
+          "python3",
+          "humboldt",
+          "search",
+          "understanding",
+          "--limit",
+          "1"
+        ],
+        "exit_code": 0,
+        "seconds": 0.182
+      },
+      {
+        "command": [
+          "python3",
+          "humboldt",
+          "trace",
+          "difficult-147-de-v1:s05:w013"
+        ],
+        "exit_code": 0,
+        "seconds": 0.359
+      }
+    ]
+  },
+  "completed_at": "2026-11-15T19:35:45.721470+00:00",
+  "database": {
+    "counts": {
+      "alignment": 183,
+      "alignment_member": 379,
+      "analysis": 27,
+      "build_metadata": 11,
+      "change_impact": 0,
+      "composite_attestation": 1,
+      "composite_member": 2,
+      "decision": 1575,
+      "decision_evidence": 1811,
+      "evidence": 1768,
+      "evidence_detail": 155,
+      "lexeme": 1048,
+      "lexeme_control": 149,
+      "lexeme_form": 1712,
+      "preparation_input": 9,
+      "register_carry_forward": 119,
+      "revision_history": 0,
+      "schema_migration": 2,
+      "sense_attestation": 1566,
+      "sense_rendering": 2167,
+      "term_entry": 34,
+      "term_entry_evidence": 202,
+      "term_entry_family": 46,
+      "term_expression_part": 1565,
+      "term_family": 18,
+      "term_occurrence": 4740,
+      "term_relation": 122,
+      "term_sense": 1518,
+      "term_use": 1531,
+      "terminology_candidate": 3515,
+      "terminology_control": 87,
+      "terminology_page_review": 110,
+      "text_version": 21,
+      "unit": 86978,
+      "unit_decision": 1681,
+      "unit_evidence": 3272,
+      "word_index": 39132
+    },
+    "foreign_key_errors": [],
+    "integrity": "ok",
+    "schema_version": 2,
+    "sealed": true
+  },
+  "database_sha256": "25b17ecec395b7168e7061ea89509ded008984cc5779e9fa0b5cb9fb6ee238ab",
+  "engine_files": {
+    "src/humboldt/__init__.py": "dfe3fe7f26f4765b8d3e025ec03bb119c132190f98d0268a9838422c2404ef4e",
+    "src/humboldt/__main__.py": "79ee6f134c5c5193377cf9b189cbdcc3e2095e49ba9cec310114441c15a917c4",
+    "src/humboldt/cli.py": "521b1f9c9cfe9edde8d8c4e25f67968ed183869bed4af7ca748dd5fd5fad28e3",
+    "src/humboldt/database.py": "08836e480be5f7ff0484822de11d2b8cee5c89dc60db004920873d03b03e33d7",
+    "src/humboldt/ingest.py": "393ddf1ee3d9388e657b1dfe03d4b4ca03e0066a19f17df0314a6e588b900b59",
+    "src/humboldt/migrations/001-base.sql": "2e57182210865b715b0b06513af8c304746297a289814a91174e1ef36b16cf7d",
+    "src/humboldt/migrations/002-infrastructure.sql": "79c683742d79ce06265504a325fc475a7c2857d2059e1521903e97e7ed8054c8",
+    "src/humboldt/queries.py": "10c85b7ed917046835531098a15feedd40eeb5777fd042b22e93bbe589ba1c47",
+    "src/humboldt/reader.py": "1e07639a5ea762be4f7953924e2cb98fcb8f1c514724b3e06729f7f528905718",
+    "src/humboldt/record_schemas/bundle.schema.json": "905cf2eecbb02808c2965043878115167a653fa07e6af009351f9710dc62d66f",
+    "src/humboldt/record_schemas/edition.schema.json": "33d6c7595b1f177e9223f873537211b0f5e27d7d89f896baa33f89b1dd98c552",
+    "src/humboldt/records.py": "bba8b8a732ba1f1ebba0527665579f418ec31d906f8fe6792b33f452637f5c1b",
+    "src/humboldt/release.py": "5722c917d6cf892d2c31da73f4a02bba3f4837a58e5c3ff6a5f751f99c181ac2",
+    "src/humboldt/render.py": "81242b59539787be9112fa1807faa1f558f6c9daab1c719578ac51328571800a",
+    "src/humboldt/revisions.py": "89f40f9473edfafd70d516ae63888026e307b8b4b5c1925d3854eda5e61362d4"
+  },
+  "exports": {
+    "all_historical_table_counts_match": true,
+    "csv_rows": 1518,
+    "csv_sha256": "8583ad472aceaae3780433971a9875182c928e45721bc31deaf8d4ab30f6f344",
+    "json_sha256": "3685b79be4c01a9b3fd9351a0d7b0b0251b35a980745ed9ab34c554d33876634"
+  },
+  "historical_tables": {
+    "alignment": {
+      "equal": true,
+      "logical_sha256": "dca940ac6bde1e59c942466a70b26fbf808cecfe59a9af880b99c5401238cd19",
+      "rows": 183
+    },
+    "alignment_member": {
+      "equal": true,
+      "logical_sha256": "5dd23e5945f98ae250c518cdae0b68f6872ce138fc7e1432b98f97549b0f53d3",
+      "rows": 379
+    },
+    "analysis": {
+      "equal": true,
+      "logical_sha256": "97ee73c577d6f91d1bffbb7f372e569fd028e2bf6806d59fac60bacbb22953bd",
+      "rows": 27
+    },
+    "composite_attestation": {
+      "equal": true,
+      "logical_sha256": "d3c1709d0b08cc49abeacdc327f990a827c8dfa5e0b0588b7ad3a91787cc43ee",
+      "rows": 1
+    },
+    "composite_member": {
+      "equal": true,
+      "logical_sha256": "1a6a4510f8d678a867c7ef35962484e7a949e2fd5bc8e9f66fb9e6eff2d327f4",
+      "rows": 2
+    },
+    "decision": {
+      "equal": true,
+      "logical_sha256": "4010f596fb6106033d708d0371704a1755c7a125ec9da398c26c702946070cab",
+      "rows": 1575
+    },
+    "decision_evidence": {
+      "equal": true,
+      "logical_sha256": "cf92a2b343d385b995a3c3c669d88ba909512e2d71626658878e393e40edc7d2",
+      "rows": 1811
+    },
+    "evidence": {
+      "equal": true,
+      "logical_sha256": "6d427348950f3f6fea7d68e81a0a4930a28483e068bff2754cc4b13faa9e0621",
+      "rows": 1768
+    },
+    "evidence_detail": {
+      "equal": true,
+      "logical_sha256": "290b79407b549cf90d810e3888149a371ff13f413604e70d6f18382a74dfef08",
+      "rows": 155
+    },
+    "lexeme": {
+      "equal": true,
+      "logical_sha256": "a7c77d2d73d3e882fe9af31c2ea510f0c200f67c14ce76efb503a8cb8d3f5889",
+      "rows": 1048
+    },
+    "lexeme_control": {
+      "equal": true,
+      "logical_sha256": "33874865259aa7b30d3f131843f2c8d11850e9d114eeb415774755ab72ee8be4",
+      "rows": 149
+    },
+    "lexeme_form": {
+      "equal": true,
+      "logical_sha256": "069e6ff98299fb84cba3b0503aae3bda32e3180ab081b13a69501350d068f4e9",
+      "rows": 1712
+    },
+    "preparation_input": {
+      "equal": true,
+      "logical_sha256": "b9e54e6878b4867e2e95d29bfdc0bd5fb2ec5c517e43af80f00f0cffba6bba4e",
+      "rows": 9
+    },
+    "register_carry_forward": {
+      "equal": true,
+      "logical_sha256": "c5d291e3333b5affceef15edcffc8b4912b635a08fdfc69b8556ce64bfcfbcf4",
+      "rows": 119
+    },
+    "sense_attestation": {
+      "equal": true,
+      "logical_sha256": "0401c42928eb37affe6ed571fbabe595adcb2e673f08ce84c12653329ddb418b",
+      "rows": 1566
+    },
+    "sense_rendering": {
+      "equal": true,
+      "logical_sha256": "1b6e6378a74531695b229961b4948690aabc7d935d428db1b1d2ddce54d3d652",
+      "rows": 2167
+    },
+    "term_entry": {
+      "equal": true,
+      "logical_sha256": "73fce7ef6dcdbffcc6cded19ec86127043d231f2a0a637170bc319b6811653d6",
+      "rows": 34
+    },
+    "term_entry_evidence": {
+      "equal": true,
+      "logical_sha256": "1e45902d4f8cf252f468fe81e6e28623883f48efde01973be6c54c32febd9ab8",
+      "rows": 202
+    },
+    "term_entry_family": {
+      "equal": true,
+      "logical_sha256": "6335002b8a6397722d258e0363e663d77e0880b4f7bc61af061cd59207a877e6",
+      "rows": 46
+    },
+    "term_expression_part": {
+      "equal": true,
+      "logical_sha256": "8402e3e855c7a1ebf183eeefa1060b6498128d67a1c90aace3cb7c40e0c54798",
+      "rows": 1565
+    },
+    "term_family": {
+      "equal": true,
+      "logical_sha256": "364588a9aeeaefd9cae6300e78f94352b8194f41344f0fe233db4695ee2381dd",
+      "rows": 18
+    },
+    "term_occurrence": {
+      "equal": true,
+      "logical_sha256": "7519b88cd61d2525f28905cc009fb865cd23000954b484c65380c52e23776274",
+      "rows": 4740
+    },
+    "term_relation": {
+      "equal": true,
+      "logical_sha256": "176e0b9da0ae7de84d0b31fc8c85bf7513697c0bdfbceaf12df4bcf65a27389d",
+      "rows": 122
+    },
+    "term_sense": {
+      "equal": true,
+      "logical_sha256": "2e6c88e67eb3f75a649b93666f9f0ef4a0d2013a97bf6ffdc1a997721726f454",
+      "rows": 1518
+    },
+    "term_use": {
+      "equal": true,
+      "logical_sha256": "140c12cee1c30140722cd040798d01199efd982ada2bd53bd8514dcf1bdaf6ea",
+      "rows": 1531
+    },
+    "terminology_candidate": {
+      "equal": true,
+      "logical_sha256": "492ff8dde1cce376d34e28f158c7edd2c98dd401486c1b8b5a15d2003887298e",
+      "rows": 3515
+    },
+    "terminology_control": {
+      "equal": true,
+      "logical_sha256": "ddd60eb32b61df79908538de1ba6b67b2aa52c2819922ac527314a6f687cfea9",
+      "rows": 87
+    },
+    "terminology_page_review": {
+      "equal": true,
+      "logical_sha256": "f735925e8a9bfe633f54e8b408f962a7f8475bab23428fd05fc7e40fa65711cb",
+      "rows": 110
+    },
+    "text_version": {
+      "equal": true,
+      "logical_sha256": "3ea8154b3112acfabf37f356055972012ab91665e5d73e4a4e7c3c16491e8d48",
+      "rows": 21
+    },
+    "unit": {
+      "equal": true,
+      "logical_sha256": "1b3945829c01fa42601b4c36776903e0ad83fec841cd7356e0ba8291bea5f0fc",
+      "rows": 86978
+    },
+    "unit_decision": {
+      "equal": true,
+      "logical_sha256": "0321c79752c80e064eb2dcb5f7889617fa6383e04241585db69da867ca0a6fc9",
+      "rows": 1681
+    },
+    "unit_evidence": {
+      "equal": true,
+      "logical_sha256": "7dd343ebb5f2deb2a167116e8fd1cb142ba3ad5eeab623075ef65cd3b29b2634",
+      "rows": 3272
+    },
+    "word_index": {
+      "equal": true,
+      "logical_sha256": "26f1f328b2aba99455b03e51edb91a30448c26ca3d8073dc9db33df2400650b7",
+      "rows": 39132
+    }
+  },
+  "http": {
+    "/?section=147": {
+      "bytes": 124574,
+      "status": 200
+    },
+    "/api/health": {
+      "bytes": 9329,
+      "status": 200
+    },
+    "/api/passage?section=147": {
+      "bytes": 1910768,
+      "status": 200
+    },
+    "/api/search?q=understanding": {
+      "bytes": 13215,
+      "status": 200
+    },
+    "/api/sections": {
+      "bytes": 5170,
+      "status": 200
+    },
+    "/api/trace?id=difficult-147-de-v1%3As05%3Aw013": {
+      "bytes": 102602,
+      "status": 200
+    }
+  },
+  "logical_digest": "53334ec49b583ad5538bb21d17249eb8416c38adb14b44874d6ac5027a83a962",
+  "preserved_files": {
+    "all_unchanged": true,
+    "count": 118,
+    "sha256": {
+      "AGENTS.md": "8c2a8a4076b04da3fcff915c807dfcd8afc2e5b66662ac25971d574ea7003ae2",
+      "docs/WORKFLOW-REVIEW.md": "22403eca5501fce667021238cf452e519f02c105ab0a5e79dc256ff2d523de4b",
+      "docs/preparation/v2/terms-a-e.md": "cdd2d63d65897a1c40d8a309141f9413e5b6c771d38dd2ac69422fdabcff1e01",
+      "docs/preparation/v2/terms-f-k.md": "66abbd348e29f4d05ef3b5643468fc155934365855d25483e33fd0bcaaf5b9b3",
+      "docs/preparation/v2/terms-l-r.md": "138eb5713ade7a5a65365ebc15aff39eb93dde5290d1476ae807c4ea5b524c55",
+      "docs/preparation/v2/terms-s-z.md": "e8ab6195bb47d0cd70dd678fc65034e83768023a3483e31c65752b593fd3c36d",
+      "sources/terminology/coverage.json": "1b603b3e55e9d52bd705c58b503bbd5dd078181044b764104536f84412961703",
+      "sources/terminology/evidence.json": "d892a141fa177d5de733daf1c730409fdcb1f1eb455d2f0bb60bc796c2e2f9be",
+      "sources/terminology/lexicon-retrieval.json": "91164a092919956ba214f1f13d618414645cd59dbec0264c9bf1749eec80ec3a",
+      "sources/terminology/preserved-inputs.json": "694756652034d297f317605c8cbee34e3beeab8e2b58008b1bbda5d6d205a100",
+      "sources/terminology/recovered-pages.json": "23b2e5b0b0eb00658b8d04f6abd9f9942a04a16c9975f21539ced83b952f9250",
+      "sources/terminology/register-audit.json": "e8fd6e8f1133517533f314ed438b62c30efa00dc449250e572978c496cda6308",
+      "sources/terminology/register.json": "1c2ec722b52d9c867d5d56dee2b902c38bfc5d04f5a732217235f254e42536e8",
+      "sources/terminology/search-pages.json": "353480d4c288ab9bd2c7c244e0bc3cbd453e09e6fbec7112fef47da1ba363d4c",
+      "sources/terminology/v2/audit-dispositions.json": "6be8371dee3c5b0a42c0c92e6d779dfd421c7b400ea5a7ae1fca722217df0e2c",
+      "sources/terminology/v2/baseline.json": "2863f0b89c7d535e21525a18257646c8464a9dfe079f074e603856be87c30007",
+      "sources/terminology/v2/comparative-controls.json": "2073d4d6f9998719ba3c326641d79b935a8283b7c5864853141376df39391a1e",
+      "sources/terminology/v2/early-candidates.json": "c02cac3e20ceb867a28fbab8d4b600d0a050dcdc86530c1de814b8b28aaf92ab",
+      "sources/terminology/v2/early-candidates.tsv": "9702a0eea8acafa5a6195850d55f0e9a0e3466d16c169e2055e6e7411af6e397",
+      "sources/terminology/v2/independent-audit.json": "41fc1bbc4860a21720aac0ab9194b5c30b1f28a6efbadc0e92d1e916bccedbee",
+      "sources/terminology/v2/late-candidates.json": "f529078ae24269ba14f7a31f691cb9b0cabc32fb7ff30d1350ab0ff6bf77ff82",
+      "sources/terminology/v2/late-candidates.tsv": "d95d2dbba56a7804ead8d1a7eca7a78c0e411796df9e59c75c01075d93d48f74",
+      "sources/terminology/v2/lexicon/adelung-bedeutung.txt": "cb90f4f5a63bf93ff476118597367bc54147c6cb18a31e91b9979d0e8790d887",
+      "sources/terminology/v2/lexicon/adelung-einbildungskraft.txt": "fd1b15de2327e8f1fbd0b360119bc86aa595a696a459c2b33bfee2f9bca72db9",
+      "sources/terminology/v2/lexicon/adelung-empfindung.txt": "99cddadb9c96121fc99ac590a476df52068c8a8cbb55912ee8797aa04214c942",
+      "sources/terminology/v2/lexicon/adelung-gefühl-1.txt": "f2f50f93cdac5dd5089a9813fd552c29585091e3a6bc35c984346ddc78f5110a",
+      "sources/terminology/v2/lexicon/adelung-gefühl-2.txt": "4703241e6a92aa86ada9d79b467c1107fd5c64768428b915225c9c47b9ee4735",
+      "sources/terminology/v2/lexicon/adelung-gemüth.txt": "431f6f6902c061b23070e66a6edd887469f27e3d17be22b6806937c19bd0ae80",
+      "sources/terminology/v2/lexicon/adelung-grammatik.txt": "3d96687a265d58810334dd793ae4dd577fe4c9c3c1a81c6e44ca6d4dc3b9cffa",
+      "sources/terminology/v2/lexicon/adelung-periode.txt": "43078f9e5d3c8bbd4cf1095abe18aa61663090021bd7625f47a77ef99cfe16c7",
+      "sources/terminology/v2/lexicon/adelung-satz.txt": "aad5d80e63d01c010894aad46096b2367ffd1742d2d3b6a67ff4f696044fc414",
+      "sources/terminology/v2/lexicon/adelung-seele-1.txt": "a727a63ee2adc7ea1e6068b1577afcfba914ac9c55883affac62f9c3b33376bb",
+      "sources/terminology/v2/lexicon/adelung-seele-2.txt": "1964936d599ab2f7c8a8dcb058e27871c52c2ee8d83816125eb24c3219e27056",
+      "sources/terminology/v2/lexicon/adelung-sprache.txt": "246e10fcf74ed48ae789d651d2ad4661f575d73332eeb13c4194fbe13d60057f",
+      "sources/terminology/v2/lexicon/adelung-thätigkeit.txt": "609fe260fbbdf1e6b8227ffa84d6fbd651e6e4a338a385ae5c19155191ad634f",
+      "sources/terminology/v2/lexicon/adelung-vermögen-1.txt": "83da66cad71d965beeef1d6bccc8afee18bd23e49fb655e28d776beb442d4ab7",
+      "sources/terminology/v2/lexicon/adelung-vermögen-2.txt": "02a67992da3f411f2f206d0abdb7573cde49b836de34935182efd16eb2f08a92",
+      "sources/terminology/v2/lexicon/adelung-vernunft.txt": "c8183b312ee90516a080e35afffac6dcbe71a81e1b0c510e155a492d5568a298",
+      "sources/terminology/v2/lexicon/adelung-verstand.txt": "81c937549cb7d12758965bff48249d1891800a24e97c15bd02e16eb66e48f3d0",
+      "sources/terminology/v2/lexicon/adelung-vorstellung.txt": "46177c39b5c6e5a9c86e1e41b113464d5fbd2524ba86da8b44eb7f4eaf553c69",
+      "sources/terminology/v2/lexicon/adelung-willkühr.txt": "dd4965865de148df7bd741170cab79d4e4a779ebe94b76431f6cda08f020fb26",
+      "sources/terminology/v2/lexicon/adelung-wirkung.txt": "54d539b5e96c68e9663a5c84ddd632b5e71b1137e69a7aeaebe584ba29eb8eac",
+      "sources/terminology/v2/lexicon/adelung-wort.txt": "d18b67b763b5bd9298fdd175264abd208e59cff821be160d3fad1682be663cc6",
+      "sources/terminology/v2/lexicon/adelung-zeichen.txt": "41c760044cd2a2818ca767a858660639b13affb77cd6b30361087c47fc5451ba",
+      "sources/terminology/v2/lexicon/controls.json": "be1eba1eade6add425d0df5e4c80ec8a0f21c6996afecbc038c7b6274268f263",
+      "sources/terminology/v2/lexicon/retrieval.json": "44d1cde917a93aec071adc6f022d25610187ca622a3946e0e031557e42369dc6",
+      "sources/terminology/v2/middle-candidates.json": "0103b76e2b23db4b0acc2a0ab20e45efc90dec0618d57bda4ec9feb5e115b46b",
+      "sources/terminology/v2/middle-candidates.tsv": "655e67c9e8266f62c55fada16d6b399772ab215868d67a8a024799c0a3675d94",
+      "sources/terminology/v2/reader-contract.md": "6d80f5185471b7dfd4399ed264e9a90ef2ea551b7f0c764224ff213e2736fcc1",
+      "sources/terminology/v2/readers/coordinator-terms.json": "383f5fad52ebf7738da1ee3c7092ac28a0530a800d21f26a590e49e7cd54a08c",
+      "sources/terminology/v2/readers/early-pages.json": "bcedfa8cac51f4760f9e455d8d663358f1a3d1b3cf7a95318c566ab394849f25",
+      "sources/terminology/v2/readers/early-terms.json": "b3fc23d866877cd34a5ae11cf0aebf7975f893f068f7812ad5197f4daeca74e1",
+      "sources/terminology/v2/readers/late-pages.json": "0a6efd105d39981acbe08ab23d16559eda9043535eb45496e4460546469e1c6b",
+      "sources/terminology/v2/readers/late-terms.json": "7e6ae8097a1de8321db95f6b943d3cef9e8e6903da4e267546ff6de14bd56b06",
+      "sources/terminology/v2/readers/middle-pages.json": "e865e4ff066cfcab34b4bc70a42085195d1b55f07fb63a52ba5d6ade4380c118",
+      "sources/terminology/v2/readers/middle-terms.json": "d201c7e26d2564e141ec763db35368291b7824f2f7c5d7041879b37f63385b3d",
+      "sources/terminology/v2/reconciliation.json": "43ad1d5a8aa796fd37aae318ff9bfc6f03c7a40a68ba0dacbb931d4b4492f00d",
+      "sources/terminology/v2/termbase.json": "ec047c1c70a2a47b136f5076e3da6b4d2226932de359e5f53d06a3a398879b7c",
+      "sources/terminology/verification.json": "bf6159ac52573a20747f2e8d0dbca1bd842ffdb912a3c6cfa96736d8c1bf1885",
+      "tests/test_alignment_store.py": "b2800752ab5ff1f2c4c3ee5185ac0927e8f6914873981941c9910a0353f5c0d7",
+      "tests/test_difficult_pilot.py": "f787dca01d3f9a0a9962b090a682ab75572fec73283c37ea9c66425b4e34ea9c",
+      "tests/test_opening_cycle.py": "0b62707241589a08ce490925df7f5c99a614a95494caa6db19604ac4926b641f",
+      "tests/test_paragraph_002.py": "85b430cc36cdc872590857240a224bf784289fbf21d1a2a254879fed811a6505",
+      "tests/test_preparation_store.py": "747ab2083c021593fc3f51350dde3d82573aae5dff93518dd563d2f32cb3e077",
+      "tests/test_termbase.py": "d781400b5841863a148b3a48a301d6750c06a773563c664cca979730f0c64f87",
+      "tmp/termbase-v2/termbase-final.sqlite": "2d312a70fffdc4647928edb467bde6935aeea721ad7c821f2de3264f41c2a8c2",
+      "tools/alignment-schema.sql": "0a36c9b240836fe98df8c70a89abdc69617eb780bb40d10845a2afe55c535835",
+      "tools/alignment_store.py": "672a730621a08c33ab3528efef6e607767321e95ff1a570e930fb826790a3149",
+      "tools/assemble_termbase.py": "6ea78f34e2b7cf34dc6038016a2b40227ebe429504e1a5c3051e4f9c9f6b7238",
+      "tools/build_difficult_pilot.py": "6b61c55085b2fd48db2770bd6ab187b2d26a58a40c6fd96209e61a772dff42a8",
+      "tools/build_opening_cycle.py": "25f749c98cd363f42bc991482e3d35e9f7d1361767850000eb0c5167df838dcd",
+      "tools/build_paragraph_002.py": "a49cfdf84063adb15895fdcf1d97e6c70c85985a2c299dd31e4ef8126d772d58",
+      "tools/build_terminology_index.py": "68e48e7333adc575532925004020b3799774dc9d9ea41c43b3d3847ebac800d8",
+      "tools/preparation_store.py": "9d5b55db1cc3ddd216f8a602c083615267c56c6d32edc4e75b664bcf57b7eda1",
+      "tools/render_termbase.py": "23cc4dde3c270712a133953596abb18fe37203e6f8de1b87f78e9d82c05ce811",
+      "tools/render_terminology.py": "961efe050628d026a58c956ad57f50d504360dd6b3c25ee76d3d64ca2cba9ffe",
+      "tools/termbase_store.py": "86b4f42cdd276e36ae4827a9d694b99f439c5162044d34a38ba137240b1bfd7c",
+      "tools/terminology_candidates.py": "250f6332a7cd6c6297f17fe04806d61a556a28a57e47f7675c15be16d8b0d0ca",
+      "translations/difficult-147/alignments.json": "c98b214d19196222e33d29bfea555e328aed19b6f2d0485e1d96968a4a6cf29b",
+      "translations/difficult-147/audits.json": "7daf3dfb6f22f00e0420e330934b9a01f32b2806a9b4b81517dad3508475e015",
+      "translations/difficult-147/baseline.json": "23d2c57af1c6969c3b5a7e167fcd461cb00041e0f37ceae21b788e6205c1e2d1",
+      "translations/difficult-147/candidates.json": "0477449dedd968b8bde4d1d69dd1d5bfc84d61ee3a970f38aeef5c78decc0e97",
+      "translations/difficult-147/candidates.md": "4b2a377903d0f3d81f306b390aa3423c6668639f978e04c070c246c7454082a0",
+      "translations/difficult-147/comparison.md": "0332ff908f5905ea41d643f8e608f4f652c05b811ca32c5fe4c07f64b429a8ed",
+      "translations/difficult-147/decisions.json": "e4eb98cb7a4d45b4ba57239fb507f4ffeec84b2e5ac3a5812c95cd0c0910900e",
+      "translations/difficult-147/notes.json": "fe859b8c10c906a2517e9aee78d89f09b76e768d4bd321dd20541d2d31c161d4",
+      "translations/difficult-147/packet.md": "cc85b39ebea4f907cd99aeb0f9b7846669afc33188074f4b95a0e3e81b13f9ab",
+      "translations/difficult-147/plan.md": "e0aa5cb08f10a39163a9753dac3087ab34231eca2441de41a89014fc57e3b145",
+      "translations/difficult-147/record.json": "b3bb74217129722c426440319b5a916de57f1a626bc5c483121bece61352947f",
+      "translations/difficult-147/revised.json": "61204bc8300e8bfdd5a543ed648342c55254e331fb3df1310a4d31c95fae15b8",
+      "translations/difficult-147/revised.md": "22612dcab237bc518be8158ea291a1d78aacf03e9dd6729a70b525d88427d911",
+      "translations/difficult-147/source.json": "06f5bc0af19d0ccdc0f3bd0fa54c4600360e71fb74167d1f06dd1fb4010ac34e",
+      "translations/difficult-147/store-guide.md": "6fdd3d31fa8064380e3ec933e470195c68ab960ee97815f3aed61ff17908d327",
+      "translations/difficult-147/synthesis.json": "00847b81e100342008bc6ddb223833765916df6aed54b70f1ffd7bb596d118d7",
+      "translations/difficult-147/term-links.json": "61fff1db2144bee747919229b947b892aee11259cb9d6e46120ab1fa83770ca4",
+      "translations/difficult-147/verification.json": "a1a7ff6bf7c2101ec5d3c4f46b9e18ef31b0e0ce5634020d77275dd01615dea9",
+      "translations/opening-001/alignments.json": "a013f980bb4a695a6a3217a999c8a0d4f21a3c7cc8a717f3d1d40b0531d6c6b7",
+      "translations/opening-001/approval-2026-11-15.json": "4938ac4a0e1c8dd7cafa2e4f6f237ddbbb07fd75cb7d4734ce1122f40bcf82c9",
+      "translations/opening-001/audits.json": "30798ee4c8cb1b9d49a7e41e6a5e14e2a28aac7459e5dc3caa49d0f0f9b96f9f",
+      "translations/opening-001/candidates.json": "5756037ac1784b7ab235e74ccb74c9eec02fd886bab492e49d253405e743b71b",
+      "translations/opening-001/candidates.md": "613c3e5670208d98af7780127af03f11411f40850b75e08e6139ccf1be3c8e7c",
+      "translations/opening-001/comparison.md": "1a66eb20d2eda422638eebe63c3a98e53b31a67861f003f5b26903ad41d37b70",
+      "translations/opening-001/decisions.json": "c12e877cc1a8421d952cf81a60cb161a5b5f9dbdff1951cb9db3caa109682a0d",
+      "translations/opening-001/packet.md": "be6af65e898c4cb17b006aec4fc6a8f547c302ed1e2f0d6875665e77812a2fcb",
+      "translations/opening-001/record.json": "4c3a60fd046ab7d03506ed4a7d26bae94689275f017a6870d392d2a6ba390ddf",
+      "translations/opening-001/revised.json": "510782ce9ada63b3d31442618881d6a90b25ab2385f5b4b9ebbacdb40743bda2",
+      "translations/opening-001/revised.md": "6d3248bb508e45fc4812dcfd2e3c56c08e41690ab9ed183a7c56d7992151f7d5",
+      "translations/paragraph-002/alignments.json": "347f8cee01ad5536576f505aa621b607d6932a1b04208dc2f2bb6c4067a90a82",
+      "translations/paragraph-002/audits.json": "461ead143eac3e3c2e8dce26f66f5e36f49902f76ba65481dc4f8cc8add5637f",
+      "translations/paragraph-002/candidates.json": "29f0657869d9612da2a05f03f90180a597773d10b0a73306bf88acd30453ad45",
+      "translations/paragraph-002/candidates.md": "74f5b21d0818e26ad6f53c71611767489f1d3f5b47e45bb58a79146a9c451cee",
+      "translations/paragraph-002/comparison.md": "5611d0caf074a16d17c876f17163ecca76e58b50c61fe02bb239d378c22a98f0",
+      "translations/paragraph-002/decisions.json": "b2a0be287f4e03c507ed7278956ef60d2468359dd1ee1a828e200e8d1652c3ca",
+      "translations/paragraph-002/packet.md": "1b7820b48f9aa1738135a74c33bff5e4e0e09e67854bac248ca3b7400e17ab59",
+      "translations/paragraph-002/record.json": "4f2666d22b34834c554b7ba98abf2d1221888c1245ecb40d6415b7da703e401c",
+      "translations/paragraph-002/revised.json": "2b189d56ccade30bfdc77a49852c659099be078a7f2b39728f5e477f0cf05165",
+      "translations/paragraph-002/revised.md": "bc1fdabe06dc65039a030272ce26b7de25c540677a2fe719abd57c5eb832a964",
+      "translations/pilot-001.md": "22b3d1d6e3a5c1e3018ce848702452f9baf73a0352c9bfbbf7d26553c39dbebb"
+    }
+  },
+  "python": "3.14.10 (main, Oct 25 2026, 17:12:00) [Clang 21.0.0 (clang-2100.3.34.2)]",
+  "queries": {
+    "defaults": [
+      {
+        "section": "1",
+        "source_id": "grundzuege-001-v1",
+        "target_id": "en-revised-v2"
+      },
+      {
+        "section": "2",
+        "source_id": "grundzuege-002-v1",
+        "target_id": "en2-revised-v2"
+      },
+      {
+        "section": "147",
+        "source_id": "difficult-147-de-v1",
+        "target_id": "en147-revised-v2"
+      }
+    ],
+    "first_english_result": {
+      "exact_form": true,
+      "id": "lex:verstand:s01",
+      "kind": "term_sense",
+      "label": "Verstand — faculty of understanding",
+      "language": "en",
+      "lexeme_id": "lex:verstand",
+      "match_field": "English rendering",
+      "rendering_rank": 1,
+      "renderings": [
+        "understanding",
+        "intellect"
+      ],
+      "snippet": "understanding / intellect"
+    },
+    "sections": [
+      "1",
+      "2",
+      "147"
+    ],
+    "trace_decisions": [
+      "D009.lex:andeutung:s02",
+      "D011.criterion"
+    ],
+    "trace_unit": "difficult-147-de-v1:s05:w013"
+  },
+  "recorded_at": "2026-11-15T19:31:40.648522+00:00",
+  "release": {
+    "all_file_hashes_match": true,
+    "code_and_record_inputs_match_checkout": true,
+    "files": 27,
+    "logical_digest": "53334ec49b583ad5538bb21d17249eb8416c38adb14b44874d6ac5027a83a962",
+    "manifest_sha256": "7df999b16f4c1dfb115ee2fc5ba79d98b249b27c1bea91c9ba9dd10cea5ecbe2",
+    "packaging_subprocess_validation": true,
+    "path": "releases/0.1.0"
+  },
+  "sources": {
+    "attachments": [
+      {
+        "checked": true,
+        "path": "sources/raw/gs-v-1906.pdf",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "sources/raw/lexicon/adelung-abschleifen.html",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "sources/raw/lexicon/adelung-anschauen.html",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "sources/raw/lexicon/adelung-ansicht.html",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "sources/raw/lexicon/adelung-ausbilden.html",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "sources/raw/lexicon/adelung-begriff.html",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "sources/raw/lexicon/adelung-bilden.html",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "sources/raw/lexicon/adelung-bildung.html",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "sources/raw/lexicon/adelung-bis.html",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "sources/raw/lexicon/adelung-form.html",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "sources/raw/lexicon/adelung-geist.html",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "sources/raw/lexicon/adelung-kraft.html",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "sources/raw/lexicon/adelung-verkehr.html",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "sources/raw/lexicon/adelung-wohl.html",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "sources/raw/references/drechsel-2024/drechsel-2024-12-3.pdf",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "sources/raw/references/humboldt-gs-04.pdf",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "sources/raw/references/humboldt-gs-07-1.pdf",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "sources/raw/references/humboldt-gs-08.pdf",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c4.pdf",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c6.pdf",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "sources/raw/references/nord-2006-purposeful-activity.pdf",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "sources/raw/references/trabant-2023-anthropological-linguistics.pdf",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "sources/raw/references/underhill-2009-humboldt-worldview-language.pdf",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "sources/terminology/search-pages.json",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "sources/terminology/v2/termbase.json",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "translations/difficult-147/audits.json",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "translations/difficult-147/candidates.json",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "translations/difficult-147/revised.json",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "translations/difficult-147/source.json",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "translations/difficult-147/synthesis.json",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "translations/opening-001/approval-2026-11-15.json",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "translations/opening-001/audits.json",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "translations/opening-001/candidates.json",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "translations/opening-001/packet.md",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "translations/opening-001/revised.json",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "translations/paragraph-002/audits.json",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "translations/paragraph-002/candidates.json",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "translations/paragraph-002/packet.md",
+        "status": "available"
+      },
+      {
+        "checked": true,
+        "path": "translations/paragraph-002/revised.json",
+        "status": "available"
+      }
+    ],
+    "counts": {
+      "alignment": 183,
+      "alignment_member": 379,
+      "analysis": 27,
+      "build_metadata": 9,
+      "change_impact": 0,
+      "composite_attestation": 1,
+      "composite_member": 2,
+      "decision": 1575,
+      "decision_evidence": 1811,
+      "evidence": 1768,
+      "evidence_detail": 155,
+      "lexeme": 1048,
+      "lexeme_control": 149,
+      "lexeme_form": 1712,
+      "preparation_input": 9,
+      "register_carry_forward": 119,
+      "revision_history": 0,
+      "schema_migration": 2,
+      "sense_attestation": 1566,
+      "sense_rendering": 2167,
+      "term_entry": 34,
+      "term_entry_evidence": 202,
+      "term_entry_family": 46,
+      "term_expression_part": 1565,
+      "term_family": 18,
+      "term_occurrence": 4740,
+      "term_relation": 122,
+      "term_sense": 1518,
+      "term_use": 1531,
+      "terminology_candidate": 3515,
+      "terminology_control": 87,
+      "terminology_page_review": 110,
+      "text_version": 21,
+      "unit": 86978,
+      "unit_decision": 1681,
+      "unit_evidence": 3272,
+      "word_index": 39132
+    },
+    "datasets": 4,
+    "edition_id": "humboldt-grundzuege",
+    "foreign_key_errors": [],
+    "input_digest": "6d29e7990fdcbe1b552fefca5b3efb136124ab14ab32a57190d07fa97a1ceedf",
+    "integrity": "ok",
+    "logical_digest": "53334ec49b583ad5538bb21d17249eb8416c38adb14b44874d6ac5027a83a962",
+    "schema_version": 2,
+    "sealed": false
+  },
+  "tests": {
+    "core_log_sha256": "8bf1f44fc2986f696c96a7987f1c6d56a1579c8959aec56f1dc0736de9d40be4",
+    "core_resource_warnings": false,
+    "historical": 43,
+    "historical_log_sha256": "6622b27d2e26af104e56c17548dcc5347932a8002ca0ebf1e37ed2eec0535e3c",
+    "historical_resource_warnings": true,
+    "integration": 6,
+    "passed": true,
+    "total": 103,
+    "unit": 54
+  },
+  "visual_check": {
+    "height": 1100,
+    "inspection": "Revised English selected; explicit version IDs; first source sentences displayed in order; additional span alignments follow the continuous text.",
+    "path": "build/reader-desktop.png",
+    "sha256": "fb02e67699fa6107033f9abac547786fa5715b659febfc95edf9e4658c46459b",
+    "width": 1440
+  }
+}

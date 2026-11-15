@@ -1,0 +1,339 @@
+{
+  "audited_version": "en147-synthesis-v1",
+  "audits": [
+    {
+      "id": "claude",
+      "models": [
+        "claude-fable-5-2"
+      ],
+      "findings": [
+        {
+          "id": "F01",
+          "sentence": "s05",
+          "severity": "material",
+          "source_quote": "eine so feste und reine Andeutung ..., dass das angedeutete grammatische Verhältniss darin bestimmt erkannt wird, und die Art der Andeutung gar nicht für eine Begriffsbezeichnung genommen werden kann, sondern unmittelbar durch sich selbst den Unterschied zwischen Begriffs- und Verhältnissbezeichnung offenbar macht",
+          "English_quote": "... so fixed and pure that the relation indicated is clearly recognized in it. The manner of indication cannot be taken as a designation of a concept at all, but immediately, through itself, makes manifest the distinction ...",
+          "issue": "Scope. In the German, both clauses fall under the single result clause 'so ... dass': the indication must be so fixed and pure that (i) the relation is determinately recognized and (ii) its manner cannot be taken for a concept-designation. The sentence split makes (ii) a free-standing categorical assertion instead of a definitional criterion. Read that way it conflicts with s07, which contemplates indication effected 'durch einen Sachbegriff'.",
+          "proposed_change": "Keep one sentence with both clauses under 'that': '... an indication ... so fixed and pure that the grammatical relation indicated is determinately recognized in it, and that the manner of indication cannot be taken for a designation of a concept at all but, immediately through itself, makes manifest the distinction between the designation of concepts and the designation of relations.'"
+        },
+        {
+          "id": "F02",
+          "sentence": "s05",
+          "severity": "minor",
+          "source_quote": "dass das angedeutete grammatische Verhältniss darin bestimmt erkannt wird",
+          "English_quote": "that the relation indicated is clearly recognized in it",
+          "issue": "'bestimmt' is determinacy (definitely, determinately), not perceptual clarity. 'clearly' weakens the criterion that the specific relation is identified. The adjective 'grammatische' is also dropped.",
+          "proposed_change": "'that the grammatical relation indicated is determinately (or definitely) recognized in it'"
+        },
+        {
+          "id": "F03",
+          "sentence": "source footnote (packet does not state its anchor; presumably s15)",
+          "severity": "material if the deliverable is meant to carry the apparatus; otherwise a note",
+          "source_quote": "Lettre sur le génie de la langue Chinoise à Monsieur Abel Remusat. p. 22. [editor callout 1] 98. / 1) Vgl. oben S. 268.",
+          "English_quote": "(none: the English synthesis has no footnote, callout or editorial note)",
+          "issue": "Omission. The author's footnote and the editor's cross-reference are absent from the English. The reader loses the stated source for the remark credited to Abel-Rémusat. I cannot confirm the anchor point from the packet.",
+          "proposed_change": "Add the author footnote at its printed anchor, with title and spelling as printed ('Remusat' unaccented, 'p. 22.'). Retain the terminal '98.' unclassified, as the packet's uncertainty note requires. Give the editorial 'Vgl. oben S. 268.' separately, marked as the GS editor's note and not Humboldt's. Do not merge the GS V 268 Lettre passage into the text."
+        },
+        {
+          "id": "F04",
+          "sentence": "s07, s13, s17",
+          "severity": "minor",
+          "source_quote": "durch einen Sachbegriff (s07); ursprüngliche Sachwörter (s13); die ursprüngliche Sachbedeutung (s17)",
+          "English_quote": "through a substantive concept; words originally possessing substantive content; the original substantive meaning",
+          "issue": "Term contrast. The Sach- versus Verhältniss- opposition is rendered consistently, which is good. But 'substantive' is also the grammatical term for a noun, and this passage is about Nomina and Verba. The illustrating Sachwort (ì, 'gebrauchen, anwenden') is a verb, so a reader may misparse 'substantive concept' or 'substantive meaning' as nominal. The sense is otherwise correct.",
+          "proposed_change": "Use a rendering without the noun reading, consistently: 'material concept', 'words that were originally material words (words for things)', 'original material meaning'. Alternatively keep 'substantive' and gloss Sach- at first occurrence."
+        },
+        {
+          "id": "F05",
+          "sentence": "s13",
+          "severity": "minor",
+          "source_quote": "in wirkliche Verhältnisswörter übergehen",
+          "English_quote": "pass into genuine relational words",
+          "issue": "'genuine' is the rendering of 'ächt' in s01 and s18 ('ächter grammatischer Formen', 'ächte und reine Verhältnissbezeichnung'). Using it for 'wirklich' collapses a lexical distinction and implies s13 already asserts the 'ächt' status that s18 says cannot always be read off the language.",
+          "proposed_change": "'pass into actual (or real) relational words', reserving 'genuine' for 'ächt'."
+        },
+        {
+          "id": "F06",
+          "sentence": "s09, s11",
+          "severity": "minor (defensible rendering; needs a note)",
+          "source_quote": "auch Nomina seyn könnten (s09); wie ein Nomen (s11)",
+          "English_quote": "could also be nouns; as a noun",
+          "issue": "Possible scope narrowing. Humboldt uses the Latin term Nomen/Nomina, which may be wider than modern English 'noun' (it can cover substantive and adjective). The packet does not settle his intended extension here, so 'nouns' is defensible but not neutral.",
+          "proposed_change": "Either keep 'nouns' with a brief note that the source has Latin 'Nomina/Nomen', or use 'nomina' or 'nominals'. Do not narrow further to 'substantives'."
+        },
+        {
+          "id": "F07",
+          "sentence": "s11",
+          "severity": "minor",
+          "source_quote": "ebensowohl wie ein Nomen, als wie ein Verbum gebraucht werden kann, aber der Zusammenhang des Sinnes oder die Stellung angiebt",
+          "English_quote": "can be used equally well as a noun or as a verb, but the context of meaning or its position indicates",
+          "issue": "Two small shifts. (a) 'wie ein Nomen ... wie ein Verbum' (used like a noun, like a verb) becomes 'as a noun, as a verb'. That reads as category membership, which Humboldt's 'wie' avoids, and it blurs the contrast with 'als Verba genommen' in s09. (b) 'die Stellung' becomes 'its position', adding a possessive; s12 has bare 'position'.",
+          "proposed_change": "'can be used just as much like a noun as like a verb, but the connection of sense or the position indicates that the latter is to occur'"
+        },
+        {
+          "id": "F08",
+          "sentence": "s07",
+          "severity": "note (defensible resolution of an ambiguous pronoun)",
+          "source_quote": "so wird sie darum dennoch in die Sprache hineingetragen",
+          "English_quote": "the grammatical form is nevertheless brought into the language",
+          "issue": "'sie' could grammatically refer to 'Andeutung' or 'grammatische Form' (both feminine). The English resolves it silently to the form. That is the better reading: an indication that 'ganz fehlt' cannot be what is carried in, and §148 says the speaker puts 'den Begriff der grammatischen Verhältnisse in die Sprache hinein'. It is still an interpretive expansion. 'brought into' also loses the sense of something carried in by speakers, though the passive leaves the agent open as the German does.",
+          "proposed_change": "Keep the resolution but record it as editorial, for example '[the grammatical form]' in brackets or a translator's note. Optionally 'is nevertheless carried into the language'."
+        },
+        {
+          "id": "F09",
+          "sentence": "s07",
+          "severity": "minor",
+          "source_quote": "wirkt also auch wieder aus der Sprache auf die Seele zurück",
+          "English_quote": "thus also acts back upon the mind from the language",
+          "issue": "'Seele' is rendered 'mind'. Nothing in §147 forces a contrast, but 'mind' is the usual slot for 'Geist' elsewhere in Humboldt, so this may cause a collision across the larger translation. 'wieder' (in turn) is also dropped.",
+          "proposed_change": "'and so in turn acts back from the language upon the soul' (or keep 'mind' only if the project glossary assigns Seele to 'mind' and Geist to something else)."
+        },
+        {
+          "id": "F10",
+          "sentence": "s02",
+          "severity": "minor (attachment ambiguity created in English)",
+          "source_quote": "so ist sie, als leitendes Gesetz des Verständnisses doch in denen vorhanden, welche die Sprache reden",
+          "English_quote": "it is nevertheless present in those who speak the language as a guiding law of understanding",
+          "issue": "With 'as a guiding law of understanding' at the end, it can attach to 'speak the language'. In the German it is unambiguously predicated of 'sie' (the grammatical form).",
+          "proposed_change": "'it is nevertheless present, as a guiding law of understanding, in those who speak the language.'"
+        },
+        {
+          "id": "F11",
+          "sentence": "s06",
+          "severity": "note",
+          "source_quote": "nach der mit Bedacht (134.) gewählten Ordnung ... einen festen, nicht wieder nur an seiner Stellung erkenntlichen Punkt",
+          "English_quote": "Given the order deliberately chosen (§134) ... a fixed point that is not itself recognizable merely by its position",
+          "issue": "(a) The print has '(134.)'; the section sign is an editorial normalization. It is plausible given the section numbering but is not in the source. (b) 'nicht wieder nur' expresses the regress (not once again identifiable only by position). 'not itself ... merely' conveys this adequately. The independent anchor requirement is otherwise correct: absolutely fixed, immovable, referring to a fixed point, with no added or dropped condition.",
+          "proposed_change": "Print '(134.)' as in the source, or mark '§' as editorial. Optionally 'a fixed point that is not in its turn recognizable only by its position'."
+        },
+        {
+          "id": "F12",
+          "sentence": "s18",
+          "severity": "note (defensible)",
+          "source_quote": "Indess hat dies nur nach und nach ... geschehen können, und es lässt sich also nicht immer allein mehr der Sprache ansehen, was wahrhaft grammatisch, als ächte und reine Verhältnissbezeichnung genommen wird",
+          "English_quote": "This, however, can only have happened little by little ... it is no longer always possible to tell from the language alone what is taken as truly grammatical, as a genuine and pure designation of relation",
+          "issue": "(a) 'nicht immer allein mehr' is awkward German. 'no longer always ... from the language alone' is a legitimate construal, with 'allein' on 'der Sprache' and 'mehr' as 'no longer'. It does introduce an 'it once was possible' presupposition that the German carries only weakly. (b) 'was wahrhaft grammatisch, als ... genommen wird' admits two parses: 'what is taken as truly grammatical, [namely] as ...' or 'what is truly grammatical, [i.e.] taken as ...'. The English picks the first and keeps the apposition. (c) 'hat ... geschehen können' is 'could have come about only gradually'; 'can only have happened' is equivalent in effect. (d) 'designation of relation' is singular here but plural in s05, a trivial inconsistency. The limitation itself is intact: 'not always', 'from the language alone', the subjunctive 'one would have to know', and 'at different epochs'.",
+          "proposed_change": "No change required. If desired: 'This, however, could have come about only little by little ... and so it can no longer always be seen from the language alone what ...', and harmonize 'designation of relation(s)' with s05."
+        },
+        {
+          "id": "F13",
+          "sentence": "s03",
+          "severity": "note",
+          "source_quote": "da man doch unter der Sprache nicht bloss die todten Töne, sondern die Auffassung derselben durch die Redenden versteht",
+          "English_quote": "since by language we understand not merely the dead sounds but also the speakers’ apprehension of them",
+          "issue": "The particle 'doch' (after all) is omitted, and 'also' is supplied after 'not merely'; both are harmless. 'derselben' is resolved to the sounds ('of them'). It could formally be genitive singular (of the language), but s04 ('diese Auffassung gerade von den todten Tönen zu unterscheiden') supports the sounds reading.",
+          "proposed_change": "Optional: 'since, after all, by language one understands not merely the dead sounds but the apprehension of them by those who speak.'"
+        }
+      ],
+      "checked_sentences": [
+        "s01",
+        "s02",
+        "s03",
+        "s04",
+        "s05",
+        "s06",
+        "s07",
+        "s08",
+        "s09",
+        "s10",
+        "s11",
+        "s12",
+        "s13",
+        "s14",
+        "s15",
+        "s16",
+        "s17",
+        "s18"
+      ],
+      "overall": "The English is largely faithful, with no negation errors and no added premises of substance. Two points are material. First, the s05 sentence split takes the second criterion out of the 'so ... dass' definition and turns it into a free-standing assertion (F01). Second, the author's footnote and the editor's cross-reference are missing from the English (F03), which matters if the deliverable is meant to include the apparatus. The remaining findings are minor or defensible choices that only need recording. The Andeutung/Bezeichnung contrast (indication versus designation) is kept throughout, including s02, s05, s08 and s10. The other points singled out pass: the s06 word-order anchor is rendered without loss; the s10 proviso ('wenn man nur nicht darauf achtet') is correctly 'provided one pays no attention', with the grammatical designation versus habitual usage contrast intact; and in s12 'ausser ihr' correctly refers to position ('outside itself'), with 'if only because' matching 'schon darum ... weil'. s14 preserves ì as supplied without modernization. s15 and s16 keep the attribution to Abel-Rémusat, the generic present and the 'zwar' concession. s01, s04 and s08 show no issue beyond style.",
+      "limits": "Audit made from the supplied packet only. No tools, images, external sources, other passages or other models' verdicts were used (the available advisor tool was not called, per the instruction). I did not inspect the print, so I do not certify the accent or reading of ì, the footnote's anchor point, the function of the terminal '98.', or the '(134.)' reference. There was no critical-edition or manuscript comparison. Judgments on ambiguous German (s07 'sie', s03 'derselben', s18 'nicht immer allein mehr') are my own construals and are marked as such. The Nomina point (F06) rests on the Latin term's possible wider extension, which the packet does not document. Nothing here is a claim about Chinese; the labels are Humboldt's. A plan-mode workflow instruction was present, but its tools (plan file writing, ExitPlanMode) are not available to me, so I returned the audit directly and changed nothing. The session-start integrity notice about changed steering files was not examined and has no bearing on this tool-free audit."
+    },
+    {
+      "id": "muse",
+      "models": [
+        "muse-wonder-full-1.0"
+      ],
+      "findings": [],
+      "checked_sentences": [
+        "s01",
+        "s02",
+        "s03",
+        "s04",
+        "s05",
+        "s06",
+        "s07",
+        "s08",
+        "s09",
+        "s10",
+        "s11",
+        "s12",
+        "s13",
+        "s14",
+        "s15",
+        "s16",
+        "s17",
+        "s18"
+      ],
+      "overall": "No material semantic error was found in the 18 audited sentences. The synthesis preserves the relevant omissions/additions, scope, negation, modality, antecedents, arguments, and term contrasts, including Andeutung versus Bezeichnung in s05, the independently fixed non-positional anchor in s06, grammatical form as the referent carried into the language in s07, Nomina versus Verba in s09, the observer's conditional proviso in s10, position itself as the antecedent of ausser ihr in s12, the Sach-/substantive versus Verhältniss-/relational contrasts in s13-s17, and the gradual historical transition and epistemic limitation in s18. Remaining differences are defensible qualified renderings, explicative disambiguations, or sentence-segmentation choices rather than material changes of meaning.",
+      "limits": "This audit used only the supplied source packet and inspected no source images, manuscripts, or critical editions. It therefore does not certify the accent or identity of the historical transcription ì, supplies no Chinese character or modern reading, and draws no inference about modern Chinese. The author footnote and editorial note were checked as paratext distinct from the main text; no English footnote rendering was supplied in the synthesis, the function of the terminal 98. is not classified, and no equivalence claim is made for a footnote translation. Historical linguistic claims are treated as Humboldt's, not as modern findings."
+    }
+  ],
+  "dispositions": [
+    {
+      "audit": "claude",
+      "finding": "F01",
+      "status": "accepted",
+      "action": "Restored one sentence with both clauses under so…that; the second criterion is no longer a free-standing general assertion."
+    },
+    {
+      "audit": "claude",
+      "finding": "F02",
+      "status": "accepted with uncertainty retained",
+      "action": "Restored grammatical relation and chose definitely for bestimmt. The rendering preserves the criterion without claiming that English uniquely settles the determinacy/definiteness nuance."
+    },
+    {
+      "audit": "claude",
+      "finding": "F03",
+      "status": "accepted",
+      "action": "Added the author note at the printed anchor after Abel-Rémusat and kept the GS editorial cross-reference separately labelled. The terminal98 remains visible and uninterpreted."
+    },
+    {
+      "audit": "claude",
+      "finding": "F04",
+      "status": "accepted by clarification",
+      "action": "Changed substantive concept to concept with substantive content and explained the whole Sach- family, including the verb example, in a translator note; rejected an automatic noun or concrete-object equation."
+    },
+    {
+      "audit": "claude",
+      "finding": "F05",
+      "status": "accepted",
+      "action": "Changed genuine to actual for wirkliche; genuine remains the local rendering of ächt."
+    },
+    {
+      "audit": "claude",
+      "finding": "F06",
+      "status": "qualified",
+      "action": "Retained noun with an explicit Nomen/Nomina scope note. The possible wider extension is not asserted as a fact established by this packet."
+    },
+    {
+      "audit": "claude",
+      "finding": "F07",
+      "status": "partly accepted",
+      "action": "Removed the added possessive in position. Retained idiomatic used as: that phrase describes use, and the audit did not establish that German wie here encodes a stronger opposition to category membership."
+    },
+    {
+      "audit": "claude",
+      "finding": "F08",
+      "status": "accepted as explicit uncertainty",
+      "action": "Retained the grammatical-form antecedent, with the alternative indication and §148 contextual support in a translator note."
+    },
+    {
+      "audit": "claude",
+      "finding": "F09",
+      "status": "partly accepted",
+      "action": "Made the return/in-turn force explicit. Retained mind for Seele under the existing conditional termbase policy; no local contrast with Geist requires soul, and no global one-to-one lexicon is imposed."
+    },
+    {
+      "audit": "claude",
+      "finding": "F10",
+      "status": "accepted",
+      "action": "Moved as a guiding law of understanding next to the form’s presence, removing an attachment to speak the language."
+    },
+    {
+      "audit": "claude",
+      "finding": "F11",
+      "status": "accepted in part",
+      "action": "Restored the printed (134.) rather than silently adding a section sign. Kept the independent-anchor condition intact; the source cross-reference is not a modern bibliographic reference."
+    },
+    {
+      "audit": "claude",
+      "finding": "F12",
+      "status": "retained with limits",
+      "action": "The final epistemic restriction is preserved. The weak presupposition/attachment alternatives are noted; a different historical theory is not inserted."
+    },
+    {
+      "audit": "claude",
+      "finding": "F13",
+      "status": "accepted as small restoration",
+      "action": "Restored after all for doch, while retaining the contextual sounds antecedent for derselben."
+    },
+    {
+      "audit": "claude",
+      "finding": "F01",
+      "status": "accepted",
+      "action": "Restored one sentence with both clauses under so…that; the second criterion is no longer a free-standing general assertion."
+    },
+    {
+      "audit": "claude",
+      "finding": "F02",
+      "status": "accepted with uncertainty retained",
+      "action": "Restored grammatical relation and chose definitely for bestimmt. The rendering preserves the criterion without claiming that English uniquely settles the determinacy/definiteness nuance."
+    },
+    {
+      "audit": "claude",
+      "finding": "F03",
+      "status": "accepted",
+      "action": "Added the author note at the printed anchor after Abel-Rémusat and kept the GS editorial cross-reference separately labelled. The terminal98 remains visible and uninterpreted."
+    },
+    {
+      "audit": "claude",
+      "finding": "F04",
+      "status": "accepted by clarification",
+      "action": "Changed substantive concept to concept with substantive content and explained the whole Sach- family, including the verb example, in a translator note; rejected an automatic noun or concrete-object equation."
+    },
+    {
+      "audit": "claude",
+      "finding": "F05",
+      "status": "accepted",
+      "action": "Changed genuine to actual for wirkliche; genuine remains the local rendering of ächt."
+    },
+    {
+      "audit": "claude",
+      "finding": "F06",
+      "status": "qualified",
+      "action": "Retained noun with an explicit Nomen/Nomina scope note. The possible wider extension is not asserted as a fact established by this packet."
+    },
+    {
+      "audit": "claude",
+      "finding": "F07",
+      "status": "partly accepted",
+      "action": "Removed the added possessive in position. Retained idiomatic used as: that phrase describes use, and the audit did not establish that German wie here encodes a stronger opposition to category membership."
+    },
+    {
+      "audit": "claude",
+      "finding": "F08",
+      "status": "accepted as explicit uncertainty",
+      "action": "Retained the grammatical-form antecedent, with the alternative indication and §148 contextual support in a translator note."
+    },
+    {
+      "audit": "claude",
+      "finding": "F09",
+      "status": "partly accepted",
+      "action": "Made the return/in-turn force explicit. Retained mind for Seele under the existing conditional termbase policy; no local contrast with Geist requires soul, and no global one-to-one lexicon is imposed."
+    },
+    {
+      "audit": "claude",
+      "finding": "F10",
+      "status": "accepted",
+      "action": "Moved as a guiding law of understanding next to the form’s presence, removing an attachment to speak the language."
+    },
+    {
+      "audit": "claude",
+      "finding": "F11",
+      "status": "accepted in part",
+      "action": "Restored the printed (134.) rather than silently adding a section sign. Kept the independent-anchor condition intact; the source cross-reference is not a modern bibliographic reference."
+    },
+    {
+      "audit": "claude",
+      "finding": "F12",
+      "status": "retained with limits",
+      "action": "The final epistemic restriction is preserved. The weak presupposition/attachment alternatives are noted; a different historical theory is not inserted."
+    },
+    {
+      "audit": "claude",
+      "finding": "F13",
+      "status": "accepted as small restoration",
+      "action": "Restored after all for doch, while retaining the contextual sounds antecedent for derselben."
+    }
+  ]
+}

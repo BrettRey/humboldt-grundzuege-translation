@@ -1,0 +1,467 @@
+{
+  "description": "Disposable source-only linked-text prototype; no English candidate imported. Proposed grammatical analyses, not approved translation.",
+  "annotation_provenance": {
+    "model": "claude-fable-5-2",
+    "raw_result_sha256": "db2d896165855901cfb85e85d5e6e94f51a64305ce4b06ba9aaba5a52e2669cd",
+    "prompt_sha256": "5c4c25fc3914ca89bbb0295ca96266b64c2353f3e0ca4ffdce66ab4a171019b0",
+    "design_review_model": "muse-wonder-full-1.0",
+    "scope": "Coordinator adapted all 20 returned segments; s6 predicate/phrase kinds relabelled without changing spans; separate s7 alternative records Claude-listed possibility."
+  },
+  "versions": [
+    {
+      "id": "grundzuege-001-v1",
+      "title": "Grundzüge des allgemeinen Sprachtypus — §1",
+      "language": "de",
+      "body": "Wenn es vielleicht sonderbar scheint, gerade die Sprachen eines Welttheils zum Gegenstande einer Untersuchung zu machen, so rechtfertigt sich diese, dem ersten Anblick nach, bloss geographische Ansicht bei Amerika durch die abgesonderte Lage dieses Welttheils und die besondre Beschaffenheit seiner Sprachen. In Europa, Asien und Afrika sind so verschiedene Sprachen zusammengeflossen, dass wenigstens die Sprachkunde keine Veranlassung finden kann, dieselben gerade in der Verbindung zu untersuchen, in die sie, immer mehr oder weniger zufällig, nun eben innerhalb der Gränzen desselben Welttheils getreten sind. Auch zeigen die Sprachstämme eines jeden die bedeutendsten Verschiedenheiten sowohl in ihrem Bau, als in den Stufen der von ihnen erreichten Bildung. Amerika dagegen hat, ausser den neuesten Europäischen Einwanderungen, welche die innere Nationaleigenthümlichkeit dieses Welttheils nur durch ihren zerstörenden Einfluss berührt haben, entweder gar keine, oder nur solche erfahren, von welchen kaum eine geschichtlich zu nennende Spur übriggeblieben ist. Welches daher auch der Ursprung der Amerikanischen Völker und Sprachen seyn mag, so haben sich ihre Geschicke viele Jahrhunderte hindurch nur durch sich selbst, und durch Berührung unter einander gestaltet. Die unübersehbare Menge von Stämmen, Horden und Familien vom obersten Norden bis zum untersten Süden des ausgedehnten Welttheils sind, solange wir die Geschichte desselben kennen, bis auf die Europaeische Unterjochung frei von fremdem Einfluss, nur durch sich selbst in Gährung ihrer Kräfte gerathen, und haben sich nur ihre Eigenthümlichkeiten mitgetheilt. Was daher auch in noch früherer Zeit Fremdes eingebracht seyn möchte, hat nachher Jahrhunderte hindurch diesen abschleifenden Einfluss des auf sich selbst beschränkten einheimischen Verkehrs erfahren.",
+      "body_sha256": "a2565fa80ff79414cd2cdf5ecce92753e6badb0fbd1aba4a31a078ccf8815be5",
+      "source_path": "sources/raw/gs-v-1906.pdf",
+      "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+      "locator": "GS V (1906), printed 364–365; PDF 374–375; scan leaves 376–377",
+      "transcription_status": "scan_checked_by_coordinator",
+      "provenance": "Copied from the separately labelled checked German in pilot-001; rechecked at PDF 374–375. Line-end hyphens rejoined, page break replaced by space, section marker omitted. Spelling and punctuation preserved. D001: authorial finality unresolved; reported cancellation unverified."
+    },
+    {
+      "id": "untersuchungen-excerpt-v1",
+      "title": "Untersuchungen über die Amerikanischen Sprachen — opening excerpt",
+      "language": "de",
+      "body": "Wenn es vielleicht sonderbar scheint, gerade die Sprachen eines Welttheils zum Gegenstande einer Untersuchung zu machen, so rechtfertigt sich diese, dem ersten Anblick nach bloss geographische Ansicht bei Amerika durch die abgesonderte Lage dieses Welttheils und die besondre Beschaffenheit seiner Sprachen. In Europa, Asien und Afrika sind so verschiedene zusammengeflossen, dass wenigstens die Sprachkunde keine Veranlassung finden kann, dieselben gerade in der Verbindung zu untersuchen, in die sie, immer mehr oder weniger zufällig, nun eben innerhalb der Gränzen desselben Welttheils getreten sind. Grosse geschichtliche Begebenheiten haben die Völker und Sprachen in ihnen vermischt.",
+      "body_sha256": "e7394a8f1c932db296aaade1fe41f59a773f3e8f0853ef57c358521af9f7329a",
+      "source_path": "sources/raw/gs-v-1906.pdf",
+      "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+      "locator": "GS V (1906), first page of fragment (unnumbered, inferred 345); PDF 355",
+      "transcription_status": "scan_checked_by_coordinator",
+      "provenance": "Three sentences only, newly transcribed and checked against PDF 355. Line-end hyphens rejoined. Not the complete printed §1. A parallel fragment in the same edition, not an independently collated manuscript witness. Rechecked at a larger render before finalizing this packet: besondre, not besondere."
+    }
+  ],
+  "analyses": [
+    {
+      "id": "grund-layout",
+      "version_id": "grundzuege-001-v1",
+      "method": "Coordinator checked seven sentence boundaries; code tokenizes written forms as Unicode letters/marks/numbers with internal hyphens or apostrophes. No linguistic tokenization claim.",
+      "scope": "complete §1",
+      "status": "proposed",
+      "supersedes": null
+    },
+    {
+      "id": "parallel-layout",
+      "version_id": "untersuchungen-excerpt-v1",
+      "method": "Coordinator checked three sentence boundaries; same written-token convention.",
+      "scope": "three-sentence excerpt",
+      "status": "proposed",
+      "supersedes": null
+    },
+    {
+      "id": "claude-clauses-a",
+      "version_id": "grundzuege-001-v1",
+      "method": "Claude claude-fable-5-2 proposed syntax from supplied German only; coordinator validated exact spans and parent containment, not grammatical correctness.",
+      "scope": "seven sentences; includes finite/infinitival clauses, two predicate conjuncts and one predicative phrase",
+      "status": "proposed",
+      "supersedes": null
+    },
+    {
+      "id": "coordinator-s7-b",
+      "version_id": "grundzuege-001-v1",
+      "method": "Coordinator records the alternative suggested but not selected in Claude note s7c2; no second independent grammatical audit.",
+      "scope": "sentence 7 only; alternative attachment/function, same written span",
+      "status": "proposed",
+      "supersedes": null
+    }
+  ],
+  "layouts": [
+    {
+      "version_id": "grundzuege-001-v1",
+      "analysis_id": "grund-layout",
+      "container_kind": "paragraph",
+      "container_label": "§1 (printed paragraph)",
+      "sentences": [
+        {
+          "id": "g:s1",
+          "quote": "Wenn es vielleicht sonderbar scheint, gerade die Sprachen eines Welttheils zum Gegenstande einer Untersuchung zu machen, so rechtfertigt sich diese, dem ersten Anblick nach, bloss geographische Ansicht bei Amerika durch die abgesonderte Lage dieses Welttheils und die besondre Beschaffenheit seiner Sprachen."
+        },
+        {
+          "id": "g:s2",
+          "quote": "In Europa, Asien und Afrika sind so verschiedene Sprachen zusammengeflossen, dass wenigstens die Sprachkunde keine Veranlassung finden kann, dieselben gerade in der Verbindung zu untersuchen, in die sie, immer mehr oder weniger zufällig, nun eben innerhalb der Gränzen desselben Welttheils getreten sind."
+        },
+        {
+          "id": "g:s3",
+          "quote": "Auch zeigen die Sprachstämme eines jeden die bedeutendsten Verschiedenheiten sowohl in ihrem Bau, als in den Stufen der von ihnen erreichten Bildung."
+        },
+        {
+          "id": "g:s4",
+          "quote": "Amerika dagegen hat, ausser den neuesten Europäischen Einwanderungen, welche die innere Nationaleigenthümlichkeit dieses Welttheils nur durch ihren zerstörenden Einfluss berührt haben, entweder gar keine, oder nur solche erfahren, von welchen kaum eine geschichtlich zu nennende Spur übriggeblieben ist."
+        },
+        {
+          "id": "g:s5",
+          "quote": "Welches daher auch der Ursprung der Amerikanischen Völker und Sprachen seyn mag, so haben sich ihre Geschicke viele Jahrhunderte hindurch nur durch sich selbst, und durch Berührung unter einander gestaltet."
+        },
+        {
+          "id": "g:s6",
+          "quote": "Die unübersehbare Menge von Stämmen, Horden und Familien vom obersten Norden bis zum untersten Süden des ausgedehnten Welttheils sind, solange wir die Geschichte desselben kennen, bis auf die Europaeische Unterjochung frei von fremdem Einfluss, nur durch sich selbst in Gährung ihrer Kräfte gerathen, und haben sich nur ihre Eigenthümlichkeiten mitgetheilt."
+        },
+        {
+          "id": "g:s7",
+          "quote": "Was daher auch in noch früherer Zeit Fremdes eingebracht seyn möchte, hat nachher Jahrhunderte hindurch diesen abschleifenden Einfluss des auf sich selbst beschränkten einheimischen Verkehrs erfahren."
+        }
+      ]
+    },
+    {
+      "version_id": "untersuchungen-excerpt-v1",
+      "analysis_id": "parallel-layout",
+      "container_kind": "excerpt",
+      "container_label": "first three sentences of §1; partial paragraph",
+      "sentences": [
+        {
+          "id": "u:s1",
+          "quote": "Wenn es vielleicht sonderbar scheint, gerade die Sprachen eines Welttheils zum Gegenstande einer Untersuchung zu machen, so rechtfertigt sich diese, dem ersten Anblick nach bloss geographische Ansicht bei Amerika durch die abgesonderte Lage dieses Welttheils und die besondre Beschaffenheit seiner Sprachen."
+        },
+        {
+          "id": "u:s2",
+          "quote": "In Europa, Asien und Afrika sind so verschiedene zusammengeflossen, dass wenigstens die Sprachkunde keine Veranlassung finden kann, dieselben gerade in der Verbindung zu untersuchen, in die sie, immer mehr oder weniger zufällig, nun eben innerhalb der Gränzen desselben Welttheils getreten sind."
+        },
+        {
+          "id": "u:s3",
+          "quote": "Grosse geschichtliche Begebenheiten haben die Völker und Sprachen in ihnen vermischt."
+        }
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "id": "a:s1c1",
+      "analysis_id": "claude-clauses-a",
+      "sentence_id": "g:s1",
+      "parent_id": null,
+      "kind": "clause",
+      "label": "matrix declarative; preposed wenn-clause resumed by so; finite verb rechtfertigt (reflexive)",
+      "quote": "Wenn es vielleicht sonderbar scheint, gerade die Sprachen eines Welttheils zum Gegenstande einer Untersuchung zu machen, so rechtfertigt sich diese, dem ersten Anblick nach, bloss geographische Ansicht bei Amerika durch die abgesonderte Lage dieses Welttheils und die besondre Beschaffenheit seiner Sprachen",
+      "note": "Analysis, not source fact. Subject taken to be the discontinuous NP 'diese, dem ersten Anblick nach, bloss geographische Ansicht'. Unresolved: (a) 'dem ersten Anblick nach' is read as modifying 'bloss geographische' inside the NP, not the clause; (b) 'bei Amerika' may be a clause-level adjunct to 'rechtfertigt sich' or attach to 'Ansicht'; (c) one 'durch' is read as governing two coordinated NPs."
+    },
+    {
+      "id": "a:s1c2",
+      "analysis_id": "claude-clauses-a",
+      "sentence_id": "g:s1",
+      "parent_id": "a:s1c1",
+      "kind": "clause",
+      "label": "preposed adverbial wenn-clause; finite verb scheint",
+      "quote": "Wenn es vielleicht sonderbar scheint, gerade die Sprachen eines Welttheils zum Gegenstande einer Untersuchung zu machen",
+      "note": "Conditional versus concessive value of 'wenn' is not settled by the syntax; left open."
+    },
+    {
+      "id": "a:s1c3",
+      "analysis_id": "claude-clauses-a",
+      "sentence_id": "g:s1",
+      "parent_id": "a:s1c2",
+      "kind": "clause",
+      "label": "extraposed zu-infinitival; anticipated by es",
+      "quote": "gerade die Sprachen eines Welttheils zum Gegenstande einer Untersuchung zu machen",
+      "note": "'es' is read as a correlate of the infinitival. Understood subject of the infinitive is unexpressed and unspecified. Scope of 'gerade' is interpretive."
+    },
+    {
+      "id": "a:s2c1",
+      "analysis_id": "claude-clauses-a",
+      "sentence_id": "g:s2",
+      "parent_id": null,
+      "kind": "clause",
+      "label": "matrix declarative; finite verb sind (perfect with zusammengeflossen); so correlated with dass-clause",
+      "quote": "In Europa, Asien und Afrika sind so verschiedene Sprachen zusammengeflossen, dass wenigstens die Sprachkunde keine Veranlassung finden kann, dieselben gerade in der Verbindung zu untersuchen, in die sie, immer mehr oder weniger zufällig, nun eben innerhalb der Gränzen desselben Welttheils getreten sind",
+      "note": "'so' is read as a degree element on 'verschiedene' licensing the dass-clause; this is an analysis."
+    },
+    {
+      "id": "a:s2c2",
+      "analysis_id": "claude-clauses-a",
+      "sentence_id": "g:s2",
+      "parent_id": "a:s2c1",
+      "kind": "clause",
+      "label": "dass-clause (consecutive, correlate so); finite verb kann",
+      "quote": "dass wenigstens die Sprachkunde keine Veranlassung finden kann, dieselben gerade in der Verbindung zu untersuchen, in die sie, immer mehr oder weniger zufällig, nun eben innerhalb der Gränzen desselben Welttheils getreten sind",
+      "note": "Scope of 'wenigstens' (on 'die Sprachkunde' or on the clause) is unresolved."
+    },
+    {
+      "id": "a:s2c3",
+      "analysis_id": "claude-clauses-a",
+      "sentence_id": "g:s2",
+      "parent_id": "a:s2c2",
+      "kind": "clause",
+      "label": "extraposed zu-infinitival dependent on Veranlassung",
+      "quote": "dieselben gerade in der Verbindung zu untersuchen, in die sie, immer mehr oder weniger zufällig, nun eben innerhalb der Gränzen desselben Welttheils getreten sind",
+      "note": "Read as complement of the noun 'Veranlassung'; dependence on 'Veranlassung finden' as a unit is an alternative. Antecedent of 'dieselben' is taken to be 'Sprachen' (interpretive)."
+    },
+    {
+      "id": "a:s2c4",
+      "analysis_id": "claude-clauses-a",
+      "sentence_id": "g:s2",
+      "parent_id": "a:s2c3",
+      "kind": "clause",
+      "label": "relative clause on Verbindung (in die); finite verb sind (perfect with getreten)",
+      "quote": "in die sie, immer mehr oder weniger zufällig, nun eben innerhalb der Gränzen desselben Welttheils getreten sind",
+      "note": "'immer mehr oder weniger zufällig' is read as a comma-set adjunct inside the relative clause. Antecedent of 'sie' is taken to be 'Sprachen'. 'desselben Welttheils' has no single named antecedent after three continents; reading left open."
+    },
+    {
+      "id": "a:s3c1",
+      "analysis_id": "claude-clauses-a",
+      "sentence_id": "g:s3",
+      "parent_id": null,
+      "kind": "clause",
+      "label": "matrix declarative; finite verb zeigen; no subordinate finite clause",
+      "quote": "Auch zeigen die Sprachstämme eines jeden die bedeutendsten Verschiedenheiten sowohl in ihrem Bau, als in den Stufen der von ihnen erreichten Bildung",
+      "note": "'eines jeden' is an elliptical genitive; its understood noun is not in this sentence and is unresolved here (a continent from s2 is the likely candidate). 'sowohl ... als' coordinates two in-PPs. 'von ihnen erreichten' is an attributive participial phrase, not listed as a clause."
+    },
+    {
+      "id": "a:s4c1",
+      "analysis_id": "claude-clauses-a",
+      "sentence_id": "g:s4",
+      "parent_id": null,
+      "kind": "clause",
+      "label": "matrix declarative; finite verb hat (perfect with erfahren); object is an entweder ... oder coordination",
+      "quote": "Amerika dagegen hat, ausser den neuesten Europäischen Einwanderungen, welche die innere Nationaleigenthümlichkeit dieses Welttheils nur durch ihren zerstörenden Einfluss berührt haben, entweder gar keine, oder nur solche erfahren, von welchen kaum eine geschichtlich zu nennende Spur übriggeblieben ist",
+      "note": "'gar keine' and 'nur solche' are coordinated elliptical objects of one 'hat ... erfahren'; the understood noun is taken to be 'Einwanderungen' from the ausser-phrase (interpretive, not in the text at that point)."
+    },
+    {
+      "id": "a:s4c2",
+      "analysis_id": "claude-clauses-a",
+      "sentence_id": "g:s4",
+      "parent_id": "a:s4c1",
+      "kind": "clause",
+      "label": "relative clause on Einwanderungen (welche); finite verb haben (perfect with berührt)",
+      "quote": "welche die innere Nationaleigenthümlichkeit dieses Welttheils nur durch ihren zerstörenden Einfluss berührt haben",
+      "note": "'welche' is read as subject and the NP headed by 'Nationaleigenthümlichkeit' as object; case forms alone do not decide this. Restrictive versus non-restrictive status is left open."
+    },
+    {
+      "id": "a:s4c3",
+      "analysis_id": "claude-clauses-a",
+      "sentence_id": "g:s4",
+      "parent_id": "a:s4c1",
+      "kind": "clause",
+      "label": "relative clause on solche (von welchen); finite verb ist (perfect with übriggeblieben)",
+      "quote": "von welchen kaum eine geschichtlich zu nennende Spur übriggeblieben ist",
+      "note": "Extraposed past 'erfahren'. 'geschichtlich zu nennende' is an attributive zu-participle phrase, not listed as a clause."
+    },
+    {
+      "id": "a:s5c1",
+      "analysis_id": "claude-clauses-a",
+      "sentence_id": "g:s5",
+      "parent_id": null,
+      "kind": "clause",
+      "label": "matrix declarative; preposed concessive clause resumed by so; finite verb haben (perfect with gestaltet, reflexive)",
+      "quote": "Welches daher auch der Ursprung der Amerikanischen Völker und Sprachen seyn mag, so haben sich ihre Geschicke viele Jahrhunderte hindurch nur durch sich selbst, und durch Berührung unter einander gestaltet",
+      "note": "Two durch-PPs are coordinated under one predicate. Whether 'nur' scopes over both PPs or only the first is unresolved; the comma before 'und' does not decide it."
+    },
+    {
+      "id": "a:s5c2",
+      "analysis_id": "claude-clauses-a",
+      "sentence_id": "g:s5",
+      "parent_id": "a:s5c1",
+      "kind": "clause",
+      "label": "preposed concessive w-clause (welches ... auch ... mag); finite verb mag",
+      "quote": "Welches daher auch der Ursprung der Amerikanischen Völker und Sprachen seyn mag",
+      "note": "Neuter 'Welches' is read as predicative with 'der Ursprung' as subject. 'daher' stands inside this clause, but its connective force may belong to the whole sentence; unresolved."
+    },
+    {
+      "id": "a:s6c1",
+      "analysis_id": "claude-clauses-a",
+      "sentence_id": "g:s6",
+      "parent_id": null,
+      "kind": "clause",
+      "label": "matrix declarative; one subject NP shared by two coordinated finite predicates (sind ... gerathen; haben ... mitgetheilt)",
+      "quote": "Die unübersehbare Menge von Stämmen, Horden und Familien vom obersten Norden bis zum untersten Süden des ausgedehnten Welttheils sind, solange wir die Geschichte desselben kennen, bis auf die Europaeische Unterjochung frei von fremdem Einfluss, nur durch sich selbst in Gährung ihrer Kräfte gerathen, und haben sich nur ihre Eigenthümlichkeiten mitgetheilt",
+      "note": "The subject appears once and is not repeated before 'haben'. Singular head 'Menge' stands with plural 'sind' and 'haben' in the supplied text; treat as a transcription check point. The spelling 'Europaeische' here differs from 'Europäischen' in s4; preserved as supplied, to be checked against the scan."
+    },
+    {
+      "id": "a:s6c2",
+      "analysis_id": "claude-clauses-a",
+      "sentence_id": "g:s6",
+      "parent_id": "a:s6c1",
+      "kind": "predicate",
+      "label": "first predicate conjunct (subject outside span); finite verb sind (perfect with gerathen)",
+      "quote": "sind, solange wir die Geschichte desselben kennen, bis auf die Europaeische Unterjochung frei von fremdem Einfluss, nur durch sich selbst in Gährung ihrer Kräfte gerathen",
+      "note": "Span deliberately excludes the shared subject. 'in Gährung ihrer Kräfte gerathen' is read as verb plus directional PP."
+    },
+    {
+      "id": "a:s6c3",
+      "analysis_id": "claude-clauses-a",
+      "sentence_id": "g:s6",
+      "parent_id": "a:s6c1",
+      "kind": "predicate",
+      "label": "second predicate conjunct (subject shared, not expressed); finite verb haben (perfect with mitgetheilt)",
+      "quote": "haben sich nur ihre Eigenthümlichkeiten mitgetheilt",
+      "note": "Coordinator 'und' is excluded from the span. 'sich' is read as a reciprocal dative (interpretive). Scope of 'nur' is unresolved."
+    },
+    {
+      "id": "a:s6c4",
+      "analysis_id": "claude-clauses-a",
+      "sentence_id": "g:s6",
+      "parent_id": "a:s6c2",
+      "kind": "clause",
+      "label": "adverbial solange-clause; finite verb kennen",
+      "quote": "solange wir die Geschichte desselben kennen",
+      "note": "It sits inside the first conjunct. Whether it also bears on the second conjunct, or attaches at the level of s6c1, is unresolved."
+    },
+    {
+      "id": "a:s6c5",
+      "analysis_id": "claude-clauses-a",
+      "sentence_id": "g:s6",
+      "parent_id": "a:s6c2",
+      "kind": "phrase",
+      "label": "verbless predicative adjunct on the shared subject (secondary predicate)",
+      "quote": "frei von fremdem Einfluss",
+      "note": "Not a finite clause; listed because its attachment matters. Unresolved: (a) whether 'bis auf die Europaeische Unterjochung' belongs with this phrase, as the commas suggest, or with 'gerathen'; (b) whether 'bis auf' is temporal-terminative or exceptive."
+    },
+    {
+      "id": "a:s7c1",
+      "analysis_id": "claude-clauses-a",
+      "sentence_id": "g:s7",
+      "parent_id": null,
+      "kind": "clause",
+      "label": "matrix declarative; clausal first constituent; finite verb hat (perfect with erfahren)",
+      "quote": "Was daher auch in noch früherer Zeit Fremdes eingebracht seyn möchte, hat nachher Jahrhunderte hindurch diesen abschleifenden Einfluss des auf sich selbst beschränkten einheimischen Verkehrs erfahren",
+      "note": "Unlike s1 and s5, there is no resumptive 'so'. 'diesen abschleifenden Einfluss' is demonstrative, but no earlier expression in the paragraph uses 'abschleifend'; its reference is unresolved. 'auf sich selbst beschränkten' is an attributive participial phrase, not listed as a clause."
+    },
+    {
+      "id": "a:s7c2",
+      "analysis_id": "claude-clauses-a",
+      "sentence_id": "g:s7",
+      "parent_id": "a:s7c1",
+      "kind": "clause",
+      "label": "free relative with concessive auch (was ... auch ... möchte); read as subject of hat ... erfahren; finite verb möchte",
+      "quote": "Was daher auch in noch früherer Zeit Fremdes eingebracht seyn möchte",
+      "note": "Subject function is an analysis; the alternative is a preposed concessive clause with the matrix subject unexpressed. 'Fremdes' is read as a nominalised adjective split from 'Was'. The force of 'möchte' and the scope of 'daher' are unresolved, as in s5c2."
+    },
+    {
+      "id": "b:s7c1",
+      "analysis_id": "coordinator-s7-b",
+      "sentence_id": "g:s7",
+      "parent_id": null,
+      "kind": "clause",
+      "label": "alternative: matrix with preposed concessive adjunct and implicit subject",
+      "quote": "Was daher auch in noch früherer Zeit Fremdes eingebracht seyn möchte, hat nachher Jahrhunderte hindurch diesen abschleifenden Einfluss des auf sich selbst beschränkten einheimischen Verkehrs erfahren",
+      "note": "Alternative only; no missing subject is inserted into the source. This records a disagreement in analysis, not a different reading of the print."
+    },
+    {
+      "id": "b:s7c2",
+      "analysis_id": "coordinator-s7-b",
+      "sentence_id": "g:s7",
+      "parent_id": "b:s7c1",
+      "kind": "clause",
+      "label": "alternative: preposed concessive clause, rather than free-relative subject",
+      "quote": "Was daher auch in noch früherer Zeit Fremdes eingebracht seyn möchte",
+      "note": "Competes with a:s7c2; the subject free-relative analysis remains preferred provisionally by Claude. Coordinator has not established the alternative as equally plausible."
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E01",
+      "source_path": "sources/raw/references/drechsel-2024/drechsel-2024-12-3.pdf",
+      "source_sha256": "24eb0987ff041ed7d722db11d9e0bffca409a978f5aa7a37c620ca7023630b9c",
+      "locator": "Drechsel (2024), chapter 8, printed 155; chapter PDF page 12",
+      "excerpt": "Although Humboldt came to cross out the first seven paragraphs dealing with American languages",
+      "statement": "Drechsel reports cancellation. Underlying manuscript marks, extent, chronology and editorial meaning have not been independently checked.",
+      "quote_status": "scan_checked_by_coordinator",
+      "claim_status": "reported_not_independently_verified"
+    },
+    {
+      "id": "E02",
+      "source_path": "sources/raw/gs-v-1906.pdf",
+      "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+      "locator": "Untersuchungen opening, PDF 355; compare Grundzüge §1, PDF 374",
+      "excerpt": "Grosse geschichtliche Begebenheiten haben die Völker und Sprachen in ihnen vermischt.",
+      "statement": "The parallel fragment has this sentence where Grundzüge has Auch zeigen die Sprachstämme ... Bildung. This is comparison of printed fragments, not manuscript chronology.",
+      "quote_status": "scan_checked_by_coordinator",
+      "claim_status": "observed_print_difference"
+    },
+    {
+      "id": "E03",
+      "source_path": "sources/raw/gs-v-1906.pdf",
+      "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+      "locator": "Grundzüge §1, printed 364–365; PDF 374–375",
+      "excerpt": "",
+      "statement": "The paragraph contains seven sentences and ends before the marginal section number 2, after einheimischen Verkehrs erfahren. Sentence boundaries do not establish clause structure.",
+      "quote_status": "not_applicable",
+      "claim_status": "observed_print_boundary"
+    },
+    {
+      "id": "E04",
+      "source_path": "sources/raw/gs-v-1906.pdf",
+      "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+      "locator": "Grundzüge §1 sentence 6, printed 365; PDF 375",
+      "excerpt": "Die unübersehbare Menge",
+      "statement": "Print has singular-headed Menge with sind and haben; Europaeische is printed with ae here. Both were rechecked after Claude flagged them. No grammatical correction was made.",
+      "quote_status": "scan_checked_by_coordinator",
+      "claim_status": "observed_print_forms"
+    }
+  ],
+  "decision": [
+    {
+      "id": "D001",
+      "question": "Which base reading should the provisional translation follow?",
+      "resolution": "Retain the 1906 printed opening, order and section numbers, with a source-status note; keep parallel wording in commentary; authorial finality unresolved. Does not approve English fidelity or the pending workflow.",
+      "authority": "Brett approved opening evidence and delegated choice to coordinator, Claude and Muse on 2026-11-14 Toronto time; see DECISIONS.md.",
+      "status": "adopted"
+    }
+  ],
+  "unit_evidence": [
+    {
+      "unit_id": "grund-layout:p1",
+      "evidence_id": "E01"
+    },
+    {
+      "unit_id": "grund-layout:p1",
+      "evidence_id": "E02"
+    },
+    {
+      "unit_id": "grund-layout:p1",
+      "evidence_id": "E03"
+    },
+    {
+      "unit_id": "g:s6",
+      "evidence_id": "E04"
+    }
+  ],
+  "unit_decision": [
+    {
+      "unit_id": "grund-layout:p1",
+      "decision_id": "D001"
+    }
+  ],
+  "decision_evidence": [
+    {
+      "decision_id": "D001",
+      "evidence_id": "E01"
+    },
+    {
+      "decision_id": "D001",
+      "evidence_id": "E02"
+    },
+    {
+      "decision_id": "D001",
+      "evidence_id": "E03"
+    }
+  ],
+  "alignments": [
+    {
+      "id": "A001",
+      "left_version": "grundzuege-001-v1",
+      "right_version": "untersuchungen-excerpt-v1",
+      "relation": "written_form_correspondence",
+      "note": "Two tokens on each side: keine Veranlassung. This records identical written forms in parallel German fragments, not translation equivalence or witness chronology.",
+      "status": "draft",
+      "members": [
+        {
+          "side": "left",
+          "unit_id": "g:s2:w015"
+        },
+        {
+          "side": "left",
+          "unit_id": "g:s2:w016"
+        },
+        {
+          "side": "right",
+          "unit_id": "u:s2:w014"
+        },
+        {
+          "side": "right",
+          "unit_id": "u:s2:w015"
+        }
+      ]
+    }
+  ]
+}

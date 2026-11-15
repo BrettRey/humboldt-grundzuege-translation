@@ -1,0 +1,384 @@
+{
+  "actual_journal_events": 0,
+  "baseline_comparison": {
+    "logical_digest": "53334ec49b583ad5538bb21d17249eb8416c38adb14b44874d6ac5027a83a962",
+    "matches": true,
+    "reference": "/Users/brettreynolds/projects/LLM-CLI-projects/humboldt-grundzuege-translation/edition/baselines/initial.json",
+    "scope": "immutable base records named in the baseline manifest; current journal and added datasets are separate"
+  },
+  "completed_at": "2026-11-15T21:35:18.135294+00:00",
+  "database": {
+    "counts": {
+      "alignment": 183,
+      "alignment_member": 379,
+      "analysis": 27,
+      "build_metadata": 11,
+      "change_impact": 0,
+      "composite_attestation": 1,
+      "composite_member": 2,
+      "decision": 1575,
+      "decision_evidence": 1811,
+      "evidence": 1768,
+      "evidence_detail": 155,
+      "lexeme": 1048,
+      "lexeme_control": 149,
+      "lexeme_form": 1712,
+      "preparation_input": 9,
+      "register_carry_forward": 119,
+      "revision_history": 0,
+      "schema_migration": 2,
+      "sense_attestation": 1566,
+      "sense_rendering": 2167,
+      "term_entry": 34,
+      "term_entry_evidence": 202,
+      "term_entry_family": 46,
+      "term_expression_part": 1565,
+      "term_family": 18,
+      "term_occurrence": 4740,
+      "term_relation": 122,
+      "term_sense": 1518,
+      "term_use": 1531,
+      "terminology_candidate": 3515,
+      "terminology_control": 87,
+      "terminology_page_review": 110,
+      "text_version": 21,
+      "unit": 86978,
+      "unit_decision": 1681,
+      "unit_evidence": 3272,
+      "word_index": 39132
+    },
+    "foreign_key_errors": [],
+    "integrity": "ok",
+    "schema_version": 2,
+    "sealed": true
+  },
+  "engine_files": {
+    "src/humboldt/__init__.py": "726ac375ba836df1afda3a1ac54839dd73db4f0be1758e329f49af96dc202724",
+    "src/humboldt/__main__.py": "79ee6f134c5c5193377cf9b189cbdcc3e2095e49ba9cec310114441c15a917c4",
+    "src/humboldt/cli.py": "d96f8f7d93c9f1fcfd565ecf7d3dae19f5ba23b74e9aac66d5631575abdf36a0",
+    "src/humboldt/database.py": "08836e480be5f7ff0484822de11d2b8cee5c89dc60db004920873d03b03e33d7",
+    "src/humboldt/ingest.py": "7ee7f25f53fb0408fa514b7ac285ccf52ae0d2a1fc1c4c32fedb3c574b89dc5d",
+    "src/humboldt/migrations/001-base.sql": "2e57182210865b715b0b06513af8c304746297a289814a91174e1ef36b16cf7d",
+    "src/humboldt/migrations/002-infrastructure.sql": "79c683742d79ce06265504a325fc475a7c2857d2059e1521903e97e7ed8054c8",
+    "src/humboldt/queries.py": "55a6fde9b38026d9b2aa395aa801c8d321b1b8a91612a8df78e4732a523decd3",
+    "src/humboldt/reader.py": "8acaf7aef517892bc7990b0c1ccba87fdabed4e7d6a755cec07e00ccce86bd5f",
+    "src/humboldt/record_schemas/bundle.schema.json": "ea547daa76f82919ffc06a7fa733b9ffb0c6f7b30e8a2b40c984b91347950611",
+    "src/humboldt/record_schemas/edition.schema.json": "33d6c7595b1f177e9223f873537211b0f5e27d7d89f896baa33f89b1dd98c552",
+    "src/humboldt/records.py": "6fc0ffabf3860eb04027667faf3c326b21fede4915820bf20325cae8463c5c46",
+    "src/humboldt/release.py": "7a43f306f7a19b1dc7c52f67d212c06407f03602122ce1594de59e122b28d497",
+    "src/humboldt/render.py": "be1bf3be7494d77c3a48d7c2606c19b367203d2fbc31914176f9049c541c6c34",
+    "src/humboldt/revisions.py": "b14f5783c708301cd8792a587c0bc07fc4cb005d8823bdc38cbd7074b964e0c6"
+  },
+  "git_committed": false,
+  "historical_tables": {
+    "alignment": {
+      "equal": true,
+      "logical_sha256": "dca940ac6bde1e59c942466a70b26fbf808cecfe59a9af880b99c5401238cd19",
+      "rows": 183
+    },
+    "alignment_member": {
+      "equal": true,
+      "logical_sha256": "5dd23e5945f98ae250c518cdae0b68f6872ce138fc7e1432b98f97549b0f53d3",
+      "rows": 379
+    },
+    "analysis": {
+      "equal": true,
+      "logical_sha256": "97ee73c577d6f91d1bffbb7f372e569fd028e2bf6806d59fac60bacbb22953bd",
+      "rows": 27
+    },
+    "composite_attestation": {
+      "equal": true,
+      "logical_sha256": "d3c1709d0b08cc49abeacdc327f990a827c8dfa5e0b0588b7ad3a91787cc43ee",
+      "rows": 1
+    },
+    "composite_member": {
+      "equal": true,
+      "logical_sha256": "1a6a4510f8d678a867c7ef35962484e7a949e2fd5bc8e9f66fb9e6eff2d327f4",
+      "rows": 2
+    },
+    "decision": {
+      "equal": true,
+      "logical_sha256": "4010f596fb6106033d708d0371704a1755c7a125ec9da398c26c702946070cab",
+      "rows": 1575
+    },
+    "decision_evidence": {
+      "equal": true,
+      "logical_sha256": "cf92a2b343d385b995a3c3c669d88ba909512e2d71626658878e393e40edc7d2",
+      "rows": 1811
+    },
+    "evidence": {
+      "equal": true,
+      "logical_sha256": "6d427348950f3f6fea7d68e81a0a4930a28483e068bff2754cc4b13faa9e0621",
+      "rows": 1768
+    },
+    "evidence_detail": {
+      "equal": true,
+      "logical_sha256": "290b79407b549cf90d810e3888149a371ff13f413604e70d6f18382a74dfef08",
+      "rows": 155
+    },
+    "lexeme": {
+      "equal": true,
+      "logical_sha256": "a7c77d2d73d3e882fe9af31c2ea510f0c200f67c14ce76efb503a8cb8d3f5889",
+      "rows": 1048
+    },
+    "lexeme_control": {
+      "equal": true,
+      "logical_sha256": "33874865259aa7b30d3f131843f2c8d11850e9d114eeb415774755ab72ee8be4",
+      "rows": 149
+    },
+    "lexeme_form": {
+      "equal": true,
+      "logical_sha256": "069e6ff98299fb84cba3b0503aae3bda32e3180ab081b13a69501350d068f4e9",
+      "rows": 1712
+    },
+    "preparation_input": {
+      "equal": true,
+      "logical_sha256": "b9e54e6878b4867e2e95d29bfdc0bd5fb2ec5c517e43af80f00f0cffba6bba4e",
+      "rows": 9
+    },
+    "register_carry_forward": {
+      "equal": true,
+      "logical_sha256": "c5d291e3333b5affceef15edcffc8b4912b635a08fdfc69b8556ce64bfcfbcf4",
+      "rows": 119
+    },
+    "sense_attestation": {
+      "equal": true,
+      "logical_sha256": "0401c42928eb37affe6ed571fbabe595adcb2e673f08ce84c12653329ddb418b",
+      "rows": 1566
+    },
+    "sense_rendering": {
+      "equal": true,
+      "logical_sha256": "1b6e6378a74531695b229961b4948690aabc7d935d428db1b1d2ddce54d3d652",
+      "rows": 2167
+    },
+    "term_entry": {
+      "equal": true,
+      "logical_sha256": "73fce7ef6dcdbffcc6cded19ec86127043d231f2a0a637170bc319b6811653d6",
+      "rows": 34
+    },
+    "term_entry_evidence": {
+      "equal": true,
+      "logical_sha256": "1e45902d4f8cf252f468fe81e6e28623883f48efde01973be6c54c32febd9ab8",
+      "rows": 202
+    },
+    "term_entry_family": {
+      "equal": true,
+      "logical_sha256": "6335002b8a6397722d258e0363e663d77e0880b4f7bc61af061cd59207a877e6",
+      "rows": 46
+    },
+    "term_expression_part": {
+      "equal": true,
+      "logical_sha256": "8402e3e855c7a1ebf183eeefa1060b6498128d67a1c90aace3cb7c40e0c54798",
+      "rows": 1565
+    },
+    "term_family": {
+      "equal": true,
+      "logical_sha256": "364588a9aeeaefd9cae6300e78f94352b8194f41344f0fe233db4695ee2381dd",
+      "rows": 18
+    },
+    "term_occurrence": {
+      "equal": true,
+      "logical_sha256": "7519b88cd61d2525f28905cc009fb865cd23000954b484c65380c52e23776274",
+      "rows": 4740
+    },
+    "term_relation": {
+      "equal": true,
+      "logical_sha256": "176e0b9da0ae7de84d0b31fc8c85bf7513697c0bdfbceaf12df4bcf65a27389d",
+      "rows": 122
+    },
+    "term_sense": {
+      "equal": true,
+      "logical_sha256": "2e6c88e67eb3f75a649b93666f9f0ef4a0d2013a97bf6ffdc1a997721726f454",
+      "rows": 1518
+    },
+    "term_use": {
+      "equal": true,
+      "logical_sha256": "140c12cee1c30140722cd040798d01199efd982ada2bd53bd8514dcf1bdaf6ea",
+      "rows": 1531
+    },
+    "terminology_candidate": {
+      "equal": true,
+      "logical_sha256": "492ff8dde1cce376d34e28f158c7edd2c98dd401486c1b8b5a15d2003887298e",
+      "rows": 3515
+    },
+    "terminology_control": {
+      "equal": true,
+      "logical_sha256": "ddd60eb32b61df79908538de1ba6b67b2aa52c2819922ac527314a6f687cfea9",
+      "rows": 87
+    },
+    "terminology_page_review": {
+      "equal": true,
+      "logical_sha256": "f735925e8a9bfe633f54e8b408f962a7f8475bab23428fd05fc7e40fa65711cb",
+      "rows": 110
+    },
+    "text_version": {
+      "equal": true,
+      "logical_sha256": "3ea8154b3112acfabf37f356055972012ab91665e5d73e4a4e7c3c16491e8d48",
+      "rows": 21
+    },
+    "unit": {
+      "equal": true,
+      "logical_sha256": "1b3945829c01fa42601b4c36776903e0ad83fec841cd7356e0ba8291bea5f0fc",
+      "rows": 86978
+    },
+    "unit_decision": {
+      "equal": true,
+      "logical_sha256": "0321c79752c80e064eb2dcb5f7889617fa6383e04241585db69da867ca0a6fc9",
+      "rows": 1681
+    },
+    "unit_evidence": {
+      "equal": true,
+      "logical_sha256": "7dd343ebb5f2deb2a167116e8fd1cb142ba3ad5eeab623075ef65cd3b29b2634",
+      "rows": 3272
+    },
+    "word_index": {
+      "equal": true,
+      "logical_sha256": "26f1f328b2aba99455b03e51edb91a30448c26ca3d8073dc9db33df2400650b7",
+      "rows": 39132
+    }
+  },
+  "http": {
+    "/api/health": {
+      "bytes": 9329,
+      "status": 200
+    },
+    "/api/passage?section=147": {
+      "bytes": 1910768,
+      "status": 200
+    },
+    "/api/search?q=understanding": {
+      "bytes": 13215,
+      "status": 200
+    },
+    "/api/trace?id=difficult-147-de-v1%3As05%3Aw013": {
+      "bytes": 102780,
+      "status": 200
+    },
+    "/entity?kind=sense_rendering&id=%7B%22sense_id%22%3A%22lex%3Averstand%3As01%22%2C%22rank%22%3A1%7D": {
+      "bytes": 7687,
+      "status": 200
+    },
+    "/entity?kind=term_sense&id=lex%3Averstand%3As01": {
+      "bytes": 25142,
+      "status": 200
+    },
+    "/source?path=translations%2Fdifficult-147%2Frevised.json": {
+      "bytes": 4893,
+      "status": 200
+    }
+  },
+  "lean": {
+    "added": false,
+    "assessment": "Disproportionate for current I/O-boundary defects; a future stable reconciliation algorithm could justify a proof plus refinement argument.",
+    "reference": "https://lean-lang.org/doc/reference/latest/ValidatingProofs/"
+  },
+  "logical_digest": "53334ec49b583ad5538bb21d17249eb8416c38adb14b44874d6ac5027a83a962",
+  "portable": {
+    "absent": [
+      "sources",
+      "tmp",
+      "tools",
+      "tests",
+      "translations"
+    ],
+    "copied": [
+      "src/",
+      "edition/",
+      "humboldt",
+      "pyproject.toml"
+    ],
+    "minimal_environment_without_credentials": true,
+    "runs": [
+      {
+        "command": [
+          "python3",
+          "humboldt",
+          "validate"
+        ],
+        "exit_code": 0,
+        "seconds": 10.436
+      },
+      {
+        "command": [
+          "python3",
+          "humboldt",
+          "build"
+        ],
+        "exit_code": 0,
+        "seconds": 14.467
+      },
+      {
+        "command": [
+          "python3",
+          "humboldt",
+          "search",
+          "understanding",
+          "--limit",
+          "1"
+        ],
+        "exit_code": 0,
+        "seconds": 0.112
+      },
+      {
+        "command": [
+          "python3",
+          "humboldt",
+          "trace",
+          "difficult-147-de-v1:s05:w013"
+        ],
+        "exit_code": 0,
+        "seconds": 0.211
+      }
+    ],
+    "socket_connections_disabled": true
+  },
+  "portable_release_comparison": {
+    "logical_digest": "53334ec49b583ad5538bb21d17249eb8416c38adb14b44874d6ac5027a83a962",
+    "matches": true,
+    "reference": "release.json",
+    "scope": "current complete edition against the selected release"
+  },
+  "protected_files": {
+    "all_unchanged": true,
+    "baseline": "edition/provenance/legacy-migration.json",
+    "count": 118
+  },
+  "python": "3.14.10 (main, Oct 25 2026, 17:12:00) [Clang 21.0.0 (clang-2100.3.34.2)]",
+  "recorded_at": "2026-11-15T21:34:40.176115+00:00",
+  "releases": {
+    "0.1.0": {
+      "all_hashes_match": true,
+      "files": 27,
+      "logical_digest": "53334ec49b583ad5538bb21d17249eb8416c38adb14b44874d6ac5027a83a962",
+      "manifest_sha256": "7df999b16f4c1dfb115ee2fc5ba79d98b249b27c1bea91c9ba9dd10cea5ecbe2"
+    },
+    "0.2.0": {
+      "all_hashes_match": true,
+      "files": 30,
+      "logical_digest": "53334ec49b583ad5538bb21d17249eb8416c38adb14b44874d6ac5027a83a962",
+      "manifest_sha256": "4ebd153580b4cd84d3d0679a88f91277f67e3053c219d749371a3fe098effe0d"
+    }
+  },
+  "software_version": "0.2.0",
+  "tests": {
+    "core_log_sha256": "7a58f160955d88efe856c6138512a12cc2755f80b3c99db9eaed189b2010bb44",
+    "core_resource_warnings": false,
+    "corpus": 1,
+    "generated_text_revisions": 12,
+    "historical": 43,
+    "integration": 19,
+    "legacy_log_sha256": "b873b3a3bac6aba4ba85bc9527f7ce1501a862b2c574676c0feddca4d0ecd923",
+    "legacy_resource_warnings": true,
+    "model_sequences": 40,
+    "operations_per_sequence": 30,
+    "passed": true,
+    "total": 122,
+    "unit": 59
+  },
+  "visual_check": {
+    "description": "Term page renders correctly with links to individual English rendering records and metadata amendments.",
+    "inspected": true,
+    "path": "build/corrected-reader.png",
+    "sha256": "21459963f97d115be29c3d2a0053deeac64d415fe4d6fb478546e74889fafea2"
+  }
+}

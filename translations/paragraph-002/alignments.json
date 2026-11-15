@@ -1,0 +1,108 @@
+{
+  "status": "Proposed anchored correspondences, not certified equivalence.",
+  "clauses": [
+    {
+      "source_id": "p2:a:s1c1",
+      "target_quotes": [
+        "Further support for this comes from the striking similarity of the American languages."
+      ],
+      "note": "Further support retains the backward reference and additive discourse force, without inventing a named thesis."
+    },
+    {
+      "source_id": "p2:a:s2c1",
+      "target_quotes": [
+        "There have certainly been substantial differences in the development of the nations to which they belong, differences unmistakable in the languages themselves as well; yet the lack of alphabetic writing, and hence of literature in the proper sense, places them all, without exception, on an equal footing at a lower level."
+      ],
+      "note": "Concessive contrast, certainly, lower evaluation and without exception retained."
+    },
+    {
+      "source_id": "p2:a:s2c2",
+      "target_quotes": [
+        "There have certainly been substantial differences in the development of the nations to which they belong, differences unmistakable in the languages themselves as well"
+      ],
+      "note": "Explicit languages resolves ihnen provisionally; alternative nations reading is recorded."
+    },
+    {
+      "source_id": "p2:a:s2c3",
+      "target_quotes": [
+        "to which they belong"
+      ],
+      "note": "Languages belong to nations; nations are not silently redefined as nation-states."
+    },
+    {
+      "source_id": "p2:a:s2c4",
+      "target_quotes": [
+        "yet the lack of alphabetic writing, and hence of literature in the proper sense, places them all, without exception, on an equal footing at a lower level"
+      ],
+      "note": "Alphabetic and in the proper sense remain restrictive; all remains pronominal; evaluation not neutralized."
+    },
+    {
+      "source_id": "p2:a:s3c1",
+      "target_quotes": [
+        "It is true that the sometimes wrongly asserted sameness of their structure disappears under more penetrating investigation, as does their deviation from the structure of all other languages, which has also been asserted. Nevertheless, all the languages of America do in fact exhibit broad features of similarity, and the north and south of the continent do not permit genuinely separating boundaries to be drawn even in this respect."
+      ],
+      "note": "Both alleged features disappear; actual similarity is retained; northern/southern linguistic division is not made a genealogical claim."
+    },
+    {
+      "source_id": "p2:a:s3c2",
+      "target_quotes": [
+        "It is true that the sometimes wrongly asserted sameness of their structure disappears under more penetrating investigation, as does their deviation from the structure of all other languages, which has also been asserted"
+      ],
+      "note": "It is true / Nevertheless retains zwar / aber across the English sentence split."
+    },
+    {
+      "source_id": "p2:a:s3c3",
+      "target_quotes": [
+        "as does their deviation from the structure of all other languages, which has also been asserted"
+      ],
+      "note": "No second frequency adverb supplied for wohl; its modal/discourse nuance remains open. Wrongly qualifies only sameness."
+    },
+    {
+      "source_id": "p2:a:s3c4",
+      "target_quotes": [
+        "Nevertheless, all the languages of America do in fact exhibit broad features of similarity"
+      ],
+      "note": "In fact makes wirklich explicit; broad features of similarity is weaker than sameness."
+    },
+    {
+      "source_id": "p2:a:s3c5",
+      "target_quotes": [
+        "the north and south of the continent do not permit genuinely separating boundaries to be drawn even in this respect"
+      ],
+      "note": "Idiomatic English plural; retain in this respect without supplying a specific antecedent for darin."
+    },
+    {
+      "source_id": "p2:a:s3c6",
+      "target_quotes": [
+        "genuinely separating boundaries to be drawn"
+      ],
+      "note": "The infinitive is recast passively; genuinely qualifies separating boundaries, not a claim of national borders."
+    }
+  ],
+  "lexical_groups": [
+    {
+      "id": "lexical:p2-similarity",
+      "source": [
+        {
+          "sentence_id": "g2:s1",
+          "text": "Aehnlichkeit"
+        },
+        {
+          "sentence_id": "g2:s3",
+          "text": "Aehnlichkeit"
+        }
+      ],
+      "target": [
+        {
+          "sentence_id": "g2:s1",
+          "text": "similarity"
+        },
+        {
+          "sentence_id": "g2:s3",
+          "text": "similarity"
+        }
+      ],
+      "note": "Repeated similarity is linked across the paragraph; this does not assert identity, genealogy or complete structural equivalence."
+    }
+  ]
+}

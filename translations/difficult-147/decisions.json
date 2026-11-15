@@ -1,0 +1,64 @@
+{
+  "decisions": [
+    {
+      "id": "criterion",
+      "sentence": "s05",
+      "question": "What is governed by the definition’s so…that?",
+      "resolution": "Both recognition and the non-conceptual manner of indication remain under the defining condition. Accept Claude F01 against Muse’s no-material-error verdict because the source syntax supports it."
+    },
+    {
+      "id": "word-order",
+      "sentence": "s06",
+      "question": "When can word order count?",
+      "resolution": "Retain all three conditions: absolute fixity, immovability, and relation to a fixed point identifiable by more than its position alone. Do not equate ordinary recoverable order with this criterion."
+    },
+    {
+      "id": "antecedent",
+      "sentence": "s07",
+      "question": "What is brought into language?",
+      "resolution": "Choose grammatical form for sie, supported by adjacent §148, while recording indication as grammatically possible. Keep the passive and reciprocity; do not add a theory of conscious supplementation."
+    },
+    {
+      "id": "content",
+      "sentence": "s13",
+      "question": "How should Sach- contrast with Verhältniss-?",
+      "resolution": "Use substantive content/meaning with an explicit note that verbs and actions are included; avoid both noun-only and modern open-class assertions. Render wirkliche as actual, distinct locally from ächt/genuine."
+    },
+    {
+      "id": "observer-proviso",
+      "sentence": "s10",
+      "question": "What qualifies the claim that Chinese has verbs?",
+      "resolution": "Preserve provided one pays no attention to whether verbal nature lies in grammatical designation or habitual usage. This is a proviso on the observer’s discrimination, not absence of verbs."
+    },
+    {
+      "id": "nomina",
+      "sentence": "s09",
+      "question": "How broad is Nomen?",
+      "resolution": "Retain noun as a provisional English label with the Latin term and unresolved historical extension noted. Used as a noun/verb in s11 describes use."
+    },
+    {
+      "id": "mind",
+      "sentence": "s07",
+      "question": "How to render Seele here?",
+      "resolution": "Use mind locally, retain soul as an alternative and keep Seele distinct in the note. Existing termbase permits contextual choices; no universal Geist/Seele identity follows."
+    },
+    {
+      "id": "example",
+      "sentence": "s14",
+      "question": "How to reproduce the Chinese form?",
+      "resolution": "Keep the coordinator’s checked print reading ì and use/to employ gloss. Do not supply modern pinyin, Chinese character or unstated pronunciation."
+    },
+    {
+      "id": "source-note",
+      "sentence": "s15",
+      "question": "How are footnotes and references presented?",
+      "resolution": "Preserve the author’s French title and unresolved terminal98; show the 1906 editor’s cross-reference separately. Retain printed (134.) in s06. No silent reconstruction."
+    },
+    {
+      "id": "historical-limit",
+      "sentence": "s18",
+      "question": "What can be inferred from present language or etymology?",
+      "resolution": "Retain gradual transition and the inability always to tell from language alone, requiring knowledge of apprehension at different epochs; no categorical claim that present analysis is impossible."
+    }
+  ]
+}

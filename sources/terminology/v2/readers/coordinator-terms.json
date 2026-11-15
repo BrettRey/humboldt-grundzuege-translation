@@ -1,0 +1,304 @@
+{
+  "terms": [
+    {
+      "headword": "Treue",
+      "kind": "term",
+      "forms": [
+        "Treue"
+      ],
+      "domain": "translation policy",
+      "scope": "supporting translation-policy source",
+      "senses": [
+        {
+          "label": "faithfulness to the original’s character",
+          "definition": "The translation principle directed to the original’s true character rather than its accidental details at the cost of that character.",
+          "renderings": [
+            "faithfulness",
+            "fidelity"
+          ],
+          "rule": "Use faithfulness/fidelity in this translation-policy comparison; preserve its specified object, the original’s character.",
+          "caution": "This is Humboldt’s Agamemnon policy, not a verified technical headword of Grundzüge or a command to copy German syntax. Do not identify it without argument with Nord’s later ethical loyalty.",
+          "evidence": [
+            {
+              "printed_page": 132,
+              "pdf_page": 142,
+              "section": null,
+              "ocr_quote": "Diese Treue muss auf den wahren Charakter des Originals, nicht, mit Verlassung jenes, auf seine Zufälligkeiten gerichtet seyn,",
+              "checked_quote": "Diese Treue muss auf den wahren Charakter des Originals, nicht, mit Verlassung jenes, auf seine Zufälligkeiten gerichtet seyn,",
+              "term_form": "Treue",
+              "text_layer": "main_text",
+              "verification": "coordinator image-checked short quotation",
+              "source_path": "sources/raw/references/humboldt-gs-08.pdf",
+              "issue": "Supporting translation-policy source, outside Grundzüge. Print line-end divisions rejoined; footnote callouts omitted. No exact locator in the main-text OCR stream is claimed."
+            }
+          ]
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "das Fremde",
+          "reason": "The ensuing discussion connects fidelity to the foreign element perceived in translation."
+        }
+      ]
+    },
+    {
+      "headword": "das Fremde",
+      "kind": "phrase",
+      "forms": [
+        "das Fremde"
+      ],
+      "domain": "translation policy",
+      "scope": "supporting translation-policy source",
+      "senses": [
+        {
+          "label": "the foreign element retained through translation",
+          "definition": "What belongs to the foreign original and should be felt through the translation without being obscured by the translation’s intrusive strangeness.",
+          "renderings": [
+            "the foreign element",
+            "what is foreign"
+          ],
+          "rule": "Keep the substantivized foreign element distinct from Fremdheit in the explicit contrast.",
+          "caution": "Do not turn this into an invariant opposition across Humboldt’s other uses of fremd or into a demand to make the English strange.",
+          "evidence": [
+            {
+              "printed_page": 132,
+              "pdf_page": 142,
+              "section": null,
+              "ocr_quote": "Solange nicht die Fremdheit, sondern das Fremde gefühlt wird, hat die Uebersetzung ihre höchsten Zwecke erreicht; wo aber die Fremdheit an sich erscheint, und vielleicht gar das Fremde verdunkelt, da verräth der Uebersetzer, dass er seinem Original nicht gewachsen ist.",
+              "checked_quote": "Solange nicht die Fremdheit, sondern das Fremde gefühlt wird, hat die Uebersetzung ihre höchsten Zwecke erreicht; wo aber die Fremdheit an sich erscheint, und vielleicht gar das Fremde verdunkelt, da verräth der Uebersetzer, dass er seinem Original nicht gewachsen ist.",
+              "term_form": "das Fremde",
+              "text_layer": "main_text",
+              "verification": "coordinator image-checked short quotation",
+              "source_path": "sources/raw/references/humboldt-gs-08.pdf",
+              "issue": "Supporting translation-policy source, outside Grundzüge. Print line-end divisions rejoined; footnote callouts omitted. No exact locator in the main-text OCR stream is claimed."
+            }
+          ]
+        }
+      ],
+      "relations": [
+        {
+          "type": "distinguish_from",
+          "target": "Fremdheit",
+          "reason": "The passage explicitly contrasts the foreign element felt with foreignness appearing as such."
+        }
+      ]
+    },
+    {
+      "headword": "Fremdheit",
+      "kind": "term",
+      "forms": [
+        "Fremdheit"
+      ],
+      "domain": "translation policy",
+      "scope": "supporting translation-policy source",
+      "senses": [
+        {
+          "label": "felt foreignness or strangeness of the translation",
+          "definition": "A quality of the translation that can be an inevitable foreign colour but becomes objectionable when it appears in its own right and obscures the foreign original.",
+          "renderings": [
+            "foreignness",
+            "strangeness"
+          ],
+          "rule": "Preserve the change in evaluation: some foreign colour is admitted, whereas intrusive strangeness obscuring the foreign element is criticized.",
+          "caution": "Do not make every occurrence denote failed translation; the preceding sentence expressly allows a certain Farbe der Fremdheit.",
+          "evidence": [
+            {
+              "printed_page": 132,
+              "pdf_page": 142,
+              "section": null,
+              "ocr_quote": "Mit dieser Ansicht ist freilich nothwendig verbunden, dass die Uebersetzung eine gewisse Farbe der Fremdheit an sich trägt,",
+              "checked_quote": "Mit dieser Ansicht ist freilich nothwendig verbunden, dass die Uebersetzung eine gewisse Farbe der Fremdheit an sich trägt,",
+              "term_form": "Fremdheit",
+              "text_layer": "main_text",
+              "verification": "coordinator image-checked short quotation",
+              "source_path": "sources/raw/references/humboldt-gs-08.pdf",
+              "issue": "Supporting translation-policy source, outside Grundzüge. Print line-end divisions rejoined; footnote callouts omitted. No exact locator in the main-text OCR stream is claimed."
+            },
+            {
+              "printed_page": 132,
+              "pdf_page": 142,
+              "section": null,
+              "ocr_quote": "Solange nicht die Fremdheit, sondern das Fremde gefühlt wird, hat die Uebersetzung ihre höchsten Zwecke erreicht; wo aber die Fremdheit an sich erscheint, und vielleicht gar das Fremde verdunkelt, da verräth der Uebersetzer, dass er seinem Original nicht gewachsen ist.",
+              "checked_quote": "Solange nicht die Fremdheit, sondern das Fremde gefühlt wird, hat die Uebersetzung ihre höchsten Zwecke erreicht; wo aber die Fremdheit an sich erscheint, und vielleicht gar das Fremde verdunkelt, da verräth der Uebersetzer, dass er seinem Original nicht gewachsen ist.",
+              "term_form": "Fremdheit",
+              "text_layer": "main_text",
+              "verification": "coordinator image-checked short quotation",
+              "source_path": "sources/raw/references/humboldt-gs-08.pdf",
+              "issue": "Supporting translation-policy source, outside Grundzüge. Print line-end divisions rejoined; footnote callouts omitted. No exact locator in the main-text OCR stream is claimed."
+            }
+          ]
+        }
+      ],
+      "relations": [
+        {
+          "type": "distinguish_from",
+          "target": "das Fremde",
+          "reason": "The source’s explicit translation-policy contrast; not a universal lexicographic opposition."
+        }
+      ]
+    },
+    {
+      "headword": "zusammenfliessen",
+      "kind": "term",
+      "role": "contextual vocabulary",
+      "forms": [
+        "zusammengeflossen"
+      ],
+      "domain": "historical contact and geographical grouping",
+      "scope": "Grundzüge main text; editorial infinitive headword",
+      "senses": [
+        {
+          "label": "geographical convergence of different languages",
+          "definition": "Different languages have come together within the same continent; the statement does not itself require the languages to have blended into one.",
+          "renderings": [
+            "converge",
+            "flow together"
+          ],
+          "rule": "Use converge in§1; keep the geographical grouping distinct from an asserted mixing of the languages.",
+          "caution": "The printed parallel uses a different mixing expression. Do not substitute it into this sentence or infer a revision chronology. The infinitive is an editorial lookup lemma; the attested form is zusammengeflossen.",
+          "evidence": [
+            {
+              "printed_page": 364,
+              "pdf_page": 374,
+              "section": "1",
+              "ocr_quote": "In Europa, Asien und Afrika sind so verschiedene Sprachen zusammengeflossen",
+              "checked_quote": "In Europa, Asien und Afrika sind so verschiedene Sprachen zusammengeflossen",
+              "term_form": "zusammengeflossen",
+              "text_layer": "main_text",
+              "verification": "coordinator image-checked short quotation",
+              "issue": "Line-end division rejoined; preserves the source’s past participle. The broader packet and subsequent§7 distinguish geographical and historical inquiry."
+            }
+          ]
+        },
+        {
+          "label": "a language formed through confluence of others",
+          "definition": "In the discussion of lexical richness, a language such as English is described as having flowed together from different languages, leaving expressions with different origins.",
+          "renderings": [
+            "flow together",
+            "coalesce",
+            "arise through confluence"
+          ],
+          "rule": "Here the language itself is the result of confluence; do not carry over§1’s merely geographical grouping as a universal sense.",
+          "caution": "Humboldt’s analysis and historical example are retained as source claims. The difference lies in the local relation, not in an invariant ban on translating this verb with a mixing-related expression.",
+          "evidence": [
+            {
+              "printed_page": 436,
+              "pdf_page": 446,
+              "section": "112",
+              "ocr_quote": "Sogar wenn Sprachen, wie die Englische, aus verschiedenen zusammengeflossen, für gewisse Begriffe zwei bloss durch ihren Ursprung verschiedene Ausdrücke",
+              "checked_quote": "Sogar wenn Sprachen, wie die Englische, aus verschiedenen zusammengeflossen, für gewisse Begriffe zwei bloss durch ihren Ursprung verschiedene Ausdrücke",
+              "term_form": "zusammengeflossen",
+              "text_layer": "main_text",
+              "verification": "coordinator image-checked short quotation",
+              "issue": "Quote bounded before the English examples; no OCR-corrupt liberty form is certified by this quotation."
+            }
+          ]
+        }
+      ],
+      "relations": [
+        {
+          "type": "distinguish_from",
+          "target": "Vermischung",
+          "reason": "Convergence in this sentence need not assert the mixing separately discussed in historical passages."
+        }
+      ]
+    },
+    {
+      "headword": "Denkender",
+      "kind": "term",
+      "role": "contextual vocabulary",
+      "forms": [
+        "Denkenden"
+      ],
+      "domain": "thought and reciprocal address",
+      "scope": "Grundzüge main text; editorial nominal lemma",
+      "senses": [
+        {
+          "label": "the person thinking",
+          "definition": "The individual in whose mind the word is to become an object, produced by that individual and acting back upon them; the following sentence requires reality in a hearer who responds.",
+          "renderings": [
+            "the person thinking",
+            "the thinker"
+          ],
+          "rule": "Preserve the person denoted by the substantivized participle. Keep the thinker, word as object, and responding hearer distinct in the explanation.",
+          "caution": "Denkenden is not an inflection of Sprechender. Do not turn these locally connected roles into mutually exclusive classes of people or assume a silent rather than speaking thinker.",
+          "evidence": [
+            {
+              "printed_page": 381,
+              "pdf_page": 391,
+              "section": "31",
+              "ocr_quote": "Das Wort ist kein Gegenstand, vielmehr den Gegenständen gegenüber etwas Subjectives, nun aber soll es im Geiste des Denkenden doch ein Object, von ihm erzeugt und auf ihn zurückwirkend seyn. Damit es sich nun von einem blossen Scheinobjecte, einem Traumbilde, unterscheide, muss es Wesenheit in einem Hörenden und Erwiedernden gewinnen.",
+              "checked_quote": "Das Wort ist kein Gegenstand, vielmehr den Gegenständen gegenüber etwas Subjectives, nun aber soll es im Geiste des Denkenden doch ein Object, von ihm erzeugt und auf ihn zurückwirkend seyn. Damit es sich nun von einem blossen Scheinobjecte, einem Traumbilde, unterscheide, muss es Wesenheit in einem Hörenden und Erwiedernden gewinnen.",
+              "term_form": "Denkenden",
+              "text_layer": "main_text",
+              "verification": "coordinator image-checked short quotation",
+              "issue": "Print line-end divisions rejoined. Editorial nominative headword; the checked print has the genitive Denkenden."
+            }
+          ]
+        }
+      ],
+      "relations": [
+        {
+          "type": "related",
+          "target": "Sprechender",
+          "reason": "Thinking and speaking are locally connected roles; their German substantivized participles remain distinct words."
+        },
+        {
+          "type": "related",
+          "target": "Hörender",
+          "reason": "The next sentence requires the word to gain reality in a hearer who responds. No mutually exclusive participant categories are implied."
+        }
+      ]
+    }
+  ],
+  "candidate_reviews": [],
+  "page_reviews": [],
+  "limits": [
+    "Three supplementary translation-policy records are checked only in the specified Agamemnon source; the two Grundzüge headwords are checked at their own main-text locators."
+  ],
+  "images_checked": [
+    {
+      "source_path": "sources/raw/references/humboldt-gs-08.pdf",
+      "printed_page": 132,
+      "pdf_page": 142,
+      "evidence_checked": [
+        "Treue",
+        "Fremdheit",
+        "das Fremde"
+      ]
+    },
+    {
+      "source_path": "sources/raw/references/humboldt-gs-08.pdf",
+      "printed_page": 133,
+      "pdf_page": 143,
+      "evidence_checked": [
+        "Adjacent policy context: translation and commentary, arbitrary added clarity."
+      ]
+    },
+    {
+      "source_path": "sources/raw/gs-v-1906.pdf",
+      "printed_page": 364,
+      "pdf_page": 374,
+      "evidence_checked": [
+        "zusammengeflossen"
+      ]
+    },
+    {
+      "source_path": "sources/raw/gs-v-1906.pdf",
+      "printed_page": 436,
+      "pdf_page": 446,
+      "evidence_checked": [
+        "zusammengeflossen in the lexical-richness argument"
+      ]
+    },
+    {
+      "source_path": "sources/raw/gs-v-1906.pdf",
+      "printed_page": 381,
+      "pdf_page": 391,
+      "evidence_checked": [
+        "Denkenden distinct from Sprechenden"
+      ]
+    }
+  ]
+}

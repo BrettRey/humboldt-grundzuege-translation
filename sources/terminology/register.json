@@ -1,0 +1,1049 @@
+{
+  "version": "preparation-register-v1",
+  "status": "provisional working norms under D006; no human fidelity certification",
+  "date": "2026-11-15",
+  "entries": [
+    {
+      "id": "T01",
+      "forms": [
+        "Sprache",
+        "Sprechen"
+      ],
+      "candidates": [
+        "language",
+        "speaking"
+      ],
+      "families": [
+        "community",
+        "speech"
+      ],
+      "rule": "Name the bearer: human capacity, a particular inherited language, available stock/system, or an act of speaking. Keep changes of standpoint visible.",
+      "exceptions": "Do not reduce all language to either a code or an individual utterance. Kawi is a separately dated comparison.",
+      "evidence_ids": [
+        "prep:EARLY-04",
+        "prep:EARLY-17",
+        "prep:EARLY-21",
+        "prep:LATE-15",
+        "prep:PRIMARY-B10",
+        "prep:PRIMARY-B16"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T02",
+      "forms": [
+        "Sprachkunde",
+        "Sprachstudium"
+      ],
+      "candidates": [
+        "study of language(s)",
+        "knowledge of languages"
+      ],
+      "families": [
+        "community"
+      ],
+      "rule": "Use study of language(s) for the inquiry in §§1–3 and distinguish its object from the faculty of language.",
+      "exceptions": "Use linguistics only when its modern disciplinary connotations do not supply an extra historical claim.",
+      "evidence_ids": [
+        "prep:EARLY-02",
+        "prep:EARLY-06",
+        "prep:C19",
+        "prep:PRIMARY-A01"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T03",
+      "forms": [
+        "Typus",
+        "Sprachtypus",
+        "Urtypus"
+      ],
+      "candidates": [
+        "type",
+        "pattern",
+        "fundamental pattern"
+      ],
+      "families": [
+        "type"
+      ],
+      "rule": "Identify what has the pattern. §16 concerns the mental process; later contexts concern construction and the grammar operative in a speaker.",
+      "exceptions": "Do not default to a taxonomic language class, proto-language or one fixed modern typology. Title: retain general type provisionally, with a note explaining the process bearer.",
+      "evidence_ids": [
+        "prep:EARLY-07",
+        "prep:EARLY-12",
+        "prep:LATE-03",
+        "prep:LATE-15",
+        "prep:C01",
+        "prep:C12",
+        "prep:PRIMARY-A05",
+        "prep:SECONDARY-01"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T04",
+      "forms": [
+        "Form",
+        "Materie",
+        "Stoff"
+      ],
+      "candidates": [
+        "form",
+        "matter",
+        "material"
+      ],
+      "families": [
+        "form"
+      ],
+      "rule": "Keep form visible and state its bearer and relational counterpart. §55 contrasts words with discourse-connection; §136 contrasts thought-form with language-form.",
+      "exceptions": "Do not equate every Form with shape, morphology, syntax, inner form or a separate metaphysical substance. Later Kawi’s definition is not retroactively imposed.",
+      "evidence_ids": [
+        "prep:EARLY-22",
+        "prep:MIDDLE-12",
+        "prep:MIDDLE-13",
+        "prep:C03",
+        "prep:C09",
+        "prep:C11",
+        "prep:PRIMARY-B11",
+        "prep:PRIMARY-B12",
+        "prep:SECONDARY-04",
+        "prep:LEX-FORM"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T05",
+      "forms": [
+        "Bau",
+        "Sprachbau",
+        "Construction"
+      ],
+      "candidates": [
+        "structure",
+        "construction",
+        "organization"
+      ],
+      "families": [
+        "structure"
+      ],
+      "rule": "Structure is the default in §§1–2. Include coordinated relations of parts and their operation, rather than implying an inert anatomical object.",
+      "exceptions": "Construction may concern sentence organization or a mathematical analogy; it does not name modern Construction Grammar.",
+      "evidence_ids": [
+        "prep:C19",
+        "prep:C20",
+        "prep:EARLY-05",
+        "prep:LATE-03",
+        "prep:LATE-07",
+        "prep:PRIMARY-A02",
+        "prep:SECONDARY-10"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T06",
+      "forms": [
+        "Bildung",
+        "Ausbildung",
+        "Fortbildung",
+        "bildsam"
+      ],
+      "candidates": [
+        "formation",
+        "development",
+        "cultivation",
+        "plasticity"
+      ],
+      "families": [
+        "formation"
+      ],
+      "rule": "Use formation for producing a word/concept/form; development for attained linguistic or national stages; cultivation when exercise and improvement of powers are salient. Preserve evaluative strength.",
+      "exceptions": "Education is not the universal gloss. Separate ongoing change, attained development and claimed perfection. Bildsamkeit is capacity to be shaped. Einbildungskraft belongs to imagination.",
+      "evidence_ids": [
+        "prep:EARLY-01",
+        "prep:EARLY-09",
+        "prep:EARLY-15",
+        "prep:MIDDLE-17",
+        "prep:PRIMARY-A02",
+        "prep:PRIMARY-A04",
+        "prep:PRIMARY-A08",
+        "prep:SECONDARY-11",
+        "prep:LEX-BILDEN",
+        "prep:LEX-BILDUNG",
+        "prep:LEX-AUSBILDEN"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T07",
+      "forms": [
+        "Eigenthümlichkeit",
+        "Individualität",
+        "Charakter"
+      ],
+      "candidates": [
+        "distinctiveness",
+        "distinctive character",
+        "individuality",
+        "character"
+      ],
+      "families": [
+        "distinctiveness"
+      ],
+      "rule": "Retain related vocabulary while identifying whether the bearer is a sound, word, language, people or individual speaker. §§29,49,50 successively qualify individuality.",
+      "exceptions": "No invariant boundary between all three nouns is established. Do not conflate character with inner form or a fixed national essence; commentators emphasize different explanatory roles.",
+      "evidence_ids": [
+        "prep:EARLY-11",
+        "prep:EARLY-20",
+        "prep:EARLY-21",
+        "prep:MIDDLE-08",
+        "prep:PRIMARY-A11",
+        "prep:SECONDARY-05",
+        "prep:SECONDARY-06",
+        "prep:SECONDARY-07",
+        "prep:SECONDARY-17"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T08",
+      "forms": [
+        "Geist",
+        "geistig",
+        "Verstand",
+        "Vernunft",
+        "Seele",
+        "Gemüth",
+        "Einbildungskraft"
+      ],
+      "candidates": [
+        "mind",
+        "mental",
+        "understanding",
+        "reason",
+        "soul",
+        "inner life",
+        "imagination"
+      ],
+      "families": [
+        "mind",
+        "perspective"
+      ],
+      "rule": "Use mind/mental for thinking agency unless the local spiritual or metaphysical emphasis requires spirit. Preserve the distinct faculty names when the source contrasts them.",
+      "exceptions": "No fixed modern faculty diagram or Hegelian system is inferred. §126 itself discusses historical changes in these words’ apprehension.",
+      "evidence_ids": [
+        "prep:EARLY-14",
+        "prep:MIDDLE-12",
+        "prep:MIDDLE-22",
+        "prep:C09",
+        "prep:LEX-GEIST",
+        "prep:PRIMARY-B10"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T09",
+      "forms": [
+        "Kraft",
+        "Vermögen",
+        "Fähigkeit"
+      ],
+      "candidates": [
+        "power",
+        "capacity",
+        "faculty",
+        "ability"
+      ],
+      "families": [
+        "power"
+      ],
+      "rule": "Keep power, capacity and activity distinct. Linguistic powers can be exercised, grow and act on inherited material.",
+      "exceptions": "Do not default to physical force/energy; do not assert these neighbouring nouns are strict technical synonyms.",
+      "evidence_ids": [
+        "prep:EARLY-13",
+        "prep:EARLY-15",
+        "prep:PRIMARY-A03",
+        "prep:PRIMARY-A04",
+        "prep:LEX-KRAFT"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T10",
+      "forms": [
+        "Thätigkeit",
+        "Wirkung",
+        "Verfahren"
+      ],
+      "candidates": [
+        "activity",
+        "effect",
+        "procedure",
+        "manner of operating"
+      ],
+      "families": [
+        "activity"
+      ],
+      "rule": "Separate the doing, its effect and its manner. Preserve the process/product distinction and the reciprocal influence actually claimed.",
+      "exceptions": "Wirkung may be operation in context. Do not add activity to a source that names powers alone; later Energeia does not replace every early noun.",
+      "evidence_ids": [
+        "prep:EARLY-04",
+        "prep:EARLY-05",
+        "prep:EARLY-22",
+        "prep:C09",
+        "prep:PRIMARY-A01",
+        "prep:PRIMARY-B10"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T11",
+      "forms": [
+        "Denken",
+        "Gedanke",
+        "Begriff"
+      ],
+      "candidates": [
+        "thinking",
+        "thought",
+        "concept"
+      ],
+      "families": [
+        "thought"
+      ],
+      "rule": "Distinguish activity, thought-content and concept where the argument does so. Word and concept are mutually involved, rather than words merely labelling finished concepts.",
+      "exceptions": "Do not impose Fregean Sinn/Bedeutung or treat every thought-related noun as a strict synonym.",
+      "evidence_ids": [
+        "prep:EARLY-08",
+        "prep:MIDDLE-08",
+        "prep:MIDDLE-14",
+        "prep:C05",
+        "prep:PRIMARY-A10",
+        "prep:PRIMARY-B14",
+        "prep:LEX-BEGRIFF"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T12",
+      "forms": [
+        "Vorstellung",
+        "Anschauung",
+        "Auffassung"
+      ],
+      "candidates": [
+        "representation",
+        "intuition",
+        "sensible apprehension",
+        "apprehension"
+      ],
+      "families": [
+        "perspective",
+        "thought"
+      ],
+      "rule": "Choose by local role: representing, sensible/intuitive presentation, or taking an object in a particular way. In §98 the speaker’s apprehension corresponds to the hearer’s designation.",
+      "exceptions": "Not every Anschauung is visual seeing or an opinion; not every use establishes a fixed Kantian technical sense.",
+      "evidence_ids": [
+        "prep:EARLY-16",
+        "prep:MIDDLE-12",
+        "prep:MIDDLE-15",
+        "prep:C06",
+        "prep:C11",
+        "prep:PRIMARY-B15",
+        "prep:LEX-ANSCHAUEN"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T13",
+      "forms": [
+        "Ansicht",
+        "Weltansicht"
+      ],
+      "candidates": [
+        "view",
+        "approach",
+        "view of the world",
+        "world-view"
+      ],
+      "families": [
+        "perspective"
+      ],
+      "rule": "Use view/approach for grammatical ways of organizing relations. In §39 preserve the language-mediated view of the world and individual/historical variation.",
+      "exceptions": "Do not automatically turn Anschauung der Welt into the headword Weltansicht, or equate Weltansicht with ideology/Weltanschauung. Underhill’s contrast is an interpretive aid, not an invariant law of Humboldt’s vocabulary.",
+      "evidence_ids": [
+        "prep:EARLY-16",
+        "prep:C02",
+        "prep:C11",
+        "prep:LATE-07",
+        "prep:SECONDARY-08",
+        "prep:SECONDARY-14",
+        "prep:LEX-ANSICHT"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T14",
+      "forms": [
+        "Bezeichnung",
+        "Bedeutung",
+        "Ausdruck",
+        "Selbstbedeutung"
+      ],
+      "candidates": [
+        "designation",
+        "meaning",
+        "expression",
+        "motivating meaning"
+      ],
+      "families": [
+        "designation"
+      ],
+      "rule": "Determine whether designation concerns a concept, thought-relation, audible marking or manner of presentation. Preserve §98’s explicitly conceptual standpoint.",
+      "exceptions": "No universal denotation/signification split is established. Selbstbedeutung is motivating apprehension, not simply present dictionary meaning or verified etymology.",
+      "evidence_ids": [
+        "prep:MIDDLE-14",
+        "prep:MIDDLE-15",
+        "prep:MIDDLE-16",
+        "prep:C06",
+        "prep:PRIMARY-B02",
+        "prep:PRIMARY-B04",
+        "prep:C22"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T15",
+      "forms": [
+        "Zeichen",
+        "Symbol"
+      ],
+      "candidates": [
+        "sign",
+        "symbol"
+      ],
+      "families": [
+        "designation"
+      ],
+      "rule": "In §101 retain both the word’s sign-like purpose and the claim that the concept is completed through it; keep symbol as a qualified comparison.",
+      "exceptions": "Do not simplify to word = sign or word = symbol. Deleted notes on p428 and Kawi p46 are identified as variants, not the active assertion.",
+      "evidence_ids": [
+        "prep:MIDDLE-16",
+        "prep:C07",
+        "prep:C15",
+        "prep:PRIMARY-A10"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T16",
+      "forms": [
+        "Laut",
+        "Ton",
+        "Schall",
+        "Articulation",
+        "Accent"
+      ],
+      "candidates": [
+        "speech sound",
+        "sound",
+        "tone",
+        "acoustic sound",
+        "articulation",
+        "accent"
+      ],
+      "families": [
+        "sound"
+      ],
+      "rule": "Use local auditory and articulatory function. Distinguish quantity, organizing accent and Chinese intonation where the argument contrasts them.",
+      "exceptions": "Neither Ton = pitch throughout nor Laut = a modern phoneme is justified. Historical physiological/evaluative claims remain attributed to Humboldt.",
+      "evidence_ids": [
+        "prep:EARLY-09",
+        "prep:EARLY-11",
+        "prep:MIDDLE-01",
+        "prep:MIDDLE-05",
+        "prep:MIDDLE-06"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T17",
+      "forms": [
+        "Buchstabe",
+        "Alphabet",
+        "Schrift",
+        "Buchstabenschrift",
+        "Literatur",
+        "eigentliche Literatur"
+      ],
+      "candidates": [
+        "letter",
+        "speech-sound element",
+        "sound inventory",
+        "writing",
+        "alphabetic writing",
+        "literature",
+        "literature in the proper sense"
+      ],
+      "families": [
+        "sound"
+      ],
+      "rule": "Inspect the bearer: §§56–58 discuss articulated sounds and their inventory before writing’s separate role in §71. Explain a retained letter where necessary.",
+      "exceptions": "Do not turn sound change into orthographic change. Preserve alphabetic in §§1–2; it is not interchangeable with all writing. In §2 preserve literature in the proper sense and the asserted consequence from missing alphabetic writing; these are Humboldt’s restrictions and judgement.",
+      "evidence_ids": [
+        "prep:MIDDLE-01",
+        "prep:MIDDLE-02",
+        "prep:MIDDLE-07",
+        "prep:C04",
+        "prep:C20",
+        "prep:SECONDARY-09"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T18",
+      "forms": [
+        "Wort",
+        "Wortlaut",
+        "Wörtervorrath",
+        "Wortvorrath"
+      ],
+      "candidates": [
+        "word",
+        "audible form",
+        "vocabulary"
+      ],
+      "families": [
+        "word"
+      ],
+      "rule": "Retain sound/concept unity, actual use and the wider vocabulary network; words as dictionary objects are an analytic standpoint, not their entire existence.",
+      "exceptions": "The singular/plural-compound variants in the headings do not establish separate technical systems. Do not normalize source spelling silently.",
+      "evidence_ids": [
+        "prep:MIDDLE-08",
+        "prep:MIDDLE-11",
+        "prep:MIDDLE-17",
+        "prep:C05",
+        "prep:C03"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T19",
+      "forms": [
+        "Wurzel",
+        "Stammwort",
+        "Analogie"
+      ],
+      "candidates": [
+        "root",
+        "base word",
+        "formation pattern",
+        "analogy"
+      ],
+      "families": [
+        "word",
+        "relationship"
+      ],
+      "rule": "Distinguish productive pattern, relative base and proposed historical origin. Sound resemblance alone does not establish descent.",
+      "exceptions": "No compulsory derivation of every word from a root; inherited lexical material need not carry its original productive pattern with it.",
+      "evidence_ids": [
+        "prep:MIDDLE-09",
+        "prep:MIDDLE-10",
+        "prep:MIDDLE-20",
+        "prep:MIDDLE-21",
+        "prep:C08"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T20",
+      "forms": [
+        "Rede",
+        "Redeverbindung",
+        "Redefügung",
+        "Redensart"
+      ],
+      "candidates": [
+        "speech",
+        "discourse",
+        "combination in discourse",
+        "expression"
+      ],
+      "families": [
+        "speech"
+      ],
+      "rule": "Use connected speech/discourse and its joining where organization and utterance are at issue. §129 starts analytically from speech as a whole.",
+      "exceptions": "Do not reduce every Rede to one sentence, or every Redensart to a frozen idiom. Redeverbindung includes more than mere sound concatenation.",
+      "evidence_ids": [
+        "prep:EARLY-22",
+        "prep:LATE-01",
+        "prep:LATE-02",
+        "prep:LATE-03",
+        "prep:C03",
+        "prep:PRIMARY-B10"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T21",
+      "forms": [
+        "Satz",
+        "Periode"
+      ],
+      "candidates": [
+        "proposition",
+        "clause",
+        "sentence",
+        "period"
+      ],
+      "families": [
+        "speech"
+      ],
+      "rule": "Preserve §136’s distinction of units: thought-relations give Satz unity, while Periode also embodies linguistic organization and intelligible utterance. Retain German on first explanation.",
+      "exceptions": "The final local choice between proposition and sentence requires the full translated passage. Periode is not merely any long sentence; no one-to-one modern clause/sentence mapping is fixed here.",
+      "evidence_ids": [
+        "prep:LATE-09",
+        "prep:LATE-10",
+        "prep:C10"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Local distinction image-checked; English labels remain an explicitly open decision for §136."
+    },
+    {
+      "id": "T22",
+      "forms": [
+        "Grammatik",
+        "Logik",
+        "allgemeine Grammatik",
+        "grammatische Ansicht"
+      ],
+      "candidates": [
+        "grammar",
+        "logic",
+        "general grammar",
+        "grammatical view"
+      ],
+      "families": [
+        "grammar",
+        "perspective"
+      ],
+      "rule": "Keep conceptual thought-relations, a language’s view of them, its technical means and their sounds separate. General grammar covers only part of the general process inquiry.",
+      "exceptions": "No modern innate universal grammar is imported. Missing inflection is not missing thought or all grammar. Kawi’s language-form extends beyond conventional grammar.",
+      "evidence_ids": [
+        "prep:EARLY-07",
+        "prep:LATE-06",
+        "prep:LATE-07",
+        "prep:LATE-15",
+        "prep:C12",
+        "prep:PRIMARY-B01",
+        "prep:PRIMARY-B03",
+        "prep:SECONDARY-01",
+        "prep:SECONDARY-02"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T23",
+      "forms": [
+        "Hinzudenken",
+        "Andeutung",
+        "ausdrückliche Grammatik",
+        "stillschweigende Grammatik"
+      ],
+      "candidates": [
+        "mental supplementation",
+        "indication",
+        "explicit grammar",
+        "tacit grammar"
+      ],
+      "families": [
+        "grammar"
+      ],
+      "rule": "Distinguish what speakers and hearers supply in thought from what audible language indicates. Andeutung can be fixed and strong; the boundary of genuine form is graded in §149.",
+      "exceptions": "Mental supplementation need not be conscious inference or recovery of an actually deleted word. Genuine form is not simply inflection: §147 allows immutable word order in principle only with a fixed reference point identifiable independently of position. This is the local §147 test, not a universal definition across writings.",
+      "evidence_ids": [
+        "prep:LATE-15",
+        "prep:LATE-16",
+        "prep:LATE-20",
+        "prep:LATE-21",
+        "prep:LATE-22",
+        "prep:C12",
+        "prep:C13",
+        "prep:C14",
+        "prep:PRIMARY-B03",
+        "prep:SECONDARY-02",
+        "prep:C24"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T24",
+      "forms": [
+        "Sachbegriff",
+        "Begriffsbezeichnung",
+        "Verhältnissbezeichnung",
+        "Formalität"
+      ],
+      "candidates": [
+        "substantive concept",
+        "concept designation",
+        "relation designation",
+        "formal character"
+      ],
+      "families": [
+        "grammar",
+        "thought",
+        "designation"
+      ],
+      "rule": "Preserve the distinction between content supplied as an object/concept and a relation marked as relation. Check the present function rather than etymological origin alone. For Formalität in §144 preserve the claimed awakening of form as form in the mind, beyond assistance to comprehension.",
+      "exceptions": "Formalität here does not mean empty ceremony. An originally substantive word may become relational as its prior meaning is lost. Formal character remains a provisional label for that claimed effect; settle its full English expression in the local passage.",
+      "evidence_ids": [
+        "prep:LATE-17",
+        "prep:LATE-18",
+        "prep:LATE-20",
+        "prep:PRIMARY-A07",
+        "prep:PRIMARY-B04"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Concept/relation contrast supported locally; the best English nominal rendering of Formalität remains open, with its effect specified."
+    },
+    {
+      "id": "T25",
+      "forms": [
+        "Aehnlichkeit",
+        "Einerleiheit",
+        "Verwandtschaft",
+        "Abstammung",
+        "Verschiedenheit"
+      ],
+      "candidates": [
+        "similarity",
+        "sameness",
+        "relationship",
+        "descent",
+        "diversity"
+      ],
+      "families": [
+        "relationship"
+      ],
+      "rule": "Keep likeness, identity, historical connection and common human capacities distinct. §§1–2 claim broad similarity while rejecting uniform structure.",
+      "exceptions": "Contact and shared capacities can both yield resemblance; §47 leaves empirical separation open. Do not infer a single original language or continental language family.",
+      "evidence_ids": [
+        "prep:C19",
+        "prep:C20",
+        "prep:EARLY-18",
+        "prep:EARLY-19",
+        "prep:MIDDLE-09"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T26",
+      "forms": [
+        "Volk",
+        "Nation",
+        "Stamm",
+        "Sprachstamm",
+        "Horde",
+        "Familie"
+      ],
+      "candidates": [
+        "people",
+        "nation",
+        "stock",
+        "language stock",
+        "horde",
+        "family"
+      ],
+      "families": [
+        "community",
+        "relationship"
+      ],
+      "rule": "Identify human versus linguistic grouping. Keep language stocks for §1 Sprachstämme and the separate human group terms in the later sentence.",
+      "exceptions": "Nation does not automatically imply a modern state. Preserve historically charged/evaluative labels without converting them into present scientific classifications.",
+      "evidence_ids": [
+        "prep:C19",
+        "prep:EARLY-13",
+        "prep:EARLY-19",
+        "prep:EARLY-21",
+        "prep:PRIMARY-A05",
+        "prep:SECONDARY-06"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T27",
+      "forms": [
+        "Verkehr",
+        "Berührung"
+      ],
+      "candidates": [
+        "interaction",
+        "dealings",
+        "contact"
+      ],
+      "families": [
+        "contact"
+      ],
+      "rule": "In §1 use interaction for reciprocal dealings and contact for Berührung; retain the restricted native setting the source asserts.",
+      "exceptions": "Do not narrow Verkehr to commerce, transport or textual correspondence, and do not add an undocumented mechanism of mixture.",
+      "evidence_ids": [
+        "prep:C19",
+        "prep:EARLY-19",
+        "prep:LEX-VERKEHR"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T28",
+      "forms": [
+        "Gährung",
+        "abschleifen",
+        "abschleifend"
+      ],
+      "candidates": [
+        "ferment",
+        "wear down",
+        "wearing-down"
+      ],
+      "families": [
+        "contact",
+        "power"
+      ],
+      "rule": "Retain the ferment-of-powers and abrasion metaphors in §1. In the ferment clause keep peoples as subject and freedom from foreign influence as an adjunct. In the abrasion sentence, previously introduced foreign material undergoes the wearing-down influence of native interaction.",
+      "exceptions": "Smoothing/levelling are possible explanations, not evidence that all differences disappear. The dictionary supplies the physical range, not a settled sociolinguistic mechanism.",
+      "evidence_ids": [
+        "prep:C19",
+        "prep:LEX-ABSCHLEIFEN"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T29",
+      "forms": [
+        "Welttheil"
+      ],
+      "candidates": [
+        "continent"
+      ],
+      "families": [
+        "community"
+      ],
+      "rule": "Continent is the consistent geographical equivalent in §§1–2. Keep geography distinct from a demonstrated genealogical unit.",
+      "exceptions": "The printed singular erlaubt in §2 remains in German; English plural agreement does not prove an alternate German subject.",
+      "evidence_ids": [
+        "prep:C19",
+        "prep:C20"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T30",
+      "forms": [
+        "wohl",
+        "bisweilen",
+        "bis auf",
+        "doch",
+        "zwar",
+        "nun auch"
+      ],
+      "candidates": [
+        "modal or concessive particle",
+        "sometimes",
+        "down to",
+        "contrast and discourse connection"
+      ],
+      "families": [
+        "contact"
+      ],
+      "rule": "Translate the sentence relation first. In §2 bisweilen supplies sometimes; auch wohl does not warrant automatically repeating that frequency. Keep §1’s temporal bis auf provisional.",
+      "exceptions": "The dictionary gives several wohl functions and temporal bis auf examples, not a unique occurrence reading. Pronoun reference and focus require local notes, not a global particle glossary.",
+      "evidence_ids": [
+        "prep:C19",
+        "prep:C20",
+        "prep:LEX-WOHL",
+        "prep:LEX-BIS"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "A narrower particle/focus judgement remains open; current §§1–2 choices need no change on the evidence assembled."
+    },
+    {
+      "id": "T31",
+      "forms": [
+        "Treue",
+        "das Fremde",
+        "Fremdheit"
+      ],
+      "candidates": [
+        "faithfulness",
+        "the foreign element",
+        "strangeness"
+      ],
+      "families": [
+        "distinctiveness"
+      ],
+      "rule": "Use these as explicitly attributed translation-policy controls from the 1816 introduction: character matters, arbitrary decoration is removed, and explanation is separate.",
+      "exceptions": "Not certified technical headwords throughout Grundzüge; a policy for Greek tragedy is not automatically a rule to copy German syntax or impose metre.",
+      "evidence_ids": [
+        "prep:PRIMARY-A11",
+        "prep:PRIMARY-A12",
+        "prep:PRIMARY-A13",
+        "prep:PRIMARY-A14",
+        "prep:PRIMARY-A15",
+        "prep:PRIMARY-A16",
+        "prep:NORD"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T32",
+      "forms": [
+        "Gefühl",
+        "Empfindung",
+        "Geltung"
+      ],
+      "candidates": [
+        "feeling",
+        "sensation",
+        "affect",
+        "sensible presence or efficacy",
+        "role or force"
+      ],
+      "families": [
+        "perspective",
+        "mind"
+      ],
+      "rule": "In §§105 and125, feeling includes an overall intellectual/affective orientation and can operate without reflective consciousness. In §§87–88 Geltung concerns sensible presence/efficacy given through sound; in §121 it concerns lexical/grammatical role. Translate by the bearer.",
+      "exceptions": "Emotion and legalistic validity are not automatic defaults. These are provisional distinctions, not a non-overlapping psychological taxonomy.",
+      "evidence_ids": [
+        "prep:C21",
+        "prep:C23",
+        "prep:C25",
+        "prep:C08",
+        "prep:MIDDLE-22"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T33",
+      "forms": [
+        "Mittel",
+        "Bestandtheile",
+        "Behandlung"
+      ],
+      "candidates": [
+        "means",
+        "devices",
+        "constituents",
+        "treatment or use"
+      ],
+      "families": [
+        "structure",
+        "activity"
+      ],
+      "rule": "Keep the devices and constituents distinct from their coordinated treatment and effect, respecting §12’s warning that the separation is not rigid.",
+      "exceptions": "Do not infer that close structural detail is dispensable because process and the whole are primary.",
+      "evidence_ids": [
+        "prep:EARLY-03",
+        "prep:EARLY-05",
+        "prep:EARLY-06",
+        "prep:EARLY-11",
+        "prep:PRIMARY-A01"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for cited contexts; not a certified whole-work sense classification",
+      "limit": "Conditional default supported by representative contexts; inspect each new occurrence before applying."
+    },
+    {
+      "id": "T34",
+      "forms": [
+        "zusammenfliessen",
+        "zusammengeflossen",
+        "Mischung",
+        "Vermischung"
+      ],
+      "candidates": [
+        "converge",
+        "flow together",
+        "mixture",
+        "mixing"
+      ],
+      "families": [
+        "contact",
+        "relationship"
+      ],
+      "rule": "In §1 use convergence for languages occurring together geographically unless their blending is actually asserted. In historical passages translate mixture when the source names it, keeping contact, convergence and shared descent distinct.",
+      "exceptions": "The Untersuchungen parallel explicitly names mixing; do not substitute it for the base’s different wording or infer which version came first.",
+      "evidence_ids": [
+        "prep:C19",
+        "prep:EARLY-17",
+        "prep:EARLY-18",
+        "prep:EARLY-19"
+      ],
+      "status": "provisional working rule",
+      "confidence": "supported for the checked opening and cited historical contexts",
+      "limit": "Opening choice checked by coordinator after the register audits; no global synonymy or revised chronology is asserted."
+    }
+  ]
+}

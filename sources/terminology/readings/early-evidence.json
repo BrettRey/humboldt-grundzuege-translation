@@ -1,0 +1,367 @@
+[
+  {
+    "id": "EARLY-01",
+    "printed_page": 365,
+    "pdf_page": 375,
+    "section": null,
+    "terms": [
+      "Bau",
+      "Bildung",
+      "Ausbildung"
+    ],
+    "quote": "In der Ausbildung der Nationen, welchen\nsie angehören, sind gewiss bedeutende, auch in ihnen selbst un-\n                    verkennbare Unterschiede gewesen, allein der Mangel alphabetischer\nSchrift und mithin eigentlicher Literatur stellt doch alle, ohne\nAusnahme, auf einer niedrigeren Stufe gleich.",
+    "meaning": "The opening assigns different levels of development to nations and languages and treats alphabetic writing/literature as a common ranking criterion. This is Humboldt's evaluative claim, not a neutral typological fact.",
+    "implication": "Use development/cultivation according to bearer, retaining the explicit lower-stage judgment; do not flatten Bildung into structural formation everywhere.",
+    "verification": "OCR-only",
+    "issue": "Opening material retained provisionally under D001; reported cancellation of first seven paragraphs remains manuscript-unverified."
+  },
+  {
+    "id": "EARLY-02",
+    "printed_page": 367,
+    "pdf_page": 377,
+    "section": "7",
+    "terms": [
+      "Sprachkunde",
+      "Sprache",
+      "Art",
+      "Gattung"
+    ],
+    "quote": "Die Sprachen eines Erdstrichs lassen sich hauptsächlich auf 7.\nzwei, in dem Zweck und der Behandlung verschiedene Weisen\ndarstellen, einmal an sich, als unter der allgemeinen Menschen-\n             sprache, wie Arten unter einer Gattung, begriffene Idiome, dann\nin Beziehung auf den Ort und das Volk, welchen sie angehören,\nin ihrem geographischen und geschichtlichen Zusammenhange.",
+    "meaning": "Two presentations differ in purpose: languages considered under human language generally, and languages in geographic/historical relations.",
+    "implication": "Render Sprachkunde as study of language/languages; keep species/genus analogy locally visible without making it an established natural taxonomy.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "EARLY-03",
+    "printed_page": 369,
+    "pdf_page": 379,
+    "section": null,
+    "terms": [
+      "Form",
+      "technische Mittel",
+      "Wirkung"
+    ],
+    "quote": "Diese technischen Mittel verändern\nsich auch, entstehen und gehen unter, es tritt eines an die Stelle\ndes andren, und darum dass die bestimmte Form fehlt, mangelt\nnicht die Wirkung, welche sie sonst in der Sprache hervorbringt.",
+    "meaning": "Particular grammatical devices can change or disappear while their effects remain.",
+    "implication": "Use grammatical form/device here, not an invariant essence; preserve the distinction between means and effect.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "EARLY-04",
+    "printed_page": 369,
+    "pdf_page": 379,
+    "section": null,
+    "terms": [
+      "Sprache",
+      "Verrichtung",
+      "geistiger Process"
+    ],
+    "quote": "sie ist, auch nicht einmal in der durch sie ge-\n                 gebenen Masse von Wörtern und Regeln, ein daliegender Stoff,\nsondern eine Verrichtung, ein geistiger Process, wie das Leben\n ein körperlicher. Nichts, was sich auf sie bezieht, kann mit ana-\n                      tomischer, sondern nur mit physiologischer Behandlung verglichen\n werden, nichts in ihr ist statisch, alles dynamisch.",
+    "meaning": "The language is not inert lexical/rule material but an operation or mental process; physiological rather than anatomical treatment is urged.",
+    "implication": "Prefer activity/operation for Verrichtung and mental process for geistiger Process; do not import later formulae or a modern theory.",
+    "verification": "OCR-only",
+    "issue": "OCR line-end hyphenation retained in the quotation."
+  },
+  {
+    "id": "EARLY-05",
+    "printed_page": 370,
+    "pdf_page": 380,
+    "section": null,
+    "terms": [
+      "Bau",
+      "Mittel",
+      "Verfahren"
+    ],
+    "quote": "Auf dem andren\nforscht man nach der Art der Anwendung und des Gebrauchs\ndieser Mittel, nach der Gesammtbehandlung, die sie erfahren, und\nergründet in möglicher Vollständigkeit von allen Seiten aus das\nVerfahren der Sprache im Ganzen, von dessen Darstellung erst\ndie wahre Durchschauung ihres Wesens abhängt.",
+    "meaning": "The second route investigates how means are used and treated together, yielding an account of the language's overall procedure.",
+    "implication": "Use structure for Bau but procedure/manner of operating for Verfahren; do not turn the latter into an inventory of structural parts.",
+    "verification": "OCR-only",
+    "issue": "OCR line-end hyphenation retained in the quotation."
+  },
+  {
+    "id": "EARLY-06",
+    "printed_page": 371,
+    "pdf_page": 381,
+    "section": "13",
+    "terms": [
+      "Studium",
+      "Darstellung",
+      "Allgemeines",
+      "Einzelnes"
+    ],
+    "quote": "Das Studium verlangt einen\nandern Weg, als die Darstellung des durch Studium Erkannten.",
+    "meaning": "The order of inquiry differs from the order of presenting what has been learned.",
+    "implication": "Distinguish study/investigation from exposition; the general-to-particular presentation does not license beginning empirical study from a preconceived general scheme.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "EARLY-07",
+    "printed_page": 373,
+    "pdf_page": 383,
+    "section": "16",
+    "terms": [
+      "Typus",
+      "Begriff",
+      "individualisiren"
+    ],
+    "quote": "Die Allgemeinheit dieses Typus besteht darin, dass Alles, was von ihm auszusagen ist, nur durch den reinen Begriff der Sprache bedingt und von allen andren Umständen abgesehen wird, die, aus den übrigen menschlichen Anlagen und den auf sie einwirkenden Verhältnissen entspringend, in der Wirklichkeit den allgemeinen Typus individualisiren.",
+    "meaning": "The general type abstracts from individualizing circumstances and is determined by the pure concept of language.",
+    "implication": "Provisional rendering: general type/pattern of the linguistic process, not language type in a morphological classification. Preserve the conceptual rather than genealogical basis.",
+    "verification": "image-checked",
+    "issue": "Image checked: OCR BegritF corrected to printed Begriff; typographic line-end hyphens removed and whitespace normalized in this quotation."
+  },
+  {
+    "id": "EARLY-08",
+    "printed_page": 374,
+    "pdf_page": 384,
+    "section": "20",
+    "terms": [
+      "Sprache",
+      "Gedanke",
+      "bildendes Organ",
+      "Thätigkeit"
+    ],
+    "quote": "dass die Sprache nicht bloss die\n  Bezeichnung des, unabhängig von ihr geformten Gedanken, sondern\n  selbst das bildende Organ des Gedanken ist.",
+    "meaning": "Language forms thought rather than merely designating independently formed thought.",
+    "implication": "Keep formative organ of thought provisionally; avoid a mere communication-instrument paraphrase or a modern determinist label.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "EARLY-09",
+    "printed_page": 375,
+    "pdf_page": 385,
+    "section": "21",
+    "terms": [
+      "Articulation",
+      "Geräusch",
+      "Form",
+      "Geist"
+    ],
+    "quote": "Die Articulation beruht auf der Gewalt des Geistes über\ndie Sprachwerkzeuge, sie zu einer Behandlung des Tons zu\nnöthigen, welche der Form seines Wirkens entspricht.",
+    "meaning": "Articulation is defined in relation to the mind's control of speech organs and the form of its activity.",
+    "implication": "Keep articulation distinct from audible sound/noise; Form here belongs to mental activity, not specifically grammar or syntax.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "EARLY-10",
+    "printed_page": 378,
+    "pdf_page": 388,
+    "section": "27",
+    "terms": [
+      "Bildung",
+      "Gefallen",
+      "Sprechen"
+    ],
+    "quote": "Der viel wesentlichere Entstehungsgrund der\n  Sprache ist das Gefallen am Sprechen, und daher ist es auf die\n  Bildung der Sprachen von so wichtigem Einfluss, wie schweigsam\n  oder geschwätzig ein Volk ist.",
+    "meaning": "Pleasure in speaking is made a more fundamental origin than instrumental need, and national speaking habits affect language formation.",
+    "implication": "Use formation/development of languages for Bildung here, not education; retain the comparative causal assertion as Humboldt's.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "EARLY-11",
+    "printed_page": 379,
+    "pdf_page": 389,
+    "section": "29",
+    "terms": [
+      "Individualitaet",
+      "Ton",
+      "Eigenthümlichkeit",
+      "Gattung"
+    ],
+    "quote": "In der Natur des Tones, als solchen, liegt endlich allein die wahre Individualitaet jeder Sprache. Was man thun und versuchen mag, ihre Eigenthümlichkeiten zu schildern, so bestimmt man nur immer näher und näher die Gattung, welcher sie angehört; als diese und keine andere Sprache spricht sie sich nur selbst vor dem Ohre aus.",
+    "meaning": "Sound is said to bear the language's ultimate individuality, which descriptive classification never exhausts.",
+    "implication": "Keep true individuality here; read with the express qualifications at §§49–50 rather than weakening it silently or letting it establish a sound-only essence.",
+    "verification": "image-checked",
+    "issue": "Image checked; whitespace normalized and typographic line-end hyphens removed; source spelling Individualitaet preserved."
+  },
+  {
+    "id": "EARLY-12",
+    "printed_page": 380,
+    "pdf_page": 390,
+    "section": "31",
+    "terms": [
+      "Denken",
+      "Begriff",
+      "Denkkraft",
+      "Ich",
+      "Du"
+    ],
+    "quote": "der Mensch bedarf, abge-\n  I sehen von allen körperlichen und Empfindungsbeziehungen, zum\n     blossen Denken eines dem I c h entsprechenden D u , der Begriff\n     erreicht seine Bestimmtheit und Klarheit erst durch das Zurück-\n                  strahlen aus einer fremden Denkkraft.",
+    "meaning": "A concept gains determinacy and clarity by being reflected back from another thinking power/person.",
+    "implication": "Use concept for Begriff, capacity/power of thought for Denkkraft; retain another rather than alien/enemy for fremd here.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "EARLY-13",
+    "printed_page": 382,
+    "pdf_page": 392,
+    "section": "33",
+    "terms": [
+      "Sprachkraft",
+      "Kraft",
+      "Individualität",
+      "Gattung"
+    ],
+    "quote": "Diese Kraft ist, wie jede, natürlich eine individuelle, aber nach\n  allen den Gattungsbegriffen individualisirt, vermöge welcher jede\n  Gattung gegen eine allgemeinere höhere als Individuum genommen\n  werden kann.",
+    "meaning": "Linguistic power is individual yet can be individuated at nested group levels.",
+    "implication": "Use linguistic power/capacity consistently enough to preserve the argument; distinguish individual speaker from a group treated relatively as an individual.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "EARLY-14",
+    "printed_page": 383,
+    "pdf_page": 393,
+    "section": "34",
+    "terms": [
+      "Wesen",
+      "Einheit",
+      "Ansicht"
+    ],
+    "quote": "wenn man das Menschengeschlecht als zahllose zu der-\n         selben Gattung gehörende Naturen, und nicht vielmehr als Eine\nin zahllose Individuen zerspaltene betrachtet, eine Ansicht,",
+    "meaning": "Humboldt explicitly marks the claim of humanity as one nature divided into individuals as personal conviction, not confidently asserted general doctrine.",
+    "implication": "Preserve the parenthetical epistemic qualification and metaphysical vocabulary; do not report this unity as an empirically established premise.",
+    "verification": "OCR-only",
+    "issue": "The selected quotation ends at a comma; OCR line-end hyphenation retained."
+  },
+  {
+    "id": "EARLY-15",
+    "printed_page": 384,
+    "pdf_page": 394,
+    "section": "36",
+    "terms": [
+      "Sprachvermögen",
+      "Sprachkraft",
+      "Wachsen",
+      "Lernen"
+    ],
+    "quote": "Das\n  Sprechenlernen der Kinder ist nicht ein Zumessen von Wörtern,\n  Niederlegen im Gedächtniss, und Wiedernachlallen mit den Lippen,\n  sondern ein Wachsen des Sprachvermögens durch Alter und\n  Uebung.",
+    "meaning": "Child language learning is described as growth of linguistic capacity rather than stored vocabulary plus repetition.",
+    "implication": "Use growth/development of linguistic capacity, not acquisition of a fixed code; distinguish this source claim from any present-day acquisition theory.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "EARLY-16",
+    "printed_page": 387,
+    "pdf_page": 397,
+    "section": "39",
+    "terms": [
+      "Weltansicht",
+      "Eigenthümlichkeit",
+      "Subjectivitaet"
+    ],
+    "quote": "da nun auch auf die Sprache\nin derselben Nation eine gleichartige Subjectivitaet einwirkt, so\nliegt in jeder Sprache eine eigenthümliche Weltansicht.",
+    "meaning": "A language's distinctive world-view arises from mutually related word effects and national subjectivity.",
+    "implication": "Use distinctive view of the world/world-view for Weltansicht; do not substitute ideology, and preserve its linguistic and perceptual bearings.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "EARLY-17",
+    "printed_page": 388,
+    "pdf_page": 398,
+    "section": "40",
+    "terms": [
+      "Sprache",
+      "Sprechen",
+      "Vorrath",
+      "System",
+      "Macht"
+    ],
+    "quote": "Aus dem Sprechen aber erzeugt sich die Sprache, ein\n  Vorrath von Wörtern und System von Regeln, und wächst, sich\n  durch die Folge der Jahrtausende hinschlingend, zu einer von\n  dem jedesmal Redenden, dem jedesmaligen Geschlecht, der\n  Nation, ja zuletzt selbst von der Menschheit in gewisser Art\n  unabhängigen Macht an.",
+    "meaning": "A historically accumulating stock of words and rules grows from speaking and acquires relative independence from speakers.",
+    "implication": "Let Sprache shift between language activity and historically available language where the argument explicitly does; do not replace every instance with speech or code.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "EARLY-18",
+    "printed_page": 391,
+    "pdf_page": 401,
+    "section": "45",
+    "terms": [
+      "Einheit",
+      "Ursprache",
+      "Element"
+    ],
+    "quote": "Mit der in dem so eben aufgestellten Grundsatz ausgesprochenen 45.\nEinheit mehrerer Sprachen ist keinesweges die Einheit einer Ur-\n            sprache gemeint, sondern die, dass jede irgend ein Element in sich\nträgt, das auch einer andren angehört, und weil dies der Fall bei\nAllen ist, alle mittelbar durch einander verändert und betroffen\nsind.",
+    "meaning": "The unity claimed for connected languages means shared elements and indirect mutual effects, not one original language.",
+    "implication": "Reserve original/primordial language for Ursprache and avoid genealogical paraphrases for this unity.",
+    "verification": "OCR-only",
+    "issue": "OCR line-end hyphenation retained in the quotation."
+  },
+  {
+    "id": "EARLY-19",
+    "printed_page": 393,
+    "pdf_page": 403,
+    "section": "47",
+    "terms": [
+      "Gleichartigkeit",
+      "geschichtlicher Zusammenhang",
+      "Anlagen"
+    ],
+    "quote": "der Grundsatz\nausgesprochen ist, nach welchem der geschichtliche Zusammen-\n         hang der Sprachen von derjenigen Gleichartigkeit unterschieden\nwerden kann, welche bloss in der Gleichartigkeit der menschlichen\nAnlagen zu suchen ist.",
+    "meaning": "Historical connections must be distinguished from likeness attributable solely to shared human capacities.",
+    "implication": "Use likeness/similarity in kind for Gleichartigkeit, keeping its two possible sources distinct; not automatic common descent or homology.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "EARLY-20",
+    "printed_page": 395,
+    "pdf_page": 405,
+    "section": "49",
+    "terms": [
+      "Individualitaet",
+      "Ton",
+      "Ideelles",
+      "Weltvorstellung"
+    ],
+    "quote": "Die Individualitaet zeigt sich vielmehr in Allem, und ist eine und eben dieselbe von dem Alphabet bis zu der Weltvorstellung (39.) in der Totalitaet der Sprache.",
+    "meaning": "Individuality pervades the whole language from sound inventory to world-representation, rather than occupying sound alone.",
+    "implication": "Retain the repeated individuality across levels; distinguish Weltvorstellung here from Weltansicht in §39 rather than silently homogenizing.",
+    "verification": "image-checked",
+    "issue": "Image checked; whitespace normalized and typographic line-end hyphens removed; printed Individualitaet retained."
+  },
+  {
+    "id": "EARLY-21",
+    "printed_page": 396,
+    "pdf_page": 406,
+    "section": "50",
+    "terms": [
+      "Individualität",
+      "Sprechender",
+      "Sprache"
+    ],
+    "quote": "dass\n  die Individualität einer Sprache auch nur vergleichungsweise eine\n  seyn kann, und dass die wahre Individualität nur in dem jedesmal\n  Sprechenden liegt.",
+    "meaning": "A language's individuality is only relative; true individuality belongs to each present speaker.",
+    "implication": "Keep speaker as the final bearer of individuality; do not translate national individuality into homogeneous identity.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "EARLY-22",
+    "printed_page": 399,
+    "pdf_page": 409,
+    "section": "55",
+    "terms": [
+      "Materie",
+      "Form",
+      "Wörter",
+      "Redeverbindung"
+    ],
+    "quote": "In diesem sondern sich nun zwei Dinge deutlich von einander ab, die Wörter und die Redeverbindung, als die Materie und Form der Sprache. Man muss diese Eintheilung nicht verwechseln mit der in Laute und Regeln;",
+    "meaning": "Words and combination in discourse are distinguished as matter and form; this is expressly not the sounds/rules division.",
+    "implication": "Render Redeverbindung as combination/linking in discourse and keep matter/form here tied to elements versus connection, not sounds versus rules.",
+    "verification": "image-checked",
+    "issue": "Image checked; whitespace normalized and typographic line-end hyphens removed."
+  }
+]

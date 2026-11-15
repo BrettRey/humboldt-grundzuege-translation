@@ -1,0 +1,162 @@
+{
+  "format": "humboldt.passage",
+  "id": "fixture-minimal",
+  "layouts": [
+    {
+      "analysis_id": "fixture:source:v1:layout",
+      "label": "Fixture section",
+      "paragraph_id": "fixture:source:v1:p1",
+      "segments": [
+        {
+          "id": "fixture:source:v1:s1",
+          "kind": "sentence",
+          "text": "Alpha beta."
+        },
+        {
+          "id": "fixture:source:v1:s2",
+          "kind": "sentence",
+          "text": "Gamma delta."
+        }
+      ],
+      "version_id": "fixture:source:v1"
+    },
+    {
+      "analysis_id": "fixture:english:v1:layout",
+      "label": "Fixture section",
+      "paragraph_id": "fixture:english:v1:p1",
+      "segments": [
+        {
+          "id": "fixture:english:v1:s1",
+          "kind": "rendering",
+          "source_units": [
+            "fixture:source:v1:s1"
+          ],
+          "text": "Alpha term."
+        },
+        {
+          "id": "fixture:english:v1:s2",
+          "kind": "rendering",
+          "source_units": [
+            "fixture:source:v1:s2"
+          ],
+          "text": "Gamma item."
+        }
+      ],
+      "source_version": "fixture:source:v1",
+      "version_id": "fixture:english:v1"
+    }
+  ],
+  "schema_version": 1,
+  "section": "999",
+  "tables": {
+    "decision": [
+      {
+        "authority": "Software fixture only",
+        "id": "fixture:rule",
+        "question": "Synthetic test rule",
+        "resolution": "Synthetic original rule.",
+        "status": "provisional"
+      }
+    ],
+    "evidence": [
+      {
+        "claim_status": "not_evidence",
+        "excerpt": "Alpha beta.",
+        "id": "fixture:evidence",
+        "locator": "Synthetic fixture",
+        "quote_status": "synthetic_fixture",
+        "source_path": "sources/fixture.txt",
+        "source_sha256": "dd7aaf64a3e9ae29d44de682182fac0d9c4bd94de36b1b30f247bb15c7a780eb",
+        "statement": "Synthetic test data only."
+      }
+    ],
+    "lexeme": [
+      {
+        "domains_json": "[\"synthetic\"]",
+        "headword": "beta",
+        "id": "fixture:beta",
+        "kind": "term",
+        "query_key": "beta",
+        "roles_json": "[\"synthetic\"]",
+        "scope": "synthetic"
+      }
+    ],
+    "lexeme_form": [
+      {
+        "form": "beta",
+        "form_role": "synthetic",
+        "lexeme_id": "fixture:beta",
+        "query_key": "beta"
+      }
+    ],
+    "sense_rendering": [
+      {
+        "rank": 1,
+        "rendering": "term",
+        "sense_id": "fixture:sense"
+      }
+    ],
+    "term_sense": [
+      {
+        "caution": "Not linguistic evidence.",
+        "decision_id": "fixture:rule",
+        "definition": "Synthetic beta test concept.",
+        "id": "fixture:sense",
+        "label": "synthetic sense",
+        "lexeme_id": "fixture:beta",
+        "rule": "Synthetic original rule."
+      }
+    ],
+    "text_version": [
+      {
+        "body": "Alpha beta. Gamma delta.",
+        "body_sha256": "dd7aaf64a3e9ae29d44de682182fac0d9c4bd94de36b1b30f247bb15c7a780eb",
+        "id": "fixture:source:v1",
+        "language": "und",
+        "locator": "Synthetic fixture only",
+        "provenance": "Invented software test data; not a translation or historical claim.",
+        "source_path": "sources/fixture.txt",
+        "source_sha256": "dd7aaf64a3e9ae29d44de682182fac0d9c4bd94de36b1b30f247bb15c7a780eb",
+        "title": "Synthetic test fixture; no linguistic evidence",
+        "transcription_status": "synthetic_fixture"
+      },
+      {
+        "body": "Alpha term. Gamma item.",
+        "body_sha256": "cb6cdd9fe771f654c73a965e76803ba503f43846396ff3d88cc8978edff5d241",
+        "id": "fixture:english:v1",
+        "language": "en",
+        "locator": "Synthetic fixture only",
+        "provenance": "Invented software test data; not a translation or historical claim.",
+        "source_path": "sources/fixture.txt",
+        "source_sha256": "dd7aaf64a3e9ae29d44de682182fac0d9c4bd94de36b1b30f247bb15c7a780eb",
+        "title": "Synthetic test fixture; no linguistic evidence",
+        "transcription_status": "synthetic_fixture"
+      }
+    ],
+    "unit": [
+      {
+        "analysis_id": "fixture:source:v1:layout",
+        "end": 10,
+        "id": "fixture:annotation",
+        "kind": "term_occurrence",
+        "label": "beta",
+        "note": "Synthetic overlapping annotation.",
+        "parent_id": "fixture:source:v1:s1",
+        "start": 6,
+        "version_id": "fixture:source:v1"
+      }
+    ],
+    "unit_decision": [
+      {
+        "decision_id": "fixture:rule",
+        "unit_id": "fixture:annotation"
+      }
+    ],
+    "unit_evidence": [
+      {
+        "evidence_id": "fixture:evidence",
+        "unit_id": "fixture:source:v1:s1"
+      }
+    ]
+  }
+}

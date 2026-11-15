@@ -1,0 +1,76 @@
+{
+  "recorded_at": "2026-11-15T20:58:19.541966+00:00",
+  "replay_after_unrelated_label_edit": {
+    "type": "RevisionConflict",
+    "message": "target no longer matches the proposal's original precondition"
+  },
+  "corrected_version_apparatus": {
+    "version_id": "revision-text-b06bac08-5cdf-54a5-9ad5-60d3f85c43d4",
+    "unit_kinds": [
+      "document",
+      "paragraph",
+      "word"
+    ],
+    "visible_in_any_section": false,
+    "retrievable_by_id": true,
+    "import_rejection": {
+      "type": "ValueError",
+      "message": "layout text version missing: revision-text-b06bac08-5cdf-54a5-9ad5-60d3f85c43d4"
+    }
+  },
+  "crlf_form": {
+    "http_draft_retains_crlf": true,
+    "newline_only_change_accepted": true,
+    "lf_paragraphs": 2,
+    "crlf_paragraphs": 1,
+    "native_browser_serialization_tested": false
+  },
+  "two_clone_journal_merge": {
+    "type": "RevisionError",
+    "message": "journal sequence is duplicated or incomplete"
+  },
+  "new_evidence_via_dataset_import": {
+    "supported": true,
+    "usable_in_proposal": true
+  },
+  "live_state": {
+    "real_journal_events": 0,
+    "git_head_present": false,
+    "declared_translation_resources": [
+      "translations/difficult-147/audits.json",
+      "translations/difficult-147/candidates.json",
+      "translations/difficult-147/revised.json",
+      "translations/difficult-147/source.json",
+      "translations/difficult-147/synthesis.json",
+      "translations/opening-001/approval-2026-11-15.json",
+      "translations/opening-001/audits.json",
+      "translations/opening-001/candidates.json",
+      "translations/opening-001/packet.md",
+      "translations/opening-001/revised.json",
+      "translations/paragraph-002/audits.json",
+      "translations/paragraph-002/candidates.json",
+      "translations/paragraph-002/packet.md",
+      "translations/paragraph-002/revised.json"
+    ],
+    "frozen_baseline_release_present": true,
+    "tracked_digest_record": true,
+    "blocked_existing_translation_attachments": [
+      "translations/opening-001/candidates.json",
+      "translations/opening-001/audits.json",
+      "translations/opening-001/revised.json",
+      "translations/paragraph-002/candidates.json",
+      "translations/paragraph-002/audits.json",
+      "translations/paragraph-002/revised.json",
+      "translations/difficult-147/source.json",
+      "translations/difficult-147/candidates.json",
+      "translations/difficult-147/synthesis.json",
+      "translations/difficult-147/revised.json",
+      "translations/opening-001/approval-2026-11-15.json",
+      "translations/opening-001/packet.md",
+      "translations/paragraph-002/packet.md",
+      "translations/difficult-147/audits.json"
+    ],
+    "multiline_text_versions": 2
+  },
+  "reviewed_files_unchanged": 28
+}

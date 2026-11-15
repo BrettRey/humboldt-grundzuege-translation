@@ -1,0 +1,53 @@
+{
+  "recorded_at": "2026-11-15T17:28:43.136783+00:00",
+  "scope": "Bounded alternative-source check; no 2017 access retry, library request or contact",
+  "queries": [
+    "Humboldt Grundzüge allgemeinen Sprachtypus Manuskript 2017 Lindorfer Trabant gestrichen sieben Paragraphen",
+    "Humboldt Grundzüge allgemeinen Sprachtypus 1906 Leitzmann Handschrift 148 Blätter 364",
+    "\"Grundzüge des allgemeinen Sprachtypus\" \"1884\" Steinthal",
+    "\"Grundzüge des allgemeinen Sprachtypus\" Handschrift Nachlass",
+    "\"Grundzüge\" \"Lindorfer\" Dissertation 2004",
+    "\"Grundzüge des allgemeinen Sprachtypus\" \"Nachlass\" \"Berlin\"",
+    "\"Grundzüge\" \"Humboldt\" \"148\" Handschrift",
+    "site:refubium.fu-berlin.de \"Grundzüge\" \"Lindorfer\"",
+    "\"Internationale Zeitschrift\" \"1884\" \"383\" \"Humboldt\" digital",
+    "site:archive.org/details \"Internationale zeitschrift für allgemeine\" \"1884\"",
+    "site:onesearch.library.utoronto.ca \"Scan & Deliver\" chapters"
+  ],
+  "results": [
+    {
+      "url": "https://books.google.com/books?id=U4QNAAAAQAAJ",
+      "status": "bibliographic/contents record read; Grundzüge starts383, next contribution412",
+      "limit": "page-specific source fetch failed; no article collation"
+    },
+    {
+      "url": "https://www.uni-hildesheim.de/media/fb2/philosophie/Mitarbeiter_innen/Borsche/Borsche_Aufsaetze/Die_innere_Form_der_Sprache._Betrachtungen_zu_einem_Mythos_der_Humboldt-Hermeneutik._in_Wilhelm_von_Humboldts_Sprachdenken__Hobbing_1986.pdf",
+      "status": "primary scholarly search excerpt identifies partial Techmer1884 publication383–411; PDF opened as11 pages",
+      "limit": "screenshot fetches timed out; no full article reading"
+    },
+    {
+      "url": "https://wvh-schriften.de/",
+      "status": "home page read: Leitzmann-derived text, current listing volumesI–III",
+      "limit": "no verified Grundzüge or independent manuscript witness here"
+    },
+    {
+      "url": "https://refubium.fu-berlin.de/handle/fub188/10483",
+      "status": "landing and two direct PDFs returned429; route stopped",
+      "limit": "authorship and full contents unverified; no substantive claim adopted from repository"
+    },
+    {
+      "url": "https://www.geisteswissenschaften.fu-berlin.de/we05/institut/mitarbeiter/lindorfer/index.html",
+      "status": "institutional bibliography read for2017 edition and2018 article151–162",
+      "limit": "bibliographic confirmation only; no apparatus or private contact"
+    },
+    {
+      "url": "https://juergen-trabant.de/wp-content/uploads/2012/10/Trabant-2020f-efraimpdf.pdf",
+      "status": "search excerpt available; direct PDF fetch502",
+      "limit": "lead only; not claimed as a consulted complete chapter"
+    }
+  ],
+  "conclusion": "Use declared1906 print, local apparatus, relevant held parallels and attributed modern reports. Earlier partial printing may support a limited comparison. No free manuscript facsimile or complete substitute critical apparatus verified in this check.",
+  "report": "docs/preparation/textual-basis-options.md",
+  "acquisitions": 0,
+  "requests_or_messages": 0
+}

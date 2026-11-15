@@ -1,0 +1,146 @@
+{
+  "status": "Proposed source-anchored alignment, not certified equivalence.",
+  "clauses": [
+    {
+      "source_id": "a:s1c1",
+      "target_quotes": [
+        "If it may seem strange to make precisely the languages of a single continent the subject of an inquiry, this approach, at first sight merely geographical, is justified in the case of America by the continent’s isolated position and the distinctive character of its languages."
+      ],
+      "note": "Conditional frame and both grounds retained."
+    },
+    {
+      "source_id": "a:s1c2",
+      "target_quotes": [
+        "If it may seem strange to make precisely the languages of a single continent the subject of an inquiry"
+      ],
+      "note": "Conditional remains tentative; stronger concessive Although not adopted."
+    },
+    {
+      "source_id": "a:s1c3",
+      "target_quotes": [
+        "to make precisely the languages of a single continent the subject of an inquiry"
+      ],
+      "note": "Infinitival content retained."
+    },
+    {
+      "source_id": "a:s2c1",
+      "target_quotes": [
+        "In Europe, Asia, and Africa, such diverse languages have converged that the study of language, at least, can find no reason to investigate them in the particular grouping in which, always more or less by chance, they now find themselves within the boundaries of the same continent."
+      ],
+      "note": "Converged avoids claiming language mixture where the print describes confluence."
+    },
+    {
+      "source_id": "a:s2c2",
+      "target_quotes": [
+        "that the study of language, at least, can find no reason to investigate them in the particular grouping in which, always more or less by chance, they now find themselves within the boundaries of the same continent"
+      ],
+      "note": "At least and no reason retained."
+    },
+    {
+      "source_id": "a:s2c3",
+      "target_quotes": [
+        "to investigate them in the particular grouping in which, always more or less by chance, they now find themselves within the boundaries of the same continent"
+      ],
+      "note": "Object and grouping retained; no genealogy inferred."
+    },
+    {
+      "source_id": "a:s2c4",
+      "target_quotes": [
+        "in which, always more or less by chance, they now find themselves within the boundaries of the same continent"
+      ],
+      "note": "Chance qualification remains inside the grouping relation."
+    },
+    {
+      "source_id": "a:s3c1",
+      "target_quotes": [
+        "The language stocks of each of these continents also show very considerable differences, both in their structure and in the stages of development they have attained."
+      ],
+      "note": "Continental antecedent explicit; language stocks distinguished from human tribes; Bildung provisional."
+    },
+    {
+      "source_id": "a:s4c1",
+      "target_quotes": [
+        "America, by contrast, apart from the most recent European immigration, which has affected the continent’s inner national distinctiveness only through its destructive influence, has experienced either no immigration at all or only immigration of which scarcely a trace that could be called historical remains."
+      ],
+      "note": "European exception, no/only immigration alternatives and America contrast retained."
+    },
+    {
+      "source_id": "a:s4c2",
+      "target_quotes": [
+        "which has affected the continent’s inner national distinctiveness only through its destructive influence"
+      ],
+      "note": "Destructive influence remains the only mode of effect; national vocabulary retained."
+    },
+    {
+      "source_id": "a:s4c3",
+      "target_quotes": [
+        "of which scarcely a trace that could be called historical remains"
+      ],
+      "note": "Scarcely and qualification could be called historical retained."
+    },
+    {
+      "source_id": "a:s5c1",
+      "target_quotes": [
+        "Whatever the origin of the American peoples and languages may therefore be, their fortunes have for many centuries been shaped solely from within and through contact with one another."
+      ],
+      "note": "Centuries, internal determination and mutual contact retained; added activity noun removed."
+    },
+    {
+      "source_id": "a:s5c2",
+      "target_quotes": [
+        "Whatever the origin of the American peoples and languages may therefore be"
+      ],
+      "note": "Origins remain open; both peoples and languages retained."
+    },
+    {
+      "source_id": "a:s6c1",
+      "target_quotes": [
+        "Throughout the period for which we know the history of this vast continent, down to subjugation by Europeans, its countless tribes, hordes, and families, from the farthest north to the farthest south, came, free from foreign influence, into a ferment of their powers through themselves alone. They imparted only their own distinctive traits to one another."
+      ],
+      "note": "Human groups remain subject of entry into ferment; English split into two sentences."
+    },
+    {
+      "source_id": "a:s6c2",
+      "target_quotes": [
+        "Throughout the period for which we know the history of this vast continent, down to subjugation by Europeans",
+        "came, free from foreign influence, into a ferment of their powers through themselves alone"
+      ],
+      "note": "One German predicate maps to two separated English spans; temporal qualifier moved before the subject."
+    },
+    {
+      "source_id": "a:s6c3",
+      "target_quotes": [
+        "They imparted only their own distinctive traits to one another"
+      ],
+      "note": "Repeated English subject makes shared German subject explicit; reciprocal and only retained."
+    },
+    {
+      "source_id": "a:s6c4",
+      "target_quotes": [
+        "Throughout the period for which we know the history of this vast continent"
+      ],
+      "note": "Knowledge limits the historical interval; no claim of complete prehistoric knowledge."
+    },
+    {
+      "source_id": "a:s6c5",
+      "target_quotes": [
+        "free from foreign influence"
+      ],
+      "note": "Predicative adjunct remains within the ferment clause, not a new independent freedom assertion."
+    },
+    {
+      "source_id": "a:s7c1",
+      "target_quotes": [
+        "Anything foreign that may have been introduced at a still earlier time has therefore subsequently undergone, for centuries, this wearing-down influence of self-contained native interaction."
+      ],
+      "note": "Wearing-down retains abrasion metaphor; self-contained native interaction retains native/foreign opposition."
+    },
+    {
+      "source_id": "a:s7c2",
+      "target_quotes": [
+        "Anything foreign that may have been introduced at a still earlier time"
+      ],
+      "note": "Broad singular indefinite and modal preserved without specifying discrete linguistic elements."
+    }
+  ]
+}

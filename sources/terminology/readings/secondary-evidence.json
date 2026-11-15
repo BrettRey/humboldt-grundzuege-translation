@@ -1,0 +1,319 @@
+[
+  {
+    "id": "SECONDARY-01",
+    "source_path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c4.pdf",
+    "printed_page": "74–76",
+    "pdf_page": "9–11",
+    "section": "4.3",
+    "terms": [
+      "allgemeiner Sprachtypus",
+      "allgemeine Grammatik",
+      "Ansicht"
+    ],
+    "quote": "",
+    "paraphrase": "Manchester distinguishes universal grammatical relations grounded in thought-laws from the language-specific ideal view of those relations, technical designation, and phonetic realization. Universal grammar is not a historically inherited original language.",
+    "implication": "Do not equate allgemeiner Sprachtypus with the variable grammatical Ansicht of one language, or infer modern innate universal grammar from the shared English label.",
+    "confidence": "high",
+    "issue": "This is Manchester’s account across several Humboldt works; each Grundzüge occurrence still needs local interpretation."
+  },
+  {
+    "id": "SECONDARY-02",
+    "source_path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c4.pdf",
+    "printed_page": "76–79",
+    "pdf_page": "11–14",
+    "section": "4.3",
+    "terms": [
+      "stillschweigende Grammatik",
+      "ausdrückliche Grammatik",
+      "Hinzudenken"
+    ],
+    "quote": "",
+    "paraphrase": "Manchester says explicit and mentally supplied grammar occur within each language, not only as labels for opposed whole languages. He reconstructs universal forms through conceptual opposition and intermediacy, while questioning whether Humboldt means actual employment everywhere or potential availability.",
+    "implication": "Keep silent supplementation distinct from absence of relations; preserve uncertainty about actual versus potential universality.",
+    "confidence": "high",
+    "issue": "Manchester’s conditional is his English rendering of a mood label; it is not independent evidence for the exact primary German category."
+  },
+  {
+    "id": "SECONDARY-03",
+    "source_path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c4.pdf",
+    "printed_page": "80–83",
+    "pdf_page": "15–18",
+    "section": "4.4",
+    "terms": [
+      "Sprachvermögen",
+      "Sprachsinn",
+      "Sprachanlage",
+      "Charakter"
+    ],
+    "quote": "",
+    "paraphrase": "Manchester proposes a schema separating common linguistic capacities from nationally variable tendency, character and form. He treats Anlage as stronger than mere capacity and describes national character as a guiding disposition.",
+    "implication": "Retain capacity versus directed disposition as a useful question; do not impose Manchester’s schematic partition on all primary uses.",
+    "confidence": "moderate",
+    "issue": "He explicitly presents interpretation and simplification, including a conjectural near-equivalence of Anlage and character; the schema is not Humboldt’s own glossary."
+  },
+  {
+    "id": "SECONDARY-04",
+    "source_path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c4.pdf",
+    "printed_page": "83–86",
+    "pdf_page": "18–21",
+    "section": "4.4, Form der Sprache",
+    "terms": [
+      "Form",
+      "Stoff",
+      "Sprachform"
+    ],
+    "quote": "",
+    "paraphrase": "Manchester rejects both an exclusively generative-rule reading and an exclusively dynamic-force reading of Form. Something may form one item while itself being the formed product of another process; form/matter relations shift with the explanatory level.",
+    "implication": "Allow contextual senses of Form, including rule, system, formation and shaping principle; do not turn active versus static into a compulsory lexical binary.",
+    "confidence": "high",
+    "issue": "His account addresses usages across the corpus, especially Einleitung; it does not fix the sense of every Grundzüge Form."
+  },
+  {
+    "id": "SECONDARY-05",
+    "source_path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c4.pdf",
+    "printed_page": "83; 87–90",
+    "pdf_page": "18; 22–25",
+    "section": "4.4, innere Sprachform",
+    "terms": [
+      "innere Sprachform",
+      "Charakter",
+      "Form der Sprache"
+    ],
+    "quote": "",
+    "paraphrase": "Manchester reports that inner form is rare and late, treats its interpretation as speculative, and provisionally uses it for syntactic and semantic organization. He distinguishes character as a guiding principle from this organization, while acknowledging overlap in some uses of Form.",
+    "implication": "Do not substitute inner form for every Sprachform, or conflate character with syntactic-semantic organization.",
+    "confidence": "moderate",
+    "issue": "The five-occurrence claim is Manchester’s corpus assertion, not independently recounted here. He identifies his final diagram as simplified."
+  },
+  {
+    "id": "SECONDARY-06",
+    "source_path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c6.pdf",
+    "printed_page": "104–105; 110–112",
+    "pdf_page": "3–4; 9–11",
+    "section": "6.1; 6.3.1",
+    "terms": [
+      "Nationalcharakter",
+      "Sprache",
+      "Geist",
+      "Priorität"
+    ],
+    "quote": "",
+    "paraphrase": "Manchester treats influence between language and national character as reciprocal, not a simple either/or. He separates inaccessible initial origins from observable interaction of already formed languages and communities, including inherited language character and new national influence.",
+    "implication": "Keep origin, historical reshaping and continuing feedback distinct. Do not translate causal priority into exclusive or unconditional determination.",
+    "confidence": "high",
+    "issue": "The reconstruction of formative priority is Manchester’s interpretation; he notes Humboldt does not always state it clearly."
+  },
+  {
+    "id": "SECONDARY-07",
+    "source_path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c6.pdf",
+    "printed_page": "117–121",
+    "pdf_page": "16–20",
+    "section": "6.3, Einleitung discussion",
+    "terms": [
+      "Charakter",
+      "Form",
+      "Nationalcharakter"
+    ],
+    "quote": "",
+    "paraphrase": "Manchester reads character as a relatively simple dispositional principle affecting a complex phonetic, grammatical and lexical organization. He interprets national character through a mixture of orientations toward sensory reality and inward intellectual life, and discusses it as a speculative explanatory postulate.",
+    "implication": "Maintain character versus structure as an analytical distinction without endorsing the proposed national psychology as established fact.",
+    "confidence": "high",
+    "issue": "The chapter concedes uncertainty about concrete application. This account has a different emphasis from Trabant’s usage-centered characterization, not an established direct contradiction."
+  },
+  {
+    "id": "SECONDARY-08",
+    "source_path": "sources/raw/references/underhill-2009-humboldt-worldview-language.pdf",
+    "printed_page": "55–57",
+    "pdf_page": "68–70",
+    "section": "7, Worldview",
+    "terms": [
+      "Weltansicht",
+      "Weltanschauung"
+    ],
+    "quote": "",
+    "paraphrase": "Following Trabant, Underhill distinguishes language-bound conceptual world-presentation from beliefs or ideologies which may conflict inside one language and migrate between languages.",
+    "implication": "Do not turn Weltansicht into a set of assertions or a political ideology. Preserve the German distinction when English worldview would erase it.",
+    "confidence": "high",
+    "issue": "Underhill is developing an interpretive distinction inspired by Humboldt, not demonstrating that Humboldt always uses the two German words contrastively."
+  },
+  {
+    "id": "SECONDARY-09",
+    "source_path": "sources/raw/references/underhill-2009-humboldt-worldview-language.pdf",
+    "printed_page": "59–60; 69",
+    "pdf_page": "72–73; 82",
+    "section": "8, Sprache; 9, The Work of the Mind",
+    "terms": [
+      "Sprache",
+      "Rede",
+      "Laut",
+      "Schrift"
+    ],
+    "quote": "",
+    "paraphrase": "Underhill emphasizes transient speaking acts, audible expression and the speaker’s hearing of the word. Writing preserves an incomplete representation that must be returned to living utterance.",
+    "implication": "Keep sound and writing distinct; do not automatically turn a reference to letters into a modern phoneme claim or treat language as an autonomous written artifact.",
+    "confidence": "high",
+    "issue": "These pages supply a speech/writing control, not detailed historical semantics of every Laut or Buchstabe occurrence in Grundzüge."
+  },
+  {
+    "id": "SECONDARY-10",
+    "source_path": "sources/raw/references/underhill-2009-humboldt-worldview-language.pdf",
+    "printed_page": "61–62",
+    "pdf_page": "74–75",
+    "section": "8, Sprache",
+    "terms": [
+      "Bau",
+      "Form",
+      "Arbeit"
+    ],
+    "quote": "",
+    "paraphrase": "Underhill stresses the constructive and human activity implicated in Bau and explains Form as the constant and uniform organization arising through mental labor in articulated sound.",
+    "implication": "Avoid mechanical or wholly agentless readings of structure, while retaining the locally appropriate structural sense.",
+    "confidence": "high",
+    "issue": "Underhill’s warning against later structuralist senses is an interpretive control, not a blanket prohibition on English structure."
+  },
+  {
+    "id": "SECONDARY-11",
+    "source_path": "sources/raw/references/underhill-2009-humboldt-worldview-language.pdf",
+    "printed_page": "65–66; 69–70",
+    "pdf_page": "78–79; 82–83",
+    "section": "9, The Work of the Mind",
+    "terms": [
+      "Bildung",
+      "bilden",
+      "Bildung des Begriffs",
+      "Bau"
+    ],
+    "quote": "",
+    "paraphrase": "Underhill connects Bildung with ongoing self-cultivation, cultivation of humanity and development of language, and connects bilden with the active formation of concepts. These operate on individual and collective timescales.",
+    "implication": "Distinguish concept-formation from education and wider cultivation, while preserving their relationship; do not use cultivation mechanically for each Bildung-related word.",
+    "confidence": "high",
+    "issue": "The semantic family does not prove that all cognate occurrences have the same sense. OCR Building on printed 65 appears corrupt and is not adopted as a term."
+  },
+  {
+    "id": "SECONDARY-12",
+    "source_path": "sources/raw/references/underhill-2009-humboldt-worldview-language.pdf",
+    "printed_page": "72–73",
+    "pdf_page": "85–86",
+    "section": "9, The Work of the Mind",
+    "terms": [
+      "Welt",
+      "Begriff",
+      "Weltansicht"
+    ],
+    "quote": "",
+    "paraphrase": "Underhill rejects an inference from linguistically mediated conceptualization to the nonexistence of an external world. He differentiates real things from objects as organized for understanding and warns against misleading aphoristic formulations.",
+    "implication": "Do not translate language’s conceptual function as literal creation of external things or denial of truth.",
+    "confidence": "high",
+    "issue": "These are Underhill’s explanatory examples and criticisms, not direct evidence for a particular Grundzüge noun sense."
+  },
+  {
+    "id": "SECONDARY-13",
+    "source_path": "sources/raw/references/underhill-2009-humboldt-worldview-language.pdf",
+    "printed_page": "75–79",
+    "pdf_page": "88–92",
+    "section": "10, Form",
+    "terms": [
+      "Form",
+      "ursprünglich",
+      "umgestalten",
+      "Gegebenes"
+    ],
+    "quote": "",
+    "paraphrase": "Underhill stresses that known languages reshape inherited material; form is maintained through recurring activity and is partly constant and partly fluid. Details and whole organization must be studied together, with their historical specificity retained.",
+    "implication": "Keep development, reshaping, formation and cultivation distinguishable. Do not make living activity incompatible with established patterns.",
+    "confidence": "high",
+    "issue": "This concerns historical language activity, not a demonstrated unilinear progress scale or an origin narrative."
+  },
+  {
+    "id": "SECONDARY-14",
+    "source_path": "sources/raw/references/underhill-2009-humboldt-worldview-language.pdf",
+    "printed_page": "147; 150–153",
+    "pdf_page": "160; 163–166",
+    "section": "Glossary",
+    "terms": [
+      "world-perceiving",
+      "world-conceiving",
+      "cultural mindset",
+      "personal world",
+      "perspective",
+      "subjectivation"
+    ],
+    "quote": "",
+    "paraphrase": "Underhill marks several glossary terms as his own analytical vocabulary, and attributes subjectivation to Meschonnic. His fivefold decomposition of worldview separates linguistic mediation from ideological, personal and changing perspectives.",
+    "implication": "Label these as reception or modern explanatory vocabulary; do not retroject them into Humboldt’s wording.",
+    "confidence": "high",
+    "issue": "The glossary’s own attribution is essential. Its distinction is inspired by Humboldt but is not a primary Humboldt terminology list."
+  },
+  {
+    "id": "SECONDARY-15",
+    "source_path": "sources/raw/references/trabant-2023-anthropological-linguistics.pdf",
+    "printed_page": "312",
+    "pdf_page": "5",
+    "section": "3, Language",
+    "terms": [
+      "conceptual function",
+      "communication",
+      "Mitdenken",
+      "Urtypus"
+    ],
+    "quote": "",
+    "paraphrase": "Trabant presents language as forming cognition rather than merely conveying independently ready concepts, while making the other person and reciprocal speaker/hearer exchange integral to that activity.",
+    "implication": "Do not choose between conceptual function and communication as mutually exclusive: the former is fulfilled through reciprocal address in this reading.",
+    "confidence": "high",
+    "issue": "PDF text and printed 312 image checked. This wider-corpus synthesis does not independently determine a specific Grundzüge Urtypus occurrence."
+  },
+  {
+    "id": "SECONDARY-16",
+    "source_path": "sources/raw/references/trabant-2023-anthropological-linguistics.pdf",
+    "printed_page": "314–316",
+    "pdf_page": "7–9",
+    "section": "4.1.2–4.1.3",
+    "terms": [
+      "Verfahren",
+      "inflection",
+      "typology",
+      "hierarchy"
+    ],
+    "quote": "",
+    "paraphrase": "Trabant distinguishes recurring morphosyntactic procedures from rigid natural classes of languages. He also explicitly recognizes Humboldt’s obsolete ranking of inflection by its philosophical fit to synthesis, and situates that ranking alongside the value and fundamental equality of all languages.",
+    "implication": "Do not erase the historical ranking or mistake it for a fixed four-class taxonomy; retain both hierarchy and its qualifications.",
+    "confidence": "high",
+    "issue": "PDF text locations verified; printed 315/PDF 8 image checked. This is Trabant’s interpretation of the wider corpus, not a primary passage replacement."
+  },
+  {
+    "id": "SECONDARY-17",
+    "source_path": "sources/raw/references/trabant-2023-anthropological-linguistics.pdf",
+    "printed_page": "317",
+    "pdf_page": "10",
+    "section": "4.2, Linguistics of Character",
+    "terms": [
+      "Charakter",
+      "Rede",
+      "Macht",
+      "Gewalt"
+    ],
+    "quote": "",
+    "paraphrase": "Trabant locates the central inquiry into character in achievement through usage, especially literary, philosophical and scholarly discourse. Structure is its basis; speakers develop languages through tension between inherited constraints and individual renewal.",
+    "implication": "Keep character distinct from an inventory of grammar and vocabulary, and retain the activity and achievement dimension when relevant.",
+    "confidence": "high",
+    "issue": "PDF text and printed 317 image checked. Manchester emphasizes character as an explanatory disposition; Trabant emphasizes its manifestation and development in usage."
+  },
+  {
+    "id": "SECONDARY-18",
+    "source_path": "sources/raw/references/trabant-2023-anthropological-linguistics.pdf",
+    "printed_page": "322–323",
+    "pdf_page": "15–16",
+    "section": "5.2.2",
+    "terms": [
+      "Weltansicht",
+      "Weltbild",
+      "determinism",
+      "individuality"
+    ],
+    "quote": "",
+    "paraphrase": "Trabant contrasts Humboldt’s open and limited influence of linguistic perspective with deterministic reception, especially Weisgerber’s closed collective image. He invokes shared human dispositions, common reality and speakers’ capacity to resist and change languages.",
+    "implication": "Do not infer a sealed mental prison or incommensurable total worldview from linguistic individuality.",
+    "confidence": "high",
+    "issue": "PDF page locations verified through text extraction, not an image check. This is an interpretation of reception and wider-corpus commitments, not proof of every local formulation."
+  }
+]

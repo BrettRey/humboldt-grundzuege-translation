@@ -1,0 +1,285 @@
+{
+  "audited_version": "tmp/opening-001-cycle/synthesis-before-audit.json",
+  "audited_sha256": "11cd43b38db33e7435ffd7b3d4e5adae915e6f3fc122015697b7e5f4ac397990",
+  "audits": [
+    {
+      "id": "claude",
+      "model": "claude-fable-5-2",
+      "findings": [
+        {
+          "id": "F1",
+          "source_ids": [
+            "g:s6"
+          ],
+          "source_quote": "sind, solange wir die Geschichte desselben kennen, bis auf die Europaeische Unterjochung frei von fremdem Einfluss, nur durch sich selbst in Gährung ihrer Kräfte gerathen, und haben sich nur ihre Eigenthümlichkeiten mitgetheilt",
+          "english_quote": "were free from foreign influence. Over that period,",
+          "severity": "minor",
+          "category": "scope",
+          "finding": "In the German both temporal qualifiers sit inside the first conjunct (sind ... gerathen), and the second conjunct (haben sich ... mitgetheilt) has its own auxiliary and no temporal adverbial. The split does two things. It promotes 'frei von fremdem Einfluss' to a free-standing main assertion that carries the qualifiers; this is defensible only if 'sind ... frei' is read as an asyndetic predicate, not as a predicative adjunct to 'gerathen'. It also adds 'Over that period', which correctly carries the qualification to the fermentation clause and makes explicit its extension to the mutual-communication clause, which the German leaves to inference. No qualification is lost and no claim is left unqualified.",
+          "suggestion": "Retain, and treat 'Over that period' as load-bearing: deleting it would strip the limit from both 'only' clauses. Optionally recast as 'As far back as our knowledge of its history reaches', since 'For as long as we know' can be misread as a duration of our knowing. This keeps 'solange wir ... kennen' as a limit on the claim.",
+          "confidence": "medium"
+        },
+        {
+          "id": "F2",
+          "source_ids": [
+            "g:s6"
+          ],
+          "source_quote": "bis auf die Europaeische Unterjochung",
+          "english_quote": "down to European subjugation",
+          "severity": "open",
+          "category": "scope",
+          "finding": "'bis auf' can be temporal ('down to') or exceptive ('except for'). The English picks the temporal reading, which pairs naturally with 'solange wir ... kennen' as start and end limits. The exceptive reading would attach to 'frei von fremdem Einfluss' and parallel 'ausser den neuesten Europäischen Einwanderungen' in g:s4. Both make the European subjugation the limit of the claim, so the practical difference is small. Separately, the definite article of 'die' is dropped.",
+          "suggestion": "Retain the temporal reading but restore the article ('down to the European subjugation', or 'subjugation by Europeans'). Record the exceptive alternative in a note if the project logs unresolved readings.",
+          "confidence": "medium"
+        },
+        {
+          "id": "F3",
+          "source_ids": [
+            "g:s5",
+            "g:s6"
+          ],
+          "source_quote": "nur durch sich selbst",
+          "english_quote": "only through their own activity",
+          "severity": "minor",
+          "category": "addition",
+          "finding": "'activity' has no German counterpart; the source says only 'through themselves'. In g:s5 the phrase covers the fortunes of peoples and languages alike, so an agentive noun narrows it. In g:s6 'were set fermenting' adds a causative passive where the German has the tribes themselves coming into ferment (sind ... gerathen). The repetition of the phrase across g:s5 and g:s6 is correctly preserved, and the restriction 'only' is intact in both.",
+          "suggestion": "Use 'only through themselves' or 'only from within themselves' in both places, and in g:s6 something like 'came into a ferment of their powers only through themselves'. This preserves the bare reflexive and the significant repetition.",
+          "confidence": "medium"
+        },
+        {
+          "id": "F4",
+          "source_ids": [
+            "g:s7"
+          ],
+          "source_quote": "des auf sich selbst beschränkten einheimischen Verkehrs",
+          "english_quote": "local contact confined to the continent itself",
+          "severity": "minor",
+          "category": "referent",
+          "finding": "Three shifts in one phrase. 'einheimisch' (native, indigenous) is the counter-term to 'Fremdes' in the same sentence, and 'local' weakens that contrast and can suggest small-scale locality. 'auf sich selbst' is reflexive to 'Verkehr' (intercourse confined to itself), and the English substitutes 'the continent', a referent the phrase does not name. 'Verkehr' is rendered with the same word as 'Berührung' in g:s5, collapsing a lexical distinction. The overall internal-versus-external sense is still conveyed, so this is not a reversal.",
+          "suggestion": "Something like 'native intercourse confined to itself' or 'indigenous intercourse restricted to itself'. This preserves the Fremdes/einheimisch opposition, the reflexive, and the Berührung/Verkehr difference.",
+          "confidence": "medium"
+        },
+        {
+          "id": "F5",
+          "source_ids": [
+            "g:s7"
+          ],
+          "source_quote": "diesen abschleifenden Einfluss",
+          "english_quote": "this levelling influence",
+          "severity": "minor",
+          "category": "terminology",
+          "finding": "'abschleifen' is to grind or wear down, to abrade. 'levelling' is an interpretive step towards homogenisation, which anticipates the similarity argument of §2 rather than the image in §1. The demonstrative 'diesen' is correctly kept and points back to the process in g:s6.",
+          "suggestion": "'this abrading influence' or 'this wearing-down influence'. This preserves the image of foreign elements being worn away without committing to uniformity as the result.",
+          "confidence": "medium"
+        },
+        {
+          "id": "F6",
+          "source_ids": [
+            "g:s2"
+          ],
+          "source_quote": "sind so verschiedene Sprachen zusammengeflossen",
+          "english_quote": "such diverse languages have mingled",
+          "severity": "minor",
+          "category": "terminology",
+          "finding": "'zusammengeflossen' is confluence: languages have flowed together into these parts of the world. 'mingled' can be read as mixture of the languages themselves, which is the sense of 'vermischt' in the parallel fragment that the packet says not to import. The base text asserts co-presence within one continent, as the following 'Verbindung ... innerhalb der Gränzen desselben Welttheils' confirms.",
+          "suggestion": "'have flowed together' or 'have converged'. This keeps the claim at convergence in one region and does not assert mixing.",
+          "confidence": "medium"
+        },
+        {
+          "id": "F7",
+          "source_ids": [
+            "g:s3"
+          ],
+          "source_quote": "die bedeutendsten Verschiedenheiten",
+          "english_quote": "very considerable differences",
+          "severity": "minor",
+          "category": "modality",
+          "finding": "The German superlative, even read as an absolute superlative, is stronger than 'very considerable'. The English slightly understates the author's evaluation of the differences in structure and attained 'Bildung'.",
+          "suggestion": "'the most significant differences' or 'the greatest differences'. This preserves the degree of the author's evaluation.",
+          "confidence": "medium"
+        }
+      ],
+      "coverage": [
+        {
+          "id": "g:s1",
+          "result": "pass",
+          "note": "Condition, 'vielleicht', 'dem ersten Anblick nach, bloss' and both grounds are preserved; 'a single' slightly intensifies 'eines' and 'approach' for 'Ansicht' is acceptable."
+        },
+        {
+          "id": "g:s2",
+          "result": "finding",
+          "note": "F6 on 'mingled'; 'wenigstens', the negation and 'immer mehr oder weniger zufällig' are preserved; 'nun eben' as temporal 'now' loses some 'as it happens' force (low confidence, not listed)."
+        },
+        {
+          "id": "g:s3",
+          "result": "finding",
+          "note": "F7 on the weakened superlative; 'eines jeden' is correctly resolved to each continent, and 'language stocks' stays distinct from the human 'tribes' of g:s6."
+        },
+        {
+          "id": "g:s4",
+          "result": "pass",
+          "note": "The ellipsis is correctly filled with immigration: 'keine' and plural 'solche ... von welchen' agree with 'Einwanderungen', not with masculine 'Einfluss'. The exception, 'nur' and 'kaum' are preserved; plural 'Einwanderungen' becomes a mass singular without change of claim."
+        },
+        {
+          "id": "g:s5",
+          "result": "finding",
+          "note": "F3 on added 'activity'; the concessive, 'viele Jahrhunderte hindurch', 'nur' and internal 'unter einander' ('with one another') are preserved."
+        },
+        {
+          "id": "g:s6",
+          "result": "finding",
+          "note": "F1 (split and scope, no qualification lost), F2 (open 'bis auf'), F3 ('activity', causative passive); the human groups, the north-to-south extent and the reciprocal 'sich ... mitgetheilt' are correct."
+        },
+        {
+          "id": "g:s7",
+          "result": "finding",
+          "note": "F4 and F5; the modality of 'seyn möchte', 'noch früherer Zeit', 'nachher', 'Jahrhunderte hindurch' and the demonstrative 'diesen' are preserved."
+        }
+      ],
+      "overall": "No material defects: no omitted clause, no reversed negation, no wrong referent, and the modal and concessive qualifications survive throughout. The g:s4 ellipsis is resolved correctly on grammatical agreement. The g:s6 split keeps the temporal and epistemic limits in force only because of the added bridge 'Over that period'. The most consequential minor point is F4, where 'local' and 'the continent itself' blur the foreign-versus-native contrast without reversing it. Limits: this is a model judgment from the supplied packet alone, with no tools, files, page images, dictionaries or advisor consulted; 'bis auf' (F2) and the syntactic status of 'frei von fremdem Einfluss' (F1) could be decided otherwise on period-usage evidence or a better grammatical argument. No qualifying responsibility risk was observed within this task."
+    },
+    {
+      "id": "muse",
+      "model": "muse-wonder-full-1.0",
+      "findings": [
+        {
+          "id": "F1",
+          "source_ids": [
+            "g:s5",
+            "g:s6"
+          ],
+          "source_quote": "nur durch sich selbst",
+          "english_quote": "only through their own activity",
+          "severity": "material",
+          "category": "addition",
+          "finding": "German has only the reflexive pronoun phrase through themselves and no noun for activity. Adding activity turns self-mediation in sich gestaltet and gerathen into a specified causal agency, and in g:s5 attributes activity jointly to peoples and languages. This imports a concept not lexicalised here.",
+          "suggestion": "Use only through themselves in both places, preserving the reflexive self-relation and the repetition continued in g:s7.",
+          "confidence": "high"
+        },
+        {
+          "id": "F2",
+          "source_ids": [
+            "g:s6"
+          ],
+          "source_quote": "sind, solange wir die Geschichte desselben kennen, bis auf die Europaeische Unterjochung frei von fremdem Einfluss, nur durch sich selbst in Gährung ihrer Kräfte gerathen",
+          "english_quote": "were free from foreign influence. Over that period, their powers were set fermenting only through their own activity",
+          "severity": "material",
+          "category": "referent",
+          "finding": "sind is the sein-auxiliary of gerathen, with the plural-construed Menge of tribes as subject, and frei von fremdem Einfluss is an adjunct inside that predicate. English promotes freedom to an independent copular claim and recasts intransitive ingressive gerathen as a passive causative whose subject is their powers, shifting who enters the state and implying a setter.",
+          "suggestion": "Keep the tribes as subject: came, free from foreign influence and only through themselves, into a fermentation of their powers. This preserves geraten in plus accusative and the attachment of frei von fremdem Einfluss.",
+          "confidence": "high"
+        },
+        {
+          "id": "F3",
+          "source_ids": [
+            "g:s7"
+          ],
+          "source_quote": "diesen abschleifenden Einfluss",
+          "english_quote": "this levelling influence",
+          "severity": "open",
+          "category": "terminology",
+          "finding": "abschleifend denotes wearing, grinding or smoothing away by abrasion. Levelling is a plausible inferred homogenising effect, but it specifies equalisation as the outcome and moves focus from the abrasion undergone by whatever foreign matter was introduced. It is an interpretive narrowing rather than a demonstrable mistranslation.",
+          "suggestion": "Prefer this wearing-down or smoothing-away influence to preserve the abrasion relation in hat erfahren; retain levelling only as an explicitly qualified interpretation.",
+          "confidence": "medium"
+        },
+        {
+          "id": "F4",
+          "source_ids": [
+            "g:s7"
+          ],
+          "source_quote": "des auf sich selbst beschränkten einheimischen Verkehrs",
+          "english_quote": "local contact confined to the continent itself",
+          "severity": "material",
+          "category": "referent",
+          "finding": "No continent noun occurs in g:s7. The participle phrase modifies Verkehrs, so sich selbst presents native intercourse as restricted to itself, continuing the reflexive chain from g:s5 and g:s6. English substitutes the continent as the reflexive referent, weakens einheimischen native to local, and collapses Verkehr into the same contact used for Berührung in g:s5. A contextually understandable gloss, but it adds a geographic referent and scope.",
+          "suggestion": "Use of native intercourse restricted to itself, preserving the participle-head reflexive and the Fremdes versus einheimisch contrast.",
+          "confidence": "medium"
+        },
+        {
+          "id": "F5",
+          "source_ids": [
+            "g:s7"
+          ],
+          "source_quote": "Was daher auch in noch früherer Zeit Fremdes eingebracht seyn möchte",
+          "english_quote": "Whatever foreign elements may therefore have been introduced at a still earlier time",
+          "severity": "minor",
+          "category": "scope",
+          "finding": "Fremdes is an indefinite singular substantivised adjective, whatever foreign matter or anything foreign, matched by singular hat in the main clause. Plural elements concretises it into discrete components and can suggest specifically linguistic elements, which the German does not specify.",
+          "suggestion": "Use whatever of foreign origin may have been introduced, preserving the indefinite singular scope and the concessive möchte modality already rendered by may.",
+          "confidence": "high"
+        }
+      ],
+      "coverage": [
+        {
+          "id": "g:s1",
+          "result": "pass",
+          "note": "vielleicht modality, gerade emphasis, bloss geographische restriction and the two justifying grounds are preserved."
+        },
+        {
+          "id": "g:s2",
+          "result": "pass",
+          "note": "wenigstens restriction, mehr oder weniger zufällig qualification and present continental grouping are broadly preserved."
+        },
+        {
+          "id": "g:s3",
+          "result": "pass",
+          "note": "very considerable is defensible as an elative reading of die bedeutendsten with no explicit comparison set; development for Bildung is interpretive but within range."
+        },
+        {
+          "id": "g:s4",
+          "result": "pass",
+          "note": "European exception, entweder gar keine oder nur solche alternative and kaum geschichtlich trace are preserved."
+        },
+        {
+          "id": "g:s5",
+          "result": "finding",
+          "note": "own activity adds an agency noun where German has only durch sich selbst."
+        },
+        {
+          "id": "g:s6",
+          "result": "finding",
+          "note": "Split promotes frei von fremdem Einfluss and changes subject and voice of gerathen; own activity repeats F1."
+        },
+        {
+          "id": "g:s7",
+          "result": "finding",
+          "note": "levelling narrows abschleifend, and continent itself plus local contact shift the reflexive referent and native intercourse."
+        }
+      ],
+      "overall": "Material defects are concentrated in g:s5 to g:s7 around self-reference, agency and referent; g:s1 to g:s4 have no material defects found. Very considerable is defensible, levelling is plausible but interpretive rather than a clear mistranslation, while own activity and the continent itself add unearned content. Limits: model judgments from the supplied checked transcription and context only, with no page-image or historical-dictionary inspection claimed; the packet-noted unresolved authorial finality does not affect this sentence-level audit."
+    }
+  ],
+  "audited_text": {
+    "status": "Pre-audit coordinator synthesis; not fidelity-approved.",
+    "sentences": [
+      {
+        "id": "g:s1",
+        "english": "If it may seem strange to make precisely the languages of a single continent the subject of an inquiry, this approach, at first sight merely geographical, is justified in the case of America by the continent’s isolated position and the distinctive character of its languages."
+      },
+      {
+        "id": "g:s2",
+        "english": "In Europe, Asia, and Africa, such diverse languages have mingled that the study of language, at least, can find no reason to investigate them in the particular grouping in which, always more or less by chance, they now find themselves within the boundaries of the same continent."
+      },
+      {
+        "id": "g:s3",
+        "english": "The language stocks of each of these continents also show very considerable differences, both in their structure and in the stages of development they have attained."
+      },
+      {
+        "id": "g:s4",
+        "english": "America, by contrast, apart from the most recent European immigration, which has affected the continent’s inner national distinctiveness only through its destructive influence, has experienced either no immigration at all or only immigration of which scarcely a trace that could be called historical remains."
+      },
+      {
+        "id": "g:s5",
+        "english": "Whatever the origin of the American peoples and languages may therefore be, their fortunes have for many centuries been shaped only through their own activity and through contact with one another."
+      },
+      {
+        "id": "g:s6",
+        "english": "For as long as we know the history of this vast continent, down to European subjugation, its countless tribes, hordes, and families, from the farthest north to the farthest south, were free from foreign influence. Over that period, their powers were set fermenting only through their own activity, and they communicated only their own distinctive traits to one another."
+      },
+      {
+        "id": "g:s7",
+        "english": "Whatever foreign elements may therefore have been introduced at a still earlier time have subsequently undergone, over centuries, this levelling influence of local contact confined to the continent itself."
+      }
+    ]
+  }
+}

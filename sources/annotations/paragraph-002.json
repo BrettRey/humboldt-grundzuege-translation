@@ -1,0 +1,245 @@
+{
+  "description": "Checked German §2 and proposed source anchors; no English candidate. Cumulative import after §1.",
+  "versions": [
+    {
+      "id": "grundzuege-002-v1",
+      "title": "Grundzüge des allgemeinen Sprachtypus — §2",
+      "language": "de",
+      "body": "Dafür spricht nun auch die auffallende Aehnlichkeit der Amerikanischen Sprachen. In der Ausbildung der Nationen, welchen sie angehören, sind gewiss bedeutende, auch in ihnen selbst unverkennbare Unterschiede gewesen, allein der Mangel alphabetischer Schrift und mithin eigentlicher Literatur stellt doch alle, ohne Ausnahme, auf einer niedrigeren Stufe gleich. Die bisweilen fälschlich behauptete Einerleiheit ihres Baues verschwindet zwar, ebenso als die auch wohl behauptete Abweichung von dem Bau aller übrigen Sprachen, vor der tiefer eindringenden Forschung, aber grosse Züge der Aehnlichkeit bieten doch alle Sprachen Amerika's wirklich dar, und der Norden und Süden des Welttheils erlaubt nicht einmal darin, wahrhaft abscheidende Gränzen zu ziehen.",
+      "body_sha256": "29f4acac06326d0a75d685b5ef81155afbc1b72f45f3e17181215ac35883caca",
+      "source_path": "sources/raw/gs-v-1906.pdf",
+      "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+      "locator": "GS V (1906), printed365; PDF375; scan leaf377",
+      "transcription_status": "scan_checked_by_coordinator",
+      "provenance": "Complete §2 from marginal 2 to before marginal 3. Spelling and punctuation preserved, line-end hyphens rejoined, section marker omitted. Corrected embedded OCR i\\.meri-/£iller/Grenzen to image Amerikanischen/aller/Gränzen. Singular erlaubt preserved. D001: reported cancellation of first seven paragraphs remains unverified against manuscript."
+    }
+  ],
+  "analyses": [
+    {
+      "id": "p2-layout",
+      "version_id": "grundzuege-002-v1",
+      "method": "Coordinator checked three sentence boundaries against PDF375; written-token convention inherited from prototype.",
+      "scope": "Complete §2",
+      "status": "proposed",
+      "supersedes": null
+    },
+    {
+      "id": "p2-source-anchors",
+      "version_id": "grundzuege-002-v1",
+      "method": "Coordinator proposed overlapping clause/coordination/phrase spans; exact anchoring checked by code, grammatical interpretation provisional.",
+      "scope": "Three sentences; 11 anchors",
+      "status": "proposed",
+      "supersedes": null
+    }
+  ],
+  "layouts": [
+    {
+      "version_id": "grundzuege-002-v1",
+      "analysis_id": "p2-layout",
+      "container_kind": "paragraph",
+      "container_label": "§2 (printed paragraph)",
+      "sentences": [
+        {
+          "id": "g2:s1",
+          "quote": "Dafür spricht nun auch die auffallende Aehnlichkeit der Amerikanischen Sprachen."
+        },
+        {
+          "id": "g2:s2",
+          "quote": "In der Ausbildung der Nationen, welchen sie angehören, sind gewiss bedeutende, auch in ihnen selbst unverkennbare Unterschiede gewesen, allein der Mangel alphabetischer Schrift und mithin eigentlicher Literatur stellt doch alle, ohne Ausnahme, auf einer niedrigeren Stufe gleich."
+        },
+        {
+          "id": "g2:s3",
+          "quote": "Die bisweilen fälschlich behauptete Einerleiheit ihres Baues verschwindet zwar, ebenso als die auch wohl behauptete Abweichung von dem Bau aller übrigen Sprachen, vor der tiefer eindringenden Forschung, aber grosse Züge der Aehnlichkeit bieten doch alle Sprachen Amerika's wirklich dar, und der Norden und Süden des Welttheils erlaubt nicht einmal darin, wahrhaft abscheidende Gränzen zu ziehen."
+        }
+      ]
+    }
+  ],
+  "annotations": [
+    {
+      "id": "p2:a:s1c1",
+      "analysis_id": "p2-source-anchors",
+      "sentence_id": "g2:s1",
+      "parent_id": null,
+      "kind": "clause",
+      "label": "p2:a:s1c1",
+      "quote": "Dafür spricht nun auch die auffallende Aehnlichkeit der Amerikanischen Sprachen.",
+      "note": "Proposed source anchor, not a canonical parse."
+    },
+    {
+      "id": "p2:a:s2c1",
+      "analysis_id": "p2-source-anchors",
+      "sentence_id": "g2:s2",
+      "parent_id": null,
+      "kind": "coordination",
+      "label": "p2:a:s2c1",
+      "quote": "In der Ausbildung der Nationen, welchen sie angehören, sind gewiss bedeutende, auch in ihnen selbst unverkennbare Unterschiede gewesen, allein der Mangel alphabetischer Schrift und mithin eigentlicher Literatur stellt doch alle, ohne Ausnahme, auf einer niedrigeren Stufe gleich.",
+      "note": "Proposed source anchor, not a canonical parse."
+    },
+    {
+      "id": "p2:a:s2c2",
+      "analysis_id": "p2-source-anchors",
+      "sentence_id": "g2:s2",
+      "parent_id": "p2:a:s2c1",
+      "kind": "clause",
+      "label": "p2:a:s2c2",
+      "quote": "In der Ausbildung der Nationen, welchen sie angehören, sind gewiss bedeutende, auch in ihnen selbst unverkennbare Unterschiede gewesen",
+      "note": "Proposed source anchor, not a canonical parse."
+    },
+    {
+      "id": "p2:a:s2c3",
+      "analysis_id": "p2-source-anchors",
+      "sentence_id": "g2:s2",
+      "parent_id": "p2:a:s2c2",
+      "kind": "clause",
+      "label": "p2:a:s2c3",
+      "quote": "welchen sie angehören",
+      "note": "Proposed source anchor, not a canonical parse."
+    },
+    {
+      "id": "p2:a:s2c4",
+      "analysis_id": "p2-source-anchors",
+      "sentence_id": "g2:s2",
+      "parent_id": "p2:a:s2c1",
+      "kind": "clause",
+      "label": "p2:a:s2c4",
+      "quote": "allein der Mangel alphabetischer Schrift und mithin eigentlicher Literatur stellt doch alle, ohne Ausnahme, auf einer niedrigeren Stufe gleich",
+      "note": "Proposed source anchor, not a canonical parse."
+    },
+    {
+      "id": "p2:a:s3c1",
+      "analysis_id": "p2-source-anchors",
+      "sentence_id": "g2:s3",
+      "parent_id": null,
+      "kind": "coordination",
+      "label": "p2:a:s3c1",
+      "quote": "Die bisweilen fälschlich behauptete Einerleiheit ihres Baues verschwindet zwar, ebenso als die auch wohl behauptete Abweichung von dem Bau aller übrigen Sprachen, vor der tiefer eindringenden Forschung, aber grosse Züge der Aehnlichkeit bieten doch alle Sprachen Amerika's wirklich dar, und der Norden und Süden des Welttheils erlaubt nicht einmal darin, wahrhaft abscheidende Gränzen zu ziehen.",
+      "note": "Proposed source anchor, not a canonical parse."
+    },
+    {
+      "id": "p2:a:s3c2",
+      "analysis_id": "p2-source-anchors",
+      "sentence_id": "g2:s3",
+      "parent_id": "p2:a:s3c1",
+      "kind": "clause",
+      "label": "p2:a:s3c2",
+      "quote": "Die bisweilen fälschlich behauptete Einerleiheit ihres Baues verschwindet zwar, ebenso als die auch wohl behauptete Abweichung von dem Bau aller übrigen Sprachen, vor der tiefer eindringenden Forschung",
+      "note": "Proposed source anchor, not a canonical parse."
+    },
+    {
+      "id": "p2:a:s3c3",
+      "analysis_id": "p2-source-anchors",
+      "sentence_id": "g2:s3",
+      "parent_id": "p2:a:s3c2",
+      "kind": "phrase",
+      "label": "p2:a:s3c3",
+      "quote": "ebenso als die auch wohl behauptete Abweichung von dem Bau aller übrigen Sprachen",
+      "note": "Proposed source anchor, not a canonical parse."
+    },
+    {
+      "id": "p2:a:s3c4",
+      "analysis_id": "p2-source-anchors",
+      "sentence_id": "g2:s3",
+      "parent_id": "p2:a:s3c1",
+      "kind": "clause",
+      "label": "p2:a:s3c4",
+      "quote": "aber grosse Züge der Aehnlichkeit bieten doch alle Sprachen Amerika's wirklich dar",
+      "note": "Proposed source anchor, not a canonical parse."
+    },
+    {
+      "id": "p2:a:s3c5",
+      "analysis_id": "p2-source-anchors",
+      "sentence_id": "g2:s3",
+      "parent_id": "p2:a:s3c1",
+      "kind": "clause",
+      "label": "p2:a:s3c5",
+      "quote": "der Norden und Süden des Welttheils erlaubt nicht einmal darin, wahrhaft abscheidende Gränzen zu ziehen",
+      "note": "Proposed source anchor, not a canonical parse."
+    },
+    {
+      "id": "p2:a:s3c6",
+      "analysis_id": "p2-source-anchors",
+      "sentence_id": "g2:s3",
+      "parent_id": "p2:a:s3c5",
+      "kind": "clause",
+      "label": "p2:a:s3c6",
+      "quote": "wahrhaft abscheidende Gränzen zu ziehen",
+      "note": "Proposed source anchor, not a canonical parse."
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E-P2-PRINT",
+      "source_path": "sources/raw/gs-v-1906.pdf",
+      "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+      "locator": "Printed365 / PDF375, marginal2 to before3",
+      "excerpt": "",
+      "statement": "Checked §2 contains three sentences. It distinguishes similarity from alleged identity and alleged deviation from all other languages, and explicitly retains a lower-level evaluation. Translation interpretation remains provisional.",
+      "quote_status": "scan_checked_transcription",
+      "claim_status": "translation_interpretation_provisional"
+    },
+    {
+      "id": "E-P2-PARALLEL",
+      "source_path": "sources/raw/gs-v-1906.pdf",
+      "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+      "locator": "Untersuchungen §1, printed346 / PDF356",
+      "excerpt": "Alle sind ferner in dem Mangel alphabetischer Schrift und mithin eigentlicher Literatur einander gleich.",
+      "statement": "The parallel states common lack of alphabetic writing/literature, but has no lower-level phrase here and no corresponding claim of deviation from all other languages. Do not import its wording or infer chronology.",
+      "quote_status": "scan_checked_by_coordinator",
+      "claim_status": "observed_print_difference"
+    },
+    {
+      "id": "E-P1-REVIEW",
+      "source_path": "translations/opening-001/approval-2026-11-15.json",
+      "source_sha256": "4938ac4a0e1c8dd7cafa2e4f6f237ddbbb07fd75cb7d4734ce1122f40bcf82c9",
+      "locator": "Roughdraft overall comment2026-11-15T11:55:54.467Z; subsequent chat proceed",
+      "excerpt": "looks good",
+      "statement": "Brett accepted §1 English/editorial usefulness; subsequent proceed authorizes the bounded §2 cycle. Does not certify German fidelity.",
+      "quote_status": "completion_event_and_saved_comment_checked",
+      "claim_status": "bounded_human_editorial_approval"
+    }
+  ],
+  "decision": [
+    {
+      "id": "D004",
+      "question": "§1 English review and next bounded action",
+      "resolution": "Accept §1 English/editorial usefulness and execute one §2 comparison/audit cycle, stopping before §3. Does not certify fidelity or source finality.",
+      "authority": "Brett: saved looks good comment, one Roughdraft completion event, then direct chat proceed; see approval record.",
+      "status": "adopted"
+    }
+  ],
+  "unit_evidence": [
+    {
+      "unit_id": "p2-layout:p1",
+      "evidence_id": "E-P2-PRINT"
+    },
+    {
+      "unit_id": "p2-layout:p1",
+      "evidence_id": "E-P2-PARALLEL"
+    },
+    {
+      "unit_id": "en-revised-v2:p1",
+      "evidence_id": "E-P1-REVIEW"
+    }
+  ],
+  "unit_decision": [
+    {
+      "unit_id": "p2-layout:p1",
+      "decision_id": "D001"
+    },
+    {
+      "unit_id": "p2-layout:p1",
+      "decision_id": "D004"
+    },
+    {
+      "unit_id": "en-revised-v2:p1",
+      "decision_id": "D004"
+    }
+  ],
+  "decision_evidence": [
+    {
+      "decision_id": "D004",
+      "evidence_id": "E-P1-REVIEW"
+    }
+  ],
+  "alignments": []
+}

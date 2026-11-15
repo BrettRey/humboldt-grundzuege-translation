@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite this project and identify the commit or version consulted."
+title: "Humboldt Grundzüge: provisional English translation and linked research apparatus"
+type: dataset
+authors:
+  - family-names: Reynolds
+    given-names: Brett
+version: 0.2.1
+date-released: 2026-11-15
+url: "https://github.com/BrettRey/humboldt-grundzuege-translation"
+repository-code: "https://github.com/BrettRey/humboldt-grundzuege-translation"
+abstract: "An AI-assisted provisional research translation, contextual termbase, source-linked editorial records and standard-library Python edition tools. Source and validation limits are recorded in the repository."
+license:
+  - MIT
+  - CC-BY-4.0

@@ -1,0 +1,158 @@
+[
+  {
+    "entry_id": "T28",
+    "finding": "The instruction to keep peoples as subject is attached to both the ferment and abrasion metaphors, but it applies only to the ferment clause. In the abrasion sentence, the grammatical subject is whatever foreign material may previously have been introduced; that material experiences the wearing-down influence of restricted native interaction. Applying the current bearer instruction to both clauses would change who or what undergoes the second process.",
+    "severity": "medium",
+    "evidence": [
+      {
+        "source_path": "sources/terminology/register.json",
+        "locator": "T28.rule",
+        "quote": "Retain the ferment-of-powers and abrasion metaphors in §1 while keeping peoples as subject and outside influence as an adjunct."
+      },
+      {
+        "source_path": "tmp/preparation/early-source.txt",
+        "original_source_path": "sources/raw/gs-v-1906.pdf",
+        "printed_page": 365,
+        "pdf_page": 375,
+        "scan_leaf": 377,
+        "quote": "Was daher auch in noch früherer\nZeit Fremdes eingebracht seyn möchte, hat nachher Jahrhunderte\nhindurch diesen abschleifenden Einfluss des auf sich selbst be-\n            schränkten einheimischen Verkehrs erfahren.",
+        "verification": "OCR-only; reread in the assigned original excerpt during this audit"
+      },
+      {
+        "source_path": "sources/terminology/evidence.json",
+        "id": "prep:C19",
+        "finding": "This cited record has no German quotation and its statement concerns continent, language stocks and developmental stages; it does not independently establish the subject of the abrasion sentence. The original excerpt supplies that check."
+      }
+    ],
+    "proposed_disposition": "Narrow the peoples-as-subject and outside-influence-as-adjunct instruction to the ferment clause. Add a separate bearer instruction for the abrasion sentence: previously introduced foreign material is what experiences the influence of native interaction. Retain the existing warning against inferring complete homogenization. No broader investigation or register restructuring is needed.",
+    "audit_id": "early-1",
+    "reader": "early",
+    "disposition": "accepted",
+    "resolution": "Scoped the bearer rule separately for ferment and abrasion; checked the preserved source packet."
+  },
+  {
+    "entry_id": "T23",
+    "finding": "The rule restricts mental supplementation to hearers, although the cited distinction concerns grammar operative in the speaker and grammar brought to language by those speaking it. This could narrow a production-and-understanding account into a reception-only account.",
+    "severity": "moderate",
+    "evidence": [
+      {
+        "id": "prep:LATE-15",
+        "locator": "printed 462; PDF 472; §142 provisionally identified",
+        "support": "The pattern/law is explicitly operative in the Redenden."
+      },
+      {
+        "id": "prep:LATE-21",
+        "locator": "printed 471; PDF 481; §148",
+        "support": "Grammar is brought into language by the Redenden; this anchor was independently image-checked in the late reading."
+      },
+      {
+        "id": "prep:SECONDARY-02",
+        "locator": "Manchester 76–79; PDF 11–14; §4.3",
+        "support": "Explicit and mentally supplied grammar coexist within languages, not only in an act of hearing."
+      }
+    ],
+    "proposed_disposition": "Replace what hearers supply with what speakers and hearers supply in thought, or what language users supply in thought. Retain the existing cautions about unconscious supplementation and graded boundaries.",
+    "audit_id": "late-1",
+    "reader": "late",
+    "disposition": "accepted",
+    "resolution": "Expanded supplementation to speakers and hearers; added the independent-anchor condition with C24."
+  },
+  {
+    "entry_id": "T23",
+    "finding": "The word-order exception is abbreviated enough to omit an essential condition: in §147 fixed order must relate to a fixed point identifiable independently of that order. Immutability of order alone is not the full stated test.",
+    "severity": "moderate",
+    "evidence": [
+      {
+        "id": "prep:LATE-20",
+        "locator": "printed 469–470; PDF 479–480; §147",
+        "support": "The evidence issue identifies this continuation. The already-read full source requires a fixed point not itself recognizable only through position; it uses that requirement to exclude the Chinese example."
+      }
+    ],
+    "proposed_disposition": "Add the independent-anchor condition to the exception, and distinguish this local §147 test from the different formulation in prep:PRIMARY-B03. No new collation is claimed.",
+    "audit_id": "late-2",
+    "reader": "late",
+    "disposition": "accepted",
+    "resolution": "Expanded supplementation to speakers and hearers; added the independent-anchor condition with C24."
+  },
+  {
+    "entry_id": "T24",
+    "finding": "The concept/relation distinction is supported, but the shared rule does not explain Formalität. The only listed equivalent, formal character, risks making it a descriptive attribute and losing §144’s claimed awakening of form as such, whose importance exceeds aid to comprehension.",
+    "severity": "moderate",
+    "evidence": [
+      {
+        "id": "prep:LATE-18",
+        "locator": "printed 465; PDF 475; §144",
+        "support": "The importance of grammatical forms is grounded chiefly in awakening Formalität in the mind, beyond helping understanding."
+      },
+      {
+        "id": "prep:LATE-17",
+        "locator": "printed 464; PDF 474; §144",
+        "support": "The sign without a new Sachbegriff supplies the adjacent but distinct criterion for grammatical form or word."
+      }
+    ],
+    "proposed_disposition": "Add a conditional Formalität-specific rule preserving the awareness or efficacy of form as form. Keep formal character provisional pending the whole local rendering; do not merge this effect with mere successful relation-designation.",
+    "audit_id": "late-3",
+    "reader": "late",
+    "disposition": "accepted",
+    "resolution": "Specified the claimed awakening of form as form; retained the English nominal label as an open local decision."
+  },
+  {
+    "entry_id": "T32",
+    "finding": "The stated §§104–105 and 125 senses are not traceable through the attached evidence records. MIDDLE-12 is §89, MIDDLE-22 is §126, LATE-20 is §147 and concerns formal indication, and C11 summarizes §139’s three principles. None records the asserted local Geltung reading. This is a support gap, not a finding that the proposed glosses are false.",
+    "severity": "moderate",
+    "evidence": [
+      {
+        "id": "prep:MIDDLE-12",
+        "locator": "printed 420; PDF 430; §89",
+        "support": "Supports sensory/affective content and imagination, not the cited §§104–105 or 125."
+      },
+      {
+        "id": "prep:MIDDLE-22",
+        "locator": "printed 444; PDF 454; §126",
+        "support": "Supports variable apprehension of noncorporeal vocabulary, not the specified occurrence claims."
+      },
+      {
+        "id": "prep:LATE-20",
+        "locator": "printed 469; PDF 479; §147",
+        "support": "This record concerns grammatical Form/Andeutung and concept/relation designation, not Gefühl, Empfindung or Geltung."
+      },
+      {
+        "id": "prep:C11",
+        "locator": "printed 459; PDF 469; §139",
+        "support": "Its actual statement does not establish the asserted psychological distinctions or Geltung gloss."
+      }
+    ],
+    "proposed_disposition": "Supply occurrence-specific records from the already-read source if available; otherwise mark these local sense claims unverified and remove the misleading LATE-20 attachment. Do not claim the present evidence set validates §§104–105/125.",
+    "audit_id": "late-4",
+    "reader": "late",
+    "disposition": "accepted",
+    "resolution": "Replaced misplaced references with occurrence-specific C21,C23,C25 and C08; narrowed §§104–105 to §105."
+  },
+  {
+    "entry_id": "T14",
+    "finding": "The Bezeichnung cautions are supported, but the more specific Selbstbedeutung equation is not grounded by a record that contains or discusses that term in the shared evidence. The current support status therefore reaches beyond the recorded evidence for this headword.",
+    "severity": "low",
+    "evidence": [
+      {
+        "id": "prep:MIDDLE-15",
+        "locator": "printed 426; PDF 436; §98",
+        "support": "Supports conceptual apprehension/designation and the speaker/hearer standpoint, but does not document Selbstbedeutung."
+      },
+      {
+        "id": "prep:C06",
+        "locator": "printed 426; PDF 436; §98",
+        "support": "Confirms that conceptual Bezeichnung reading, without the Selbstbedeutung claim."
+      },
+      {
+        "id": "sources/terminology/evidence.json",
+        "locator": "all 150 records; bounded headword check",
+        "support": "No record quote, terms, statement or meaning contains Selbstbedeutung."
+      }
+    ],
+    "proposed_disposition": "Retain the supported Bezeichnung rule. Mark the Selbstbedeutung gloss as awaiting a local occurrence anchor, or attach one from the already-read material; this audit does not establish that the gloss is incorrect.",
+    "audit_id": "late-5",
+    "reader": "late",
+    "disposition": "accepted",
+    "resolution": "Added C22, checked against426–427, including the historical-evidence constraint."
+  }
+]

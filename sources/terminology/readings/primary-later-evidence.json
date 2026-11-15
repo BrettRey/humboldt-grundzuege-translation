@@ -1,0 +1,304 @@
+[
+  {
+    "id": "PRIMARY-B01",
+    "source_path": "sources/raw/gs-v-1906.pdf",
+    "printed_page": 309,
+    "pdf_page": 319,
+    "work_layer": "Über den grammatischen Bau der Chinesischen Sprache",
+    "date_status": "1826-03-20: image-verified session date in supplied title paratext p309; does not establish exact composition or publication date.",
+    "terms": [
+      "Grammatik",
+      "Classificirung",
+      "Gedankenverbindung",
+      "Bezeichnung"
+    ],
+    "quote": "ihre Grammatik nicht auf die Classificirung der Wörter gründet, sondern die Gedankenverbindung auf eine andre Weise bezeichnet.",
+    "meaning": "The proposed Chinese contrast concerns how thought connections are indicated, rather than a denial that Chinese combines thoughts or has a grammatical structure.",
+    "implication": "Do not translate lack of a particular grammatical classification method into lack of grammar. Keep this 1826 claim locally attributed.",
+    "verification": "image-checked",
+    "issue": "Image-derived excerpt; printed line divisions are rejoined. Session-date paratext on this page is image-verified."
+  },
+  {
+    "id": "PRIMARY-B02",
+    "source_path": "sources/raw/gs-v-1906.pdf",
+    "printed_page": 311,
+    "pdf_page": 321,
+    "work_layer": "Über den grammatischen Bau der Chinesischen Sprache",
+    "date_status": "1826-03-20: image-verified session date in supplied title paratext p309; does not establish exact composition or publication date.",
+    "terms": [
+      "Materie",
+      "Form",
+      "Verbal-Bedeutung",
+      "Verbum"
+    ],
+    "quote": "ein Wort mit Verbal- Bedeutung ist darum auf keine Weise ein Verbum.",
+    "meaning": "Having verbal conceptual content does not itself make a word a grammatical verb; the preceding clause explicitly contrasts matter and form.",
+    "implication": "Keep conceptual contribution distinct from grammatical classification. Do not modernize Verbal-Bedeutung into membership of a present-day verb category.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "PRIMARY-B03",
+    "source_path": "sources/raw/gs-v-1906.pdf",
+    "printed_page": 311,
+    "pdf_page": 321,
+    "work_layer": "Über den grammatischen Bau der Chinesischen Sprache",
+    "date_status": "1826-03-20: image-verified session date in supplied title paratext p309; does not establish exact composition or publication date.",
+    "terms": [
+      "Grammatik",
+      "Flexion",
+      "grammatische Wörter",
+      "Stellung",
+      "Hinzugedachtes"
+    ],
+    "quote": "Wirklich in der Sprache selbst liegt nur diejenige Grammatik, die durch Flexionen, grammatische Wörter oder gesetzmässige Stellung ausdrücklich bezeichnet ist, oder sich in dem Zuschnitt der Sätze und der Bildung der Rede, als noth- wendig hinzugedacht, mit Bestimmtheit offenbart.",
+    "meaning": "The account recognizes grammatical content explicitly marked by inflection, grammatical words, or regular order, as well as what sentence/discourse construction necessarily and determinately implies.",
+    "implication": "Avoid a blanket equation of grammar with overt morphology. Preserve the test of necessary inference and the warning against imposing the observer's grammar.",
+    "verification": "OCR-only",
+    "issue": "OCR line-end divisions are retained; this is a criterion Humboldt states, not an independently validated modern account."
+  },
+  {
+    "id": "PRIMARY-B04",
+    "source_path": "sources/raw/gs-v-1906.pdf",
+    "printed_page": 318,
+    "pdf_page": 328,
+    "work_layer": "Über den grammatischen Bau der Chinesischen Sprache",
+    "date_status": "1826-03-20: image-verified session date in supplied title paratext p309; does not establish exact composition or publication date.",
+    "terms": [
+      "Begriffsbestimmung",
+      "Formenbezeichnung",
+      "tchi"
+    ],
+    "quote": "so ist klar, dass ihre grammatische Ansicht nur auf die Begriffsbestimmung, in der sie übereinkommen, und nicht auf die Formenbezeichnung, in der sie verschieden sind, gerichtet ist.",
+    "meaning": "Different translations assign distinct grammatical forms while preserving a common conceptual determination; Humboldt takes this as evidence for the language's orientation to the latter.",
+    "implication": "Distinguish conceptual relation from the target language's grammatical encoding; do not infer that translation alternatives establish free interchangeability in Chinese.",
+    "verification": "OCR-only",
+    "issue": "The reported analysis of tchi is not independently checked as Chinese linguistic data."
+  },
+  {
+    "id": "PRIMARY-B05",
+    "source_path": "sources/raw/gs-v-1906.pdf",
+    "printed_page": 319,
+    "pdf_page": 329,
+    "work_layer": "Über den grammatischen Bau der Chinesischen Sprache",
+    "date_status": "1826-03-20: image-verified session date in supplied title paratext p309; does not establish exact composition or publication date.",
+    "terms": [
+      "Wortstellung",
+      "Bedeutung",
+      "Zusammenhang",
+      "Verständniss"
+    ],
+    "quote": "So fest daher auch die Wortstellung im Chinesischen ist, so reicht sie nie allein aus, sondern man muss immer zugleich auf die Bedeutung der Wörter und den Zusammen- hang der Rede zurückgehn.",
+    "meaning": "Fixed order is said not to be sufficient by itself: lexical meaning and discourse context also support understanding.",
+    "implication": "Analytic grammatical relations must not be flattened into word order alone. Keep reconstruction of a relation separate from explicit marking.",
+    "verification": "OCR-only",
+    "issue": "OCR line-end division Zusammen- hang retained."
+  },
+  {
+    "id": "PRIMARY-B06",
+    "source_path": "sources/raw/gs-v-1906.pdf",
+    "printed_page": 323,
+    "pdf_page": 333,
+    "work_layer": "Über den grammatischen Bau der Chinesischen Sprache",
+    "date_status": "1826-03-20: image-verified session date in supplied title paratext p309; does not establish exact composition or publication date.",
+    "terms": [
+      "Gedanke",
+      "Wort",
+      "Geistesthätigkeit",
+      "Spracherweiterung"
+    ],
+    "quote": "Nun ist es zwar unmöglich, ohne Sprache zu denken. Allein der Mensch unter- scheidet doch den Gedanken vom Wort, und geht, woraus alle innere Spracherweiterung entspringt, häufig über die Begränzung der in jedem Augenblick gegebenen Sprache hinaus.",
+    "meaning": "The author combines the impossibility of thinking without language with a person's distinction of thought from word and movement beyond the bounds of currently given language.",
+    "implication": "Do not turn inseparability of thought and language into an immutable inventory constraint. Retain this local formulation beside the Kawi discussion rather than assimilating their vocabulary.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "PRIMARY-B07",
+    "source_path": "sources/raw/gs-v-1906.pdf",
+    "printed_page": 323,
+    "pdf_page": 333,
+    "work_layer": "Über den grammatischen Bau der Chinesischen Sprache",
+    "date_status": "1826-03-20: image-verified session date in supplied title paratext p309; does not establish exact composition or publication date.",
+    "terms": [
+      "Chinesisch",
+      "Vorzug",
+      "Werthung"
+    ],
+    "quote": "Dieses Vorzuges ungeachtet, steht aber, meiner innersten Ueberzeugung nach, das Chinesische den Sprachen, mit welchen es hier verglichen wird, bei weitem nach.",
+    "meaning": "The Chinese system's acknowledged advantage does not prevent an explicit overall ranking below the comparison languages.",
+    "implication": "Preserve the author's evaluative claim and its first-person warrant; an account mentioning only Chinese distinctiveness or virtues would conceal the text's hierarchy.",
+    "verification": "OCR-only",
+    "issue": "This is a historical authorial judgement, not a confirmed present-day linguistic result."
+  },
+  {
+    "id": "PRIMARY-B08",
+    "source_path": "sources/raw/gs-v-1906.pdf",
+    "printed_page": 306,
+    "pdf_page": 316,
+    "work_layer": "Lettre to Abel-Rémusat, conclusion",
+    "date_status": "1826-03-07: image-verified dated closing on printed p308; letter date, not independently established publication date.",
+    "terms": [
+      "style antique",
+      "langue Chinoise",
+      "style moderne"
+    ],
+    "quote": "j'ai fonde tout ce que j'ai ose avancer sur la langue Ghinoise, uniquement sur le style antique, sans faire mention particuliere du style moderne.",
+    "meaning": "The Lettre conclusion expressly limits its evidential basis to ancient/classical style, then argues that the modern style does not overturn its reasoning.",
+    "implication": "Do not present this as an unrestricted empirical description of all Chinese speech. Preserve the basis, extension, and resulting limits.",
+    "verification": "OCR-only",
+    "issue": "French accents and OCR forms such as Ghinoise are retained; the claim about modern style is argued in pp306–307 rather than established externally."
+  },
+  {
+    "id": "PRIMARY-B09",
+    "source_path": "sources/raw/gs-v-1906.pdf",
+    "printed_page": 308,
+    "pdf_page": 318,
+    "work_layer": "Lettre to Abel-Rémusat, conclusion",
+    "date_status": "1826-03-07: image-verified dated closing on printed p308; letter date, not independently established publication date.",
+    "terms": [
+      "faits",
+      "idees generales",
+      "Systeme",
+      "methode"
+    ],
+    "quote": "il est facile de se laisser entraîner à modeler ses idées générales d'après la langue qu'on vient d'analyser, et de s'exposer au péril de former un nouveau système à l'examen d'une nouvelle langue.",
+    "meaning": "The closing warns that analysis of one language can reshape general ideas and tempt the investigator to create a new system for each new language.",
+    "implication": "Treat cross-text comparison as a control on interpretations; avoid forcing all passages into a single perfected system.",
+    "verification": "image-checked",
+    "issue": "Image-derived quotation restores French accents relative to OCR (including à in place of ä) and lower-case système. Dated closing on the same page reads A Berlin, ce 7. mars, 1826."
+  },
+  {
+    "id": "PRIMARY-B10",
+    "source_path": "sources/raw/references/humboldt-gs-07-1.pdf",
+    "printed_page": 46,
+    "pdf_page": 56,
+    "work_layer": "Kawi introduction, §§12–14; later layer as designated by supplied bundle",
+    "date_status": "No work/composition/publication date in supplied pp45–59; later-layer ordering supplied by task, not independently dated here.",
+    "terms": [
+      "Ergon",
+      "Energeia",
+      "Thätigkeit",
+      "Sprechen"
+    ],
+    "quote": "Sie selbst ist kein Werk (Ergon), sondern eine Thätigkeit (Energeia). Ihre wahre Definition kann daher nur eine genetische seyn.",
+    "meaning": "This Kawi-layer formulation defines language as activity rather than completed work; the paragraph then identifies the strict bearer as each occasion of speaking and language as its totality.",
+    "implication": "Attribute Ergon/Energeia explicitly to this work layer. It may test a reading of speech/activity elsewhere but cannot be silently inserted as Grundzüge wording.",
+    "verification": "OCR-only",
+    "issue": "OCR-only quotation; the distinction between active text and deleted editorial variants on this page is retained."
+  },
+  {
+    "id": "PRIMARY-B11",
+    "source_path": "sources/raw/references/humboldt-gs-07-1.pdf",
+    "printed_page": 47,
+    "pdf_page": 57,
+    "work_layer": "Kawi introduction, §§12–14; later layer as designated by supplied bundle",
+    "date_status": "No work/composition/publication date in supplied pp45–59; later-layer ordering supplied by task, not independently dated here.",
+    "terms": [
+      "Form",
+      "Arbeit des Geistes",
+      "Beständige",
+      "Gleichförmige"
+    ],
+    "quote": "Das in dieser Arbeit des Geistes, den articulirten Laut zum Gedankenausdruck zu erheben, liegende Beständige und Gleichförmige, so vollständig, als möglich, in seinem Zusammenhange aufgefasst und systematisch dargestellt, macht die Form der Sprache aus.",
+    "meaning": "Form is the constant and uniform in the work of raising articulated sound to expression of thought, apprehended in connection and systematically represented.",
+    "implication": "Use this explicit broad Kawi definition only with its source attribution. It does not erase distinct bearers of Form in the Grundzüge or the 1826 Chinese discussion.",
+    "verification": "image-checked",
+    "issue": "Image confirms quoted wording; printed line-end divisions are rejoined. Adjacent text distinguishes scholarly abstraction from the living individual impulse."
+  },
+  {
+    "id": "PRIMARY-B12",
+    "source_path": "sources/raw/references/humboldt-gs-07-1.pdf",
+    "printed_page": 49,
+    "pdf_page": 59,
+    "work_layer": "Kawi introduction, §§12–14; later layer as designated by supplied bundle",
+    "date_status": "No work/composition/publication date in supplied pp45–59; later-layer ordering supplied by task, not independently dated here.",
+    "terms": [
+      "Sprachform",
+      "grammatische Form",
+      "Grammatik",
+      "Lexicon"
+    ],
+    "quote": "dass unter Form der Sprache hier durchaus nicht bloss die so- genannte grammatische Form verstanden wird. Der Unterschied, welchen wir zwischen Grammatik und Lexicon zu machen pflegen, kann nur zum praktischen Gebrauche der Erlernung der Sprachen dienen, allein der wahren Sprachforschung weder Gränze noch Regel vorschreiben.",
+    "meaning": "The account explicitly denies restricting linguistic form to grammatical form and treats the grammar/lexicon division as useful for learning rather than a boundary of research.",
+    "implication": "Keep broad Sprachform apart from a particular grammatical category or marker; do not equate later form with grammar.",
+    "verification": "OCR-only",
+    "issue": "Initial dass depends on the preceding main clause; OCR line-end divisions retained."
+  },
+  {
+    "id": "PRIMARY-B13",
+    "source_path": "sources/raw/references/humboldt-gs-07-1.pdf",
+    "printed_page": 49,
+    "pdf_page": 59,
+    "work_layer": "Kawi introduction, §§12–14; later layer as designated by supplied bundle",
+    "date_status": "No work/composition/publication date in supplied pp45–59; later-layer ordering supplied by task, not independently dated here.",
+    "terms": [
+      "Stoff",
+      "Form",
+      "articulirter Laut"
+    ],
+    "quote": "Absolut betrachtet, kann es innerhalb der Sprache keinen ungeformten Stoff geben, da alles in ihr auf einen bestimmten Zweck, den Gedanken- ausdruck, gerichtet ist, und diese Arbeit schon bei ihrem ersten Element, dem articulirten Laute, beginnt, der ja eben durch Formung ^) 2um articulirten wird.",
+    "meaning": "Nothing within language is absolutely unformed matter; an element can be matter relative to one operation while already formed in another respect.",
+    "implication": "State the relative bearer when translating Stoff/Form. Do not identify matter categorically with acoustic sound or form with an immaterial scheme.",
+    "verification": "OCR-only",
+    "issue": "OCR 2um is retained. Editorial deletion following Formung is not part of the quotation."
+  },
+  {
+    "id": "PRIMARY-B14",
+    "source_path": "sources/raw/references/humboldt-gs-07-1.pdf",
+    "printed_page": 53,
+    "pdf_page": 63,
+    "work_layer": "Kawi introduction, §§12–14; later layer as designated by supplied bundle",
+    "date_status": "No work/composition/publication date in supplied pp45–59; later-layer ordering supplied by task, not independently dated here.",
+    "terms": [
+      "bildendes Organ",
+      "Gedanke",
+      "Vorstellung",
+      "Begriff"
+    ],
+    "quote": "Sie ist aber auch in sich an die Xothwendigkeit geknüpft, eine Ver- bindung mit dem Sprachlaute einzugehen; das Denken kann sonst nicht zur Deutlichkeit gelangen, die Vorstellung nicht zum Begriff werden.",
+    "meaning": "Language is presented as formative for thought; connection with articulated sound makes inner activity perceptible and is required for representation to become concept.",
+    "implication": "This is Kawi-layer language of formation, not a neutral label-sign account. Preserve its epistemic/philosophical assertion without treating it as current experimental evidence.",
+    "verification": "OCR-only",
+    "issue": "OCR Xothwendigkeit is retained; line-end word divisions are retained."
+  },
+  {
+    "id": "PRIMARY-B15",
+    "source_path": "sources/raw/references/humboldt-gs-07-1.pdf",
+    "printed_page": 55,
+    "pdf_page": 65,
+    "work_layer": "Kawi introduction, §§12–14; later layer as designated by supplied bundle",
+    "date_status": "No work/composition/publication date in supplied pp45–59; later-layer ordering supplied by task, not independently dated here.",
+    "terms": [
+      "Objectivität",
+      "Subjectivität",
+      "Vorstellung",
+      "Begriff"
+    ],
+    "quote": "Die Vorstellung wird also in wirkliche Objectivität hinüberversetzt, ohne darum der Subjectivität entzogen zu w^erden. Dies vermag nur die Sprache: und ohne diese, wo Sprache mitwirkt, auch still- schw^eigend immer vorgehende Versetzung in zum Subject zurück- kehrende Objectivität ist die Bildung des Begriffs, mithin alles wahre Denken unmöglich.",
+    "meaning": "The produced representation becomes an object returning to its own subject; this does not remove subjectivity. Language is necessary to this return and to concept formation.",
+    "implication": "Do not render objectivity here as observer-independent truth. Keep the relation to the speaker's production and hearing visible.",
+    "verification": "OCR-only",
+    "issue": "OCR spellings w^erden and still- schw^eigend are retained; exact contiguous quotation is source-derived."
+  },
+  {
+    "id": "PRIMARY-B16",
+    "source_path": "sources/raw/references/humboldt-gs-07-1.pdf",
+    "printed_page": 56,
+    "pdf_page": 66,
+    "work_layer": "Kawi introduction, §§12–14; later layer as designated by supplied bundle",
+    "date_status": "No work/composition/publication date in supplied pp45–59; later-layer ordering supplied by task, not independently dated here.",
+    "terms": [
+      "Verstehen",
+      "Sprechen",
+      "Sprachkraft",
+      "Stoff",
+      "Anregung"
+    ],
+    "quote": "Verstehen und Sprechen sind nur verschiedenartige Wirkungen der nemlichen Sprachkraft. Die gemeinsame Rede ist nie mit dem Uebergeben eines Stoffes vergleichbar. In dem Verstehenden, wie im Sprechenden, muss derselbe aus der eignen, innren Kraft entwickelt werden; und was der erstere empfängt, ist nur die harmonisch stimmende Anregung.",
+    "meaning": "Understanding and speaking are different effects of the same linguistic power. Understanding requires the hearer's own activity rather than receiving a transferred material content.",
+    "implication": "Keep activity, stimulus, and communicated content distinct; use as a separately attributed comparison with Grundzüge accounts of understanding, not as a replacement.",
+    "verification": "OCR-only",
+    "issue": "OCR-only; the surrounding argument invokes common human nature and social interaction, with later ancestry claims requiring separate treatment."
+  }
+]

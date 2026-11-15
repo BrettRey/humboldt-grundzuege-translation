@@ -1,0 +1,183 @@
+{
+  "choices": [
+    {
+      "id": "D003.1",
+      "source_ids": [
+        "g:s1",
+        "g:s2",
+        "g:s6"
+      ],
+      "term": "Welttheil; Sprachkunde",
+      "choice": "continent; study of language",
+      "reason": "Readable geographical/disciplinary expressions; America remains the single unit used in this passage, not a modern two-continent classification.",
+      "alternatives": [
+        "part of the world",
+        "linguistic scholarship"
+      ],
+      "status": "provisional"
+    },
+    {
+      "id": "D003.2",
+      "source_ids": [
+        "g:s2",
+        "g:s3"
+      ],
+      "term": "zusammengeflossen; bedeutendsten; Sprachstämme; Bildung",
+      "choice": "converged; very considerable; language stocks; development",
+      "reason": "Convergence does not assert mixing; absolute/elative superlative does not require a formal ranking. The grammar makes the stocks and attained Bildung linguistic. No modern genealogical rank or universal Bildung equivalent is asserted.",
+      "alternatives": [
+        "flowed together",
+        "the most significant differences",
+        "language families",
+        "cultivation"
+      ],
+      "status": "provisional"
+    },
+    {
+      "id": "D003.3",
+      "source_ids": [
+        "g:s4",
+        "g:s6"
+      ],
+      "term": "Nationaleigenthümlichkeit; Eigenthümlichkeiten; Einwanderungen",
+      "choice": "national distinctiveness; distinctive traits; immigration (mass noun)",
+      "reason": "Related distinctive vocabulary preserves the conceptual connection; retain national without equating it with a nation-state. Mass immigration covers the plural events and supplies the repeated elliptical noun.",
+      "alternatives": [
+        "national individuality / individualities",
+        "inner national character",
+        "immigrations"
+      ],
+      "status": "provisional"
+    },
+    {
+      "id": "D003.4",
+      "source_ids": [
+        "g:s5",
+        "g:s6"
+      ],
+      "term": "nur durch sich selbst; in Gährung ihrer Kräfte gerathen",
+      "choice": "solely from within / through themselves alone; came into a ferment of their powers",
+      "reason": "Remove added activity noun and causative passive. Keep the peoples as the subject entering the state. Different English phrasing expresses the repeated self-relation without imposing one awkward formula.",
+      "alternatives": [
+        "only through themselves in both clauses",
+        "their powers were set fermenting solely from within"
+      ],
+      "status": "provisional"
+    },
+    {
+      "id": "D003.5",
+      "source_ids": [
+        "g:s6"
+      ],
+      "term": "solange ... kennen; bis auf ... Unterjochung; frei von fremdem Einfluss",
+      "choice": "known historical interval; down to subjugation by Europeans; freedom as an adjunct",
+      "reason": "Temporal reading of bis auf is retained alongside the knowledge limit. The exceptive reading remains possible. Keep the freedom phrase within the entry-into-ferment clause; the second predicate follows in a new English sentence without adding a new temporal bridge.",
+      "alternatives": [
+        "except for European subjugation"
+      ],
+      "status": "provisional"
+    },
+    {
+      "id": "D003.6",
+      "source_ids": [
+        "g:s7"
+      ],
+      "term": "abschleifend; einheimischer Verkehr; Fremdes",
+      "choice": "wearing-down; self-contained native interaction; anything foreign",
+      "reason": "Retain abrasion rather than making equalisation the asserted outcome. Interaction differs from contact in s5; native contrasts with foreign. The reflexive stays with the interaction, not an inserted continent noun. Self-contained is understood here at the passage’s collective level, not as isolation of each community. Anything foreign avoids narrowing to discrete linguistic elements.",
+      "alternatives": [
+        "levelling",
+        "smoothing",
+        "native intercourse confined to itself",
+        "whatever foreign matter"
+      ],
+      "status": "provisional"
+    }
+  ],
+  "audit_dispositions": [
+    {
+      "auditor": "claude",
+      "finding": "F1",
+      "disposition": "addressed",
+      "decision_id": "D003.5",
+      "reason": "Restructured s6: qualifier attaches to entry into ferment; removed separate freedom assertion and added Over that period bridge."
+    },
+    {
+      "auditor": "claude",
+      "finding": "F2",
+      "disposition": "partly accepted; alternative open",
+      "decision_id": "D003.5",
+      "reason": "Retain temporal reading; use subjugation by Europeans; record exceptive alternative."
+    },
+    {
+      "auditor": "claude",
+      "finding": "F3",
+      "disposition": "accepted",
+      "decision_id": "D003.4",
+      "reason": "Removed activity and passive; retained self-relation in different idiomatic English forms."
+    },
+    {
+      "auditor": "claude",
+      "finding": "F4",
+      "disposition": "accepted",
+      "decision_id": "D003.6",
+      "reason": "Restore native/foreign opposition and distinguish interaction from contact; no continent noun in the English s7."
+    },
+    {
+      "auditor": "claude",
+      "finding": "F5",
+      "disposition": "accepted",
+      "decision_id": "D003.6",
+      "reason": "Use wearing-down; retain levelling as an alternative, not asserted result."
+    },
+    {
+      "auditor": "claude",
+      "finding": "F6",
+      "disposition": "accepted",
+      "decision_id": "D003.2",
+      "reason": "Mingled becomes converged; avoid suggesting linguistic mixture."
+    },
+    {
+      "auditor": "claude",
+      "finding": "F7",
+      "disposition": "not accepted",
+      "decision_id": "D003.2",
+      "reason": "Retain very considerable as an absolute/elative superlative; no comparison set is given. Muse explicitly finds it defensible. This is grammatical adjudication, not majority voting."
+    },
+    {
+      "auditor": "muse",
+      "finding": "F1",
+      "disposition": "accepted",
+      "decision_id": "D003.4",
+      "reason": "Removed activity noun in s5 and s6."
+    },
+    {
+      "auditor": "muse",
+      "finding": "F2",
+      "disposition": "accepted",
+      "decision_id": "D003.4",
+      "reason": "Keep human groups as subject of intransitive came into; freedom is an adjunct."
+    },
+    {
+      "auditor": "muse",
+      "finding": "F3",
+      "disposition": "accepted conservatively",
+      "decision_id": "D003.6",
+      "reason": "Wearing-down preserves metaphor; levelling remains a plausible interpretation rather than a demonstrated error."
+    },
+    {
+      "auditor": "muse",
+      "finding": "F4",
+      "disposition": "accepted",
+      "decision_id": "D003.6",
+      "reason": "Remove continent referent; retain reflexive internal interaction, native contrast and distinct Verkehr rendering."
+    },
+    {
+      "auditor": "muse",
+      "finding": "F5",
+      "disposition": "accepted",
+      "decision_id": "D003.6",
+      "reason": "Anything foreign preserves open singular scope; no elements noun."
+    }
+  ]
+}

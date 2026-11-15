@@ -1,0 +1,110 @@
+{
+  "status": "One §2 comparison/audit/revision cycle complete; English review pending.",
+  "authorization": "D004: §1 looks good review and direct chat proceed.",
+  "source_policy": "D001, printed base with reported-cancellation caveat.",
+  "workers": [
+    {
+      "label": "candidate-claude",
+      "models": [
+        "claude-fable-5-2"
+      ],
+      "exit_code": 0,
+      "elapsed_seconds": 37.2,
+      "prompt_sha256": "7d70e52a767d3b6fcf9bb7dea75465bdd7a70a4fe7da30b80f8d257b77d4b20a",
+      "receipt": "tmp/paragraph-002-cycle/candidate-claude-receipt.json"
+    },
+    {
+      "label": "candidate-muse",
+      "models": [
+        "muse-wonder-full-1.0"
+      ],
+      "exit_code": 0,
+      "elapsed_seconds": 28.5,
+      "prompt_sha256": "7d70e52a767d3b6fcf9bb7dea75465bdd7a70a4fe7da30b80f8d257b77d4b20a",
+      "receipt": "tmp/paragraph-002-cycle/candidate-muse-receipt.json"
+    },
+    {
+      "label": "candidate-codex",
+      "models": [
+        "gpt-6.1-sol"
+      ],
+      "exit_code": 0,
+      "elapsed_seconds": 31.0,
+      "prompt_sha256": "7d70e52a767d3b6fcf9bb7dea75465bdd7a70a4fe7da30b80f8d257b77d4b20a",
+      "receipt": "tmp/paragraph-002-cycle/candidate-codex-receipt.json"
+    },
+    {
+      "label": "audit-claude",
+      "models": [
+        "claude-fable-5-2"
+      ],
+      "exit_code": 0,
+      "elapsed_seconds": 92.9,
+      "prompt_sha256": "4353ba1daf9790f02126cf6b8b78baecbd0159d41b2a8feb32d921fd56605c2c",
+      "receipt": "tmp/paragraph-002-cycle/audit-claude-receipt.json"
+    },
+    {
+      "label": "audit-muse",
+      "models": [
+        "muse-wonder-full-1.0"
+      ],
+      "exit_code": 0,
+      "elapsed_seconds": 84.9,
+      "prompt_sha256": "83d0194688ecc3c48724a3a5f0b7ccef356500b9feb82346a1590e062a9a860c",
+      "receipt": "tmp/paragraph-002-cycle/audit-muse-receipt.json"
+    }
+  ],
+  "candidate_freeze": {
+    "path": "translations/paragraph-002/candidates.json",
+    "sha256": "29f0657869d9612da2a05f03f90180a597773d10b0a73306bf88acd30453ad45",
+    "frozen_at": "2026-11-15T12:14:21.266633+00:00",
+    "models": [
+      "claude-fable-5-2",
+      "muse-wonder-full-1.0",
+      "gpt-6.1-sol"
+    ],
+    "prompt_hashes": [
+      "7d70e52a767d3b6fcf9bb7dea75465bdd7a70a4fe7da30b80f8d257b77d4b20a",
+      "7d70e52a767d3b6fcf9bb7dea75465bdd7a70a4fe7da30b80f8d257b77d4b20a",
+      "7d70e52a767d3b6fcf9bb7dea75465bdd7a70a4fe7da30b80f8d257b77d4b20a"
+    ]
+  },
+  "input_sha256": {
+    "translations/paragraph-002/packet.md": "1b7820b48f9aa1738135a74c33bff5e4e0e09e67854bac248ca3b7400e17ab59",
+    "translations/paragraph-002/candidates.json": "29f0657869d9612da2a05f03f90180a597773d10b0a73306bf88acd30453ad45",
+    "translations/paragraph-002/audits.json": "461ead143eac3e3c2e8dce26f66f5e36f49902f76ba65481dc4f8cc8add5637f",
+    "translations/paragraph-002/revised.json": "2b189d56ccade30bfdc77a49852c659099be078a7f2b39728f5e477f0cf05165",
+    "translations/paragraph-002/alignments.json": "347f8cee01ad5536576f505aa621b607d6932a1b04208dc2f2bb6c4067a90a82",
+    "translations/paragraph-002/decisions.json": "b2a0be287f4e03c507ed7278956ef60d2468359dd1ee1a828e200e8d1652c3ca",
+    "sources/annotations/paragraph-002.json": "281e1b9ccec5ec44f7bd1cdc50c40141e5eb47e178dcf932dcddf574a38d2e76"
+  },
+  "coverage": {
+    "source_sentences": 3,
+    "proposed_source_anchors": 11,
+    "audit_findings": 6,
+    "findings_with_dispositions": 6
+  },
+  "limits": [
+    "Source ambiguity remains; these are model judgments, not human German certification.",
+    "No new dictionary, modern-reference or manuscript evidence.",
+    "Final revision coordinator-checked, no further model audit cycle.",
+    "No §3 translation, purchase, outside contact, installation, commit or push."
+  ],
+  "software_checks": {
+    "tests": 27,
+    "exit_code": 0,
+    "integrity": "ok",
+    "foreign_key_errors": [],
+    "database": "tmp/paragraph-002-cycle.sqlite",
+    "counts": {
+      "text_version": 13,
+      "analysis": 18,
+      "unit": 2719,
+      "evidence": 26,
+      "decision": 13,
+      "alignment": 84
+    },
+    "earlier_text_versions_and_units_unchanged": true,
+    "earlier_database_hash_unchanged": true
+  }
+}

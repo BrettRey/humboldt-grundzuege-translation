@@ -1,0 +1,7 @@
+# Representative difficult pilot: §147
+
+Brett approved a representative difficult pilot and requested status cleanup and alternatives to the unavailable 2017 critical edition. Execute the established single-passage comparison/audit method for the complete §147, printed469–470 / PDF479–480. Its dense argument, stipulated grammatical-form criterion, conditional word order, anaphora, Chinese noun/verb example and lexical-to-grammatical transition exercise difficulties absent from §§1–2.
+
+Freeze the full image-checked source and source-only packet; obtain three isolated candidates from the three previously working model families, with no old English, glossary answers or other candidates supplied. Compare every source sentence and consequential clause, synthesize against the source and termbase, obtain two fresh separate audits, then revise once and record all dispositions and remaining uncertainty. Preserve historic examples rather than silently modernizing them. No manuscript finality or specialist validation is implied.
+
+Stop after this section. Preserve all old translations, source inputs and terminology snapshots. Do not draft §3 or §148. The earlier Roughdraft waiver continues for preparatory artifacts; the completed English can be reviewed separately without asking Brett to adjudicate German. No new spending, access-control workaround, messages to others, commit or publication. A failed route may be reported rather than ground through; do not claim a completed three-candidate method without three usable candidate returns.

@@ -1,0 +1,10 @@
+/sources/raw/
+/tmp/
+.DS_Store
+__pycache__/
+/build/
+/releases/
+/.venv/
+/.humboldt.lock
+*.egg-info/
+/dist/

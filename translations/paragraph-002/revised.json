@@ -1,0 +1,18 @@
+{
+  "status": "Provisional research translation after one model-audit/revision cycle; English review pending.",
+  "sentences": [
+    {
+      "id": "g2:s1",
+      "english": "Further support for this comes from the striking similarity of the American languages."
+    },
+    {
+      "id": "g2:s2",
+      "english": "There have certainly been substantial differences in the development of the nations to which they belong, differences unmistakable in the languages themselves as well; yet the lack of alphabetic writing, and hence of literature in the proper sense, places them all, without exception, on an equal footing at a lower level."
+    },
+    {
+      "id": "g2:s3",
+      "english": "It is true that the sometimes wrongly asserted sameness of their structure disappears under more penetrating investigation, as does their deviation from the structure of all other languages, which has also been asserted. Nevertheless, all the languages of America do in fact exhibit broad features of similarity, and the north and south of the continent do not permit genuinely separating boundaries to be drawn even in this respect."
+    }
+  ],
+  "source_status": "Follows GS V (Leitzmann 1906), §2, printed365 / PDF375. Drechsel (2024:155) reports cancellation of the first seven paragraphs. Manuscript marks, extent and editorial meaning remain independently unverified. Retained as the printed reading; authorial finality unresolved."
+}

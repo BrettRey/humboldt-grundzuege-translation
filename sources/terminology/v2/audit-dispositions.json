@@ -1,0 +1,311 @@
+{
+  "recorded_at": "2026-11-15T16:23:36.324424+00:00",
+  "scope": "Only the supplied material was audited: 26 candidate headword records (Alphabet to Zeichen) with their quoted evidence and stated image-check statuses, the 22-candidate exclusion sample with one source window each, and the seven full source-control pages (printed pp.428, 455, 456, 462, 469, 470, 473). Particular checks requested were applied: Form's multiple bearers, Satz/Periode, recoverable grammar versus the sec.147 strict audible criterion, Hinzudenken, word/sign/symbol on p.428, faculty versus idiomatic Verstand, and contextual uses versus distinct lexical senses. OCR-only quotations were treated throughout as unchecked, exactly as labelled.",
+  "limits": "This is a single bounded pass over the supplied records and windows, not a complete independent reading of the work and not an image check: no page images were inspected, no external sources or memory of the work were used, and image-checked/OCR-only statuses are the records' own. 'Unsupported' therefore means unsupported within the supplied evidence (several definitions rest on two-to-five-word fragments); a fuller window may later justify some of them, so those findings call for added evidence or provisional marking rather than asserting falsity. The exclusion audit is limited to the sample as presented (one window per candidate regardless of occurrence count), and no new paragraph was translated.",
+  "audit_path": "sources/terminology/v2/independent-audit.json",
+  "audit_sha256": "41fc1bbc4860a21720aac0ab9194b5c30b1f28a6efbadc0e92d1e916bccedbee",
+  "runs": [
+    {
+      "name": "independent-omissions",
+      "status": "timed out without usable response; no finding adopted",
+      "receipt": {
+        "label": "independent-omissions",
+        "worker": "claude",
+        "command": [
+          "claude",
+          "-p",
+          "--agent",
+          "responsibility-reader",
+          "--tools",
+          "Read,Grep,Glob",
+          "--allowedTools",
+          "Read,Grep,Glob",
+          "--permission-mode",
+          "plan",
+          "--strict-mcp-config",
+          "--mcp-config",
+          "{\"mcpServers\":{}}",
+          "--no-chrome",
+          "--disable-slash-commands",
+          "--no-session-persistence",
+          "--output-format",
+          "json"
+        ],
+        "workdir": "/private/tmp/humboldt-independent-omissions-hortlvy5",
+        "prompt_sha256": "01ba4721bacea15641da745146b0241eb8ad493906bd7bb3ffa6f70fa76bf630",
+        "timeout_seconds": 360,
+        "exit_code": "timeout",
+        "elapsed_seconds": 360.0
+      },
+      "files": {
+        "tmp/termbase-v2/independent-omissions-receipt.json": "c48530175a94fc4b6fc5613cc150855cce49ddd5621323ef379f5063904b0001",
+        "tmp/termbase-v2/independent-omissions-prompt.md": "01ba4721bacea15641da745146b0241eb8ad493906bd7bb3ffa6f70fa76bf630"
+      },
+      "runtime_model": null
+    },
+    {
+      "name": "targeted-audit",
+      "status": "completed; findings source-checked and dispositioned by coordinator",
+      "receipt": {
+        "label": "targeted-audit",
+        "worker": "muse",
+        "command": [
+          "muse",
+          "exec",
+          "--preset",
+          "empty",
+          "--disable-web-tools",
+          "--disable-write",
+          "--disable-shell",
+          "--disable-reminders",
+          "--disable-request-user-input",
+          "--no-foreign-personal-context",
+          "--no-session-log",
+          "--max-model-steps",
+          "1",
+          "--approval-mode",
+          "never",
+          "--prompt-file",
+          "/private/tmp/humboldt-targeted-audit-ztzpkm19/input.md",
+          "--json"
+        ],
+        "workdir": "/private/tmp/humboldt-targeted-audit-ztzpkm19",
+        "prompt_sha256": "e99b86255c34606aa8d1800e39b1f34b4558a97ad2a66cc0ffa832b2d6de9b8c",
+        "timeout_seconds": 360,
+        "exit_code": 0,
+        "elapsed_seconds": 142.0,
+        "stdout_bytes": 517818,
+        "stderr_bytes": 216
+      },
+      "files": {
+        "tmp/termbase-v2/targeted-audit-receipt.json": "ab8c95a45891990dd568a846c3c786948a44e6ee175904ac967811fa495c3a0f",
+        "tmp/termbase-v2/targeted-audit-prompt.md": "e99b86255c34606aa8d1800e39b1f34b4558a97ad2a66cc0ffa832b2d6de9b8c",
+        "tmp/termbase-v2/targeted-audit-stdout.txt": "76b0306f6483d44de1e7284ef52debe365b45cf88c5d03d29eed6fa387295f71",
+        "tmp/termbase-v2/targeted-audit-stderr.txt": "e628b7585dab665ead190cd53689045a1a8daaef68a9aba72f06ef95a80e5702"
+      },
+      "runtime_model": "muse-wonder-full-1.0"
+    }
+  ],
+  "findings": [
+    {
+      "id": "F01",
+      "finding_index": 1,
+      "subject": "grammatische Form",
+      "disposition": "accepted with completed-record check",
+      "action": "Record the strict audible criterion and its independently anchored fixed-word-order condition at 469–470. Narrow the 453 use to analyst recoverability. The final late-reader return already contains the strict use; the audit saw an earlier partial packet, so the finding is not evidence that the final record lacked it.",
+      "term_ids": [
+        "lex:grammatische-form",
+        "lex:stillschweigende-grammatik",
+        "lex:ausdrueckliche-grammatik"
+      ],
+      "evidence_ids": [
+        "lex:grammatische-form:s01:e01",
+        "lex:grammatische-form:s02:e01",
+        "lex:grammatische-form:s03:e01",
+        "lex:grammatische-form:s04:e01",
+        "lex:grammatische-form:s04:e02",
+        "lex:grammatische-form:s04:e03",
+        "lex:grammatische-form:s04:e04",
+        "lex:stillschweigende-grammatik:s01:e01",
+        "lex:ausdrueckliche-grammatik:s01:e01"
+      ]
+    },
+    {
+      "id": "F02",
+      "finding_index": 2,
+      "subject": "Andeutung / Bezeichnung",
+      "disposition": "accepted with completed-record check",
+      "action": "Retain the grammatical indication use and distinguish substantive-concept designation from relation designation. Add explicit cross-links. The final late-reader return supplies the missing local evidence; the audit packet was partial.",
+      "term_ids": [
+        "lex:andeutung",
+        "lex:bezeichnung",
+        "lex:begriffsbezeichnung",
+        "lex:verhaeltnissbezeichnung"
+      ],
+      "evidence_ids": [
+        "lex:andeutung:s01:e01",
+        "lex:andeutung:s02:e01",
+        "lex:andeutung:s02:e02",
+        "lex:bezeichnung:s01:e01",
+        "lex:bezeichnung:s02:e01",
+        "lex:bezeichnung:s03:e01",
+        "lex:bezeichnung:s04:e01",
+        "lex:bezeichnung:s05:e01",
+        "lex:begriffsbezeichnung:s01:e01",
+        "lex:begriffsbezeichnung:s02:e01",
+        "lex:verhaeltnissbezeichnung:s01:e01"
+      ]
+    },
+    {
+      "id": "F03",
+      "finding_index": 3,
+      "subject": "Form",
+      "disposition": "partly accepted; universal definition rejected",
+      "action": "Group twelve contextual uses into four working groups while retaining every local use and its own rule. Supply the Stoff antecedent at 402 and separately anchored continuation at 438–439. Keep the law/direction/procedure stipulation local to §136: its position does not establish a universal definition of all earlier Form uses.",
+      "term_ids": [
+        "lex:form"
+      ],
+      "evidence_ids": [
+        "lex:form:s01:e01",
+        "lex:form:s01:e02",
+        "lex:form:s02:e01",
+        "lex:form:s02:e02",
+        "lex:form:s02:e03",
+        "lex:form:s02:e04",
+        "lex:form:s03:e01",
+        "lex:form:s03:e02",
+        "lex:form:s03:e03",
+        "lex:form:s03:e04",
+        "lex:form:s03:e05",
+        "lex:form:s03:e06",
+        "lex:form:s04:e01",
+        "lex:form:s04:e02",
+        "lex:form:s04:e03"
+      ]
+    },
+    {
+      "id": "F04",
+      "finding_index": 4,
+      "subject": "Satz / Periode",
+      "disposition": "accepted with local exception retained",
+      "action": "Default to sentence for the Satz/Periode comparison and rebuild Periode from the fuller 456 passage. Retain proposition/assertion for the independently evidenced preceding-assertions use at 433; the objection does not warrant a blanket ban on that rendering.",
+      "term_ids": [
+        "lex:satz",
+        "lex:periode"
+      ],
+      "evidence_ids": [
+        "lex:satz:s01:e01",
+        "lex:satz:s02:e01",
+        "lex:satz:s03:e01",
+        "lex:satz:s04:e01",
+        "lex:periode:s01:e01",
+        "lex:periode:s01:e02",
+        "lex:periode:s01:e03"
+      ]
+    },
+    {
+      "id": "F05",
+      "finding_index": 5,
+      "subject": "Hinzudenken",
+      "disposition": "accepted",
+      "action": "Expand the 463 quotation and label the three negative safeguards as translator cautions rather than source assertions. Link related tacit-grammar/introduced-into-language discussions without identifying the expressions.",
+      "term_ids": [
+        "lex:hinzudenken"
+      ],
+      "evidence_ids": [
+        "lex:hinzudenken:s01:e01",
+        "lex:hinzudenken:s01:e02"
+      ]
+    },
+    {
+      "id": "F06",
+      "finding_index": 6,
+      "subject": "Symbol",
+      "disposition": "partly accepted; apparatus-only inference rejected",
+      "action": "Add the active main-text statement at 429 that natural form remains independently substantial. It follows the 428 page supplied to the auditor; its existence defeats the apparatus-only inference. Add the 455 inseparability condition and label that expression a contextual/metaphorical use, not proof of a second technical doctrine.",
+      "term_ids": [
+        "lex:symbol"
+      ],
+      "evidence_ids": [
+        "lex:symbol:s01:e01",
+        "lex:symbol:s01:e02",
+        "lex:symbol:s02:e01"
+      ]
+    },
+    {
+      "id": "F07",
+      "finding_index": 7,
+      "subject": "Zeichen",
+      "disposition": "accepted",
+      "action": "Expand 461 to include the parallel replacement of form by concept; define this local opposition without importing §147’s strict criterion or asserting a contribution absent from the passage.",
+      "term_ids": [
+        "lex:zeichen"
+      ],
+      "evidence_ids": [
+        "lex:zeichen:s01:e01",
+        "lex:zeichen:s02:e01",
+        "lex:zeichen:s03:e01",
+        "lex:zeichen:s04:e01",
+        "lex:zeichen:s05:e01"
+      ]
+    },
+    {
+      "id": "F08",
+      "finding_index": 8,
+      "subject": "Verstand",
+      "disposition": "accepted",
+      "action": "Merge faculty activities as contextual uses; merge the qualifying sense idioms separately. Include faculty use im Verstande des Redenden at 462 and the idiom at 451. The string im Verstande alone is not a sense diagnostic.",
+      "term_ids": [
+        "lex:verstand"
+      ],
+      "evidence_ids": [
+        "lex:verstand:s01:e01",
+        "lex:verstand:s01:e02",
+        "lex:verstand:s01:e03",
+        "lex:verstand:s01:e04",
+        "lex:verstand:s01:e05",
+        "lex:verstand:s02:e01",
+        "lex:verstand:s02:e02"
+      ]
+    },
+    {
+      "id": "F09",
+      "finding_index": 9,
+      "subject": "Vermoegen",
+      "disposition": "accepted",
+      "action": "Retain one headword with explicitly bearer-conditioned English: faculties of the soul at 421, capacity of a language at 434. Quote both passages; neither the local contrast nor these English choices establish a universal Kraft/Vermögen taxonomy.",
+      "term_ids": [
+        "lex:vermoegen"
+      ],
+      "evidence_ids": [
+        "lex:vermoegen:s01:e01",
+        "lex:vermoegen:s02:e01",
+        "lex:vermoegen:s02:e02",
+        "lex:vermoegen:s03:e01"
+      ]
+    },
+    {
+      "id": "F10",
+      "finding_index": 10,
+      "subject": "Weltansicht",
+      "disposition": "accepted",
+      "action": "State that the individual standpoint is possible independently of language and is intensified through it. Merge the individual/language bearer uses under one working sense; do not infer shared ideology.",
+      "term_ids": [
+        "lex:weltansicht"
+      ],
+      "evidence_ids": [
+        "lex:weltansicht:s01:e01",
+        "lex:weltansicht:s01:e02"
+      ]
+    },
+    {
+      "id": "F11",
+      "finding_index": 11,
+      "subject": "Denkform / Gedankenform (and Sprachform)",
+      "disposition": "accepted with lexical distinction retained",
+      "action": "Link Denkform and Gedankenform as near-equivalent related compounds without inventing a doctrinal opposition. They remain distinct German headwords, rather than being treated as inflections of one word. Merge the generic and specifically linguistic Sprachform uses while retaining the local conditions.",
+      "term_ids": [
+        "lex:denkform",
+        "lex:gedankenform",
+        "lex:sprachform"
+      ],
+      "evidence_ids": [
+        "lex:denkform:s01:e01",
+        "lex:gedankenform:s01:e01",
+        "lex:sprachform:s01:e01",
+        "lex:sprachform:s01:e02"
+      ]
+    },
+    {
+      "id": "F12",
+      "finding_index": 12,
+      "subject": "EXCLUSION SAMPLE: early:0025 Allein; early:0658 Mensch; early:0659 Menschen",
+      "disposition": "accepted; coverage claim narrowed",
+      "action": "Replace the misleading ordinary-word category boilerplate, especially for ordinary nouns. Record selection at candidate-form/page level. The final report expressly disclaims a fresh sense annotation of every occurrence; one audit window per candidate cannot establish such coverage or demonstrate that the exclusions are false.",
+      "term_ids": [],
+      "evidence_ids": []
+    }
+  ],
+  "remaining_material_findings": 0,
+  "qualification": "The independent pass used source text, not page images, and an earlier partial draft packet. It was not a full independent termbase review. Final corrections were checked by coordinator/readers; no second independent audit of the final catalog is claimed."
+}

@@ -1,0 +1,358 @@
+[
+  {
+    "id": "LATE-01",
+    "printed_page": 445,
+    "pdf_page": 455,
+    "section": 127,
+    "terms": [
+      "Redeverbindung",
+      "Grammatik",
+      "Periode"
+    ],
+    "quote": "Hier haben wir es mehr mit\ndem Menschen selbst, und der Art, wie sich die Sprache in ihm\ngestaltet, und aus ihm entwickelt, zu thun, verfahren subjectiver,\nmüssen zwar dieselben Gegenstände in Betrachtung ziehen, fassen\nsie aber von einer andren Seite auf,",
+    "meaning": "The inquiry concerns humans and language forming in them, rather than only logical organization of the grammatical whole.",
+    "implication": "Keep the investigation of speech-connection distinct from the narrower grammatical discipline.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "LATE-02",
+    "printed_page": 447,
+    "pdf_page": 457,
+    "section": 129,
+    "terms": [
+      "Rede",
+      "Wort",
+      "Grammatik"
+    ],
+    "quote": "Wenn man also, zum Behufe der Zergliederung wirklicher 129.\nSprachen, dem Gange der Natur folgen will, darf man sich die\nGrammatik nicht als eine Zusammenfügung der Rede aus Wörtern,\nsondern nur als eine Zerschlagung derselben in Wörter denken.\nDie Rede, und nicht das Wort ist das in der Natur zuerst und\nursprünglich Gedachte.",
+    "meaning": "Analysis should divide speech into words: the author posits whole speech as naturally prior to the word.",
+    "implication": "Preserve the direction whole speech to words.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "LATE-03",
+    "printed_page": 449,
+    "pdf_page": 459,
+    "section": 130,
+    "terms": [
+      "Typus",
+      "Construction",
+      "Redetheile"
+    ],
+    "quote": "Es ist aber wichtig, bei der Zergliederung\nder Sprachen und der Untersuchung ihres Baues den Typus der\nConstruction voranzustellen, und die Beschaffenheit der einzelnen\nRedetheile aus ihm abzuleiten.",
+    "meaning": "The constructional pattern is prior to the character of individual parts of speech.",
+    "implication": "Typus here is an organizing pattern, not a class of languages or a modern construction-theoretic term.",
+    "verification": "image-checked",
+    "issue": "Printed 449/PDF 459 image confirms the quoted anchor; no correction needed."
+  },
+  {
+    "id": "LATE-04",
+    "printed_page": 450,
+    "pdf_page": 460,
+    "section": 131,
+    "terms": [
+      "Begriffe",
+      "Thatsachen",
+      "Grammatik"
+    ],
+    "quote": "Man muss nur nicht die\n   Gebiete der Begriffe und der Thatsachen mit einander verwechslen,\n  nicht unvollständiger Untersuchung durch Aufsuchung scheinbar\n  philosophischer Gründe Allgemeingültigkeit verleihen wollen.",
+    "meaning": "Philosophical determination cannot replace inadequate factual inquiry.",
+    "implication": "Keep conceptual necessity and historically established facts distinct.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "LATE-05",
+    "printed_page": 451,
+    "pdf_page": 461,
+    "section": 132,
+    "terms": [
+      "Freiheit",
+      "Gesetzmässigkeit",
+      "Organismus"
+    ],
+    "quote": "Denn die Freiheit fordert die Gesetzmässig-\n     keit zu ihrer Sicherung, und die Gesetzmässigkeit hat in der Sprache\nkeinen bestimmten Erfolg, sondern nur die Möglichkeit der Frei-\n       heit zum Ziel.",
+    "meaning": "Grammatical regularity secures freedom and aims at its possibility, not a predetermined result.",
+    "implication": "Do not treat Organismus as a merely bodily mechanism.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "LATE-06",
+    "printed_page": 452,
+    "pdf_page": 462,
+    "section": 133,
+    "terms": [
+      "Logik",
+      "Grammatik",
+      "Ich",
+      "Du"
+    ],
+    "quote": "Die Grammatik, vermöge\nder Eigenthümlichkeit der Sprache, den Gedanken aus sich hinaus-\nund an einen Andren gerichtet sich gegenüberzustellen, bringt das\nexistentielle Setzen, und das Darstellen des Subjects, als eines\nSelbstthätigen, das Praedicat handelnd mit sich V^erbindenden, so\nwie den Begriff der in Wechselwirkung stehenden Persönlichkeit,\ndas Ich und das Du, hinzu.",
+    "meaning": "Grammar adds existential positing, an active subject and reciprocal personality to logic’s impersonal concepts.",
+    "implication": "Keep this specific logic/grammar distinction and its consequences for verb and pronoun.",
+    "verification": "OCR-only",
+    "issue": "OCR V^erbindenden remains uncorrected."
+  },
+  {
+    "id": "LATE-07",
+    "printed_page": 454,
+    "pdf_page": 464,
+    "section": 134,
+    "terms": [
+      "Ansicht",
+      "technische Mittel",
+      "Laute"
+    ],
+    "quote": "Die grammatische Verschiedenheit der\n  Sprachen ist nemlich, wenn man vom Allgemeinen zum Besondren\n  herabsteigt,\n        a. theils eine der idealen Ansicht der grammatischen Ver-\n   hältnisse,\n        b. theils eine der technischen Mittel, dieselben zu bezeichnen,\n        c. theils eine der zu dieser Bezeichnung angewandten Laute.",
+    "meaning": "Variation has three levels: ideal view of relations, technical designation, and sounds.",
+    "implication": "Do not conflate view, means and actual sounds.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "LATE-08",
+    "printed_page": 455,
+    "pdf_page": 465,
+    "section": 136,
+    "terms": [
+      "Form",
+      "Denkform",
+      "Sprachform"
+    ],
+    "quote": "Der Grund der Schwierigkeit liegt aber hauptsächlich darin,\ndass hier nicht Form von Materie, sondern Form von Form, die\ndes Denkens, welche der Sprache gleich unentbehrlich ist, von der\nihr eigenthümlichen gesondert werden muss. Unter Form kann\nman nur Gesetz, Richtung, Verfahrungsweise verstehen.",
+    "meaning": "The separation is form from form: thought-form from language’s own form. Form is law, direction and procedure.",
+    "implication": "Form must allow a governing mode of operation, not merely outward shape.",
+    "verification": "image-checked",
+    "issue": "Printed 455/PDF 465 image confirms the quoted anchor; no correction needed."
+  },
+  {
+    "id": "LATE-09",
+    "printed_page": 456,
+    "pdf_page": 466,
+    "section": 136,
+    "terms": [
+      "Gedankenform",
+      "Satz",
+      "Sprachform",
+      "Periode"
+    ],
+    "quote": "dass die Gedankenform zur\n     Einheit des Satzes, des einfachen und zusammengesetzten,             die\n     Sprachform zur Einheit der Periode strebt. In dem Satze ist das\n     Princip der Einheit bloss das Gedankenverhältniss seiner Theile,\n     in der Periode treten zu diesem, mit beständiger Rücksicht auf\n     Verständlichkeit und Aussage, noch die Verhältnisse der Sprache\n     hinzu,",
+    "meaning": "Thought-form tends toward unity of the simple or compound Satz; language-form toward Periode, which adds linguistic relations.",
+    "implication": "Do not render Satz and Periode indiscriminately by the same sentence term.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "LATE-10",
+    "printed_page": 457,
+    "pdf_page": 467,
+    "section": 137,
+    "terms": [
+      "grammatische Form",
+      "Verständniss",
+      "Gedankenverbindung"
+    ],
+    "quote": "dass die grammatische\nForm ganz für und durch die Sprache bestehe, oder mit andren\nWorten, dass das Verständniss durch die grammatische Form und\nan ihrer Hand, nicht durch den Sinn der Worte und ihre Ge-\n                           dankenverbindung, oder doch durch diese nur unterstützend, ge-\n         leitet werde.",
+    "meaning": "Understanding should be led by grammatical form, with lexical sense and thought-connection supporting it.",
+    "implication": "Do not identify formal guidance with successful inference from lexical meaning.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "LATE-11",
+    "printed_page": 458,
+    "pdf_page": 468,
+    "section": 138,
+    "terms": [
+      "Construction",
+      "Sprachform",
+      "Denkform"
+    ],
+    "quote": "Diese Con-\nstructionen aber entspringen nicht aus den blossen Functionen des\nDenkens in der Sprache, man würde bei systematischer Aufzählung\naller zusammengesetzten Sätze nicht auf sie kommen, sie lassen sich\nnur, einmal gegeben, logisch erklären und rechtfertigen. Sie gehören\nalso eigentlich der Sprachform, und da sie nicht allen Sprachen\neigen sind, einer bestimmten Ansicht derselben an.",
+    "meaning": "Accusative-infinitive and absolute participial constructions are not deducible from thought-functions, though justifiable once given.",
+    "implication": "Distinguish language-specific construction from necessary thought-form.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "LATE-12",
+    "printed_page": 459,
+    "pdf_page": 469,
+    "section": 139,
+    "terms": [
+      "Anschauung",
+      "Welt",
+      "Sprachform"
+    ],
+    "quote": "Indem sie aber die\nWirklichkeit symbolisirt, die Rede ein Bild der Gegenstände und\nVorgänge ist, die sie betrifft, wirkt die Anschauung der Welt auf\nsie; was in der Wirklichkeit den Sinn am meisten anregt, wird\nleicht in sie übergetragen.",
+    "meaning": "Intuition of the world influences language alongside thought-laws and language’s own form, stated around this excerpt.",
+    "implication": "Preserve three distinct principles; Anschauung der Welt is not a lexical occurrence of Weltansicht.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "LATE-13",
+    "printed_page": 460,
+    "pdf_page": 470,
+    "section": 140,
+    "terms": [
+      "Redeform",
+      "Einbildungskraft",
+      "Gedanke"
+    ],
+    "quote": "Denn wie ein\nGedicht im Dichter sehr oft durch den blossen Anklang eines\nRhythmus entsteht, so erzeugt die rednerisch behandelte gram-\n                 matische Form den Gedanken überhaupt, und erweitert, oder be-\n             stimmt seinen Umfang.",
+    "meaning": "Rhetorically handled grammatical form can occasion thought and extend or determine its scope.",
+    "implication": "Preserve the productive role of form, beyond packaging antecedent thought.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "LATE-14",
+    "printed_page": 461,
+    "pdf_page": 471,
+    "section": 141,
+    "terms": [
+      "Sprachform",
+      "Gedankenform",
+      "Chinesisch"
+    ],
+    "quote": "Denn das Chinesische\nscheint, w^as es an grammatischem Reichthum aufgiebt, an reiner\nIntellectualität zu gewinnen.",
+    "meaning": "Chinese appears to gain pure intellectuality where it relinquishes grammatical richness.",
+    "implication": "Retain scheint and this qualification to the hierarchy.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "LATE-15",
+    "printed_page": 462,
+    "pdf_page": 472,
+    "section": null,
+    "terms": [
+      "Typus",
+      "Sprachgesetz",
+      "Grammatik"
+    ],
+    "quote": "so muss die als Typus im Verstände des Redenden\n  ruhende, oder genauer die als Sprachgesetz in ihm wirkende Gram-\n         matik von der in der Sprache liegenden unterschieden werden.",
+    "meaning": "Grammar operative as law in the speaker differs from grammar present in language.",
+    "implication": "Keep mental operation and linguistic embodiment apart.",
+    "verification": "OCR-only",
+    "issue": "Section opener is OCR 42.; context indicates 142, but not image-checked. Section null."
+  },
+  {
+    "id": "LATE-16",
+    "printed_page": 464,
+    "pdf_page": 474,
+    "section": 143,
+    "terms": [
+      "Hinzudenken",
+      "Sachbegriff",
+      "grammatische Verhältnisse"
+    ],
+    "quote": "dass aber, wo eine solche Bezeichnung fehlt, oder durch\n   Sachbegriff'e vermittelt wird, in der Rede, grammatisch betrachtet,\n   Lücken entstehen, welche der Gedanke zu ergänzen hat.",
+    "meaning": "Absent or substantively mediated grammatical designation leaves grammatical gaps for thought to fill.",
+    "implication": "Hinzudenken mentally supplies a relation or determination; do not insert an overt word.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "LATE-17",
+    "printed_page": 464,
+    "pdf_page": 474,
+    "section": 144,
+    "terms": [
+      "grammatische Form",
+      "grammatisches Wort",
+      "Sachbegriff"
+    ],
+    "quote": "Wo die in der Rede beabsichtete bestimmte Art der Wort-\n                         verbindung ihr eignes, keinen neuen Sachbegrifif herbeiführendes\n   Zeichen findet, da ist eine grammatische Form, oder ein gram-\n                     matisches Wort vorhanden.",
+    "meaning": "A grammatical form or word has its own sign for the intended connection without introducing a substantive concept.",
+    "implication": "Distinguish grammatical form, grammatical word and substantive concept; form is not inflection alone.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "LATE-18",
+    "printed_page": 465,
+    "pdf_page": 475,
+    "section": 144,
+    "terms": [
+      "Formalität",
+      "Form",
+      "Materie"
+    ],
+    "quote": "Auf\n diesem Wecken der Formalität im Geiste aber beruht, weit mehr,\n als auf der Hülfe, die sie dem Verständnisse leistet, die Wichtig-\n       keit der grammatischen Formen in der Sprache, und ihr Einfluss\n auf das Denkvermögen.",
+    "meaning": "The importance of grammatical forms rests chiefly on awakening formality, beyond helping understanding.",
+    "implication": "Do not reduce form to an informational cue.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "LATE-19",
+    "printed_page": 468,
+    "pdf_page": 478,
+    "section": 146,
+    "terms": [
+      "Sprache",
+      "Wirkung",
+      "Rückwirkung",
+      "Typus"
+    ],
+    "quote": "immer wieder selbst zeugt, wie sie erzeugt\nwird, dass Wirkung und Rücivwirkung immer in ihr energisch\nverbunden sind, und dass auch ausserdem die einmal, unabhängig\nvom Individuum geformte sich diesem, als eine fremde und äussere\nMacht aufdringt.",
+    "meaning": "Language generates as it is generated; historically formed language confronts the individual as an external power.",
+    "implication": "Keep reciprocal production, not an unconditional one-way linguistic determination.",
+    "verification": "OCR-only",
+    "issue": "The preceding rejection of language as cause of its inward type starts on printed 467. OCR Rücivwirkung remains uncorrected."
+  },
+  {
+    "id": "LATE-20",
+    "printed_page": 469,
+    "pdf_page": 479,
+    "section": 147,
+    "terms": [
+      "grammatische Form",
+      "Andeutung",
+      "Begriffsbezeichnung",
+      "Verhältnissbezeichnung"
+    ],
+    "quote": "Ich verstehe daher\nunter grammatischer Form hier eine so feste und reine Andeutung\ndes grammatischen Verhältnisses in dem vernehmbaren Theile der\nSprache selbst, dass das angedeutete grammatische Verhältniss\ndarin bestimmt erkannt wird, und die Art der Andeutung gar\nnicht für eine Begriffsbezeichnung genommen werden kann, sondern\nunmittelbar durch sich selbst den Unterschied zwischen Begriffs-\n      und Verhältnissbezeichnung offenbar macht.",
+    "meaning": "The criterion is an audible indication fixed and pure enough to identify a grammatical relation and distinguish relation- from concept-designation.",
+    "implication": "Andeutung can be strong and constitutive here; do not assume a weak or optional hint.",
+    "verification": "OCR-only",
+    "issue": "The allowance for strictly fixed word order continues across printed 469–470."
+  },
+  {
+    "id": "LATE-21",
+    "printed_page": 471,
+    "pdf_page": 481,
+    "section": 148,
+    "terms": [
+      "Grammatik",
+      "Sprache",
+      "Redende"
+    ],
+    "quote": "Diesen Unterschied\n zwischen der in der Sprache wirklich enthaltenen, und der von\n den Redenden in sie gelegten, ihr gleichsam zugetragnen Gram-\n        matik vermischen und verkennen zu wollen, hiesse gewissermassen\n allem vergleichenden Sprachstudium, insofern es sich auf Gram-\n        matik bezieht, ein Ende machen.",
+    "meaning": "Conflating grammar contained in language with grammar brought by speakers would undermine grammatical comparison.",
+    "implication": "Preserve intrinsic versus supplied grammar without implying speaker ignorance.",
+    "verification": "image-checked",
+    "issue": "Printed 471/PDF 481 confirms this contrast. Preceding OCR Begritf is scan Begriff; that word is outside this quotation. Quoted wording agrees."
+  },
+  {
+    "id": "LATE-22",
+    "printed_page": 473,
+    "pdf_page": 483,
+    "section": 149,
+    "terms": [
+      "grammatische Andeutung",
+      "grammatische Form",
+      "Gränzlinie"
+    ],
+    "quote": "Die Gränzlinie zwischen dieser doppelten\nArt der Grammatik kann keine scharf abschneidende seyn, da\ndie Annäherung der grammatischen Andeutung an die acht gram-\n           matische Form eine unendliche Menge von Graden zulässt.",
+    "meaning": "Tacit and explicit grammar have no sharp boundary: indication approaches genuine form by indefinitely many degrees.",
+    "implication": "Do not turn the contrast into a strict binary or rigid taxonomy.",
+    "verification": "OCR-only",
+    "issue": ""
+  }
+]

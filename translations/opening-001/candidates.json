@@ -1,0 +1,333 @@
+{
+  "status": "Frozen fresh candidates; not fidelity-approved.",
+  "candidates": [
+    {
+      "id": "claude",
+      "model": "claude-fable-5-2",
+      "prompt_sha256": "d2f6923db2f49eb1c92e92f5f18323394bd1492fb57a10ef592de630f187f7fe",
+      "exit_code": 0,
+      "elapsed_seconds": 79.4,
+      "raw_stdout_sha256": "18629cb876a1730af998fd26e1faa7d94415df2a3b16e8035d7e3bb9b19bd98f",
+      "sentences": [
+        {
+          "id": "g:s1",
+          "english": "If it perhaps seems strange to make precisely the languages of one part of the world the object of an inquiry, this view, at first sight merely geographical, is justified in the case of America by the separate situation of this part of the world and the particular character of its languages."
+        },
+        {
+          "id": "g:s2",
+          "english": "In Europe, Asia and Africa languages so different have flowed together that the study of languages, at least, can find no occasion to investigate them precisely in the connection into which, always more or less by chance, they have as it happens entered within the boundaries of the same part of the world."
+        },
+        {
+          "id": "g:s3",
+          "english": "Moreover, the language stocks of each of these show the most considerable differences, both in their structure and in the stages of development they have attained."
+        },
+        {
+          "id": "g:s4",
+          "english": "America, by contrast, apart from the most recent European immigrations, which have touched the inner national individuality of this part of the world only through their destructive influence, has undergone either none at all or only such as have left scarcely a trace that could be called historical."
+        },
+        {
+          "id": "g:s5",
+          "english": "Whatever, therefore, the origin of the American peoples and languages may be, their fortunes have for many centuries been shaped only through themselves and through contact with one another."
+        },
+        {
+          "id": "g:s6",
+          "english": "The multitude, too vast to survey, of tribes, hordes and families from the farthest north to the farthest south of this extensive part of the world have, for as long as we know its history and down to the European subjugation, free from foreign influence, come into a ferment of their powers only through themselves, and have imparted to one another only their own individualities."
+        },
+        {
+          "id": "g:s7",
+          "english": "Whatever foreign matter may therefore have been brought in at a still earlier time has afterwards, for centuries, undergone this abrading influence of an indigenous intercourse confined to itself."
+        }
+      ],
+      "notes": [
+        {
+          "source_ids": [
+            "g:s1",
+            "g:s2",
+            "g:s4",
+            "g:s6"
+          ],
+          "issue": "\"Welttheil\" recurs in four sentences (\"eines Welttheils\", \"dieses Welttheils\", \"desselben Welttheils\", \"des ausgedehnten Welttheils\") and names America as a single unit alongside \"Europa, Asien und Afrika\".",
+          "choice": "\"part of the world\" throughout, keeping the repetition visible.",
+          "alternative": "\"continent\"; \"quarter of the world\".",
+          "uncertainty": "\"Continent\" reads more smoothly but may suggest two Americas to a modern reader; \"quarter\" imposes a count the German does not state. Low uncertainty about sense, moderate about register."
+        },
+        {
+          "source_ids": [
+            "g:s1"
+          ],
+          "issue": "\"diese, dem ersten Anblick nach, bloss geographische Ansicht\": \"Ansicht\" is a way of regarding the material, and \"dem ersten Anblick nach\" restricts \"bloss geographische\".",
+          "choice": "\"this view, at first sight merely geographical\"; the qualification is kept attached to \"merely geographical\", so the text does not concede that the view is in fact only geographical.",
+          "alternative": "\"this approach\", \"this perspective\", \"this way of looking at the matter\".",
+          "uncertainty": "Whether \"Ansicht\" is closer to a method or to a standpoint is open; the context summary of §7 (representation \"an sich\" versus geographical and historical connections) is compatible with either."
+        },
+        {
+          "source_ids": [
+            "g:s2"
+          ],
+          "issue": "\"wenigstens die Sprachkunde\" limits the claim to one discipline; \"Verbindung\" and \"nun eben\" mark the grouping as contingent.",
+          "choice": "\"the study of languages, at least\"; \"connection\"; \"as it happens\" for \"nun eben\", alongside \"always more or less by chance\" for \"immer mehr oder weniger zufällig\".",
+          "alternative": "\"linguistics\" or \"linguistic science\" for \"Sprachkunde\"; \"combination\" or \"association\" for \"Verbindung\".",
+          "uncertainty": "\"Linguistics\" may be anachronistic for the period term; the packet fixes no terminology. \"wenigstens\" implies that other inquiries might have occasion to study them so, and the placement of \"at least\" is meant to keep that."
+        },
+        {
+          "source_ids": [
+            "g:s3",
+            "g:s6"
+          ],
+          "issue": "Language groups versus human groups: \"Sprachstämme\" in g:s3 against \"Stämmen, Horden und Familien\" in g:s6. Also \"eines jeden\" in g:s3.",
+          "choice": "\"language stocks\" for \"Sprachstämme\"; \"tribes, hordes and families\" for the human groups, with \"hordes\" kept as the author's historical term. \"of each of these\" for \"eines jeden\", taken as referring to the three parts of the world named in g:s2.",
+          "alternative": "\"language families\" for \"Sprachstämme\"; \"bands\" for \"Horden\".",
+          "uncertainty": "\"Language families\" would collide with \"Familien\" in g:s6, where the series with \"Stämmen\" and \"Horden\" suggests human kin groups. That reading of \"Familien\" is an inference from the series, not stated in the text."
+        },
+        {
+          "source_ids": [
+            "g:s3"
+          ],
+          "issue": "\"in den Stufen der von ihnen erreichten Bildung\": \"Bildung\" may mean formation (close to \"Bau\") or cultivation, and \"Stufen\" with \"erreichten\" implies a graded scale.",
+          "choice": "\"the stages of development they have attained\", keeping the graded, evaluative sense without endorsing it.",
+          "alternative": "\"the degrees of cultivation they have reached\"; \"the levels of formation they have attained\".",
+          "uncertainty": "Consequential and unresolved. \"sowohl in ihrem Bau, als in ...\" sets \"Bildung\" apart from structure, which favours something other than mere formation, but §1 alone does not settle how strongly evaluative the term is. The parallel fragment's different sentence at this position was not used."
+        },
+        {
+          "source_ids": [
+            "g:s4",
+            "g:s6"
+          ],
+          "issue": "Significant repetition: \"die innere Nationaleigenthümlichkeit\" in g:s4 and \"nur ihre Eigenthümlichkeiten\" in g:s6. Also the elliptical \"entweder gar keine, oder nur solche\" in g:s4.",
+          "choice": "\"inner national individuality\" and \"their own individualities\", so the link stays audible. \"none at all or only such\" is left elliptical, with \"immigrations\" understood from \"Einwanderungen\".",
+          "alternative": "\"peculiarity\" and \"peculiarities\" (in the older sense of what is proper to something); \"distinctive character\" and \"distinctive traits\".",
+          "uncertainty": "\"Individualities\" is slightly stiff in English; \"peculiarities\" risks being read as \"oddities\". The \"only\" in g:s6 is taken to mean that nothing foreign was exchanged."
+        },
+        {
+          "source_ids": [
+            "g:s6"
+          ],
+          "issue": "\"bis auf die Europaeische Unterjochung\" can be temporal (\"up to\") or exceptive (\"except for\"). The attachment of \"frei von fremdem Einfluss\" within \"sind ... gerathen\" is also open, as is the sense of \"in Gährung ihrer Kräfte gerathen\".",
+          "choice": "Temporal \"down to the European subjugation\", coordinated with \"for as long as we know its history\" (\"solange wir die Geschichte desselben kennen\"). \"free from foreign influence\" is treated as an adjunct to \"have come into a ferment of their powers\". \"only through themselves\" matches g:s5 for the repeated \"nur durch sich selbst\".",
+          "alternative": "\"free from foreign influence except for the European subjugation\"; or a copular reading, \"have been free from foreign influence, have come into ferment only through themselves\". \"forces\" or \"energies\" for \"Kräfte\".",
+          "uncertainty": "Consequential. Both readings of \"bis auf\" fit the context, since g:s4 makes the European arrival an exception with \"ausser\". The packet's own anchors (a:s6c2, a:s6c5) mark the parse as provisional."
+        },
+        {
+          "source_ids": [
+            "g:s7"
+          ],
+          "issue": "\"diesen abschleifenden Einfluss des auf sich selbst beschränkten einheimischen Verkehrs\": the demonstrative \"diesen\", the image in \"abschleifenden\", and the sense of \"Verkehr\". Also the modal \"eingebracht seyn möchte\".",
+          "choice": "\"this abrading influence of an indigenous intercourse confined to itself\", with \"this\" kept as pointing back to the process in g:s5 and g:s6. \"may have been brought in\" for the concessive modal. \"undergone\" repeats the rendering of \"erfahren\" in g:s4.",
+          "alternative": "\"wearing-down\", \"smoothing\" or \"levelling\" for \"abschleifenden\"; \"native\" for \"einheimischen\"; \"dealings\" or \"commerce\" for \"Verkehr\"; \"anything foreign\" for \"Fremdes\".",
+          "uncertainty": "\"abschleifen\" may suggest wearing away or polishing smooth; \"abrading\" leans towards the first. \"Fremdes\" is unspecified as to peoples, languages or customs, and \"foreign matter\" is meant to stay equally open."
+        }
+      ]
+    },
+    {
+      "id": "muse",
+      "model": "muse-wonder-full-1.0",
+      "prompt_sha256": "d2f6923db2f49eb1c92e92f5f18323394bd1492fb57a10ef592de630f187f7fe",
+      "exit_code": 0,
+      "elapsed_seconds": 24.5,
+      "raw_stdout_sha256": "dc899ce14b5fd53d7a31d2f3038b85d38e95023446cb5c5c48c0cb7e8e9ac6a1",
+      "sentences": [
+        {
+          "id": "g:s1",
+          "english": "If it may perhaps seem strange to make precisely the languages of one part of the world the subject of an inquiry, then, in the case of America, this at first sight merely geographical view justifies itself by the separate position of this part of the world and by the particular character of its languages."
+        },
+        {
+          "id": "g:s2",
+          "english": "In Europe, Asia, and Africa languages so different have flowed together that at least the study of language can find no occasion to investigate them precisely in the combination into which they have, always more or less by chance, now come within the borders of the same part of the world."
+        },
+        {
+          "id": "g:s3",
+          "english": "The language stocks of each also show the most significant differences, both in their structure and in the stages of development attained by them."
+        },
+        {
+          "id": "g:s4",
+          "english": "America, by contrast, apart from the most recent European immigrations, which have touched the inner national distinctiveness of this part of the world only through their destructive influence, has experienced either none at all, or only such as have left scarcely a trace that could be called historical."
+        },
+        {
+          "id": "g:s5",
+          "english": "Whatever, therefore, the origin of the American peoples and languages may be, their fortunes over many centuries have taken shape only through themselves, and through contact among one another."
+        },
+        {
+          "id": "g:s6",
+          "english": "The multitude of tribes, hordes, and families, beyond survey, from the uppermost north to the lowermost south of the extensive part of the world have, for as long as we know its history, until the European subjugation, free from foreign influence, come only through themselves into a ferment of their forces, and have imparted only their own peculiarities to one another."
+        },
+        {
+          "id": "g:s7",
+          "english": "Whatever foreign element may therefore have been brought in at a still earlier time has afterwards, for centuries, undergone this smoothing influence of native intercourse confined to itself."
+        }
+      ],
+      "notes": [
+        {
+          "source_ids": [
+            "g:s1",
+            "g:s2",
+            "g:s3",
+            "g:s6"
+          ],
+          "issue": "Welttheil denotes a division of the world rather than a continent in the strict modern geographical sense.",
+          "choice": "part of the world",
+          "alternative": "continent",
+          "uncertainty": "Medium: continent is more idiomatic for America, Europe, Asia, and Africa, but narrows Welttheil."
+        },
+        {
+          "source_ids": [
+            "g:s2"
+          ],
+          "issue": "Sprachkunde in wenigstens die Sprachkunde names a field of inquiry without fixing its modern disciplinary boundaries.",
+          "choice": "the study of language",
+          "alternative": "linguistics",
+          "uncertainty": "Medium: linguistics may import later disciplinary associations."
+        },
+        {
+          "source_ids": [
+            "g:s3"
+          ],
+          "issue": "Sprachstämme must be distinguished from the human Stämmen in g:s6; Bau and Bildung in in ihrem Bau and Stufen der von ihnen erreichten Bildung are correspondingly language-related.",
+          "choice": "language stocks; structure; stages of development attained",
+          "alternative": "language families; construction; stages of cultivation or formation attained",
+          "uncertainty": "High for Bildung, which can include formation, development, and cultivation; language families may also imply a more specific genealogical model than Sprachstämme states here."
+        },
+        {
+          "source_ids": [
+            "g:s4"
+          ],
+          "issue": "In entweder gar keine, oder nur solche erfahren, the understood noun is Einwanderungen; innere Nationaleigenthümlichkeit combines national with distinctive peculiarity.",
+          "choice": "has experienced either none at all, or only such; inner national distinctiveness",
+          "alternative": "has experienced either no immigrations at all, or only such immigrations; inner national peculiarity or distinctive national character",
+          "uncertainty": "Medium: supplying immigrations makes the ellipsis explicit; distinctiveness avoids the possibly pejorative modern tone of peculiarity while retaining Eigenthümlichkeit."
+        },
+        {
+          "source_ids": [
+            "g:s5"
+          ],
+          "issue": "ihre Geschicke covers the subsequent course of both Völker und Sprachen, not only political events.",
+          "choice": "their fortunes have taken shape",
+          "alternative": "their destinies, or their history, have been shaped",
+          "uncertainty": "Medium: destinies is stronger and more teleological, while history is narrower than Geschicke."
+        },
+        {
+          "source_ids": [
+            "g:s6"
+          ],
+          "issue": "in Gährung ihrer Kräfte gerathen uses a ferment metaphor for internally generated activity; Horden is retained as the author's historical term for a human group.",
+          "choice": "come into a ferment of their forces; hordes",
+          "alternative": "entered into a fermentation of their powers; bands",
+          "uncertainty": "Medium: ferment preserves Gährung without specifying whether the implied activity is conflict, movement, or mutual stimulation."
+        },
+        {
+          "source_ids": [
+            "g:s7"
+          ],
+          "issue": "abschleifenden Einfluss des auf sich selbst beschränkten einheimischen Verkehrs combines an image of grinding or wearing smooth with Verkehr as reciprocal dealings.",
+          "choice": "smoothing influence of native intercourse confined to itself",
+          "alternative": "levelling or wearing-down influence of indigenous interaction restricted to itself",
+          "uncertainty": "High: smoothing preserves the image in abschleifenden but may understate an assimilative or levelling effect; intercourse is used in its older sense of dealings and communication."
+        }
+      ]
+    },
+    {
+      "id": "codex",
+      "model": "gpt-6.1-sol",
+      "prompt_sha256": "d2f6923db2f49eb1c92e92f5f18323394bd1492fb57a10ef592de630f187f7fe",
+      "exit_code": 0,
+      "elapsed_seconds": 42.9,
+      "raw_stdout_sha256": "4c90cb3e4fb0aa18d3938d8a1d428105110a2233d9e615c60bd571b92e51d655",
+      "sentences": [
+        {
+          "id": "g:s1",
+          "english": "If it may seem strange to make precisely the languages of a single continent the subject of an inquiry, this apparently merely geographical perspective is justified in the case of America by the continent’s isolated position and the distinctive character of its languages."
+        },
+        {
+          "id": "g:s2",
+          "english": "In Europe, Asia, and Africa, such diverse languages have converged that the study of language, at least, can find no reason to investigate them in precisely the association into which they happen to have entered, always more or less by chance, within the boundaries of the same continent."
+        },
+        {
+          "id": "g:s3",
+          "english": "Moreover, the language stocks of each display the most considerable differences both in their structure and in the stages of development they have attained."
+        },
+        {
+          "id": "g:s4",
+          "english": "America, by contrast, apart from the most recent European immigrations, which have affected the continent’s intrinsic national character only through their destructive influence, has experienced either no immigrations at all or only such as have left scarcely a trace that could be called historical."
+        },
+        {
+          "id": "g:s5",
+          "english": "Whatever the origin of the American peoples and languages may therefore be, their destinies have for many centuries been shaped solely through themselves and through contact with one another."
+        },
+        {
+          "id": "g:s6",
+          "english": "The innumerable tribes, hordes, and families, from the farthest north to the farthest south of this vast continent, have, throughout the period for which we know its history, down to the European subjugation, remained free from foreign influence: their powers have been stirred into ferment solely through their own activity, and they have communicated only their own distinctive characteristics to one another."
+        },
+        {
+          "id": "g:s7",
+          "english": "Whatever foreign elements may therefore have been introduced at a still earlier time subsequently underwent, for centuries, this wearing-down influence of native interaction confined to itself."
+        }
+      ],
+      "notes": [
+        {
+          "source_ids": [
+            "g:s1",
+            "g:s2"
+          ],
+          "issue": "“Welttheil” and “Sprachkunde” require broad historical equivalents.",
+          "choice": "“Continent” and “the study of language” preserve the geographical unit and disciplinary scope.",
+          "alternative": "“Part of the world” and “linguistics.”",
+          "uncertainty": "“Continent” makes the geographical category more definite; “linguistics” could suggest a later disciplinary framework."
+        },
+        {
+          "source_ids": [
+            "g:s3"
+          ],
+          "issue": "“Sprachstämme” denotes language groupings, whereas “Stämmen, Horden und Familien” in g:s6 denotes human groups.",
+          "choice": "“Language stocks” distinguishes the linguistic groupings from the later “tribes.”",
+          "alternative": "“Language families.”",
+          "uncertainty": "The supplied wording does not establish a precise genealogical rank for “Sprachstämme.”"
+        },
+        {
+          "source_ids": [
+            "g:s3"
+          ],
+          "issue": "“Stufen der von ihnen erreichten Bildung” presents attained, differentiated stages.",
+          "choice": "“Stages of development they have attained” retains the historical developmental evaluation.",
+          "alternative": "“Stages of cultivation they have attained.”",
+          "uncertainty": "“Bildung” can emphasize formation or cultivation; the sentence does not specify a criterion for ranking the stages."
+        },
+        {
+          "source_ids": [
+            "g:s4"
+          ],
+          "issue": "“innere Nationaleigenthümlichkeit dieses Welttheils” attributes a collective national distinctiveness to the continent.",
+          "choice": "“The continent’s intrinsic national character” retains that historically marked formulation.",
+          "alternative": "“The continent’s inherent collective distinctiveness.”",
+          "uncertainty": "“National” need not imply a single nation or modern nation-state; the alternative weakens the explicit “National-” element."
+        },
+        {
+          "source_ids": [
+            "g:s5",
+            "g:s6"
+          ],
+          "issue": "“nur durch sich selbst” recurs, first alongside “durch Berührung unter einander,” then with “in Gährung ihrer Kräfte gerathen.”",
+          "choice": "Retain the repeated restriction to internal agency and render “Gährung” with the metaphor “ferment.”",
+          "alternative": "“Their powers have been activated solely from within.”",
+          "uncertainty": "The alternative is smoother but suppresses the source’s metaphor; neither wording specifies a particular mechanism."
+        },
+        {
+          "source_ids": [
+            "g:s6"
+          ],
+          "issue": "“haben sich nur ihre Eigenthümlichkeiten mitgetheilt” leaves the restrictive emphasis somewhat open.",
+          "choice": "“Have communicated only their own distinctive characteristics to one another” reads “sich” reciprocally and “nur” as restricting what was communicated.",
+          "alternative": "“Have merely shared their distinctive characteristics with one another.”",
+          "uncertainty": "The alternative places more emphasis on the limited nature of the exchange than on its exclusively indigenous content."
+        },
+        {
+          "source_ids": [
+            "g:s7"
+          ],
+          "issue": "“abschleifenden Einfluss des auf sich selbst beschränkten einheimischen Verkehrs” combines abrasion with internally confined interaction.",
+          "choice": "“Wearing-down influence of native interaction confined to itself” preserves both elements without specifying what was worn away.",
+          "alternative": "“Levelling influence of self-contained indigenous intercourse.”",
+          "uncertainty": "“Levelling” more explicitly suggests diminished differences; the German leaves the precise object and extent of the abrasion unstated."
+        }
+      ]
+    }
+  ]
+}

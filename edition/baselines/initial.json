@@ -1,0 +1,244 @@
+{
+  "description": "Frozen initial edition manifest and logical content; use this explicitly for base-record regression, not to reject later approved journals or passages.",
+  "format": "humboldt.baseline",
+  "id": "initial-scholarly-records",
+  "logical_digest": "53334ec49b583ad5538bb21d17249eb8416c38adb14b44874d6ac5027a83a962",
+  "manifest": {
+    "datasets": [
+      {
+        "path": "records/text.json",
+        "sha256": "6be287c9b1c1b42bf2e05b70d7ff84c11fa8343fd6cc3ac6f0df3524a59bdbaf"
+      },
+      {
+        "path": "records/evidence.json",
+        "sha256": "3b2d883150b1be1d0242ed514fe787d8a5d535caaf2d7e0c052c7437e70ca8ff"
+      },
+      {
+        "path": "records/terminology.json",
+        "sha256": "5dc56309374a6d51e16746bb70fbd67b46858468b770dfa14e3e356463c42a18"
+      },
+      {
+        "path": "passages/0147/records.json",
+        "sha256": "7a6f0d094e09d73c2f89a03283b495d23b2a85fdeb195d4e14b0c49ae79993d2"
+      }
+    ],
+    "format": "humboldt.edition",
+    "id": "humboldt-grundzuege",
+    "reading_defaults": [
+      {
+        "section": "1",
+        "source_id": "grundzuege-001-v1",
+        "target_id": "en-revised-v2"
+      },
+      {
+        "section": "2",
+        "source_id": "grundzuege-002-v1",
+        "target_id": "en2-revised-v2"
+      },
+      {
+        "section": "147",
+        "source_id": "difficult-147-de-v1",
+        "target_id": "en147-revised-v2"
+      }
+    ],
+    "resources": [
+      {
+        "path": "sources/raw/gs-v-1906.pdf",
+        "required": false,
+        "sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f"
+      },
+      {
+        "path": "sources/raw/lexicon/adelung-abschleifen.html",
+        "required": false,
+        "sha256": "38ee667b7260b500fc6426ba8fc8c67ee314fd6c883e4614475ec507fbd23161"
+      },
+      {
+        "path": "sources/raw/lexicon/adelung-anschauen.html",
+        "required": false,
+        "sha256": "16fb2050cfb7cc64a5888ad07185c81db26045fb5ec04a6e185c8707ca5fbab7"
+      },
+      {
+        "path": "sources/raw/lexicon/adelung-ansicht.html",
+        "required": false,
+        "sha256": "a06b7f145e5dec6d3f84cd0ebf3b4b114d28dcab4383871f4422b87b64ecb8b0"
+      },
+      {
+        "path": "sources/raw/lexicon/adelung-ausbilden.html",
+        "required": false,
+        "sha256": "fad665bf54df8e0ff8dc6219a0b7411327f82491073391393b5dfae58ebbf026"
+      },
+      {
+        "path": "sources/raw/lexicon/adelung-begriff.html",
+        "required": false,
+        "sha256": "f0ec0ca4f17a4c5216e3a59113e8532d7db3fa85747c5e0449d383b8ae4baca4"
+      },
+      {
+        "path": "sources/raw/lexicon/adelung-bilden.html",
+        "required": false,
+        "sha256": "51276c608e9da7d573154cbc576c0ccae3a7f27644126bdce3a86a90c4f1cab6"
+      },
+      {
+        "path": "sources/raw/lexicon/adelung-bildung.html",
+        "required": false,
+        "sha256": "75b3dc2433b8f8421eba17d9e422077462e0007664a246f652eaf11b9782a30b"
+      },
+      {
+        "path": "sources/raw/lexicon/adelung-bis.html",
+        "required": false,
+        "sha256": "9622c8418f093de18db9aab72479ad6c6bfb63b11118dc689f62b9d364c32b91"
+      },
+      {
+        "path": "sources/raw/lexicon/adelung-form.html",
+        "required": false,
+        "sha256": "1a81a33011dfbf67d1b0fb610cb9ee96228fde8e0d9bbf52d5fe304d58d19b05"
+      },
+      {
+        "path": "sources/raw/lexicon/adelung-geist.html",
+        "required": false,
+        "sha256": "ea815bc75527005d9f1a137859ff9a3cd99ddb16e838cc63155038536f10bdd2"
+      },
+      {
+        "path": "sources/raw/lexicon/adelung-kraft.html",
+        "required": false,
+        "sha256": "029973df4693fa82a03b950c7a344e195d6b6096a6f1bf5b3a3891f79954c337"
+      },
+      {
+        "path": "sources/raw/lexicon/adelung-verkehr.html",
+        "required": false,
+        "sha256": "1f6216ee884d93ef575d2826a51c0ed20077d98f21149a661ffa763f445d2df6"
+      },
+      {
+        "path": "sources/raw/lexicon/adelung-wohl.html",
+        "required": false,
+        "sha256": "6cf1ef4d31b7316a325ab0489e0e20c927b6f81ed9d403df5a0d0ea6a7a8a299"
+      },
+      {
+        "path": "sources/raw/references/drechsel-2024/drechsel-2024-12-3.pdf",
+        "required": false,
+        "sha256": "24eb0987ff041ed7d722db11d9e0bffca409a978f5aa7a37c620ca7023630b9c"
+      },
+      {
+        "path": "sources/raw/references/humboldt-gs-04.pdf",
+        "required": false,
+        "sha256": "4c087ff1513002fadb8826ab5ecc8917ba822a657d9ec2cf498f92281b4d3c66"
+      },
+      {
+        "path": "sources/raw/references/humboldt-gs-07-1.pdf",
+        "required": false,
+        "sha256": "e5eff2d26addd37ec2bf03ed7bf8514fc75b09100bf41bf7c257f31f1aa15706"
+      },
+      {
+        "path": "sources/raw/references/humboldt-gs-08.pdf",
+        "required": false,
+        "sha256": "d54fc06d547456846c4740638645b865efa4bad1df7040a687df491ae5c38b8b"
+      },
+      {
+        "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c4.pdf",
+        "required": false,
+        "sha256": "ab25c8e5168807dc092805c9d6c1e845ac3082c796ff435f2efc7f9cac938a7c"
+      },
+      {
+        "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c6.pdf",
+        "required": false,
+        "sha256": "41ea90fd8341e7e386e82b1bfc5a060dd0052bd9cf8df3ee6e22cacc63f60e5c"
+      },
+      {
+        "path": "sources/raw/references/nord-2006-purposeful-activity.pdf",
+        "required": false,
+        "sha256": "8544e5b1e2549b70cbe8c89dc89fcd966b690aadac8e47521efaf98eee289f22"
+      },
+      {
+        "path": "sources/raw/references/trabant-2023-anthropological-linguistics.pdf",
+        "required": false,
+        "sha256": "c07220e68953c508e8ae42d7d534c85a7b8a2f59cc5e9945b7c39ae8323a0741"
+      },
+      {
+        "path": "sources/raw/references/underhill-2009-humboldt-worldview-language.pdf",
+        "required": false,
+        "sha256": "e539b373e317831e39acdb958543d92994cff7bb9feb24ae466e3ab312f50367"
+      },
+      {
+        "path": "sources/terminology/search-pages.json",
+        "required": false,
+        "sha256": "353480d4c288ab9bd2c7c244e0bc3cbd453e09e6fbec7112fef47da1ba363d4c"
+      },
+      {
+        "path": "sources/terminology/v2/termbase.json",
+        "required": false,
+        "sha256": "ec047c1c70a2a47b136f5076e3da6b4d2226932de359e5f53d06a3a398879b7c"
+      },
+      {
+        "path": "translations/difficult-147/audits.json",
+        "required": false,
+        "sha256": "7daf3dfb6f22f00e0420e330934b9a01f32b2806a9b4b81517dad3508475e015"
+      },
+      {
+        "path": "translations/difficult-147/candidates.json",
+        "required": false,
+        "sha256": "0477449dedd968b8bde4d1d69dd1d5bfc84d61ee3a970f38aeef5c78decc0e97"
+      },
+      {
+        "path": "translations/difficult-147/revised.json",
+        "required": false,
+        "sha256": "61204bc8300e8bfdd5a543ed648342c55254e331fb3df1310a4d31c95fae15b8"
+      },
+      {
+        "path": "translations/difficult-147/source.json",
+        "required": false,
+        "sha256": "06f5bc0af19d0ccdc0f3bd0fa54c4600360e71fb74167d1f06dd1fb4010ac34e"
+      },
+      {
+        "path": "translations/difficult-147/synthesis.json",
+        "required": false,
+        "sha256": "00847b81e100342008bc6ddb223833765916df6aed54b70f1ffd7bb596d118d7"
+      },
+      {
+        "path": "translations/opening-001/approval-2026-11-15.json",
+        "required": false,
+        "sha256": "4938ac4a0e1c8dd7cafa2e4f6f237ddbbb07fd75cb7d4734ce1122f40bcf82c9"
+      },
+      {
+        "path": "translations/opening-001/audits.json",
+        "required": false,
+        "sha256": "30798ee4c8cb1b9d49a7e41e6a5e14e2a28aac7459e5dc3caa49d0f0f9b96f9f"
+      },
+      {
+        "path": "translations/opening-001/candidates.json",
+        "required": false,
+        "sha256": "5756037ac1784b7ab235e74ccb74c9eec02fd886bab492e49d253405e743b71b"
+      },
+      {
+        "path": "translations/opening-001/packet.md",
+        "required": false,
+        "sha256": "be6af65e898c4cb17b006aec4fc6a8f547c302ed1e2f0d6875665e77812a2fcb"
+      },
+      {
+        "path": "translations/opening-001/revised.json",
+        "required": false,
+        "sha256": "510782ce9ada63b3d31442618881d6a90b25ab2385f5b4b9ebbacdb40743bda2"
+      },
+      {
+        "path": "translations/paragraph-002/audits.json",
+        "required": false,
+        "sha256": "461ead143eac3e3c2e8dce26f66f5e36f49902f76ba65481dc4f8cc8add5637f"
+      },
+      {
+        "path": "translations/paragraph-002/candidates.json",
+        "required": false,
+        "sha256": "29f0657869d9612da2a05f03f90180a597773d10b0a73306bf88acd30453ad45"
+      },
+      {
+        "path": "translations/paragraph-002/packet.md",
+        "required": false,
+        "sha256": "1b7820b48f9aa1738135a74c33bff5e4e0e09e67854bac248ca3b7400e17ab59"
+      },
+      {
+        "path": "translations/paragraph-002/revised.json",
+        "required": false,
+        "sha256": "2b189d56ccade30bfdc77a49852c659099be078a7f2b39728f5e477f0cf05165"
+      }
+    ],
+    "schema_version": 1
+  },
+  "schema_version": 1
+}

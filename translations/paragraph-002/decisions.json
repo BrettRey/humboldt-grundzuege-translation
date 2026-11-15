@@ -1,0 +1,120 @@
+{
+  "choices": [
+    {
+      "id": "D005.1",
+      "source_ids": [
+        "g2:s1"
+      ],
+      "term": "Dafür ... nun auch",
+      "choice": "Further support for this",
+      "reason": "Keep backward reference broad; do not replace it with a claim of common descent or a uniquely identified §1 thesis.",
+      "alternatives": [
+        "now also speaks in favour of this"
+      ],
+      "status": "provisional"
+    },
+    {
+      "id": "D005.2",
+      "source_ids": [
+        "g2:s2"
+      ],
+      "term": "Ausbildung; in ihnen selbst; alle",
+      "choice": "development; in the languages themselves; them all",
+      "reason": "Languages is a defensible discourse/context reading of ihnen, not a grammatical proof. Nations remains a possible antecedent. Keep alle pronominal; the explicit earlier choice may tilt the English reader toward languages, a limitation recorded rather than hidden. Nations renders Nationen without an implied modern nation-state.",
+      "alternatives": [
+        "cultivation",
+        "in the nations themselves",
+        "unmistakable within them as well"
+      ],
+      "status": "provisional"
+    },
+    {
+      "id": "D005.3",
+      "source_ids": [
+        "g2:s2"
+      ],
+      "term": "alphabetischer Schrift; eigentlicher Literatur; niedrigeren Stufe",
+      "choice": "alphabetic writing; literature in the proper sense; a lower level",
+      "reason": "Preserve both lexical restrictions, the asserted hence relation, without exception and lower comparative. This is Humboldt’s evaluation; no neutral or modern historical correction is silently substituted. The parallel lacks the lower-level phrase.",
+      "alternatives": [
+        "literature proper",
+        "at a lower stage"
+      ],
+      "status": "provisional"
+    },
+    {
+      "id": "D005.4",
+      "source_ids": [
+        "g2:s3"
+      ],
+      "term": "Einerleiheit / Aehnlichkeit; Bau; auch wohl; wirklich",
+      "choice": "sameness / similarity; structure; also been asserted; in fact",
+      "reason": "Reject alleged sameness and alleged deviation from all other languages without losing retained similarity. Wrongly modifies only the first assertion. Do not repeat a frequency adverb for the second, where wohl is not clearly temporal. Restore explicit in fact. Structure remains consistent with §1, without fixing a universal glossary.",
+      "alternatives": [
+        "uniformity / resemblance",
+        "also sometimes been asserted",
+        "also possibly asserted"
+      ],
+      "status": "provisional"
+    },
+    {
+      "id": "D005.5",
+      "source_ids": [
+        "g2:s3"
+      ],
+      "term": "Welttheil; erlaubt; nicht einmal darin; abscheidende Gränzen",
+      "choice": "continent; do not permit ... even in this respect; genuinely separating boundaries",
+      "reason": "Retain continent from §1 and idiomatic English plural agreement. The printed singular erlaubt is preserved in the German; it does not by itself establish an intended collective conceptual contrast. Keep darin’s reference open, rather than inserting a claim of a strict north/south genealogy or national border.",
+      "alternatives": [
+        "part of the world",
+        "the continent, north and south, does not permit",
+        "truly dividing boundaries"
+      ],
+      "status": "provisional"
+    }
+  ],
+  "audit_dispositions": [
+    {
+      "auditor": "claude",
+      "finding": "F1",
+      "disposition": "retain with note",
+      "decision_id": "D005.2",
+      "reason": "Keep the defensible explicit languages reading and record the grammatically possible nations antecedent."
+    },
+    {
+      "auditor": "claude",
+      "finding": "F2",
+      "disposition": "retain with note",
+      "decision_id": "D005.2",
+      "reason": "Keep them all unexpanded; note that proximity to explicit languages tilts English anaphora without settling German alle."
+    },
+    {
+      "auditor": "claude",
+      "finding": "F3",
+      "disposition": "retain with note",
+      "decision_id": "D005.5",
+      "reason": "Retain even in this respect and record the unclear antecedent and focus; no extra geographical or genealogical claim."
+    },
+    {
+      "auditor": "claude",
+      "finding": "F4",
+      "disposition": "accepted",
+      "decision_id": "D005.4",
+      "reason": "Add in fact for wirklich; retain actual similarity versus wrongly asserted sameness."
+    },
+    {
+      "auditor": "muse",
+      "finding": "F1",
+      "disposition": "accepted conservatively",
+      "decision_id": "D005.4",
+      "reason": "Remove the second sometimes; retain also been asserted and log wohl as an unresolved modal/discourse nuance."
+    },
+    {
+      "auditor": "muse",
+      "finding": "F2",
+      "disposition": "retain idiomatic agreement",
+      "decision_id": "D005.5",
+      "reason": "Keep English plural do. A singular German verb is not sufficient evidence for importing the proposed continent-as-subject recast."
+    }
+  ]
+}

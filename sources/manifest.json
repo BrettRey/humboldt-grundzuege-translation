@@ -1,0 +1,3694 @@
+{
+  "schema_version": 1,
+  "review_approvals": [
+    {
+      "id": "opening-001-evidence-approval",
+      "document": "docs/opening-001-evidence.md",
+      "recorded_at": "2026-11-15T02:56:22+00:00",
+      "completion_observed": true,
+      "completion_event_count": 1,
+      "user_confirmation": "rd is approved",
+      "source_comment": "approved. I leave the choice to you, Claude, and Muse",
+      "source_comment_at": "2026-11-15T02:41:10.123Z",
+      "reviewed_content_sha256": "708c156b1f7e1780288a723b28a5ca3f6408eea40306e3c2ae61c9b723918c99",
+      "reviewed_bytes": 10965,
+      "body_integrity": "All six H2 sections retained; only review change was overall user comment.",
+      "approval_scope": "Evidence note and delegated edition-policy decision; not English fidelity or separate workflow proposal.",
+      "archived_reviewed_copy": "tmp/pdfs/opening-research/opening-evidence-approved.md"
+    },
+    {
+      "id": "overnight-preparation-chat-approval",
+      "document": "docs/overnight-review.md",
+      "recorded_at": "2026-11-15T11:43:34.374355+00:00",
+      "completion_observed": false,
+      "user_explicit_completion": true,
+      "user_confirmation": "looks good. Carry on",
+      "reviewed_content_sha256": "bb9061bcfff4f1f6591f2f9513d777a4090ff7a64c6dc59e9e0d438fc3f64a2f",
+      "reviewed_bytes": 4587,
+      "body_integrity": "Five H2 sections intact, no inline feedback, unchanged from opened baseline.",
+      "approval_scope": "D002: trial store and one §1 comparison/audit cycle; not English fidelity, later paragraphs or publication.",
+      "authority_record": "DECISIONS.md"
+    },
+    {
+      "id": "opening-001-English-review-completed",
+      "recorded_at": "2026-11-15T12:36:12.705164+00:00",
+      "document": "translations/opening-001/revised.md",
+      "completion_observed": true,
+      "completion_event_count": 1,
+      "user_comment": "looks good",
+      "user_comment_at": "2026-11-15T11:55:54.467Z",
+      "reviewed_content_sha256": "6d3248bb508e45fc4812dcfd2e3c56c08e41690ab9ed183a7c56d7992151f7d5",
+      "reviewed_bytes": 4693,
+      "body_integrity": "Complete opened body retained exactly; only overall comment appended.",
+      "approval_scope": "English readability and editorial usefulness accepted; no independent source-language certification. Proceed interpreted as one equivalent bounded cycle for §2, stopping before §3.",
+      "approval_record": "translations/opening-001/approval-2026-11-15.json",
+      "approval_record_sha256": "4938ac4a0e1c8dd7cafa2e4f6f237ddbbb07fd75cb7d4734ce1122f40bcf82c9",
+      "authority_record": "D004 in DECISIONS.md"
+    }
+  ],
+  "editorial_decisions": [
+    {
+      "id": "D001",
+      "recorded_at": "2026-11-15T02:56:22+00:00",
+      "record_path": "DECISIONS.md",
+      "authority": "User delegated edition choice in completed Roughdraft evidence review.",
+      "base": "GS V, Albert Leitzmann ed., Berlin 1906; printed order and section numbers retained.",
+      "opening_policy": "Retain with visible report of cancellation and explicit lack of manuscript verification; keep parallel-fragment wording separate.",
+      "source_status_label": "Provisional printed base text; Drechsel 2024:155 reports cancellation of the first seven paragraphs; manuscript marks, extent and editorial meaning unverified.",
+      "agreement_limit": "Editorial recommendations, not independent verification of cancellation or English fidelity.",
+      "participants": [
+        {
+          "participant": "claude",
+          "runtime_model": "claude-fable-5-2",
+          "exit_code": 0,
+          "elapsed_seconds": 62.3,
+          "assessment_path": "tmp/edition-choice/claude-assessment.md",
+          "assessment_sha256": "97708fe4e28e01e036dd096a238848562087cb4a4992978eadd8fcd7dff00e5d",
+          "recommendation": "Retain the 1906 opening in place with a visible source-status flag.",
+          "source_verification": "Same supplied packet; no independent manuscript verification."
+        },
+        {
+          "participant": "muse",
+          "runtime_model": "muse-wonder-full-1.0",
+          "exit_code": 0,
+          "elapsed_seconds": 33.0,
+          "assessment_path": "tmp/edition-choice/muse-assessment.md",
+          "assessment_sha256": "016296e83519247a44c68efeb64948d631c9b3989d41c8d476b53a37630d8807",
+          "recommendation": "Retain the 1906 opening in place with a visible source-status flag.",
+          "source_verification": "Same supplied packet; no independent manuscript verification."
+        }
+      ],
+      "coordinator_assessment": "tmp/edition-choice/coordinator-first-assessment.md",
+      "independence": "Coordinator assessment saved before model returns; Claude and Muse received the same neutral primary-source packet without prior recommendations.",
+      "verification_notes": [
+        "Image at PDF375 confirms §1 ends before marginal section2; running head 1–3 covers the page, not the unit.",
+        "Opening-note folio count appears as 14S in OCR, but source image reads 148; worker claim 145 rejected."
+      ],
+      "constraints": [
+        "Existing pilot and separate workflow proposal remain frozen and unchanged.",
+        "No external scan request, message or purchase made."
+      ],
+      "reversal_condition": "Primary manuscript or reliable critical apparatus establishes cancellation scope/layer, or explicit adoption of another base edition."
+    },
+    {
+      "id": "D004",
+      "recorded_at": "2026-11-15T12:36:12.705164+00:00",
+      "record_path": "DECISIONS.md",
+      "authority": "Brett: completed §1 Roughdraft review then direct proceed.",
+      "scope": "§1 English/editorial acceptance and one bounded §2 cycle; no fidelity certification or §3 extension."
+    },
+    {
+      "id": "D005",
+      "recorded_at": "2026-11-15T12:36:12.705164+00:00",
+      "record_path": "DECISIONS.md",
+      "authority": "Coordinator under D004; English review pending.",
+      "structured_choices": "translations/paragraph-002/decisions.json",
+      "scope": "Five provisional §2 choice records; pronoun and particle/focus questions remain open."
+    },
+    {
+      "id": "D008",
+      "recorded_at": "2026-11-15T16:30:39.602078+00:00",
+      "record_path": "DECISIONS.md",
+      "authority": "Brett: Complete it. Be thorough, careful, and accurate. Make it great.",
+      "scope": "Individual termbase, reviewed coverage and documented limits; prior broad completion claim superseded."
+    },
+    {
+      "id": "D009",
+      "recorded_at": "2026-11-15T16:30:39.602078+00:00",
+      "record_path": "DECISIONS.md",
+      "authority": "Coordinator under D008",
+      "scope": "Provisional individual/local rules; earlier sources and English preserved."
+    },
+    {
+      "id": "D010",
+      "recorded_at": "2026-11-15T17:28:43.136783+00:00",
+      "record_path": "DECISIONS.md",
+      "scope": "Brett authorized bounded textual alternatives, difficult pilot and cleanup."
+    },
+    {
+      "id": "D011",
+      "recorded_at": "2026-11-15T17:28:43.136783+00:00",
+      "record_path": "DECISIONS.md",
+      "scope": "Coordinator provisional §147 choices and source-supported audit dispositions; no English approval inferred."
+    }
+  ],
+  "verified_at": "2026-11-14T22:23:47+00:00",
+  "archive_item": {
+    "identifier": "gesammelteschrif05humbuoft",
+    "url": "https://archive.org/details/gesammelteschrif05humbuoft",
+    "metadata_url": "https://archive.org/metadata/gesammelteschrif05humbuoft",
+    "contributor": "Robarts - University of Toronto"
+  },
+  "edition": {
+    "author": "Wilhelm von Humboldt",
+    "collection": "Gesammelte Schriften",
+    "volume": "V",
+    "division": "Erste Abteilung: Werke V",
+    "editor": "Albert Leitzmann",
+    "publisher": "B. Behr’s Verlag",
+    "place": "Berlin",
+    "year": 1906,
+    "verification": "Volume title and editor title pages visually checked at PDF pages 6 and 7. Archive collection-level date 1903-36 is not the volume publication year."
+  },
+  "work": {
+    "title": "Grundzüge des allgemeinen Sprachtypus",
+    "subtitle": "Als Einleitung zu ausführlichen Untersuchungen über die Amerikanischen Sprachen.",
+    "main_text_printed_pages": [
+      364,
+      473
+    ],
+    "contents_printed_pages": [
+      474,
+      475
+    ],
+    "pdf_pages_including_contents": [
+      374,
+      485
+    ],
+    "editorial_apparatus": "Includes a small-print editorial source note on printed p. 364 and editorial notes elsewhere; OCR does not separate these automatically.",
+    "textual_status_note": {
+      "status": "unresolved",
+      "statement": "Drechsel 2024, printed p.155, reports authorial cancellation of the first seven paragraphs. Verified as a statement in his book, not independently against manuscript or critical apparatus. The project pilot remains a study draft of the 1906 printed reading text.",
+      "evidence_note": "docs/opening-001-evidence.md#e01-what-is-known-about-the-openings-status"
+    }
+  },
+  "files": [
+    {
+      "path": "sources/raw/gs-v-1906.pdf",
+      "download_url": "https://archive.org/download/gesammelteschrif05humbuoft/gesammelteschrif05humbuoft.pdf",
+      "bytes": 33894314,
+      "checksums": {
+        "md5": "6fe3818b434584adbd124a5b2aa85021",
+        "sha1": "67652d63b72bf7f959f94c154184c1a619e6c3fe",
+        "sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f"
+      },
+      "archive_checksums": {
+        "md5": "6fe3818b434584adbd124a5b2aa85021",
+        "sha1": "67652d63b72bf7f959f94c154184c1a619e6c3fe"
+      },
+      "verification": "size, MD5, and SHA-1 match live Archive metadata",
+      "verified_at": "2026-11-14T22:23:47+00:00"
+    },
+    {
+      "path": "sources/raw/gs-v-1906-ocr.txt",
+      "download_url": "https://archive.org/download/gesammelteschrif05humbuoft/gesammelteschrif05humbuoft_djvu.txt",
+      "bytes": 1370503,
+      "checksums": {
+        "md5": "bbde0e0df5405afd5e7bf30e9932cbf3",
+        "sha1": "0ecf3b66283af7e4861e19b7b8e184049fc4e0ff",
+        "sha256": "607d2e806439bdd129b2b4c0338526835591630bfad8fbc9cd1139820731df0c"
+      },
+      "archive_checksums": {
+        "md5": "bbde0e0df5405afd5e7bf30e9932cbf3",
+        "sha1": "0ecf3b66283af7e4861e19b7b8e184049fc4e0ff"
+      },
+      "verification": "size, MD5, and SHA-1 match live Archive metadata",
+      "verified_at": "2026-11-14T22:23:47+00:00"
+    },
+    {
+      "path": "sources/raw/scandata.xml",
+      "download_url": "https://archive.org/download/gesammelteschrif05humbuoft/gesammelteschrif05humbuoft_scandata.xml",
+      "bytes": 262324,
+      "checksums": {
+        "md5": "a2d607852f7afbcd208d12de0416a83b",
+        "sha1": "9ff8ffbbcb8b114d3e377da60c7bfbd891104bfd",
+        "sha256": "5e43ca1062a7345f09c0aa256f5ec0a275855512b7e3438bcfacf7145dbda411"
+      },
+      "archive_checksums": {
+        "md5": "a2d607852f7afbcd208d12de0416a83b",
+        "sha1": "9ff8ffbbcb8b114d3e377da60c7bfbd891104bfd"
+      },
+      "verification": "size, MD5, and SHA-1 match live Archive metadata",
+      "verified_at": "2026-11-14T22:23:47+00:00"
+    }
+  ],
+  "derived_ocr": {
+    "path": "sources/grundzuege-ocr.txt",
+    "status": "uncorrected",
+    "source_pdf_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+    "command": [
+      "pdftotext",
+      "-f",
+      "374",
+      "-l",
+      "485",
+      "-layout",
+      "sources/raw/gs-v-1906.pdf",
+      "-"
+    ],
+    "page_marker_method": "Split pdftotext output on form-feed, require 112 pages, prepend printed/PDF/scan-leaf markers from page-map.json. Preserve the page text otherwise.",
+    "sha256": "68c4101bd61c5288e201f22bf00cd209c442c945c7f655e255aa24e621db06b3",
+    "page_count": 112,
+    "poppler_version": "26.11.0"
+  },
+  "page_map_path": "sources/page-map.json",
+  "reference_acquisitions": [
+    {
+      "title": "On the Different Methods of Translating",
+      "author": "Friedrich Schleiermacher",
+      "translator": "Waltraud Bartscht",
+      "url": "https://open.unive.it/hitrade/books/SchleiermacherMethods.pdf",
+      "downloaded_at": "2026-11-14T22:57:10+00:00",
+      "pages": 16,
+      "sha256": "714d279fe80222c5a692b5d0b24d15c55dd2703dc6646ec672c71497c41da642",
+      "downloads_filename": "schleiermacher-methods-bartscht.pdf",
+      "source": "University-hosted public PDF; title and translator read on first PDF page. Publication details of this translation remain to be checked.",
+      "project_assets": [
+        {
+          "path": "sources/raw/references/schleiermacher-methods-bartscht.pdf",
+          "bytes": 132381,
+          "sha256": "714d279fe80222c5a692b5d0b24d15c55dd2703dc6646ec672c71497c41da642"
+        },
+        {
+          "path": "sources/raw/references/schleiermacher-methods-bartscht.md",
+          "bytes": 44984,
+          "sha256": "777cb88a52bead733f9353a04ced739aa544f4c786a67b8d2b728f8d0e85e048"
+        }
+      ],
+      "acquisition_status": "downloaded, PDF/Markdown inbox handoff verified, and project copies hash-verified",
+      "reading_status": "not fully read or used to adjudicate a translation",
+      "inbox_pdf": "/Users/brettreynolds/pdf-inbox/schleiermacher-methods-bartscht.pdf",
+      "inbox_markdown": "/Users/brettreynolds/pdf-inbox/schleiermacher-methods-bartscht.md"
+    },
+    {
+      "title": "Über das vergleichende Sprachstudium in Beziehung auf die verschiedenen Epochen der Sprachentwicklung",
+      "author": "Wilhelm von Humboldt",
+      "composition_year": 1820,
+      "publication_year": 1822,
+      "publication": "Abhandlungen der Königlichen Akademie der Wissenschaften zu Berlin aus den Jahren 1820–1821",
+      "printed_pages": "239–260",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Humbold_ueber_das_vergleichende_sprachstudium_1820.pdf",
+      "catalogue_url": "https://de.wikisource.org/wiki/Über_das_vergleichende_Sprachstudium_in_Beziehung_auf_die_verschiedenen_Epochen_der_Sprachentwicklung",
+      "downloaded_at": "2026-11-14T22:57:36+00:00",
+      "pages": 22,
+      "sha256": "0d589384d38506a4e351d0f27aa35d32eb42e9383d875b9325a9a5ab1f1f5ac0",
+      "downloads_filename": "humboldt-vergleichendes-sprachstudium-1822.pdf",
+      "verification": "22-page scan and PDF/Markdown handoff verified; first and last scan pages visually checked. Full text not yet checked.",
+      "markdown_source_url": "https://de.wikisource.org/wiki/Über_das_vergleichende_Sprachstudium_in_Beziehung_auf_die_verschiedenen_Epochen_der_Sprachentwicklung",
+      "markdown_method": "Pandoc export of the separately published Wikisource transcription, labelled as not OCR from the associated scan.",
+      "markdown_sha256": "81d7c8ff40fe56acf017d1d30002ffa3471c27dec8f7830bbcd4f22725be476e",
+      "scan_verification": "Title and author on first scan page, and printed p. 260 on last scan page visually checked. Lecture date 29 June 1820 appears in the first-page footnote. No extractable text layer.",
+      "filing_note": "Watcher advances its timestamp past failed image-only conversion; source PDF requeued by updating its modification time after the supplied transcription sidecar was prepared. PDF bytes unchanged.",
+      "project_assets": [
+        {
+          "path": "sources/raw/references/humboldt-vergleichendes-sprachstudium-1822.pdf",
+          "bytes": 3689591,
+          "sha256": "0d589384d38506a4e351d0f27aa35d32eb42e9383d875b9325a9a5ab1f1f5ac0"
+        },
+        {
+          "path": "sources/raw/references/humboldt-vergleichendes-sprachstudium-1822.md",
+          "bytes": 86211,
+          "sha256": "81d7c8ff40fe56acf017d1d30002ffa3471c27dec8f7830bbcd4f22725be476e"
+        }
+      ],
+      "acquisition_status": "downloaded, PDF/Markdown inbox handoff verified, and project copies hash-verified",
+      "reading_status": "not fully read or used to adjudicate a translation",
+      "inbox_pdf": "/Users/brettreynolds/pdf-inbox/humboldt-vergleichendes-sprachstudium-1822.pdf",
+      "inbox_markdown": "/Users/brettreynolds/pdf-inbox/humboldt-vergleichendes-sprachstudium-1822.md"
+    },
+    {
+      "title": "Translating as a Purposeful Activity: A Prospective Approach",
+      "author": "Christiane Nord",
+      "year": 2006,
+      "journal": "TEFLIN Journal",
+      "volume": 17,
+      "issue": 2,
+      "printed_pages": "131–143",
+      "doi": "10.15639/teflinjournal.v17i2/138-151",
+      "url": "https://www.journal.teflin.org/index.php/journal/article/download/65/254/785",
+      "article_url": "https://www.journal.teflin.org/index.php/journal/article/view/65",
+      "download_observed_at": "2026-11-14T23:43:26+00:00",
+      "pages": 13,
+      "sha256": "8544e5b1e2549b70cbe8c89dc89fcd966b690aadac8e47521efaf98eee289f22",
+      "source": "Publisher-hosted public PDF. Direct programmatic download returned HTTP 406; ordinary Chrome download succeeded.",
+      "verification": "PDF page count, first-page title/author and final printed p. 143 checked; full text not yet checked. Preserve published DOI although its suffix differs from the actual page range.",
+      "markdown_method": "Automatic PDF text extraction by the inbox watcher; not independently proofread.",
+      "project_assets": [
+        {
+          "path": "sources/raw/references/nord-2006-purposeful-activity.pdf",
+          "bytes": 99891,
+          "sha256": "8544e5b1e2549b70cbe8c89dc89fcd966b690aadac8e47521efaf98eee289f22"
+        },
+        {
+          "path": "sources/raw/references/nord-2006-purposeful-activity.md",
+          "bytes": 26403,
+          "sha256": "d4b95a36414294ad977e8bc7a68a649ef8ce2f3356bad1321837bd281534da73"
+        }
+      ],
+      "acquisition_status": "downloaded, PDF/Markdown inbox handoff verified, and project copies hash-verified",
+      "reading_status": "not fully read or used to adjudicate a translation",
+      "inbox_pdf": "/Users/brettreynolds/pdf-inbox/nfchoiron,+108-128-2-PB.pdf",
+      "inbox_markdown": "/Users/brettreynolds/pdf-inbox/nfchoiron,+108-128-2-PB.md"
+    },
+    {
+      "id": "remusat-elemens-de-la-grammaire-chinoise",
+      "stem": "abel-remusat-1822-grammaire-chinoise",
+      "title_from_archive": "Elemens de la grammaire Chinoise",
+      "creator_from_archive": "Jean Pierre Abel Remusat",
+      "volume_from_archive": null,
+      "archive_date_unverified": "1822",
+      "purpose": "Requested contemporary Chinese grammar.",
+      "url": "https://archive.org/download/remusat-elemens-de-la-grammaire-chinoise/Remusat%2C%20Elemens%20de%20la%20grammaire%20Chinoise%20%281822%29.pdf",
+      "archive_item_url": "https://archive.org/details/remusat-elemens-de-la-grammaire-chinoise",
+      "pages": 268,
+      "pdf_bytes": 12398977,
+      "pdf_md5": "a619069e04e590b5862b8bb58eb84a65",
+      "pdf_sha256": "9e68cc2e3d52d94be2d026a78de69e1f538892366aec3c7385ed0234a448bd21",
+      "ocr_path": "sources/raw/references/abel-remusat-1822-grammaire-chinoise-archive-ocr.txt",
+      "ocr_md5": "cbff5951da585c80dd3b2b5dcae55109",
+      "ocr_sha256": "2a566264739a8da9d50205ee6b2a7b41368fef822a34f3fec03753bd6ae26edb",
+      "markdown_method": "Wrapper around uncorrected Archive OCR from the same item; not a checked transcription.",
+      "acquired_at": "2026-11-15T01:43:16+00:00",
+      "reading_status": "Not fully read; no passages used to adjudicate the translation.",
+      "inbox_pdf": "/Users/brettreynolds/pdf-inbox/abel-remusat-1822-grammaire-chinoise.pdf",
+      "inbox_markdown": "/Users/brettreynolds/pdf-inbox/abel-remusat-1822-grammaire-chinoise.md",
+      "project_assets": [
+        {
+          "path": "sources/raw/references/abel-remusat-1822-grammaire-chinoise.pdf",
+          "bytes": 12398977,
+          "sha256": "9e68cc2e3d52d94be2d026a78de69e1f538892366aec3c7385ed0234a448bd21"
+        },
+        {
+          "path": "sources/raw/references/abel-remusat-1822-grammaire-chinoise.md",
+          "bytes": 347872,
+          "sha256": "0d882a0038d4553afa6ed1da96a26222445b406578a3889a16f1e2ec19af963d"
+        }
+      ],
+      "acquisition_status": "PDF/Markdown inbox pair verified; project copies hash-verified",
+      "title": "Élémens de la grammaire chinoise",
+      "author": "Jean-Pierre Abel-Rémusat",
+      "publication_year": 1822,
+      "publisher": "Imprimerie royale",
+      "place": "Paris",
+      "title_page_pdf": 13,
+      "verification": "PDF parses; title/edition checked against the recorded title or copyright page; inbox PDF/Markdown pair and project-copy SHA-256 hashes verified. Full page-by-page completeness and OCR accuracy have not been certified."
+    },
+    {
+      "id": "10582808bsb",
+      "stem": "bernhardi-1805-anfangsgruende",
+      "title_from_archive": "Anfangsgründe der Sprachwissenschaft",
+      "creator_from_archive": "Bernhardi, August Ferdinand",
+      "volume_from_archive": null,
+      "archive_date_unverified": "1805",
+      "purpose": "Requested contemporary general grammar.",
+      "url": "https://archive.org/download/10582808bsb/10582808bsb_text.pdf",
+      "archive_item_url": "https://archive.org/details/10582808bsb",
+      "pages": 449,
+      "pdf_bytes": 13998221,
+      "pdf_md5": "2370b5ef89d704943b0f25f406be63d0",
+      "pdf_sha256": "9216eae76195c5a0b59318973c53734da7845054ff48db9ceb25615ecd30fcbf",
+      "ocr_path": "sources/raw/references/bernhardi-1805-anfangsgruende-archive-ocr.txt",
+      "ocr_md5": "72c4103f3cda584c0aef3cd2ad979e1d",
+      "ocr_sha256": "8658e22da77553f7a4176bd3a2061459c6b057c58e52c9d317a2a862e224e5a2",
+      "markdown_method": "Wrapper around uncorrected Archive OCR from the same item; not a checked transcription.",
+      "acquired_at": "2026-11-15T01:43:40+00:00",
+      "reading_status": "Not fully read; no passages used to adjudicate the translation.",
+      "inbox_pdf": "/Users/brettreynolds/pdf-inbox/bernhardi-1805-anfangsgruende.pdf",
+      "inbox_markdown": "/Users/brettreynolds/pdf-inbox/bernhardi-1805-anfangsgruende.md",
+      "project_assets": [
+        {
+          "path": "sources/raw/references/bernhardi-1805-anfangsgruende.pdf",
+          "bytes": 13998221,
+          "sha256": "9216eae76195c5a0b59318973c53734da7845054ff48db9ceb25615ecd30fcbf"
+        },
+        {
+          "path": "sources/raw/references/bernhardi-1805-anfangsgruende.md",
+          "bytes": 464180,
+          "sha256": "da41d8c1e43a8ce1134bed44a7497f57dff9999471ce869a69e3ed354c4ddbba"
+        }
+      ],
+      "acquisition_status": "PDF/Markdown inbox pair verified; project copies hash-verified",
+      "title": "Anfangsgründe der Sprachwissenschaft",
+      "author": "August Ferdinand Bernhardi",
+      "publication_year": 1805,
+      "publisher": "Heinrich Frölich",
+      "place": "Berlin",
+      "title_page_pdf": 5,
+      "verification": "PDF parses; title/edition checked against the recorded title or copyright page; inbox PDF/Markdown pair and project-copy SHA-256 hashes verified. Full page-by-page completeness and OCR accuracy have not been certified."
+    },
+    {
+      "id": "11417954bsb",
+      "stem": "bopp-1816-conjugationssystem",
+      "title_from_archive": "Über das Conjugationssystem der Sanskritsprache: in Vergleichung mit jenem der griechischen, lateinischen, persischen und germanischen Sprache ; nebst Episoden des Ramajan und Mahabharat in genauen metrischen Uebersetzungen aus dem Originaltexte und einigen Abschnitten aus den Veda's",
+      "creator_from_archive": "Bopp, Franz",
+      "volume_from_archive": null,
+      "archive_date_unverified": "1816",
+      "purpose": "Requested contemporary comparative grammar.",
+      "url": "https://archive.org/download/11417954bsb/11417954bsb_text.pdf",
+      "archive_item_url": "https://archive.org/details/11417954bsb",
+      "pages": 369,
+      "pdf_bytes": 9586411,
+      "pdf_md5": "3a334e981d977edc737e84f38fac3a59",
+      "pdf_sha256": "72f8265a032bc9181ca8fb94267f99a2354017fa0103bfb59e67894778cbb2aa",
+      "ocr_path": "sources/raw/references/bopp-1816-conjugationssystem-archive-ocr.txt",
+      "ocr_md5": "7ed5393e7ab24f00c484b8d344ef2567",
+      "ocr_sha256": "5322d1f4e91b9033bb011cbb513919f8710fc49d63c750262badc5d7f9388b37",
+      "markdown_method": "Wrapper around uncorrected Archive OCR from the same item; not a checked transcription.",
+      "acquired_at": "2026-11-15T01:43:35+00:00",
+      "reading_status": "Not fully read; no passages used to adjudicate the translation.",
+      "inbox_pdf": "/Users/brettreynolds/pdf-inbox/bopp-1816-conjugationssystem.pdf",
+      "inbox_markdown": "/Users/brettreynolds/pdf-inbox/bopp-1816-conjugationssystem.md",
+      "project_assets": [
+        {
+          "path": "sources/raw/references/bopp-1816-conjugationssystem.pdf",
+          "bytes": 9586411,
+          "sha256": "72f8265a032bc9181ca8fb94267f99a2354017fa0103bfb59e67894778cbb2aa"
+        },
+        {
+          "path": "sources/raw/references/bopp-1816-conjugationssystem.md",
+          "bytes": 357857,
+          "sha256": "6f4bad00e6eeec4266ce592bee91135ca5241c29da382f495d80918c491b3692"
+        }
+      ],
+      "acquisition_status": "PDF/Markdown inbox pair verified; project copies hash-verified",
+      "title": "Über das Conjugationssystem der Sanskritsprache in Vergleichung mit jenem der griechischen, lateinischen, persischen und germanischen Sprache",
+      "author": "Franz Bopp",
+      "editor": "Karl Joseph Hieronymus Windischmann",
+      "publication_year": 1816,
+      "publisher": "Andreäische Buchhandlung",
+      "place": "Frankfurt am Main",
+      "title_page_pdf": 5,
+      "scope": "Complete offered scan, including Windischmann preface and translations; requested grammar is within this volume.",
+      "verification": "PDF parses; title/edition checked against the recorded title or copyright page; inbox PDF/Markdown pair and project-copy SHA-256 hashes verified. Full page-by-page completeness and OCR accuracy have not been certified."
+    },
+    {
+      "id": "gesammelteschrif03humbuoft",
+      "stem": "humboldt-gs-03",
+      "title_from_archive": "Gesammelte Schriften;",
+      "creator_from_archive": "Humboldt, Wilhelm, Freiherr von, 1767-1835",
+      "volume_from_archive": "3",
+      "archive_date_unverified": "1903-36",
+      "purpose": "Contains the requested Essai sur les langues du nouveau continent.",
+      "url": "https://archive.org/download/gesammelteschrif03humbuoft/gesammelteschrif03humbuoft.pdf",
+      "archive_item_url": "https://archive.org/details/gesammelteschrif03humbuoft",
+      "pages": 394,
+      "pdf_bytes": 25774214,
+      "pdf_md5": "346dc581cf01b9925b251d649dd99ceb",
+      "pdf_sha256": "1749a8b92b8c413f9ce934609b72a891943d942433a1e3645fb7548cf88692dd",
+      "ocr_path": "sources/raw/references/humboldt-gs-03-archive-ocr.txt",
+      "ocr_md5": "e134f6705cc3c01c99f994ea1e96e07c",
+      "ocr_sha256": "c03ecea673b72e309a05af51571f69fb003b569ce3b75b22ebc6a98a06fa0d9a",
+      "markdown_method": "Wrapper around uncorrected Archive OCR from the same item; not a checked transcription.",
+      "acquired_at": "2026-11-15T01:43:09+00:00",
+      "reading_status": "Essai §§1–6, printed pp.300–306, read for opening-001; image anchors checked at PDF312 and318. Remaining volume not read for this task.",
+      "inbox_pdf": "/Users/brettreynolds/pdf-inbox/humboldt-gs-03.pdf",
+      "inbox_markdown": "/Users/brettreynolds/pdf-inbox/humboldt-gs-03.md",
+      "project_assets": [
+        {
+          "path": "sources/raw/references/humboldt-gs-03.pdf",
+          "bytes": 25774214,
+          "sha256": "1749a8b92b8c413f9ce934609b72a891943d942433a1e3645fb7548cf88692dd"
+        },
+        {
+          "path": "sources/raw/references/humboldt-gs-03.md",
+          "bytes": 1045166,
+          "sha256": "a3e592faccba522bc6f6c81b9f41defdf999b1a883b484644a9a91742bfc86c8"
+        }
+      ],
+      "acquisition_status": "PDF/Markdown inbox pair verified; project copies hash-verified",
+      "title": "Gesammelte Schriften, volume III",
+      "author": "Wilhelm von Humboldt",
+      "editor": "Albert Leitzmann",
+      "volume": "III",
+      "publication_year": 1904,
+      "publisher": "B. Behr’s Verlag",
+      "place": "Berlin",
+      "title_page_pdf": 6,
+      "verification": "PDF parses; title/edition checked against the recorded title or copyright page; inbox PDF/Markdown pair and project-copy SHA-256 hashes verified. Full page-by-page completeness and OCR accuracy have not been certified."
+    },
+    {
+      "id": "gesammelteschrif04humbuoft",
+      "stem": "humboldt-gs-04",
+      "title_from_archive": "Gesammelte Schriften;",
+      "creator_from_archive": "Humboldt, Wilhelm, Freiherr von, 1767-1835",
+      "volume_from_archive": "4",
+      "archive_date_unverified": "1903-36",
+      "purpose": "Contains the comparative-language and grammatical-forms essays.",
+      "url": "https://archive.org/download/gesammelteschrif04humbuoft/gesammelteschrif04humbuoft.pdf",
+      "archive_item_url": "https://archive.org/details/gesammelteschrif04humbuoft",
+      "pages": 456,
+      "pdf_bytes": 30852317,
+      "pdf_md5": "8c0ccda8e4390d433b8db812fdfb0a38",
+      "pdf_sha256": "4c087ff1513002fadb8826ab5ecc8917ba822a657d9ec2cf498f92281b4d3c66",
+      "ocr_path": "sources/raw/references/humboldt-gs-04-archive-ocr.txt",
+      "ocr_md5": "c2decf01472c4dc7aaa65d85e80552c2",
+      "ocr_sha256": "2ec697d3deb5aff96db16d836ac2095bb515139ed5396d64ad1b6e7569bc1182",
+      "markdown_method": "Wrapper around uncorrected Archive OCR from the same item; not a checked transcription.",
+      "acquired_at": "2026-11-15T01:43:09+00:00",
+      "reading_status": "Not fully read; no passages used to adjudicate the translation.",
+      "inbox_pdf": "/Users/brettreynolds/pdf-inbox/humboldt-gs-04.pdf",
+      "inbox_markdown": "/Users/brettreynolds/pdf-inbox/humboldt-gs-04.md",
+      "project_assets": [
+        {
+          "path": "sources/raw/references/humboldt-gs-04.pdf",
+          "bytes": 30852317,
+          "sha256": "4c087ff1513002fadb8826ab5ecc8917ba822a657d9ec2cf498f92281b4d3c66"
+        },
+        {
+          "path": "sources/raw/references/humboldt-gs-04.md",
+          "bytes": 1219000,
+          "sha256": "7e1a88e2aba87accd960325c388c4b298902b03da0afc751707b4c29ef2d2e26"
+        }
+      ],
+      "acquisition_status": "PDF/Markdown inbox pair verified; project copies hash-verified",
+      "title": "Gesammelte Schriften, volume IV",
+      "author": "Wilhelm von Humboldt",
+      "editor": "Albert Leitzmann",
+      "volume": "IV",
+      "publication_year": 1905,
+      "publisher": "B. Behr’s Verlag",
+      "place": "Berlin",
+      "title_page_pdf": 6,
+      "verification": "PDF parses; title/edition checked against the recorded title or copyright page; inbox PDF/Markdown pair and project-copy SHA-256 hashes verified. Full page-by-page completeness and OCR accuracy have not been certified."
+    },
+    {
+      "id": "gesammelteschrif62humbuoft",
+      "stem": "humboldt-gs-06-2",
+      "title_from_archive": "Gesammelte Schriften;",
+      "creator_from_archive": "Humboldt, Wilhelm, Freiherr von, 1767-1835",
+      "volume_from_archive": "6 pt 2",
+      "archive_date_unverified": "1903-36",
+      "purpose": "Contains Von dem grammatischen Baue der Sprachen (1827–1829), printed pp. 337–486.",
+      "url": "https://archive.org/download/gesammelteschrif62humbuoft/gesammelteschrif62humbuoft.pdf",
+      "archive_item_url": "https://archive.org/details/gesammelteschrif62humbuoft",
+      "pages": 292,
+      "pdf_bytes": 20590444,
+      "pdf_md5": "73ef19023c24efd7451fdb1b0c54fb65",
+      "pdf_sha256": "8607219c19ecf295b4de107ab313083c847bccd161f717075a1379a5f81b7ced",
+      "ocr_path": "sources/raw/references/humboldt-gs-06-2-archive-ocr.txt",
+      "ocr_md5": "364e6facb2d06ef5d3674d636a3bb1a3",
+      "ocr_sha256": "995860a620dd444132953012e8fe155335ac96e25d833564755c4e5bfaf4cbb1",
+      "markdown_method": "Wrapper around uncorrected Archive OCR from the same item; not a checked transcription.",
+      "acquired_at": "2026-11-15T01:50:29+00:00",
+      "reading_status": "Not fully read; no passages used to adjudicate the translation.",
+      "inbox_pdf": "/Users/brettreynolds/pdf-inbox/humboldt-gs-06-2.pdf",
+      "inbox_markdown": "/Users/brettreynolds/pdf-inbox/humboldt-gs-06-2.md",
+      "project_assets": [
+        {
+          "path": "sources/raw/references/humboldt-gs-06-2.pdf",
+          "bytes": 20590444,
+          "sha256": "8607219c19ecf295b4de107ab313083c847bccd161f717075a1379a5f81b7ced"
+        },
+        {
+          "path": "sources/raw/references/humboldt-gs-06-2.md",
+          "bytes": 773764,
+          "sha256": "06abaad7faec6d6b7ac2c380cc96bcbfe25757f24fde3f0e588e558c684a6f68"
+        }
+      ],
+      "acquisition_status": "PDF/Markdown inbox pair verified; project copies hash-verified",
+      "title": "Gesammelte Schriften, volume VI/2",
+      "author": "Wilhelm von Humboldt",
+      "editor": "Albert Leitzmann",
+      "volume": "VI/2",
+      "publication_year": 1907,
+      "publisher": "B. Behr’s Verlag",
+      "place": "Berlin",
+      "title_page_pdf": 6,
+      "verification": "PDF parses; title/edition checked against the recorded title or copyright page; inbox PDF/Markdown pair and project-copy SHA-256 hashes verified. Full page-by-page completeness and OCR accuracy have not been certified."
+    },
+    {
+      "id": "gesammelteschrif06humbuoft",
+      "stem": "humboldt-gs-06",
+      "title_from_archive": "Gesammelte Schriften;",
+      "creator_from_archive": "Humboldt, Wilhelm, Freiherr von, 1767-1835",
+      "volume_from_archive": "6",
+      "archive_date_unverified": "1903-36",
+      "purpose": "Contains Über den Dualis and the later Sprachbau manuscripts.",
+      "url": "https://archive.org/download/gesammelteschrif06humbuoft/gesammelteschrif06humbuoft.pdf",
+      "archive_item_url": "https://archive.org/details/gesammelteschrif06humbuoft",
+      "pages": 350,
+      "pdf_bytes": 22617212,
+      "pdf_md5": "4df540ab7d4b5409a786a39cabc92454",
+      "pdf_sha256": "31609c36370038448c2b9d0e11bf5a9ed3191c00863b9fff4ab0d92c34360f38",
+      "ocr_path": "sources/raw/references/humboldt-gs-06-archive-ocr.txt",
+      "ocr_md5": "6aed09f246565cd60b91d34fc31acf7b",
+      "ocr_sha256": "61586e13f988d124a935b834c97dd17976f591b95e073ccf2f61480e63f9dba6",
+      "markdown_method": "Wrapper around uncorrected Archive OCR from the same item; not a checked transcription.",
+      "acquired_at": "2026-11-15T01:43:20+00:00",
+      "reading_status": "Not fully read; no passages used to adjudicate the translation.",
+      "inbox_pdf": "/Users/brettreynolds/pdf-inbox/humboldt-gs-06.pdf",
+      "inbox_markdown": "/Users/brettreynolds/pdf-inbox/humboldt-gs-06.md",
+      "project_assets": [
+        {
+          "path": "sources/raw/references/humboldt-gs-06.pdf",
+          "bytes": 22617212,
+          "sha256": "31609c36370038448c2b9d0e11bf5a9ed3191c00863b9fff4ab0d92c34360f38"
+        },
+        {
+          "path": "sources/raw/references/humboldt-gs-06.md",
+          "bytes": 961885,
+          "sha256": "6f71109b176b7dc7e2bb99b2ee6e0172bd5fce3b0526460b3fb5354c57fb8f4d"
+        }
+      ],
+      "acquisition_status": "PDF/Markdown inbox pair verified; project copies hash-verified",
+      "title": "Gesammelte Schriften, volume VI/1",
+      "author": "Wilhelm von Humboldt",
+      "editor": "Albert Leitzmann",
+      "volume": "VI/1",
+      "publication_year": 1907,
+      "publisher": "B. Behr’s Verlag",
+      "place": "Berlin",
+      "title_page_pdf": 6,
+      "verification": "PDF parses; title/edition checked against the recorded title or copyright page; inbox PDF/Markdown pair and project-copy SHA-256 hashes verified. Full page-by-page completeness and OCR accuracy have not been certified."
+    },
+    {
+      "id": "1gesammelteschri07humbuoft",
+      "stem": "humboldt-gs-07-1",
+      "title_from_archive": "Gesammelte Schriften;",
+      "creator_from_archive": "Humboldt, Wilhelm, Freiherr von, 1767-1835",
+      "volume_from_archive": "7 pt 1",
+      "archive_date_unverified": "1903-36",
+      "purpose": "Contains the Kawi introduction.",
+      "url": "https://archive.org/download/1gesammelteschri07humbuoft/1gesammelteschri07humbuoft.pdf",
+      "archive_item_url": "https://archive.org/details/1gesammelteschri07humbuoft",
+      "pages": 366,
+      "pdf_bytes": 27068295,
+      "pdf_md5": "fd76eb770ce0885720d80c346021f964",
+      "pdf_sha256": "e5eff2d26addd37ec2bf03ed7bf8514fc75b09100bf41bf7c257f31f1aa15706",
+      "ocr_path": "sources/raw/references/humboldt-gs-07-1-archive-ocr.txt",
+      "ocr_md5": "604c2c5263414282b28961bc2948dc2f",
+      "ocr_sha256": "220262034817a1e2cc8ce74f428bb7c7989cc4cb7aed43f9e26911d4575cf15d",
+      "markdown_method": "Wrapper around uncorrected Archive OCR from the same item; not a checked transcription.",
+      "acquired_at": "2026-11-15T01:43:15+00:00",
+      "reading_status": "Not fully read; no passages used to adjudicate the translation.",
+      "inbox_pdf": "/Users/brettreynolds/pdf-inbox/humboldt-gs-07-1.pdf",
+      "inbox_markdown": "/Users/brettreynolds/pdf-inbox/humboldt-gs-07-1.md",
+      "project_assets": [
+        {
+          "path": "sources/raw/references/humboldt-gs-07-1.pdf",
+          "bytes": 27068295,
+          "sha256": "e5eff2d26addd37ec2bf03ed7bf8514fc75b09100bf41bf7c257f31f1aa15706"
+        },
+        {
+          "path": "sources/raw/references/humboldt-gs-07-1.md",
+          "bytes": 1037297,
+          "sha256": "619b13da2de21596eb7f018d05d5fdfc11590ccaa82eaf82cd4cbfaebe696e77"
+        }
+      ],
+      "acquisition_status": "PDF/Markdown inbox pair verified; project copies hash-verified",
+      "title": "Gesammelte Schriften, volume VII/1",
+      "author": "Wilhelm von Humboldt",
+      "editor": "Albert Leitzmann",
+      "volume": "VII/1",
+      "publication_year": 1907,
+      "publisher": "B. Behr’s Verlag",
+      "place": "Berlin",
+      "title_page_pdf": 6,
+      "verification": "PDF parses; title/edition checked against the recorded title or copyright page; inbox PDF/Markdown pair and project-copy SHA-256 hashes verified. Full page-by-page completeness and OCR accuracy have not been certified."
+    },
+    {
+      "id": "gesammelteschrif08humbuoft",
+      "stem": "humboldt-gs-08",
+      "title_from_archive": "Gesammelte Schriften;",
+      "creator_from_archive": "Humboldt, Wilhelm, Freiherr von, 1767-1835",
+      "volume_from_archive": "8",
+      "archive_date_unverified": "1903-36",
+      "purpose": "Relevant translation material; include only after confirming the requested Agamemnon introduction.",
+      "url": "https://archive.org/download/gesammelteschrif08humbuoft/gesammelteschrif08humbuoft.pdf",
+      "archive_item_url": "https://archive.org/details/gesammelteschrif08humbuoft",
+      "pages": 286,
+      "pdf_bytes": 15725583,
+      "pdf_md5": "1d80b9f2253449449cc61a1da74d8139",
+      "pdf_sha256": "d54fc06d547456846c4740638645b865efa4bad1df7040a687df491ae5c38b8b",
+      "ocr_path": "sources/raw/references/humboldt-gs-08-archive-ocr.txt",
+      "ocr_md5": "a4496b64c89643e5698768877983d579",
+      "ocr_sha256": "f39cde93317ac8b2028fc36005d56400bdf8dde6e6f50aa94182bd930a143dbb",
+      "markdown_method": "Wrapper around uncorrected Archive OCR from the same item; not a checked transcription.",
+      "acquired_at": "2026-11-15T01:43:40+00:00",
+      "reading_status": "Not fully read; no passages used to adjudicate the translation.",
+      "inbox_pdf": "/Users/brettreynolds/pdf-inbox/humboldt-gs-08.pdf",
+      "inbox_markdown": "/Users/brettreynolds/pdf-inbox/humboldt-gs-08.md",
+      "project_assets": [
+        {
+          "path": "sources/raw/references/humboldt-gs-08.pdf",
+          "bytes": 15725583,
+          "sha256": "d54fc06d547456846c4740638645b865efa4bad1df7040a687df491ae5c38b8b"
+        },
+        {
+          "path": "sources/raw/references/humboldt-gs-08.md",
+          "bytes": 525888,
+          "sha256": "269ecd0088306a255d3b39d3bf6053079b30789b42bcedff044a638c200201a4"
+        }
+      ],
+      "acquisition_status": "PDF/Markdown inbox pair verified; project copies hash-verified",
+      "title": "Gesammelte Schriften, volume VIII",
+      "author": "Wilhelm von Humboldt",
+      "editor": "Albert Leitzmann",
+      "volume": "VIII",
+      "publication_year": 1909,
+      "publisher": "B. Behr’s Verlag",
+      "place": "Berlin",
+      "title_page_pdf": 6,
+      "verification": "PDF parses; title/edition checked against the recorded title or copyright page; inbox PDF/Markdown pair and project-copy SHA-256 hashes verified. Full page-by-page completeness and OCR accuracy have not been certified."
+    },
+    {
+      "id": "10922018bsb",
+      "stem": "schlegel-1808-sprache-weisheit-indier",
+      "title_from_archive": "Über die Sprache und Weisheit der Indier",
+      "creator_from_archive": "Schlegel, Friedrich von",
+      "volume_from_archive": null,
+      "archive_date_unverified": "1808",
+      "purpose": "Requested contemporary comparative study.",
+      "url": "https://archive.org/download/10922018bsb/10922018bsb_text.pdf",
+      "archive_item_url": "https://archive.org/details/10922018bsb",
+      "pages": 351,
+      "pdf_bytes": 9809291,
+      "pdf_md5": "982b725c21daef4baeed4c4f31c351c8",
+      "pdf_sha256": "fe4947a31be1b5dc532f7fa6e51e7194f524314c0dd72ac5594376e4a7408ea4",
+      "ocr_path": "sources/raw/references/schlegel-1808-sprache-weisheit-indier-archive-ocr.txt",
+      "ocr_md5": "74d8d0390e6021cec04e935855de5a0a",
+      "ocr_sha256": "b840f2108541a0de55a86d5f110a85e6099a8f042ee1de6df3ddc5a679690da4",
+      "markdown_method": "Wrapper around uncorrected Archive OCR from the same item; not a checked transcription.",
+      "acquired_at": "2026-11-15T01:43:36+00:00",
+      "reading_status": "Not fully read; no passages used to adjudicate the translation.",
+      "inbox_pdf": "/Users/brettreynolds/pdf-inbox/schlegel-1808-sprache-weisheit-indier.pdf",
+      "inbox_markdown": "/Users/brettreynolds/pdf-inbox/schlegel-1808-sprache-weisheit-indier.md",
+      "project_assets": [
+        {
+          "path": "sources/raw/references/schlegel-1808-sprache-weisheit-indier.pdf",
+          "bytes": 9809291,
+          "sha256": "fe4947a31be1b5dc532f7fa6e51e7194f524314c0dd72ac5594376e4a7408ea4"
+        },
+        {
+          "path": "sources/raw/references/schlegel-1808-sprache-weisheit-indier.md",
+          "bytes": 241708,
+          "sha256": "4158c686c5cca8d2aeedd27cab505eb0e05512d5bbbf5a6f1a4b5dcc085e3d4c"
+        }
+      ],
+      "acquisition_status": "PDF/Markdown inbox pair verified; project copies hash-verified",
+      "title": "Über die Sprache und Weisheit der Indier",
+      "author": "Friedrich Schlegel",
+      "publication_year": 1808,
+      "publisher": "Mohr und Zimmer",
+      "place": "Heidelberg",
+      "title_page_pdf": 5,
+      "verification": "PDF parses; title/edition checked against the recorded title or copyright page; inbox PDF/Markdown pair and project-copy SHA-256 hashes verified. Full page-by-page completeness and OCR accuracy have not been certified."
+    },
+    {
+      "stem": "trabant-2023-anthropological-linguistics",
+      "origin": "existing local Mendeley holding",
+      "original_path": "/Users/brettreynolds/Documents/Mendeley Desktop/Trabant/The Cambridge History of Linguistics/Trabant - 2023 - The Celebration of Linguistic Diversity Humboldt’s Anthropological Linguistics.pdf",
+      "pdf_sha256": "c07220e68953c508e8ae42d7d534c85a7b8a2f59cc5e9945b7c39ae8323a0741",
+      "reading_status": "Not fully read; no passages used to adjudicate the translation.",
+      "inbox_pdf": "/Users/brettreynolds/pdf-inbox/trabant-2023-anthropological-linguistics.pdf",
+      "inbox_markdown": "/Users/brettreynolds/pdf-inbox/trabant-2023-anthropological-linguistics.md",
+      "project_assets": [
+        {
+          "path": "sources/raw/references/trabant-2023-anthropological-linguistics.pdf",
+          "bytes": 108607,
+          "sha256": "c07220e68953c508e8ae42d7d534c85a7b8a2f59cc5e9945b7c39ae8323a0741"
+        },
+        {
+          "path": "sources/raw/references/trabant-2023-anthropological-linguistics.md",
+          "bytes": 49025,
+          "sha256": "2ffc1cb2aa45a554ca7664623f862c0a139993714cf9f10282bcf4677fbbfd49"
+        }
+      ],
+      "pages": 18,
+      "acquisition_status": "PDF/Markdown inbox pair verified; project copies hash-verified",
+      "title": "The Celebration of Linguistic Diversity: Humboldt’s Anthropological Linguistics",
+      "author": "Jürgen Trabant",
+      "publication_year": 2023,
+      "publication": "The Cambridge History of Linguistics",
+      "doi": "10.1017/9780511842788.019",
+      "printed_pages": "308–325",
+      "title_page_pdf": 1,
+      "scope": "Complete 18-page chapter from existing local holding; title and final printed page checked.",
+      "markdown_method": "Automatic inbox-watcher PDF text extraction; not proofread.",
+      "verification": "PDF parses; title/edition checked against the recorded title or copyright page; inbox PDF/Markdown pair and project-copy SHA-256 hashes verified. Full page-by-page completeness and OCR accuracy have not been certified."
+    },
+    {
+      "stem": "underhill-2009-humboldt-worldview-language",
+      "origin": "existing local Mendeley holding",
+      "original_path": "/Users/brettreynolds/Documents/Mendeley Desktop/Underhill/Humboldt, Worldview and Language/Underhill - 2009 - Humboldt, worldview and language.pdf",
+      "pdf_sha256": "e539b373e317831e39acdb958543d92994cff7bb9feb24ae466e3ab312f50367",
+      "reading_status": "Contextual pages 65 and 74 consulted for opening-001; book not fully read. No translation decision adopted.",
+      "inbox_pdf": "/Users/brettreynolds/pdf-inbox/underhill-2009-humboldt-worldview-language.pdf",
+      "inbox_markdown": "/Users/brettreynolds/pdf-inbox/underhill-2009-humboldt-worldview-language.md",
+      "project_assets": [
+        {
+          "path": "sources/raw/references/underhill-2009-humboldt-worldview-language.pdf",
+          "bytes": 1009759,
+          "sha256": "e539b373e317831e39acdb958543d92994cff7bb9feb24ae466e3ab312f50367"
+        },
+        {
+          "path": "sources/raw/references/underhill-2009-humboldt-worldview-language.md",
+          "bytes": 334736,
+          "sha256": "94d33569bb6bc167b49313a6da2e2d64b0be864fdc74fb417bdcac77b79bcfe7"
+        }
+      ],
+      "pages": 177,
+      "acquisition_status": "PDF/Markdown inbox pair verified; project copies hash-verified",
+      "title": "Humboldt, Worldview and Language",
+      "author": "James W. Underhill",
+      "publication_year": 2009,
+      "publisher": "Edinburgh University Press",
+      "isbn": "9780748638420",
+      "title_page_pdf": 4,
+      "copyright_page_pdf": 5,
+      "scope": "Complete local book, 177 PDF pages; final numbered page 164.",
+      "markdown_method": "Automatic inbox-watcher PDF text extraction; not proofread.",
+      "verification": "PDF parses; title/edition checked against the recorded title or copyright page; inbox PDF/Markdown pair and project-copy SHA-256 hashes verified. Full page-by-page completeness and OCR accuracy have not been certified."
+    },
+    {
+      "id": "manchester-1985",
+      "title": "The Philosophical Foundations of Humboldt’s Linguistic Doctrines",
+      "author": "Martin L. Manchester",
+      "publication_year": 1985,
+      "publisher": "John Benjamins Publishing Company",
+      "place": "Amsterdam/Philadelphia",
+      "doi": "10.1075/sihols.32",
+      "url": "https://www.degruyterbrill.com/document/doi/10.1075/sihols.32/html",
+      "acquired_at": "2026-11-15T02:19:15+00:00",
+      "acquisition_status": "Complete publisher section set acquired through authenticated University of Toronto subscription; all PDF/Markdown inbox pairs and project-copy hashes verified.",
+      "reading_status": "Partially read for opening-001: pp.67–70,83–90,103–106. Full book and cited sources not audited; no translation decision adopted.",
+      "markdown_method": "Automatic inbox-watcher PDF text extraction; not proofread.",
+      "parts": [
+        {
+          "section_id": "prelim",
+          "title": "Prelim pages",
+          "printed_pages": "i–iv",
+          "numbering": "roman",
+          "pdf_pages": 5,
+          "publisher_cover_pdf_page": 1,
+          "source_url": "https://www.degruyterbrill.com/document/doi/10.1075/sihols.32.prelim/pdf",
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.prelim.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.prelim.md",
+          "project_assets": [
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.prelim.pdf",
+              "bytes": 800972,
+              "sha256": "f28b26a7b015103b67ee96b9c1dfc7878c99e4e556eb39cb17d7e505661286d5"
+            },
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.prelim.md",
+              "bytes": 2249,
+              "sha256": "fb5463a7db034509bd8c08038a987db4bdc6db44b5cc6c193e8d31311b1df38c"
+            }
+          ]
+        },
+        {
+          "section_id": "toc",
+          "title": "Contents",
+          "printed_pages": "v–vi",
+          "numbering": "roman",
+          "pdf_pages": 3,
+          "publisher_cover_pdf_page": 1,
+          "source_url": "https://www.degruyterbrill.com/document/doi/10.1075/sihols.32.toc/pdf",
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.toc.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.toc.md",
+          "project_assets": [
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.toc.pdf",
+              "bytes": 805294,
+              "sha256": "8f369f6d2458d4456a657af7e5678e9d9b3617ab569a24e708d5fd1d2edb82f1"
+            },
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.toc.md",
+              "bytes": 2425,
+              "sha256": "258104c9ca16e6929c0c5a568fd375c30b39c5d2e9fcb8568a1dfdec9233b422"
+            }
+          ]
+        },
+        {
+          "section_id": "preface",
+          "title": "Preface",
+          "printed_pages": "vii–viii",
+          "numbering": "roman",
+          "pdf_pages": 3,
+          "publisher_cover_pdf_page": 1,
+          "source_url": "https://www.degruyterbrill.com/document/doi/10.1075/sihols.32.preface/pdf",
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.preface.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.preface.md",
+          "project_assets": [
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.preface.pdf",
+              "bytes": 844451,
+              "sha256": "81aaf195d43ff63f88ec6267e2e086a85da74e7e2fa7eb33a9d89a5cd6cb4601"
+            },
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.preface.md",
+              "bytes": 3363,
+              "sha256": "646b5817a065e28c3c9271eac39fba2c60b1756380acdd6e9a139625b1e3f4fa"
+            }
+          ]
+        },
+        {
+          "section_id": "key",
+          "title": "Key to abbreviations",
+          "printed_pages": "ix–xii",
+          "numbering": "roman",
+          "pdf_pages": 5,
+          "publisher_cover_pdf_page": 1,
+          "source_url": "https://www.degruyterbrill.com/document/doi/10.1075/sihols.32.key/pdf",
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.key.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.key.md",
+          "project_assets": [
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.key.pdf",
+              "bytes": 869590,
+              "sha256": "4b2e49c7ac12a8391e61e93f2ea71cb380a3c33736f9092af69fb3334aba6de9"
+            },
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.key.md",
+              "bytes": 3682,
+              "sha256": "c18ab9648e569a0ad559d0c314ff8112645dfe3c0258c74f5d6f9b485b878424"
+            }
+          ]
+        },
+        {
+          "section_id": "c0",
+          "title": "Introduction",
+          "printed_pages": "1–16",
+          "numbering": "arabic",
+          "pdf_pages": 17,
+          "publisher_cover_pdf_page": 1,
+          "source_url": "https://www.degruyterbrill.com/document/doi/10.1075/sihols.32.c0/pdf",
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.c0.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.c0.md",
+          "project_assets": [
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c0.pdf",
+              "bytes": 2124664,
+              "sha256": "7e082ea4708ad4df19582811486d696dc4fe5883f0586a3deeba1cf2c2a76371"
+            },
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c0.md",
+              "bytes": 31456,
+              "sha256": "9e3d9370dfce9e90ad5f0a8f5f4c445063d7c5f8bccd5410f9b724a6a684a7c0"
+            }
+          ]
+        },
+        {
+          "section_id": "c1",
+          "title": "Humboldt’s philosophical background",
+          "printed_pages": "17–28",
+          "numbering": "arabic",
+          "pdf_pages": 13,
+          "publisher_cover_pdf_page": 1,
+          "source_url": "https://www.degruyterbrill.com/document/doi/10.1075/sihols.32.c1/pdf",
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.c1.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.c1.md",
+          "project_assets": [
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c1.pdf",
+              "bytes": 1858668,
+              "sha256": "8ebf93c3af273662e402142d974f2fbfbc6b0cea6f604c791b02431de335d560"
+            },
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c1.md",
+              "bytes": 25659,
+              "sha256": "94a4becf7b960801f152367aa046fe3e2eb939c84d5365448d9beba7a240518d"
+            }
+          ]
+        },
+        {
+          "section_id": "c2",
+          "title": "The psychological function of language",
+          "printed_pages": "29–50",
+          "numbering": "arabic",
+          "pdf_pages": 23,
+          "publisher_cover_pdf_page": 1,
+          "source_url": "https://www.degruyterbrill.com/document/doi/10.1075/sihols.32.c2/pdf",
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.c2.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.c2.md",
+          "project_assets": [
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c2.pdf",
+              "bytes": 2896064,
+              "sha256": "97b08cb1300e9774e32299c898b1caf8d4e8004e4f1a97671929aa317d92cda6"
+            },
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c2.md",
+              "bytes": 49665,
+              "sha256": "4b2989155c4df5274dbad5f0cc817968c2549b512194b1e941ddd005c321b6f6"
+            }
+          ]
+        },
+        {
+          "section_id": "c3",
+          "title": "Humboldt’s theory of designation",
+          "printed_pages": "51–66",
+          "numbering": "arabic",
+          "pdf_pages": 17,
+          "publisher_cover_pdf_page": 1,
+          "source_url": "https://www.degruyterbrill.com/document/doi/10.1075/sihols.32.c3/pdf",
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.c3.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.c3.md",
+          "project_assets": [
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c3.pdf",
+              "bytes": 2208813,
+              "sha256": "bbd296c32fe0f21e05dc157aeb43a18cc0ad726be60f748b107e317ad95e9a3a"
+            },
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c3.md",
+              "bytes": 33444,
+              "sha256": "28776c4050e91036e81dfd55bb6ea169429a4650c5e0af219c07626f6862ed48"
+            }
+          ]
+        },
+        {
+          "section_id": "c4",
+          "title": "General aspects of language variation",
+          "printed_pages": "67–90",
+          "numbering": "arabic",
+          "pdf_pages": 25,
+          "publisher_cover_pdf_page": 1,
+          "source_url": "https://www.degruyterbrill.com/document/doi/10.1075/sihols.32.c4/pdf",
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.c4.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.c4.md",
+          "project_assets": [
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c4.pdf",
+              "bytes": 3138866,
+              "sha256": "ab25c8e5168807dc092805c9d6c1e845ac3082c796ff435f2efc7f9cac938a7c"
+            },
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c4.md",
+              "bytes": 55233,
+              "sha256": "46b101ab4a25d7fcd5bab87dc654524bff3a6df959001fe077740c6114b15f45"
+            }
+          ]
+        },
+        {
+          "section_id": "c5",
+          "title": "Linguistic variation and perceptual variation",
+          "printed_pages": "91–102",
+          "numbering": "arabic",
+          "pdf_pages": 13,
+          "publisher_cover_pdf_page": 1,
+          "source_url": "https://www.degruyterbrill.com/document/doi/10.1075/sihols.32.c5/pdf",
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.c5.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.c5.md",
+          "project_assets": [
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c5.pdf",
+              "bytes": 1870602,
+              "sha256": "0bd3cce83d019cc6690112b7ee64af441925ccf6e9c101b97563c22e3692f44b"
+            },
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c5.md",
+              "bytes": 26674,
+              "sha256": "9ee61b17bb942da6634b640e89ecab82fd7c0c3deb43158d1cd362ebd5366e07"
+            }
+          ]
+        },
+        {
+          "section_id": "c6",
+          "title": "National character and language",
+          "printed_pages": "103–124",
+          "numbering": "arabic",
+          "pdf_pages": 23,
+          "publisher_cover_pdf_page": 1,
+          "source_url": "https://www.degruyterbrill.com/document/doi/10.1075/sihols.32.c6/pdf",
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.c6.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.c6.md",
+          "project_assets": [
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c6.pdf",
+              "bytes": 2620377,
+              "sha256": "41ea90fd8341e7e386e82b1bfc5a060dd0052bd9cf8df3ee6e22cacc63f60e5c"
+            },
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c6.md",
+              "bytes": 43581,
+              "sha256": "0b9a3aa0ab2e1d08423c8dffea4fc398b2b8be8b6ab365e2e2b0645957a7b98d"
+            }
+          ]
+        },
+        {
+          "section_id": "c7",
+          "title": "The inflectional superiority thesis",
+          "printed_pages": "125–142",
+          "numbering": "arabic",
+          "pdf_pages": 19,
+          "publisher_cover_pdf_page": 1,
+          "source_url": "https://www.degruyterbrill.com/document/doi/10.1075/sihols.32.c7/pdf",
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.c7.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.c7.md",
+          "project_assets": [
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c7.pdf",
+              "bytes": 2506139,
+              "sha256": "523fec0305e367bb4800b861c56b14dad2a6dfb9cb3c093329c66ead89bf59a6"
+            },
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c7.md",
+              "bytes": 41004,
+              "sha256": "27a2abe83aa261920a0c7c723e55d90c0c13b34b43108aef3e8735cba7c97eb4"
+            }
+          ]
+        },
+        {
+          "section_id": "c8",
+          "title": "The linguistic relativity thesis",
+          "printed_pages": "143–158",
+          "numbering": "arabic",
+          "pdf_pages": 17,
+          "publisher_cover_pdf_page": 1,
+          "source_url": "https://www.degruyterbrill.com/document/doi/10.1075/sihols.32.c8/pdf",
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.c8.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.c8.md",
+          "project_assets": [
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c8.pdf",
+              "bytes": 2330868,
+              "sha256": "2453b6e3a357eaab89adb139c15832ac1dbef836e468b67a4cb91962ec8ca3b1"
+            },
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c8.md",
+              "bytes": 37276,
+              "sha256": "34239a92d7b732d368fa3b2fc17cadc0d239b7169a9b3a9b186b675af0b74af7"
+            }
+          ]
+        },
+        {
+          "section_id": "con",
+          "title": "Conclusion",
+          "printed_pages": "159–164",
+          "numbering": "arabic",
+          "pdf_pages": 7,
+          "publisher_cover_pdf_page": 1,
+          "source_url": "https://www.degruyterbrill.com/document/doi/10.1075/sihols.32.con/pdf",
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.con.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.con.md",
+          "project_assets": [
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.con.pdf",
+              "bytes": 1219816,
+              "sha256": "0ea82bcffd3d2441d2f4c6a5f5b71b7dabfaba5a95ab0a6abf82491e9964bd6a"
+            },
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.con.md",
+              "bytes": 11811,
+              "sha256": "d84e974b72980edfef9e08328e20905126c088ef306dc52021e6ecfce3118619"
+            }
+          ]
+        },
+        {
+          "section_id": "notes",
+          "title": "Notes",
+          "printed_pages": "165–200",
+          "numbering": "arabic",
+          "pdf_pages": 37,
+          "publisher_cover_pdf_page": 1,
+          "source_url": "https://www.degruyterbrill.com/document/doi/10.1075/sihols.32.notes/pdf",
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.notes.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.notes.md",
+          "project_assets": [
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.notes.pdf",
+              "bytes": 4208812,
+              "sha256": "956bf64217fb7ad69292c09fb532232dc44346faaced5fc02cf039b5c0199191"
+            },
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.notes.md",
+              "bytes": 77709,
+              "sha256": "a24e7f76a095adf14a73eddf58a9f3e8104587a8ae4b178f43b03dc754eb1538"
+            }
+          ]
+        },
+        {
+          "section_id": "refs",
+          "title": "References",
+          "printed_pages": "201–208",
+          "numbering": "arabic",
+          "pdf_pages": 9,
+          "publisher_cover_pdf_page": 1,
+          "source_url": "https://www.degruyterbrill.com/document/doi/10.1075/sihols.32.refs/pdf",
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.refs.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.refs.md",
+          "project_assets": [
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.refs.pdf",
+              "bytes": 1287972,
+              "sha256": "2d28aafefa88c33db6aa855b10b47e425fe645f68bb7c26f6e4b3e3167030df0"
+            },
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.refs.md",
+              "bytes": 12312,
+              "sha256": "a4fd08eaec67d9e9006037c0535b11fa7f4cb737cfbf1f55c885493de70223cf"
+            }
+          ]
+        },
+        {
+          "section_id": "ni",
+          "title": "Index nominum",
+          "printed_pages": "209–214",
+          "numbering": "arabic",
+          "pdf_pages": 7,
+          "publisher_cover_pdf_page": 1,
+          "source_url": "https://www.degruyterbrill.com/document/doi/10.1075/sihols.32.ni/pdf",
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.ni.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.ni.md",
+          "project_assets": [
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.ni.pdf",
+              "bytes": 876516,
+              "sha256": "a96a122f5d49eefe8272c58a548d56b57911798a0fa64e3787222f5b1b1b3bc5"
+            },
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.ni.md",
+              "bytes": 4120,
+              "sha256": "f071b78788b337be60119fffd2a42b9e4de588e8562c57ea90995dfedb4d0690"
+            }
+          ]
+        },
+        {
+          "section_id": "ri",
+          "title": "Index rerum",
+          "printed_pages": "215–216",
+          "numbering": "arabic",
+          "pdf_pages": 3,
+          "publisher_cover_pdf_page": 1,
+          "source_url": "https://www.degruyterbrill.com/document/doi/10.1075/sihols.32.ri/pdf",
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.ri.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/10.1075_sihols.32.ri.md",
+          "project_assets": [
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.ri.pdf",
+              "bytes": 794995,
+              "sha256": "af8ab6f864a1f97f4450bb7b88549c691408675eca5438e3688a394bde5a98d4"
+            },
+            {
+              "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.ri.md",
+              "bytes": 2468,
+              "sha256": "0415687060d54d5c258ee2d51005f1081798944d168a8657f4f4962333900303"
+            }
+          ]
+        }
+      ],
+      "project_assets": [
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.prelim.pdf",
+          "bytes": 800972,
+          "sha256": "f28b26a7b015103b67ee96b9c1dfc7878c99e4e556eb39cb17d7e505661286d5"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.prelim.md",
+          "bytes": 2249,
+          "sha256": "fb5463a7db034509bd8c08038a987db4bdc6db44b5cc6c193e8d31311b1df38c"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.toc.pdf",
+          "bytes": 805294,
+          "sha256": "8f369f6d2458d4456a657af7e5678e9d9b3617ab569a24e708d5fd1d2edb82f1"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.toc.md",
+          "bytes": 2425,
+          "sha256": "258104c9ca16e6929c0c5a568fd375c30b39c5d2e9fcb8568a1dfdec9233b422"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.preface.pdf",
+          "bytes": 844451,
+          "sha256": "81aaf195d43ff63f88ec6267e2e086a85da74e7e2fa7eb33a9d89a5cd6cb4601"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.preface.md",
+          "bytes": 3363,
+          "sha256": "646b5817a065e28c3c9271eac39fba2c60b1756380acdd6e9a139625b1e3f4fa"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.key.pdf",
+          "bytes": 869590,
+          "sha256": "4b2e49c7ac12a8391e61e93f2ea71cb380a3c33736f9092af69fb3334aba6de9"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.key.md",
+          "bytes": 3682,
+          "sha256": "c18ab9648e569a0ad559d0c314ff8112645dfe3c0258c74f5d6f9b485b878424"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c0.pdf",
+          "bytes": 2124664,
+          "sha256": "7e082ea4708ad4df19582811486d696dc4fe5883f0586a3deeba1cf2c2a76371"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c0.md",
+          "bytes": 31456,
+          "sha256": "9e3d9370dfce9e90ad5f0a8f5f4c445063d7c5f8bccd5410f9b724a6a684a7c0"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c1.pdf",
+          "bytes": 1858668,
+          "sha256": "8ebf93c3af273662e402142d974f2fbfbc6b0cea6f604c791b02431de335d560"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c1.md",
+          "bytes": 25659,
+          "sha256": "94a4becf7b960801f152367aa046fe3e2eb939c84d5365448d9beba7a240518d"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c2.pdf",
+          "bytes": 2896064,
+          "sha256": "97b08cb1300e9774e32299c898b1caf8d4e8004e4f1a97671929aa317d92cda6"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c2.md",
+          "bytes": 49665,
+          "sha256": "4b2989155c4df5274dbad5f0cc817968c2549b512194b1e941ddd005c321b6f6"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c3.pdf",
+          "bytes": 2208813,
+          "sha256": "bbd296c32fe0f21e05dc157aeb43a18cc0ad726be60f748b107e317ad95e9a3a"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c3.md",
+          "bytes": 33444,
+          "sha256": "28776c4050e91036e81dfd55bb6ea169429a4650c5e0af219c07626f6862ed48"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c4.pdf",
+          "bytes": 3138866,
+          "sha256": "ab25c8e5168807dc092805c9d6c1e845ac3082c796ff435f2efc7f9cac938a7c"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c4.md",
+          "bytes": 55233,
+          "sha256": "46b101ab4a25d7fcd5bab87dc654524bff3a6df959001fe077740c6114b15f45"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c5.pdf",
+          "bytes": 1870602,
+          "sha256": "0bd3cce83d019cc6690112b7ee64af441925ccf6e9c101b97563c22e3692f44b"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c5.md",
+          "bytes": 26674,
+          "sha256": "9ee61b17bb942da6634b640e89ecab82fd7c0c3deb43158d1cd362ebd5366e07"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c6.pdf",
+          "bytes": 2620377,
+          "sha256": "41ea90fd8341e7e386e82b1bfc5a060dd0052bd9cf8df3ee6e22cacc63f60e5c"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c6.md",
+          "bytes": 43581,
+          "sha256": "0b9a3aa0ab2e1d08423c8dffea4fc398b2b8be8b6ab365e2e2b0645957a7b98d"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c7.pdf",
+          "bytes": 2506139,
+          "sha256": "523fec0305e367bb4800b861c56b14dad2a6dfb9cb3c093329c66ead89bf59a6"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c7.md",
+          "bytes": 41004,
+          "sha256": "27a2abe83aa261920a0c7c723e55d90c0c13b34b43108aef3e8735cba7c97eb4"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c8.pdf",
+          "bytes": 2330868,
+          "sha256": "2453b6e3a357eaab89adb139c15832ac1dbef836e468b67a4cb91962ec8ca3b1"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c8.md",
+          "bytes": 37276,
+          "sha256": "34239a92d7b732d368fa3b2fc17cadc0d239b7169a9b3a9b186b675af0b74af7"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.con.pdf",
+          "bytes": 1219816,
+          "sha256": "0ea82bcffd3d2441d2f4c6a5f5b71b7dabfaba5a95ab0a6abf82491e9964bd6a"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.con.md",
+          "bytes": 11811,
+          "sha256": "d84e974b72980edfef9e08328e20905126c088ef306dc52021e6ecfce3118619"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.notes.pdf",
+          "bytes": 4208812,
+          "sha256": "956bf64217fb7ad69292c09fb532232dc44346faaced5fc02cf039b5c0199191"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.notes.md",
+          "bytes": 77709,
+          "sha256": "a24e7f76a095adf14a73eddf58a9f3e8104587a8ae4b178f43b03dc754eb1538"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.refs.pdf",
+          "bytes": 1287972,
+          "sha256": "2d28aafefa88c33db6aa855b10b47e425fe645f68bb7c26f6e4b3e3167030df0"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.refs.md",
+          "bytes": 12312,
+          "sha256": "a4fd08eaec67d9e9006037c0535b11fa7f4cb737cfbf1f55c885493de70223cf"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.ni.pdf",
+          "bytes": 876516,
+          "sha256": "a96a122f5d49eefe8272c58a548d56b57911798a0fa64e3787222f5b1b1b3bc5"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.ni.md",
+          "bytes": 4120,
+          "sha256": "f071b78788b337be60119fffd2a42b9e4de588e8562c57ea90995dfedb4d0690"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.ri.pdf",
+          "bytes": 794995,
+          "sha256": "af8ab6f864a1f97f4450bb7b88549c691408675eca5438e3688a394bde5a98d4"
+        },
+        {
+          "path": "sources/raw/references/manchester-1985/10.1075_sihols.32.ri.md",
+          "bytes": 2468,
+          "sha256": "0415687060d54d5c258ee2d51005f1081798944d168a8657f4f4962333900303"
+        }
+      ],
+      "scope": "18 unchanged publisher PDFs, including front matter, introduction, chapters 1–8, conclusion, notes, references and indexes. Printed i–xii and 1–216. Each section includes one additional publisher cover page. No PDFs merged or altered.",
+      "verification": "Title page visually checked at prelim PDF p.4. Publisher contents, printed ranges on section covers and PDF page counts establish section coverage; not a page-by-page visual collation.",
+      "pdf_file_count": 18,
+      "total_pdf_pages": 246
+    },
+    {
+      "id": "drechsel-2024",
+      "title": "Wilhelm von Humboldt and Early American Linguistics: Resources and Inspirations",
+      "author": "Emanuel J. Drechsel",
+      "publication_year": 2024,
+      "publisher": "Cambridge University Press",
+      "doi": "10.1017/9781108966801",
+      "ebook_isbn": "9781108966801",
+      "url": "https://www.cambridge.org/core/books/wilhelm-von-humboldt-and-early-american-linguistics/E1DC0D271FC0057BA6EE582399D7C1C6",
+      "acquired_at": "2026-11-15T02:19:15+00:00",
+      "acquisition_status": "Complete publisher section set acquired through authenticated University of Toronto subscription; all PDF/Markdown inbox pairs and project-copy hashes verified.",
+      "reading_status": "Partially read for opening-001: chapter 8 pp.144–158. Cancellation report image-checked at p.155; manuscript and critical apparatus unverified. No translation decision adopted.",
+      "markdown_method": "Automatic inbox-watcher extraction except eight brief paratext files rejected by that converter; those use labelled Poppler pdftotext -layout with PDF page markers. All text remains unproofread.",
+      "parts": [
+        {
+          "section_id": "01-0",
+          "title": "Front matter (half title, title page and copyright)",
+          "printed_pages": "i–iv",
+          "numbering": "roman",
+          "pdf_pages": 4,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-01-0.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-01-0.md",
+          "bundle_member": "01.0_pp_i_ii_Wilhelm_von_Humboldt_and_Early_American_Linguistics.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [
+            "02.0_pp_iii_iii_Wilhelm_von_Humboldt_and_Early_American_Linguistics.pdf",
+            "03.0_pp_iv_iv_Copyright_page.pdf"
+          ],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-01-0.pdf",
+              "bytes": 101427,
+              "sha256": "4e9e7c4e450d68b574be090002e981f9774dc24c541c250946fc976a24560590"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-01-0.md",
+              "bytes": 3749,
+              "sha256": "a6ff219ae9597721d914cf53dc3576523c156de4295fb7609bc68f502bbc7c1d"
+            }
+          ]
+        },
+        {
+          "section_id": "04-0",
+          "title": "Dedication",
+          "printed_pages": "v–vi",
+          "numbering": "roman",
+          "pdf_pages": 2,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-04-0.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-04-0.md",
+          "bundle_member": "04.0_pp_v_vi_Dedication.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-04-0.pdf",
+              "bytes": 26094,
+              "sha256": "4ffa6d7762aac83e47a7dae606c2dd80556ea2d7badf7a4fd485de9d0d24fe67"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-04-0.md",
+              "bytes": 604,
+              "sha256": "dd632592d887e3b8375c002ff7b81550541febc97375411466e2422d847ea118"
+            }
+          ],
+          "markdown_method": "Poppler pdftotext -layout with explicit PDF page markers; automatic converter rejected brief paratext. Source PDF unchanged; modification time refreshed to requeue only this file."
+        },
+        {
+          "section_id": "05-0",
+          "title": "Contents",
+          "printed_pages": "vii–viii",
+          "numbering": "roman",
+          "pdf_pages": 2,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-05-0.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-05-0.md",
+          "bundle_member": "05.0_pp_vii_viii_Contents.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-05-0.pdf",
+              "bytes": 47522,
+              "sha256": "3abc69bc263e6c88f6bf879691adddfbf3003874950f8d74e4b00b5157c7c743"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-05-0.md",
+              "bytes": 2302,
+              "sha256": "70ee683097bf538fac23a22147dc42cb861930c02acf35645ad4e2e8f1ecc758"
+            }
+          ]
+        },
+        {
+          "section_id": "06-0",
+          "title": "Figures and Tables",
+          "printed_pages": "ix–ix",
+          "numbering": "roman",
+          "pdf_pages": 1,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-06-0.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-06-0.md",
+          "bundle_member": "06.0_pp_ix_ix_Figures_and_Tables.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-06-0.pdf",
+              "bytes": 43527,
+              "sha256": "25f40115100b6676c7708e080fa1050713ff5562c30b512bcb5f8f1e07c42df3"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-06-0.md",
+              "bytes": 1674,
+              "sha256": "bdb0cd604d2f77fe649e27742934631c6496c90af2322fbba5b7387da8b13848"
+            }
+          ],
+          "markdown_method": "Poppler pdftotext -layout with explicit PDF page markers; automatic converter rejected brief paratext. Source PDF unchanged; modification time refreshed to requeue only this file."
+        },
+        {
+          "section_id": "07-0",
+          "title": "Maps",
+          "printed_pages": "x–x",
+          "numbering": "roman",
+          "pdf_pages": 1,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-07-0.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-07-0.md",
+          "bundle_member": "07.0_pp_x_x_Maps.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-07-0.pdf",
+              "bytes": 38115,
+              "sha256": "0f892c5c4e78d1addb8357fd8a0249d37c9508a9bbe3ccfa2cb2f16bff9fb484"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-07-0.md",
+              "bytes": 1412,
+              "sha256": "dc1a2f4b93cc2dc52f8838ac888d4ecbd04ec3b6905c3879df7e50e6559a0a2a"
+            }
+          ],
+          "markdown_method": "Poppler pdftotext -layout with explicit PDF page markers; automatic converter rejected brief paratext. Source PDF unchanged; modification time refreshed to requeue only this file."
+        },
+        {
+          "section_id": "08-0",
+          "title": "Preface",
+          "printed_pages": "xi–xii",
+          "numbering": "roman",
+          "pdf_pages": 2,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-08-0.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-08-0.md",
+          "bundle_member": "08.0_pp_xi_xii_Preface.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-08-0.pdf",
+              "bytes": 42535,
+              "sha256": "42036bfb657d8ef9e2c6cc61cc545907c1d8858a49f7d83d7549bbb585047d2e"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-08-0.md",
+              "bytes": 2996,
+              "sha256": "7abdfe49060c6aeded25c2d1ef66b63bdca24ece17871059a8a8cba22c30c36c"
+            }
+          ]
+        },
+        {
+          "section_id": "09-0",
+          "title": "Acknowledgments",
+          "printed_pages": "xiii–xviii",
+          "numbering": "roman",
+          "pdf_pages": 6,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-09-0.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-09-0.md",
+          "bundle_member": "09.0_pp_xiii_xviii_Acknowledgments.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-09-0.pdf",
+              "bytes": 64789,
+              "sha256": "07d29340a3982397c58e272a98eb2b9e7ebd69255ce3ab49f66992a320c1f1e4"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-09-0.md",
+              "bytes": 14679,
+              "sha256": "95718a9a341f2e40d45c05670ee51353025fb35abd994dbdb4d54a2c9fbafd1b"
+            }
+          ]
+        },
+        {
+          "section_id": "10-0",
+          "title": "Wilhelm von Humboldt and the Americas — part divider only",
+          "printed_pages": "1–2",
+          "numbering": "arabic",
+          "pdf_pages": 2,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-10-0.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-10-0.md",
+          "bundle_member": "10.0_pp_1_44_Wilhelm_von_Humboldt_and_the_Americas.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-10-0.pdf",
+              "bytes": 35799,
+              "sha256": "6863154a3c194f979b50b78e37c0fce9d3eb9a10e21648c41360f94398130857"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-10-0.md",
+              "bytes": 673,
+              "sha256": "ad337a6fade4838b739335763f1c7199e19ce5d2473bdd3a05135495b1df86b4"
+            }
+          ],
+          "markdown_method": "Poppler pdftotext -layout with explicit PDF page markers; automatic converter rejected brief paratext. Source PDF unchanged; modification time refreshed to requeue only this file."
+        },
+        {
+          "section_id": "10-1",
+          "title": "Introduction",
+          "printed_pages": "3–25",
+          "numbering": "arabic",
+          "pdf_pages": 23,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-10-1.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-10-1.md",
+          "bundle_member": "10.1_pp_3_25_Introduction.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-10-1.pdf",
+              "bytes": 165923,
+              "sha256": "55061d596add44641de058327b8041432100937ead8ebc72a28e705cf248bc0d"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-10-1.md",
+              "bytes": 69195,
+              "sha256": "6cc6e2955da90bb1ca562322b5b5eb24a6f08d848463c67b30ee0e02af7a787c"
+            }
+          ]
+        },
+        {
+          "section_id": "10-2",
+          "title": "Research on Wilhelm von Humboldt and His Brother Alexander as Americanist Linguists",
+          "printed_pages": "26–44",
+          "numbering": "arabic",
+          "pdf_pages": 19,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-10-2.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-10-2.md",
+          "bundle_member": "10.2_pp_26_44_Research_on_Wilhelm_von_Humboldt_and_His_Brother_Alexander_as_Americanist_Linguists.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-10-2.pdf",
+              "bytes": 121081,
+              "sha256": "8182ee87d2aec9057dfb6f6ada44fa52e66bf46ec65bbf73ab2e7b5524060ece"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-10-2.md",
+              "bytes": 54064,
+              "sha256": "83c0a37b6d492ce5be017a9068662c2a5e1870b5deb8ecad21bb4f97b1292439"
+            }
+          ]
+        },
+        {
+          "section_id": "11-0",
+          "title": "The Early Lives of Wilhelm and Alexander von Humboldt — part divider only",
+          "printed_pages": "45–46",
+          "numbering": "arabic",
+          "pdf_pages": 2,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-11-0.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-11-0.md",
+          "bundle_member": "11.0_pp_45_92_The_Early_Lives_of_Wilhelm_and_Alexander_von_Humboldt.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-11-0.pdf",
+              "bytes": 36416,
+              "sha256": "b48ebfb9e6494d9524e6cddaabc6a630e3a89146ed92cce19b94c996aaff2ff5"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-11-0.md",
+              "bytes": 696,
+              "sha256": "164ec3818be4bad4bc845d13c9c0aeebb0c25d5377a5e67ed2225a1c7f03f579"
+            }
+          ],
+          "markdown_method": "Poppler pdftotext -layout with explicit PDF page markers; automatic converter rejected brief paratext. Source PDF unchanged; modification time refreshed to requeue only this file."
+        },
+        {
+          "section_id": "11-1",
+          "title": "The Humboldt Brothers Youth and Bildung in Europe of the Late Eighteenth Century",
+          "printed_pages": "47–64",
+          "numbering": "arabic",
+          "pdf_pages": 18,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-11-1.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-11-1.md",
+          "bundle_member": "11.1_pp_47_64_The_Humboldt_Brothers_Youth_and_Bildung_in_Europe_of_the_Late_Eighteenth_Century.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-11-1.pdf",
+              "bytes": 431046,
+              "sha256": "7baf54c0928de0f65e3c72e4c80348182f7afa1d165e5ce419868d35d073ebe8"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-11-1.md",
+              "bytes": 52141,
+              "sha256": "f9a31b2a0373e82bcf87e1dfb1936fd125b92fcf18bf548baa78471e529137b2"
+            }
+          ]
+        },
+        {
+          "section_id": "11-2",
+          "title": "Alexander von Humboldt on His Explorations of the Americas and in His Role as His Brothers Intermedi",
+          "printed_pages": "65–80",
+          "numbering": "arabic",
+          "pdf_pages": 16,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-11-2.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-11-2.md",
+          "bundle_member": "11.2_pp_65_80_Alexander_von_Humboldt_on_His_Explorations_of_the_Americas_and_in_His_Role_as_His_Brothers_Intermedi.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-11-2.pdf",
+              "bytes": 724263,
+              "sha256": "f8269a2c8772b2271701603289ae85fc8b7ed1b5d9d9a400dcf2325a11bdce35"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-11-2.md",
+              "bytes": 45072,
+              "sha256": "7903eff3abb0300d379de6b459787d25c25d4fee3df9b030fae9022b5b78cd88"
+            }
+          ]
+        },
+        {
+          "section_id": "11-3",
+          "title": "Wilhelm von Humboldts Linguistic and Ethnographic Field Experiences with Basque in the Pyrenees of S",
+          "printed_pages": "81–92",
+          "numbering": "arabic",
+          "pdf_pages": 12,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-11-3.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-11-3.md",
+          "bundle_member": "11.3_pp_81_92_Wilhelm_von_Humboldts_Linguistic_and_Ethnographic_Field_Experiences_with_Basque_in_the_Pyrenees_of_S.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-11-3.pdf",
+              "bytes": 105150,
+              "sha256": "be51549933868fbdebaae206e9bc2054326d62e60306eb1c175004ef2e0890b7"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-11-3.md",
+              "bytes": 37081,
+              "sha256": "82ee26d020ecfa96198e5d5f51616bc0171bb034a459987e8e5b9d1f0a18ebf5"
+            }
+          ]
+        },
+        {
+          "section_id": "12-0",
+          "title": "Wilhelm von Humboldts Americanist Linguistics — part divider only",
+          "printed_pages": "93–94",
+          "numbering": "arabic",
+          "pdf_pages": 2,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-12-0.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-12-0.md",
+          "bundle_member": "12.0_pp_93_192_Wilhelm_von_Humboldts_Americanist_Linguistics.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-12-0.pdf",
+              "bytes": 37319,
+              "sha256": "bf3e497bd2c61dbfe8da04df10e1199a077236115c0457787677f136e6876177"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-12-0.md",
+              "bytes": 685,
+              "sha256": "0ceb34526784c5ef9a49e93326e5a2873178086de5bad3e531a635a65552426a"
+            }
+          ],
+          "markdown_method": "Poppler pdftotext -layout with explicit PDF page markers; automatic converter rejected brief paratext. Source PDF unchanged; modification time refreshed to requeue only this file."
+        },
+        {
+          "section_id": "12-1",
+          "title": "First Exposure to American Languages at the Vatican Library in Rome and the Significance of Alexande",
+          "printed_pages": "95–116",
+          "numbering": "arabic",
+          "pdf_pages": 22,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-12-1.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-12-1.md",
+          "bundle_member": "12.1_pp_95_116_First_Exposure_to_American_Languages_at_the_Vatican_Library_in_Rome_and_the_Significance_of_Alexande.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-12-1.pdf",
+              "bytes": 155395,
+              "sha256": "cc0a40d453efff6be03369372c63ab794c8ffbc203f14bfb7c2737e4302fc09a"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-12-1.md",
+              "bytes": 64334,
+              "sha256": "d3b1d9d91b4aa448af1acc0c5f9d49c476d6f6b3622324ee5b88fb86de0a2e07"
+            }
+          ]
+        },
+        {
+          "section_id": "12-2",
+          "title": "Expansion and Intensification of Humboldtian Americanist Linguistics",
+          "printed_pages": "117–143",
+          "numbering": "arabic",
+          "pdf_pages": 27,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-12-2.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-12-2.md",
+          "bundle_member": "12.2_pp_117_143_Expansion_and_Intensification_of_Humboldtian_Americanist_Linguistics.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-12-2.pdf",
+              "bytes": 470601,
+              "sha256": "24b96051fe39515179acd400d10fdf20bc8d1cfe8adb96d07625dba70855e2b5"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-12-2.md",
+              "bytes": 79676,
+              "sha256": "9540e521072ba6574bcc02f88c56f000ca33ff7c73f09599142992afc523e438"
+            }
+          ]
+        },
+        {
+          "section_id": "12-3",
+          "title": "Les langues du Nouveau Continent",
+          "printed_pages": "144–170",
+          "numbering": "arabic",
+          "pdf_pages": 27,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-12-3.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-12-3.md",
+          "bundle_member": "12.3_pp_144_170_Les_langues_du_Nouveau_Continent.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-12-3.pdf",
+              "bytes": 177634,
+              "sha256": "24eb0987ff041ed7d722db11d9e0bffca409a978f5aa7a37c620ca7023630b9c"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-12-3.md",
+              "bytes": 79540,
+              "sha256": "9083413692da9b8f0ec0ebb9d52a24b0502338d9cdc24c691725545e5b370369"
+            }
+          ]
+        },
+        {
+          "section_id": "12-4",
+          "title": "From the Americas to the Pacific",
+          "printed_pages": "171–192",
+          "numbering": "arabic",
+          "pdf_pages": 22,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-12-4.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-12-4.md",
+          "bundle_member": "12.4_pp_171_192_From_the_Americas_to_the_Pacific.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-12-4.pdf",
+              "bytes": 149382,
+              "sha256": "b110849d8fd1e1d3e79559a64c04584e1c2e74bce9c0e4becd596fc70fa097a2"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-12-4.md",
+              "bytes": 63162,
+              "sha256": "a549e4a7250b4ca3ba3ede4d74c187785983f10601aededfeb5aece686665d11"
+            }
+          ]
+        },
+        {
+          "section_id": "13-0",
+          "title": "Wilhelm von Humboldts Impact on Americanist Linguistics and Anthropology — part divider only",
+          "printed_pages": "193–194",
+          "numbering": "arabic",
+          "pdf_pages": 2,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-13-0.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-13-0.md",
+          "bundle_member": "13.0_pp_193_282_Wilhelm_von_Humboldts_Impact_on_Americanist_Linguistics_and_Anthropology.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-13-0.pdf",
+              "bytes": 37350,
+              "sha256": "57c05e0abc3966fb165b59e152ce206fcf9c465a8e7252264535776f0dcc65a4"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-13-0.md",
+              "bytes": 739,
+              "sha256": "46e6cfca6e1291233e9fa44504182df73b191f4876a85e08b55e713155fb3efd"
+            }
+          ],
+          "markdown_method": "Poppler pdftotext -layout with explicit PDF page markers; automatic converter rejected brief paratext. Source PDF unchanged; modification time refreshed to requeue only this file."
+        },
+        {
+          "section_id": "13-1",
+          "title": "First Generation of American Humboldtians of the Early Nineteenth Century",
+          "printed_pages": "195–222",
+          "numbering": "arabic",
+          "pdf_pages": 28,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-13-1.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-13-1.md",
+          "bundle_member": "13.1_pp_195_222_First_Generation_of_American_Humboldtians_of_the_Early_Nineteenth_Century.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-13-1.pdf",
+              "bytes": 655529,
+              "sha256": "aecb546dcf63e1701e358aef58414593ef14dee457b5fcfd143652defc58bbf2"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-13-1.md",
+              "bytes": 85568,
+              "sha256": "33ebcbf85e0d90c956350d78a9e8b7176bb8c1bcca5582caa312cd80dd6389d5"
+            }
+          ]
+        },
+        {
+          "section_id": "13-2",
+          "title": "Second Generation of American Humboldtians in the Nineteenth Century",
+          "printed_pages": "223–251",
+          "numbering": "arabic",
+          "pdf_pages": 29,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-13-2.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-13-2.md",
+          "bundle_member": "13.2_pp_223_251_Second_Generation_of_American_Humboldtians_in_the_Nineteenth_Century.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-13-2.pdf",
+              "bytes": 582436,
+              "sha256": "34406cc9158ff71880a63383b81d54ec6dc811cae3c417eaf22695a6a2841260"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-13-2.md",
+              "bytes": 87219,
+              "sha256": "c62dfc0d0f55dfc407947f3ff0c24096137b197ebf6cc79a16a01b76dea4c0af"
+            }
+          ]
+        },
+        {
+          "section_id": "13-3",
+          "title": "Third and Fourth Generations of American Humboldtians at the Turn of the Twentieth Century",
+          "printed_pages": "252–282",
+          "numbering": "arabic",
+          "pdf_pages": 31,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-13-3.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-13-3.md",
+          "bundle_member": "13.3_pp_252_282_Third_and_Fourth_Generations_of_American_Humboldtians_at_the_Turn_of_the_Twentieth_Century.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-13-3.pdf",
+              "bytes": 199822,
+              "sha256": "6a2e12503e19a10049553ae55174517855a5e60294ba1f0c1db4bd86cb4db119"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-13-3.md",
+              "bytes": 95101,
+              "sha256": "55b4b5254b847af56fa3332293b2ee79d007e4f6e5cf56fa14ca93e2a21b0e6b"
+            }
+          ]
+        },
+        {
+          "section_id": "14-0",
+          "title": "Wilhelm von Humboldt as an Americanist Linguist and Anthropologist — part divider only",
+          "printed_pages": "283–284",
+          "numbering": "arabic",
+          "pdf_pages": 2,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-14-0.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-14-0.md",
+          "bundle_member": "14.0_pp_283_301_Wilhelm_von_Humboldt_as_an_Americanist_Linguist_and_Anthropologist.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-14-0.pdf",
+              "bytes": 36418,
+              "sha256": "849b0edf96c67a032570f4787beb7a746cdc552741f08ce1ee7f17cf3eef3177"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-14-0.md",
+              "bytes": 723,
+              "sha256": "be8dbb92eb0468769b786f579f9ce8c57b87ae93a3a9d151e9637a6a02ad79aa"
+            }
+          ],
+          "markdown_method": "Poppler pdftotext -layout with explicit PDF page markers; automatic converter rejected brief paratext. Source PDF unchanged; modification time refreshed to requeue only this file."
+        },
+        {
+          "section_id": "14-1",
+          "title": "Summary",
+          "printed_pages": "285–295",
+          "numbering": "arabic",
+          "pdf_pages": 11,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-14-1.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-14-1.md",
+          "bundle_member": "14.1_pp_285_295_Summary.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-14-1.pdf",
+              "bytes": 88611,
+              "sha256": "5f8782967144e98ec50c24dcd53bb8fff8cd36dca07cabbcd6c5394ca9fec549"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-14-1.md",
+              "bytes": 30918,
+              "sha256": "0e7f7a7baa0e5738ac902906b55f09ec6abf2960eebccab780c3f0de1d02abd6"
+            }
+          ]
+        },
+        {
+          "section_id": "14-2",
+          "title": "Conclusions",
+          "printed_pages": "296–301",
+          "numbering": "arabic",
+          "pdf_pages": 6,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-14-2.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-14-2.md",
+          "bundle_member": "14.2_pp_296_301_Conclusions.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-14-2.pdf",
+              "bytes": 66671,
+              "sha256": "08003e9fe6b2ce76721f1691ee4c0d83e34995e6a3ec0e776d42e6ac91bc5974"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-14-2.md",
+              "bytes": 17483,
+              "sha256": "0b5fc2f53de300cda6444367a1000dd1673b3887bc90245c76ee9258a450e858"
+            }
+          ]
+        },
+        {
+          "section_id": "15-0",
+          "title": "Appendix 1 — duplicate presentation from Appendices-level download",
+          "printed_pages": "302–303",
+          "numbering": "arabic",
+          "pdf_pages": 2,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-15-0.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-15-0.md",
+          "bundle_member": "15.0_pp_302_306_Appendices.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": false,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-15-0.pdf",
+              "bytes": 48206,
+              "sha256": "ff3eec53ab227b0702e54922b77150a6c7e0eb005db923bdc5ae3799dabd61ca"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-15-0.md",
+              "bytes": 2821,
+              "sha256": "310a86f659aad191b10fa26bdecf43b763faf50e58930ca8fd2526a5d6f6051c"
+            }
+          ],
+          "duplicate_of_section": "15-1",
+          "note": "Publisher lists the parent entry as pp.302–306, but its actual PDF has two pages of Appendix 1 only. Appendix 2 is acquired separately as section 15-2."
+        },
+        {
+          "section_id": "15-1",
+          "title": "List of Abbreviations for Frequently Used Publication Titles Their Full Counterparts and English Tra",
+          "printed_pages": "302–303",
+          "numbering": "arabic",
+          "pdf_pages": 2,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-15-1.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-15-1.md",
+          "bundle_member": "15.1_pp_302_303_List_of_Abbreviations_for_Frequently_Used_Publication_Titles_Their_Full_Counterparts_and_English_Tra.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "byte_identical_bundle_aliases": [],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-15-1.pdf",
+              "bytes": 49645,
+              "sha256": "b3ef92a0463c438411e2f07acbb640a433a8a2f166492234edef44e439c29809"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-15-1.md",
+              "bytes": 2821,
+              "sha256": "310a86f659aad191b10fa26bdecf43b763faf50e58930ca8fd2526a5d6f6051c"
+            }
+          ]
+        },
+        {
+          "section_id": "15-2",
+          "title": "Historical and Biographical Timetable of Wilhelm and Alexander von Humboldt",
+          "printed_pages": "304–306",
+          "numbering": "arabic",
+          "pdf_pages": 3,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-15-2.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-15-2.md",
+          "bundle_member": "15.2_pp_304_306_Historical_and_Biographical_Timetable_of_Wilhelm_and_Alexander_von_Humboldt.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026 (1).zip",
+          "byte_identical_bundle_aliases": [
+            "15.2_pp_304_306_Historical_and_Biographical_Timetable_of_Wilhelm_and_Alexander_von_Humboldt.pdf"
+          ],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-15-2.pdf",
+              "bytes": 52459,
+              "sha256": "475a0a54c49306b83c4c2b3b482d63a96349deb69c5ce709434083ea7883b411"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-15-2.md",
+              "bytes": 7087,
+              "sha256": "cca6785d503347a6dc843585c245fc329dcc184de17c5df239caa5a8c50740e4"
+            }
+          ]
+        },
+        {
+          "section_id": "16-0",
+          "title": "References",
+          "printed_pages": "307–333",
+          "numbering": "arabic",
+          "pdf_pages": 27,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-16-0.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-16-0.md",
+          "bundle_member": "16.0_pp_307_333_References.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026 (1).zip",
+          "byte_identical_bundle_aliases": [
+            "16.0_pp_307_333_References.pdf"
+          ],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-16-0.pdf",
+              "bytes": 160998,
+              "sha256": "4e876360b662f0e5448235e90ab52dd60fcf5840122f1594e1a721c23eee689e"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-16-0.md",
+              "bytes": 83586,
+              "sha256": "4e828f5917ba2c4bd16a236fd22d77fbd1c65d13595b0faaec80c241965947a5"
+            }
+          ]
+        },
+        {
+          "section_id": "17-0",
+          "title": "Index",
+          "printed_pages": "334–346",
+          "numbering": "arabic",
+          "pdf_pages": 13,
+          "inbox_pdf": "/Users/brettreynolds/pdf-inbox/drechsel-2024-17-0.pdf",
+          "inbox_markdown": "/Users/brettreynolds/pdf-inbox/drechsel-2024-17-0.md",
+          "bundle_member": "17.0_pp_334_346_Index.pdf",
+          "bundle_project_path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026 (1).zip",
+          "byte_identical_bundle_aliases": [
+            "17.0_pp_334_346_Index.pdf"
+          ],
+          "canonical_reading_sequence": true,
+          "project_assets": [
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-17-0.pdf",
+              "bytes": 113316,
+              "sha256": "8a95c064575953ee316d4a488ed006511b82904e4fd2e4fa59d3a1f171383edf"
+            },
+            {
+              "path": "sources/raw/references/drechsel-2024/drechsel-2024-17-0.md",
+              "bytes": 35292,
+              "sha256": "02ea7cb185ea705f9f6cc79f339c44fbdd533e0156a5f87ec76ca3326a3cff67"
+            }
+          ]
+        }
+      ],
+      "project_assets": [
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-01-0.pdf",
+          "bytes": 101427,
+          "sha256": "4e9e7c4e450d68b574be090002e981f9774dc24c541c250946fc976a24560590"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-01-0.md",
+          "bytes": 3749,
+          "sha256": "a6ff219ae9597721d914cf53dc3576523c156de4295fb7609bc68f502bbc7c1d"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-04-0.pdf",
+          "bytes": 26094,
+          "sha256": "4ffa6d7762aac83e47a7dae606c2dd80556ea2d7badf7a4fd485de9d0d24fe67"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-04-0.md",
+          "bytes": 604,
+          "sha256": "dd632592d887e3b8375c002ff7b81550541febc97375411466e2422d847ea118"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-05-0.pdf",
+          "bytes": 47522,
+          "sha256": "3abc69bc263e6c88f6bf879691adddfbf3003874950f8d74e4b00b5157c7c743"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-05-0.md",
+          "bytes": 2302,
+          "sha256": "70ee683097bf538fac23a22147dc42cb861930c02acf35645ad4e2e8f1ecc758"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-06-0.pdf",
+          "bytes": 43527,
+          "sha256": "25f40115100b6676c7708e080fa1050713ff5562c30b512bcb5f8f1e07c42df3"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-06-0.md",
+          "bytes": 1674,
+          "sha256": "bdb0cd604d2f77fe649e27742934631c6496c90af2322fbba5b7387da8b13848"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-07-0.pdf",
+          "bytes": 38115,
+          "sha256": "0f892c5c4e78d1addb8357fd8a0249d37c9508a9bbe3ccfa2cb2f16bff9fb484"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-07-0.md",
+          "bytes": 1412,
+          "sha256": "dc1a2f4b93cc2dc52f8838ac888d4ecbd04ec3b6905c3879df7e50e6559a0a2a"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-08-0.pdf",
+          "bytes": 42535,
+          "sha256": "42036bfb657d8ef9e2c6cc61cc545907c1d8858a49f7d83d7549bbb585047d2e"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-08-0.md",
+          "bytes": 2996,
+          "sha256": "7abdfe49060c6aeded25c2d1ef66b63bdca24ece17871059a8a8cba22c30c36c"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-09-0.pdf",
+          "bytes": 64789,
+          "sha256": "07d29340a3982397c58e272a98eb2b9e7ebd69255ce3ab49f66992a320c1f1e4"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-09-0.md",
+          "bytes": 14679,
+          "sha256": "95718a9a341f2e40d45c05670ee51353025fb35abd994dbdb4d54a2c9fbafd1b"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-10-0.pdf",
+          "bytes": 35799,
+          "sha256": "6863154a3c194f979b50b78e37c0fce9d3eb9a10e21648c41360f94398130857"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-10-0.md",
+          "bytes": 673,
+          "sha256": "ad337a6fade4838b739335763f1c7199e19ce5d2473bdd3a05135495b1df86b4"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-10-1.pdf",
+          "bytes": 165923,
+          "sha256": "55061d596add44641de058327b8041432100937ead8ebc72a28e705cf248bc0d"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-10-1.md",
+          "bytes": 69195,
+          "sha256": "6cc6e2955da90bb1ca562322b5b5eb24a6f08d848463c67b30ee0e02af7a787c"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-10-2.pdf",
+          "bytes": 121081,
+          "sha256": "8182ee87d2aec9057dfb6f6ada44fa52e66bf46ec65bbf73ab2e7b5524060ece"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-10-2.md",
+          "bytes": 54064,
+          "sha256": "83c0a37b6d492ce5be017a9068662c2a5e1870b5deb8ecad21bb4f97b1292439"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-11-0.pdf",
+          "bytes": 36416,
+          "sha256": "b48ebfb9e6494d9524e6cddaabc6a630e3a89146ed92cce19b94c996aaff2ff5"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-11-0.md",
+          "bytes": 696,
+          "sha256": "164ec3818be4bad4bc845d13c9c0aeebb0c25d5377a5e67ed2225a1c7f03f579"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-11-1.pdf",
+          "bytes": 431046,
+          "sha256": "7baf54c0928de0f65e3c72e4c80348182f7afa1d165e5ce419868d35d073ebe8"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-11-1.md",
+          "bytes": 52141,
+          "sha256": "f9a31b2a0373e82bcf87e1dfb1936fd125b92fcf18bf548baa78471e529137b2"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-11-2.pdf",
+          "bytes": 724263,
+          "sha256": "f8269a2c8772b2271701603289ae85fc8b7ed1b5d9d9a400dcf2325a11bdce35"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-11-2.md",
+          "bytes": 45072,
+          "sha256": "7903eff3abb0300d379de6b459787d25c25d4fee3df9b030fae9022b5b78cd88"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-11-3.pdf",
+          "bytes": 105150,
+          "sha256": "be51549933868fbdebaae206e9bc2054326d62e60306eb1c175004ef2e0890b7"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-11-3.md",
+          "bytes": 37081,
+          "sha256": "82ee26d020ecfa96198e5d5f51616bc0171bb034a459987e8e5b9d1f0a18ebf5"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-12-0.pdf",
+          "bytes": 37319,
+          "sha256": "bf3e497bd2c61dbfe8da04df10e1199a077236115c0457787677f136e6876177"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-12-0.md",
+          "bytes": 685,
+          "sha256": "0ceb34526784c5ef9a49e93326e5a2873178086de5bad3e531a635a65552426a"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-12-1.pdf",
+          "bytes": 155395,
+          "sha256": "cc0a40d453efff6be03369372c63ab794c8ffbc203f14bfb7c2737e4302fc09a"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-12-1.md",
+          "bytes": 64334,
+          "sha256": "d3b1d9d91b4aa448af1acc0c5f9d49c476d6f6b3622324ee5b88fb86de0a2e07"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-12-2.pdf",
+          "bytes": 470601,
+          "sha256": "24b96051fe39515179acd400d10fdf20bc8d1cfe8adb96d07625dba70855e2b5"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-12-2.md",
+          "bytes": 79676,
+          "sha256": "9540e521072ba6574bcc02f88c56f000ca33ff7c73f09599142992afc523e438"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-12-3.pdf",
+          "bytes": 177634,
+          "sha256": "24eb0987ff041ed7d722db11d9e0bffca409a978f5aa7a37c620ca7023630b9c"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-12-3.md",
+          "bytes": 79540,
+          "sha256": "9083413692da9b8f0ec0ebb9d52a24b0502338d9cdc24c691725545e5b370369"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-12-4.pdf",
+          "bytes": 149382,
+          "sha256": "b110849d8fd1e1d3e79559a64c04584e1c2e74bce9c0e4becd596fc70fa097a2"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-12-4.md",
+          "bytes": 63162,
+          "sha256": "a549e4a7250b4ca3ba3ede4d74c187785983f10601aededfeb5aece686665d11"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-13-0.pdf",
+          "bytes": 37350,
+          "sha256": "57c05e0abc3966fb165b59e152ce206fcf9c465a8e7252264535776f0dcc65a4"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-13-0.md",
+          "bytes": 739,
+          "sha256": "46e6cfca6e1291233e9fa44504182df73b191f4876a85e08b55e713155fb3efd"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-13-1.pdf",
+          "bytes": 655529,
+          "sha256": "aecb546dcf63e1701e358aef58414593ef14dee457b5fcfd143652defc58bbf2"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-13-1.md",
+          "bytes": 85568,
+          "sha256": "33ebcbf85e0d90c956350d78a9e8b7176bb8c1bcca5582caa312cd80dd6389d5"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-13-2.pdf",
+          "bytes": 582436,
+          "sha256": "34406cc9158ff71880a63383b81d54ec6dc811cae3c417eaf22695a6a2841260"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-13-2.md",
+          "bytes": 87219,
+          "sha256": "c62dfc0d0f55dfc407947f3ff0c24096137b197ebf6cc79a16a01b76dea4c0af"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-13-3.pdf",
+          "bytes": 199822,
+          "sha256": "6a2e12503e19a10049553ae55174517855a5e60294ba1f0c1db4bd86cb4db119"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-13-3.md",
+          "bytes": 95101,
+          "sha256": "55b4b5254b847af56fa3332293b2ee79d007e4f6e5cf56fa14ca93e2a21b0e6b"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-14-0.pdf",
+          "bytes": 36418,
+          "sha256": "849b0edf96c67a032570f4787beb7a746cdc552741f08ce1ee7f17cf3eef3177"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-14-0.md",
+          "bytes": 723,
+          "sha256": "be8dbb92eb0468769b786f579f9ce8c57b87ae93a3a9d151e9637a6a02ad79aa"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-14-1.pdf",
+          "bytes": 88611,
+          "sha256": "5f8782967144e98ec50c24dcd53bb8fff8cd36dca07cabbcd6c5394ca9fec549"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-14-1.md",
+          "bytes": 30918,
+          "sha256": "0e7f7a7baa0e5738ac902906b55f09ec6abf2960eebccab780c3f0de1d02abd6"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-14-2.pdf",
+          "bytes": 66671,
+          "sha256": "08003e9fe6b2ce76721f1691ee4c0d83e34995e6a3ec0e776d42e6ac91bc5974"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-14-2.md",
+          "bytes": 17483,
+          "sha256": "0b5fc2f53de300cda6444367a1000dd1673b3887bc90245c76ee9258a450e858"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-15-0.pdf",
+          "bytes": 48206,
+          "sha256": "ff3eec53ab227b0702e54922b77150a6c7e0eb005db923bdc5ae3799dabd61ca"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-15-0.md",
+          "bytes": 2821,
+          "sha256": "310a86f659aad191b10fa26bdecf43b763faf50e58930ca8fd2526a5d6f6051c"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-15-1.pdf",
+          "bytes": 49645,
+          "sha256": "b3ef92a0463c438411e2f07acbb640a433a8a2f166492234edef44e439c29809"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-15-1.md",
+          "bytes": 2821,
+          "sha256": "310a86f659aad191b10fa26bdecf43b763faf50e58930ca8fd2526a5d6f6051c"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-15-2.pdf",
+          "bytes": 52459,
+          "sha256": "475a0a54c49306b83c4c2b3b482d63a96349deb69c5ce709434083ea7883b411"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-15-2.md",
+          "bytes": 7087,
+          "sha256": "cca6785d503347a6dc843585c245fc329dcc184de17c5df239caa5a8c50740e4"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-16-0.pdf",
+          "bytes": 160998,
+          "sha256": "4e876360b662f0e5448235e90ab52dd60fcf5840122f1594e1a721c23eee689e"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-16-0.md",
+          "bytes": 83586,
+          "sha256": "4e828f5917ba2c4bd16a236fd22d77fbd1c65d13595b0faaec80c241965947a5"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-17-0.pdf",
+          "bytes": 113316,
+          "sha256": "8a95c064575953ee316d4a488ed006511b82904e4fd2e4fa59d3a1f171383edf"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/drechsel-2024-17-0.md",
+          "bytes": 35292,
+          "sha256": "02ea7cb185ea705f9f6cc79f339c44fbdd533e0156a5f87ec76ca3326a3cff67"
+        }
+      ],
+      "publisher_bundles": [
+        {
+          "path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026 (1).zip",
+          "downloads_path": "/Users/brettreynolds/Downloads/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026 (1).zip",
+          "duplicate_download_paths": [],
+          "bytes": 307610,
+          "sha256": "415360cba4e8e447cc7febeb0fee9723b37a2e7e3beabb31890db02d183bec28"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026 (2).zip",
+          "downloads_path": "/Users/brettreynolds/Downloads/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026 (2).zip",
+          "duplicate_download_paths": [],
+          "bytes": 307610,
+          "sha256": "08ec083a0e24c7a3ceb4b3eafd7c4784ca1fadb070774f957e978da2a45af707"
+        },
+        {
+          "path": "sources/raw/references/drechsel-2024/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "downloads_path": "/Users/brettreynolds/Downloads/cambridge-core_wilhelm-von-humboldt-and-early-american-linguistics_15Nov2026.zip",
+          "duplicate_download_paths": [],
+          "bytes": 4530707,
+          "sha256": "4cb795f775a4074e3d662708108c225fbff487ff09c6b1e3acde09f4f49845c8"
+        }
+      ],
+      "scope": "31 byte-distinct, unchanged PDF files from 33 publisher contents entries on two listing pages. Covers printed i–xviii and 1–346. A canonical 30-file sequence excludes the duplicate Appendix 1 presentation in the Appendices-level download. Total unique printed coverage: 364 pages; stored PDF files: 366 pages.",
+      "verification": "Title page visually checked at front-matter PDF p.3. Publisher contents, individual PDF page counts and beginning/end text establish section coverage; not a page-by-page visual collation. Catalogue extent differed from actual contents and files; use the verified file-set extent.",
+      "pdf_file_count": 31,
+      "total_pdf_pages": 366,
+      "canonical_pdf_file_count": 30
+    }
+  ],
+  "access_checks": [
+    {
+      "title": "Von den Sprachen Amerikas zum allgemeinen Typus der Sprache",
+      "editors": [
+        "Bettina Lindorfer",
+        "Jürgen Trabant"
+      ],
+      "edition_year": 2017,
+      "ebook_isbn": "9783657787678",
+      "publisher_url": "https://brill.com/edcollbook/title/52943",
+      "chapter_url": "https://brill.com/display/book/edcoll/9783657787678/BP000006.xml",
+      "checked_at": "2026-11-14T23:42:40+00:00",
+      "acquisition_status": "not retrieved",
+      "university_of_toronto": {
+        "catalogue_queries": [
+          "\"Von den Sprachen Amerikas zum allgemeinen Typus der Sprache\"",
+          "9783657787678"
+        ],
+        "catalogue_results": "Exact title found a print collected-series record including this volume; ebook ISBN returned no record.",
+        "publisher_result": "After the user completed institutional sign-in and confirmed, the book remained restricted and the chapter displayed a two-page PDF preview with institutional login and purchase links. Full-text access was not established.",
+        "limit": "Does not prove the institution lacks every possible route to this edition."
+      },
+      "humber": {
+        "catalogue_queries": [
+          "\"Von den Sprachen Amerikas zum allgemeinen Typus der Sprache\"",
+          "9783657787678"
+        ],
+        "catalogue_results": "Both queries returned No records found in Everything, with outside-institution results off.",
+        "observed_maintenance_notice": "eResource access unavailable from 6:00 pm November 14 until 8:00 am November 15 for Humber IT maintenance.",
+        "full_text_result": "No matching catalogue provider link obtained and no full text downloaded.",
+        "limit": "The searches and maintenance notice do not establish that the ebook is unavailable by every route."
+      }
+    },
+    {
+      "title": "Wilhelm von Humboldt and Early American Linguistics: Resources and Inspirations",
+      "author": "Emanuel J. Drechsel",
+      "publication_year": 2024,
+      "doi": "10.1017/9781108966801",
+      "catalogue_record": "alma991107430905106196",
+      "publisher_url": "https://www.cambridge.org/core/books/wilhelm-von-humboldt-and-early-american-linguistics/E1DC0D271FC0057BA6EE582399D7C1C6",
+      "catalogue_queries": [
+        "\"Wilhelm von Humboldt and Early American Linguistics\""
+      ],
+      "result": "User confirmed login completion. Publisher showed University of Toronto licensed/digital access. Complete section-set download and all PDF/Markdown inbox pairs verified; see acquisition record drechsel-2024.",
+      "acquisition_status": "acquired",
+      "checked_at": "2026-11-15T02:19:15+00:00",
+      "institution": "University of Toronto",
+      "scope": "Everything / All Libraries; outside-U-of-T results off",
+      "humber_limit": "Humber eResource outage observed: 2026-11-14 18:00 through 2026-11-15 08:00 America/Toronto. These additional titles were not searched there during the outage.",
+      "limit": "This records the observed paths, not proof that no other legitimate access route exists.",
+      "earlier_result": "U of T lists Cambridge 2024 ebooks and Scholars Portal full-text providers. Following Cambridge opens a fresh UTORid login page. Paused for the user; Scholars Portal not yet followed."
+    },
+    {
+      "title": "The Philosophical Foundations of Humboldt’s Linguistic Doctrines",
+      "author": "Martin L. Manchester",
+      "publication_year": 1985,
+      "doi": "10.1075/sihols.32",
+      "catalogue_record": "alma991106034164506196",
+      "publisher_url": "https://benjamins.com/catalog/sihols.32",
+      "catalogue_queries": [
+        "\"The Philosophical Foundations of Humboldt\""
+      ],
+      "result": "User confirmed login completion. Publisher showed University of Toronto licensed/digital access. Complete section-set download and all PDF/Markdown inbox pairs verified; see acquisition record manchester-1985.",
+      "acquisition_status": "acquired",
+      "checked_at": "2026-11-15T02:19:15+00:00",
+      "institution": "University of Toronto",
+      "scope": "Everything / All Libraries; outside-U-of-T results off",
+      "humber_limit": "Humber eResource outage observed: 2026-11-14 18:00 through 2026-11-15 08:00 America/Toronto. These additional titles were not searched there during the outage.",
+      "limit": "This records the observed paths, not proof that no other legitimate access route exists.",
+      "earlier_result": "U of T lists print copies and De Gruyter John Benjamins Complete Archive eBook-Package Pre-2000. Following the ebook provider opens a fresh UTORid login page. Public publisher PDF requires authorization."
+    },
+    {
+      "title": "Geht Humboldts Sprachphilosophie auch im Fragment „Grundzüge des allgemeinen Sprachtypus“ aus der Sprachbeschreibung hervor?",
+      "author": "Bettina Lindorfer",
+      "publication_year": 2018,
+      "publication": "Wilhelm von Humboldt: Sprache, Dichtung und Geschichte",
+      "printed_pages": "151–162",
+      "doi": "10.30965/9783846763445_011",
+      "print_isbn": "9783770563449",
+      "ebook_isbn": "9783846763445",
+      "publisher_url": "https://brill.com/view/book/edcoll/9783846763445/BP000011.xml",
+      "toc_url": "https://toc.library.ethz.ch/objects/pdf03/z01_978-3-7705-6344-9_01.pdf",
+      "catalogue_queries": [
+        "9783770563449",
+        "\"Wilhelm von Humboldt\" \"Sprache, Dichtung\"",
+        "10.30965/9783846763445_011"
+      ],
+      "result": "Print ISBN and chapter DOI returned no U of T records; title query found three records of the same book review, not the volume or chapter. ETH-hosted book contents confirms chapter title and starting p.151; following chapter starts p.163. Author-hosted Trabant PDF lead was not acquired: web timeout and local certificate verification failure. No TLS bypass attempted. Publisher full text not established.",
+      "acquisition_status": "not retrieved; exact chapter identified",
+      "checked_at": "2026-11-15T01:59:38+00:00",
+      "institution": "University of Toronto",
+      "scope": "Everything / All Libraries; outside-U-of-T results off",
+      "humber_limit": "Humber eResource outage observed: 2026-11-14 18:00 through 2026-11-15 08:00 America/Toronto. These additional titles were not searched there during the outage.",
+      "limit": "This records the observed paths, not proof that no other legitimate access route exists."
+    },
+    {
+      "title": "‘Innere Sprachform’ Humboldts Grenzbegriff, Steinthals Begriffsgrenze",
+      "author": "Donatella Di Cesare",
+      "publication_year": 1996,
+      "publication": "Historiographia Linguistica 23(3)",
+      "printed_pages": "321–346",
+      "doi": "10.1075/hl.23.3.05dic",
+      "publisher_url": "https://benjamins.com/catalog/hl.23.3.05dic",
+      "catalogue_queries": [
+        "10.1075/hl.23.3.05dic"
+      ],
+      "result": "U of T returned four records labelled Available Online. Both Pascal-Francis and ProQuest records resolved to Downsview print journal holdings and Scan and Deliver options; no full-text link in the resolved records. Public publisher PDF requires authorization. No scan request submitted.",
+      "acquisition_status": "not retrieved; print/scan route identified",
+      "checked_at": "2026-11-15T01:59:38+00:00",
+      "institution": "University of Toronto",
+      "scope": "Everything / All Libraries; outside-U-of-T results off",
+      "humber_limit": "Humber eResource outage observed: 2026-11-14 18:00 through 2026-11-15 08:00 America/Toronto. These additional titles were not searched there during the outage.",
+      "limit": "This records the observed paths, not proof that no other legitimate access route exists."
+    },
+    {
+      "title": "La traduction et la lettre, ou, L’auberge du lointain",
+      "author": "Antoine Berman",
+      "publication_year": 1999,
+      "isbn": "9782020380560",
+      "catalogue_record": "alma991106729120606196",
+      "catalogue_queries": [
+        "9782020380560"
+      ],
+      "result": "U of T exact ISBN query found the 1999 Seuil reedition at Robarts, P306.2 .B47 1999. Full record offers physical pickup and Scan and Deliver for a chapter; no View Online provider displayed. No request submitted.",
+      "acquisition_status": "not retrieved; print/scan route identified",
+      "checked_at": "2026-11-15T01:59:38+00:00",
+      "institution": "University of Toronto",
+      "scope": "Everything / All Libraries; outside-U-of-T results off",
+      "humber_limit": "Humber eResource outage observed: 2026-11-14 18:00 through 2026-11-15 08:00 America/Toronto. These additional titles were not searched there during the outage.",
+      "limit": "This records the observed paths, not proof that no other legitimate access route exists."
+    },
+    {
+      "title": "On Language: On the Diversity of Human Language Construction and its Influence on the Mental Development of the Human Species",
+      "author": "Wilhelm von Humboldt",
+      "translator": "Peter Heath",
+      "editor": "Michael Losonsky",
+      "publication_year": 1999,
+      "isbn": "9780521667722",
+      "catalogue_record": "alma991106038921406196",
+      "catalogue_queries": [
+        "9780521667722"
+      ],
+      "publisher_metadata_url": "https://assets.cambridge.org/97805216/60891/copyright/9780521660891_copyright.pdf",
+      "result": "U of T exact paperback ISBN returned one print record, P103 .H8513 1999 at Robarts and other locations, without an Available Online button in that result. Publisher copyright page confirms edition, editor, translator and ISBNs; copyright page alone is not full text. Additional ebook routes not exhausted.",
+      "acquisition_status": "not retrieved; print comparator located",
+      "checked_at": "2026-11-15T01:59:38+00:00",
+      "institution": "University of Toronto",
+      "scope": "Everything / All Libraries; outside-U-of-T results off",
+      "humber_limit": "Humber eResource outage observed: 2026-11-14 18:00 through 2026-11-15 08:00 America/Toronto. These additional titles were not searched there during the outage.",
+      "limit": "This records the observed paths, not proof that no other legitimate access route exists."
+    },
+    {
+      "id": "opening-001-dictionary-lookup",
+      "recorded_at": "2026-11-15T11:43:34.374355+00:00",
+      "scope": "Bounded lookup for Verkehr and abschleifen, no entry consulted.",
+      "queries": [
+        "site:woerterbuchnetz.de DWB abschleifen übertragen",
+        "site:woerterbuchnetz.de DWB Verkehr Umgang"
+      ],
+      "attempted_entries": [
+        "https://www.zeno.org/Adelung-1793/A/Verkehr,+der",
+        "https://www.zeno.org/Adelung-1793/A/Abschleifen",
+        "https://www.dwds.de/wb/dwb/verkehr"
+      ],
+      "result": "Search returned portal references; direct entry fetches failed in web tool. Stopped this approach. No dictionary definition or dated example used as evidence."
+    },
+    {
+      "id": "textual-basis-alternatives-2026-11-15",
+      "recorded_at": "2026-11-15T17:28:43.136783+00:00",
+      "record_path": "sources/textual-basis-options-check.json",
+      "record_sha256": "dd68eafdc349b86ae2027bf8e53c9d0dfd189a1b3fc688ffb8382b65dd7886db",
+      "scope": "Bounded alternative-source check; no 2017 access retry, library request or contact",
+      "acquisitions": 0,
+      "requests_or_messages": 0
+    }
+  ],
+  "reference_work_index": [
+    {
+      "title": "Essai sur les langues du nouveau Continent",
+      "composition_year": 1812,
+      "asset": "humboldt-gs-03",
+      "printed_pages": "300–341",
+      "pdf_pages": [
+        312,
+        353
+      ]
+    },
+    {
+      "title": "Über das vergleichende Sprachstudium in Beziehung auf die verschiedenen Epochen der Sprachentwicklung",
+      "composition_year": 1820,
+      "publication_year": 1822,
+      "asset": "humboldt-gs-04",
+      "printed_pages": "1–34",
+      "pdf_pages": [
+        11,
+        44
+      ]
+    },
+    {
+      "title": "Über das Entstehen der grammatischen Formen und ihren Einfluß auf die Ideenentwicklung",
+      "composition_year_in_GS": 1821,
+      "lecture_year": 1822,
+      "asset": "humboldt-gs-04",
+      "printed_pages": "285–313",
+      "pdf_pages": [
+        295,
+        323
+      ]
+    },
+    {
+      "title": "Lettre à Monsieur Abel-Rémusat",
+      "asset_path": "sources/raw/gs-v-1906.pdf",
+      "printed_pages": "254–308",
+      "pdf_pages": [
+        264,
+        318
+      ]
+    },
+    {
+      "title": "Über den grammatischen Bau der chinesischen Sprache",
+      "asset_path": "sources/raw/gs-v-1906.pdf",
+      "printed_pages": "309–324",
+      "pdf_pages": [
+        319,
+        334
+      ]
+    },
+    {
+      "title": "Untersuchungen über die Amerikanischen Sprachen",
+      "asset_path": "sources/raw/gs-v-1906.pdf",
+      "pdf_start": 355,
+      "note": "Opening variant of the Grundzüge paragraph must be kept distinct; printed-page mapping outside Grundzüge not certified."
+    },
+    {
+      "title": "Über den Dualis",
+      "composition_year": 1827,
+      "asset": "humboldt-gs-06",
+      "printed_pages": "4–30",
+      "pdf_pages": [
+        14,
+        40
+      ]
+    },
+    {
+      "title": "Über die Verschiedenheiten des menschlichen Sprachbaues",
+      "composition_years": "1827–1829",
+      "asset": "humboldt-gs-06",
+      "printed_pages": "111–303",
+      "pdf_pages": [
+        121,
+        313
+      ]
+    },
+    {
+      "title": "Von dem grammatischen Baue der Sprachen",
+      "composition_years": "1827–1829",
+      "asset": "humboldt-gs-06-2",
+      "printed_pages": "337–486",
+      "pdf_pages": [
+        11,
+        160
+      ],
+      "note": "Called Vom grammatischen Baue der Sprachen in the recovered brief; use the GS heading for this edition."
+    },
+    {
+      "title": "Über die Verschiedenheit des menschlichen Sprachbaues und ihren Einfluß auf die geistige Entwicklung des Menschengeschlechts",
+      "alias": "Kawi introduction",
+      "asset": "humboldt-gs-07-1",
+      "printed_pages": "1–344",
+      "pdf_pages": [
+        11,
+        354
+      ]
+    },
+    {
+      "title": "Einleitung zu Aeschylos Agamemnon",
+      "original_publication_year": 1816,
+      "asset": "humboldt-gs-08",
+      "printed_pages": "119–146",
+      "pdf_pages": [
+        129,
+        156
+      ]
+    }
+  ],
+  "reference_index_verification": "Contents lists, headings and opening/ending page text locate these works. The index is for navigation; it is not a full collation or a certified visual page map.",
+  "reference_inventory_updated_at": "2026-11-15T02:19:15+00:00",
+  "online_reference_resources": [
+    {
+      "name": "BBAW sprachwissenschaftliche Korrespondenz",
+      "url": "https://wvh-briefe.bbaw.de/",
+      "status": "Online edition located; targeted letters to Abel-Rémusat, Bopp, Duponceau and Pickering remain to be selected and passage-checked. Not downloaded as a bulk corpus."
+    },
+    {
+      "name": "Adelung, Wörterbuchnetz",
+      "url": "https://woerterbuchnetz.de/?sigle=Adelung",
+      "status": "Dictionary portal located; relevant entries not yet checked."
+    },
+    {
+      "name": "Deutsches Wörterbuch, Wörterbuchnetz",
+      "url": "https://woerterbuchnetz.de/?sigle=DWB",
+      "status": "Dictionary portal for later historical comparison; relevant entries not yet checked. Its later publication date must be considered."
+    },
+    {
+      "name": "Deutsches Textarchiv",
+      "url": "https://www.deutschestextarchiv.de/",
+      "status": "Dated-usage resource identified; automated web fetch denied by robots.txt. No dated usage query completed in this collection pass."
+    }
+  ],
+  "reading_events": [
+    {
+      "id": "opening-001-focused-reading",
+      "completed_at": "2026-11-15T02:36:52+00:00",
+      "note_path": "docs/opening-001-evidence.md",
+      "scope": "Opening paragraph and title; primary parallels, surrounding argument and selected modern context. No translation revised or extended.",
+      "primary_reading": [
+        {
+          "path": "sources/raw/gs-v-1906.pdf",
+          "work": "Grundzüge and editorial history",
+          "printed_pages": [
+            "364–369",
+            "481"
+          ],
+          "pdf_pages": [
+            [
+              374,
+              379
+            ],
+            [
+              491,
+              491
+            ]
+          ],
+          "visual_pdf_pages": [
+            374,
+            375,
+            491
+          ]
+        },
+        {
+          "path": "sources/raw/gs-v-1906.pdf",
+          "work": "Untersuchungen über die Amerikanischen Sprachen",
+          "scope": "§§1–2",
+          "printed_pages": [
+            "345–346"
+          ],
+          "pdf_pages": [
+            [
+              355,
+              356
+            ]
+          ],
+          "visual_pdf_pages": [
+            355,
+            356
+          ],
+          "note": "First page unnumbered; next page visibly 346."
+        },
+        {
+          "path": "sources/raw/references/humboldt-gs-03.pdf",
+          "work": "Essai sur les langues du nouveau Continent",
+          "scope": "§§1–6",
+          "printed_pages": [
+            "300–306"
+          ],
+          "pdf_pages": [
+            [
+              312,
+              318
+            ]
+          ],
+          "visual_pdf_pages": [
+            312,
+            318
+          ]
+        }
+      ],
+      "secondary_reading": [
+        {
+          "acquisition_id": "manchester-1985",
+          "printed_pages": [
+            "67–70",
+            "83–90",
+            "103–106"
+          ],
+          "part_pdf_pages": {
+            "c4": [
+              [
+                2,
+                5
+              ],
+              [
+                18,
+                25
+              ]
+            ],
+            "c6": [
+              [
+                2,
+                5
+              ]
+            ]
+          },
+          "status": "Selected sections read; not full book or source-citation audit."
+        },
+        {
+          "acquisition_id": "drechsel-2024",
+          "printed_pages": [
+            "144–158"
+          ],
+          "part_pdf_pages": {
+            "12-3": [
+              [
+                1,
+                15
+              ]
+            ]
+          },
+          "visual_checks": {
+            "12-3": [
+              12
+            ]
+          },
+          "status": "Selected chapter pages read; cancellation report checked on printed p.155; manuscript/critical apparatus not inspected."
+        },
+        {
+          "acquisition_stem": "underhill-2009-humboldt-worldview-language",
+          "printed_pages": [
+            "65",
+            "74"
+          ],
+          "pdf_pages": [
+            [
+              78,
+              78
+            ],
+            [
+              87,
+              87
+            ]
+          ],
+          "status": "Two contextual pages consulted; surrounding chapters not fully read."
+        }
+      ],
+      "limits": [
+        "Evidence note contains provisional translation candidates, not adopted decisions.",
+        "No independent source-language audit or model-comparison cycle was performed.",
+        "No authorial manuscript or full 2017 critical edition was inspected.",
+        "Current lit catalogue did not resolve the two new book file paths; verified local sidecars were used directly."
+      ]
+    },
+    {
+      "id": "overnight-navigation-and-opening-structure",
+      "recorded_at": "2026-11-15T03:33:10.312132+00:00",
+      "authorization": "User: I am going to bed. Do what you can; reversible preparation only.",
+      "outputs": [
+        "docs/work-outline.md",
+        "docs/opening-001-structure.md"
+      ],
+      "scope": [
+        "Printed contents pp.474–475 / PDF484–485, images checked.",
+        "Selected anchor page text: printed374,400,445,473 / PDF384,410,455,483.",
+        "Printed410 / PDF420 image checked because embedded OCR is scrambled at §72.",
+        "Opening images PDF374–375 rechecked for paragraph boundary and model-flagged printed forms.",
+        "Parallel PDF355 checked at larger render; newly transcribed only first three sentences."
+      ],
+      "corrections": [
+        "Parallel besondre preserved; initial besondere transcription corrected before final prototype build.",
+        "Contents Wortvorrath distinguished from body heading Wörtervorrath.",
+        "Roman I and nested Arabic 1 retained distinctly."
+      ],
+      "limits": [
+        "Not a continuous close reading of §§1–149.",
+        "No new dictionary or manuscript evidence.",
+        "No English candidate, glossary adoption or fidelity approval."
+      ]
+    },
+    {
+      "id": "paragraph-002-source-and-parallel",
+      "recorded_at": "2026-11-15T12:36:12.705164+00:00",
+      "outputs": [
+        "sources/annotations/paragraph-002.json",
+        "translations/paragraph-002/packet.md"
+      ],
+      "scope": [
+        "Complete Grundzüge §2, printed365/PDF375, image checked; adjacent §1 closing and §3 opening used as context.",
+        "Untersuchungen printed346/PDF356 image checked for corresponding wording at end of §1."
+      ],
+      "corrections": [
+        "Embedded OCR Grenzen corrected to printed Gränzen.",
+        "Source singular erlaubt preserved; normal English agreement used separately."
+      ],
+      "findings": [
+        "The parallel omits the lower-level phrase present in the base and the corresponding denial of deviation from all other languages."
+      ],
+      "limits": [
+        "No new dictionary, modern-reference or manuscript consultation.",
+        "Reported cancellation remains unverified against primary manuscript evidence."
+      ]
+    },
+    {
+      "id": "difficult-147-source-check",
+      "recorded_at": "2026-11-15T17:28:43.136783+00:00",
+      "source": "sources/raw/gs-v-1906.pdf",
+      "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+      "scope": "Complete §147 main text printed469–470/PDF479–480; boundary at471; related French context268",
+      "transcription": "translations/difficult-147/source.json",
+      "limits": "Chinese accent is coordinator print reading; no modern character/phonetic identification; source-note terminal98 unclassified."
+    }
+  ],
+  "preparation_events": [
+    {
+      "id": "source-only-alignment-prototype",
+      "recorded_at": "2026-11-15T03:33:10.312132+00:00",
+      "authorization": "User: I am going to bed. Do what you can.",
+      "status": "Disposable implementation complete; adoption pending review.",
+      "review_target": "docs/overnight-review.md",
+      "source_packet": "sources/annotations/opening-001.json",
+      "source_packet_sha256": "391af30846c18509f3548ae077a2da1686cf41feca60eef9317174bdfb5a2a7e",
+      "database": "tmp/alignment-prototype.sqlite",
+      "verification_record": "tmp/overnight/verification.json",
+      "counts": {
+        "text_version": 2,
+        "analysis": 4,
+        "unit": 376,
+        "evidence": 4,
+        "decision": 1,
+        "alignment": 1
+      },
+      "tests": {
+        "count": 15,
+        "exit_code": 0,
+        "log": "tmp/overnight/test-results.txt"
+      },
+      "integrity_check": "ok",
+      "foreign_key_errors": [],
+      "participants": [
+        {
+          "participant": "claude",
+          "runtime_model": "claude-fable-5-2",
+          "task": "Propose German sentence and clause spans; 20 segments returned.",
+          "exit_code": 0,
+          "elapsed_seconds": 99.1,
+          "prompt_path": "tmp/overnight/claude-clauses-prompt.md",
+          "assessment_path": "tmp/overnight/claude-assessment.md",
+          "assessment_sha256": "4c19c095be1377eb4bfb549907e6306ad10df9b526cc249aa5b43c567db76d12",
+          "receipt_path": "tmp/overnight/claude-receipt.json",
+          "evidential_status": "Recommendation/proposed analysis only; no source or workflow approval."
+        },
+        {
+          "participant": "muse",
+          "runtime_model": "muse-wonder-full-1.0",
+          "task": "Critique bounded source-only linked-text design; narrower prototype recommended.",
+          "exit_code": 0,
+          "elapsed_seconds": 55.1,
+          "prompt_path": "tmp/overnight/muse-design-prompt.md",
+          "assessment_path": "tmp/overnight/muse-assessment.md",
+          "assessment_sha256": "94fb4c4ebb449f1662344fd29676d890a0468f30231cecd6c55cf1d5ca3910ec",
+          "receipt_path": "tmp/overnight/muse-receipt.json",
+          "evidential_status": "Recommendation/proposed analysis only; no source or workflow approval."
+        }
+      ],
+      "preserved_files": {
+        "AGENTS.md": "8c2a8a4076b04da3fcff915c807dfcd8afc2e5b66662ac25971d574ea7003ae2",
+        "docs/WORKFLOW-REVIEW.md": "22403eca5501fce667021238cf452e519f02c105ab0a5e79dc256ff2d523de4b",
+        "translations/pilot-001.md": "22b3d1d6e3a5c1e3018ce848702452f9baf73a0352c9bfbbf7d26553c39dbebb"
+      },
+      "limits": [
+        "No English candidate imported or generated.",
+        "No adoption into the frozen workflow proposal.",
+        "No independent German-language fidelity audit.",
+        "No dependency installation, new retrieval, purchase, external message, commit or push."
+      ]
+    },
+    {
+      "id": "opening-001-comparison-audit-cycle",
+      "recorded_at": "2026-11-15T11:43:34.374355+00:00",
+      "status": "One cycle complete; revised English review pending.",
+      "authorization": "D002: direct user instruction after overnight review.",
+      "decision_record": "D003 in DECISIONS.md and translations/opening-001/decisions.json",
+      "cycle_record": "translations/opening-001/record.json",
+      "cycle_record_sha256": "4c3a60fd046ab7d03506ed4a7d26bae94689275f017a6870d392d2a6ba390ddf",
+      "source_packet": "translations/opening-001/packet.md",
+      "source_packet_sha256": "be6af65e898c4cb17b006aec4fc6a8f547c302ed1e2f0d6875665e77812a2fcb",
+      "three_candidates_frozen_before_old_english_revealed": true,
+      "workers": [
+        {
+          "label": "candidate-claude",
+          "model": "claude-fable-5-2",
+          "exit_code": 0,
+          "elapsed_seconds": 79.4,
+          "prompt_sha256": "d2f6923db2f49eb1c92e92f5f18323394bd1492fb57a10ef592de630f187f7fe",
+          "receipt": "tmp/opening-001-cycle/candidate-claude-receipt.json"
+        },
+        {
+          "label": "candidate-muse",
+          "model": "muse-wonder-full-1.0",
+          "exit_code": 0,
+          "elapsed_seconds": 24.5,
+          "prompt_sha256": "d2f6923db2f49eb1c92e92f5f18323394bd1492fb57a10ef592de630f187f7fe",
+          "receipt": "tmp/opening-001-cycle/candidate-muse-receipt.json"
+        },
+        {
+          "label": "candidate-codex",
+          "model": "gpt-6.1-sol",
+          "exit_code": 0,
+          "elapsed_seconds": 42.9,
+          "prompt_sha256": "d2f6923db2f49eb1c92e92f5f18323394bd1492fb57a10ef592de630f187f7fe",
+          "receipt": "tmp/opening-001-cycle/candidate-codex-receipt.json"
+        },
+        {
+          "label": "audit-claude",
+          "model": "claude-fable-5-2",
+          "exit_code": 0,
+          "elapsed_seconds": 127.4,
+          "prompt_sha256": "94cc8579957a1d37530d56ecc1cae8b201b319323fc1cb1307e6e90241903f7d",
+          "receipt": "tmp/opening-001-cycle/audit-claude-receipt.json"
+        },
+        {
+          "label": "audit-muse",
+          "model": "muse-wonder-full-1.0",
+          "exit_code": 0,
+          "elapsed_seconds": 167.3,
+          "prompt_sha256": "e72b028df4eadfb78777d8c88271d87c0a776d0244ac637842cf033d53e3e1e6",
+          "receipt": "tmp/opening-001-cycle/audit-muse-receipt.json"
+        }
+      ],
+      "review_target": "translations/opening-001/revised.md",
+      "database": "tmp/opening-001-cycle.sqlite",
+      "database_sha256": "744381254259c481641ee4b20478eb5950c89403b92e4224367a8bad7310440d",
+      "counts": {
+        "text_version": 7,
+        "analysis": 10,
+        "unit": 1901,
+        "evidence": 17,
+        "decision": 7,
+        "alignment": 57
+      },
+      "software_tests": {
+        "count": 21,
+        "exit_code": 0
+      },
+      "integrity_check": "ok",
+      "foreign_key_errors": [],
+      "proposed_source_anchors": 20,
+      "audit_findings_with_dispositions": 12,
+      "verification_record": "tmp/opening-001-cycle/verification.json",
+      "preserved_files": {
+        "AGENTS.md": "8c2a8a4076b04da3fcff915c807dfcd8afc2e5b66662ac25971d574ea7003ae2",
+        "docs/WORKFLOW-REVIEW.md": "22403eca5501fce667021238cf452e519f02c105ab0a5e79dc256ff2d523de4b",
+        "translations/pilot-001.md": "22b3d1d6e3a5c1e3018ce848702452f9baf73a0352c9bfbbf7d26553c39dbebb"
+      },
+      "limits": [
+        "Model judgments from a common checked transcription/context packet, not qualified human source-language validation.",
+        "Final revision checked by coordinator; no further model cycle.",
+        "No successful historical-dictionary entry consultation or new manuscript evidence.",
+        "No later paragraph, publication, purchase, external message, commit or push."
+      ]
+    },
+    {
+      "id": "paragraph-002-comparison-audit-cycle",
+      "recorded_at": "2026-11-15T12:36:12.705164+00:00",
+      "status": "One cycle complete; §2 English review pending.",
+      "authorization": "D004: user proceed after completed §1 review.",
+      "review_target": "translations/paragraph-002/revised.md",
+      "cycle_record": "translations/paragraph-002/record.json",
+      "cycle_record_sha256": "4f2666d22b34834c554b7ba98abf2d1221888c1245ecb40d6415b7da703e401c",
+      "source_packet_sha256": "1b7820b48f9aa1738135a74c33bff5e4e0e09e67854bac248ca3b7400e17ab59",
+      "workers": [
+        {
+          "label": "candidate-claude",
+          "models": [
+            "claude-fable-5-2"
+          ],
+          "exit_code": 0,
+          "elapsed_seconds": 37.2,
+          "prompt_sha256": "7d70e52a767d3b6fcf9bb7dea75465bdd7a70a4fe7da30b80f8d257b77d4b20a",
+          "receipt": "tmp/paragraph-002-cycle/candidate-claude-receipt.json"
+        },
+        {
+          "label": "candidate-muse",
+          "models": [
+            "muse-wonder-full-1.0"
+          ],
+          "exit_code": 0,
+          "elapsed_seconds": 28.5,
+          "prompt_sha256": "7d70e52a767d3b6fcf9bb7dea75465bdd7a70a4fe7da30b80f8d257b77d4b20a",
+          "receipt": "tmp/paragraph-002-cycle/candidate-muse-receipt.json"
+        },
+        {
+          "label": "candidate-codex",
+          "models": [
+            "gpt-6.1-sol"
+          ],
+          "exit_code": 0,
+          "elapsed_seconds": 31.0,
+          "prompt_sha256": "7d70e52a767d3b6fcf9bb7dea75465bdd7a70a4fe7da30b80f8d257b77d4b20a",
+          "receipt": "tmp/paragraph-002-cycle/candidate-codex-receipt.json"
+        },
+        {
+          "label": "audit-claude",
+          "models": [
+            "claude-fable-5-2"
+          ],
+          "exit_code": 0,
+          "elapsed_seconds": 92.9,
+          "prompt_sha256": "4353ba1daf9790f02126cf6b8b78baecbd0159d41b2a8feb32d921fd56605c2c",
+          "receipt": "tmp/paragraph-002-cycle/audit-claude-receipt.json"
+        },
+        {
+          "label": "audit-muse",
+          "models": [
+            "muse-wonder-full-1.0"
+          ],
+          "exit_code": 0,
+          "elapsed_seconds": 84.9,
+          "prompt_sha256": "83d0194688ecc3c48724a3a5f0b7ccef356500b9feb82346a1590e062a9a860c",
+          "receipt": "tmp/paragraph-002-cycle/audit-muse-receipt.json"
+        }
+      ],
+      "coverage": {
+        "source_sentences": 3,
+        "proposed_source_anchors": 11,
+        "audit_findings": 6,
+        "findings_with_dispositions": 6
+      },
+      "database": "tmp/paragraph-002-cycle.sqlite",
+      "database_sha256": "e998b3e0624d6298294178d9810dc85c6a9e07f99572bdfc675f8b116d28f1f1",
+      "counts": {
+        "text_version": 13,
+        "analysis": 18,
+        "unit": 2719,
+        "evidence": 26,
+        "decision": 13,
+        "alignment": 84
+      },
+      "software_tests": {
+        "count": 27,
+        "exit_code": 0
+      },
+      "integrity_check": "ok",
+      "foreign_key_errors": [],
+      "earlier_text_versions_and_units_unchanged": true,
+      "earlier_database_hash_unchanged": true,
+      "verification_record": "tmp/paragraph-002-cycle/verification.json",
+      "limits": [
+        "Source ambiguity remains; these are model judgments, not human German certification.",
+        "No new dictionary, modern-reference or manuscript evidence.",
+        "Final revision coordinator-checked, no further model audit cycle.",
+        "No §3 translation, purchase, outside contact, installation, commit or push."
+      ]
+    },
+    {
+      "id": "broader-preparation-v1",
+      "recorded_at": "2026-11-15T14:30:02.470037+00:00",
+      "status": "completed provisional preparation; no English change",
+      "authorization": "D006: explicit broader preparation; Roughdraft waived",
+      "decision_record": "D007 in DECISIONS.md",
+      "report_path": "docs/preparation/README.md",
+      "register_path": "sources/terminology/register.json",
+      "register_sha256": "1c2ec722b52d9c867d5d56dee2b902c38bfc5d04f5a732217235f254e42536e8",
+      "evidence_path": "sources/terminology/evidence.json",
+      "evidence_sha256": "d892a141fa177d5de733daf1c730409fdcb1f1eb455d2f0bb60bc796c2e2f9be",
+      "coverage_path": "sources/terminology/coverage.json",
+      "coverage_sha256": "1b603b3e55e9d52bd705c58b503bbd5dd078181044b764104536f84412961703",
+      "verification_path": "sources/terminology/verification.json",
+      "verification_sha256": "bf6159ac52573a20747f2e8d0dbca1bd842ffdb912a3c6cfa96736d8c1bf1885",
+      "database": {
+        "path": "tmp/preparation/preparation-complete.sqlite",
+        "sha256": "d0c85cc3b0af056af583f0074c11dd5b0202f3fc3f88b8ede284e01c1aa9213f"
+      },
+      "concordance": {
+        "path": "tmp/preparation/concordance-complete.csv",
+        "sha256": "096c61e421dfcc4a2c51902c52d373659413f388f93516651bf4667cb86ff257"
+      },
+      "counts": {
+        "counts": {
+          "text_version": 14,
+          "analysis": 19,
+          "unit": 41961,
+          "evidence": 181,
+          "decision": 47,
+          "alignment": 84
+        },
+        "integrity": "ok",
+        "foreign_key_errors": [],
+        "indexed_pages": 110,
+        "written_token_candidates": 39132,
+        "family_matches": 4740,
+        "register_entries": 34,
+        "preparation_evidence": 155,
+        "entry_evidence_links": 202,
+        "local_term_links": 48
+      },
+      "lexicon_retrieval_path": "sources/terminology/lexicon-retrieval.json",
+      "lexicon_entries_read": 13,
+      "register_audit_findings": 6,
+      "audit_findings_with_dispositions": 6,
+      "software_tests": {
+        "unique_tests_passed": 32,
+        "full_suite_exit_code": 0,
+        "full_suite_seconds": 7.712,
+        "final_targeted_preparation_tests": 5,
+        "final_targeted_exit_code": 0,
+        "final_targeted_seconds": 6.639,
+        "qualification": "Full32-suite passed; final local-link patterns and source fingerprints then rechecked by all5 preparation tests. Checks establish storage/provenance, not semantic validity.",
+        "observed_warnings": "Two nonfatal ResourceWarnings from existing test database connections during full suite."
+      },
+      "preserved_files": {
+        "AGENTS.md": "8c2a8a4076b04da3fcff915c807dfcd8afc2e5b66662ac25971d574ea7003ae2",
+        "docs/WORKFLOW-REVIEW.md": "22403eca5501fce667021238cf452e519f02c105ab0a5e79dc256ff2d523de4b",
+        "translations/pilot-001.md": "22b3d1d6e3a5c1e3018ce848702452f9baf73a0352c9bfbbf7d26553c39dbebb",
+        "translations/opening-001/alignments.json": "a013f980bb4a695a6a3217a999c8a0d4f21a3c7cc8a717f3d1d40b0531d6c6b7",
+        "translations/opening-001/approval-2026-11-15.json": "4938ac4a0e1c8dd7cafa2e4f6f237ddbbb07fd75cb7d4734ce1122f40bcf82c9",
+        "translations/opening-001/audits.json": "30798ee4c8cb1b9d49a7e41e6a5e14e2a28aac7459e5dc3caa49d0f0f9b96f9f",
+        "translations/opening-001/candidates.json": "5756037ac1784b7ab235e74ccb74c9eec02fd886bab492e49d253405e743b71b",
+        "translations/opening-001/candidates.md": "613c3e5670208d98af7780127af03f11411f40850b75e08e6139ccf1be3c8e7c",
+        "translations/opening-001/comparison.md": "1a66eb20d2eda422638eebe63c3a98e53b31a67861f003f5b26903ad41d37b70",
+        "translations/opening-001/decisions.json": "c12e877cc1a8421d952cf81a60cb161a5b5f9dbdff1951cb9db3caa109682a0d",
+        "translations/opening-001/packet.md": "be6af65e898c4cb17b006aec4fc6a8f547c302ed1e2f0d6875665e77812a2fcb",
+        "translations/opening-001/record.json": "4c3a60fd046ab7d03506ed4a7d26bae94689275f017a6870d392d2a6ba390ddf",
+        "translations/opening-001/revised.json": "510782ce9ada63b3d31442618881d6a90b25ab2385f5b4b9ebbacdb40743bda2",
+        "translations/opening-001/revised.md": "6d3248bb508e45fc4812dcfd2e3c56c08e41690ab9ed183a7c56d7992151f7d5",
+        "translations/paragraph-002/alignments.json": "347f8cee01ad5536576f505aa621b607d6932a1b04208dc2f2bb6c4067a90a82",
+        "translations/paragraph-002/audits.json": "461ead143eac3e3c2e8dce26f66f5e36f49902f76ba65481dc4f8cc8add5637f",
+        "translations/paragraph-002/candidates.json": "29f0657869d9612da2a05f03f90180a597773d10b0a73306bf88acd30453ad45",
+        "translations/paragraph-002/candidates.md": "74f5b21d0818e26ad6f53c71611767489f1d3f5b47e45bb58a79146a9c451cee",
+        "translations/paragraph-002/comparison.md": "5611d0caf074a16d17c876f17163ecca76e58b50c61fe02bb239d378c22a98f0",
+        "translations/paragraph-002/decisions.json": "b2a0be287f4e03c507ed7278956ef60d2468359dd1ee1a828e200e8d1652c3ca",
+        "translations/paragraph-002/packet.md": "1b7820b48f9aa1738135a74c33bff5e4e0e09e67854bac248ca3b7400e17ab59",
+        "translations/paragraph-002/record.json": "4f2666d22b34834c554b7ba98abf2d1221888c1245ecb40d6415b7da703e401c",
+        "translations/paragraph-002/revised.json": "2b189d56ccade30bfdc77a49852c659099be078a7f2b39728f5e477f0cf05165",
+        "translations/paragraph-002/revised.md": "bc1fdabe06dc65039a030272ce26b7de25c540677a2fe719abd57c5eb832a964"
+      },
+      "limits": [
+        "OCR-derived discovery matches are not certified lexical frequencies or whole-work sense annotations.",
+        "Model readers and selective image checks are not qualified human German–English validation.",
+        "Most acquired references were not read in full; exact assigned spans and gaps are recorded.",
+        "Modern critical-edition/manuscript evidence and reported opening cancellation remain unresolved under D001.",
+        "No §3 drafting, new Roughdraft checkpoint, spending, external message, installation, publication, commit or push."
+      ]
+    },
+    {
+      "id": "individual-termbase-v2-complete",
+      "recorded_at": "2026-11-15T16:30:39.602078+00:00",
+      "status": "defined terminology preparation complete; provisional interpretations",
+      "authorization": "D008; continuation of D006 Roughdraft waiver",
+      "decision_record": "D009 in DECISIONS.md",
+      "index": "docs/preparation/termbase.md",
+      "report": "docs/preparation/v2/coverage-report.md",
+      "catalog": {
+        "path": "sources/terminology/v2/termbase.json",
+        "sha256": "ec047c1c70a2a47b136f5076e3da6b4d2226932de359e5f53d06a3a398879b7c"
+      },
+      "verification": {
+        "path": "sources/terminology/v2/verification.json",
+        "sha256": "54e1017a7f30ed00bff0e280b81c18f2cb76489b71525dc274fc0c86bf622f09"
+      },
+      "database": {
+        "path": "tmp/termbase-v2/termbase-final.sqlite",
+        "sha256": "2d312a70fffdc4647928edb467bde6935aeea721ad7c821f2de3264f41c2a8c2"
+      },
+      "counts": {
+        "counts": {
+          "text_version": 15,
+          "analysis": 21,
+          "unit": 82969,
+          "evidence": 1747,
+          "decision": 1565,
+          "alignment": 84
+        },
+        "integrity": "ok",
+        "foreign_key_errors": [],
+        "indexed_pages": 110,
+        "written_token_candidates": 39132,
+        "family_matches": 4740,
+        "register_entries": 34,
+        "preparation_evidence": 155,
+        "entry_evidence_links": 202,
+        "local_term_links": 48,
+        "lexeme": 1048,
+        "term_sense": 1518,
+        "term_use": 1531,
+        "sense_attestation": 1566,
+        "terminology_candidate": 3515,
+        "terminology_page_review": 110,
+        "register_carry_forward": 119,
+        "lexeme_control": 149,
+        "term_relation": 122,
+        "candidate_dispositions": {
+          "apparatus_only": 44,
+          "cited_example": 65,
+          "included": 1860,
+          "ocr_noise": 123,
+          "ordinary": 1321,
+          "proper_name": 102
+        },
+        "evidence_roles": {
+          "direct_occurrence": 1561,
+          "elliptical_expression": 1,
+          "supporting_context": 2,
+          "word_part": 2
+        },
+        "composite_attestations": 1
+      },
+      "audit": "sources/terminology/v2/audit-dispositions.json",
+      "lexicon_retrieval": "sources/terminology/v2/lexicon/retrieval.json",
+      "preservation": {
+        "baseline": "sources/terminology/v2/baseline.json",
+        "files": 33,
+        "matched": true
+      },
+      "limits": [
+        "Source terms and consequential contextual vocabulary; no claim that every headword is a technical term or every use group a distinct dictionary sense.",
+        "Candidate form/page review and source-checked selected evidence, not exhaustive semantic annotation of all OCR tokens.",
+        "One bounded completed independent text audit; full-source Claude attempt timed out without usable output. Final changes were coordinator/reader checks.",
+        "Model-assisted image checks, not independent specialist human validation.",
+        "1906 provisional base; reported cancellation and unavailable critical edition/manuscript unresolved.",
+        "Printed448 same-Satz reading retained unresolved; foreign-language examples and full OCR not certified.",
+        "All existing English and prior protected inputs unchanged; no section3 translation."
+      ]
+    },
+    {
+      "id": "representative-difficult-147",
+      "recorded_at": "2026-11-15T17:28:43.136783+00:00",
+      "authority": "D010–D011",
+      "report": "translations/difficult-147/comparison.md",
+      "English": "translations/difficult-147/revised.md",
+      "review_status": "English review pending; no new human fidelity approval",
+      "record": {
+        "path": "translations/difficult-147/record.json",
+        "sha256": "b3bb74217129722c426440319b5a916de57f1a626bc5c483121bece61352947f"
+      },
+      "verification": {
+        "path": "translations/difficult-147/verification.json",
+        "sha256": "a1a7ff6bf7c2101ec5d3c4f46b9e18ef31b0e0ce5634020d77275dd01615dea9"
+      },
+      "database": {
+        "path": "tmp/difficult-147/pilot.sqlite",
+        "sha256": "8315dacdb1776a76b5fae877ad410134e57d5c9a1d85e638ec9aa8b8777523be"
+      },
+      "coverage": {
+        "source_sentences": 18,
+        "candidate_renderings": 54,
+        "synthesis_versions": 2,
+        "consequential_span_alignments": 9,
+        "selected_term_rule_links": 6,
+        "audit_findings": 13,
+        "dispositions": 13
+      },
+      "checks": {
+        "protected_inputs": 82,
+        "all_previous_database_rows_preserved": true,
+        "candidate_freeze_verified": true,
+        "audit_findings_dispositioned": 13,
+        "local_links_checked": 3632,
+        "link_errors": 0
+      },
+      "source_options": "sources/textual-basis-options-check.json",
+      "cleanup_files": [
+        "README.md",
+        "docs/HANDOFF.md",
+        "docs/preparation/README.md",
+        "docs/preparation/textual-basis-options.md",
+        "docs/CORPUS-STATUS.md",
+        "docs/preparation/translation-policy.md",
+        "docs/preparation/reading-ledger.md",
+        "docs/preparation/terminology-register.md",
+        "docs/preparation/store-guide.md",
+        "docs/work-outline.md",
+        "docs/alignment-store-proposal.md",
+        "docs/overnight-review.md",
+        "docs/opening-001-evidence.md",
+        "docs/opening-001-structure.md",
+        "docs/preparation/v2/store-guide.md",
+        "docs/preparation/v2/coverage-report.md"
+      ],
+      "limits": [
+        "1906 provisional print, no manuscript/critical-edition collation.",
+        "Coordinator image checks and model audits, no specialist human certification.",
+        "Final revision coordinator-checked; no further independent model round.",
+        "Chinese transcription identity/phonetic value, source footnote terminal98 and local antecedent alternatives remain qualified.",
+        "Old English and sealed terminology inputs preserved; no section3 or148 drafted."
+      ]
+    },
+    {
+      "id": "portable-edition-infrastructure-v1",
+      "recorded_at": "2026-11-15T19:36:23.090267+00:00",
+      "authority": "D012",
+      "report": "docs/architecture/verification.md",
+      "verification": {
+        "path": "docs/architecture/verification.json",
+        "sha256": "3040cd8aef4a22119a14ce87e9a81af87aec2f8353ce584d706d46206bd296db"
+      },
+      "canonical_manifest": {
+        "path": "edition/manifest.json",
+        "sha256": "71b225f6cfea07ea79180ee2aa4304b1b661ef09f25d96f0e9ffbe773ee0cace"
+      },
+      "database": {
+        "path": "build/edition.sqlite",
+        "sha256": "25b17ecec395b7168e7061ea89509ded008984cc5779e9fa0b5cb9fb6ee238ab",
+        "logical_digest": "53334ec49b583ad5538bb21d17249eb8416c38adb14b44874d6ac5027a83a962"
+      },
+      "release": {
+        "all_file_hashes_match": true,
+        "code_and_record_inputs_match_checkout": true,
+        "files": 27,
+        "logical_digest": "53334ec49b583ad5538bb21d17249eb8416c38adb14b44874d6ac5027a83a962",
+        "manifest_sha256": "7df999b16f4c1dfb115ee2fc5ba79d98b249b27c1bea91c9ba9dd10cea5ecbe2",
+        "packaging_subprocess_validation": true,
+        "path": "releases/0.1.0"
+      },
+      "checks": {
+        "all_previous_scholarly_tables_preserved": 33,
+        "protected_files_unchanged": 118,
+        "unit_tests": 54,
+        "integration_tests": 6,
+        "historical_tests": 43,
+        "portable_clean_copy": true,
+        "network_disabled_for_clean_copy": true
+      },
+      "limits": [
+        "Provisional 1906 source policy unchanged; no critical-edition collation or specialist fidelity certification.",
+        "Text corrections create versions and reattachment candidates; no automatic semantic approval.",
+        "Local package only; no new translation, commit, push or publication."
+      ]
+    },
+    {
+      "id": "architecture-corrections-v2",
+      "recorded_at": "2026-11-15T21:38:51.580948+00:00",
+      "authority": "D013",
+      "report": "docs/architecture/correction-verification.md",
+      "verification": {
+        "path": "docs/architecture/correction-verification.json",
+        "sha256": "307fdc03d9b33bca69c4fc751c14514a10b528d4a9015ac91cae0962574bdc98"
+      },
+      "software_version": "0.2.0",
+      "logical_digest": "53334ec49b583ad5538bb21d17249eb8416c38adb14b44874d6ac5027a83a962",
+      "tests": {
+        "core_log_sha256": "7a58f160955d88efe856c6138512a12cc2755f80b3c99db9eaed189b2010bb44",
+        "core_resource_warnings": false,
+        "corpus": 1,
+        "generated_text_revisions": 12,
+        "historical": 43,
+        "integration": 19,
+        "legacy_log_sha256": "b873b3a3bac6aba4ba85bc9527f7ce1501a862b2c574676c0feddca4d0ecd923",
+        "legacy_resource_warnings": true,
+        "model_sequences": 40,
+        "operations_per_sequence": 30,
+        "passed": true,
+        "total": 122,
+        "unit": 59
+      },
+      "preservation": {
+        "all_unchanged": true,
+        "baseline": "edition/provenance/legacy-migration.json",
+        "count": 118
+      },
+      "scholarly_tables_preserved": 33,
+      "actual_editorial_events": 0,
+      "release": {
+        "path": "releases/0.2.0",
+        "all_hashes_match": true,
+        "files": 30,
+        "logical_digest": "53334ec49b583ad5538bb21d17249eb8416c38adb14b44874d6ac5027a83a962",
+        "manifest_sha256": "4ebd153580b4cd84d3d0679a88f91277f67e3053c219d749371a3fe098effe0d"
+      },
+      "limits": [
+        "One authoritative journal writer; draft exchange between clones.",
+        "Python 3.14.10 tested; no full compatibility matrix or formal proof.",
+        "No actual translation edits, Git commit or publication."
+      ]
+    }
+  ]
+}

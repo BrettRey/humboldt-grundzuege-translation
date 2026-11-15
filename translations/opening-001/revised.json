@@ -1,0 +1,34 @@
+{
+  "status": "Provisional research translation after one source-based model audit/revision cycle; not independently certified.",
+  "source_status": "Follows GS V (Leitzmann 1906), §1, pp.364–365. Drechsel (2024:155) reports cancellation of the first seven paragraphs. Manuscript marks, extent and editorial meaning have not been independently verified. Retained as the printed base-text reading; authorial finality unresolved.",
+  "sentences": [
+    {
+      "id": "g:s1",
+      "english": "If it may seem strange to make precisely the languages of a single continent the subject of an inquiry, this approach, at first sight merely geographical, is justified in the case of America by the continent’s isolated position and the distinctive character of its languages."
+    },
+    {
+      "id": "g:s2",
+      "english": "In Europe, Asia, and Africa, such diverse languages have converged that the study of language, at least, can find no reason to investigate them in the particular grouping in which, always more or less by chance, they now find themselves within the boundaries of the same continent."
+    },
+    {
+      "id": "g:s3",
+      "english": "The language stocks of each of these continents also show very considerable differences, both in their structure and in the stages of development they have attained."
+    },
+    {
+      "id": "g:s4",
+      "english": "America, by contrast, apart from the most recent European immigration, which has affected the continent’s inner national distinctiveness only through its destructive influence, has experienced either no immigration at all or only immigration of which scarcely a trace that could be called historical remains."
+    },
+    {
+      "id": "g:s5",
+      "english": "Whatever the origin of the American peoples and languages may therefore be, their fortunes have for many centuries been shaped solely from within and through contact with one another."
+    },
+    {
+      "id": "g:s6",
+      "english": "Throughout the period for which we know the history of this vast continent, down to subjugation by Europeans, its countless tribes, hordes, and families, from the farthest north to the farthest south, came, free from foreign influence, into a ferment of their powers through themselves alone. They imparted only their own distinctive traits to one another."
+    },
+    {
+      "id": "g:s7",
+      "english": "Anything foreign that may have been introduced at a still earlier time has therefore subsequently undergone, for centuries, this wearing-down influence of self-contained native interaction."
+    }
+  ]
+}

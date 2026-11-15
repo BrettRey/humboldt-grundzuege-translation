@@ -1,0 +1,11868 @@
+[
+  {
+    "id": "early:0001",
+    "form": "Abdruck",
+    "count": 1,
+    "pages": [
+      387
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0002",
+    "form": "Aber",
+    "count": 6,
+    "pages": [
+      365,
+      378,
+      388,
+      396,
+      397,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0003",
+    "form": "Abhängigkeit",
+    "count": 1,
+    "pages": [
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0004",
+    "form": "Ableitung",
+    "count": 1,
+    "pages": [
+      370
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0005",
+    "form": "Abschneidung",
+    "count": 1,
+    "pages": [
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0006",
+    "form": "Abschnitt",
+    "count": 1,
+    "pages": [
+      373
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0007",
+    "form": "Abschnitte",
+    "count": 1,
+    "pages": [
+      364
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0008",
+    "form": "Absicht",
+    "count": 4,
+    "pages": [
+      365,
+      377,
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0009",
+    "form": "Absonderung",
+    "count": 2,
+    "pages": [
+      385,
+      391
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0010",
+    "form": "Abstammung",
+    "count": 9,
+    "pages": [
+      368,
+      379,
+      385,
+      386,
+      389,
+      390,
+      391,
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0011",
+    "form": "Abstand",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0012",
+    "form": "Abweichung",
+    "count": 1,
+    "pages": [
+      365
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0013",
+    "form": "Abweichungen",
+    "count": 1,
+    "pages": [
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0014",
+    "form": "Abzweigung",
+    "count": 3,
+    "pages": [
+      391,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0015",
+    "form": "Abänderungen",
+    "count": 1,
+    "pages": [
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0016",
+    "form": "Act",
+    "count": 4,
+    "pages": [
+      381,
+      387,
+      388,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0017",
+    "form": "Acte",
+    "count": 1,
+    "pages": [
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0018",
+    "form": "Aehnlichkeit",
+    "count": 5,
+    "pages": [
+      365,
+      368,
+      371,
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0019",
+    "form": "Aenderungen",
+    "count": 1,
+    "pages": [
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0020",
+    "form": "Aether",
+    "count": 1,
+    "pages": [
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0021",
+    "form": "Aeusserung",
+    "count": 2,
+    "pages": [
+      376,
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0022",
+    "form": "Afrika",
+    "count": 2,
+    "pages": [
+      364,
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0023",
+    "form": "Ahndung",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0024",
+    "form": "Alle",
+    "count": 2,
+    "pages": [
+      391,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0025",
+    "form": "Allein",
+    "count": 8,
+    "pages": [
+      366,
+      368,
+      371,
+      379,
+      392,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0026",
+    "form": "Allem",
+    "count": 1,
+    "pages": [
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0027",
+    "form": "Allen",
+    "count": 1,
+    "pages": [
+      391
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0028",
+    "form": "Alles",
+    "count": 8,
+    "pages": [
+      373,
+      381,
+      389,
+      394,
+      395,
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0029",
+    "form": "Allgemeine",
+    "count": 1,
+    "pages": [
+      373
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0030",
+    "form": "Allgemeinen",
+    "count": 1,
+    "pages": [
+      371
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0031",
+    "form": "Allgemeinheit",
+    "count": 5,
+    "pages": [
+      373,
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0032",
+    "form": "Allgemeinsten",
+    "count": 1,
+    "pages": [
+      382
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0033",
+    "form": "Alphabet",
+    "count": 3,
+    "pages": [
+      379,
+      382,
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0034",
+    "form": "Als",
+    "count": 1,
+    "pages": [
+      364
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0035",
+    "form": "Alten",
+    "count": 1,
+    "pages": [
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0036",
+    "form": "Alter",
+    "count": 2,
+    "pages": [
+      384,
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0037",
+    "form": "AmeriHandschrift",
+    "count": 1,
+    "pages": [
+      364
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0038",
+    "form": "Amerika",
+    "count": 5,
+    "pages": [
+      364,
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0039",
+    "form": "Amerikanische",
+    "count": 1,
+    "pages": [
+      372
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0040",
+    "form": "Amerikanischen",
+    "count": 14,
+    "pages": [
+      364,
+      365,
+      366,
+      367,
+      368,
+      371,
+      372,
+      373,
+      381,
+      386,
+      393,
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0041",
+    "form": "Amerikanischer",
+    "count": 1,
+    "pages": [
+      368
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0042",
+    "form": "Analogie",
+    "count": 1,
+    "pages": [
+      387
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0043",
+    "form": "Analogieen",
+    "count": 1,
+    "pages": [
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0044",
+    "form": "Analyse",
+    "count": 1,
+    "pages": [
+      373
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0045",
+    "form": "analytisches",
+    "count": 1,
+    "pages": [
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0046",
+    "form": "Anblick",
+    "count": 2,
+    "pages": [
+      364,
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0047",
+    "form": "Andern",
+    "count": 1,
+    "pages": [
+      375
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0048",
+    "form": "Anderswerden",
+    "count": 1,
+    "pages": [
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0049",
+    "form": "Andeutung",
+    "count": 1,
+    "pages": [
+      371
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0050",
+    "form": "Andren",
+    "count": 4,
+    "pages": [
+      377,
+      381,
+      382,
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0051",
+    "form": "Andres",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0052",
+    "form": "Aneignen",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0053",
+    "form": "Aneignung",
+    "count": 1,
+    "pages": [
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0054",
+    "form": "Anfang",
+    "count": 3,
+    "pages": [
+      375,
+      389,
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0055",
+    "form": "Anfangs",
+    "count": 1,
+    "pages": [
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0056",
+    "form": "Anfangspunkt",
+    "count": 1,
+    "pages": [
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0057",
+    "form": "Anfängen",
+    "count": 2,
+    "pages": [
+      378,
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0058",
+    "form": "Angeredete",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0059",
+    "form": "Angeredeten",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0060",
+    "form": "Anhauch",
+    "count": 1,
+    "pages": [
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0061",
+    "form": "Anlage",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0062",
+    "form": "Anlagen",
+    "count": 3,
+    "pages": [
+      373,
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0063",
+    "form": "Anmassung",
+    "count": 1,
+    "pages": [
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0064",
+    "form": "Annahme",
+    "count": 1,
+    "pages": [
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0065",
+    "form": "Anordnung",
+    "count": 1,
+    "pages": [
+      372
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0066",
+    "form": "Anrede",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0067",
+    "form": "Anregung",
+    "count": 2,
+    "pages": [
+      381,
+      382
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0068",
+    "form": "Anringen",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0069",
+    "form": "Anschauung",
+    "count": 2,
+    "pages": [
+      371,
+      372
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0070",
+    "form": "Anschauungsweise",
+    "count": 1,
+    "pages": [
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0071",
+    "form": "Ansicht",
+    "count": 6,
+    "pages": [
+      364,
+      383,
+      384,
+      388,
+      396,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0072",
+    "form": "Ansichten",
+    "count": 2,
+    "pages": [
+      383,
+      388
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0073",
+    "form": "Anstrengung",
+    "count": 1,
+    "pages": [
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0074",
+    "form": "Antrieb",
+    "count": 1,
+    "pages": [
+      376
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0075",
+    "form": "Anwendung",
+    "count": 4,
+    "pages": [
+      370,
+      390,
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0076",
+    "form": "Anzahl",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0077",
+    "form": "Arbeit",
+    "count": 1,
+    "pages": [
+      371
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0078",
+    "form": "Art",
+    "count": 21,
+    "pages": [
+      365,
+      369,
+      370,
+      371,
+      373,
+      374,
+      379,
+      382,
+      383,
+      386,
+      387,
+      388,
+      389,
+      391,
+      397,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0079",
+    "form": "Arten",
+    "count": 4,
+    "pages": [
+      367,
+      377,
+      394,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0080",
+    "form": "Articulation",
+    "count": 8,
+    "pages": [
+      375,
+      376,
+      384,
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0081",
+    "form": "Articulationsvermögen",
+    "count": 1,
+    "pages": [
+      375
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0082",
+    "form": "articulirt",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0083",
+    "form": "articulirte",
+    "count": 1,
+    "pages": [
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0084",
+    "form": "articulirten",
+    "count": 6,
+    "pages": [
+      375,
+      376,
+      378,
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0085",
+    "form": "Artikel",
+    "count": 4,
+    "pages": [
+      368,
+      369,
+      372
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0086",
+    "form": "Asia",
+    "count": 1,
+    "pages": [
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0087",
+    "form": "Asiatischen",
+    "count": 1,
+    "pages": [
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0088",
+    "form": "Asien",
+    "count": 1,
+    "pages": [
+      364
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0089",
+    "form": "Auch",
+    "count": 10,
+    "pages": [
+      364,
+      369,
+      378,
+      380,
+      389,
+      390,
+      392,
+      393,
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0090",
+    "form": "Auf",
+    "count": 5,
+    "pages": [
+      366,
+      370,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0091",
+    "form": "Aufflüge",
+    "count": 1,
+    "pages": [
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0092",
+    "form": "Aufgabe",
+    "count": 4,
+    "pages": [
+      382,
+      389,
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0093",
+    "form": "Aufgezeichnete",
+    "count": 1,
+    "pages": [
+      374
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0094",
+    "form": "Aufmerksamkeit",
+    "count": 1,
+    "pages": [
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0095",
+    "form": "Aufnahme",
+    "count": 1,
+    "pages": [
+      387
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0096",
+    "form": "Aufzeichnen",
+    "count": 1,
+    "pages": [
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0097",
+    "form": "Aufzählung",
+    "count": 1,
+    "pages": [
+      371
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0098",
+    "form": "Augen",
+    "count": 1,
+    "pages": [
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0099",
+    "form": "Augenblick",
+    "count": 2,
+    "pages": [
+      394,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0100",
+    "form": "Aus",
+    "count": 1,
+    "pages": [
+      388
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0101",
+    "form": "Ausbildung",
+    "count": 3,
+    "pages": [
+      365,
+      376,
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0102",
+    "form": "Ausdehnung",
+    "count": 2,
+    "pages": [
+      373,
+      374
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0103",
+    "form": "Ausdruck",
+    "count": 2,
+    "pages": [
+      387,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0104",
+    "form": "Ausdrücke",
+    "count": 2,
+    "pages": [
+      371,
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0105",
+    "form": "Ausdrücken",
+    "count": 1,
+    "pages": [
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0106",
+    "form": "Auseinandergehen",
+    "count": 1,
+    "pages": [
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0107",
+    "form": "Ausfluss",
+    "count": 1,
+    "pages": [
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0108",
+    "form": "Ausfüllung",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0109",
+    "form": "Ausfüllungsworte",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0110",
+    "form": "Ausgabe",
+    "count": 1,
+    "pages": [
+      364
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0111",
+    "form": "Aushauch",
+    "count": 1,
+    "pages": [
+      370
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0112",
+    "form": "Ausnahme",
+    "count": 2,
+    "pages": [
+      365,
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0113",
+    "form": "Ausreichen",
+    "count": 1,
+    "pages": [
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0114",
+    "form": "Ausschliessung",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0115",
+    "form": "Ausser",
+    "count": 1,
+    "pages": [
+      375
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0116",
+    "form": "Bahn",
+    "count": 1,
+    "pages": [
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0117",
+    "form": "Bau",
+    "count": 9,
+    "pages": [
+      364,
+      365,
+      366,
+      370,
+      379,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0118",
+    "form": "Baues",
+    "count": 4,
+    "pages": [
+      365,
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0119",
+    "form": "Bearbeitung",
+    "count": 3,
+    "pages": [
+      366,
+      368,
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0120",
+    "form": "Bearbeitungen",
+    "count": 2,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0121",
+    "form": "Bedeutung",
+    "count": 2,
+    "pages": [
+      384,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0122",
+    "form": "Bedingung",
+    "count": 1,
+    "pages": [
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0123",
+    "form": "Bedürfniss",
+    "count": 7,
+    "pages": [
+      365,
+      376,
+      378,
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0124",
+    "form": "Befindlichen",
+    "count": 1,
+    "pages": [
+      382
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0125",
+    "form": "Begreifen",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0126",
+    "form": "Begriff",
+    "count": 11,
+    "pages": [
+      373,
+      376,
+      380,
+      387,
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0127",
+    "form": "Begriffe",
+    "count": 5,
+    "pages": [
+      379,
+      387,
+      389,
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0128",
+    "form": "Begriffen",
+    "count": 1,
+    "pages": [
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0129",
+    "form": "Begriffenen",
+    "count": 1,
+    "pages": [
+      382
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0130",
+    "form": "Begriffes",
+    "count": 3,
+    "pages": [
+      387,
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0131",
+    "form": "Begriffs",
+    "count": 1,
+    "pages": [
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0132",
+    "form": "Begrifle",
+    "count": 1,
+    "pages": [
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0133",
+    "form": "Begrift",
+    "count": 1,
+    "pages": [
+      375
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0134",
+    "form": "Begrifte",
+    "count": 2,
+    "pages": [
+      384,
+      388
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0135",
+    "form": "Begriif",
+    "count": 2,
+    "pages": [
+      382,
+      391
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0136",
+    "form": "Begrilf",
+    "count": 1,
+    "pages": [
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0137",
+    "form": "BegrilT",
+    "count": 1,
+    "pages": [
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0138",
+    "form": "BegritF",
+    "count": 1,
+    "pages": [
+      373
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0139",
+    "form": "Begränzung",
+    "count": 2,
+    "pages": [
+      370,
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0140",
+    "form": "Behandlung",
+    "count": 7,
+    "pages": [
+      367,
+      369,
+      375,
+      379,
+      395,
+      397,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0141",
+    "form": "Behandlungsart",
+    "count": 1,
+    "pages": [
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0142",
+    "form": "Behauptung",
+    "count": 2,
+    "pages": [
+      383,
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0143",
+    "form": "Behauptungen",
+    "count": 3,
+    "pages": [
+      366,
+      378,
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0144",
+    "form": "Bei",
+    "count": 2,
+    "pages": [
+      382,
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0145",
+    "form": "Beides",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0146",
+    "form": "Beimischung",
+    "count": 1,
+    "pages": [
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0147",
+    "form": "Beispiel",
+    "count": 2,
+    "pages": [
+      368,
+      375
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0148",
+    "form": "Beispiele",
+    "count": 1,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0149",
+    "form": "Beispielen",
+    "count": 1,
+    "pages": [
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0150",
+    "form": "Beobachtung",
+    "count": 1,
+    "pages": [
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0151",
+    "form": "Berlin",
+    "count": 1,
+    "pages": [
+      364
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0152",
+    "form": "Beruf",
+    "count": 1,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0153",
+    "form": "Berührung",
+    "count": 3,
+    "pages": [
+      365,
+      389,
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0154",
+    "form": "Beschaffenheit",
+    "count": 6,
+    "pages": [
+      364,
+      368,
+      370,
+      371
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0155",
+    "form": "Beschaffenheiten",
+    "count": 1,
+    "pages": [
+      382
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0156",
+    "form": "Beschauen",
+    "count": 1,
+    "pages": [
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0157",
+    "form": "Beschränktheit",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0158",
+    "form": "Beschränkung",
+    "count": 2,
+    "pages": [
+      370,
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0159",
+    "form": "Besondren",
+    "count": 1,
+    "pages": [
+      373
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0160",
+    "form": "Bestandtheile",
+    "count": 4,
+    "pages": [
+      370,
+      371,
+      373
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0161",
+    "form": "Bestandtheilen",
+    "count": 2,
+    "pages": [
+      371,
+      372
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0162",
+    "form": "Bestimmtheit",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0163",
+    "form": "Bestimmung",
+    "count": 6,
+    "pages": [
+      368,
+      370,
+      379,
+      380,
+      386,
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0164",
+    "form": "Bestrebungen",
+    "count": 1,
+    "pages": [
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0165",
+    "form": "Betrachtung",
+    "count": 6,
+    "pages": [
+      370,
+      371,
+      373,
+      374,
+      382,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0166",
+    "form": "Betrachtungen",
+    "count": 2,
+    "pages": [
+      371,
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0167",
+    "form": "Beurtheilung",
+    "count": 1,
+    "pages": [
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0168",
+    "form": "Bewegung",
+    "count": 5,
+    "pages": [
+      375,
+      376
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0169",
+    "form": "Bewohnern",
+    "count": 1,
+    "pages": [
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0170",
+    "form": "Bewusstseyn",
+    "count": 2,
+    "pages": [
+      383,
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0171",
+    "form": "bezeichne",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0172",
+    "form": "bezeichnen",
+    "count": 1,
+    "pages": [
+      371
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0173",
+    "form": "bezeichnet",
+    "count": 1,
+    "pages": [
+      370
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0174",
+    "form": "Bezeichnung",
+    "count": 2,
+    "pages": [
+      374,
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0175",
+    "form": "Beziehung",
+    "count": 5,
+    "pages": [
+      367,
+      372,
+      374,
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0176",
+    "form": "Beziehungen",
+    "count": 2,
+    "pages": [
+      383,
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0177",
+    "form": "Bibliothek",
+    "count": 1,
+    "pages": [
+      364
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0178",
+    "form": "Bild",
+    "count": 1,
+    "pages": [
+      371
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0179",
+    "form": "Bilde",
+    "count": 1,
+    "pages": [
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0180",
+    "form": "Bilder",
+    "count": 1,
+    "pages": [
+      376
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0181",
+    "form": "Bildes",
+    "count": 1,
+    "pages": [
+      387
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0182",
+    "form": "Bildsamkeit",
+    "count": 1,
+    "pages": [
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0183",
+    "form": "Bildung",
+    "count": 7,
+    "pages": [
+      364,
+      370,
+      371,
+      378,
+      387,
+      391,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0184",
+    "form": "Bildungsstufen",
+    "count": 1,
+    "pages": [
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0185",
+    "form": "Bleibendes",
+    "count": 1,
+    "pages": [
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0186",
+    "form": "Blinde",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0187",
+    "form": "Blitz",
+    "count": 1,
+    "pages": [
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0188",
+    "form": "Casuszeichen",
+    "count": 1,
+    "pages": [
+      372
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0189",
+    "form": "Charakter",
+    "count": 3,
+    "pages": [
+      371,
+      372
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0190",
+    "form": "Charakteristische",
+    "count": 1,
+    "pages": [
+      371
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0191",
+    "form": "Charakteristischen",
+    "count": 2,
+    "pages": [
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0192",
+    "form": "Charakters",
+    "count": 2,
+    "pages": [
+      372,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0193",
+    "form": "Classen",
+    "count": 2,
+    "pages": [
+      386,
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0194",
+    "form": "Classification",
+    "count": 3,
+    "pages": [
+      369,
+      370,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0195",
+    "form": "Colorit",
+    "count": 1,
+    "pages": [
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0196",
+    "form": "Conjugation",
+    "count": 1,
+    "pages": [
+      370
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0197",
+    "form": "Coptische",
+    "count": 1,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0198",
+    "form": "Cultur",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0199",
+    "form": "Dadurch",
+    "count": 2,
+    "pages": [
+      377,
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0200",
+    "form": "Dafür",
+    "count": 1,
+    "pages": [
+      365
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0201",
+    "form": "Damit",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0202",
+    "form": "Darauf",
+    "count": 1,
+    "pages": [
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0203",
+    "form": "Darstellung",
+    "count": 8,
+    "pages": [
+      366,
+      368,
+      370,
+      371,
+      373
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0204",
+    "form": "Darstellungsarten",
+    "count": 1,
+    "pages": [
+      368
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0205",
+    "form": "Darstellungsweisen",
+    "count": 1,
+    "pages": [
+      368
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0206",
+    "form": "Das",
+    "count": 10,
+    "pages": [
+      371,
+      374,
+      376,
+      377,
+      381,
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0207",
+    "form": "Daseyn",
+    "count": 6,
+    "pages": [
+      380,
+      382,
+      388,
+      391,
+      393,
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0208",
+    "form": "Daseyns",
+    "count": 2,
+    "pages": [
+      377,
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0209",
+    "form": "Dasjenige",
+    "count": 2,
+    "pages": [
+      375
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0210",
+    "form": "Dass",
+    "count": 6,
+    "pages": [
+      365,
+      375,
+      378,
+      381,
+      385,
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0211",
+    "form": "Dauer",
+    "count": 1,
+    "pages": [
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0212",
+    "form": "Declination",
+    "count": 1,
+    "pages": [
+      370
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0213",
+    "form": "Den",
+    "count": 3,
+    "pages": [
+      375,
+      382,
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0214",
+    "form": "Denk",
+    "count": 2,
+    "pages": [
+      374,
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0215",
+    "form": "Denken",
+    "count": 14,
+    "pages": [
+      375,
+      376,
+      380,
+      386,
+      388,
+      395,
+      396,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0216",
+    "form": "Denkenden",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0217",
+    "form": "Denkens",
+    "count": 7,
+    "pages": [
+      375,
+      376,
+      377,
+      381,
+      386,
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0218",
+    "form": "Denkkraft",
+    "count": 3,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0219",
+    "form": "Denn",
+    "count": 25,
+    "pages": [
+      366,
+      367,
+      370,
+      372,
+      374,
+      375,
+      377,
+      380,
+      381,
+      384,
+      385,
+      387,
+      388,
+      389,
+      390,
+      393,
+      394,
+      396,
+      397,
+      398,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0220",
+    "form": "Dennoch",
+    "count": 1,
+    "pages": [
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0221",
+    "form": "Der",
+    "count": 8,
+    "pages": [
+      374,
+      376,
+      378,
+      387,
+      389,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0222",
+    "form": "Desto",
+    "count": 1,
+    "pages": [
+      372
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0223",
+    "form": "Deutlichkeit",
+    "count": 1,
+    "pages": [
+      375
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0224",
+    "form": "Deutschen",
+    "count": 2,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0225",
+    "form": "Dialect",
+    "count": 1,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0226",
+    "form": "Die",
+    "count": 35,
+    "pages": [
+      365,
+      367,
+      369,
+      371,
+      372,
+      373,
+      374,
+      375,
+      376,
+      377,
+      378,
+      380,
+      381,
+      382,
+      383,
+      384,
+      385,
+      388,
+      389,
+      391,
+      394,
+      395,
+      397,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0227",
+    "form": "Dies",
+    "count": 12,
+    "pages": [
+      365,
+      366,
+      375,
+      376,
+      386,
+      389,
+      390,
+      391,
+      393,
+      395,
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0228",
+    "form": "Diese",
+    "count": 6,
+    "pages": [
+      369,
+      373,
+      377,
+      382,
+      385,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0229",
+    "form": "Diesen",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0230",
+    "form": "Dieser",
+    "count": 1,
+    "pages": [
+      387
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0231",
+    "form": "Dinge",
+    "count": 3,
+    "pages": [
+      369,
+      389,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0232",
+    "form": "Doch",
+    "count": 1,
+    "pages": [
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0233",
+    "form": "Drang",
+    "count": 4,
+    "pages": [
+      375,
+      376,
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0234",
+    "form": "Drange",
+    "count": 1,
+    "pages": [
+      375
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0235",
+    "form": "Dreifaches",
+    "count": 1,
+    "pages": [
+      387
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0236",
+    "form": "Dualis",
+    "count": 2,
+    "pages": [
+      368,
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0237",
+    "form": "Dualismus",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0238",
+    "form": "Dumpfheit",
+    "count": 1,
+    "pages": [
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0239",
+    "form": "Dunkel",
+    "count": 3,
+    "pages": [
+      377,
+      392,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0240",
+    "form": "Durch",
+    "count": 4,
+    "pages": [
+      375,
+      379,
+      381,
+      387
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0241",
+    "form": "Durchdringung",
+    "count": 1,
+    "pages": [
+      375
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0242",
+    "form": "Durchschauung",
+    "count": 1,
+    "pages": [
+      370
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0243",
+    "form": "Dänisch",
+    "count": 1,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0244",
+    "form": "Ebendies",
+    "count": 1,
+    "pages": [
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0245",
+    "form": "Ebensowenig",
+    "count": 1,
+    "pages": [
+      387
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0246",
+    "form": "Eigenschaften",
+    "count": 1,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0247",
+    "form": "Eigenthümliche",
+    "count": 1,
+    "pages": [
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0248",
+    "form": "Eigenthümlichkeit",
+    "count": 7,
+    "pages": [
+      366,
+      368,
+      372,
+      387,
+      391
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0249",
+    "form": "Eigenthümlichkeiten",
+    "count": 3,
+    "pages": [
+      365,
+      366,
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0250",
+    "form": "EigenthümUchkeit",
+    "count": 1,
+    "pages": [
+      388
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0251",
+    "form": "Ein",
+    "count": 3,
+    "pages": [
+      369,
+      379,
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0252",
+    "form": "Eindruck",
+    "count": 2,
+    "pages": [
+      372,
+      387
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0253",
+    "form": "Eine",
+    "count": 10,
+    "pages": [
+      369,
+      372,
+      383,
+      391,
+      392,
+      393,
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0254",
+    "form": "Einem",
+    "count": 2,
+    "pages": [
+      372,
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0255",
+    "form": "Einen",
+    "count": 2,
+    "pages": [
+      382,
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0256",
+    "form": "Einerleiheit",
+    "count": 2,
+    "pages": [
+      365,
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0257",
+    "form": "Einfall",
+    "count": 1,
+    "pages": [
+      368
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0258",
+    "form": "Einfluss",
+    "count": 12,
+    "pages": [
+      364,
+      365,
+      368,
+      374,
+      378,
+      385,
+      386,
+      388,
+      389,
+      395,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0259",
+    "form": "Einflüsse",
+    "count": 1,
+    "pages": [
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0260",
+    "form": "Eingange",
+    "count": 1,
+    "pages": [
+      372
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0261",
+    "form": "Eingehen",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0262",
+    "form": "Einheit",
+    "count": 13,
+    "pages": [
+      372,
+      383,
+      385,
+      386,
+      389,
+      391,
+      393,
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0263",
+    "form": "Einleitung",
+    "count": 1,
+    "pages": [
+      364
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0264",
+    "form": "Einrichtung",
+    "count": 1,
+    "pages": [
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0265",
+    "form": "Eins",
+    "count": 5,
+    "pages": [
+      374,
+      377,
+      389,
+      394,
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0266",
+    "form": "Einsamkeit",
+    "count": 1,
+    "pages": [
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0267",
+    "form": "Einschränkung",
+    "count": 1,
+    "pages": [
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0268",
+    "form": "Einseitigkeit",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0269",
+    "form": "Einsicht",
+    "count": 5,
+    "pages": [
+      370,
+      387,
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0270",
+    "form": "Eintheilung",
+    "count": 4,
+    "pages": [
+      373,
+      374,
+      382,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0271",
+    "form": "Eintheilungen",
+    "count": 1,
+    "pages": [
+      371
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0272",
+    "form": "Eintheilungsgrunde",
+    "count": 1,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0273",
+    "form": "Eintiuss",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0274",
+    "form": "Einw",
+    "count": 1,
+    "pages": [
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0275",
+    "form": "Einwanderungen",
+    "count": 1,
+    "pages": [
+      364
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0276",
+    "form": "Einwirkung",
+    "count": 5,
+    "pages": [
+      379,
+      381,
+      383,
+      388,
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0277",
+    "form": "Einwirkungen",
+    "count": 1,
+    "pages": [
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0278",
+    "form": "Einzelne",
+    "count": 7,
+    "pages": [
+      364,
+      367,
+      371,
+      380,
+      390,
+      396,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0279",
+    "form": "Einzelnen",
+    "count": 8,
+    "pages": [
+      371,
+      373,
+      377,
+      389,
+      396,
+      397,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0280",
+    "form": "Einzelner",
+    "count": 1,
+    "pages": [
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0281",
+    "form": "Einzelnes",
+    "count": 2,
+    "pages": [
+      367,
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0282",
+    "form": "Einzelnheiten",
+    "count": 2,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0283",
+    "form": "Einöde",
+    "count": 1,
+    "pages": [
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0284",
+    "form": "Element",
+    "count": 3,
+    "pages": [
+      391,
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0285",
+    "form": "Elementaruntersuchung",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0286",
+    "form": "Elemente",
+    "count": 9,
+    "pages": [
+      372,
+      377,
+      378,
+      379,
+      391,
+      394,
+      396,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0287",
+    "form": "Elementen",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0288",
+    "form": "Elephant",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0289",
+    "form": "Empfinden",
+    "count": 4,
+    "pages": [
+      387,
+      395,
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0290",
+    "form": "Empfindung",
+    "count": 2,
+    "pages": [
+      376,
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0291",
+    "form": "Empfindungen",
+    "count": 2,
+    "pages": [
+      377,
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0292",
+    "form": "Empfindungsbeziehungen",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0293",
+    "form": "Empfindungsvermögen",
+    "count": 2,
+    "pages": [
+      374,
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0294",
+    "form": "Empfänglichkeit",
+    "count": 1,
+    "pages": [
+      382
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0295",
+    "form": "Ende",
+    "count": 1,
+    "pages": [
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0296",
+    "form": "Endlichkeit",
+    "count": 1,
+    "pages": [
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0297",
+    "form": "Endpunkten",
+    "count": 1,
+    "pages": [
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0298",
+    "form": "Energie",
+    "count": 1,
+    "pages": [
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0299",
+    "form": "Englisch",
+    "count": 1,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0300",
+    "form": "Entbehrung",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0301",
+    "form": "Entfremdung",
+    "count": 2,
+    "pages": [
+      390,
+      391
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0302",
+    "form": "Entschluss",
+    "count": 1,
+    "pages": [
+      375
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0303",
+    "form": "Entstehung",
+    "count": 5,
+    "pages": [
+      378,
+      383,
+      390,
+      397,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0304",
+    "form": "Entstehungsgrund",
+    "count": 1,
+    "pages": [
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0305",
+    "form": "Entwicklen",
+    "count": 1,
+    "pages": [
+      376
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0306",
+    "form": "Entwicklung",
+    "count": 5,
+    "pages": [
+      376,
+      378,
+      379,
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0307",
+    "form": "Epoche",
+    "count": 1,
+    "pages": [
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0308",
+    "form": "Epochen",
+    "count": 1,
+    "pages": [
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0309",
+    "form": "Erdbodens",
+    "count": 1,
+    "pages": [
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0310",
+    "form": "Erde",
+    "count": 2,
+    "pages": [
+      378,
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0311",
+    "form": "Erdstrich",
+    "count": 1,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0312",
+    "form": "Erdstrichs",
+    "count": 3,
+    "pages": [
+      367,
+      368
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0313",
+    "form": "Erfahrungen",
+    "count": 1,
+    "pages": [
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0314",
+    "form": "Erfindung",
+    "count": 3,
+    "pages": [
+      390,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0315",
+    "form": "Erfolge",
+    "count": 2,
+    "pages": [
+      370,
+      373
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0316",
+    "form": "Erforderniss",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0317",
+    "form": "Ergründung",
+    "count": 1,
+    "pages": [
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0318",
+    "form": "Erhöhung",
+    "count": 1,
+    "pages": [
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0319",
+    "form": "Erinnerung",
+    "count": 1,
+    "pages": [
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0320",
+    "form": "Erkannten",
+    "count": 1,
+    "pages": [
+      371
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0321",
+    "form": "Erkennbare",
+    "count": 1,
+    "pages": [
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0322",
+    "form": "Erkennen",
+    "count": 1,
+    "pages": [
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0323",
+    "form": "Erkenntniss",
+    "count": 3,
+    "pages": [
+      372,
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0324",
+    "form": "Erklären",
+    "count": 1,
+    "pages": [
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0325",
+    "form": "Erklärenden",
+    "count": 1,
+    "pages": [
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0326",
+    "form": "Erklärung",
+    "count": 3,
+    "pages": [
+      383,
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0327",
+    "form": "Erklärungsarten",
+    "count": 1,
+    "pages": [
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0328",
+    "form": "Erlernung",
+    "count": 1,
+    "pages": [
+      388
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0329",
+    "form": "Erreichung",
+    "count": 1,
+    "pages": [
+      370
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0330",
+    "form": "Erscheinen",
+    "count": 1,
+    "pages": [
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0331",
+    "form": "Erscheinung",
+    "count": 5,
+    "pages": [
+      377,
+      385,
+      395,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0332",
+    "form": "Erscheinungen",
+    "count": 5,
+    "pages": [
+      383,
+      386,
+      392,
+      394,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0333",
+    "form": "Erweiterung",
+    "count": 1,
+    "pages": [
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0334",
+    "form": "Erwiedernden",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0335",
+    "form": "Erwähnung",
+    "count": 1,
+    "pages": [
+      368
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0336",
+    "form": "Erzeugende",
+    "count": 1,
+    "pages": [
+      375
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0337",
+    "form": "Erzeugniss",
+    "count": 3,
+    "pages": [
+      373,
+      375,
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0338",
+    "form": "Erzeugnissen",
+    "count": 1,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0339",
+    "form": "Erzeugte",
+    "count": 2,
+    "pages": [
+      374,
+      375
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0340",
+    "form": "Erzeugten",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0341",
+    "form": "Erzeugung",
+    "count": 4,
+    "pages": [
+      375,
+      381,
+      388
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0342",
+    "form": "Erzeugungen",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0343",
+    "form": "Europa",
+    "count": 1,
+    "pages": [
+      364
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0344",
+    "form": "Europaeische",
+    "count": 1,
+    "pages": [
+      365
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0345",
+    "form": "Europaeischen",
+    "count": 1,
+    "pages": [
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0346",
+    "form": "Europas",
+    "count": 1,
+    "pages": [
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0347",
+    "form": "Europäischen",
+    "count": 1,
+    "pages": [
+      364
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0348",
+    "form": "Fall",
+    "count": 4,
+    "pages": [
+      384,
+      390,
+      391,
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0349",
+    "form": "Falle",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0350",
+    "form": "Familie",
+    "count": 1,
+    "pages": [
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0351",
+    "form": "Familien",
+    "count": 2,
+    "pages": [
+      365,
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0352",
+    "form": "Farbe",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0353",
+    "form": "Farben",
+    "count": 1,
+    "pages": [
+      371
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0354",
+    "form": "Feinheit",
+    "count": 1,
+    "pages": [
+      370
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0355",
+    "form": "Feinste",
+    "count": 1,
+    "pages": [
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0356",
+    "form": "Feld",
+    "count": 1,
+    "pages": [
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0357",
+    "form": "Ferne",
+    "count": 2,
+    "pages": [
+      376,
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0358",
+    "form": "Feste",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0359",
+    "form": "Festes",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0360",
+    "form": "Flexion",
+    "count": 1,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0361",
+    "form": "Florentiner",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0362",
+    "form": "Flut",
+    "count": 1,
+    "pages": [
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0363",
+    "form": "Fluthen",
+    "count": 1,
+    "pages": [
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0364",
+    "form": "Folge",
+    "count": 5,
+    "pages": [
+      370,
+      372,
+      388,
+      392,
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0365",
+    "form": "Folgerungen",
+    "count": 1,
+    "pages": [
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0366",
+    "form": "Folioseiten",
+    "count": 1,
+    "pages": [
+      364
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0367",
+    "form": "Form",
+    "count": 7,
+    "pages": [
+      369,
+      370,
+      375,
+      384,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0368",
+    "form": "Formen",
+    "count": 9,
+    "pages": [
+      368,
+      369,
+      370,
+      373,
+      381,
+      390,
+      391,
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0369",
+    "form": "Forschung",
+    "count": 2,
+    "pages": [
+      365
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0370",
+    "form": "Forschungen",
+    "count": 2,
+    "pages": [
+      366,
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0371",
+    "form": "Fortbildung",
+    "count": 1,
+    "pages": [
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0372",
+    "form": "Fortleben",
+    "count": 1,
+    "pages": [
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0373",
+    "form": "Fortpflanzung",
+    "count": 1,
+    "pages": [
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0374",
+    "form": "Fortschritte",
+    "count": 2,
+    "pages": [
+      373,
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0375",
+    "form": "Fragen",
+    "count": 1,
+    "pages": [
+      371
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0376",
+    "form": "Freiheit",
+    "count": 9,
+    "pages": [
+      370,
+      371,
+      397,
+      398,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0377",
+    "form": "Freilich",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0378",
+    "form": "Fremde",
+    "count": 1,
+    "pages": [
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0379",
+    "form": "Fremden",
+    "count": 1,
+    "pages": [
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0380",
+    "form": "Fremdes",
+    "count": 2,
+    "pages": [
+      365,
+      388
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0381",
+    "form": "Fronomina",
+    "count": 1,
+    "pages": [
+      368
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0382",
+    "form": "Funke",
+    "count": 1,
+    "pages": [
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0383",
+    "form": "Fähigkeit",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0384",
+    "form": "Fällen",
+    "count": 3,
+    "pages": [
+      367,
+      385,
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0385",
+    "form": "Fülle",
+    "count": 1,
+    "pages": [
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0386",
+    "form": "Für",
+    "count": 1,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0387",
+    "form": "Gang",
+    "count": 1,
+    "pages": [
+      374
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0388",
+    "form": "Gange",
+    "count": 2,
+    "pages": [
+      397,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0389",
+    "form": "Ganze",
+    "count": 4,
+    "pages": [
+      370,
+      375,
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0390",
+    "form": "Ganzen",
+    "count": 10,
+    "pages": [
+      369,
+      370,
+      371,
+      372,
+      384,
+      396,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0391",
+    "form": "Ganzes",
+    "count": 2,
+    "pages": [
+      382,
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0392",
+    "form": "Gattung",
+    "count": 8,
+    "pages": [
+      367,
+      368,
+      374,
+      377,
+      378,
+      379,
+      382,
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0393",
+    "form": "Gattungen",
+    "count": 3,
+    "pages": [
+      378,
+      380,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0394",
+    "form": "Gattungsbegriffen",
+    "count": 1,
+    "pages": [
+      382
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0395",
+    "form": "Gebiet",
+    "count": 4,
+    "pages": [
+      375,
+      392,
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0396",
+    "form": "Gebiete",
+    "count": 5,
+    "pages": [
+      366,
+      368,
+      382,
+      390,
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0397",
+    "form": "Gebildeten",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0398",
+    "form": "Gebote",
+    "count": 1,
+    "pages": [
+      365
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0399",
+    "form": "Gebrauch",
+    "count": 6,
+    "pages": [
+      369,
+      371,
+      375,
+      387,
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0400",
+    "form": "Gebrauche",
+    "count": 4,
+    "pages": [
+      386,
+      389,
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0401",
+    "form": "Gebrauches",
+    "count": 1,
+    "pages": [
+      382
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0402",
+    "form": "Gebrauchs",
+    "count": 1,
+    "pages": [
+      370
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0403",
+    "form": "Gedachte",
+    "count": 1,
+    "pages": [
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0404",
+    "form": "Gedanke",
+    "count": 3,
+    "pages": [
+      369,
+      370,
+      388
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0405",
+    "form": "Gedanken",
+    "count": 15,
+    "pages": [
+      373,
+      374,
+      376,
+      378,
+      380,
+      381,
+      386,
+      388,
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0406",
+    "form": "Gedächtniss",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0407",
+    "form": "Gedächtnisses",
+    "count": 1,
+    "pages": [
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0408",
+    "form": "Gefahr",
+    "count": 1,
+    "pages": [
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0409",
+    "form": "Gefallen",
+    "count": 3,
+    "pages": [
+      377,
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0410",
+    "form": "Gefühl",
+    "count": 6,
+    "pages": [
+      372,
+      379,
+      381,
+      395,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0411",
+    "form": "Gefühle",
+    "count": 2,
+    "pages": [
+      377,
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0412",
+    "form": "Gefühlen",
+    "count": 2,
+    "pages": [
+      384,
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0413",
+    "form": "Gefühls",
+    "count": 2,
+    "pages": [
+      372,
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0414",
+    "form": "Gegensatz",
+    "count": 1,
+    "pages": [
+      371
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0415",
+    "form": "Gegensatzes",
+    "count": 1,
+    "pages": [
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0416",
+    "form": "Gegenstand",
+    "count": 4,
+    "pages": [
+      369,
+      381,
+      387
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0417",
+    "form": "Gegenstande",
+    "count": 2,
+    "pages": [
+      364,
+      368
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0418",
+    "form": "Gegenstandes",
+    "count": 4,
+    "pages": [
+      377,
+      384,
+      387
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0419",
+    "form": "Gegenstände",
+    "count": 3,
+    "pages": [
+      381,
+      386,
+      387
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0420",
+    "form": "Gegenständen",
+    "count": 3,
+    "pages": [
+      381,
+      387
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0421",
+    "form": "Gegründetes",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0422",
+    "form": "Gehalt",
+    "count": 2,
+    "pages": [
+      387,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0423",
+    "form": "Geheimniss",
+    "count": 2,
+    "pages": [
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0424",
+    "form": "Gehörte",
+    "count": 2,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0425",
+    "form": "Gehörten",
+    "count": 2,
+    "pages": [
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0426",
+    "form": "Gehörtes",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0427",
+    "form": "Geist",
+    "count": 4,
+    "pages": [
+      374,
+      375,
+      387,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0428",
+    "form": "Geiste",
+    "count": 6,
+    "pages": [
+      374,
+      375,
+      377,
+      381,
+      388,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0429",
+    "form": "Geistes",
+    "count": 6,
+    "pages": [
+      370,
+      375,
+      377,
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0430",
+    "form": "geistig",
+    "count": 3,
+    "pages": [
+      374,
+      391,
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0431",
+    "form": "geistige",
+    "count": 7,
+    "pages": [
+      373,
+      374,
+      376,
+      377,
+      382,
+      383,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0432",
+    "form": "Geistige",
+    "count": 2,
+    "pages": [
+      379,
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0433",
+    "form": "geistigen",
+    "count": 3,
+    "pages": [
+      373,
+      381,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0434",
+    "form": "Geistigen",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0435",
+    "form": "geistiger",
+    "count": 2,
+    "pages": [
+      369,
+      370
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0436",
+    "form": "geistiges",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0437",
+    "form": "geistigsten",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0438",
+    "form": "Gelingen",
+    "count": 1,
+    "pages": [
+      372
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0439",
+    "form": "Geltung",
+    "count": 1,
+    "pages": [
+      388
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0440",
+    "form": "Gemeinsame",
+    "count": 1,
+    "pages": [
+      382
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0441",
+    "form": "Gemeinsamen",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0442",
+    "form": "Gemeinsames",
+    "count": 2,
+    "pages": [
+      380,
+      382
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0443",
+    "form": "Gemeinschaft",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0444",
+    "form": "Gemüth",
+    "count": 2,
+    "pages": [
+      382,
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0445",
+    "form": "Genaues",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0446",
+    "form": "Generation",
+    "count": 3,
+    "pages": [
+      389,
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0447",
+    "form": "Generationen",
+    "count": 1,
+    "pages": [
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0448",
+    "form": "Gerade",
+    "count": 1,
+    "pages": [
+      370
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0449",
+    "form": "Geräusch",
+    "count": 5,
+    "pages": [
+      375,
+      376,
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0450",
+    "form": "Gesagte",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0451",
+    "form": "Gesagten",
+    "count": 1,
+    "pages": [
+      370
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0452",
+    "form": "Gesammtbehandlung",
+    "count": 1,
+    "pages": [
+      370
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0453",
+    "form": "Gesammtmasse",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0454",
+    "form": "Gesang",
+    "count": 1,
+    "pages": [
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0455",
+    "form": "Geschichte",
+    "count": 2,
+    "pages": [
+      365,
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0456",
+    "form": "Geschicke",
+    "count": 1,
+    "pages": [
+      365
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0457",
+    "form": "Geschiedenes",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0458",
+    "form": "Geschiedne",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0459",
+    "form": "Geschlecht",
+    "count": 3,
+    "pages": [
+      374,
+      388,
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0460",
+    "form": "Geschlechte",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0461",
+    "form": "Geschlechter",
+    "count": 2,
+    "pages": [
+      374,
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0462",
+    "form": "Geschlechtern",
+    "count": 1,
+    "pages": [
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0463",
+    "form": "Geschlechtsbezeichnung",
+    "count": 2,
+    "pages": [
+      368,
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0464",
+    "form": "Geschrei",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0465",
+    "form": "Geschäft",
+    "count": 2,
+    "pages": [
+      370,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0466",
+    "form": "Geschäftes",
+    "count": 1,
+    "pages": [
+      373
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0467",
+    "form": "Geschäfts",
+    "count": 1,
+    "pages": [
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0468",
+    "form": "Geschöpf",
+    "count": 1,
+    "pages": [
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0469",
+    "form": "Geselligkeit",
+    "count": 3,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0470",
+    "form": "Gesetze",
+    "count": 1,
+    "pages": [
+      375
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0471",
+    "form": "Gesetzen",
+    "count": 2,
+    "pages": [
+      374,
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0472",
+    "form": "Gesichtspunkten",
+    "count": 1,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0473",
+    "form": "Gesprochene",
+    "count": 3,
+    "pages": [
+      374,
+      375
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0474",
+    "form": "Gesprochenen",
+    "count": 2,
+    "pages": [
+      385,
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0475",
+    "form": "Gesprochenhaben",
+    "count": 1,
+    "pages": [
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0476",
+    "form": "Gespräch",
+    "count": 1,
+    "pages": [
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0477",
+    "form": "Gestaltung",
+    "count": 1,
+    "pages": [
+      376
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0478",
+    "form": "Gestirne",
+    "count": 1,
+    "pages": [
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0479",
+    "form": "Gewah",
+    "count": 1,
+    "pages": [
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0480",
+    "form": "Gewalt",
+    "count": 5,
+    "pages": [
+      375,
+      385,
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0481",
+    "form": "Gewebe",
+    "count": 1,
+    "pages": [
+      388
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0482",
+    "form": "Gewinnung",
+    "count": 2,
+    "pages": [
+      385,
+      388
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0483",
+    "form": "Gharaktere",
+    "count": 1,
+    "pages": [
+      368
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0484",
+    "form": "Gleichartige",
+    "count": 2,
+    "pages": [
+      394,
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0485",
+    "form": "Gleichartigen",
+    "count": 1,
+    "pages": [
+      382
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0486",
+    "form": "Gleichartiges",
+    "count": 1,
+    "pages": [
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0487",
+    "form": "Gleichartigkeit",
+    "count": 13,
+    "pages": [
+      383,
+      384,
+      391,
+      392,
+      393,
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0488",
+    "form": "Gleiche",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0489",
+    "form": "Gleiches",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0490",
+    "form": "Gleichgewicht",
+    "count": 1,
+    "pages": [
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0491",
+    "form": "Gleichnisse",
+    "count": 1,
+    "pages": [
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0492",
+    "form": "Gleichzeitigkeit",
+    "count": 1,
+    "pages": [
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0493",
+    "form": "Gliede",
+    "count": 1,
+    "pages": [
+      376
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0494",
+    "form": "Grade",
+    "count": 2,
+    "pages": [
+      397,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0495",
+    "form": "Grammatik",
+    "count": 2,
+    "pages": [
+      373
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0496",
+    "form": "Grammatiken",
+    "count": 3,
+    "pages": [
+      366,
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0497",
+    "form": "Grammatikern",
+    "count": 1,
+    "pages": [
+      373
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0498",
+    "form": "grammatische",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0499",
+    "form": "grammatischen",
+    "count": 4,
+    "pages": [
+      368,
+      370,
+      372,
+      373
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0500",
+    "form": "Grenzen",
+    "count": 1,
+    "pages": [
+      365
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0501",
+    "form": "Griechische",
+    "count": 1,
+    "pages": [
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0502",
+    "form": "Griechischen",
+    "count": 3,
+    "pages": [
+      369,
+      373
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0503",
+    "form": "Grosse",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0504",
+    "form": "Grossen",
+    "count": 1,
+    "pages": [
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0505",
+    "form": "Grund",
+    "count": 3,
+    "pages": [
+      371,
+      389,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0506",
+    "form": "Grunde",
+    "count": 1,
+    "pages": [
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0507",
+    "form": "Grundlauten",
+    "count": 1,
+    "pages": [
+      371
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0508",
+    "form": "Grundsatz",
+    "count": 3,
+    "pages": [
+      391,
+      392,
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0509",
+    "form": "Grundsätzen",
+    "count": 1,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0510",
+    "form": "Grundtheile",
+    "count": 1,
+    "pages": [
+      375
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0511",
+    "form": "Grundtöne",
+    "count": 1,
+    "pages": [
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0512",
+    "form": "Grundwahrheiten",
+    "count": 1,
+    "pages": [
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0513",
+    "form": "Grundzüge",
+    "count": 20,
+    "pages": [
+      364,
+      365,
+      366,
+      368,
+      370,
+      372,
+      374,
+      376,
+      378,
+      380,
+      382,
+      384,
+      386,
+      388,
+      390,
+      392,
+      394,
+      396,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0514",
+    "form": "Grundzügen",
+    "count": 1,
+    "pages": [
+      374
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0515",
+    "form": "Grunzen",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0516",
+    "form": "Gränze",
+    "count": 1,
+    "pages": [
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0517",
+    "form": "Gränzen",
+    "count": 7,
+    "pages": [
+      364,
+      373,
+      382,
+      393,
+      397,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0518",
+    "form": "Gährung",
+    "count": 1,
+    "pages": [
+      365
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0519",
+    "form": "Hand",
+    "count": 3,
+    "pages": [
+      367,
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0520",
+    "form": "Handelns",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0521",
+    "form": "Handien",
+    "count": 1,
+    "pages": [
+      387
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0522",
+    "form": "Handlung",
+    "count": 3,
+    "pages": [
+      376,
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0523",
+    "form": "Haufen",
+    "count": 1,
+    "pages": [
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0524",
+    "form": "Hauptgrundsatz",
+    "count": 1,
+    "pages": [
+      391
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0525",
+    "form": "Hauptzweck",
+    "count": 1,
+    "pages": [
+      368
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0526",
+    "form": "Hebt",
+    "count": 1,
+    "pages": [
+      372
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0527",
+    "form": "Heerden",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0528",
+    "form": "Herausgabe",
+    "count": 2,
+    "pages": [
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0529",
+    "form": "Herr",
+    "count": 1,
+    "pages": [
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0530",
+    "form": "Hervorbringung",
+    "count": 1,
+    "pages": [
+      376
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0531",
+    "form": "Hervorrufen",
+    "count": 2,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0532",
+    "form": "Hesse",
+    "count": 2,
+    "pages": [
+      378,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0533",
+    "form": "Hierbei",
+    "count": 1,
+    "pages": [
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0534",
+    "form": "Hinblickes",
+    "count": 1,
+    "pages": [
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0535",
+    "form": "Hindernisse",
+    "count": 1,
+    "pages": [
+      372
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0536",
+    "form": "Hoffnung",
+    "count": 1,
+    "pages": [
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0537",
+    "form": "Homerischen",
+    "count": 1,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0538",
+    "form": "Horden",
+    "count": 1,
+    "pages": [
+      365
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0539",
+    "form": "Humboldt",
+    "count": 2,
+    "pages": [
+      369,
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0540",
+    "form": "Höheren",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0541",
+    "form": "Hörende",
+    "count": 1,
+    "pages": [
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0542",
+    "form": "Hörenden",
+    "count": 3,
+    "pages": [
+      381,
+      384,
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0543",
+    "form": "Hülfe",
+    "count": 1,
+    "pages": [
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0544",
+    "form": "Hülfsleistung",
+    "count": 1,
+    "pages": [
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0545",
+    "form": "Hülfsmittel",
+    "count": 2,
+    "pages": [
+      365,
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0546",
+    "form": "Hülfswörtern",
+    "count": 1,
+    "pages": [
+      368
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0547",
+    "form": "Ich",
+    "count": 15,
+    "pages": [
+      366,
+      367,
+      368,
+      371,
+      372,
+      381,
+      388,
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0548",
+    "form": "Idee",
+    "count": 5,
+    "pages": [
+      382,
+      383,
+      393,
+      394,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0549",
+    "form": "Ideellen",
+    "count": 1,
+    "pages": [
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0550",
+    "form": "Ideen",
+    "count": 3,
+    "pages": [
+      378,
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0551",
+    "form": "Ideenbezeichnung",
+    "count": 1,
+    "pages": [
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0552",
+    "form": "Ideenentwicklung",
+    "count": 1,
+    "pages": [
+      374
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0553",
+    "form": "Idiome",
+    "count": 1,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0554",
+    "form": "Inbegriff",
+    "count": 1,
+    "pages": [
+      374
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0555",
+    "form": "Incas",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0556",
+    "form": "Indem",
+    "count": 3,
+    "pages": [
+      371,
+      377,
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0557",
+    "form": "Indess",
+    "count": 2,
+    "pages": [
+      386,
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0558",
+    "form": "Indischen",
+    "count": 2,
+    "pages": [
+      369,
+      373
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0559",
+    "form": "Individualitaet",
+    "count": 8,
+    "pages": [
+      379,
+      390,
+      395,
+      396,
+      397,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0560",
+    "form": "Individualität",
+    "count": 14,
+    "pages": [
+      366,
+      371,
+      372,
+      382,
+      383,
+      385,
+      387,
+      394,
+      395,
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0561",
+    "form": "Individuelle",
+    "count": 1,
+    "pages": [
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0562",
+    "form": "Individuen",
+    "count": 2,
+    "pages": [
+      383,
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0563",
+    "form": "Individuum",
+    "count": 5,
+    "pages": [
+      374,
+      382,
+      394,
+      397,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0564",
+    "form": "Individuums",
+    "count": 1,
+    "pages": [
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0565",
+    "form": "Ineinandergreifen",
+    "count": 1,
+    "pages": [
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0566",
+    "form": "Inhalte",
+    "count": 1,
+    "pages": [
+      368
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0567",
+    "form": "Innern",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0568",
+    "form": "Innigkeit",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0569",
+    "form": "Intellectualitaet",
+    "count": 2,
+    "pages": [
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0570",
+    "form": "intellectuelle",
+    "count": 5,
+    "pages": [
+      374,
+      375,
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0571",
+    "form": "intellectuellen",
+    "count": 3,
+    "pages": [
+      374,
+      376,
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0572",
+    "form": "Intelligenz",
+    "count": 1,
+    "pages": [
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0573",
+    "form": "Irrthümern",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0574",
+    "form": "Ist",
+    "count": 1,
+    "pages": [
+      371
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0575",
+    "form": "Jahren",
+    "count": 1,
+    "pages": [
+      365
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0576",
+    "form": "Jahrhunderte",
+    "count": 4,
+    "pages": [
+      365,
+      389,
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0577",
+    "form": "Jahrtausende",
+    "count": 1,
+    "pages": [
+      388
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0578",
+    "form": "Jede",
+    "count": 3,
+    "pages": [
+      371,
+      382
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0579",
+    "form": "Jedes",
+    "count": 3,
+    "pages": [
+      376,
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0580",
+    "form": "Jenes",
+    "count": 1,
+    "pages": [
+      371
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0581",
+    "form": "Jetzt",
+    "count": 1,
+    "pages": [
+      388
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0582",
+    "form": "Kapitel",
+    "count": 2,
+    "pages": [
+      374,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0583",
+    "form": "Kategorie",
+    "count": 1,
+    "pages": [
+      382
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0584",
+    "form": "Kategorieen",
+    "count": 2,
+    "pages": [
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0585",
+    "form": "Kehllaut",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0586",
+    "form": "Kehrt",
+    "count": 1,
+    "pages": [
+      372
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0587",
+    "form": "Keiner",
+    "count": 1,
+    "pages": [
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0588",
+    "form": "Keines",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0589",
+    "form": "Kenntniss",
+    "count": 4,
+    "pages": [
+      368,
+      372,
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0590",
+    "form": "Kinde",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0591",
+    "form": "Kinder",
+    "count": 3,
+    "pages": [
+      384,
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0592",
+    "form": "Kindern",
+    "count": 1,
+    "pages": [
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0593",
+    "form": "Kindes",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0594",
+    "form": "Kindheit",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0595",
+    "form": "Klang",
+    "count": 1,
+    "pages": [
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0596",
+    "form": "Klaproth",
+    "count": 1,
+    "pages": [
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0597",
+    "form": "Klarheit",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0598",
+    "form": "Kleinliche",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0599",
+    "form": "Kraft",
+    "count": 15,
+    "pages": [
+      375,
+      377,
+      382,
+      384,
+      385,
+      389,
+      390,
+      394,
+      396,
+      397,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0600",
+    "form": "Kreis",
+    "count": 2,
+    "pages": [
+      387,
+      388
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0601",
+    "form": "Kreises",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0602",
+    "form": "Kräfte",
+    "count": 6,
+    "pages": [
+      365,
+      373,
+      380,
+      383,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0603",
+    "form": "Kräften",
+    "count": 2,
+    "pages": [
+      365,
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0604",
+    "form": "Königlichen",
+    "count": 1,
+    "pages": [
+      364
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0605",
+    "form": "Körper",
+    "count": 2,
+    "pages": [
+      370,
+      374
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0606",
+    "form": "Lage",
+    "count": 4,
+    "pages": [
+      364,
+      375,
+      376,
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0607",
+    "form": "Langwierigkeit",
+    "count": 1,
+    "pages": [
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0608",
+    "form": "Lateinische",
+    "count": 1,
+    "pages": [
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0609",
+    "form": "Laut",
+    "count": 11,
+    "pages": [
+      375,
+      376,
+      377,
+      378,
+      385,
+      386,
+      393,
+      398,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0610",
+    "form": "Lautbezeichnung",
+    "count": 1,
+    "pages": [
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0611",
+    "form": "Laute",
+    "count": 16,
+    "pages": [
+      370,
+      374,
+      375,
+      377,
+      378,
+      379,
+      384,
+      385,
+      386,
+      393,
+      396,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0612",
+    "form": "Lautelement",
+    "count": 1,
+    "pages": [
+      371
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0613",
+    "form": "Lautes",
+    "count": 2,
+    "pages": [
+      376
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0614",
+    "form": "Lauthervorbringung",
+    "count": 1,
+    "pages": [
+      375
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0615",
+    "form": "Lauts",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0616",
+    "form": "Lautsystem",
+    "count": 2,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0617",
+    "form": "Lautsystems",
+    "count": 1,
+    "pages": [
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0618",
+    "form": "Lautzeichen",
+    "count": 1,
+    "pages": [
+      382
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0619",
+    "form": "Leben",
+    "count": 4,
+    "pages": [
+      369,
+      381,
+      386,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0620",
+    "form": "Lebendigen",
+    "count": 1,
+    "pages": [
+      370
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0621",
+    "form": "Lebendigkeit",
+    "count": 1,
+    "pages": [
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0622",
+    "form": "Lebens",
+    "count": 1,
+    "pages": [
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0623",
+    "form": "Lebensalter",
+    "count": 1,
+    "pages": [
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0624",
+    "form": "Lehrgebäude",
+    "count": 1,
+    "pages": [
+      374
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0625",
+    "form": "Lernen",
+    "count": 1,
+    "pages": [
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0626",
+    "form": "Leser",
+    "count": 1,
+    "pages": [
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0627",
+    "form": "Letzte",
+    "count": 1,
+    "pages": [
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0628",
+    "form": "lexicalischen",
+    "count": 1,
+    "pages": [
+      370
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0629",
+    "form": "Licht",
+    "count": 3,
+    "pages": [
+      377,
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0630",
+    "form": "Lieder",
+    "count": 1,
+    "pages": [
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0631",
+    "form": "Liegendes",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0632",
+    "form": "Lippen",
+    "count": 3,
+    "pages": [
+      377,
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0633",
+    "form": "Literatur",
+    "count": 3,
+    "pages": [
+      365,
+      386,
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0634",
+    "form": "logischen",
+    "count": 3,
+    "pages": [
+      373,
+      376,
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0635",
+    "form": "Luft",
+    "count": 1,
+    "pages": [
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0636",
+    "form": "Lufterschütterung",
+    "count": 2,
+    "pages": [
+      376
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0637",
+    "form": "Lösung",
+    "count": 1,
+    "pages": [
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0638",
+    "form": "Lücke",
+    "count": 1,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0639",
+    "form": "Macht",
+    "count": 3,
+    "pages": [
+      388,
+      389,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0640",
+    "form": "Malayischen",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0641",
+    "form": "Malerei",
+    "count": 1,
+    "pages": [
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0642",
+    "form": "Man",
+    "count": 14,
+    "pages": [
+      367,
+      368,
+      370,
+      372,
+      373,
+      378,
+      379,
+      382,
+      383,
+      391,
+      394,
+      396,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0643",
+    "form": "Mangel",
+    "count": 2,
+    "pages": [
+      365,
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0644",
+    "form": "Mangelnden",
+    "count": 1,
+    "pages": [
+      376
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0645",
+    "form": "Manier",
+    "count": 1,
+    "pages": [
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0646",
+    "form": "Mannigfaltigkeit",
+    "count": 1,
+    "pages": [
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0647",
+    "form": "Mass",
+    "count": 1,
+    "pages": [
+      387
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0648",
+    "form": "Masse",
+    "count": 5,
+    "pages": [
+      369,
+      380,
+      390,
+      396,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0649",
+    "form": "Massgabe",
+    "count": 1,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0650",
+    "form": "Materialien",
+    "count": 1,
+    "pages": [
+      365
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0651",
+    "form": "Materie",
+    "count": 2,
+    "pages": [
+      374,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0652",
+    "form": "mechanischer",
+    "count": 1,
+    "pages": [
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0653",
+    "form": "mechanisches",
+    "count": 1,
+    "pages": [
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0654",
+    "form": "Mechanismus",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0655",
+    "form": "Mehr",
+    "count": 1,
+    "pages": [
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0656",
+    "form": "Mehrerer",
+    "count": 1,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0657",
+    "form": "Menge",
+    "count": 2,
+    "pages": [
+      365,
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0658",
+    "form": "Mensch",
+    "count": 13,
+    "pages": [
+      377,
+      378,
+      380,
+      381,
+      387,
+      389,
+      391,
+      396,
+      397,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0659",
+    "form": "Menschen",
+    "count": 22,
+    "pages": [
+      376,
+      377,
+      378,
+      380,
+      381,
+      382,
+      385,
+      386,
+      391,
+      393,
+      395,
+      397,
+      398,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0660",
+    "form": "Menschengattung",
+    "count": 1,
+    "pages": [
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0661",
+    "form": "Menschengeschlecht",
+    "count": 6,
+    "pages": [
+      383,
+      388,
+      389,
+      391,
+      392,
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0662",
+    "form": "Menschengeschlechter",
+    "count": 1,
+    "pages": [
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0663",
+    "form": "Menschengeschlechts",
+    "count": 5,
+    "pages": [
+      383,
+      390,
+      392,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0664",
+    "form": "Menschenpaare",
+    "count": 1,
+    "pages": [
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0665",
+    "form": "Menschensprache",
+    "count": 1,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0666",
+    "form": "Menschheit",
+    "count": 5,
+    "pages": [
+      379,
+      388,
+      393,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0667",
+    "form": "Methode",
+    "count": 2,
+    "pages": [
+      368,
+      371
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0668",
+    "form": "Mir",
+    "count": 1,
+    "pages": [
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0669",
+    "form": "Mischung",
+    "count": 3,
+    "pages": [
+      391,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0670",
+    "form": "Mit",
+    "count": 2,
+    "pages": [
+      389,
+      391
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0671",
+    "form": "Mitglieder",
+    "count": 1,
+    "pages": [
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0672",
+    "form": "Mitte",
+    "count": 1,
+    "pages": [
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0673",
+    "form": "Mittel",
+    "count": 14,
+    "pages": [
+      368,
+      369,
+      370,
+      371,
+      373,
+      375,
+      381,
+      390,
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0674",
+    "form": "Mittheilung",
+    "count": 4,
+    "pages": [
+      377,
+      378,
+      381,
+      382
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0675",
+    "form": "Modification",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0676",
+    "form": "Modificationen",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0677",
+    "form": "Modificirung",
+    "count": 1,
+    "pages": [
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0678",
+    "form": "Moment",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0679",
+    "form": "Monographieen",
+    "count": 1,
+    "pages": [
+      372
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0680",
+    "form": "Mundart",
+    "count": 1,
+    "pages": [
+      382
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0681",
+    "form": "Mundarten",
+    "count": 3,
+    "pages": [
+      386,
+      391
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0682",
+    "form": "Munde",
+    "count": 1,
+    "pages": [
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0683",
+    "form": "Mutterschoosse",
+    "count": 1,
+    "pages": [
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0684",
+    "form": "Muttersprache",
+    "count": 1,
+    "pages": [
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0685",
+    "form": "Muttersprachen",
+    "count": 1,
+    "pages": [
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0686",
+    "form": "Mängel",
+    "count": 1,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0687",
+    "form": "Möglichkeit",
+    "count": 7,
+    "pages": [
+      380,
+      384,
+      390,
+      393,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0688",
+    "form": "Mühe",
+    "count": 1,
+    "pages": [
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0689",
+    "form": "Nachdenken",
+    "count": 2,
+    "pages": [
+      369,
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0690",
+    "form": "Nachtheil",
+    "count": 1,
+    "pages": [
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0691",
+    "form": "Nachwelt",
+    "count": 1,
+    "pages": [
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0692",
+    "form": "Namen",
+    "count": 1,
+    "pages": [
+      373
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0693",
+    "form": "Nation",
+    "count": 12,
+    "pages": [
+      374,
+      382,
+      387,
+      388,
+      389,
+      395,
+      396,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0694",
+    "form": "Nationaleigenthümlichkeit",
+    "count": 1,
+    "pages": [
+      364
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0695",
+    "form": "Nationalsprachen",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0696",
+    "form": "Nationen",
+    "count": 13,
+    "pages": [
+      365,
+      385,
+      386,
+      390,
+      391,
+      393,
+      395,
+      396,
+      397,
+      398,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0697",
+    "form": "Natur",
+    "count": 30,
+    "pages": [
+      365,
+      367,
+      369,
+      370,
+      371,
+      373,
+      374,
+      376,
+      377,
+      378,
+      379,
+      380,
+      383,
+      385,
+      386,
+      389,
+      393,
+      395,
+      397,
+      398,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0698",
+    "form": "Naturen",
+    "count": 1,
+    "pages": [
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0699",
+    "form": "Naturgegenstände",
+    "count": 1,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0700",
+    "form": "Naturkörper",
+    "count": 1,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0701",
+    "form": "Naturstande",
+    "count": 1,
+    "pages": [
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0702",
+    "form": "Natursystemen",
+    "count": 1,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0703",
+    "form": "Naturzusammenhang",
+    "count": 1,
+    "pages": [
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0704",
+    "form": "Nebenher",
+    "count": 1,
+    "pages": [
+      372
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0705",
+    "form": "Neigung",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0706",
+    "form": "Neues",
+    "count": 1,
+    "pages": [
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0707",
+    "form": "Neuheit",
+    "count": 1,
+    "pages": [
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0708",
+    "form": "Nichtich",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0709",
+    "form": "Nichts",
+    "count": 2,
+    "pages": [
+      369,
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0710",
+    "form": "Nichtübereinstimmung",
+    "count": 1,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0711",
+    "form": "Niederlegen",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0712",
+    "form": "Niemand",
+    "count": 1,
+    "pages": [
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0713",
+    "form": "Norden",
+    "count": 3,
+    "pages": [
+      365,
+      368
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0714",
+    "form": "Noth",
+    "count": 3,
+    "pages": [
+      377,
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0715",
+    "form": "Nothwendigkeit",
+    "count": 3,
+    "pages": [
+      375,
+      376,
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0716",
+    "form": "Nuancen",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0717",
+    "form": "Nun",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0718",
+    "form": "Nur",
+    "count": 3,
+    "pages": [
+      389,
+      390,
+      391
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0719",
+    "form": "Nutzen",
+    "count": 1,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0720",
+    "form": "Obgleich",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0721",
+    "form": "Object",
+    "count": 10,
+    "pages": [
+      377,
+      380,
+      381,
+      387,
+      388
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0722",
+    "form": "objectiven",
+    "count": 1,
+    "pages": [
+      387
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0723",
+    "form": "Objectivität",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0724",
+    "form": "Objects",
+    "count": 2,
+    "pages": [
+      377,
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0725",
+    "form": "Oft",
+    "count": 1,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0726",
+    "form": "Ohne",
+    "count": 1,
+    "pages": [
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0727",
+    "form": "Ohr",
+    "count": 3,
+    "pages": [
+      375,
+      376,
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0728",
+    "form": "Ohre",
+    "count": 6,
+    "pages": [
+      375,
+      376,
+      377,
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0729",
+    "form": "OOQ",
+    "count": 1,
+    "pages": [
+      399
+    ],
+    "header_only": true
+  },
+  {
+    "id": "early:0730",
+    "form": "OQA",
+    "count": 1,
+    "pages": [
+      394
+    ],
+    "header_only": true
+  },
+  {
+    "id": "early:0731",
+    "form": "OQtl",
+    "count": 1,
+    "pages": [
+      391
+    ],
+    "header_only": true
+  },
+  {
+    "id": "early:0732",
+    "form": "Ordnung",
+    "count": 3,
+    "pages": [
+      368,
+      371
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0733",
+    "form": "Organ",
+    "count": 2,
+    "pages": [
+      374,
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0734",
+    "form": "Organe",
+    "count": 2,
+    "pages": [
+      376
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0735",
+    "form": "Ort",
+    "count": 1,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0736",
+    "form": "Osten",
+    "count": 1,
+    "pages": [
+      368
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0737",
+    "form": "Paragraphen",
+    "count": 1,
+    "pages": [
+      364
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0738",
+    "form": "Participium",
+    "count": 2,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0739",
+    "form": "Partikeln",
+    "count": 1,
+    "pages": [
+      371
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0740",
+    "form": "Passivum",
+    "count": 2,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0741",
+    "form": "Periodenbau",
+    "count": 1,
+    "pages": [
+      370
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0742",
+    "form": "Person",
+    "count": 2,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0743",
+    "form": "Pflanzen",
+    "count": 1,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0744",
+    "form": "Pflanzendecke",
+    "count": 1,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0745",
+    "form": "Pflanzengattung",
+    "count": 1,
+    "pages": [
+      368
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0746",
+    "form": "Phantasie",
+    "count": 1,
+    "pages": [
+      376
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0747",
+    "form": "Philosophisch",
+    "count": 1,
+    "pages": [
+      391
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0748",
+    "form": "Plan",
+    "count": 1,
+    "pages": [
+      372
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0749",
+    "form": "Plane",
+    "count": 1,
+    "pages": [
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0750",
+    "form": "Platz",
+    "count": 1,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0751",
+    "form": "Plurals",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0752",
+    "form": "Poetische",
+    "count": 1,
+    "pages": [
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0753",
+    "form": "Princip",
+    "count": 5,
+    "pages": [
+      386,
+      391,
+      396,
+      397,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0754",
+    "form": "Process",
+    "count": 5,
+    "pages": [
+      369,
+      370,
+      373,
+      374,
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0755",
+    "form": "Processes",
+    "count": 1,
+    "pages": [
+      373
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0756",
+    "form": "Pronomen",
+    "count": 2,
+    "pages": [
+      369,
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0757",
+    "form": "Pronominalform",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0758",
+    "form": "Prüfstein",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0759",
+    "form": "Prüfung",
+    "count": 1,
+    "pages": [
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0760",
+    "form": "Punkt",
+    "count": 3,
+    "pages": [
+      383,
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0761",
+    "form": "Punkte",
+    "count": 4,
+    "pages": [
+      369,
+      372,
+      391,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0762",
+    "form": "Punkten",
+    "count": 4,
+    "pages": [
+      370,
+      373,
+      382,
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0763",
+    "form": "QQQ",
+    "count": 1,
+    "pages": [
+      390
+    ],
+    "header_only": true
+  },
+  {
+    "id": "early:0764",
+    "form": "Quellen",
+    "count": 1,
+    "pages": [
+      365
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0765",
+    "form": "Racen",
+    "count": 1,
+    "pages": [
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0766",
+    "form": "Raisonnements",
+    "count": 1,
+    "pages": [
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0767",
+    "form": "Raum",
+    "count": 1,
+    "pages": [
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0768",
+    "form": "Recht",
+    "count": 1,
+    "pages": [
+      365
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0769",
+    "form": "Rede",
+    "count": 11,
+    "pages": [
+      368,
+      373,
+      374,
+      377,
+      378,
+      388,
+      390,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0770",
+    "form": "Reden",
+    "count": 2,
+    "pages": [
+      391
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0771",
+    "form": "Redenden",
+    "count": 2,
+    "pages": [
+      375,
+      388
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0772",
+    "form": "Redeverbindung",
+    "count": 2,
+    "pages": [
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0773",
+    "form": "Regeln",
+    "count": 9,
+    "pages": [
+      369,
+      370,
+      371,
+      384,
+      388,
+      396,
+      398,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0774",
+    "form": "Regionen",
+    "count": 1,
+    "pages": [
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0775",
+    "form": "Register",
+    "count": 1,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0776",
+    "form": "Reihe",
+    "count": 4,
+    "pages": [
+      365,
+      372,
+      389,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0777",
+    "form": "Richtigkeit",
+    "count": 2,
+    "pages": [
+      366,
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0778",
+    "form": "Richtung",
+    "count": 5,
+    "pages": [
+      367,
+      372,
+      383,
+      387,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0779",
+    "form": "Richtungen",
+    "count": 1,
+    "pages": [
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0780",
+    "form": "Ruhendes",
+    "count": 1,
+    "pages": [
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0781",
+    "form": "Rücksicht",
+    "count": 4,
+    "pages": [
+      370,
+      385,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0782",
+    "form": "Rücksichten",
+    "count": 1,
+    "pages": [
+      368
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0783",
+    "form": "Sache",
+    "count": 3,
+    "pages": [
+      365,
+      367,
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0784",
+    "form": "Sagenden",
+    "count": 1,
+    "pages": [
+      372
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0785",
+    "form": "Sammeln",
+    "count": 1,
+    "pages": [
+      365
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0786",
+    "form": "Satz",
+    "count": 2,
+    "pages": [
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0787",
+    "form": "Satzes",
+    "count": 2,
+    "pages": [
+      371,
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0788",
+    "form": "Schaffen",
+    "count": 1,
+    "pages": [
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0789",
+    "form": "Scheinobjecte",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0790",
+    "form": "Schilderung",
+    "count": 5,
+    "pages": [
+      366,
+      368,
+      372,
+      374
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0791",
+    "form": "Schmettern",
+    "count": 2,
+    "pages": [
+      377,
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0792",
+    "form": "Schnelligkeit",
+    "count": 1,
+    "pages": [
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0793",
+    "form": "Schranken",
+    "count": 2,
+    "pages": [
+      377,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0794",
+    "form": "Schrankenlosigkeit",
+    "count": 1,
+    "pages": [
+      370
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0795",
+    "form": "Schrei",
+    "count": 1,
+    "pages": [
+      376
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0796",
+    "form": "Schrift",
+    "count": 9,
+    "pages": [
+      365,
+      374,
+      375,
+      384,
+      388,
+      390,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0797",
+    "form": "Schriften",
+    "count": 1,
+    "pages": [
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0798",
+    "form": "Schriftsteller",
+    "count": 2,
+    "pages": [
+      396,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0799",
+    "form": "Schwierigkeit",
+    "count": 1,
+    "pages": [
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0800",
+    "form": "Seele",
+    "count": 11,
+    "pages": [
+      371,
+      382,
+      384,
+      387,
+      388
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0801",
+    "form": "Sehnsucht",
+    "count": 2,
+    "pages": [
+      377,
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0802",
+    "form": "Seite",
+    "count": 6,
+    "pages": [
+      366,
+      370,
+      376,
+      378,
+      389,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0803",
+    "form": "Seiten",
+    "count": 1,
+    "pages": [
+      370
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0804",
+    "form": "Selbst",
+    "count": 2,
+    "pages": [
+      386,
+      391
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0805",
+    "form": "Selbstthätigkeit",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0806",
+    "form": "Seltenheit",
+    "count": 1,
+    "pages": [
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0807",
+    "form": "Seyns",
+    "count": 2,
+    "pages": [
+      383,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0808",
+    "form": "Sie",
+    "count": 9,
+    "pages": [
+      376,
+      380,
+      382,
+      385,
+      387,
+      389,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0809",
+    "form": "Sinn",
+    "count": 3,
+    "pages": [
+      373,
+      379,
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0810",
+    "form": "Sinne",
+    "count": 4,
+    "pages": [
+      374,
+      376,
+      377,
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0811",
+    "form": "sinnlich",
+    "count": 1,
+    "pages": [
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0812",
+    "form": "Sinnliches",
+    "count": 1,
+    "pages": [
+      376
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0813",
+    "form": "Soll",
+    "count": 1,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0814",
+    "form": "Sorgfalt",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0815",
+    "form": "Spalten",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0816",
+    "form": "Spaltung",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0817",
+    "form": "Sphäre",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0818",
+    "form": "Spielraum",
+    "count": 1,
+    "pages": [
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0819",
+    "form": "Spielraums",
+    "count": 1,
+    "pages": [
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0820",
+    "form": "Spontaneitaet",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0821",
+    "form": "Sprach",
+    "count": 2,
+    "pages": [
+      375,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0822",
+    "form": "Sprachanalyse",
+    "count": 2,
+    "pages": [
+      371,
+      373
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0823",
+    "form": "Sprachanlagen",
+    "count": 1,
+    "pages": [
+      373
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0824",
+    "form": "Sprachbedürftigkeit",
+    "count": 1,
+    "pages": [
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0825",
+    "form": "Sprachbehandlung",
+    "count": 2,
+    "pages": [
+      395,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0826",
+    "form": "Sprachbildung",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0827",
+    "form": "SprachClassification",
+    "count": 1,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0828",
+    "form": "Sprache",
+    "count": 177,
+    "pages": [
+      366,
+      368,
+      369,
+      370,
+      371,
+      372,
+      373,
+      374,
+      375,
+      376,
+      377,
+      378,
+      379,
+      380,
+      381,
+      382,
+      383,
+      384,
+      385,
+      386,
+      387,
+      388,
+      389,
+      390,
+      391,
+      392,
+      393,
+      394,
+      395,
+      396,
+      397,
+      398,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0829",
+    "form": "Sprachen",
+    "count": 89,
+    "pages": [
+      364,
+      365,
+      366,
+      367,
+      368,
+      369,
+      371,
+      372,
+      373,
+      374,
+      378,
+      379,
+      381,
+      383,
+      385,
+      386,
+      390,
+      391,
+      392,
+      393,
+      394,
+      395,
+      397,
+      398,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0830",
+    "form": "Sprachenkunde",
+    "count": 1,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0831",
+    "form": "Sprachfertigkeit",
+    "count": 1,
+    "pages": [
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0832",
+    "form": "Sprachformen",
+    "count": 1,
+    "pages": [
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0833",
+    "form": "Sprachforschung",
+    "count": 2,
+    "pages": [
+      397,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0834",
+    "form": "Sprachfähigkeit",
+    "count": 1,
+    "pages": [
+      376
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0835",
+    "form": "Sprachgattungen",
+    "count": 1,
+    "pages": [
+      382
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0836",
+    "form": "Sprachgefühls",
+    "count": 2,
+    "pages": [
+      394,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0837",
+    "form": "Sprachkraft",
+    "count": 5,
+    "pages": [
+      382,
+      384,
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0838",
+    "form": "Sprachkunde",
+    "count": 6,
+    "pages": [
+      364,
+      365,
+      366,
+      367,
+      368
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0839",
+    "form": "Sprachlaut",
+    "count": 2,
+    "pages": [
+      387,
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0840",
+    "form": "Sprachmittheilung",
+    "count": 1,
+    "pages": [
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0841",
+    "form": "Sprachproben",
+    "count": 1,
+    "pages": [
+      372
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0842",
+    "form": "Sprachsphäre",
+    "count": 1,
+    "pages": [
+      382
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0843",
+    "form": "SprachstolTen",
+    "count": 1,
+    "pages": [
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0844",
+    "form": "Sprachstämme",
+    "count": 1,
+    "pages": [
+      364
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0845",
+    "form": "Sprachsystems",
+    "count": 1,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0846",
+    "form": "Sprachtypus",
+    "count": 21,
+    "pages": [
+      364,
+      365,
+      367,
+      369,
+      371,
+      373,
+      374,
+      375,
+      377,
+      379,
+      381,
+      383,
+      385,
+      387,
+      389,
+      391,
+      393,
+      395,
+      397,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0847",
+    "form": "Sprachuntersuchung",
+    "count": 6,
+    "pages": [
+      382,
+      390,
+      391,
+      395,
+      396,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0848",
+    "form": "Sprachuntersuchungen",
+    "count": 2,
+    "pages": [
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0849",
+    "form": "Sprachverkehrs",
+    "count": 1,
+    "pages": [
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0850",
+    "form": "Sprachvermögen",
+    "count": 2,
+    "pages": [
+      385,
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0851",
+    "form": "Sprachvermögens",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0852",
+    "form": "Sprachwerkzeuge",
+    "count": 6,
+    "pages": [
+      375,
+      376,
+      377,
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0853",
+    "form": "Sprachwerkzeugen",
+    "count": 3,
+    "pages": [
+      375,
+      376
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0854",
+    "form": "Sprachzwecks",
+    "count": 1,
+    "pages": [
+      370
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0855",
+    "form": "Sprechen",
+    "count": 15,
+    "pages": [
+      377,
+      378,
+      380,
+      381,
+      382,
+      383,
+      384,
+      385,
+      386,
+      388,
+      389,
+      396,
+      398,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0856",
+    "form": "Sprechende",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0857",
+    "form": "Sprechenden",
+    "count": 3,
+    "pages": [
+      385,
+      392,
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0858",
+    "form": "Sprechenlernen",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0859",
+    "form": "Sprechens",
+    "count": 2,
+    "pages": [
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0860",
+    "form": "Spur",
+    "count": 2,
+    "pages": [
+      364,
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0861",
+    "form": "Stammartiges",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0862",
+    "form": "Stamme",
+    "count": 1,
+    "pages": [
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0863",
+    "form": "Stammes",
+    "count": 1,
+    "pages": [
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0864",
+    "form": "StammSprache",
+    "count": 1,
+    "pages": [
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0865",
+    "form": "Stande",
+    "count": 2,
+    "pages": [
+      366,
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0866",
+    "form": "Standessprache",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0867",
+    "form": "Standpunkt",
+    "count": 1,
+    "pages": [
+      387
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0868",
+    "form": "Standpunkts",
+    "count": 1,
+    "pages": [
+      388
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0869",
+    "form": "Steinarten",
+    "count": 1,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0870",
+    "form": "Steinlager",
+    "count": 1,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0871",
+    "form": "Steinthal",
+    "count": 1,
+    "pages": [
+      364
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0872",
+    "form": "Stelle",
+    "count": 5,
+    "pages": [
+      366,
+      367,
+      368,
+      369,
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0873",
+    "form": "Stellung",
+    "count": 3,
+    "pages": [
+      368,
+      371,
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0874",
+    "form": "Stetiges",
+    "count": 1,
+    "pages": [
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0875",
+    "form": "Stimmwerkzeuge",
+    "count": 1,
+    "pages": [
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0876",
+    "form": "Stoff",
+    "count": 4,
+    "pages": [
+      366,
+      367,
+      369,
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0877",
+    "form": "Stoffe",
+    "count": 1,
+    "pages": [
+      391
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0878",
+    "form": "Stoffen",
+    "count": 1,
+    "pages": [
+      370
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0879",
+    "form": "Stoffs",
+    "count": 1,
+    "pages": [
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0880",
+    "form": "Stoif",
+    "count": 1,
+    "pages": [
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0881",
+    "form": "Streben",
+    "count": 5,
+    "pages": [
+      375,
+      377,
+      381,
+      382
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0882",
+    "form": "Strebens",
+    "count": 1,
+    "pages": [
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0883",
+    "form": "Studium",
+    "count": 7,
+    "pages": [
+      366,
+      367,
+      371,
+      379,
+      392,
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0884",
+    "form": "Stufe",
+    "count": 2,
+    "pages": [
+      365,
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0885",
+    "form": "Stufen",
+    "count": 3,
+    "pages": [
+      364,
+      382,
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0886",
+    "form": "Stämme",
+    "count": 2,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0887",
+    "form": "Stämmen",
+    "count": 1,
+    "pages": [
+      365
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0888",
+    "form": "Stände",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0889",
+    "form": "Stärke",
+    "count": 3,
+    "pages": [
+      380,
+      385,
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0890",
+    "form": "Stätte",
+    "count": 1,
+    "pages": [
+      388
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0891",
+    "form": "Stücke",
+    "count": 1,
+    "pages": [
+      376
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0892",
+    "form": "Subject",
+    "count": 6,
+    "pages": [
+      380,
+      387,
+      388
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0893",
+    "form": "Subjecte",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0894",
+    "form": "subjective",
+    "count": 1,
+    "pages": [
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0895",
+    "form": "subjectiven",
+    "count": 2,
+    "pages": [
+      377,
+      387
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0896",
+    "form": "Subjectives",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0897",
+    "form": "Subjectivitaet",
+    "count": 2,
+    "pages": [
+      387
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0898",
+    "form": "Subjects",
+    "count": 2,
+    "pages": [
+      377,
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0899",
+    "form": "Subtilitaet",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0900",
+    "form": "Sylben",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0901",
+    "form": "Synthesen",
+    "count": 1,
+    "pages": [
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0902",
+    "form": "synthetisch",
+    "count": 1,
+    "pages": [
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0903",
+    "form": "System",
+    "count": 3,
+    "pages": [
+      367,
+      388,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0904",
+    "form": "Systeme",
+    "count": 1,
+    "pages": [
+      368
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0905",
+    "form": "Sätze",
+    "count": 1,
+    "pages": [
+      364
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0906",
+    "form": "Süden",
+    "count": 3,
+    "pages": [
+      365,
+      368
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0907",
+    "form": "Taubstummen",
+    "count": 1,
+    "pages": [
+      375
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0908",
+    "form": "That",
+    "count": 3,
+    "pages": [
+      388,
+      395,
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0909",
+    "form": "Thatsache",
+    "count": 2,
+    "pages": [
+      391,
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0910",
+    "form": "Thatsachen",
+    "count": 3,
+    "pages": [
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0911",
+    "form": "Theil",
+    "count": 9,
+    "pages": [
+      367,
+      372,
+      384,
+      386,
+      388,
+      393,
+      394,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0912",
+    "form": "Theile",
+    "count": 10,
+    "pages": [
+      367,
+      370,
+      372,
+      373,
+      375,
+      379,
+      387,
+      391
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0913",
+    "form": "Theilen",
+    "count": 2,
+    "pages": [
+      366,
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0914",
+    "form": "Theils",
+    "count": 2,
+    "pages": [
+      388,
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0915",
+    "form": "Thiere",
+    "count": 3,
+    "pages": [
+      377,
+      378,
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0916",
+    "form": "Thieren",
+    "count": 5,
+    "pages": [
+      377,
+      378,
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0917",
+    "form": "Thiergattung",
+    "count": 1,
+    "pages": [
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0918",
+    "form": "Thiergattungen",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0919",
+    "form": "Thierheit",
+    "count": 1,
+    "pages": [
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0920",
+    "form": "Thätigkeit",
+    "count": 10,
+    "pages": [
+      374,
+      375,
+      377,
+      382,
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0921",
+    "form": "Tiefe",
+    "count": 2,
+    "pages": [
+      383,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0922",
+    "form": "Tochtersprache",
+    "count": 1,
+    "pages": [
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0923",
+    "form": "Ton",
+    "count": 6,
+    "pages": [
+      374,
+      375,
+      376,
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0924",
+    "form": "Tonart",
+    "count": 1,
+    "pages": [
+      370
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0925",
+    "form": "Tonarten",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0926",
+    "form": "Tone",
+    "count": 1,
+    "pages": [
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0927",
+    "form": "Tones",
+    "count": 3,
+    "pages": [
+      379,
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0928",
+    "form": "Tongefühle",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0929",
+    "form": "Tons",
+    "count": 3,
+    "pages": [
+      375,
+      376,
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0930",
+    "form": "Tonsystems",
+    "count": 1,
+    "pages": [
+      374
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0931",
+    "form": "Totalbild",
+    "count": 1,
+    "pages": [
+      372
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0932",
+    "form": "Totaleindruck",
+    "count": 3,
+    "pages": [
+      372,
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0933",
+    "form": "Totalitaet",
+    "count": 3,
+    "pages": [
+      388,
+      390,
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0934",
+    "form": "Traumbilde",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0935",
+    "form": "Trennung",
+    "count": 1,
+    "pages": [
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0936",
+    "form": "Träger",
+    "count": 1,
+    "pages": [
+      376
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0937",
+    "form": "Typus",
+    "count": 3,
+    "pages": [
+      373
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0938",
+    "form": "Töne",
+    "count": 5,
+    "pages": [
+      377,
+      379,
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0939",
+    "form": "Tönen",
+    "count": 3,
+    "pages": [
+      376,
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0940",
+    "form": "Tönens",
+    "count": 1,
+    "pages": [
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0941",
+    "form": "Ueben",
+    "count": 1,
+    "pages": [
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0942",
+    "form": "Ueber",
+    "count": 1,
+    "pages": [
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0943",
+    "form": "Ueberall",
+    "count": 2,
+    "pages": [
+      392,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0944",
+    "form": "Uebereinstimmun",
+    "count": 1,
+    "pages": [
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0945",
+    "form": "Uebereinstimmung",
+    "count": 3,
+    "pages": [
+      369,
+      376,
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0946",
+    "form": "Uebergang",
+    "count": 1,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0947",
+    "form": "Ueberhaupt",
+    "count": 1,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0948",
+    "form": "Ueberlieferte",
+    "count": 1,
+    "pages": [
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0949",
+    "form": "Ueberlieferung",
+    "count": 1,
+    "pages": [
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0950",
+    "form": "Uebersicht",
+    "count": 2,
+    "pages": [
+      366,
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0951",
+    "form": "Uebertreibungen",
+    "count": 1,
+    "pages": [
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0952",
+    "form": "Ueberzeugung",
+    "count": 2,
+    "pages": [
+      381,
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0953",
+    "form": "Uebung",
+    "count": 2,
+    "pages": [
+      384,
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0954",
+    "form": "Umfang",
+    "count": 1,
+    "pages": [
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0955",
+    "form": "Umfange",
+    "count": 2,
+    "pages": [
+      382,
+      387
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0956",
+    "form": "Umgang",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0957",
+    "form": "Umgange",
+    "count": 1,
+    "pages": [
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0958",
+    "form": "Umgebungen",
+    "count": 1,
+    "pages": [
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0959",
+    "form": "Umgestaltungen",
+    "count": 1,
+    "pages": [
+      374
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0960",
+    "form": "Umrisse",
+    "count": 1,
+    "pages": [
+      371
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0961",
+    "form": "Umständen",
+    "count": 5,
+    "pages": [
+      368,
+      373,
+      380,
+      385,
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0962",
+    "form": "Umänderung",
+    "count": 3,
+    "pages": [
+      383,
+      397,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0963",
+    "form": "Umänderungen",
+    "count": 2,
+    "pages": [
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0964",
+    "form": "Unabhängigkeit",
+    "count": 1,
+    "pages": [
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0965",
+    "form": "Unbemerkbarem",
+    "count": 1,
+    "pages": [
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0966",
+    "form": "Unendlich",
+    "count": 1,
+    "pages": [
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0967",
+    "form": "Unendliche",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0968",
+    "form": "Unendlichkeit",
+    "count": 2,
+    "pages": [
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0969",
+    "form": "Unerklärlichen",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0970",
+    "form": "Ungebildeten",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0971",
+    "form": "Unkenntniss",
+    "count": 1,
+    "pages": [
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0972",
+    "form": "Unkörperlichkeit",
+    "count": 1,
+    "pages": [
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0973",
+    "form": "Unterarten",
+    "count": 1,
+    "pages": [
+      391
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0974",
+    "form": "Unterbrechung",
+    "count": 1,
+    "pages": [
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0975",
+    "form": "Unterjochung",
+    "count": 1,
+    "pages": [
+      365
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0976",
+    "form": "Unterscheidung",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0977",
+    "form": "Unterschied",
+    "count": 2,
+    "pages": [
+      371,
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0978",
+    "form": "Unterschiede",
+    "count": 1,
+    "pages": [
+      365
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0979",
+    "form": "Untersuchung",
+    "count": 12,
+    "pages": [
+      364,
+      365,
+      366,
+      371,
+      372,
+      373,
+      383,
+      394,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0980",
+    "form": "Untersuchungen",
+    "count": 3,
+    "pages": [
+      364,
+      368,
+      382
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0981",
+    "form": "Unwesentlichere",
+    "count": 1,
+    "pages": [
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0982",
+    "form": "Unähnlichkeit",
+    "count": 1,
+    "pages": [
+      368
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0983",
+    "form": "Ursach",
+    "count": 2,
+    "pages": [
+      378,
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0984",
+    "form": "Ursache",
+    "count": 1,
+    "pages": [
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0985",
+    "form": "Ursachen",
+    "count": 3,
+    "pages": [
+      371,
+      378,
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0986",
+    "form": "Ursprache",
+    "count": 3,
+    "pages": [
+      391,
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0987",
+    "form": "Ursprachen",
+    "count": 2,
+    "pages": [
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0988",
+    "form": "Ursprung",
+    "count": 2,
+    "pages": [
+      364,
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0989",
+    "form": "ursprüngHche",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0990",
+    "form": "ursprüngliche",
+    "count": 2,
+    "pages": [
+      370,
+      391
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0991",
+    "form": "ursprüngliches",
+    "count": 1,
+    "pages": [
+      391
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0992",
+    "form": "Urtheilen",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0993",
+    "form": "Urtypus",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0994",
+    "form": "Veranlassung",
+    "count": 2,
+    "pages": [
+      364,
+      382
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0995",
+    "form": "Verba",
+    "count": 1,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0996",
+    "form": "Verbindung",
+    "count": 7,
+    "pages": [
+      364,
+      368,
+      375,
+      377,
+      391,
+      393,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0997",
+    "form": "Verbindungen",
+    "count": 3,
+    "pages": [
+      374,
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0998",
+    "form": "Verbreitung",
+    "count": 1,
+    "pages": [
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:0999",
+    "form": "Verbum",
+    "count": 2,
+    "pages": [
+      369,
+      372
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1000",
+    "form": "Verbundenes",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1001",
+    "form": "Vereinigung",
+    "count": 1,
+    "pages": [
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1002",
+    "form": "Verfahren",
+    "count": 9,
+    "pages": [
+      366,
+      367,
+      368,
+      370,
+      373,
+      398,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1003",
+    "form": "Verfahrens",
+    "count": 2,
+    "pages": [
+      371,
+      373
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1004",
+    "form": "Vergleichung",
+    "count": 4,
+    "pages": [
+      369,
+      372,
+      373
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1005",
+    "form": "Vergleichungspunkt",
+    "count": 1,
+    "pages": [
+      373
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1006",
+    "form": "Verhältniss",
+    "count": 4,
+    "pages": [
+      368,
+      378,
+      385,
+      391
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1007",
+    "form": "Verhältnissen",
+    "count": 1,
+    "pages": [
+      373
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1008",
+    "form": "Verkehr",
+    "count": 2,
+    "pages": [
+      392,
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1009",
+    "form": "Verkehrs",
+    "count": 1,
+    "pages": [
+      365
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1010",
+    "form": "Verknüpfung",
+    "count": 1,
+    "pages": [
+      373
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1011",
+    "form": "Verlangen",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1012",
+    "form": "Vermischung",
+    "count": 3,
+    "pages": [
+      385,
+      391,
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1013",
+    "form": "Vermittlerin",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1014",
+    "form": "Vermittlung",
+    "count": 1,
+    "pages": [
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1015",
+    "form": "Vernehmbare",
+    "count": 1,
+    "pages": [
+      375
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1016",
+    "form": "Vernehmung",
+    "count": 1,
+    "pages": [
+      375
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1017",
+    "form": "Vernommenen",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1018",
+    "form": "Vernunft",
+    "count": 1,
+    "pages": [
+      376
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1019",
+    "form": "Verrichtung",
+    "count": 1,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1020",
+    "form": "Verschiedenartigkeit",
+    "count": 2,
+    "pages": [
+      373,
+      391
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1021",
+    "form": "Verschiedenheit",
+    "count": 12,
+    "pages": [
+      366,
+      378,
+      383,
+      385,
+      392,
+      396,
+      398,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1022",
+    "form": "Verschiedenheiten",
+    "count": 2,
+    "pages": [
+      364,
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1023",
+    "form": "Verschiedne",
+    "count": 1,
+    "pages": [
+      382
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1024",
+    "form": "Verstand",
+    "count": 3,
+    "pages": [
+      394,
+      395,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1025",
+    "form": "Verstandene",
+    "count": 1,
+    "pages": [
+      382
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1026",
+    "form": "Verstandenes",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1027",
+    "form": "Verstehbarkeit",
+    "count": 1,
+    "pages": [
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1028",
+    "form": "Verstehen",
+    "count": 7,
+    "pages": [
+      382,
+      383,
+      384,
+      388,
+      396,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1029",
+    "form": "Verstehens",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1030",
+    "form": "Verstände",
+    "count": 1,
+    "pages": [
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1031",
+    "form": "Verständniss",
+    "count": 2,
+    "pages": [
+      385,
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1032",
+    "form": "Verständnisses",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1033",
+    "form": "Versuch",
+    "count": 2,
+    "pages": [
+      368,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1034",
+    "form": "Vertilgung",
+    "count": 1,
+    "pages": [
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1035",
+    "form": "Vertrauen",
+    "count": 1,
+    "pages": [
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1036",
+    "form": "Vervollständigung",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1037",
+    "form": "Verwandlung",
+    "count": 2,
+    "pages": [
+      372,
+      387
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1038",
+    "form": "Verwandtschaft",
+    "count": 6,
+    "pages": [
+      368,
+      383,
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1039",
+    "form": "Veränderung",
+    "count": 4,
+    "pages": [
+      371,
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1040",
+    "form": "Vieles",
+    "count": 2,
+    "pages": [
+      394,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1041",
+    "form": "Vielfachheit",
+    "count": 1,
+    "pages": [
+      382
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1042",
+    "form": "Vocabellernen",
+    "count": 1,
+    "pages": [
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1043",
+    "form": "Volk",
+    "count": 5,
+    "pages": [
+      367,
+      378,
+      379,
+      389,
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1044",
+    "form": "Volks",
+    "count": 3,
+    "pages": [
+      385,
+      386,
+      391
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1045",
+    "form": "Volkshaufe",
+    "count": 1,
+    "pages": [
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1046",
+    "form": "Vollendung",
+    "count": 2,
+    "pages": [
+      373,
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1047",
+    "form": "Vollkommen",
+    "count": 1,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1048",
+    "form": "Vollkommenheit",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1049",
+    "form": "Vollständigkeit",
+    "count": 3,
+    "pages": [
+      365,
+      370
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1050",
+    "form": "Von",
+    "count": 3,
+    "pages": [
+      370,
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1051",
+    "form": "Voraussetzungen",
+    "count": 1,
+    "pages": [
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1052",
+    "form": "Vorbemerkungen",
+    "count": 1,
+    "pages": [
+      364
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1053",
+    "form": "Vorgearbeiteten",
+    "count": 1,
+    "pages": [
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1054",
+    "form": "Vorhandene",
+    "count": 1,
+    "pages": [
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1055",
+    "form": "Vorherrschende",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1056",
+    "form": "Vorigen",
+    "count": 8,
+    "pages": [
+      372,
+      376,
+      384,
+      386,
+      388,
+      395,
+      396,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1057",
+    "form": "Vorliebe",
+    "count": 1,
+    "pages": [
+      379
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1058",
+    "form": "Vorrath",
+    "count": 3,
+    "pages": [
+      374,
+      388,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1059",
+    "form": "Vorsicht",
+    "count": 1,
+    "pages": [
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1060",
+    "form": "Vorstellende",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1061",
+    "form": "Vorstellens",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1062",
+    "form": "Vorstellung",
+    "count": 2,
+    "pages": [
+      375,
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1063",
+    "form": "Vorstellungen",
+    "count": 2,
+    "pages": [
+      377,
+      387
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1064",
+    "form": "Vorstellungsart",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1065",
+    "form": "Vorstellungsweise",
+    "count": 2,
+    "pages": [
+      369,
+      388
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1066",
+    "form": "Vortheil",
+    "count": 3,
+    "pages": [
+      366,
+      369,
+      372
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1067",
+    "form": "Vorzeit",
+    "count": 1,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1068",
+    "form": "Vorzug",
+    "count": 1,
+    "pages": [
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1069",
+    "form": "Vorzüge",
+    "count": 1,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1070",
+    "form": "Vorzüglich",
+    "count": 1,
+    "pages": [
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1071",
+    "form": "VorzügUch",
+    "count": 1,
+    "pages": [
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1072",
+    "form": "Väter",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1073",
+    "form": "Vögel",
+    "count": 1,
+    "pages": [
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1074",
+    "form": "Völker",
+    "count": 3,
+    "pages": [
+      365,
+      381,
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1075",
+    "form": "Völkern",
+    "count": 2,
+    "pages": [
+      391,
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1076",
+    "form": "Völkerstamm",
+    "count": 1,
+    "pages": [
+      382
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1077",
+    "form": "Völkerstämme",
+    "count": 1,
+    "pages": [
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1078",
+    "form": "Wachsen",
+    "count": 2,
+    "pages": [
+      384,
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1079",
+    "form": "Wahl",
+    "count": 2,
+    "pages": [
+      371,
+      381
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1080",
+    "form": "Wahrheit",
+    "count": 4,
+    "pages": [
+      381,
+      387,
+      396,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1081",
+    "form": "Wahrnehmung",
+    "count": 4,
+    "pages": [
+      381,
+      387
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1082",
+    "form": "Wahrnehmungen",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1083",
+    "form": "Warnung",
+    "count": 1,
+    "pages": [
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1084",
+    "form": "Was",
+    "count": 8,
+    "pages": [
+      365,
+      369,
+      373,
+      379,
+      381,
+      384,
+      389,
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1085",
+    "form": "Wechsel",
+    "count": 1,
+    "pages": [
+      390
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1086",
+    "form": "Wechseleinfiuss",
+    "count": 1,
+    "pages": [
+      370
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1087",
+    "form": "Wechselwirkung",
+    "count": 3,
+    "pages": [
+      376,
+      387,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1088",
+    "form": "Wecken",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1089",
+    "form": "Weder",
+    "count": 1,
+    "pages": [
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1090",
+    "form": "Weg",
+    "count": 2,
+    "pages": [
+      371,
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1091",
+    "form": "Wege",
+    "count": 6,
+    "pages": [
+      370,
+      372,
+      374,
+      388,
+      398,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1092",
+    "form": "Weiber",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1093",
+    "form": "Weise",
+    "count": 17,
+    "pages": [
+      366,
+      367,
+      368,
+      370,
+      372,
+      373,
+      374,
+      377,
+      381,
+      385,
+      387,
+      390,
+      392,
+      396,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1094",
+    "form": "Weisen",
+    "count": 1,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1095",
+    "form": "Welchen",
+    "count": 1,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1096",
+    "form": "Welches",
+    "count": 1,
+    "pages": [
+      364
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1097",
+    "form": "Welt",
+    "count": 4,
+    "pages": [
+      387,
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1098",
+    "form": "Weltansicht",
+    "count": 4,
+    "pages": [
+      387,
+      388
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1099",
+    "form": "Welttheile",
+    "count": 1,
+    "pages": [
+      365
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1100",
+    "form": "Welttheils",
+    "count": 6,
+    "pages": [
+      364,
+      365
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1101",
+    "form": "Weltvorstellung",
+    "count": 1,
+    "pages": [
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1102",
+    "form": "Wenden",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1103",
+    "form": "Weniger",
+    "count": 1,
+    "pages": [
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1104",
+    "form": "Wenn",
+    "count": 5,
+    "pages": [
+      364,
+      377,
+      385,
+      389,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1105",
+    "form": "Wer",
+    "count": 1,
+    "pages": [
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1106",
+    "form": "Werk",
+    "count": 1,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1107",
+    "form": "Werke",
+    "count": 3,
+    "pages": [
+      364,
+      369,
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1108",
+    "form": "Werken",
+    "count": 1,
+    "pages": [
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1109",
+    "form": "Werkzeuge",
+    "count": 1,
+    "pages": [
+      375
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1110",
+    "form": "Werth",
+    "count": 1,
+    "pages": [
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1111",
+    "form": "Wesen",
+    "count": 13,
+    "pages": [
+      365,
+      370,
+      377,
+      380,
+      381,
+      383,
+      385,
+      386,
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1112",
+    "form": "Wesenheit",
+    "count": 3,
+    "pages": [
+      381,
+      387
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1113",
+    "form": "Wesens",
+    "count": 7,
+    "pages": [
+      370,
+      383,
+      385,
+      386,
+      388,
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1114",
+    "form": "Westen",
+    "count": 1,
+    "pages": [
+      368
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1115",
+    "form": "Widerstreben",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1116",
+    "form": "Widerstreit",
+    "count": 1,
+    "pages": [
+      388
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1117",
+    "form": "Wie",
+    "count": 3,
+    "pages": [
+      385,
+      395,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1118",
+    "form": "Wiedergeben",
+    "count": 1,
+    "pages": [
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1119",
+    "form": "Wiedernachlallen",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1120",
+    "form": "Wilden",
+    "count": 1,
+    "pages": [
+      378
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1121",
+    "form": "willkührlich",
+    "count": 1,
+    "pages": [
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1122",
+    "form": "Wir",
+    "count": 3,
+    "pages": [
+      386,
+      388,
+      393
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1123",
+    "form": "Wirken",
+    "count": 2,
+    "pages": [
+      372,
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1124",
+    "form": "Wirkens",
+    "count": 4,
+    "pages": [
+      370,
+      373,
+      375,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1125",
+    "form": "Wirklichkeit",
+    "count": 2,
+    "pages": [
+      373,
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1126",
+    "form": "Wirkung",
+    "count": 9,
+    "pages": [
+      369,
+      376,
+      380,
+      382,
+      386,
+      387,
+      388
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1127",
+    "form": "Wirkungen",
+    "count": 1,
+    "pages": [
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1128",
+    "form": "Wissenschaft",
+    "count": 1,
+    "pages": [
+      373
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1129",
+    "form": "Wort",
+    "count": 9,
+    "pages": [
+      370,
+      381,
+      382,
+      384,
+      387,
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1130",
+    "form": "Wortbildung",
+    "count": 1,
+    "pages": [
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1131",
+    "form": "Worte",
+    "count": 2,
+    "pages": [
+      371,
+      377
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1132",
+    "form": "Wortelemente",
+    "count": 1,
+    "pages": [
+      374
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1133",
+    "form": "Worten",
+    "count": 2,
+    "pages": [
+      381,
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1134",
+    "form": "Wortformen",
+    "count": 1,
+    "pages": [
+      373
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1135",
+    "form": "Wortgruppe",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1136",
+    "form": "Worts",
+    "count": 1,
+    "pages": [
+      387
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1137",
+    "form": "Wörter",
+    "count": 6,
+    "pages": [
+      379,
+      384,
+      391,
+      396,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1138",
+    "form": "Wörterbuch",
+    "count": 1,
+    "pages": [
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1139",
+    "form": "Wörterbücher",
+    "count": 3,
+    "pages": [
+      366,
+      367
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1140",
+    "form": "Wörtern",
+    "count": 9,
+    "pages": [
+      369,
+      371,
+      376,
+      384,
+      388,
+      390,
+      398
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1141",
+    "form": "Würdigung",
+    "count": 1,
+    "pages": [
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1142",
+    "form": "Zaubers",
+    "count": 1,
+    "pages": [
+      386
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1143",
+    "form": "Zeichen",
+    "count": 4,
+    "pages": [
+      376,
+      379,
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1144",
+    "form": "Zeit",
+    "count": 6,
+    "pages": [
+      365,
+      366,
+      367,
+      391,
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1145",
+    "form": "Zeitfolge",
+    "count": 2,
+    "pages": [
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1146",
+    "form": "Zeitlang",
+    "count": 1,
+    "pages": [
+      366
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1147",
+    "form": "Zeitpunkt",
+    "count": 1,
+    "pages": [
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1148",
+    "form": "Zeitraums",
+    "count": 1,
+    "pages": [
+      385
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1149",
+    "form": "Zeiträumen",
+    "count": 1,
+    "pages": [
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1150",
+    "form": "Zergliederung",
+    "count": 4,
+    "pages": [
+      371,
+      372,
+      373,
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1151",
+    "form": "Zergliederungen",
+    "count": 2,
+    "pages": [
+      372
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1152",
+    "form": "Zerlegung",
+    "count": 1,
+    "pages": [
+      376
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1153",
+    "form": "Zerreissung",
+    "count": 1,
+    "pages": [
+      372
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1154",
+    "form": "Zufälligkeiten",
+    "count": 1,
+    "pages": [
+      382
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1155",
+    "form": "Zugang",
+    "count": 1,
+    "pages": [
+      375
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1156",
+    "form": "Zumessen",
+    "count": 1,
+    "pages": [
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1157",
+    "form": "Zurückstrahlen",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1158",
+    "form": "Zusammenfügung",
+    "count": 1,
+    "pages": [
+      375
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1159",
+    "form": "Zusammenhaltens",
+    "count": 1,
+    "pages": [
+      391
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1160",
+    "form": "Zusammenhang",
+    "count": 5,
+    "pages": [
+      375,
+      387,
+      389,
+      393,
+      395
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1161",
+    "form": "Zusammenhange",
+    "count": 3,
+    "pages": [
+      365,
+      367,
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1162",
+    "form": "Zusammenhanges",
+    "count": 3,
+    "pages": [
+      387,
+      392,
+      394
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1163",
+    "form": "Zusammensetzung",
+    "count": 3,
+    "pages": [
+      370,
+      371,
+      384
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1164",
+    "form": "Zusammenstellungen",
+    "count": 1,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1165",
+    "form": "Zusammenwirken",
+    "count": 3,
+    "pages": [
+      371,
+      373,
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1166",
+    "form": "Zustand",
+    "count": 1,
+    "pages": [
+      389
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1167",
+    "form": "Zustande",
+    "count": 1,
+    "pages": [
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1168",
+    "form": "Zustände",
+    "count": 1,
+    "pages": [
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1169",
+    "form": "Zuständen",
+    "count": 1,
+    "pages": [
+      397
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1170",
+    "form": "Zuversicht",
+    "count": 1,
+    "pages": [
+      383
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1171",
+    "form": "Zwar",
+    "count": 1,
+    "pages": [
+      396
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1172",
+    "form": "Zweck",
+    "count": 7,
+    "pages": [
+      367,
+      368,
+      392,
+      399
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1173",
+    "form": "Zwecks",
+    "count": 1,
+    "pages": [
+      371
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1174",
+    "form": "Zwei",
+    "count": 1,
+    "pages": [
+      392
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1175",
+    "form": "Zwischen",
+    "count": 1,
+    "pages": [
+      380
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1176",
+    "form": "Züge",
+    "count": 1,
+    "pages": [
+      365
+    ],
+    "header_only": false
+  },
+  {
+    "id": "early:1177",
+    "form": "Üectirte",
+    "count": 1,
+    "pages": [
+      369
+    ],
+    "header_only": false
+  }
+]

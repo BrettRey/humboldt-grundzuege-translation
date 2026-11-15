@@ -1,0 +1,1557 @@
+[
+  {
+    "id": "control:prep:PRIMARY-A01",
+    "headwords": [
+      "Eigenthümlichkeit",
+      "Elemente",
+      "Wirkung",
+      "Organismus"
+    ],
+    "source_path": "sources/raw/references/humboldt-gs-04.pdf",
+    "source_sha256": "4c087ff1513002fadb8826ab5ecc8917ba822a657d9ec2cf498f92281b4d3c66",
+    "locator": "printed 1; PDF 11",
+    "statement": "The total effect rests on coordinated, individually minute properties of elements rather than conspicuous features alone.",
+    "quote": "die\nWirkung der Sprachen nicht sowohl von gewissen grossen und\nentschiednen Eigenthümlichkeiten abhängt, als auf dem gleich-\nmassigen, einzeln kaum bemerkbaren Eindruck der Beschaffenheit\nihrer Elemente beruht.",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": ""
+  },
+  {
+    "id": "control:prep:PRIMARY-A02",
+    "headwords": [
+      "Bau",
+      "Gestalt",
+      "Ausbildung",
+      "Geist"
+    ],
+    "source_path": "sources/raw/references/humboldt-gs-04.pdf",
+    "source_sha256": "4c087ff1513002fadb8826ab5ecc8917ba822a657d9ec2cf498f92281b4d3c66",
+    "locator": "printed 2; PDF 12",
+    "statement": "Completed organization fixes organic construction and shape, while finer development can continue indefinitely within the given bounds.",
+    "quote": "so giebt\nes auch in den Sprachen einen Punkt der vollendeten Organisation,\nvon dem an der organische Bau, die feste Gestalt sich nicht mehr\nabändert. Dagegen kann in ihnen, als lebendigen Erzeugnissen\ndes Geistes, die feinere Ausbildung, innerhalb der gegebenen\nGränzen, bis ins Unendliche fortschreiten.",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": ""
+  },
+  {
+    "id": "control:prep:PRIMARY-A03",
+    "headwords": [
+      "Kraft",
+      "Ganzes",
+      "Organisches"
+    ],
+    "source_path": "sources/raw/references/humboldt-gs-04.pdf",
+    "source_sha256": "4c087ff1513002fadb8826ab5ecc8917ba822a657d9ec2cf498f92281b4d3c66",
+    "locator": "printed 3; PDF 13",
+    "statement": "Language's organic whole depends on reciprocal parts and one pervading power.",
+    "quote": "theilt sie darin die\nNatur alles Organischen, dass Jedes in ihr nur durch das Andre,\nund Alles nur durch die eine, das Ganze durchdringende Kraft\nbesteht.",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": ""
+  },
+  {
+    "id": "control:prep:PRIMARY-A04",
+    "headwords": [
+      "Organismus",
+      "Vermögen",
+      "Cultur",
+      "Individuen"
+    ],
+    "source_path": "sources/raw/references/humboldt-gs-04.pdf",
+    "source_sha256": "4c087ff1513002fadb8826ab5ecc8917ba822a657d9ec2cf498f92281b4d3c66",
+    "locator": "printed 8; PDF 18",
+    "statement": "General human ability and national participation ground organization, while cultivation also depends on special aptitudes, history and emergent individuals.",
+    "quote": "Der Organismus der Sprachen entspringt aus dem allgemeinen\nVermögen und Bedürfniss des Menschen zu reden, und stammt\nvon der ganzen Nation her; die Cultur einer einzelnen hängt von\nbesondren Anlagen und Schicksalen ab, und beruht grossentheils\nauf nach und nach in der Nation aufstehenden Individuen.",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": ""
+  },
+  {
+    "id": "control:prep:PRIMARY-A05",
+    "headwords": [
+      "Typus",
+      "Sprachformung",
+      "Nationaleigenthümlichkeit"
+    ],
+    "source_path": "sources/raw/references/humboldt-gs-04.pdf",
+    "source_sha256": "4c087ff1513002fadb8826ab5ecc8917ba822a657d9ec2cf498f92281b4d3c66",
+    "locator": "printed 285; PDF 295",
+    "statement": "A general type of progressively developing language formation must not be imposed on all particular phenomena.",
+    "quote": "Nur muss man sich wohl hüten, einen allgemeinen Typus\nallmählich fortschreitender Sprachformung entwerfen, und alle\neinzelnen Erscheinungen nach diesem beurtheilen zu wollen.",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": ""
+  },
+  {
+    "id": "control:prep:PRIMARY-A06",
+    "headwords": [
+      "Form",
+      "Erzeugniss",
+      "Einwirkung",
+      "Bezeichnung"
+    ],
+    "source_path": "sources/raw/references/humboldt-gs-04.pdf",
+    "source_sha256": "4c087ff1513002fadb8826ab5ecc8917ba822a657d9ec2cf498f92281b4d3c66",
+    "locator": "printed 288; PDF 298",
+    "statement": "Expressible material result differs from the formal effect of grammatical expression on thinking.",
+    "quote": "Der zwar feine,\naber doch sehr fühlbare Unterschied liegt in dem materiellen\nErzeugniss und der formalen Einwirkung.",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": ""
+  },
+  {
+    "id": "control:prep:PRIMARY-A07",
+    "headwords": [
+      "Form",
+      "Modification",
+      "grammatische Wörter",
+      "Verhältniss"
+    ],
+    "source_path": "sources/raw/references/humboldt-gs-04.pdf",
+    "source_sha256": "4c087ff1513002fadb8826ab5ecc8917ba822a657d9ec2cf498f92281b4d3c66",
+    "locator": "printed 292; PDF 302",
+    "statement": "True grammatical form is restricted to modification of thing-designating words, supplemented by words expressing only grammatical relations.",
+    "quote": "so bleibt zu der-\n          selben nichts als Modification der Sachen bezeichnenden Wörter,\nund dies allein ist der wahre Begriff einer grammatischen Form.\nDazu stossen dann noch grammatische Wörter, das ist solche, die\nallgemein gar keinen Gegenstand, sondern bloss ein Verhältniss,\nund zwar ein grammatisches, bezeichnen.",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "OCR line-end hyphenation retained; the immediately preceding exclusions are word order with mentally supplied relation and designation of things."
+  },
+  {
+    "id": "control:prep:PRIMARY-A08",
+    "headwords": [
+      "Form",
+      "Einheit",
+      "Wort",
+      "Nebenlaute"
+    ],
+    "source_path": "sources/raw/references/humboldt-gs-04.pdf",
+    "source_sha256": "4c087ff1513002fadb8826ab5ecc8917ba822a657d9ec2cf498f92281b4d3c66",
+    "locator": "printed 306; PDF 316",
+    "statement": "Unity and the dominance of the word over added subsidiary sounds define form in this passage.",
+    "quote": "Das Wesen der Form besteht in ihrer Einheit, und der vor-\n                  waltenden Herrschaft des Worts, dem sie angehört, über die ihm\nbeigegebnen Nebenlaute.",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": ""
+  },
+  {
+    "id": "control:prep:PRIMARY-A09",
+    "headwords": [
+      "Form",
+      "Classen",
+      "Mehr oder Weniger"
+    ],
+    "source_path": "sources/raw/references/humboldt-gs-04.pdf",
+    "source_sha256": "4c087ff1513002fadb8826ab5ecc8917ba822a657d9ec2cf498f92281b4d3c66",
+    "locator": "printed 310; PDF 320",
+    "statement": "Humboldt calls the distinction between two classes absolute despite admitting degrees and incompleteness within classes.",
+    "quote": "Dennoch ist jener Unterschied, der zwei\nClassen von Sprachen bestimmt von einander absondert, nicht\ngänzlich ein relativer, ein bloss im Mehr, oder Weniger be-\n                 stehender, sondern wirklich ein absoluter, da die vorhandne, oder\nfehlende Herrschaft der Form sich immer sichtbar verkündet.",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": ""
+  },
+  {
+    "id": "control:prep:PRIMARY-A10",
+    "headwords": [
+      "Wort",
+      "Begriff",
+      "Denkkraft"
+    ],
+    "source_path": "sources/raw/references/humboldt-gs-08.pdf",
+    "source_sha256": "d54fc06d547456846c4740638645b865efa4bad1df7040a687df491ae5c38b8b",
+    "locator": "printed 129; PDF 139",
+    "statement": "The word is constitutive of the formation and retention of a concept, not merely its subsequent sign.",
+    "quote": "Ein Wort ist so wenig ein Zeichen eines Begriffs, dass ja der Be-\n      griff ohne dasselbe nicht entstehen, geschweige denn fest gehalten\nwerden kann; das unbestimmte Wirken der Denkkraft zieht sich",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "Quotation stops at the beginning of the ensuing condensation metaphor; exact supplied OCR retained."
+  },
+  {
+    "id": "control:prep:PRIMARY-A11",
+    "headwords": [
+      "Treue",
+      "Eigenthümlichkeit",
+      "Uebersetzung"
+    ],
+    "source_path": "sources/raw/references/humboldt-gs-08.pdf",
+    "source_sha256": "d54fc06d547456846c4740638645b865efa4bad1df7040a687df491ae5c38b8b",
+    "locator": "printed 130; PDF 140",
+    "statement": "A translation striving harder for faithfulness can become more divergent, since its counterpart for each fine particularity remains different.",
+    "quote": "Man kann sogar behaupten, dass\neine Uebersetzung um so abweichender wird, je mühsamer sie\nnach Treue strebt. Denn sie sucht alsdann auch feine Eigenthüm-\nlichkeiten nachzuahmen, vermeidet das bloss Allgemeine, und kann\ndoch immer nur jeder Eigenthümlichkeit eine verschiedne gegen-\n                    überstellen.",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": ""
+  },
+  {
+    "id": "control:prep:PRIMARY-A12",
+    "headwords": [
+      "Treue",
+      "Charakter",
+      "Zufälligkeiten"
+    ],
+    "source_path": "sources/raw/references/humboldt-gs-08.pdf",
+    "source_sha256": "d54fc06d547456846c4740638645b865efa4bad1df7040a687df491ae5c38b8b",
+    "locator": "printed 132; PDF 142",
+    "statement": "Faithfulness concerns the original's true character rather than incidental features at the cost of that character.",
+    "quote": "Diese Treue muss ^) auf den wahren Charakter des Originals, nicht,\nmit Verlassung jenes, auf seine Zufälligkeiten gerichtet seyn,",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "Printed footnote markers and line breaks retained as supplied; this is main text, not the deleted variants in the apparatus."
+  },
+  {
+    "id": "control:prep:PRIMARY-A13",
+    "headwords": [
+      "Fremdheit",
+      "das Fremde"
+    ],
+    "source_path": "sources/raw/references/humboldt-gs-08.pdf",
+    "source_sha256": "d54fc06d547456846c4740638645b865efa4bad1df7040a687df491ae5c38b8b",
+    "locator": "printed 132; PDF 142",
+    "statement": "The foreign element should be felt rather than strangeness as such; the following sentence condemns strangeness that obscures the foreign element.",
+    "quote": "Solange nicht die Fremdheit, sondern das Fremde gefühlt wird,\nhat die Uebersetzung ihre höchsten Zwecke erreicht;",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": ""
+  },
+  {
+    "id": "control:prep:PRIMARY-A14",
+    "headwords": [
+      "Dunkelheit",
+      "Commentar",
+      "Wortgebrauch",
+      "Klarheit"
+    ],
+    "source_path": "sources/raw/references/humboldt-gs-08.pdf",
+    "source_sha256": "d54fc06d547456846c4740638645b865efa4bad1df7040a687df491ae5c38b8b",
+    "locator": "printed 133; PDF 143",
+    "statement": "Translator-created obscurity through unstable word use or distorted construction is prohibited; authorial allusion, hard metaphor and omitted intermediate ideas do not license arbitrary added clarity.",
+    "quote": "Sie darf\nkeine Dunkelheit enthalten, die aus schwankendem VVortgebrauch,\nschielender Fügung entsteht; aber wo das Original nur andeutet,\nstatt klar auszusprechen, wo es sich Metaphern erlaubt, deren Be-\n             ziehung schwer zu fassen ist, wo es Mittelideeen auslässt, da vvürde\nder Uebersetzer Unrecht thun aus sich selbst willkührlich eine\nden Charakter des Textes verstellende Klarheit hineinzubringen.",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": ""
+  },
+  {
+    "id": "control:prep:PRIMARY-A15",
+    "headwords": [
+      "Text",
+      "Urkunde",
+      "Form",
+      "Quelle"
+    ],
+    "source_path": "sources/raw/references/humboldt-gs-08.pdf",
+    "source_sha256": "d54fc06d547456846c4740638645b865efa4bad1df7040a687df491ae5c38b8b",
+    "locator": "printed 134; PDF 144",
+    "statement": "Editing seeks an original form or at least the last accessible source, against arbitrary eclectic choice among variants.",
+    "quote": "Die Herausgabe eines alten Schriftstellers\nist die Zurückführung einer Urkunde, wenn nicht auf ihre wahre\nund ursprüngliche Form, doch auf die Quelle, die für uns die\nletzte zugängliche ist.",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": ""
+  },
+  {
+    "id": "control:prep:PRIMARY-A16",
+    "headwords": [
+      "Uebersetzung",
+      "Sprache",
+      "Zeitpunkt",
+      "Massstab"
+    ],
+    "source_path": "sources/raw/references/humboldt-gs-08.pdf",
+    "source_sha256": "d54fc06d547456846c4740638645b865efa4bad1df7040a687df491ae5c38b8b",
+    "locator": "printed 136; PDF 146",
+    "statement": "Translations test, define and affect a language at a historical moment, and need repeated renewal rather than being permanent achievements.",
+    "quote": "Denn Uebersetzungen\nsind doch mehr Arbeiten, welche den Zustand der Sprache in\neinem gegebenen Zeitpunkt, wie an einem bleibenden Massstab,\nprüfen, bestimmen, und auf ihn einwirken sollen, und die immer\nvon neuem wiederholt werden müssen, als dauernde W^erke.",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "OCR W^erke retained; the following page distinguishes multiple images of a spirit from the original itself."
+  },
+  {
+    "id": "control:prep:PRIMARY-B01",
+    "headwords": [
+      "Grammatik",
+      "Classificirung",
+      "Gedankenverbindung",
+      "Bezeichnung"
+    ],
+    "source_path": "sources/raw/gs-v-1906.pdf",
+    "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+    "locator": "printed 309; PDF 319",
+    "statement": "The proposed Chinese contrast concerns how thought connections are indicated, rather than a denial that Chinese combines thoughts or has a grammatical structure.",
+    "quote": "ihre Grammatik nicht auf die Classificirung der Wörter gründet, sondern die Gedankenverbindung auf eine andre Weise bezeichnet.",
+    "verification": "image-checked",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "Image-derived excerpt; printed line divisions are rejoined. Session-date paratext on this page is image-verified."
+  },
+  {
+    "id": "control:prep:PRIMARY-B02",
+    "headwords": [
+      "Materie",
+      "Form",
+      "Verbal-Bedeutung",
+      "Verbum"
+    ],
+    "source_path": "sources/raw/gs-v-1906.pdf",
+    "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+    "locator": "printed 311; PDF 321",
+    "statement": "Having verbal conceptual content does not itself make a word a grammatical verb; the preceding clause explicitly contrasts matter and form.",
+    "quote": "ein Wort mit Verbal- Bedeutung ist darum auf keine Weise ein Verbum.",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": ""
+  },
+  {
+    "id": "control:prep:PRIMARY-B03",
+    "headwords": [
+      "Grammatik",
+      "Flexion",
+      "grammatische Wörter",
+      "Stellung",
+      "Hinzugedachtes"
+    ],
+    "source_path": "sources/raw/gs-v-1906.pdf",
+    "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+    "locator": "printed 311; PDF 321",
+    "statement": "The account recognizes grammatical content explicitly marked by inflection, grammatical words, or regular order, as well as what sentence/discourse construction necessarily and determinately implies.",
+    "quote": "Wirklich in der Sprache selbst liegt nur diejenige Grammatik, die durch Flexionen, grammatische Wörter oder gesetzmässige Stellung ausdrücklich bezeichnet ist, oder sich in dem Zuschnitt der Sätze und der Bildung der Rede, als noth- wendig hinzugedacht, mit Bestimmtheit offenbart.",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "OCR line-end divisions are retained; this is a criterion Humboldt states, not an independently validated modern account."
+  },
+  {
+    "id": "control:prep:PRIMARY-B04",
+    "headwords": [
+      "Begriffsbestimmung",
+      "Formenbezeichnung",
+      "tchi"
+    ],
+    "source_path": "sources/raw/gs-v-1906.pdf",
+    "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+    "locator": "printed 318; PDF 328",
+    "statement": "Different translations assign distinct grammatical forms while preserving a common conceptual determination; Humboldt takes this as evidence for the language's orientation to the latter.",
+    "quote": "so ist klar, dass ihre grammatische Ansicht nur auf die Begriffsbestimmung, in der sie übereinkommen, und nicht auf die Formenbezeichnung, in der sie verschieden sind, gerichtet ist.",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "The reported analysis of tchi is not independently checked as Chinese linguistic data."
+  },
+  {
+    "id": "control:prep:PRIMARY-B05",
+    "headwords": [
+      "Wortstellung",
+      "Bedeutung",
+      "Zusammenhang",
+      "Verständniss"
+    ],
+    "source_path": "sources/raw/gs-v-1906.pdf",
+    "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+    "locator": "printed 319; PDF 329",
+    "statement": "Fixed order is said not to be sufficient by itself: lexical meaning and discourse context also support understanding.",
+    "quote": "So fest daher auch die Wortstellung im Chinesischen ist, so reicht sie nie allein aus, sondern man muss immer zugleich auf die Bedeutung der Wörter und den Zusammen- hang der Rede zurückgehn.",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "OCR line-end division Zusammen- hang retained."
+  },
+  {
+    "id": "control:prep:PRIMARY-B06",
+    "headwords": [
+      "Gedanke",
+      "Wort",
+      "Geistesthätigkeit",
+      "Spracherweiterung"
+    ],
+    "source_path": "sources/raw/gs-v-1906.pdf",
+    "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+    "locator": "printed 323; PDF 333",
+    "statement": "The author combines the impossibility of thinking without language with a person's distinction of thought from word and movement beyond the bounds of currently given language.",
+    "quote": "Nun ist es zwar unmöglich, ohne Sprache zu denken. Allein der Mensch unter- scheidet doch den Gedanken vom Wort, und geht, woraus alle innere Spracherweiterung entspringt, häufig über die Begränzung der in jedem Augenblick gegebenen Sprache hinaus.",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": ""
+  },
+  {
+    "id": "control:prep:PRIMARY-B07",
+    "headwords": [
+      "Chinesisch",
+      "Vorzug",
+      "Werthung"
+    ],
+    "source_path": "sources/raw/gs-v-1906.pdf",
+    "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+    "locator": "printed 323; PDF 333",
+    "statement": "The Chinese system's acknowledged advantage does not prevent an explicit overall ranking below the comparison languages.",
+    "quote": "Dieses Vorzuges ungeachtet, steht aber, meiner innersten Ueberzeugung nach, das Chinesische den Sprachen, mit welchen es hier verglichen wird, bei weitem nach.",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "This is a historical authorial judgement, not a confirmed present-day linguistic result."
+  },
+  {
+    "id": "control:prep:PRIMARY-B08",
+    "headwords": [
+      "style antique",
+      "langue Chinoise",
+      "style moderne"
+    ],
+    "source_path": "sources/raw/gs-v-1906.pdf",
+    "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+    "locator": "printed 306; PDF 316",
+    "statement": "The Lettre conclusion expressly limits its evidential basis to ancient/classical style, then argues that the modern style does not overturn its reasoning.",
+    "quote": "j'ai fonde tout ce que j'ai ose avancer sur la langue Ghinoise, uniquement sur le style antique, sans faire mention particuliere du style moderne.",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "French accents and OCR forms such as Ghinoise are retained; the claim about modern style is argued in pp306–307 rather than established externally."
+  },
+  {
+    "id": "control:prep:PRIMARY-B09",
+    "headwords": [
+      "faits",
+      "idees generales",
+      "Systeme",
+      "methode"
+    ],
+    "source_path": "sources/raw/gs-v-1906.pdf",
+    "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+    "locator": "printed 308; PDF 318",
+    "statement": "The closing warns that analysis of one language can reshape general ideas and tempt the investigator to create a new system for each new language.",
+    "quote": "il est facile de se laisser entraîner à modeler ses idées générales d'après la langue qu'on vient d'analyser, et de s'exposer au péril de former un nouveau système à l'examen d'une nouvelle langue.",
+    "verification": "image-checked",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "Image-derived quotation restores French accents relative to OCR (including à in place of ä) and lower-case système. Dated closing on the same page reads A Berlin, ce 7. mars, 1826."
+  },
+  {
+    "id": "control:prep:PRIMARY-B10",
+    "headwords": [
+      "Ergon",
+      "Energeia",
+      "Thätigkeit",
+      "Sprechen"
+    ],
+    "source_path": "sources/raw/references/humboldt-gs-07-1.pdf",
+    "source_sha256": "e5eff2d26addd37ec2bf03ed7bf8514fc75b09100bf41bf7c257f31f1aa15706",
+    "locator": "printed 46; PDF 56",
+    "statement": "This Kawi-layer formulation defines language as activity rather than completed work; the paragraph then identifies the strict bearer as each occasion of speaking and language as its totality.",
+    "quote": "Sie selbst ist kein Werk (Ergon), sondern eine Thätigkeit (Energeia). Ihre wahre Definition kann daher nur eine genetische seyn.",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "OCR-only quotation; the distinction between active text and deleted editorial variants on this page is retained."
+  },
+  {
+    "id": "control:prep:PRIMARY-B11",
+    "headwords": [
+      "Form",
+      "Arbeit des Geistes",
+      "Beständige",
+      "Gleichförmige"
+    ],
+    "source_path": "sources/raw/references/humboldt-gs-07-1.pdf",
+    "source_sha256": "e5eff2d26addd37ec2bf03ed7bf8514fc75b09100bf41bf7c257f31f1aa15706",
+    "locator": "printed 47; PDF 57",
+    "statement": "Form is the constant and uniform in the work of raising articulated sound to expression of thought, apprehended in connection and systematically represented.",
+    "quote": "Das in dieser Arbeit des Geistes, den articulirten Laut zum Gedankenausdruck zu erheben, liegende Beständige und Gleichförmige, so vollständig, als möglich, in seinem Zusammenhange aufgefasst und systematisch dargestellt, macht die Form der Sprache aus.",
+    "verification": "image-checked",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "Image confirms quoted wording; printed line-end divisions are rejoined. Adjacent text distinguishes scholarly abstraction from the living individual impulse."
+  },
+  {
+    "id": "control:prep:PRIMARY-B12",
+    "headwords": [
+      "Sprachform",
+      "grammatische Form",
+      "Grammatik",
+      "Lexicon"
+    ],
+    "source_path": "sources/raw/references/humboldt-gs-07-1.pdf",
+    "source_sha256": "e5eff2d26addd37ec2bf03ed7bf8514fc75b09100bf41bf7c257f31f1aa15706",
+    "locator": "printed 49; PDF 59",
+    "statement": "The account explicitly denies restricting linguistic form to grammatical form and treats the grammar/lexicon division as useful for learning rather than a boundary of research.",
+    "quote": "dass unter Form der Sprache hier durchaus nicht bloss die so- genannte grammatische Form verstanden wird. Der Unterschied, welchen wir zwischen Grammatik und Lexicon zu machen pflegen, kann nur zum praktischen Gebrauche der Erlernung der Sprachen dienen, allein der wahren Sprachforschung weder Gränze noch Regel vorschreiben.",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "Initial dass depends on the preceding main clause; OCR line-end divisions retained."
+  },
+  {
+    "id": "control:prep:PRIMARY-B13",
+    "headwords": [
+      "Stoff",
+      "Form",
+      "articulirter Laut"
+    ],
+    "source_path": "sources/raw/references/humboldt-gs-07-1.pdf",
+    "source_sha256": "e5eff2d26addd37ec2bf03ed7bf8514fc75b09100bf41bf7c257f31f1aa15706",
+    "locator": "printed 49; PDF 59",
+    "statement": "Nothing within language is absolutely unformed matter; an element can be matter relative to one operation while already formed in another respect.",
+    "quote": "Absolut betrachtet, kann es innerhalb der Sprache keinen ungeformten Stoff geben, da alles in ihr auf einen bestimmten Zweck, den Gedanken- ausdruck, gerichtet ist, und diese Arbeit schon bei ihrem ersten Element, dem articulirten Laute, beginnt, der ja eben durch Formung ^) 2um articulirten wird.",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "OCR 2um is retained. Editorial deletion following Formung is not part of the quotation."
+  },
+  {
+    "id": "control:prep:PRIMARY-B14",
+    "headwords": [
+      "bildendes Organ",
+      "Gedanke",
+      "Vorstellung",
+      "Begriff"
+    ],
+    "source_path": "sources/raw/references/humboldt-gs-07-1.pdf",
+    "source_sha256": "e5eff2d26addd37ec2bf03ed7bf8514fc75b09100bf41bf7c257f31f1aa15706",
+    "locator": "printed 53; PDF 63",
+    "statement": "Language is presented as formative for thought; connection with articulated sound makes inner activity perceptible and is required for representation to become concept.",
+    "quote": "Sie ist aber auch in sich an die Xothwendigkeit geknüpft, eine Ver- bindung mit dem Sprachlaute einzugehen; das Denken kann sonst nicht zur Deutlichkeit gelangen, die Vorstellung nicht zum Begriff werden.",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "OCR Xothwendigkeit is retained; line-end word divisions are retained."
+  },
+  {
+    "id": "control:prep:PRIMARY-B15",
+    "headwords": [
+      "Objectivität",
+      "Subjectivität",
+      "Vorstellung",
+      "Begriff"
+    ],
+    "source_path": "sources/raw/references/humboldt-gs-07-1.pdf",
+    "source_sha256": "e5eff2d26addd37ec2bf03ed7bf8514fc75b09100bf41bf7c257f31f1aa15706",
+    "locator": "printed 55; PDF 65",
+    "statement": "The produced representation becomes an object returning to its own subject; this does not remove subjectivity. Language is necessary to this return and to concept formation.",
+    "quote": "Die Vorstellung wird also in wirkliche Objectivität hinüberversetzt, ohne darum der Subjectivität entzogen zu w^erden. Dies vermag nur die Sprache: und ohne diese, wo Sprache mitwirkt, auch still- schw^eigend immer vorgehende Versetzung in zum Subject zurück- kehrende Objectivität ist die Bildung des Begriffs, mithin alles wahre Denken unmöglich.",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "OCR spellings w^erden and still- schw^eigend are retained; exact contiguous quotation is source-derived."
+  },
+  {
+    "id": "control:prep:PRIMARY-B16",
+    "headwords": [
+      "Verstehen",
+      "Sprechen",
+      "Sprachkraft",
+      "Stoff",
+      "Anregung"
+    ],
+    "source_path": "sources/raw/references/humboldt-gs-07-1.pdf",
+    "source_sha256": "e5eff2d26addd37ec2bf03ed7bf8514fc75b09100bf41bf7c257f31f1aa15706",
+    "locator": "printed 56; PDF 66",
+    "statement": "Understanding and speaking are different effects of the same linguistic power. Understanding requires the hearer's own activity rather than receiving a transferred material content.",
+    "quote": "Verstehen und Sprechen sind nur verschiedenartige Wirkungen der nemlichen Sprachkraft. Die gemeinsame Rede ist nie mit dem Uebergeben eines Stoffes vergleichbar. In dem Verstehenden, wie im Sprechenden, muss derselbe aus der eignen, innren Kraft entwickelt werden; und was der erstere empfängt, ist nur die harmonisch stimmende Anregung.",
+    "verification": "OCR-only",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "OCR-only; the surrounding argument invokes common human nature and social interaction, with later ancestry claims requiring separate treatment."
+  },
+  {
+    "id": "control:prep:SECONDARY-01",
+    "headwords": [
+      "allgemeiner Sprachtypus",
+      "allgemeine Grammatik",
+      "Ansicht"
+    ],
+    "source_path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c4.pdf",
+    "source_sha256": "ab25c8e5168807dc092805c9d6c1e845ac3082c796ff435f2efc7f9cac938a7c",
+    "locator": "printed 74–76; PDF 9–11; §4.3",
+    "statement": "Manchester distinguishes universal grammatical relations grounded in thought-laws from the language-specific ideal view of those relations, technical designation, and phonetic realization. Universal grammar is not a historically inherited original language.",
+    "quote": "",
+    "verification": "secondary-paraphrase; text reading",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "This is Manchester’s account across several Humboldt works; each Grundzüge occurrence still needs local interpretation."
+  },
+  {
+    "id": "control:prep:SECONDARY-02",
+    "headwords": [
+      "stillschweigende Grammatik",
+      "ausdrückliche Grammatik",
+      "Hinzudenken"
+    ],
+    "source_path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c4.pdf",
+    "source_sha256": "ab25c8e5168807dc092805c9d6c1e845ac3082c796ff435f2efc7f9cac938a7c",
+    "locator": "printed 76–79; PDF 11–14; §4.3",
+    "statement": "Manchester says explicit and mentally supplied grammar occur within each language, not only as labels for opposed whole languages. He reconstructs universal forms through conceptual opposition and intermediacy, while questioning whether Humboldt means actual employment everywhere or potential availability.",
+    "quote": "",
+    "verification": "secondary-paraphrase; text reading",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "Manchester’s conditional is his English rendering of a mood label; it is not independent evidence for the exact primary German category."
+  },
+  {
+    "id": "control:prep:SECONDARY-03",
+    "headwords": [
+      "Sprachvermögen",
+      "Sprachsinn",
+      "Sprachanlage",
+      "Charakter"
+    ],
+    "source_path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c4.pdf",
+    "source_sha256": "ab25c8e5168807dc092805c9d6c1e845ac3082c796ff435f2efc7f9cac938a7c",
+    "locator": "printed 80–83; PDF 15–18; §4.4",
+    "statement": "Manchester proposes a schema separating common linguistic capacities from nationally variable tendency, character and form. He treats Anlage as stronger than mere capacity and describes national character as a guiding disposition.",
+    "quote": "",
+    "verification": "secondary-paraphrase; text reading",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "He explicitly presents interpretation and simplification, including a conjectural near-equivalence of Anlage and character; the schema is not Humboldt’s own glossary."
+  },
+  {
+    "id": "control:prep:SECONDARY-04",
+    "headwords": [
+      "Form",
+      "Stoff",
+      "Sprachform"
+    ],
+    "source_path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c4.pdf",
+    "source_sha256": "ab25c8e5168807dc092805c9d6c1e845ac3082c796ff435f2efc7f9cac938a7c",
+    "locator": "printed 83–86; PDF 18–21; §4.4, Form der Sprache",
+    "statement": "Manchester rejects both an exclusively generative-rule reading and an exclusively dynamic-force reading of Form. Something may form one item while itself being the formed product of another process; form/matter relations shift with the explanatory level.",
+    "quote": "",
+    "verification": "secondary-paraphrase; text reading",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "His account addresses usages across the corpus, especially Einleitung; it does not fix the sense of every Grundzüge Form."
+  },
+  {
+    "id": "control:prep:SECONDARY-05",
+    "headwords": [
+      "innere Sprachform",
+      "Charakter",
+      "Form der Sprache"
+    ],
+    "source_path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c4.pdf",
+    "source_sha256": "ab25c8e5168807dc092805c9d6c1e845ac3082c796ff435f2efc7f9cac938a7c",
+    "locator": "printed 83; 87–90; PDF 18; 22–25; §4.4, innere Sprachform",
+    "statement": "Manchester reports that inner form is rare and late, treats its interpretation as speculative, and provisionally uses it for syntactic and semantic organization. He distinguishes character as a guiding principle from this organization, while acknowledging overlap in some uses of Form.",
+    "quote": "",
+    "verification": "secondary-paraphrase; text reading",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "The five-occurrence claim is Manchester’s corpus assertion, not independently recounted here. He identifies his final diagram as simplified."
+  },
+  {
+    "id": "control:prep:SECONDARY-06",
+    "headwords": [
+      "Nationalcharakter",
+      "Sprache",
+      "Geist",
+      "Priorität"
+    ],
+    "source_path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c6.pdf",
+    "source_sha256": "41ea90fd8341e7e386e82b1bfc5a060dd0052bd9cf8df3ee6e22cacc63f60e5c",
+    "locator": "printed 104–105; 110–112; PDF 3–4; 9–11; §6.1; 6.3.1",
+    "statement": "Manchester treats influence between language and national character as reciprocal, not a simple either/or. He separates inaccessible initial origins from observable interaction of already formed languages and communities, including inherited language character and new national influence.",
+    "quote": "",
+    "verification": "secondary-paraphrase; text reading",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "The reconstruction of formative priority is Manchester’s interpretation; he notes Humboldt does not always state it clearly."
+  },
+  {
+    "id": "control:prep:SECONDARY-07",
+    "headwords": [
+      "Charakter",
+      "Form",
+      "Nationalcharakter"
+    ],
+    "source_path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c6.pdf",
+    "source_sha256": "41ea90fd8341e7e386e82b1bfc5a060dd0052bd9cf8df3ee6e22cacc63f60e5c",
+    "locator": "printed 117–121; PDF 16–20; §6.3, Einleitung discussion",
+    "statement": "Manchester reads character as a relatively simple dispositional principle affecting a complex phonetic, grammatical and lexical organization. He interprets national character through a mixture of orientations toward sensory reality and inward intellectual life, and discusses it as a speculative explanatory postulate.",
+    "quote": "",
+    "verification": "secondary-paraphrase; text reading",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "The chapter concedes uncertainty about concrete application. This account has a different emphasis from Trabant’s usage-centered characterization, not an established direct contradiction."
+  },
+  {
+    "id": "control:prep:SECONDARY-08",
+    "headwords": [
+      "Weltansicht",
+      "Weltanschauung"
+    ],
+    "source_path": "sources/raw/references/underhill-2009-humboldt-worldview-language.pdf",
+    "source_sha256": "e539b373e317831e39acdb958543d92994cff7bb9feb24ae466e3ab312f50367",
+    "locator": "printed 55–57; PDF 68–70; §7, Worldview",
+    "statement": "Following Trabant, Underhill distinguishes language-bound conceptual world-presentation from beliefs or ideologies which may conflict inside one language and migrate between languages.",
+    "quote": "",
+    "verification": "secondary-paraphrase; text reading",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "Underhill is developing an interpretive distinction inspired by Humboldt, not demonstrating that Humboldt always uses the two German words contrastively."
+  },
+  {
+    "id": "control:prep:SECONDARY-09",
+    "headwords": [
+      "Sprache",
+      "Rede",
+      "Laut",
+      "Schrift"
+    ],
+    "source_path": "sources/raw/references/underhill-2009-humboldt-worldview-language.pdf",
+    "source_sha256": "e539b373e317831e39acdb958543d92994cff7bb9feb24ae466e3ab312f50367",
+    "locator": "printed 59–60; 69; PDF 72–73; 82; §8, Sprache; 9, The Work of the Mind",
+    "statement": "Underhill emphasizes transient speaking acts, audible expression and the speaker’s hearing of the word. Writing preserves an incomplete representation that must be returned to living utterance.",
+    "quote": "",
+    "verification": "secondary-paraphrase; text reading",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "These pages supply a speech/writing control, not detailed historical semantics of every Laut or Buchstabe occurrence in Grundzüge."
+  },
+  {
+    "id": "control:prep:SECONDARY-10",
+    "headwords": [
+      "Bau",
+      "Form",
+      "Arbeit"
+    ],
+    "source_path": "sources/raw/references/underhill-2009-humboldt-worldview-language.pdf",
+    "source_sha256": "e539b373e317831e39acdb958543d92994cff7bb9feb24ae466e3ab312f50367",
+    "locator": "printed 61–62; PDF 74–75; §8, Sprache",
+    "statement": "Underhill stresses the constructive and human activity implicated in Bau and explains Form as the constant and uniform organization arising through mental labor in articulated sound.",
+    "quote": "",
+    "verification": "secondary-paraphrase; text reading",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "Underhill’s warning against later structuralist senses is an interpretive control, not a blanket prohibition on English structure."
+  },
+  {
+    "id": "control:prep:SECONDARY-11",
+    "headwords": [
+      "Bildung",
+      "bilden",
+      "Bildung des Begriffs",
+      "Bau"
+    ],
+    "source_path": "sources/raw/references/underhill-2009-humboldt-worldview-language.pdf",
+    "source_sha256": "e539b373e317831e39acdb958543d92994cff7bb9feb24ae466e3ab312f50367",
+    "locator": "printed 65–66; 69–70; PDF 78–79; 82–83; §9, The Work of the Mind",
+    "statement": "Underhill connects Bildung with ongoing self-cultivation, cultivation of humanity and development of language, and connects bilden with the active formation of concepts. These operate on individual and collective timescales.",
+    "quote": "",
+    "verification": "secondary-paraphrase; text reading",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "The semantic family does not prove that all cognate occurrences have the same sense. OCR Building on printed 65 appears corrupt and is not adopted as a term."
+  },
+  {
+    "id": "control:prep:SECONDARY-12",
+    "headwords": [
+      "Welt",
+      "Begriff",
+      "Weltansicht"
+    ],
+    "source_path": "sources/raw/references/underhill-2009-humboldt-worldview-language.pdf",
+    "source_sha256": "e539b373e317831e39acdb958543d92994cff7bb9feb24ae466e3ab312f50367",
+    "locator": "printed 72–73; PDF 85–86; §9, The Work of the Mind",
+    "statement": "Underhill rejects an inference from linguistically mediated conceptualization to the nonexistence of an external world. He differentiates real things from objects as organized for understanding and warns against misleading aphoristic formulations.",
+    "quote": "",
+    "verification": "secondary-paraphrase; text reading",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "These are Underhill’s explanatory examples and criticisms, not direct evidence for a particular Grundzüge noun sense."
+  },
+  {
+    "id": "control:prep:SECONDARY-13",
+    "headwords": [
+      "Form",
+      "ursprünglich",
+      "umgestalten",
+      "Gegebenes"
+    ],
+    "source_path": "sources/raw/references/underhill-2009-humboldt-worldview-language.pdf",
+    "source_sha256": "e539b373e317831e39acdb958543d92994cff7bb9feb24ae466e3ab312f50367",
+    "locator": "printed 75–79; PDF 88–92; §10, Form",
+    "statement": "Underhill stresses that known languages reshape inherited material; form is maintained through recurring activity and is partly constant and partly fluid. Details and whole organization must be studied together, with their historical specificity retained.",
+    "quote": "",
+    "verification": "secondary-paraphrase; text reading",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "This concerns historical language activity, not a demonstrated unilinear progress scale or an origin narrative."
+  },
+  {
+    "id": "control:prep:SECONDARY-14",
+    "headwords": [
+      "world-perceiving",
+      "world-conceiving",
+      "cultural mindset",
+      "personal world",
+      "perspective",
+      "subjectivation"
+    ],
+    "source_path": "sources/raw/references/underhill-2009-humboldt-worldview-language.pdf",
+    "source_sha256": "e539b373e317831e39acdb958543d92994cff7bb9feb24ae466e3ab312f50367",
+    "locator": "printed 147; 150–153; PDF 160; 163–166; §Glossary",
+    "statement": "Underhill marks several glossary terms as his own analytical vocabulary, and attributes subjectivation to Meschonnic. His fivefold decomposition of worldview separates linguistic mediation from ideological, personal and changing perspectives.",
+    "quote": "",
+    "verification": "secondary-paraphrase; text reading",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "The glossary’s own attribution is essential. Its distinction is inspired by Humboldt but is not a primary Humboldt terminology list."
+  },
+  {
+    "id": "control:prep:SECONDARY-15",
+    "headwords": [
+      "conceptual function",
+      "communication",
+      "Mitdenken",
+      "Urtypus"
+    ],
+    "source_path": "sources/raw/references/trabant-2023-anthropological-linguistics.pdf",
+    "source_sha256": "c07220e68953c508e8ae42d7d534c85a7b8a2f59cc5e9945b7c39ae8323a0741",
+    "locator": "printed 312; PDF 5; §3, Language",
+    "statement": "Trabant presents language as forming cognition rather than merely conveying independently ready concepts, while making the other person and reciprocal speaker/hearer exchange integral to that activity.",
+    "quote": "",
+    "verification": "secondary-paraphrase; selected image checked",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "PDF text and printed 312 image checked. This wider-corpus synthesis does not independently determine a specific Grundzüge Urtypus occurrence."
+  },
+  {
+    "id": "control:prep:SECONDARY-16",
+    "headwords": [
+      "Verfahren",
+      "inflection",
+      "typology",
+      "hierarchy"
+    ],
+    "source_path": "sources/raw/references/trabant-2023-anthropological-linguistics.pdf",
+    "source_sha256": "c07220e68953c508e8ae42d7d534c85a7b8a2f59cc5e9945b7c39ae8323a0741",
+    "locator": "printed 314–316; PDF 7–9; §4.1.2–4.1.3",
+    "statement": "Trabant distinguishes recurring morphosyntactic procedures from rigid natural classes of languages. He also explicitly recognizes Humboldt’s obsolete ranking of inflection by its philosophical fit to synthesis, and situates that ranking alongside the value and fundamental equality of all languages.",
+    "quote": "",
+    "verification": "secondary-paraphrase; selected image checked",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "PDF text locations verified; printed 315/PDF 8 image checked. This is Trabant’s interpretation of the wider corpus, not a primary passage replacement."
+  },
+  {
+    "id": "control:prep:SECONDARY-17",
+    "headwords": [
+      "Charakter",
+      "Rede",
+      "Macht",
+      "Gewalt"
+    ],
+    "source_path": "sources/raw/references/trabant-2023-anthropological-linguistics.pdf",
+    "source_sha256": "c07220e68953c508e8ae42d7d534c85a7b8a2f59cc5e9945b7c39ae8323a0741",
+    "locator": "printed 317; PDF 10; §4.2, Linguistics of Character",
+    "statement": "Trabant locates the central inquiry into character in achievement through usage, especially literary, philosophical and scholarly discourse. Structure is its basis; speakers develop languages through tension between inherited constraints and individual renewal.",
+    "quote": "",
+    "verification": "secondary-paraphrase; selected image checked",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "PDF text and printed 317 image checked. Manchester emphasizes character as an explanatory disposition; Trabant emphasizes its manifestation and development in usage."
+  },
+  {
+    "id": "control:prep:SECONDARY-18",
+    "headwords": [
+      "Weltansicht",
+      "Weltbild",
+      "determinism",
+      "individuality"
+    ],
+    "source_path": "sources/raw/references/trabant-2023-anthropological-linguistics.pdf",
+    "source_sha256": "c07220e68953c508e8ae42d7d534c85a7b8a2f59cc5e9945b7c39ae8323a0741",
+    "locator": "printed 322–323; PDF 15–16; §5.2.2",
+    "statement": "Trabant contrasts Humboldt’s open and limited influence of linguistic perspective with deterministic reception, especially Weisgerber’s closed collective image. He invokes shared human dispositions, common reality and speakers’ capacity to resist and change languages.",
+    "quote": "",
+    "verification": "secondary-paraphrase; selected image checked",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "PDF page locations verified through text extraction, not an image check. This is an interpretation of reception and wider-corpus commitments, not proof of every local formulation."
+  },
+  {
+    "id": "control:prep:LEX-VERKEHR",
+    "headwords": [
+      "Verkehr"
+    ],
+    "source_path": "sources/raw/lexicon/adelung-verkehr.html",
+    "source_sha256": "1f6216ee884d93ef575d2826a51c0ed20077d98f21149a661ffa763f445d2df6",
+    "locator": "BSB Adelung 1811 digital edition; headword Der Verkehr",
+    "statement": "Includes both trade/dealings and broader social dealings, association or community. Supports interaction in §1 without forcing commerce or transport.",
+    "quote": "",
+    "verification": "digital-entry reading; not scan-collated",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_5_0_453",
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "BSB warns that digital articles may contain capture errors; edition is 1811, not an asserted contemporary quotation from Humboldt."
+  },
+  {
+    "id": "control:prep:LEX-ABSCHLEIFEN",
+    "headwords": [
+      "Abschleifen"
+    ],
+    "source_path": "sources/raw/lexicon/adelung-abschleifen.html",
+    "source_sha256": "38ee667b7260b500fc6426ba8fc8c67ee314fd6c883e4614475ec507fbd23161",
+    "locator": "BSB Adelung 1811 digital edition; headword Abschleifen",
+    "statement": "Includes grinding away and smoothing/polishing by grinding. Supports an abrasive metaphor; does not by itself establish complete homogenization.",
+    "quote": "",
+    "verification": "digital-entry reading; not scan-collated",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009131_3_0_760",
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "BSB warns that digital articles may contain capture errors; edition is 1811, not an asserted contemporary quotation from Humboldt."
+  },
+  {
+    "id": "control:prep:LEX-BILDEN",
+    "headwords": [
+      "Bilden"
+    ],
+    "source_path": "sources/raw/lexicon/adelung-bilden.html",
+    "source_sha256": "51276c608e9da7d573154cbc576c0ccae3a7f27644126bdce3a86a90c4f1cab6",
+    "locator": "BSB Adelung 1811 digital edition; headword Bilden",
+    "statement": "Includes giving shape and figuratively forming faculties of understanding and will. Education is not a universal English equivalent.",
+    "quote": "",
+    "verification": "digital-entry reading; not scan-collated",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009131_4_2_2565",
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "BSB warns that digital articles may contain capture errors; edition is 1811, not an asserted contemporary quotation from Humboldt."
+  },
+  {
+    "id": "control:prep:LEX-BILDUNG",
+    "headwords": [
+      "Bildung"
+    ],
+    "source_path": "sources/raw/lexicon/adelung-bildung.html",
+    "source_sha256": "75b3dc2433b8f8421eba17d9e422077462e0007664a246f652eaf11b9782a30b",
+    "locator": "BSB Adelung 1811 digital edition; headword Die Bildung",
+    "statement": "Refers the reader to bilden; it is not an independent modern educational definition.",
+    "quote": "",
+    "verification": "digital-entry reading; not scan-collated",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009131_4_2_2602",
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "BSB warns that digital articles may contain capture errors; edition is 1811, not an asserted contemporary quotation from Humboldt."
+  },
+  {
+    "id": "control:prep:LEX-AUSBILDEN",
+    "headwords": [
+      "Ausbilden"
+    ],
+    "source_path": "sources/raw/lexicon/adelung-ausbilden.html",
+    "source_sha256": "fad665bf54df8e0ff8dc6219a0b7411327f82491073391393b5dfae58ebbf026",
+    "locator": "BSB Adelung 1811 digital edition; headword Ausbilden",
+    "statement": "Formation toward completion and cultivation of capacities give it evaluative potential; this does not make every language change an improvement.",
+    "quote": "",
+    "verification": "digital-entry reading; not scan-collated",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009131_3_3_3966",
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "BSB warns that digital articles may contain capture errors; edition is 1811, not an asserted contemporary quotation from Humboldt."
+  },
+  {
+    "id": "control:prep:LEX-FORM",
+    "headwords": [
+      "Form"
+    ],
+    "source_path": "sources/raw/lexicon/adelung-form.html",
+    "source_sha256": "1a81a33011dfbf67d1b0fb610cb9ee96228fde8e0d9bbf52d5fe304d58d19b05",
+    "locator": "BSB Adelung 1811 digital edition; headword Die Form",
+    "statement": "Spans shape, manner and logical form opposed to matter. Local bearer remains decisive; an apparent digital corruption in one example is not used.",
+    "quote": "",
+    "verification": "digital-entry reading; not scan-collated",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009132_1_2_2233",
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "BSB warns that digital articles may contain capture errors; edition is 1811, not an asserted contemporary quotation from Humboldt."
+  },
+  {
+    "id": "control:prep:LEX-GEIST",
+    "headwords": [
+      "Geist"
+    ],
+    "source_path": "sources/raw/lexicon/adelung-geist.html",
+    "source_sha256": "ea815bc75527005d9f1a137859ff9a3cd99ddb16e838cc63155038536f10bdd2",
+    "locator": "BSB Adelung 1811 digital edition; headword Der Geist",
+    "statement": "Has several historical senses, including soul/intellect/active power and disposition; the faculty passages do not license one blanket spirit or mind equivalent.",
+    "quote": "",
+    "verification": "digital-entry reading; not scan-collated",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009132_2_0_949",
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "BSB warns that digital articles may contain capture errors; edition is 1811, not an asserted contemporary quotation from Humboldt."
+  },
+  {
+    "id": "control:prep:LEX-KRAFT",
+    "headwords": [
+      "Kraft"
+    ],
+    "source_path": "sources/raw/lexicon/adelung-kraft.html",
+    "source_sha256": "029973df4693fa82a03b950c7a344e195d6b6096a6f1bf5b3a3891f79954c337",
+    "locator": "BSB Adelung 1811 digital edition; headword Die Kraft",
+    "statement": "Capacity/power and its exercise are not restricted to modern physical force or energy.",
+    "quote": "",
+    "verification": "digital-entry reading; not scan-collated",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009132_6_2_2127",
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "BSB warns that digital articles may contain capture errors; edition is 1811, not an asserted contemporary quotation from Humboldt."
+  },
+  {
+    "id": "control:prep:LEX-BEGRIFF",
+    "headwords": [
+      "Begriff"
+    ],
+    "source_path": "sources/raw/lexicon/adelung-begriff.html",
+    "source_sha256": "f0ec0ca4f17a4c5216e3a59113e8532d7db3fa85747c5e0449d383b8ae4baca4",
+    "locator": "BSB Adelung 1811 digital edition; headword Der Begriff",
+    "statement": "Includes mental representation alongside nontechnical senses. The mental sense supports concept where the local contrast warrants it, not a later Fregean distinction.",
+    "quote": "",
+    "verification": "digital-entry reading; not scan-collated",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009131_4_1_1068",
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "BSB warns that digital articles may contain capture errors; edition is 1811, not an asserted contemporary quotation from Humboldt."
+  },
+  {
+    "id": "control:prep:LEX-ANSCHAUEN",
+    "headwords": [
+      "Anschauen"
+    ],
+    "source_path": "sources/raw/lexicon/adelung-anschauen.html",
+    "source_sha256": "16fb2050cfb7cc64a5888ad07185c81db26045fb5ec04a6e185c8707ca5fbab7",
+    "locator": "BSB Adelung 1811 digital edition; headword Anschauen",
+    "statement": "Can extend beyond literal visual looking into sensible/intuitive apprehension; do not reduce every occurrence to opinion.",
+    "quote": "",
+    "verification": "digital-entry reading; not scan-collated",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009131_3_2_2511",
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "BSB warns that digital articles may contain capture errors; edition is 1811, not an asserted contemporary quotation from Humboldt."
+  },
+  {
+    "id": "control:prep:LEX-ANSICHT",
+    "headwords": [
+      "Ansicht"
+    ],
+    "source_path": "sources/raw/lexicon/adelung-ansicht.html",
+    "source_sha256": "a06b7f145e5dec6d3f84cd0ebf3b4b114d28dcab4383871f4422b87b64ecb8b0",
+    "locator": "BSB Adelung 1811 digital edition; headword Die Ansicht",
+    "statement": "The consulted entry concerns viewing/prospect. It does not settle Humboldt’s conceptual grammatical view or approach.",
+    "quote": "",
+    "verification": "digital-entry reading; not scan-collated",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009131_3_2_2610",
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "BSB warns that digital articles may contain capture errors; edition is 1811, not an asserted contemporary quotation from Humboldt."
+  },
+  {
+    "id": "control:prep:LEX-WOHL",
+    "headwords": [
+      "Wohl"
+    ],
+    "source_path": "sources/raw/lexicon/adelung-wohl.html",
+    "source_sha256": "6cf1ef4d31b7316a325ab0489e0e20c927b6f81ed9d403df5a0d0ea6a7a8a299",
+    "locator": "BSB Adelung 1811 digital edition; headword Wohl",
+    "statement": "The entry explicitly separates intensification, doubt/supposition, approximation and concession. It cannot decide the local auch wohl by itself; it supplies no reason to repeat bisweilen’s frequency.",
+    "quote": "",
+    "verification": "digital-entry reading; not scan-collated",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_6_2_2635",
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "BSB warns that digital articles may contain capture errors; edition is 1811, not an asserted contemporary quotation from Humboldt."
+  },
+  {
+    "id": "control:prep:LEX-BIS",
+    "headwords": [
+      "Bis"
+    ],
+    "source_path": "sources/raw/lexicon/adelung-bis.html",
+    "source_sha256": "9622c8418f093de18db9aab72479ad6c6bfb63b11118dc689f62b9d364c32b91",
+    "locator": "BSB Adelung 1811 digital edition; headword Bis",
+    "statement": "The endpoint account includes temporal bis auf diese Stunde. This supports the availability of a temporal reading, not its necessity in §1 or exclusion of exceptive uses elsewhere.",
+    "quote": "",
+    "verification": "digital-entry reading; not scan-collated",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009131_4_2_2709",
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "BSB warns that digital articles may contain capture errors; edition is 1811, not an asserted contemporary quotation from Humboldt."
+  },
+  {
+    "id": "control:prep:NORD",
+    "headwords": [
+      "translation brief",
+      "documentary",
+      "loyalty"
+    ],
+    "source_path": "sources/raw/references/nord-2006-purposeful-activity.pdf",
+    "source_sha256": "8544e5b1e2549b70cbe8c89dc89fcd966b690aadac8e47521efaf98eee289f22",
+    "locator": "printed 131–135, 139–143; PDF 1–5, 9–13",
+    "statement": "A translation brief identifies purpose and reader; documentary/instrumental orientation depends on that brief. Contextual explanation can be separated from translation, and loyalty constrains a merely purpose-based solution.",
+    "quote": "",
+    "verification": "targeted secondary reading; paraphrase",
+    "url": null,
+    "scope": "comparative source control; not operational-sense attestation",
+    "issue": "Targeted article reading, not a full review of Nord’s 1997 book or all translation theory. Page coordinates checked against local sidecar headings."
+  },
+  {
+    "id": "lex1811:Verstand",
+    "headword": "Verstand",
+    "article_identity": "Verstand",
+    "scope": "period lexical control, not primary-sense proof",
+    "source_path": "sources/raw/lexicon-v2/adelung-verstand.html",
+    "source_sha256": "541e587f01332b00bed7ba5d5000d41b645ee93fd82679677293b827feb0e2d0",
+    "text_path": "sources/terminology/v2/lexicon/adelung-verstand.txt",
+    "text_sha256": "81c937549cb7d12758965bff48249d1891800a24e97c15bd02e16eb66e48f3d0",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_5_0_911",
+    "locator": "Adelung1811, Der Verstand; subjective faculty and objective meaning/sense",
+    "statement": "The entry separates understanding as capacity (including broad and narrower faculties) from objective sense/meaning of words or discourse. It distinguishes the narrower faculty from Vernunft but reports variable ordinary usage.",
+    "caution": "Do not translate idiomatic in diesem Verstande as a faculty; do not impose the entry’s full faculty taxonomy on Humboldt.",
+    "quote": "",
+    "verification": "digital-entry reading by coordinator; not scan-collated",
+    "applicable": true,
+    "headwords": [
+      "Verstand"
+    ]
+  },
+  {
+    "id": "lex1811:Vernunft",
+    "headword": "Vernunft",
+    "article_identity": "Vernunft",
+    "scope": "period lexical control, not primary-sense proof",
+    "source_path": "sources/raw/lexicon-v2/adelung-vernunft.html",
+    "source_sha256": "b75ea01be2e671e871a9e3c5f6885a606e566f8528a065292e56c7300fb9c607",
+    "text_path": "sources/terminology/v2/lexicon/adelung-vernunft.txt",
+    "text_sha256": "c8183b312ee90516a080e35afffac6dcbe71a81e1b0c510e155a492d5568a298",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_5_0_637",
+    "locator": "Adelung1811, Die Vernunft; §2 subjective and objective uses",
+    "statement": "The narrower faculty includes perceiving connections, judging and inferring; the entry also reports broader/historical uses and objective connected truth. It notes confusion with Verstand in ordinary usage.",
+    "caution": "Supports reason as a differentiated candidate, not an invariant Kantian/Hegelian system or exclusion of all overlap.",
+    "quote": "",
+    "verification": "digital-entry reading by coordinator; not scan-collated",
+    "applicable": true,
+    "headwords": [
+      "Vernunft"
+    ]
+  },
+  {
+    "id": "lex1811:Seele:1",
+    "headword": "Seele",
+    "article_identity": "Seele:1",
+    "scope": "period lexical control, not primary-sense proof",
+    "source_path": "sources/raw/lexicon-v2/adelung-seele-1.html",
+    "source_sha256": "166713d9389fc26b5f56ef1156856183f94595514fff7da4cd8ef7734302d2f3",
+    "text_path": "sources/terminology/v2/lexicon/adelung-seele-1.txt",
+    "text_sha256": "a727a63ee2adc7ea1e6068b1577afcfba914ac9c55883affac62f9c3b33376bb",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_2_0_116",
+    "locator": "Adelung1811, 1. Die Seele; numbered homograph1",
+    "statement": "A set of physical inner-space/core uses: gun bore, quill interior, loom part or modelling core.",
+    "caution": "Retained as a homograph control, not attached to the psychological term without an actual local occurrence.",
+    "quote": "",
+    "verification": "digital-entry reading by coordinator; not scan-collated",
+    "applicable": false,
+    "headwords": [
+      "Seele"
+    ]
+  },
+  {
+    "id": "lex1811:Seele:2",
+    "headword": "Seele",
+    "article_identity": "Seele:2",
+    "scope": "period lexical control, not primary-sense proof",
+    "source_path": "sources/raw/lexicon-v2/adelung-seele-2.html",
+    "source_sha256": "83b7dc880282d1534de22a4386c7969a6b475241dc58d250cdd98f93af628697",
+    "text_path": "sources/terminology/v2/lexicon/adelung-seele-2.txt",
+    "text_sha256": "1964936d599ab2f7c8a8dcb058e27871c52c2ee8d83816125eb24c3219e27056",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_2_0_117",
+    "locator": "Adelung1811, 2. Die Seele; numbered homograph2, senses2–3",
+    "statement": "Ranges from feeling/desiring capacity to the thinking being with understanding and will, and figuratively persons or animating essentials.",
+    "caution": "Soul/inner life cannot be selected from a word list alone; no etymological claims are adopted.",
+    "quote": "",
+    "verification": "digital-entry reading by coordinator; not scan-collated",
+    "applicable": true,
+    "headwords": [
+      "Seele"
+    ]
+  },
+  {
+    "id": "lex1811:Gemüth",
+    "headword": "Gemüth",
+    "article_identity": "Gemüth",
+    "scope": "period lexical control, not primary-sense proof",
+    "source_path": "sources/raw/lexicon-v2/adelung-gemüth.html",
+    "source_sha256": "4ab76a19d1380f6eaf95b0b464eca869f4ce441bd57ff8641255e48bde9a668e",
+    "text_path": "sources/terminology/v2/lexicon/adelung-gemüth.txt",
+    "text_sha256": "431f6f6902c061b23070e66a6edd887469f27e3d17be22b6806937c19bd0ae80",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009132_2_1_1251",
+    "locator": "Adelung1811, Das Gemüth; headword definition",
+    "statement": "Soul considered with respect to desires and will; contrasted with Geist in relation to understanding/reason, and extended to disposition or the whole person.",
+    "caution": "Avoid reducing Gemüth to emotion alone; test the breadth against local uses.",
+    "quote": "",
+    "verification": "digital-entry reading by coordinator; not scan-collated",
+    "applicable": true,
+    "headwords": [
+      "Gemüth"
+    ]
+  },
+  {
+    "id": "lex1811:Einbildungskraft",
+    "headword": "Einbildungskraft",
+    "article_identity": "Einbildungskraft",
+    "scope": "period lexical control, not primary-sense proof",
+    "source_path": "sources/raw/lexicon-v2/adelung-einbildungskraft.html",
+    "source_sha256": "521b5ce0f5545a1c4969494b5233d2ea2a731011f036e949876edc6ea5369bce",
+    "text_path": "sources/terminology/v2/lexicon/adelung-einbildungskraft.txt",
+    "text_sha256": "fd1b15de2327e8f1fbd0b360119bc86aa595a696a459c2b33bfee2f9bca72db9",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009131_7_0_406",
+    "locator": "Adelung1811, Die Einbildungskraft; headword definition",
+    "statement": "A capacity to form an image or sensible representation of something absent.",
+    "caution": "A period range for imagination; Humboldt’s synthesizing function must be established from his local text.",
+    "quote": "",
+    "verification": "digital-entry reading by coordinator; not scan-collated",
+    "applicable": true,
+    "headwords": [
+      "Einbildungskraft"
+    ]
+  },
+  {
+    "id": "lex1811:Vorstellung",
+    "headword": "Vorstellung",
+    "article_identity": "Vorstellung",
+    "scope": "period lexical control, not primary-sense proof",
+    "source_path": "sources/raw/lexicon-v2/adelung-vorstellung.html",
+    "source_sha256": "c636ae5940893a53af3783ae79068ab9f8fb762286e34edf13e1e3da49c3bb27",
+    "text_path": "sources/terminology/v2/lexicon/adelung-vorstellung.txt",
+    "text_sha256": "46177c39b5c6e5a9c86e1e41b113464d5fbd2524ba86da8b44eb7f4eaf553c69",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_5_1_1841",
+    "locator": "Adelung1811, Die Vorstellung; §2(3), mental use",
+    "statement": "Can be a mental image, and more broadly a concept or idea; the entry distinguishes the act and what is represented.",
+    "caution": "Do not impose a strict Vorstellung/Begriff boundary throughout the period; preserve Humboldt’s local contrasts.",
+    "quote": "",
+    "verification": "digital-entry reading by coordinator; not scan-collated",
+    "applicable": true,
+    "headwords": [
+      "Vorstellung"
+    ]
+  },
+  {
+    "id": "lex1811:Empfindung",
+    "headword": "Empfindung",
+    "article_identity": "Empfindung",
+    "scope": "period lexical control, not primary-sense proof",
+    "source_path": "sources/raw/lexicon-v2/adelung-empfindung.html",
+    "source_sha256": "afff0fd43367ef54d3c29232e2265f583763e1716e7172125ef4f417e5e91008",
+    "text_path": "sources/terminology/v2/lexicon/adelung-empfindung.txt",
+    "text_sha256": "99cddadb9c96121fc99ac590a476df52068c8a8cbb55912ee8797aa04214c942",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009131_7_1_1194",
+    "locator": "Adelung1811, Die Empfindung; numbered senses1–3",
+    "statement": "State, capacity and produced representation/effect are distinguished; the examples range across light, pain and love.",
+    "caution": "Neither bodily sensation nor emotion is an automatic universal equivalent.",
+    "quote": "",
+    "verification": "digital-entry reading by coordinator; not scan-collated",
+    "applicable": true,
+    "headwords": [
+      "Empfindung"
+    ]
+  },
+  {
+    "id": "lex1811:Gefühl:1",
+    "headword": "Gefühl",
+    "article_identity": "Gefühl:1",
+    "scope": "period lexical control, not primary-sense proof",
+    "source_path": "sources/raw/lexicon-v2/adelung-gefühl-1.html",
+    "source_sha256": "12ad0b7f052a721605cb0e90af9f87944fafc334c3b8b7531dfcb7110ef4584a",
+    "text_path": "sources/terminology/v2/lexicon/adelung-gefühl-1.txt",
+    "text_sha256": "f2f50f93cdac5dd5089a9813fd552c29585091e3a6bc35c984346ddc78f5110a",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009132_2_0_724",
+    "locator": "Adelung1811, 1. Das Gefühl; numbered homograph1",
+    "statement": "A hunters’ collective for fur-bearing animals/skins.",
+    "caution": "An irrelevant homograph, retained as an explicit exclusion; do not attach it to Humboldt’s psychological Gefühl.",
+    "quote": "",
+    "verification": "digital-entry reading by coordinator; not scan-collated",
+    "applicable": false,
+    "headwords": [
+      "Gefühl"
+    ]
+  },
+  {
+    "id": "lex1811:Gefühl:2",
+    "headword": "Gefühl",
+    "article_identity": "Gefühl:2",
+    "scope": "period lexical control, not primary-sense proof",
+    "source_path": "sources/raw/lexicon-v2/adelung-gefühl-2.html",
+    "source_sha256": "7385b98bdd3ba812b5105cad0cd3c1ff952aacb41bf581b735f1b2febbfb7de5",
+    "text_path": "sources/terminology/v2/lexicon/adelung-gefühl-2.txt",
+    "text_sha256": "4703241e6a92aa86ada9d79b467c1107fd5c64768428b915225c9c47b9ee4735",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009132_2_0_725",
+    "locator": "Adelung1811, 2. Das Gefühl; numbered homograph2, senses1–2",
+    "statement": "Touch-capacity and its sensation extend figuratively to feeling and lively appreciation, including moral/aesthetic examples.",
+    "caution": "The range does not erase Humboldt’s explicitly unreflective intellectual Gefühl in§125.",
+    "quote": "",
+    "verification": "digital-entry reading by coordinator; not scan-collated",
+    "applicable": true,
+    "headwords": [
+      "Gefühl"
+    ]
+  },
+  {
+    "id": "lex1811:Bedeutung",
+    "headword": "Bedeutung",
+    "article_identity": "Bedeutung",
+    "scope": "period lexical control, not primary-sense proof",
+    "source_path": "sources/raw/lexicon-v2/adelung-bedeutung.html",
+    "source_sha256": "eebf177915f31ca4e028548694be0242087a74f8518ea9229e1838d27d859230",
+    "text_path": "sources/terminology/v2/lexicon/adelung-bedeutung.txt",
+    "text_sha256": "cb90f4f5a63bf93ff476118597367bc54147c6cb18a31e91b9979d0e8790d887",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009131_4_0_919",
+    "locator": "Adelung1811, Die Bedeutung; §2(b)–(c)",
+    "statement": "Distinguishes a concept evoked through word/sign from importance or significance; the entry also records other senses.",
+    "caution": "Meaning and significance need local evidence; no later Fregean opposition follows.",
+    "quote": "",
+    "verification": "digital-entry reading by coordinator; not scan-collated",
+    "applicable": true,
+    "headwords": [
+      "Bedeutung"
+    ]
+  },
+  {
+    "id": "lex1811:Zeichen",
+    "headword": "Zeichen",
+    "article_identity": "Zeichen",
+    "scope": "period lexical control, not primary-sense proof",
+    "source_path": "sources/raw/lexicon-v2/adelung-zeichen.html",
+    "source_sha256": "d96aedef65e48011dd51ebc911d24b3218fe8620b00dab910f7de34d54f0335b",
+    "text_path": "sources/terminology/v2/lexicon/adelung-zeichen.txt",
+    "text_sha256": "41c760044cd2a2818ca767a858660639b13affb77cd6b30361087c47fc5451ba",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_9_0_278",
+    "locator": "Adelung1811, Das Zeichen; §2",
+    "statement": "A sensible item intended to evoke a representation, with mark, indication and sign variants.",
+    "caution": "A period sign range; Humboldt’s word/concept argument is not replaced by this definition.",
+    "quote": "",
+    "verification": "digital-entry reading by coordinator; not scan-collated",
+    "applicable": true,
+    "headwords": [
+      "Zeichen"
+    ]
+  },
+  {
+    "id": "lex1811:Wort",
+    "headword": "Wort",
+    "article_identity": "Wort",
+    "scope": "period lexical control, not primary-sense proof",
+    "source_path": "sources/raw/lexicon-v2/adelung-wort.html",
+    "source_sha256": "ae0019127914cc1595246e11549526738b63337d1e391215ffbc8af572f28e41",
+    "text_path": "sources/terminology/v2/lexicon/adelung-wort.txt",
+    "text_sha256": "d18b67b763b5bd9298fdd175264abd208e59cff821be160d3fad1682be663cc6",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_6_2_2820",
+    "locator": "Adelung1811, Das Wort; §1 and§2",
+    "statement": "The entry distinguishes isolated lexical items, plural Wörter, from words in connected speech, plural Worte; it discusses borderline examples explicitly.",
+    "caution": "A lexical control to test locally, not an automatic morphological rule governing every Humboldt token.",
+    "quote": "",
+    "verification": "digital-entry reading by coordinator; not scan-collated",
+    "applicable": true,
+    "headwords": [
+      "Wort"
+    ]
+  },
+  {
+    "id": "lex1811:Satz",
+    "headword": "Satz",
+    "article_identity": "Satz",
+    "scope": "period lexical control, not primary-sense proof",
+    "source_path": "sources/raw/lexicon-v2/adelung-satz.html",
+    "source_sha256": "dbf799c064618846ca9a802a8aaa77928f43cd1e53e53143988c1b0ba379f559",
+    "text_path": "sources/terminology/v2/lexicon/adelung-satz.txt",
+    "text_sha256": "aad5d80e63d01c010894aad46096b2367ffd1742d2d3b6a67ff4f696044fc414",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009133_7_0_457",
+    "locator": "Adelung1811, Der Satz; §2(2)(a), logical use",
+    "statement": "The logical sense is a verbally expressed judgement, with subject/predicate articulation; other senses include musical composition and physical setting.",
+    "caution": "Supports proposition as a local candidate; does not settle Humboldt’s Satz/Periode contrast alone.",
+    "quote": "",
+    "verification": "digital-entry reading by coordinator; not scan-collated",
+    "applicable": true,
+    "headwords": [
+      "Satz"
+    ]
+  },
+  {
+    "id": "lex1811:Periode",
+    "headword": "Periode",
+    "article_identity": "Periode",
+    "scope": "period lexical control, not primary-sense proof",
+    "source_path": "sources/raw/lexicon-v2/adelung-periode.html",
+    "source_sha256": "e726ca29bd958e90c518844206216427659953ed95393c30e2ffca6a48141940",
+    "text_path": "sources/terminology/v2/lexicon/adelung-periode.txt",
+    "text_sha256": "43078f9e5d3c8bbd4cf1095abe18aa61663090021bd7625f47a77ef99cfe16c7",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009133_4_0_440",
+    "locator": "Adelung1811, Die Periode; §1 rhetoric",
+    "statement": "A connected rhetorical whole of main and subordinate clauses, closed with a full stop; a temporal sense is separately listed.",
+    "caution": "A rhetorical period is not simply a modern independent clause. Retain the primary passage’s additional unity criterion.",
+    "quote": "",
+    "verification": "digital-entry reading by coordinator; not scan-collated",
+    "applicable": true,
+    "headwords": [
+      "Periode"
+    ]
+  },
+  {
+    "id": "lex1811:Grammatik",
+    "headword": "Grammatik",
+    "article_identity": "Grammatik",
+    "scope": "period lexical control, not primary-sense proof",
+    "source_path": "sources/raw/lexicon-v2/adelung-grammatik.html",
+    "source_sha256": "8ad3eae91dc5858c22b4d9e06e80807a99d31e612a9b188407c8e6488b3a25b2",
+    "text_path": "sources/terminology/v2/lexicon/adelung-grammatik.txt",
+    "text_sha256": "3d96687a265d58810334dd793ae4dd577fe4c9c3c1a81c6e44ca6d4dc3b9cffa",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009132_2_2_2858",
+    "locator": "Adelung1811, Die Grammatik; headword and derivations",
+    "statement": "Art of speaking and writing a language correctly, also a book teaching it; grammatical adjectives and practitioner labels follow.",
+    "caution": "Historical range includes a discipline/book sense; Humboldt’s inward/linguistically marked grammar is locally stipulated.",
+    "quote": "",
+    "verification": "digital-entry reading by coordinator; not scan-collated",
+    "applicable": true,
+    "headwords": [
+      "Grammatik"
+    ]
+  },
+  {
+    "id": "lex1811:Sprache",
+    "headword": "Sprache",
+    "article_identity": "Sprache",
+    "scope": "period lexical control, not primary-sense proof",
+    "source_path": "sources/raw/lexicon-v2/adelung-sprache.html",
+    "source_sha256": "2263f0f5c9733de5a08beba57f4844e24f16da3d057a36b1b76381efd171de50",
+    "text_path": "sources/terminology/v2/lexicon/adelung-sprache.txt",
+    "text_sha256": "246e10fcf74ed48ae789d651d2ad4661f575d73332eeb13c4194fbe13d60057f",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_2_1_1744",
+    "locator": "Adelung1811, Die Sprache; abstract§1 and concrete§2",
+    "statement": "Separates speaking capacity and manner of expression from a shared language as an inventory/custom of words and expressions; broader and figurative uses are also listed.",
+    "caution": "Not every Sprache is one national code; historical dictionary sign/transmission definitions do not override Humboldt’s formative argument.",
+    "quote": "",
+    "verification": "digital-entry reading by coordinator; not scan-collated",
+    "applicable": true,
+    "headwords": [
+      "Sprache"
+    ]
+  },
+  {
+    "id": "lex1811:Thätigkeit",
+    "headword": "Thätigkeit",
+    "article_identity": "Thätigkeit",
+    "scope": "period lexical control, not primary-sense proof",
+    "source_path": "sources/raw/lexicon-v2/adelung-thätigkeit.html",
+    "source_sha256": "b43b9a2af7518a98df54d9eb288030ff042281c4eb77715b9992162ddb30e18d",
+    "text_path": "sources/terminology/v2/lexicon/adelung-thätigkeit.txt",
+    "text_sha256": "609fe260fbbdf1e6b8227ffa84d6fbd651e6e4a338a385ae5c19155191ad634f",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_3_0_442",
+    "locator": "Adelung1811, Die Thätigkeit; headword definition",
+    "statement": "State/property of being active and striving to act or produce effects.",
+    "caution": "Supports activity; it does not imply conscious deliberation or the later Energeia formula at every occurrence.",
+    "quote": "",
+    "verification": "digital-entry reading by coordinator; not scan-collated",
+    "applicable": true,
+    "headwords": [
+      "Thätigkeit"
+    ]
+  },
+  {
+    "id": "lex1811:Wirkung",
+    "headword": "Wirkung",
+    "article_identity": "Wirkung",
+    "scope": "period lexical control, not primary-sense proof",
+    "source_path": "sources/raw/lexicon-v2/adelung-wirkung.html",
+    "source_sha256": "df498b1d7042748eab5cba7486f82b4606fc351585dcc080751696364be25a64",
+    "text_path": "sources/terminology/v2/lexicon/adelung-wirkung.txt",
+    "text_sha256": "54d539b5e96c68e9663a5c84ddd632b5e71b1137e69a7aeaebe584ba29eb8eac",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_6_2_2527",
+    "locator": "Adelung1811, Die Wirkung; headword definition",
+    "statement": "A produced change considered as grounded in another thing, with effects on persons and art examples.",
+    "caution": "Keep effect and activity distinct where the source does; not all modern causal assumptions are licensed.",
+    "quote": "",
+    "verification": "digital-entry reading by coordinator; not scan-collated",
+    "applicable": true,
+    "headwords": [
+      "Wirkung"
+    ]
+  },
+  {
+    "id": "lex1811:Vermögen:1",
+    "headword": "Vermögen",
+    "article_identity": "Vermögen:1",
+    "scope": "period lexical control, not primary-sense proof",
+    "source_path": "sources/raw/lexicon-v2/adelung-vermögen-1.html",
+    "source_sha256": "772a00d2dad731dd78278da7068fc1615a8930b1204696e7344d4294d2e30ab2",
+    "text_path": "sources/terminology/v2/lexicon/adelung-vermögen-1.txt",
+    "text_sha256": "83da66cad71d965beeef1d6bccc8afee18bd23e49fb655e28d776beb442d4ab7",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_5_0_609",
+    "locator": "Adelung1811, Vermögen; verb, senses1–3",
+    "statement": "Ability to bring about something and verbal can/be able uses are distinguished from possessions and bringing someone to act.",
+    "caution": "This verb control is kept separate from the nominal faculty entry.",
+    "quote": "",
+    "verification": "digital-entry reading by coordinator; not scan-collated",
+    "applicable": false,
+    "headwords": [
+      "Vermögen"
+    ]
+  },
+  {
+    "id": "lex1811:Vermögen:2",
+    "headword": "Vermögen",
+    "article_identity": "Vermögen:2",
+    "scope": "period lexical control, not primary-sense proof",
+    "source_path": "sources/raw/lexicon-v2/adelung-vermögen-2.html",
+    "source_sha256": "27f0152e943036b661e01fa83adba20af6a1dfe746634d87f861399ac6438c88",
+    "text_path": "sources/terminology/v2/lexicon/adelung-vermögen-2.txt",
+    "text_sha256": "02a67992da3f411f2f206d0abdb7573cde49b836de34935182efd16eb2f08a92",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_5_0_610",
+    "locator": "Adelung1811, Das Vermögen; noun,§1",
+    "statement": "Capacity/possibility to produce change; Kraft is described as exertion of capacity or capacity considered in activity. The entry separately treats wealth.",
+    "caution": "Use capacity/faculty for the relevant noun. This distinction is a period possibility, not a proven strict Humboldt terminology.",
+    "quote": "",
+    "verification": "digital-entry reading by coordinator; not scan-collated",
+    "applicable": true,
+    "headwords": [
+      "Vermögen"
+    ]
+  },
+  {
+    "id": "lex1811:Willkühr",
+    "headword": "Willkühr",
+    "article_identity": "Willkühr",
+    "scope": "period lexical control, not primary-sense proof",
+    "source_path": "sources/raw/lexicon-v2/adelung-willkühr.html",
+    "source_sha256": "15a5f58c2bb0e445773f9bf0f88b00feadc8bb979a4031f7861727c1e123f47a",
+    "text_path": "sources/terminology/v2/lexicon/adelung-willkühr.txt",
+    "text_sha256": "dd4965865de148df7bd741170cab79d4e4a779ebe94b76431f6cda08f020fb26",
+    "url": "https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009134_6_2_2234",
+    "locator": "Adelung1811, Die Willkühr; senses1–2",
+    "statement": "Capacity to act by one’s own pleasure, with a narrower less clearly represented choice and an older free-choice sense.",
+    "caution": "Avoid automatically equating it with random change or treating every use as modern voluntarist doctrine.",
+    "quote": "",
+    "verification": "digital-entry reading by coordinator; not scan-collated",
+    "applicable": true,
+    "headwords": [
+      "Willkühr"
+    ]
+  },
+  {
+    "id": "control:manchester-c7-formality",
+    "headwords": [
+      "Formalität",
+      "grammatische Form",
+      "Bedeutung",
+      "Begriffsbezeichnung",
+      "Verhältnissbezeichnung",
+      "Nebenbegriff",
+      "Inflexion"
+    ],
+    "source_path": "sources/raw/references/manchester-1985/10.1075_sihols.32.c7.pdf",
+    "source_sha256": "523fec0305e367bb4800b861c56b14dad2a6dfb9cb3c093329c66ead89bf59a6",
+    "locator": "Manchester1985 chapter7, printed137–138,141; PDF14–15,18",
+    "statement": "Manchester reconstructs a tendency to reserve meaning for conceptual content while acknowledging relational grammatical significance; pure formality marks a relation without additional substantive content. He distinguishes this reconstruction from communicative adequacy and ideological superiority.",
+    "caution": "Targeted reading of these three pages, not a newly completed chapter. His systematic restriction is an interpretation; primary occurrences retain their own wording and local criteria.",
+    "quote": "",
+    "verification": "coordinator targeted PDF-text reading; paraphrase",
+    "scope": "secondary interpretation, not a definition imposed on every primary occurrence"
+  }
+]

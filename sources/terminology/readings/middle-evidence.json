@@ -1,0 +1,378 @@
+[
+  {
+    "id": "MIDDLE-01",
+    "printed_page": 400,
+    "pdf_page": 410,
+    "section": "56",
+    "terms": [
+      "Lautsystem",
+      "articulirter Laut",
+      "Alphabet"
+    ],
+    "quote": "der ganze Begriff der Sprache in dem des articulirten Lautes liegt, und dass die Art, wie jede Sprache diesen Begriif auffasst, sich in ihrem Alphabet, als dem System ihrer articulirten Laute darstellt.",
+    "meaning": "The sound system realizes a language's particular apprehension of articulated sound and bears on its intellectual character as well as audibility.",
+    "implication": "Alphabet here names the system of articulated speech sounds; do not assume a written inventory.",
+    "verification": "OCR-only",
+    "issue": "OCR reads Begriif in the second occurrence; retained. Attribution is Humboldt's claim, not an independently established causal result."
+  },
+  {
+    "id": "MIDDLE-02",
+    "printed_page": 401,
+    "pdf_page": 411,
+    "section": "58",
+    "terms": [
+      "Buchstabe",
+      "Sprachwerkzeuge",
+      "Continuum"
+    ],
+    "quote": "Die Buchstaben liegen nicht gleichsam bestimmt geschieden in den Sprachwerk- zeugen. Man muss sich vielmehr die Bewegung derselben, welche einer bestimmten Gattung das Daseyn giebt, als ein Continuum denken",
+    "meaning": "Speech organs allow a continuum of positions; nationally formed habit selects definite sound positions.",
+    "implication": "Buchstaben here are sound elements, not marks on a page. Preserve the continuum/habit distinction.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "MIDDLE-03",
+    "printed_page": 402,
+    "pdf_page": 412,
+    "section": "61",
+    "terms": [
+      "Inflexion",
+      "Buchstabe",
+      "Form",
+      "Stoff"
+    ],
+    "quote": "Es wird aber durch sie der doppelte Vor- zug gewonnen, der Idee nur gerade soviel Körper zu geben, als sie bedarf, und durch den in sich selbst ganz bedeutungslosen Buchstaben, jeden irre leitenden Nebenbegriff zu vermeiden.",
+    "meaning": "Inflection permits conceptual distinctions through changes in intrinsically meaningless sound elements, avoiding an associated material concept.",
+    "implication": "Translate local Stoff/Form in relation to extraneous conceptual material versus formal indication; do not identify meaningful inflection with a meaningless word.",
+    "verification": "OCR-only",
+    "issue": "Line-end hyphenation Vor- zug is retained from OCR."
+  },
+  {
+    "id": "MIDDLE-04",
+    "printed_page": 403,
+    "pdf_page": 413,
+    "section": "62.b",
+    "terms": [
+      "Wortbildung",
+      "Lautsystem",
+      "Bau",
+      "Buchstabe"
+    ],
+    "quote": "Auch die Wortbildung unterliegt Regeln des Lautsystems, da in vielen Sprachen die Wörter mit gewissen Buchstaben nicht anfangen oder enden, und auch ihr innerer Bau durch Sprachgesetze, namentlich in der Verwandlung zusammenstossender Consonanten, bestimmt wird.",
+    "meaning": "Word formation and internal word structure are constrained by permitted sound positions and consonant combinations.",
+    "implication": "Bau may denote internal structure of a word; Buchstabe remains a speech element in this sentence.",
+    "verification": "image-checked",
+    "issue": "Image-derived quotation replaces badly interleaved OCR and rejoins the printed line division an- / fangen. Section is visibly 62.b, not OCR 62>^."
+  },
+  {
+    "id": "MIDDLE-05",
+    "printed_page": 405,
+    "pdf_page": 415,
+    "section": "64",
+    "terms": [
+      "Lautverwandlung",
+      "Wort",
+      "Verstand",
+      "Gliederung"
+    ],
+    "quote": "Beschränkt sich hingegen diese Lautverwandlung auf die Gränzen des Wortes, so wird sie zu einem phonetischen Mittel, die Rede in rein geschiedene Ganze zu zertheilen, und prägt dem Verstände auch sinnlich ein, dass das Element der Rede das Wort ist.",
+    "meaning": "Sound alteration within word boundaries can make the word perceptible as a unit of discourse; alteration across independent words may conflict with intellectual grouping.",
+    "implication": "Keep auditory wholes and wholes for understanding separate; do not translate all Gliederung as syntactic structure.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "MIDDLE-06",
+    "printed_page": 407,
+    "pdf_page": 417,
+    "section": "66",
+    "terms": [
+      "Accent",
+      "Gedanke",
+      "Wohllaut",
+      "Intonation"
+    ],
+    "quote": "Er folgt hierin unmittelbar der Richtung des Gedanken, und dient, den FIuss der Rede dem Fluss der Gedanken ähnlich zu machen, aber er wird bedingt durch die Gesetze der Aussprache, und fügt sich, jedoch mehr oder weniger, denen des Wohllauts.",
+    "meaning": "Accent follows thought while pronunciation and euphony constrain it. The following contrast treats Chinese intonations as increasing sound varieties rather than as this organizing accent.",
+    "implication": "Distinguish accent organizing units and prominence from local intonation/tone distinctions; Ton alone cannot always mean musical tone.",
+    "verification": "OCR-only",
+    "issue": "Meaning includes the immediately following paragraph on Chinese intonation, not just the quoted sentence."
+  },
+  {
+    "id": "MIDDLE-07",
+    "printed_page": 410,
+    "pdf_page": 420,
+    "section": "71",
+    "terms": [
+      "Buchstabenschrift",
+      "Ton",
+      "Schall",
+      "Zeichen"
+    ],
+    "quote": "Obgleich der articulirte Ton durch dieselbe niemals dem Gebiete des immer vergehenden Schalles entzogen wird, und nichts, als ein an diesen Schall erinnerndes Zeichen erhält,",
+    "meaning": "Alphabetic writing supplies a reminder-sign for fleeting sound; it does not make the sounding event permanent.",
+    "implication": "Use alphabetic writing for Buchstabenschrift; retain the difference between transient sound and enduring written reminder.",
+    "verification": "image-checked",
+    "issue": "Image corrects recovered OCR Odgleich to Obgleich. Quotation is a contiguous opening clause; print line-end divisions are rejoined. The continuation describes effects on Verstand and Einbildungskraft."
+  },
+  {
+    "id": "MIDDLE-08",
+    "printed_page": 410,
+    "pdf_page": 420,
+    "section": "72",
+    "terms": [
+      "Wort",
+      "Laut",
+      "Begriff",
+      "Individuum"
+    ],
+    "quote": "Ein Wort ist ein Laut, der einen Begriff bezeichnet. Es liegt also in dem Wort allemal Einheit des Lauts, die bei verbundenen durch den Accent bewirkt wird, und Einheit des Begriffs. Das einfache Wort ist das wahre Individuum in der Sprache.",
+    "meaning": "A word combines sound-unity with conceptual unity; the simple word is the linguistic individual. The continuation makes syllable and letter elements rather than complete language.",
+    "implication": "Retain unity on both sides; do not reduce word to a sound sequence, written token, or preexisting concept-label.",
+    "verification": "image-checked",
+    "issue": "Image corrects recovered OCR Begriii' to Begriff, Ks to Es, and Begritls to Begriffs. Printed line-end divisions are rejoined. This does not certify all of p410."
+  },
+  {
+    "id": "MIDDLE-09",
+    "printed_page": 412,
+    "pdf_page": 422,
+    "section": "74",
+    "terms": [
+      "Stammwort",
+      "Wurzel",
+      "Ursprung"
+    ],
+    "quote": "Denn in unsrer Sprachuntersuchung, in der wir nie bis auf den Anfang zurückzugehen vermögen, ist der Begriff des Stammworts selbst nur ein Verhältnissbegriff, und jede unsrer Sprachen kann mit vielen mehrsylbigen Wörtern, neben einsylbigen, begonnen haben.",
+    "meaning": "A stem/base word is a relative analytic concept because investigation cannot reach language's absolute beginning; observed languages may have begun with multisyllabic as well as monosyllabic words.",
+    "implication": "Distinguish Stammwort from an ultimate historical root. Do not make monosyllabic origins a demonstrated universal.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "MIDDLE-10",
+    "printed_page": 415,
+    "pdf_page": 425,
+    "section": "80",
+    "terms": [
+      "Analogie",
+      "Ton",
+      "Gleichartigkeit",
+      "Denkgesetze"
+    ],
+    "quote": "Denn sie beruht nicht, wie diese auf allgemeinen Denkgesetzen, sondern heftet sich unmittelbar an den Ton. Je individueller aber eine Gleichartigkeit ist, desto sichrer weist sie auf einen geschichtlichen Zusammenhang hin.",
+    "meaning": "Individual lexical analogies tied to sound may indicate historical connection more securely than grammatical similarity grounded in general laws of thought.",
+    "implication": "Analogie here means patterned lexical formation, not simply similarity or reasoning by analogy. Historical inference requires the internal pattern and its productive presence.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "MIDDLE-11",
+    "printed_page": 418,
+    "pdf_page": 428,
+    "section": "85",
+    "terms": [
+      "Wort",
+      "Form",
+      "Denken",
+      "Individualität"
+    ],
+    "quote": "als Bestandtheil der Sprache, als Object der Sprachuntersuchung, nur eine allgemeine, auf verschiedene, jedoch durch seine Natur beschränkte Weise individualisirbare Form ist.",
+    "meaning": "The word as an object of linguistic study is an abstract general form with a limited range of possible individual realizations; full individuality belongs to actual thinking.",
+    "implication": "Keep abstract lexical form distinct from an individual thought or utterance; do not make Form mean external shape alone.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "MIDDLE-12",
+    "printed_page": 420,
+    "pdf_page": 430,
+    "section": "89",
+    "terms": [
+      "Einbildungskraft",
+      "Stoff",
+      "Form",
+      "Sinnengehalt",
+      "Gefühlsgehalt"
+    ],
+    "quote": "indem dieser Sinnen- und Gefühlsgehalt zugleich, und wieder synthetisch, als Stoff vernichtet und als Form erhalten wird, was das Werk der Einbildungskraft ist, der Vermittlerin der entgegengesetzten Naturen in der Menschheit.",
+    "meaning": "Imagination mediates sensory and intellectual contributions, preserving sensory/affective content as form while negating it as material.",
+    "implication": "Preserve the qualified philosophical relation als Stoff / als Form. Einbildungskraft is a synthesizing faculty, not a synonym for fanciful invention.",
+    "verification": "image-checked",
+    "issue": "Image confirms section89, missing in OCR, and the quoted wording. Printed line-end divisions are rejoined. Image also reads final zusammenfasst, where OCR has zusammenfasse; that correction is outside this quotation."
+  },
+  {
+    "id": "MIDDLE-13",
+    "printed_page": 421,
+    "pdf_page": 431,
+    "section": "90",
+    "terms": [
+      "Objective",
+      "Subjective",
+      "Materie",
+      "Form",
+      "Vermögen"
+    ],
+    "quote": "die Gegenstände äusserer und innerer Wahrnehmung vor die Seele bringt, kann man das Objective in demselben, seine Materie, die Art aber, wie die Vermögen der Seele, nach jenen Richtungen, zu einander in Verhältniss treten, und sich zur Ein- heit des Zusammenwirkens verschmelzen, das Subjective in dem- selben, seine Form nennen.",
+    "meaning": "The objective/material side is how the word presents objects along logical, sensory, and affective directions; the subjective/formal side is the relation and cooperation of the soul's faculties.",
+    "implication": "Define Form and Materie by their explicit local bearers; this is not the same distinction as a word's sound versus its meaning.",
+    "verification": "OCR-only",
+    "issue": "OCR section marker is go.; assigned90 by sequence and running header. Line-end hyphenation is retained."
+  },
+  {
+    "id": "MIDDLE-14",
+    "printed_page": 425,
+    "pdf_page": 435,
+    "section": "97",
+    "terms": [
+      "Vieldeutigkeit",
+      "Bedeutung",
+      "Umfang"
+    ],
+    "quote": "Mit der Vieldeutigkeit der Wörter darf man jedoch nicht den vielumfassenden Umfang ihrer Bedeutung verwechseln. Bei ihm bleibt diese doch einfach,",
+    "meaning": "Several meanings are distinguished from the extensive scope of a single meaning. The surrounding paragraph warns that dictionaries confuse contextual specifications, periods, and genres with separate senses.",
+    "implication": "Do not render semantic breadth as ambiguity or polysemy. Preserve the distinction between lexical meaning and a contextually sharpened reading.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "MIDDLE-15",
+    "printed_page": 426,
+    "pdf_page": 436,
+    "section": "98",
+    "terms": [
+      "Bezeichnung",
+      "Auffassung",
+      "Begriff",
+      "Hörender",
+      "Sprechender"
+    ],
+    "quote": "Ursprünglich liegt diese Bezeichnung (die eigentlich nur in Be- ziehung auf den Hörenden eine solche, von Seiten des Sprechenden aber eine Auffassung ist)",
+    "meaning": "In this part of the inquiry designation is a conceptual/sensory way of apprehending an object, not merely the sound chosen. The same operation is designation for the hearer and apprehension for the speaker.",
+    "implication": "Mark the local change of scope in Bezeichnung. Do not force a uniform equivalence to sign, naming, or denotation.",
+    "verification": "OCR-only",
+    "issue": "Line-end hyphenation Be- ziehung is retained from OCR."
+  },
+  {
+    "id": "MIDDLE-16",
+    "printed_page": 428,
+    "pdf_page": 438,
+    "section": "101",
+    "terms": [
+      "Wort",
+      "Zeichen",
+      "Begriff",
+      "Bezeichnete"
+    ],
+    "quote": "dass das Bezeichnete ein von seinem Zeichen unabhängiges Daseyn hat, der Begriff aber erst selbst seine Vollendung durch das Wort erhält, und beide nicht von einander getrennt werden können.",
+    "meaning": "A sign's designated entity can exist independently of it; a concept receives its completion through the word. This grounds the rejection of reducing words to signs.",
+    "implication": "Preserve the distinction between word and sign without denying that words serve a sign's purpose. Do not turn Bezeichnung throughout the chapter into a merely referential relation.",
+    "verification": "image-checked",
+    "issue": "Image confirms active main text. Printed line-end divisions are rejoined. The page also contains deleted variants in editorial notes; those are not part of this quotation or the active argument."
+  },
+  {
+    "id": "MIDDLE-17",
+    "printed_page": 434,
+    "pdf_page": 444,
+    "section": "109",
+    "terms": [
+      "Entwicklung",
+      "Töne",
+      "Begriffe",
+      "Gränze"
+    ],
+    "quote": "Es ist ein Schaffen von Tönen und ein Schaffen von Begriffen, durch welches die Sprache in sich selbst wächst, das letztere geht ins Unendliche, allein das erstere hat, wie alle Erfahrung zeigt, eine Gränze.",
+    "meaning": "Language grows through both creating sound forms and creating concepts, but Humboldt gives them different trajectories: conceptual growth is unbounded while internally generated sound wealth reaches a limit.",
+    "implication": "Distinguish historical sound development, conceptual development, and organic growth metaphors; do not make them one uniform evolutionary process.",
+    "verification": "OCR-only",
+    "issue": "The surrounding explanation marks a lack of historical evidence about the dividing point; preserve its qualification."
+  },
+  {
+    "id": "MIDDLE-18",
+    "printed_page": 436,
+    "pdf_page": 446,
+    "section": "113",
+    "terms": [
+      "Gedankenstoff",
+      "Sprachstoff",
+      "Bezeichnung",
+      "Begriff"
+    ],
+    "quote": "Von den reinen Begriffen verstanden, ist dies unmöglich, da der Gedankenstotf sich nicht rein von dem Sprachstoff scheiden lässt, vielmehr die Bezeichnung erst das Ent- stehen des zu Bezeichnenden vor dem Geiste vollendet.",
+    "meaning": "A perfectly independent inventory of pure concepts cannot be directly compared with words because designation participates in completing the designated concept.",
+    "implication": "Keep this strict methodological limitation alongside the practical cross-language/category comparison proposed on p437; do not infer that comparison is impossible.",
+    "verification": "OCR-only",
+    "issue": "OCR line-end divisions in the quoted passage are retained; no conceptual or lexical repair was made."
+  },
+  {
+    "id": "MIDDLE-19",
+    "printed_page": 439,
+    "pdf_page": 449,
+    "section": "117",
+    "terms": [
+      "Form",
+      "Materie",
+      "Denken",
+      "logisch",
+      "dialektisch"
+    ],
+    "quote": "Man kann diese Wörter allgemein logische oder dialektische nennen, und ihre Eigenthümlichkeit besteht darin, dass sie, subjectiv betrachtet, durch innere Handlung Hervorgebrachtes bezeichnen, objectiv be- trachtet aber nicht Gegenstände, noch Eigenschaften von Gegen- ständen, sondern nur Beziehungen und Verhältnisse der Begriffe und Dinge auf einander, und zu dem Verstände, durch den sie gedacht werden.",
+    "meaning": "Words concerning the form/activity of thinking designate relations among concepts and things and their relation to the understanding, rather than objects or properties alone.",
+    "implication": "Form here concerns operations of thought. Logische/dialektische Wörter must not be silently equated with a modern part-of-speech list.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "MIDDLE-20",
+    "printed_page": 441,
+    "pdf_page": 451,
+    "section": "121",
+    "terms": [
+      "Wurzelwort",
+      "Stammwort",
+      "grammatisch",
+      "lexicalisch"
+    ],
+    "quote": "Sie haben nemhch offenbar eine doppehe, eine grammatische und lexicalische Geltung. Sie können in der verbundenen Rede gar nicht, oder nur unter ge- wissen Bedingungen, ohne grammatische Veränderung, erscheinen, und sie dienen als Stammwörter zur Ableitung und Zusammen- setzung.",
+    "meaning": "Root words have distinct grammatical and lexical roles: restricted appearance in connected discourse, and a base for derivation or composition.",
+    "implication": "Keep Wurzelwort and Stammwort distinct while preserving this locally stated relation. Do not infer that every word must be reducible to an accepted root.",
+    "verification": "OCR-only",
+    "issue": "OCR nemhch and doppehe are retained. The following sentences criticize forced root derivations; quoted division Zusammen- setzung retained."
+  },
+  {
+    "id": "MIDDLE-21",
+    "printed_page": 441,
+    "pdf_page": 451,
+    "section": "122",
+    "terms": [
+      "Grammatik",
+      "Wortvorrath",
+      "Ableitung",
+      "Zusammensetzung"
+    ],
+    "quote": "aber sie gehören offenbar zu der Bildung des Wortvorraths, nicht zu der Verbindung der Rede.",
+    "meaning": "Rule-governed formation of word families belongs to building vocabulary, even when grammars conventionally describe it.",
+    "implication": "Separate word formation from combining words in discourse; grammar as a handbook division is not automatically the theoretical bearer of every rule.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "MIDDLE-22",
+    "printed_page": 444,
+    "pdf_page": 454,
+    "section": "126",
+    "terms": [
+      "Seele",
+      "Geist",
+      "Herz",
+      "Gemüth",
+      "Auffassung",
+      "Sinn"
+    ],
+    "quote": "Seele, Geist, Herz, Gemüth u. s. f. nach und nach durch die blosse Auffassung ein sehr verschiedener Sinn unter.",
+    "meaning": "Words for noncorporeal matters can acquire substantially different senses through changing apprehension despite apparently stable sound and overall meaning.",
+    "implication": "Do not fix one timeless equivalent of Geist, Seele, or Gemüth from a word list. Track local sense and subjective intellectual/affective orientation.",
+    "verification": "OCR-only",
+    "issue": ""
+  }
+]

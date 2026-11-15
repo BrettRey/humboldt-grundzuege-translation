@@ -1,0 +1,100 @@
+{
+  "status": "One §1 comparison/audit/revision cycle complete; human English review pending.",
+  "authorization": "D002: Brett, looks good. Carry on.",
+  "source_policy": "D001: retain the printed opening provisionally; cancellation report unverified against manuscript.",
+  "candidates_frozen_before_old_english_revealed": true,
+  "candidate_freeze": {
+    "path": "translations/opening-001/candidates.json",
+    "sha256": "5756037ac1784b7ab235e74ccb74c9eec02fd886bab492e49d253405e743b71b",
+    "three_distinct_runtime_models": [
+      "claude-fable-5-2",
+      "muse-wonder-full-1.0",
+      "gpt-6.1-sol"
+    ],
+    "prompt_hashes": [
+      "d2f6923db2f49eb1c92e92f5f18323394bd1492fb57a10ef592de630f187f7fe",
+      "d2f6923db2f49eb1c92e92f5f18323394bd1492fb57a10ef592de630f187f7fe",
+      "d2f6923db2f49eb1c92e92f5f18323394bd1492fb57a10ef592de630f187f7fe"
+    ],
+    "all_candidates_saved_before_old_english_revealed": true,
+    "old_english_revealed_at": "2026-11-15T11:18:15.757064+00:00"
+  },
+  "workers": [
+    {
+      "label": "candidate-claude",
+      "model": "claude-fable-5-2",
+      "exit_code": 0,
+      "elapsed_seconds": 79.4,
+      "prompt_sha256": "d2f6923db2f49eb1c92e92f5f18323394bd1492fb57a10ef592de630f187f7fe",
+      "receipt": "tmp/opening-001-cycle/candidate-claude-receipt.json"
+    },
+    {
+      "label": "candidate-muse",
+      "model": "muse-wonder-full-1.0",
+      "exit_code": 0,
+      "elapsed_seconds": 24.5,
+      "prompt_sha256": "d2f6923db2f49eb1c92e92f5f18323394bd1492fb57a10ef592de630f187f7fe",
+      "receipt": "tmp/opening-001-cycle/candidate-muse-receipt.json"
+    },
+    {
+      "label": "candidate-codex",
+      "model": "gpt-6.1-sol",
+      "exit_code": 0,
+      "elapsed_seconds": 42.9,
+      "prompt_sha256": "d2f6923db2f49eb1c92e92f5f18323394bd1492fb57a10ef592de630f187f7fe",
+      "receipt": "tmp/opening-001-cycle/candidate-codex-receipt.json"
+    },
+    {
+      "label": "audit-claude",
+      "model": "claude-fable-5-2",
+      "exit_code": 0,
+      "elapsed_seconds": 127.4,
+      "prompt_sha256": "94cc8579957a1d37530d56ecc1cae8b201b319323fc1cb1307e6e90241903f7d",
+      "receipt": "tmp/opening-001-cycle/audit-claude-receipt.json"
+    },
+    {
+      "label": "audit-muse",
+      "model": "muse-wonder-full-1.0",
+      "exit_code": 0,
+      "elapsed_seconds": 167.3,
+      "prompt_sha256": "e72b028df4eadfb78777d8c88271d87c0a776d0244ac637842cf033d53e3e1e6",
+      "receipt": "tmp/opening-001-cycle/audit-muse-receipt.json"
+    }
+  ],
+  "input_sha256": {
+    "translations/opening-001/packet.md": "be6af65e898c4cb17b006aec4fc6a8f547c302ed1e2f0d6875665e77812a2fcb",
+    "translations/opening-001/candidates.json": "5756037ac1784b7ab235e74ccb74c9eec02fd886bab492e49d253405e743b71b",
+    "translations/opening-001/revised.json": "510782ce9ada63b3d31442618881d6a90b25ab2385f5b4b9ebbacdb40743bda2",
+    "translations/opening-001/audits.json": "30798ee4c8cb1b9d49a7e41e6a5e14e2a28aac7459e5dc3caa49d0f0f9b96f9f",
+    "translations/opening-001/alignments.json": "a013f980bb4a695a6a3217a999c8a0d4f21a3c7cc8a717f3d1d40b0531d6c6b7",
+    "translations/opening-001/decisions.json": "c12e877cc1a8421d952cf81a60cb161a5b5f9dbdff1951cb9db3caa109682a0d"
+  },
+  "coverage": {
+    "source_sentences": 7,
+    "proposed_source_anchors": 20,
+    "audit_findings": 12,
+    "findings_with_dispositions": 12
+  },
+  "limits": [
+    "Model judgments from a common checked transcription/context packet, not qualified human source-language validation.",
+    "Final revision checked by coordinator; no further model cycle.",
+    "No successful historical-dictionary entry consultation or new manuscript evidence.",
+    "No later paragraph, publication, purchase, external message, commit or push."
+  ],
+  "software_checks": {
+    "tests": 21,
+    "exit_code": 0,
+    "integrity": "ok",
+    "foreign_key_errors": [],
+    "database": "tmp/opening-001-cycle.sqlite",
+    "counts": {
+      "text_version": 7,
+      "analysis": 10,
+      "unit": 1901,
+      "evidence": 17,
+      "decision": 7,
+      "alignment": 57
+    },
+    "verification_record": "tmp/opening-001-cycle/verification.json"
+  }
+}

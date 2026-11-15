@@ -1,0 +1,298 @@
+[
+  {
+    "id": "PRIMARY-A01",
+    "source_path": "sources/raw/references/humboldt-gs-04.pdf",
+    "printed_page": 1,
+    "pdf_page": 11,
+    "work_layer": "Comparative-language essay: main text; dates from editorial apparatus",
+    "date_status": "Lecture 29 June 1820 and first print 1822, supported by supplied GS IV p.1 editorial footnotes; no image check.",
+    "terms": [
+      "Eigenthümlichkeit",
+      "Elemente",
+      "Wirkung",
+      "Organismus"
+    ],
+    "quote": "die\nWirkung der Sprachen nicht sowohl von gewissen grossen und\nentschiednen Eigenthümlichkeiten abhängt, als auf dem gleich-\nmassigen, einzeln kaum bemerkbaren Eindruck der Beschaffenheit\nihrer Elemente beruht.",
+    "meaning": "The total effect rests on coordinated, individually minute properties of elements rather than conspicuous features alone.",
+    "implication": "Do not let a single repeated term or prominent grammatical feature substitute for the language's coordinated character.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "PRIMARY-A02",
+    "source_path": "sources/raw/references/humboldt-gs-04.pdf",
+    "printed_page": 2,
+    "pdf_page": 12,
+    "work_layer": "Comparative-language essay: main text; dates from editorial apparatus",
+    "date_status": "Lecture 29 June 1820 and first print 1822, supported by supplied GS IV p.1 editorial footnotes; no image check.",
+    "terms": [
+      "Bau",
+      "Gestalt",
+      "Ausbildung",
+      "Geist"
+    ],
+    "quote": "so giebt\nes auch in den Sprachen einen Punkt der vollendeten Organisation,\nvon dem an der organische Bau, die feste Gestalt sich nicht mehr\nabändert. Dagegen kann in ihnen, als lebendigen Erzeugnissen\ndes Geistes, die feinere Ausbildung, innerhalb der gegebenen\nGränzen, bis ins Unendliche fortschreiten.",
+    "meaning": "Completed organization fixes organic construction and shape, while finer development can continue indefinitely within the given bounds.",
+    "implication": "Preserve Bau/Gestalt versus feinere Ausbildung here, and the strong invariance claim; do not silently generalize it across all Humboldt texts.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "PRIMARY-A03",
+    "source_path": "sources/raw/references/humboldt-gs-04.pdf",
+    "printed_page": 3,
+    "pdf_page": 13,
+    "work_layer": "Comparative-language essay: main text; dates from editorial apparatus",
+    "date_status": "Lecture 29 June 1820 and first print 1822, supported by supplied GS IV p.1 editorial footnotes; no image check.",
+    "terms": [
+      "Kraft",
+      "Ganzes",
+      "Organisches"
+    ],
+    "quote": "theilt sie darin die\nNatur alles Organischen, dass Jedes in ihr nur durch das Andre,\nund Alles nur durch die eine, das Ganze durchdringende Kraft\nbesteht.",
+    "meaning": "Language's organic whole depends on reciprocal parts and one pervading power.",
+    "implication": "Keep power/activity distinct from the completed product; organic is Humboldt's explanatory analogy, not a present-day biological certification.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "PRIMARY-A04",
+    "source_path": "sources/raw/references/humboldt-gs-04.pdf",
+    "printed_page": 8,
+    "pdf_page": 18,
+    "work_layer": "Comparative-language essay: main text; dates from editorial apparatus",
+    "date_status": "Lecture 29 June 1820 and first print 1822, supported by supplied GS IV p.1 editorial footnotes; no image check.",
+    "terms": [
+      "Organismus",
+      "Vermögen",
+      "Cultur",
+      "Individuen"
+    ],
+    "quote": "Der Organismus der Sprachen entspringt aus dem allgemeinen\nVermögen und Bedürfniss des Menschen zu reden, und stammt\nvon der ganzen Nation her; die Cultur einer einzelnen hängt von\nbesondren Anlagen und Schicksalen ab, und beruht grossentheils\nauf nach und nach in der Nation aufstehenden Individuen.",
+    "meaning": "General human ability and national participation ground organization, while cultivation also depends on special aptitudes, history and emergent individuals.",
+    "implication": "Use organization/organism and cultivation/development as distinct bearers; Ausbildung is not simply schooling or morphological construction.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "PRIMARY-A05",
+    "source_path": "sources/raw/references/humboldt-gs-04.pdf",
+    "printed_page": 285,
+    "pdf_page": 295,
+    "work_layer": "Grammatical-forms essay: main text; dates from heading/editorial apparatus",
+    "date_status": "Lecture 17 January 1822 and first print 1825, supported by supplied GS IV p.285 heading/apparatus; source-label composition1821 not independently verified here.",
+    "terms": [
+      "Typus",
+      "Sprachformung",
+      "Nationaleigenthümlichkeit"
+    ],
+    "quote": "Nur muss man sich wohl hüten, einen allgemeinen Typus\nallmählich fortschreitender Sprachformung entwerfen, und alle\neinzelnen Erscheinungen nach diesem beurtheilen zu wollen.",
+    "meaning": "A general type of progressively developing language formation must not be imposed on all particular phenomena.",
+    "implication": "Distinguish a rejected uniform developmental scheme from the Grundzüge's conceptual general process type; retain the local modifier and argumentative polarity.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "PRIMARY-A06",
+    "source_path": "sources/raw/references/humboldt-gs-04.pdf",
+    "printed_page": 288,
+    "pdf_page": 298,
+    "work_layer": "Grammatical-forms essay: main text; dates from heading/editorial apparatus",
+    "date_status": "Lecture 17 January 1822 and first print 1825, supported by supplied GS IV p.285 heading/apparatus; source-label composition1821 not independently verified here.",
+    "terms": [
+      "Form",
+      "Erzeugniss",
+      "Einwirkung",
+      "Bezeichnung"
+    ],
+    "quote": "Der zwar feine,\naber doch sehr fühlbare Unterschied liegt in dem materiellen\nErzeugniss und der formalen Einwirkung.",
+    "meaning": "Expressible material result differs from the formal effect of grammatical expression on thinking.",
+    "implication": "Do not collapse successful expression into possession of true grammatical forms; retain Humboldt's evaluative distinction without endorsing its linguistic premises.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "PRIMARY-A07",
+    "source_path": "sources/raw/references/humboldt-gs-04.pdf",
+    "printed_page": 292,
+    "pdf_page": 302,
+    "work_layer": "Grammatical-forms essay: main text; dates from heading/editorial apparatus",
+    "date_status": "Lecture 17 January 1822 and first print 1825, supported by supplied GS IV p.285 heading/apparatus; source-label composition1821 not independently verified here.",
+    "terms": [
+      "Form",
+      "Modification",
+      "grammatische Wörter",
+      "Verhältniss"
+    ],
+    "quote": "so bleibt zu der-\n          selben nichts als Modification der Sachen bezeichnenden Wörter,\nund dies allein ist der wahre Begriff einer grammatischen Form.\nDazu stossen dann noch grammatische Wörter, das ist solche, die\nallgemein gar keinen Gegenstand, sondern bloss ein Verhältniss,\nund zwar ein grammatisches, bezeichnen.",
+    "meaning": "True grammatical form is restricted to modification of thing-designating words, supplemented by words expressing only grammatical relations.",
+    "implication": "Treat true/genuine grammatical form here as a stipulative restricted category, not every means of marking a grammatical relation.",
+    "verification": "OCR-only",
+    "issue": "OCR line-end hyphenation retained; the immediately preceding exclusions are word order with mentally supplied relation and designation of things."
+  },
+  {
+    "id": "PRIMARY-A08",
+    "source_path": "sources/raw/references/humboldt-gs-04.pdf",
+    "printed_page": 306,
+    "pdf_page": 316,
+    "work_layer": "Grammatical-forms essay: main text; dates from heading/editorial apparatus",
+    "date_status": "Lecture 17 January 1822 and first print 1825, supported by supplied GS IV p.285 heading/apparatus; source-label composition1821 not independently verified here.",
+    "terms": [
+      "Form",
+      "Einheit",
+      "Wort",
+      "Nebenlaute"
+    ],
+    "quote": "Das Wesen der Form besteht in ihrer Einheit, und der vor-\n                  waltenden Herrschaft des Worts, dem sie angehört, über die ihm\nbeigegebnen Nebenlaute.",
+    "meaning": "Unity and the dominance of the word over added subsidiary sounds define form in this passage.",
+    "implication": "Preserve the unity claim and its word-level bearer; surrounding discussion connects it with accent and thinking power, not sound erosion alone.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "PRIMARY-A09",
+    "source_path": "sources/raw/references/humboldt-gs-04.pdf",
+    "printed_page": 310,
+    "pdf_page": 320,
+    "work_layer": "Grammatical-forms essay: main text; dates from heading/editorial apparatus",
+    "date_status": "Lecture 17 January 1822 and first print 1825, supported by supplied GS IV p.285 heading/apparatus; source-label composition1821 not independently verified here.",
+    "terms": [
+      "Form",
+      "Classen",
+      "Mehr oder Weniger"
+    ],
+    "quote": "Dennoch ist jener Unterschied, der zwei\nClassen von Sprachen bestimmt von einander absondert, nicht\ngänzlich ein relativer, ein bloss im Mehr, oder Weniger be-\n                 stehender, sondern wirklich ein absoluter, da die vorhandne, oder\nfehlende Herrschaft der Form sich immer sichtbar verkündet.",
+    "meaning": "Humboldt calls the distinction between two classes absolute despite admitting degrees and incompleteness within classes.",
+    "implication": "Do not neutralize this text's ranked doctrine into a purely descriptive gradient or harmonize it away using a later source.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "PRIMARY-A10",
+    "source_path": "sources/raw/references/humboldt-gs-08.pdf",
+    "printed_page": 129,
+    "pdf_page": 139,
+    "work_layer": "Agamemnon introduction: main text; date from authorial closing",
+    "date_status": "Introduction dated Frankfurt am Main, 23 February 1816 in authorial closing on supplied GS VIII p.146; no image check.",
+    "terms": [
+      "Wort",
+      "Begriff",
+      "Denkkraft"
+    ],
+    "quote": "Ein Wort ist so wenig ein Zeichen eines Begriffs, dass ja der Be-\n      griff ohne dasselbe nicht entstehen, geschweige denn fest gehalten\nwerden kann; das unbestimmte Wirken der Denkkraft zieht sich",
+    "meaning": "The word is constitutive of the formation and retention of a concept, not merely its subsequent sign.",
+    "implication": "Keep word/concept/power of thought distinct, and read a word's individuality as an effect-bearing formation rather than a replaceable label.",
+    "verification": "OCR-only",
+    "issue": "Quotation stops at the beginning of the ensuing condensation metaphor; exact supplied OCR retained."
+  },
+  {
+    "id": "PRIMARY-A11",
+    "source_path": "sources/raw/references/humboldt-gs-08.pdf",
+    "printed_page": 130,
+    "pdf_page": 140,
+    "work_layer": "Agamemnon introduction: main text; date from authorial closing",
+    "date_status": "Introduction dated Frankfurt am Main, 23 February 1816 in authorial closing on supplied GS VIII p.146; no image check.",
+    "terms": [
+      "Treue",
+      "Eigenthümlichkeit",
+      "Uebersetzung"
+    ],
+    "quote": "Man kann sogar behaupten, dass\neine Uebersetzung um so abweichender wird, je mühsamer sie\nnach Treue strebt. Denn sie sucht alsdann auch feine Eigenthüm-\nlichkeiten nachzuahmen, vermeidet das bloss Allgemeine, und kann\ndoch immer nur jeder Eigenthümlichkeit eine verschiedne gegen-\n                    überstellen.",
+    "meaning": "A translation striving harder for faithfulness can become more divergent, since its counterpart for each fine particularity remains different.",
+    "implication": "Faithfulness is no promise of identity; record defensible differences rather than claiming equivalent words everywhere.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "PRIMARY-A12",
+    "source_path": "sources/raw/references/humboldt-gs-08.pdf",
+    "printed_page": 132,
+    "pdf_page": 142,
+    "work_layer": "Agamemnon introduction: main text; date from authorial closing",
+    "date_status": "Introduction dated Frankfurt am Main, 23 February 1816 in authorial closing on supplied GS VIII p.146; no image check.",
+    "terms": [
+      "Treue",
+      "Charakter",
+      "Zufälligkeiten"
+    ],
+    "quote": "Diese Treue muss ^) auf den wahren Charakter des Originals, nicht,\nmit Verlassung jenes, auf seine Zufälligkeiten gerichtet seyn,",
+    "meaning": "Faithfulness concerns the original's true character rather than incidental features at the cost of that character.",
+    "implication": "Judge terminology and sentence decisions against the argument's character, not an unqualified word-for-word rule.",
+    "verification": "OCR-only",
+    "issue": "Printed footnote markers and line breaks retained as supplied; this is main text, not the deleted variants in the apparatus."
+  },
+  {
+    "id": "PRIMARY-A13",
+    "source_path": "sources/raw/references/humboldt-gs-08.pdf",
+    "printed_page": 132,
+    "pdf_page": 142,
+    "work_layer": "Agamemnon introduction: main text; date from authorial closing",
+    "date_status": "Introduction dated Frankfurt am Main, 23 February 1816 in authorial closing on supplied GS VIII p.146; no image check.",
+    "terms": [
+      "Fremdheit",
+      "das Fremde"
+    ],
+    "quote": "Solange nicht die Fremdheit, sondern das Fremde gefühlt wird,\nhat die Uebersetzung ihre höchsten Zwecke erreicht;",
+    "meaning": "The foreign element should be felt rather than strangeness as such; the following sentence condemns strangeness that obscures the foreign element.",
+    "implication": "Preserve foreign substance or character while revising awkward English that calls attention to itself or obscures that substance.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "PRIMARY-A14",
+    "source_path": "sources/raw/references/humboldt-gs-08.pdf",
+    "printed_page": 133,
+    "pdf_page": 143,
+    "work_layer": "Agamemnon introduction: main text; date from authorial closing",
+    "date_status": "Introduction dated Frankfurt am Main, 23 February 1816 in authorial closing on supplied GS VIII p.146; no image check.",
+    "terms": [
+      "Dunkelheit",
+      "Commentar",
+      "Wortgebrauch",
+      "Klarheit"
+    ],
+    "quote": "Sie darf\nkeine Dunkelheit enthalten, die aus schwankendem VVortgebrauch,\nschielender Fügung entsteht; aber wo das Original nur andeutet,\nstatt klar auszusprechen, wo es sich Metaphern erlaubt, deren Be-\n             ziehung schwer zu fassen ist, wo es Mittelideeen auslässt, da vvürde\nder Uebersetzer Unrecht thun aus sich selbst willkührlich eine\nden Charakter des Textes verstellende Klarheit hineinzubringen.",
+    "meaning": "Translator-created obscurity through unstable word use or distorted construction is prohibited; authorial allusion, hard metaphor and omitted intermediate ideas do not license arbitrary added clarity.",
+    "implication": "Keep translation and explanatory commentary separate. Clarify accidental English confusion without inserting connective argument the source leaves implicit.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "PRIMARY-A15",
+    "source_path": "sources/raw/references/humboldt-gs-08.pdf",
+    "printed_page": 134,
+    "pdf_page": 144,
+    "work_layer": "Agamemnon introduction: main text; date from authorial closing",
+    "date_status": "Introduction dated Frankfurt am Main, 23 February 1816 in authorial closing on supplied GS VIII p.146; no image check.",
+    "terms": [
+      "Text",
+      "Urkunde",
+      "Form",
+      "Quelle"
+    ],
+    "quote": "Die Herausgabe eines alten Schriftstellers\nist die Zurückführung einer Urkunde, wenn nicht auf ihre wahre\nund ursprüngliche Form, doch auf die Quelle, die für uns die\nletzte zugängliche ist.",
+    "meaning": "Editing seeks an original form or at least the last accessible source, against arbitrary eclectic choice among variants.",
+    "implication": "Maintain a declared source base and mark interventions; translator preference alone cannot authenticate a textual reading.",
+    "verification": "OCR-only",
+    "issue": ""
+  },
+  {
+    "id": "PRIMARY-A16",
+    "source_path": "sources/raw/references/humboldt-gs-08.pdf",
+    "printed_page": 136,
+    "pdf_page": 146,
+    "work_layer": "Agamemnon introduction: main text; date from authorial closing",
+    "date_status": "Introduction dated Frankfurt am Main, 23 February 1816 in authorial closing on supplied GS VIII p.146; no image check.",
+    "terms": [
+      "Uebersetzung",
+      "Sprache",
+      "Zeitpunkt",
+      "Massstab"
+    ],
+    "quote": "Denn Uebersetzungen\nsind doch mehr Arbeiten, welche den Zustand der Sprache in\neinem gegebenen Zeitpunkt, wie an einem bleibenden Massstab,\nprüfen, bestimmen, und auf ihn einwirken sollen, und die immer\nvon neuem wiederholt werden müssen, als dauernde W^erke.",
+    "meaning": "Translations test, define and affect a language at a historical moment, and need repeated renewal rather than being permanent achievements.",
+    "implication": "Present this project as provisional and revisable; multiple translations can disclose different apprehensions of the source.",
+    "verification": "OCR-only",
+    "issue": "OCR W^erke retained; the following page distinguishes multiple images of a spirit from the original itself."
+  }
+]
