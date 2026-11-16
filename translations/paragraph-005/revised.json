@@ -1,0 +1,43 @@
+{
+  "section": "5",
+  "stage": "coordinator revision after one audit cycle",
+  "review_status": "English/editorial review pending; no specialist German validation",
+  "source_status": "Follows GS V (Leitzmann 1906), §5, printed366–367 / PDF376–377 / scan leaves378–379. Drechsel (2024:155) reports cancellation of the first seven paragraphs. Manuscript marks, extent and editorial meaning remain independently unverified. Retained as the printed reading; authorial finality unresolved.",
+  "sentences": [
+    {
+      "source_id": "p5:s1",
+      "english": "I therefore begin with the general presentation of the structure of the American languages, in such a way that I shall try to set out fully, in every respect in which languages are to be assessed, the distinctive characteristics of the American languages in general and the differences among the individual languages."
+    },
+    {
+      "source_id": "p5:s2",
+      "english": "In this way, the most important parts of the presentation of the structure of the individual languages are woven into the general presentation; only the less essential matters and what constitutes the true individuality of the individual language—the specific designation by sounds—are left out."
+    },
+    {
+      "source_id": "p5:s3",
+      "english": "On the other hand, this procedure admittedly breaks up the description of the individual languages and makes a complete overview of the structure of each one impossible."
+    },
+    {
+      "source_id": "p5:s4",
+      "english": "Yet one also gains the advantage of seeing every distinctive characteristic of each individual language within the general picture, at the very point where it can be compared with those of the other languages and appraised."
+    },
+    {
+      "source_id": "p5:s5",
+      "english": "Anyone accustomed to investigating the structure of many languages will, however, scarcely be able to rate this very advantage too highly."
+    },
+    {
+      "source_id": "p5:s6",
+      "english": "For it is one of the most disheartening experiences, though no less common for that, to have worked one’s way with effort and exertion into an understanding of a language’s structure and yet remain undecided about how that language is now to be placed within the field of language study as a whole, and how its worth is to be determined amid the variety of merits and shortcomings to be weighed against one another."
+    },
+    {
+      "source_id": "p5:s7",
+      "english": "The overview we have just found lacking in this procedure can nevertheless be recovered to some extent through an index that brings the material together."
+    }
+  ],
+  "notes": [
+    "In sentence2, “the most important parts of the presentation” is a provisional reading of in ihren hauptsächlichsten Theilen. The possessive can also refer to the individual languages; its form permits both. It cannot refer to the masculine German noun Bau (structure). The alternative would concern the languages’ main parts rather than parts of their presentation.",
+    "“The specific designation by sounds” provisionally renders die bestimmte Lautbezeichnung. The local reading concerns designation through sounds; notation of sounds remains an alternative requiring further evidence. The apposition identifies this with what constitutes the language’s true individuality. The less essential matters and the true individuality are retained as two coordinated omissions; individuality is not silently classed as inessential.",
+    "“Distinctive characteristics” renders Eigenthümlichkeiten locally, while Individualität remains “individuality”; this does not establish an invariant boundary between the German nouns. “Appraised” retains the valuative force of gewürdigt. “Advantage” in sentence5 refers back to sentence4, while “merits” in sentence6 concerns what is weighed with shortcomings.",
+    "In sentence6 it is the language that is to be placed and evaluated, rather than its structure or the investigator’s understanding. The two connected questions remain joined by and. “Language study” renders Sprachkunde without specifying a modern theoretical subfield; the evaluative claim about a language’s worth is Humboldt’s.",
+    "“An index that brings the material together” renders zusammenstellendes Register descriptively. Material supplies its implied object. The paragraph leaves the index’s arrangement unspecified; collating index or synoptic register remain alternatives. Recovery of the overview is only partial."
+  ]
+}

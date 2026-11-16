@@ -27,6 +27,14 @@
     {
       "path": "passages/passage-0004/records.json",
       "sha256": "35d9a79d6c72ef93ad6e34f82e71a9962297e76d0c9893e73fd03008d2437320"
+    },
+    {
+      "path": "passages/review-0004-20261116/records.json",
+      "sha256": "f56a1279bf18c8e3143c9064398c46d7b1103311604eb246df0155ef81f851ac"
+    },
+    {
+      "path": "passages/passage-0005/records.json",
+      "sha256": "3977043d331e833d09836a53fc78ebd719d7d5e443f9d8f22303e91cdf1ea039"
     }
   ],
   "format": "humboldt.edition",
@@ -56,6 +64,11 @@
       "section": "4",
       "source_id": "grundzuege-004-v1",
       "target_id": "en4-revised-v2"
+    },
+    {
+      "section": "5",
+      "source_id": "grundzuege-005-v1",
+      "target_id": "en5-revised-v2"
     }
   ],
   "resources": [

@@ -1,0 +1,47 @@
+{
+  "section": "5",
+  "decisions": [
+    {
+      "id": "D019.s1",
+      "source_id": "p5:s1",
+      "question": "Scope and manner of the general presentation",
+      "resolution": "Keep dergestalt dass explicit, the attempted completeness in every assessment respect, American languages in general and differences among individual languages; no common-origin claim is added."
+    },
+    {
+      "id": "D019.s2",
+      "source_id": "p5:s2",
+      "question": "Principal inclusion, coordinated omissions and sound designation",
+      "resolution": "Choose parts of the presentation provisionally, retaining the language-parts alternative. Preserve the two omitted categories and apposition; use specific designation by sounds while recording notation of sounds as an unresolved alternative."
+    },
+    {
+      "id": "D019.s3",
+      "source_id": "p5:s3",
+      "question": "Fragmented description and impossible complete overview",
+      "resolution": "Retain the admitted cost to individual-language description and the claim that a complete structural overview becomes impossible under this procedure."
+    },
+    {
+      "id": "D019.s4",
+      "source_id": "p5:s4",
+      "question": "Comparative placement and appraisal of characteristics",
+      "resolution": "Keep every characteristic of each individual language and comparison with the characteristics of the others; preserve appraised as valuative rather than merely descriptive."
+    },
+    {
+      "id": "D019.s5",
+      "source_id": "p5:s5",
+      "question": "Qualified high valuation of this advantage",
+      "resolution": "Keep however internal, this very advantage emphatic, and scarcely able to rate too highly; do not reverse or turn the qualification into an absolute."
+    },
+    {
+      "id": "D019.s6",
+      "source_id": "p5:s6",
+      "question": "Effort, indecision and historical comparative valuation",
+      "resolution": "Keep the language as bearer, effort and continued indecision, both connected questions, the study as a whole and the merits/shortcomings to be mutually weighed. Attribute the valuation to Humboldt without supplying a modern metric."
+    },
+    {
+      "id": "D019.s7",
+      "source_id": "p5:s7",
+      "question": "Partial recovery through a collating index",
+      "resolution": "Keep nevertheless and to some extent, recovering the overview by an index that brings material together; do not invent its format or claim complete recovery."
+    }
+  ]
+}

@@ -1,0 +1,1888 @@
+{
+  "format": "humboldt.passage",
+  "id": "passage-0005",
+  "layouts": [
+    {
+      "analysis_id": "p5:de:layout-v1",
+      "label": "§5",
+      "paragraph_id": "p5:de:p",
+      "segments": [
+        {
+          "id": "p5:de:s1",
+          "kind": "sentence",
+          "label": "§5 source sentence 1",
+          "text": "Ich fange daher mit der allgemeinen Darstellung des Baues der Amerikanischen Sprachen an, dergestalt, dass ich nach allen Richtungen hin, nach welchen Sprachen zu beurtheilen sind, die Eigenthümlichkeiten der Amerikanischen überhaupt, und die Verschiedenheiten der einzelnen unter sich vollständig anzugeben versuchen werde."
+        },
+        {
+          "id": "p5:de:s2",
+          "kind": "sentence",
+          "label": "§5 source sentence 2",
+          "text": "Auf diese Weise wird die Darstellung des Baues der einzelnen Sprachen in ihren hauptsächlichsten Theilen in die allgemeine verwebt, und nur das Unwesentlichere, und das, was die wahre Individualität der einzelnen Sprache ausmacht, die bestimmte Lautbezeichnung, fällt hinweg."
+        },
+        {
+          "id": "p5:de:s3",
+          "kind": "sentence",
+          "label": "§5 source sentence 3",
+          "text": "Auf der andren Seite wird allerdings bei diesem Verfahren die Schilderung der einzelnen Sprachen zerrissen, und eine vollständige Uebersicht des Baues einer jeden unmöglich gemacht."
+        },
+        {
+          "id": "p5:de:s4",
+          "kind": "sentence",
+          "label": "§5 source sentence 4",
+          "text": "Allein man gewinnt auch den Vortheil, jede Eigenthümlichkeit jeder einzelnen Sprache in dem allgemeinen Bilde gleich an der Stelle zu sehen, wo dieselbe mit denen der andren verglichen, und gewürdigt werden kann."
+        },
+        {
+          "id": "p5:de:s5",
+          "kind": "sentence",
+          "label": "§5 source sentence 5",
+          "text": "Wer gewohnt ist viele Sprachen in ihrem Bau zu erforschen, wird aber gerade diesen Vorzug kaum zu hoch anrechnen können."
+        },
+        {
+          "id": "p5:de:s6",
+          "kind": "sentence",
+          "label": "§5 source sentence 6",
+          "text": "Denn es ist eine der betrübendsten, aber darum nicht weniger gewöhnlichen Erfahrungen, wenn man sich mit Mühe und Anstrengung in den Bau einer Sprache hineingedacht hat, dennoch unschlüssig zu bleiben, wie man nun diese Sprache in dem Gebiete der ganzen Sprachkunde zu stellen, wie in der Verschiedenheit der gegen einander abzuwägenden Vorzüge und Mängel ihren Werth zu bestimmen hat."
+        },
+        {
+          "id": "p5:de:s7",
+          "kind": "sentence",
+          "label": "§5 source sentence 7",
+          "text": "Die Uebersicht, die wir so eben bei diesem Verfahren vermissten, lässt sich doch einigermassen durch ein zusammenstellendes Register wieder erlangen."
+        }
+      ],
+      "version_id": "grundzuege-005-v1"
+    },
+    {
+      "analysis_id": "p5:claude:layout-v1",
+      "label": "§5",
+      "paragraph_id": "p5:claude:p",
+      "segments": [
+        {
+          "id": "p5:claude:s1",
+          "kind": "rendering",
+          "label": "§5 claude rendering 1",
+          "source_units": [
+            "p5:de:s1"
+          ],
+          "text": "I therefore begin with the general presentation of the structure of the American languages, in such a way that I shall attempt to state completely, along all the lines on which languages are to be judged, the peculiarities of the American languages in general and the differences of the individual languages among themselves."
+        },
+        {
+          "id": "p5:claude:s2",
+          "kind": "rendering",
+          "label": "§5 claude rendering 2",
+          "source_units": [
+            "p5:de:s2"
+          ],
+          "text": "In this way the presentation of the structure of the individual languages is, in its principal parts, woven into the general presentation, and only the less essential, and that which constitutes the true individuality of the individual language, the determinate designation by sounds, falls away."
+        },
+        {
+          "id": "p5:claude:s3",
+          "kind": "rendering",
+          "label": "§5 claude rendering 3",
+          "source_units": [
+            "p5:de:s3"
+          ],
+          "text": "On the other hand, this procedure does admittedly tear apart the portrayal of the individual languages and make a complete overview of the structure of each one impossible."
+        },
+        {
+          "id": "p5:claude:s4",
+          "kind": "rendering",
+          "label": "§5 claude rendering 4",
+          "source_units": [
+            "p5:de:s4"
+          ],
+          "text": "Yet one also gains the advantage of seeing every peculiarity of every individual language, within the general picture, right at the place where it can be compared with those of the other languages and appraised."
+        },
+        {
+          "id": "p5:claude:s5",
+          "kind": "rendering",
+          "label": "§5 claude rendering 5",
+          "source_units": [
+            "p5:de:s5"
+          ],
+          "text": "Anyone who is accustomed to investigating the structure of many languages will, however, hardly be able to rate precisely this advantage too highly."
+        },
+        {
+          "id": "p5:claude:s6",
+          "kind": "rendering",
+          "label": "§5 claude rendering 6",
+          "source_units": [
+            "p5:de:s6"
+          ],
+          "text": "For it is one of the most distressing experiences, though no less common for that, that when one has with toil and exertion thought one's way into the structure of a language, one nevertheless remains undecided as to how one is now to place this language within the domain of the whole study of language, and how, amid the diversity of the merits and defects that are to be weighed against one another, one is to determine its worth."
+        },
+        {
+          "id": "p5:claude:s7",
+          "kind": "rendering",
+          "label": "§5 claude rendering 7",
+          "source_units": [
+            "p5:de:s7"
+          ],
+          "text": "The overview that we just now found wanting in this procedure can nevertheless be regained to some degree by means of a collating index."
+        }
+      ],
+      "source_version": "grundzuege-005-v1",
+      "version_id": "en5-claude-v1"
+    },
+    {
+      "analysis_id": "p5:muse:layout-v1",
+      "label": "§5",
+      "paragraph_id": "p5:muse:p",
+      "segments": [
+        {
+          "id": "p5:muse:s1",
+          "kind": "rendering",
+          "label": "§5 muse rendering 1",
+          "source_units": [
+            "p5:de:s1"
+          ],
+          "text": "I therefore begin with the general presentation of the structure of the American languages, in such a way that I shall attempt to state completely, in all the respects in which languages are to be judged, the peculiarities of the American languages in general and the differences of the individual ones among themselves."
+        },
+        {
+          "id": "p5:muse:s2",
+          "kind": "rendering",
+          "label": "§5 muse rendering 2",
+          "source_units": [
+            "p5:de:s2"
+          ],
+          "text": "In this way the presentation of the structure of the individual languages in its most principal parts is woven into the general presentation, and only what is less essential, and that which constitutes the true individuality of the individual language, the determinate designation of sounds, falls away."
+        },
+        {
+          "id": "p5:muse:s3",
+          "kind": "rendering",
+          "label": "§5 muse rendering 3",
+          "source_units": [
+            "p5:de:s3"
+          ],
+          "text": "On the other hand, with this procedure the description of the individual languages is admittedly torn apart, and a complete overview of the structure of each one is made impossible."
+        },
+        {
+          "id": "p5:muse:s4",
+          "kind": "rendering",
+          "label": "§5 muse rendering 4",
+          "source_units": [
+            "p5:de:s4"
+          ],
+          "text": "But one also gains the advantage of seeing every peculiarity of each individual language in the general picture immediately at the place where it can be compared with those of the others and appraised."
+        },
+        {
+          "id": "p5:muse:s5",
+          "kind": "rendering",
+          "label": "§5 muse rendering 5",
+          "source_units": [
+            "p5:de:s5"
+          ],
+          "text": "Anyone who is accustomed to investigating many languages in their structure, however, will scarcely be able to rate precisely this advantage too highly."
+        },
+        {
+          "id": "p5:muse:s6",
+          "kind": "rendering",
+          "label": "§5 muse rendering 6",
+          "source_units": [
+            "p5:de:s6"
+          ],
+          "text": "For it is one of the most disheartening, yet for that reason no less common, experiences, after one has thought one's way into the structure of a language with trouble and exertion, nevertheless to remain undecided as to how one is now to place this language in the domain of the study of language as a whole, how, in the diversity of advantages and defects that are to be weighed against one another, one is to determine its value."
+        },
+        {
+          "id": "p5:muse:s7",
+          "kind": "rendering",
+          "label": "§5 muse rendering 7",
+          "source_units": [
+            "p5:de:s7"
+          ],
+          "text": "The overview which we have just found lacking with this procedure can nevertheless be regained to some extent by means of a register that brings the material together."
+        }
+      ],
+      "source_version": "grundzuege-005-v1",
+      "version_id": "en5-muse-v1"
+    },
+    {
+      "analysis_id": "p5:codex:layout-v1",
+      "label": "§5",
+      "paragraph_id": "p5:codex:p",
+      "segments": [
+        {
+          "id": "p5:codex:s1",
+          "kind": "rendering",
+          "label": "§5 codex rendering 1",
+          "source_units": [
+            "p5:de:s1"
+          ],
+          "text": "I therefore begin with a general account of the structure of the American languages, in which I shall attempt to give a complete account, in every respect in which languages are to be assessed, of the characteristics of the American languages generally and of the differences among the individual languages."
+        },
+        {
+          "id": "p5:codex:s2",
+          "kind": "rendering",
+          "label": "§5 codex rendering 2",
+          "source_units": [
+            "p5:de:s2"
+          ],
+          "text": "In this way, the account of the structure of the individual languages is woven into the general account in its principal parts; only the less essential matters and that which constitutes the true individuality of each language—its particular expression in sounds—are omitted."
+        },
+        {
+          "id": "p5:codex:s3",
+          "kind": "rendering",
+          "label": "§5 codex rendering 3",
+          "source_units": [
+            "p5:de:s3"
+          ],
+          "text": "On the other hand, this procedure does admittedly break up the description of the individual languages and make a complete overview of the structure of each impossible."
+        },
+        {
+          "id": "p5:codex:s4",
+          "kind": "rendering",
+          "label": "§5 codex rendering 4",
+          "source_units": [
+            "p5:de:s4"
+          ],
+          "text": "Yet one also gains the advantage of seeing every characteristic of each individual language in the general picture at precisely the place where it can be compared with those of the others and assessed."
+        },
+        {
+          "id": "p5:codex:s5",
+          "kind": "rendering",
+          "label": "§5 codex rendering 5",
+          "source_units": [
+            "p5:de:s5"
+          ],
+          "text": "Anyone accustomed to investigating the structure of many languages, however, will scarcely be able to value this particular advantage too highly."
+        },
+        {
+          "id": "p5:codex:s6",
+          "kind": "rendering",
+          "label": "§5 codex rendering 6",
+          "source_units": [
+            "p5:de:s6"
+          ],
+          "text": "For it is one of the most disheartening experiences, though no less common for that, to have worked one's way, with effort and exertion, into an understanding of a language's structure, yet still remain uncertain how to situate that language within the whole field of linguistic knowledge, and how to determine its worth amid the diversity of merits and shortcomings that must be weighed against one another."
+        },
+        {
+          "id": "p5:codex:s7",
+          "kind": "rendering",
+          "label": "§5 codex rendering 7",
+          "source_units": [
+            "p5:de:s7"
+          ],
+          "text": "The overview whose absence we have just noted in this procedure can nevertheless be recovered to some extent by means of an index that brings the material together."
+        }
+      ],
+      "source_version": "grundzuege-005-v1",
+      "version_id": "en5-codex-v1"
+    },
+    {
+      "analysis_id": "p5:synthesis:layout-v1",
+      "label": "§5",
+      "paragraph_id": "p5:synthesis:p",
+      "segments": [
+        {
+          "id": "p5:synthesis:s1",
+          "kind": "rendering",
+          "label": "§5 synthesis rendering 1",
+          "source_units": [
+            "p5:de:s1"
+          ],
+          "text": "I therefore begin with the general presentation of the structure of the American languages. In doing so, I shall try to set out fully, in every respect in which languages are to be assessed, the distinctive characteristics of the American languages as a whole and the differences among the individual languages."
+        },
+        {
+          "id": "p5:synthesis:s2",
+          "kind": "rendering",
+          "label": "§5 synthesis rendering 2",
+          "source_units": [
+            "p5:de:s2"
+          ],
+          "text": "In this way, the presentation of the structure of the individual languages, in its principal parts, is woven into the general presentation; only the less essential matters and what constitutes the true individuality of each language—its particular designation by sounds—are left out."
+        },
+        {
+          "id": "p5:synthesis:s3",
+          "kind": "rendering",
+          "label": "§5 synthesis rendering 3",
+          "source_units": [
+            "p5:de:s3"
+          ],
+          "text": "On the other hand, this procedure admittedly breaks up the description of each language and makes a complete overview of its structure impossible."
+        },
+        {
+          "id": "p5:synthesis:s4",
+          "kind": "rendering",
+          "label": "§5 synthesis rendering 4",
+          "source_units": [
+            "p5:de:s4"
+          ],
+          "text": "Yet one also gains the advantage of seeing every distinctive characteristic of each language, within the general picture, at the very point where it can be compared with those of the other languages and assessed."
+        },
+        {
+          "id": "p5:synthesis:s5",
+          "kind": "rendering",
+          "label": "§5 synthesis rendering 5",
+          "source_units": [
+            "p5:de:s5"
+          ],
+          "text": "But anyone accustomed to investigating the structure of many languages will scarcely be able to value this very advantage too highly."
+        },
+        {
+          "id": "p5:synthesis:s6",
+          "kind": "rendering",
+          "label": "§5 synthesis rendering 6",
+          "source_units": [
+            "p5:de:s6"
+          ],
+          "text": "For it is one of the most disheartening experiences, though no less common for that, to have worked one’s way with effort and exertion into an understanding of a language’s structure and yet remain uncertain how to place it within the whole field of the study of language, or how to determine its worth amid the variety of merits and shortcomings to be weighed against one another."
+        },
+        {
+          "id": "p5:synthesis:s7",
+          "kind": "rendering",
+          "label": "§5 synthesis rendering 7",
+          "source_units": [
+            "p5:de:s7"
+          ],
+          "text": "The overview we have just found lacking in this procedure can nevertheless be recovered to some extent through an index that brings the material together."
+        }
+      ],
+      "source_version": "grundzuege-005-v1",
+      "version_id": "en5-synthesis-v1"
+    },
+    {
+      "analysis_id": "p5:revised:layout-v1",
+      "label": "§5",
+      "paragraph_id": "p5:revised:p",
+      "segments": [
+        {
+          "id": "p5:revised:s1",
+          "kind": "rendering",
+          "label": "§5 revised rendering 1",
+          "source_units": [
+            "p5:de:s1"
+          ],
+          "text": "I therefore begin with the general presentation of the structure of the American languages, in such a way that I shall try to set out fully, in every respect in which languages are to be assessed, the distinctive characteristics of the American languages in general and the differences among the individual languages."
+        },
+        {
+          "id": "p5:revised:s2",
+          "kind": "rendering",
+          "label": "§5 revised rendering 2",
+          "source_units": [
+            "p5:de:s2"
+          ],
+          "text": "In this way, the most important parts of the presentation of the structure of the individual languages are woven into the general presentation; only the less essential matters and what constitutes the true individuality of the individual language—the specific designation by sounds—are left out."
+        },
+        {
+          "id": "p5:revised:s3",
+          "kind": "rendering",
+          "label": "§5 revised rendering 3",
+          "source_units": [
+            "p5:de:s3"
+          ],
+          "text": "On the other hand, this procedure admittedly breaks up the description of the individual languages and makes a complete overview of the structure of each one impossible."
+        },
+        {
+          "id": "p5:revised:s4",
+          "kind": "rendering",
+          "label": "§5 revised rendering 4",
+          "source_units": [
+            "p5:de:s4"
+          ],
+          "text": "Yet one also gains the advantage of seeing every distinctive characteristic of each individual language within the general picture, at the very point where it can be compared with those of the other languages and appraised."
+        },
+        {
+          "id": "p5:revised:s5",
+          "kind": "rendering",
+          "label": "§5 revised rendering 5",
+          "source_units": [
+            "p5:de:s5"
+          ],
+          "text": "Anyone accustomed to investigating the structure of many languages will, however, scarcely be able to rate this very advantage too highly."
+        },
+        {
+          "id": "p5:revised:s6",
+          "kind": "rendering",
+          "label": "§5 revised rendering 6",
+          "source_units": [
+            "p5:de:s6"
+          ],
+          "text": "For it is one of the most disheartening experiences, though no less common for that, to have worked one’s way with effort and exertion into an understanding of a language’s structure and yet remain undecided about how that language is now to be placed within the field of language study as a whole, and how its worth is to be determined amid the variety of merits and shortcomings to be weighed against one another."
+        },
+        {
+          "id": "p5:revised:s7",
+          "kind": "rendering",
+          "label": "§5 revised rendering 7",
+          "source_units": [
+            "p5:de:s7"
+          ],
+          "text": "The overview we have just found lacking in this procedure can nevertheless be recovered to some extent through an index that brings the material together."
+        }
+      ],
+      "source_version": "grundzuege-005-v1",
+      "version_id": "en5-revised-v2"
+    }
+  ],
+  "schema_version": 1,
+  "section": "5",
+  "tables": {
+    "alignment": [
+      {
+        "id": "p5:correspondence:1",
+        "left_version": "grundzuege-005-v1",
+        "note": "manner of presentation remains explicit; contextual span link, not certified equivalence.",
+        "relation": "provisional_translation_correspondence",
+        "right_version": "en5-revised-v2",
+        "status": "proposed"
+      },
+      {
+        "id": "p5:correspondence:2",
+        "left_version": "grundzuege-005-v1",
+        "note": "scope of attempted assessment; contextual span link, not certified equivalence.",
+        "relation": "provisional_translation_correspondence",
+        "right_version": "en5-revised-v2",
+        "status": "proposed"
+      },
+      {
+        "id": "p5:correspondence:3",
+        "left_version": "grundzuege-005-v1",
+        "note": "provisional presentation antecedent; languages alternative retained; contextual span link, not certified equivalence.",
+        "relation": "provisional_translation_correspondence",
+        "right_version": "en5-revised-v2",
+        "status": "proposed"
+      },
+      {
+        "id": "p5:correspondence:4",
+        "left_version": "grundzuege-005-v1",
+        "note": "two coordinated omissions and apposition; contextual span link, not certified equivalence.",
+        "relation": "provisional_translation_correspondence",
+        "right_version": "en5-revised-v2",
+        "status": "proposed"
+      },
+      {
+        "id": "p5:correspondence:5",
+        "left_version": "grundzuege-005-v1",
+        "note": "provisional sound-designation reading; contextual span link, not certified equivalence.",
+        "relation": "provisional_translation_correspondence",
+        "right_version": "en5-revised-v2",
+        "status": "proposed"
+      },
+      {
+        "id": "p5:correspondence:6",
+        "left_version": "grundzuege-005-v1",
+        "note": "complete overview unavailable under this procedure; contextual span link, not certified equivalence.",
+        "relation": "provisional_translation_correspondence",
+        "right_version": "en5-revised-v2",
+        "status": "proposed"
+      },
+      {
+        "id": "p5:correspondence:7",
+        "left_version": "grundzuege-005-v1",
+        "note": "characteristic compared with characteristics of other languages; contextual span link, not certified equivalence.",
+        "relation": "provisional_translation_correspondence",
+        "right_version": "en5-revised-v2",
+        "status": "proposed"
+      },
+      {
+        "id": "p5:correspondence:8",
+        "left_version": "grundzuege-005-v1",
+        "note": "qualified positive valuation; contextual span link, not certified equivalence.",
+        "relation": "provisional_translation_correspondence",
+        "right_version": "en5-revised-v2",
+        "status": "proposed"
+      },
+      {
+        "id": "p5:correspondence:9",
+        "left_version": "grundzuege-005-v1",
+        "note": "effortful entry into understanding; contextual span link, not certified equivalence.",
+        "relation": "provisional_translation_correspondence",
+        "right_version": "en5-revised-v2",
+        "status": "proposed"
+      },
+      {
+        "id": "p5:correspondence:10",
+        "left_version": "grundzuege-005-v1",
+        "note": "continued indecision and language as bearer; contextual span link, not certified equivalence.",
+        "relation": "provisional_translation_correspondence",
+        "right_version": "en5-revised-v2",
+        "status": "proposed"
+      },
+      {
+        "id": "p5:correspondence:11",
+        "left_version": "grundzuege-005-v1",
+        "note": "connected question of comparative valuation; contextual span link, not certified equivalence.",
+        "relation": "provisional_translation_correspondence",
+        "right_version": "en5-revised-v2",
+        "status": "proposed"
+      },
+      {
+        "id": "p5:correspondence:12",
+        "left_version": "grundzuege-005-v1",
+        "note": "only partial recovery through index; contextual span link, not certified equivalence.",
+        "relation": "provisional_translation_correspondence",
+        "right_version": "en5-revised-v2",
+        "status": "proposed"
+      }
+    ],
+    "alignment_member": [
+      {
+        "alignment_id": "p5:correspondence:1",
+        "side": "left",
+        "unit_id": "p5:span:1:left"
+      },
+      {
+        "alignment_id": "p5:correspondence:1",
+        "side": "right",
+        "unit_id": "p5:span:1:right"
+      },
+      {
+        "alignment_id": "p5:correspondence:2",
+        "side": "left",
+        "unit_id": "p5:span:2:left"
+      },
+      {
+        "alignment_id": "p5:correspondence:2",
+        "side": "right",
+        "unit_id": "p5:span:2:right"
+      },
+      {
+        "alignment_id": "p5:correspondence:3",
+        "side": "left",
+        "unit_id": "p5:span:3:left"
+      },
+      {
+        "alignment_id": "p5:correspondence:3",
+        "side": "right",
+        "unit_id": "p5:span:3:right"
+      },
+      {
+        "alignment_id": "p5:correspondence:4",
+        "side": "left",
+        "unit_id": "p5:span:4:left"
+      },
+      {
+        "alignment_id": "p5:correspondence:4",
+        "side": "right",
+        "unit_id": "p5:span:4:right"
+      },
+      {
+        "alignment_id": "p5:correspondence:5",
+        "side": "left",
+        "unit_id": "p5:span:5:left"
+      },
+      {
+        "alignment_id": "p5:correspondence:5",
+        "side": "right",
+        "unit_id": "p5:span:5:right"
+      },
+      {
+        "alignment_id": "p5:correspondence:6",
+        "side": "left",
+        "unit_id": "p5:span:6:left"
+      },
+      {
+        "alignment_id": "p5:correspondence:6",
+        "side": "right",
+        "unit_id": "p5:span:6:right"
+      },
+      {
+        "alignment_id": "p5:correspondence:7",
+        "side": "left",
+        "unit_id": "p5:span:7:left"
+      },
+      {
+        "alignment_id": "p5:correspondence:7",
+        "side": "right",
+        "unit_id": "p5:span:7:right"
+      },
+      {
+        "alignment_id": "p5:correspondence:8",
+        "side": "left",
+        "unit_id": "p5:span:8:left"
+      },
+      {
+        "alignment_id": "p5:correspondence:8",
+        "side": "right",
+        "unit_id": "p5:span:8:right"
+      },
+      {
+        "alignment_id": "p5:correspondence:9",
+        "side": "left",
+        "unit_id": "p5:span:9:left"
+      },
+      {
+        "alignment_id": "p5:correspondence:9",
+        "side": "right",
+        "unit_id": "p5:span:9:right"
+      },
+      {
+        "alignment_id": "p5:correspondence:10",
+        "side": "left",
+        "unit_id": "p5:span:10:left"
+      },
+      {
+        "alignment_id": "p5:correspondence:10",
+        "side": "right",
+        "unit_id": "p5:span:10:right"
+      },
+      {
+        "alignment_id": "p5:correspondence:11",
+        "side": "left",
+        "unit_id": "p5:span:11:left"
+      },
+      {
+        "alignment_id": "p5:correspondence:11",
+        "side": "right",
+        "unit_id": "p5:span:11:right"
+      },
+      {
+        "alignment_id": "p5:correspondence:12",
+        "side": "left",
+        "unit_id": "p5:span:12:left"
+      },
+      {
+        "alignment_id": "p5:correspondence:12",
+        "side": "right",
+        "unit_id": "p5:span:12:right"
+      }
+    ],
+    "decision": [
+      {
+        "authority": "coordinator under D018; English review pending",
+        "id": "D019.s1",
+        "question": "Scope and manner of the general presentation",
+        "resolution": "Keep dergestalt dass explicit, the attempted completeness in every assessment respect, American languages in general and differences among individual languages; no common-origin claim is added.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator under D018; English review pending",
+        "id": "D019.s2",
+        "question": "Principal inclusion, coordinated omissions and sound designation",
+        "resolution": "Choose parts of the presentation provisionally, retaining the language-parts alternative. Preserve the two omitted categories and apposition; use specific designation by sounds while recording notation of sounds as an unresolved alternative.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator under D018; English review pending",
+        "id": "D019.s3",
+        "question": "Fragmented description and impossible complete overview",
+        "resolution": "Retain the admitted cost to individual-language description and the claim that a complete structural overview becomes impossible under this procedure.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator under D018; English review pending",
+        "id": "D019.s4",
+        "question": "Comparative placement and appraisal of characteristics",
+        "resolution": "Keep every characteristic of each individual language and comparison with the characteristics of the others; preserve appraised as valuative rather than merely descriptive.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator under D018; English review pending",
+        "id": "D019.s5",
+        "question": "Qualified high valuation of this advantage",
+        "resolution": "Keep however internal, this very advantage emphatic, and scarcely able to rate too highly; do not reverse or turn the qualification into an absolute.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator under D018; English review pending",
+        "id": "D019.s6",
+        "question": "Effort, indecision and historical comparative valuation",
+        "resolution": "Keep the language as bearer, effort and continued indecision, both connected questions, the study as a whole and the merits/shortcomings to be mutually weighed. Attribute the valuation to Humboldt without supplying a modern metric.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator under D018; English review pending",
+        "id": "D019.s7",
+        "question": "Partial recovery through a collating index",
+        "resolution": "Keep nevertheless and to some extent, recovering the overview by an index that brings material together; do not invent its format or claim complete recovery.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator disposition of claude audit",
+        "id": "D019.audit:claude:F1",
+        "question": "Ambiguous referent. In 'into an understanding of a language's structure and yet remain uncertain how to place it ... how to determine its worth', the pronouns 'it' and 'its' can be read as the structure (or even the understanding). The German names the language as what is to be placed and valued.",
+        "resolution": "Name that language explicitly as the object to be placed; its worth then refers unambiguously to the language. Restore now and retain the modal is to be placed/determined.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator disposition of claude audit",
+        "id": "D019.audit:claude:F2",
+        "question": "Merged terminological contrast. 'gewürdigt' is rendered 'assessed', the same word used for 'beurtheilen' in p5:s1. The German uses two different verbs, and 'würdigen' (to appraise, to give something its due value) anticipates 'ihren Werth zu bestimmen' in p5:s6. That link is lost and a false verbal echo with p5:s1 is created.",
+        "resolution": "Use appraised for gewürdigt, retaining its valuative connection with Werth. Assessed remains the local rendering of beurtheilen in sentence1; no universal one-to-one lexical rule is inferred.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator disposition of claude audit",
+        "id": "D019.audit:claude:F3",
+        "question": "Potentially misleading English. Sentence-initial 'But', directly after 'Yet' in p5:s4, sets the sentence up as a counter to the advantage just named. Combined with 'scarcely ... value ... too highly', it invites the opposite reading, that such a person will hardly value it. The German reinforces the advantage: it can hardly be rated too highly. The 'aber' is a weak, clause-internal particle and 'gerade' is emphatic.",
+        "resolution": "Move however inside sentence5 and use rate this very advantage too highly. Preserve the scarcely qualification and the positive evaluation without an abrupt sentence-initial But.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator disposition of claude audit",
+        "id": "D019.audit:claude:F4",
+        "question": "Weakened clause relation after the sentence split. 'dergestalt, dass' specifies the manner in which the general presentation is to be carried out ('in such a way that'). 'In doing so' presents the second statement as an accompanying action, so the specifying relation is no longer explicit.",
+        "resolution": "Restore a single sentence with in such a way that, explicitly making the attempted comprehensive account the manner of the general presentation.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator disposition of claude audit",
+        "id": "D019.audit:claude:F5",
+        "question": "Referent of 'in its principal parts'. In English 'its' can be read as referring to 'the structure', which German grammar excludes. The German 'ihren' is itself ambiguous between 'Darstellung' (feminine singular) and 'der einzelnen Sprachen' (plural). The English silently picks the singular and leaves open a reading the source does not allow.",
+        "resolution": "Recast explicitly as the most important parts of the presentation. Note the alternative language antecedent; German ihren permits both Darstellung and Sprachen but excludes masculine Bau. Do not present the chosen antecedent as certain.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator disposition of claude audit",
+        "id": "D019.audit:claude:F6",
+        "question": "Thinning of the allgemein/einzeln contrast (also affects p5:s3 and p5:s4). 'einzeln' is rendered 'individual' in p5:s1 and the first clause of p5:s2, but reduced to 'each language' for 'der einzelnen Sprache' (s2), 'der einzelnen Sprachen' (s3) and 'jeder einzelnen Sprache' (s4). The sense survives, but the paragraph's organising opposition between the general presentation and the individual languages is less visible. In p5:s3 the plural 'descriptions of the individual languages' also becomes distributive singular.",
+        "resolution": "Restore individual language(s) in sentences2–4 where it preserves the general/individual contrast at little cost.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator disposition of claude audit",
+        "id": "D019.audit:claude:F7",
+        "question": "'die bestimmte Lautbezeichnung' as 'its particular designation by sounds'. The possessive 'its' is added (the source has the definite article), and 'particular' for 'bestimmte' leans toward 'peculiar to it' where the German says 'determinate' or 'specific'. The apposition to 'what constitutes the true individuality' is correctly preserved. Whether 'Lautbezeichnung' means designation by means of sounds (most likely here) or the marking of sounds cannot be settled from this paragraph alone.",
+        "resolution": "Use the specific designation by sounds, removing the added possessive and retaining the apposition to true individuality. Record the designation-by-sounds reading as provisional, with sound notation as an unresolved alternative.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator disposition of claude audit",
+        "id": "D019.audit:claude:F8",
+        "question": "Vortheil/Vorzug/Vorzüge. 'Vortheil' (s4) and 'Vorzug' (s5) are both 'advantage', while 'Vorzüge' (s6) is 'merits'. Because 'diesen Vorzug' in s5 refers back to the 'Vortheil' of s4, 'advantage' is defensible there and 'merits' suits 'Vorzüge und Mängel' as properties of languages. The German lexical link between s5 and s6 is not reproducible without cost. This is a judgment call, not an error.",
+        "resolution": "Retain advantage for the referring-back Vorzug in sentence5 and merits for Vorzüge in sentence6. Preserve the shared German root in this record and note the contextual choice rather than forcing one English noun.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator disposition of claude audit",
+        "id": "D019.audit:claude:F9",
+        "question": "Small scope and term shifts. (a) 'the whole field of the study of language' attaches 'whole' to 'field', whereas 'ganzen' modifies 'Sprachkunde'. (b) 'study of language' (singular, abstract) for 'Sprachkunde' may suggest general theory of language where Humboldt's term is the knowledge or study of languages. (c) The asyndetic 'wie ..., wie ...' is joined with 'or'; 'and' would be more neutral. (d) 'unschlüssig' is nearer 'undecided' than 'uncertain'. None of these alters the claim.",
+        "resolution": "Use language study as a whole for the entire Sprachkunde, consistent with earlier study-of-language wording. Join the two questions with and and use remain undecided. Do not impose a modern disciplinary subfield.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator disposition of claude audit",
+        "id": "D019.audit:claude:F10",
+        "question": "Explicitation. 'an index that brings the material together' supplies an object ('the material') for 'zusammenstellendes', which has none in the source. The addition is harmless, and the likely implied object is the scattered particulars of each language. 'Register' could also be a register or table, not strictly an index.",
+        "resolution": "Retain the descriptive index that brings the material together as a readable explicitation of zusammenstellendes. Note the supplied object and unresolved index/register format; preserve only partial recovery.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator disposition of muse audit",
+        "id": "D019.audit:muse:f1",
+        "question": "Referent and degree are weakened: English 'in its principal parts' uses a singular pronoun readily taken with 'presentation' or 'structure', whereas German plural 'in ihren hauptsächlichsten Theilen' refers to the individual languages, and 'hauptsächlichsten' is superlative.",
+        "resolution": "Partly accept: make the referent explicit and restore most important for the superlative. Reject the assertion that German grammar requires plural languages: ihren fits feminine singular Darstellung or plural Sprachen. Choose presentation provisionally and record the alternative.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator disposition of muse audit",
+        "id": "D019.audit:muse:f2",
+        "question": "Terminological contrast is collapsed: 'gewürdigt' is rendered 'assessed', the same word used for 'beurtheilen' in p5:s1, obscuring the distinction between assessing/judging languages in p5:s1 and appraising or duly valuing a characteristic here.",
+        "resolution": "Use appraised for the valuative gewürdigt while retaining assessed for beurtheilen in sentence1, on contextual grounds.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator disposition of muse audit",
+        "id": "D019.audit:muse:f3",
+        "question": "The parallel German questions 'wie man ... zu stellen, wie ... ihren Werth zu bestimmen hat' present two connected objects of indecision. English 'how to place it ..., or how to determine its worth' can misleadingly suggest alternatives rather than two aspects of the same unresolved judgement.",
+        "resolution": "Join the two connected questions with and; the source supplies parallel wie clauses rather than an either-or choice.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator disposition of muse audit",
+        "id": "D019.audit:muse:f4",
+        "question": "'Uncertain' broadens 'unschlüssig', which denotes remaining undecided or unable to reach a conclusion, rather than general uncertainty or lack of knowledge.",
+        "resolution": "Use remain undecided about how to preserve the investigator’s inability to reach a conclusion rather than general lack of knowledge.",
+        "status": "provisional"
+      }
+    ],
+    "decision_evidence": [
+      {
+        "decision_id": "D019.s1",
+        "evidence_id": "E005.source:s1"
+      },
+      {
+        "decision_id": "D019.s2",
+        "evidence_id": "E005.source:s2"
+      },
+      {
+        "decision_id": "D019.s3",
+        "evidence_id": "E005.source:s3"
+      },
+      {
+        "decision_id": "D019.s4",
+        "evidence_id": "E005.source:s4"
+      },
+      {
+        "decision_id": "D019.s5",
+        "evidence_id": "E005.source:s5"
+      },
+      {
+        "decision_id": "D019.s6",
+        "evidence_id": "E005.source:s6"
+      },
+      {
+        "decision_id": "D019.s7",
+        "evidence_id": "E005.source:s7"
+      },
+      {
+        "decision_id": "D019.audit:claude:F1",
+        "evidence_id": "E005.audit:claude"
+      },
+      {
+        "decision_id": "D019.audit:claude:F1",
+        "evidence_id": "E005.source:s6"
+      },
+      {
+        "decision_id": "D019.audit:claude:F2",
+        "evidence_id": "E005.audit:claude"
+      },
+      {
+        "decision_id": "D019.audit:claude:F2",
+        "evidence_id": "E005.source:s4"
+      },
+      {
+        "decision_id": "D019.audit:claude:F3",
+        "evidence_id": "E005.audit:claude"
+      },
+      {
+        "decision_id": "D019.audit:claude:F3",
+        "evidence_id": "E005.source:s5"
+      },
+      {
+        "decision_id": "D019.audit:claude:F4",
+        "evidence_id": "E005.audit:claude"
+      },
+      {
+        "decision_id": "D019.audit:claude:F4",
+        "evidence_id": "E005.source:s1"
+      },
+      {
+        "decision_id": "D019.audit:claude:F5",
+        "evidence_id": "E005.audit:claude"
+      },
+      {
+        "decision_id": "D019.audit:claude:F5",
+        "evidence_id": "E005.source:s2"
+      },
+      {
+        "decision_id": "D019.audit:claude:F6",
+        "evidence_id": "E005.audit:claude"
+      },
+      {
+        "decision_id": "D019.audit:claude:F6",
+        "evidence_id": "E005.source:s2"
+      },
+      {
+        "decision_id": "D019.audit:claude:F7",
+        "evidence_id": "E005.audit:claude"
+      },
+      {
+        "decision_id": "D019.audit:claude:F7",
+        "evidence_id": "E005.source:s2"
+      },
+      {
+        "decision_id": "D019.audit:claude:F8",
+        "evidence_id": "E005.audit:claude"
+      },
+      {
+        "decision_id": "D019.audit:claude:F8",
+        "evidence_id": "E005.source:s5"
+      },
+      {
+        "decision_id": "D019.audit:claude:F9",
+        "evidence_id": "E005.audit:claude"
+      },
+      {
+        "decision_id": "D019.audit:claude:F9",
+        "evidence_id": "E005.source:s6"
+      },
+      {
+        "decision_id": "D019.audit:claude:F10",
+        "evidence_id": "E005.audit:claude"
+      },
+      {
+        "decision_id": "D019.audit:claude:F10",
+        "evidence_id": "E005.source:s7"
+      },
+      {
+        "decision_id": "D019.audit:muse:f1",
+        "evidence_id": "E005.audit:muse"
+      },
+      {
+        "decision_id": "D019.audit:muse:f1",
+        "evidence_id": "E005.source:s2"
+      },
+      {
+        "decision_id": "D019.audit:muse:f2",
+        "evidence_id": "E005.audit:muse"
+      },
+      {
+        "decision_id": "D019.audit:muse:f2",
+        "evidence_id": "E005.source:s4"
+      },
+      {
+        "decision_id": "D019.audit:muse:f3",
+        "evidence_id": "E005.audit:muse"
+      },
+      {
+        "decision_id": "D019.audit:muse:f3",
+        "evidence_id": "E005.source:s6"
+      },
+      {
+        "decision_id": "D019.audit:muse:f4",
+        "evidence_id": "E005.audit:muse"
+      },
+      {
+        "decision_id": "D019.audit:muse:f4",
+        "evidence_id": "E005.source:s6"
+      }
+    ],
+    "evidence": [
+      {
+        "claim_status": "provisional_printed_base",
+        "excerpt": "Ich fange daher mit der allgemeinen Darstellung des Baues der Amerikanischen Sprachen an, dergestalt, dass ich nach allen Richtungen hin, nach welchen Sprachen zu beurtheilen sind, die Eigenthümlichkeiten der Amerikanischen überhaupt, und die Verschiedenheiten der einzelnen unter sich vollständig anzugeben versuchen werde.",
+        "id": "E005.source:s1",
+        "locator": "printed366 / PDF376 / scan leaf378",
+        "quote_status": "coordinator_image_checked",
+        "source_path": "sources/raw/gs-v-1906.pdf",
+        "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+        "statement": "Coordinator compared the supplied sentence against the page image; provisional printed base, not manuscript collation."
+      },
+      {
+        "claim_status": "provisional_printed_base",
+        "excerpt": "Auf diese Weise wird die Darstellung des Baues der einzelnen Sprachen in ihren hauptsächlichsten Theilen in die allgemeine verwebt, und nur das Unwesentlichere, und das, was die wahre Individualität der einzelnen Sprache ausmacht, die bestimmte Lautbezeichnung, fällt hinweg.",
+        "id": "E005.source:s2",
+        "locator": "printed366 / PDF376 / scan leaf378",
+        "quote_status": "coordinator_image_checked",
+        "source_path": "sources/raw/gs-v-1906.pdf",
+        "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+        "statement": "Coordinator compared the supplied sentence against the page image; provisional printed base, not manuscript collation."
+      },
+      {
+        "claim_status": "provisional_printed_base",
+        "excerpt": "Auf der andren Seite wird allerdings bei diesem Verfahren die Schilderung der einzelnen Sprachen zerrissen, und eine vollständige Uebersicht des Baues einer jeden unmöglich gemacht.",
+        "id": "E005.source:s3",
+        "locator": "printed366 / PDF376 / scan leaf378",
+        "quote_status": "coordinator_image_checked",
+        "source_path": "sources/raw/gs-v-1906.pdf",
+        "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+        "statement": "Coordinator compared the supplied sentence against the page image; provisional printed base, not manuscript collation."
+      },
+      {
+        "claim_status": "provisional_printed_base",
+        "excerpt": "Allein man gewinnt auch den Vortheil, jede Eigenthümlichkeit jeder einzelnen Sprache in dem allgemeinen Bilde gleich an der Stelle zu sehen, wo dieselbe mit denen der andren verglichen, und gewürdigt werden kann.",
+        "id": "E005.source:s4",
+        "locator": "printed366 / PDF376 / scan leaf378",
+        "quote_status": "coordinator_image_checked",
+        "source_path": "sources/raw/gs-v-1906.pdf",
+        "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+        "statement": "Coordinator compared the supplied sentence against the page image; provisional printed base, not manuscript collation."
+      },
+      {
+        "claim_status": "provisional_printed_base",
+        "excerpt": "Wer gewohnt ist viele Sprachen in ihrem Bau zu erforschen, wird aber gerade diesen Vorzug kaum zu hoch anrechnen können.",
+        "id": "E005.source:s5",
+        "locator": "printed366 / PDF376 / scan leaf378",
+        "quote_status": "coordinator_image_checked",
+        "source_path": "sources/raw/gs-v-1906.pdf",
+        "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+        "statement": "Coordinator compared the supplied sentence against the page image; provisional printed base, not manuscript collation."
+      },
+      {
+        "claim_status": "provisional_printed_base",
+        "excerpt": "Denn es ist eine der betrübendsten, aber darum nicht weniger gewöhnlichen Erfahrungen, wenn man sich mit Mühe und Anstrengung in den Bau einer Sprache hineingedacht hat, dennoch unschlüssig zu bleiben, wie man nun diese Sprache in dem Gebiete der ganzen Sprachkunde zu stellen, wie in der Verschiedenheit der gegen einander abzuwägenden Vorzüge und Mängel ihren Werth zu bestimmen hat.",
+        "id": "E005.source:s6",
+        "locator": "printed366–367 / PDF376–377 / scan leaves378–379",
+        "quote_status": "coordinator_image_checked",
+        "source_path": "sources/raw/gs-v-1906.pdf",
+        "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+        "statement": "Coordinator compared the supplied sentence against the page image; provisional printed base, not manuscript collation."
+      },
+      {
+        "claim_status": "provisional_printed_base",
+        "excerpt": "Die Uebersicht, die wir so eben bei diesem Verfahren vermissten, lässt sich doch einigermassen durch ein zusammenstellendes Register wieder erlangen.",
+        "id": "E005.source:s7",
+        "locator": "printed367 / PDF377 / scan leaf379",
+        "quote_status": "coordinator_image_checked",
+        "source_path": "sources/raw/gs-v-1906.pdf",
+        "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+        "statement": "Coordinator compared the supplied sentence against the page image; provisional printed base, not manuscript collation."
+      },
+      {
+        "claim_status": "provisional_model_judgment",
+        "excerpt": "{\"coverage\": [\"p5:s1\", \"p5:s2\", \"p5:s3\", \"p5:s4\", \"p5:s5\", \"p5:s6\", \"p5:s7\"], \"verdict\": \"No material defects. Nothing is omitted or added in substance, and scope, modality and argument direction are preserved in all seven sentences. Five minor defects (one ambiguous referent, one merged terminological contrast, one potentially misleading connective, one weakened clause relation, one grammatically excluded reading left open) and five notes are reported. All are fixable by local rewording.\", \"findings\": [{\"id\": \"F1\", \"source_id\": \"p5:s6\", \"severity\": \"minor\", \"issue\": \"Ambiguous referent. In 'into an understanding of a language's structure and yet remain uncertain how to place it ... how to determine its worth', the pronouns 'it' and 'its' can be read as the structure (or even the understanding). The German names the language as what is to be placed and valued.\", \"source_support\": \"'wie man nun diese Sprache ... zu stellen, wie ... ihren Werth zu bestimmen hat': 'diese Sprache' is explicit, and feminine 'ihren' agrees with 'Sprache', not with masculine 'Bau' (which would require 'seinen').\", \"proposed_fix\": \"'... and yet to remain uncertain how one is now to place that language within the field of the whole study of languages, and how to determine its worth ...'\"}, {\"id\": \"F2\", \"source_id\": \"p5:s4\", \"severity\": \"minor\", \"issue\": \"Merged terminological contrast. 'gewürdigt' is rendered 'assessed', the same word used for 'beurtheilen' in p5:s1. The German uses two different verbs, and 'würdigen' (to appraise, to give something its due value) anticipates 'ihren Werth zu bestimmen' in p5:s6. That link is lost and a false verbal echo with p5:s1 is created.\", \"source_support\": \"p5:s1 'nach welchen Sprachen zu beurtheilen sind'; p5:s4 'verglichen, und gewürdigt werden kann'; p5:s6 'ihren Werth zu bestimmen'.\", \"proposed_fix\": \"'... where it can be compared with those of the others and appraised' (or 'given its due'), keeping 'assessed' or 'judged' for 'beurtheilen' only.\"}, {\"id\": \"F3\", \"source_id\": \"p5:s5\", \"severity\": \"minor\", \"issue\": \"Potentially misleading English. Sentence-initial 'But', directly after 'Yet' in p5:s4, sets the sentence up as a counter to the advantage just named. Combined with 'scarcely ... value ... too highly', it invites the opposite reading, that such a person will hardly value it. The German reinforces the advantage: it can hardly be rated too highly. The 'aber' is a weak, clause-internal particle and 'gerade' is emphatic.\", \"source_support\": \"'wird aber gerade diesen Vorzug kaum zu hoch anrechnen können': 'kaum zu hoch' means 'hardly too highly', i.e. it cannot easily be overrated; 'aber' sits in mid-position, not as a sentence-opening adversative.\", \"proposed_fix\": \"'Anyone accustomed to investigating many languages in their structure will, however, hardly be able to rate precisely this advantage too highly.'\"}, {\"id\": \"F4\", \"source_id\": \"p5:s1\", \"severity\": \"minor\", \"issue\": \"Weakened clause relation after the sentence split. 'dergestalt, dass' specifies the manner in which the general presentation is to be carried out ('in such a way that'). 'In doing so' presents the second statement as an accompanying action, so the specifying relation is no longer explicit.\", \"source_support\": \"'Ich fange ... an, dergestalt, dass ich ... vollständig anzugeben versuchen werde.'\", \"proposed_fix\": \"'I therefore begin with the general presentation ..., and in such a way that I shall try to set out fully ...'; or, if the split is kept, 'I shall do this in such a way that I try to set out fully ...'\"}, {\"id\": \"F5\", \"source_id\": \"p5:s2\", \"severity\": \"minor\", \"issue\": \"Referent of 'in its principal parts'. In English 'its' can be read as referring to 'the structure', which German grammar excludes. The German 'ihren' is itself ambiguous between 'Darstellung' (feminine singular) and 'der einzelnen Sprachen' (plural). The English silently picks the singular and leaves open a reading the source does not allow.\", \"source_support\": \"'die Darstellung des Baues der einzelnen Sprachen in ihren hauptsächlichsten Theilen': 'ihren' cannot refer to masculine 'Bau' (that would be 'seinen'); it fits either 'Darstellung' or 'Sprachen'.\", \"proposed_fix\": \"Unresolved alternative; do not force it. Either 'the presentation of the structure of the individual languages is, in its chief parts, woven into the general one' (clearly the presentation), or 'in their chief parts' (the languages). Record the choice in a translator's note.\"}, {\"id\": \"F6\", \"source_id\": \"p5:s2\", \"severity\": \"note\", \"issue\": \"Thinning of the allgemein/einzeln contrast (also affects p5:s3 and p5:s4). 'einzeln' is rendered 'individual' in p5:s1 and the first clause of p5:s2, but reduced to 'each language' for 'der einzelnen Sprache' (s2), 'der einzelnen Sprachen' (s3) and 'jeder einzelnen Sprache' (s4). The sense survives, but the paragraph's organising opposition between the general presentation and the individual languages is less visible. In p5:s3 the plural 'descriptions of the individual languages' also becomes distributive singular.\", \"source_support\": \"s2 'der einzelnen Sprache'; s3 'die Schilderung der einzelnen Sprachen ... einer jeden'; s4 'jede Eigenthümlichkeit jeder einzelnen Sprache'.\", \"proposed_fix\": \"Restore 'individual' where it is cheap: s2 'the true individuality of the individual language'; s3 'the description of the individual languages ... of each one'; s4 'of each individual language'.\"}, {\"id\": \"F7\", \"source_id\": \"p5:s2\", \"severity\": \"note\", \"issue\": \"'die bestimmte Lautbezeichnung' as 'its particular designation by sounds'. The possessive 'its' is added (the source has the definite article), and 'particular' for 'bestimmte' leans toward 'peculiar to it' where the German says 'determinate' or 'specific'. The apposition to 'what constitutes the true individuality' is correctly preserved. Whether 'Lautbezeichnung' means designation by means of sounds (most likely here) or the marking of sounds cannot be settled from this paragraph alone.\", \"source_support\": \"'das, was die wahre Individualität der einzelnen Sprache ausmacht, die bestimmte Lautbezeichnung, fällt hinweg'.\", \"proposed_fix\": \"'—the determinate designation by sound—' (or 'the specific sound-designation'), with a note if the term is fixed elsewhere in the project.\"}, {\"id\": \"F8\", \"source_id\": \"p5:s5\", \"severity\": \"note\", \"issue\": \"Vortheil/Vorzug/Vorzüge. 'Vortheil' (s4) and 'Vorzug' (s5) are both 'advantage', while 'Vorzüge' (s6) is 'merits'. Because 'diesen Vorzug' in s5 refers back to the 'Vortheil' of s4, 'advantage' is defensible there and 'merits' suits 'Vorzüge und Mängel' as properties of languages. The German lexical link between s5 and s6 is not reproducible without cost. This is a judgment call, not an error.\", \"source_support\": \"s4 'den Vortheil'; s5 'gerade diesen Vorzug'; s6 'Vorzüge und Mängel'.\", \"proposed_fix\": \"No change required. If the project wants the echo, use 'merit' in s5 ('precisely this merit') and 'merits and defects' in s6.\"}, {\"id\": \"F9\", \"source_id\": \"p5:s6\", \"severity\": \"note\", \"issue\": \"Small scope and term shifts. (a) 'the whole field of the study of language' attaches 'whole' to 'field', whereas 'ganzen' modifies 'Sprachkunde'. (b) 'study of language' (singular, abstract) for 'Sprachkunde' may suggest general theory of language where Humboldt's term is the knowledge or study of languages. (c) The asyndetic 'wie ..., wie ...' is joined with 'or'; 'and' would be more neutral. (d) 'unschlüssig' is nearer 'undecided' than 'uncertain'. None of these alters the claim.\", \"source_support\": \"'in dem Gebiete der ganzen Sprachkunde zu stellen, wie in der Verschiedenheit ... ihren Werth zu bestimmen hat'; 'dennoch unschlüssig zu bleiben'.\", \"proposed_fix\": \"'... yet to remain undecided how one is to place that language within the domain of the whole study of languages, and how to determine its worth ...'\"}, {\"id\": \"F10\", \"source_id\": \"p5:s7\", \"severity\": \"note\", \"issue\": \"Explicitation. 'an index that brings the material together' supplies an object ('the material') for 'zusammenstellendes', which has none in the source. The addition is harmless, and the likely implied object is the scattered particulars of each language. 'Register' could also be a register or table, not strictly an index.\", \"source_support\": \"'durch ein zusammenstellendes Register wieder erlangen'.\", \"proposed_fix\": \"Optional: 'through a collating index' (or 'a compilatory register').\"}], \"limitations\": [\"The audit rests solely on the German as supplied in the packet. The text was not checked against the Leitzmann 1906 print or the PDF, and the SHA-256 fingerprints were not verified.\", \"The reported cancellation of the paragraph (Drechsel 2024) and the manuscript status were not assessed and do not affect the findings.\", \"No tools, outside research or additional reviewers were used, as instructed. Judgments on Humboldt's usage ('Lautbezeichnung', 'Sprachkunde', 'würdigen') draw on general knowledge of the period's German, not on a project glossary or parallel passages.\", \"Severity labels are my own two-step scale: 'minor' is a supported defect worth correcting, and 'note' is a defensible choice or unresolved alternative recorded for the editor. No finding reaches the level of a material mistranslation.\", \"The referent of 'ihren' in p5:s2 (F5) and the exact sense of 'Lautbezeichnung' (F7) remain genuinely unresolved on the evidence of this paragraph.\"], \"models\": [\"claude-fable-5-2\"], \"coverage_detail\": [{\"source_id\": \"p5:s1\", \"checked\": true, \"result\": \"one minor finding\"}, {\"source_id\": \"p5:s2\", \"checked\": true, \"result\": \"one minor finding; one unresolved alternative noted\"}, {\"source_id\": \"p5:s3\", \"checked\": true, \"result\": \"no defect beyond the cross-sentence note F6\"}, {\"source_id\": \"p5:s4\", \"checked\": true, \"result\": \"one minor finding\"}, {\"source_id\": \"p5:s5\", \"checked\": true, \"result\": \"one minor finding; one terminological note\"}, {\"source_id\": \"p5:s6\", \"checked\": true, \"result\": \"one minor finding; two notes\"}, {\"source_id\": \"p5:s7\", \"checked\": true, \"result\": \"one note\"}], \"auditor\": \"claude\"}",
+        "id": "E005.audit:claude",
+        "locator": "claude-fable-5-2 audit of the pre-revision synthesis",
+        "quote_status": "model_audit_record",
+        "source_path": "translations/paragraph-005/audits.json",
+        "source_sha256": "cb54c8c0d54e5cdd76213a5760b3afbf0a69d735425be7ac8cbc9d831eb7ba5a",
+        "statement": "Model audit of supplied source and English; not independent source verification."
+      },
+      {
+        "claim_status": "provisional_model_judgment",
+        "excerpt": "{\"coverage\": [\"p5:s1\", \"p5:s2\", \"p5:s3\", \"p5:s4\", \"p5:s5\", \"p5:s6\", \"p5:s7\"], \"verdict\": \"no material defects; minor corrections recommended\", \"findings\": [{\"id\": \"f1\", \"source_id\": \"p5:s2\", \"severity\": \"minor\", \"issue\": \"Referent and degree are weakened: English 'in its principal parts' uses a singular pronoun readily taken with 'presentation' or 'structure', whereas German plural 'in ihren hauptsächlichsten Theilen' refers to the individual languages, and 'hauptsächlichsten' is superlative.\", \"source_support\": \"die Darstellung des Baues der einzelnen Sprachen in ihren hauptsächlichsten Theilen\", \"proposed_fix\": \"Change to 'the presentation of the structure of the individual languages in their most important parts is woven into the general presentation'.\"}, {\"id\": \"f2\", \"source_id\": \"p5:s4\", \"severity\": \"minor\", \"issue\": \"Terminological contrast is collapsed: 'gewürdigt' is rendered 'assessed', the same word used for 'beurtheilen' in p5:s1, obscuring the distinction between assessing/judging languages in p5:s1 and appraising or duly valuing a characteristic here.\", \"source_support\": \"wo dieselbe mit denen der andren verglichen, und gewürdigt werden kann; contrast p5:s1 'nach welchen Sprachen zu beurtheilen sind'\", \"proposed_fix\": \"Change p5:s4 to 'where it can be compared with those of the other languages and appraised', retaining 'assessed' for 'beurtheilen' in p5:s1.\"}, {\"id\": \"f3\", \"source_id\": \"p5:s6\", \"severity\": \"minor\", \"issue\": \"The parallel German questions 'wie man ... zu stellen, wie ... ihren Werth zu bestimmen hat' present two connected objects of indecision. English 'how to place it ..., or how to determine its worth' can misleadingly suggest alternatives rather than two aspects of the same unresolved judgement.\", \"source_support\": \"wie man nun diese Sprache in dem Gebiete der ganzen Sprachkunde zu stellen, wie in der Verschiedenheit ... ihren Werth zu bestimmen hat\", \"proposed_fix\": \"Change to 'how to place it within the whole field of the study of language and how to determine its worth amid ...'.\"}, {\"id\": \"f4\", \"source_id\": \"p5:s6\", \"severity\": \"minor\", \"issue\": \"'Uncertain' broadens 'unschlüssig', which denotes remaining undecided or unable to reach a conclusion, rather than general uncertainty or lack of knowledge.\", \"source_support\": \"dennoch unschlüssig zu bleiben, wie man ... zu stellen ... hat\", \"proposed_fix\": \"Change 'yet remain uncertain how to place it' to 'yet remain undecided how to place it'.\"}], \"limitations\": [\"Audit is limited to the supplied German, English synthesis and adjacent context; no outside research, manuscript inspection or established Humboldt glossary was used, as instructed.\", \"Period and authorial senses of terms such as 'Lautbezeichnung' in p5:s2 and 'zusammenstellendes Register' in p5:s7 cannot be settled from the packet alone. The supplied renderings, 'particular designation by sounds' and 'an index that brings the material together', are supportable literal readings, but alternatives such as 'specific sound-designation'/'phonetic designation' and 'synoptic index/register' remain unresolved and are therefore not reported as defects.\", \"The prefatory claims about GS V, Drechsel (2024), cancellation, manuscript marks and authorial finality were treated as contextual material outside the translation and were not independently verified.\"], \"models\": [\"muse-wonder-full-1.0\"], \"coverage_detail\": [\"p5:s1\", \"p5:s2\", \"p5:s3\", \"p5:s4\", \"p5:s5\", \"p5:s6\", \"p5:s7\"], \"auditor\": \"muse\"}",
+        "id": "E005.audit:muse",
+        "locator": "muse-wonder-full-1.0 audit of the pre-revision synthesis",
+        "quote_status": "model_audit_record",
+        "source_path": "translations/paragraph-005/audits.json",
+        "source_sha256": "cb54c8c0d54e5cdd76213a5760b3afbf0a69d735425be7ac8cbc9d831eb7ba5a",
+        "statement": "Model audit of supplied source and English; not independent source verification."
+      }
+    ],
+    "text_version": [
+      {
+        "body": "Ich fange daher mit der allgemeinen Darstellung des Baues der Amerikanischen Sprachen an, dergestalt, dass ich nach allen Richtungen hin, nach welchen Sprachen zu beurtheilen sind, die Eigenthümlichkeiten der Amerikanischen überhaupt, und die Verschiedenheiten der einzelnen unter sich vollständig anzugeben versuchen werde. Auf diese Weise wird die Darstellung des Baues der einzelnen Sprachen in ihren hauptsächlichsten Theilen in die allgemeine verwebt, und nur das Unwesentlichere, und das, was die wahre Individualität der einzelnen Sprache ausmacht, die bestimmte Lautbezeichnung, fällt hinweg. Auf der andren Seite wird allerdings bei diesem Verfahren die Schilderung der einzelnen Sprachen zerrissen, und eine vollständige Uebersicht des Baues einer jeden unmöglich gemacht. Allein man gewinnt auch den Vortheil, jede Eigenthümlichkeit jeder einzelnen Sprache in dem allgemeinen Bilde gleich an der Stelle zu sehen, wo dieselbe mit denen der andren verglichen, und gewürdigt werden kann. Wer gewohnt ist viele Sprachen in ihrem Bau zu erforschen, wird aber gerade diesen Vorzug kaum zu hoch anrechnen können. Denn es ist eine der betrübendsten, aber darum nicht weniger gewöhnlichen Erfahrungen, wenn man sich mit Mühe und Anstrengung in den Bau einer Sprache hineingedacht hat, dennoch unschlüssig zu bleiben, wie man nun diese Sprache in dem Gebiete der ganzen Sprachkunde zu stellen, wie in der Verschiedenheit der gegen einander abzuwägenden Vorzüge und Mängel ihren Werth zu bestimmen hat. Die Uebersicht, die wir so eben bei diesem Verfahren vermissten, lässt sich doch einigermassen durch ein zusammenstellendes Register wieder erlangen.",
+        "body_sha256": "646640db7ce05d2b7ac503c2c2e2953efa24a7f4eae9914d315d19839d3f8525",
+        "id": "grundzuege-005-v1",
+        "language": "de",
+        "locator": "GS V §5; printed366–367 / PDF376–377 / scan leaves378–379",
+        "provenance": "Coordinator image-checked print; D001 remains provisional. Follows GS V (Leitzmann 1906), §5, printed366–367 / PDF376–377 / scan leaves378–379. Drechsel (2024:155) reports cancellation of the first seven paragraphs. Manuscript marks, extent and editorial meaning remain independently unverified. Retained as the printed reading; authorial finality unresolved.",
+        "source_path": "sources/raw/gs-v-1906.pdf",
+        "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+        "title": "Grundzüge §5 — checked German",
+        "transcription_status": "coordinator_image_checked"
+      },
+      {
+        "body": "I therefore begin with the general presentation of the structure of the American languages, in such a way that I shall attempt to state completely, along all the lines on which languages are to be judged, the peculiarities of the American languages in general and the differences of the individual languages among themselves. In this way the presentation of the structure of the individual languages is, in its principal parts, woven into the general presentation, and only the less essential, and that which constitutes the true individuality of the individual language, the determinate designation by sounds, falls away. On the other hand, this procedure does admittedly tear apart the portrayal of the individual languages and make a complete overview of the structure of each one impossible. Yet one also gains the advantage of seeing every peculiarity of every individual language, within the general picture, right at the place where it can be compared with those of the other languages and appraised. Anyone who is accustomed to investigating the structure of many languages will, however, hardly be able to rate precisely this advantage too highly. For it is one of the most distressing experiences, though no less common for that, that when one has with toil and exertion thought one's way into the structure of a language, one nevertheless remains undecided as to how one is now to place this language within the domain of the whole study of language, and how, amid the diversity of the merits and defects that are to be weighed against one another, one is to determine its worth. The overview that we just now found wanting in this procedure can nevertheless be regained to some degree by means of a collating index.",
+        "body_sha256": "0b695a75ff778c2573728e625cf5fe425bd687ae0c5da46700aec7cac78a13f6",
+        "id": "en5-claude-v1",
+        "language": "en",
+        "locator": "GS V §5; printed366–367 / PDF376–377 / scan leaves378–379",
+        "provenance": "Fresh isolated candidate; runtime claude-fable-5-2 Follows GS V (Leitzmann 1906), §5, printed366–367 / PDF376–377 / scan leaves378–379. Drechsel (2024:155) reports cancellation of the first seven paragraphs. Manuscript marks, extent and editorial meaning remain independently unverified. Retained as the printed reading; authorial finality unresolved.",
+        "source_path": "translations/paragraph-005/candidates.json",
+        "source_sha256": "8de093c2038ebade8616adfbe9a6e4bec9daef99eb7a3c2e47f321be36ea5e7e",
+        "title": "Grundzüge §5 — claude English draft",
+        "transcription_status": "generated_translation_not_certified"
+      },
+      {
+        "body": "I therefore begin with the general presentation of the structure of the American languages, in such a way that I shall attempt to state completely, in all the respects in which languages are to be judged, the peculiarities of the American languages in general and the differences of the individual ones among themselves. In this way the presentation of the structure of the individual languages in its most principal parts is woven into the general presentation, and only what is less essential, and that which constitutes the true individuality of the individual language, the determinate designation of sounds, falls away. On the other hand, with this procedure the description of the individual languages is admittedly torn apart, and a complete overview of the structure of each one is made impossible. But one also gains the advantage of seeing every peculiarity of each individual language in the general picture immediately at the place where it can be compared with those of the others and appraised. Anyone who is accustomed to investigating many languages in their structure, however, will scarcely be able to rate precisely this advantage too highly. For it is one of the most disheartening, yet for that reason no less common, experiences, after one has thought one's way into the structure of a language with trouble and exertion, nevertheless to remain undecided as to how one is now to place this language in the domain of the study of language as a whole, how, in the diversity of advantages and defects that are to be weighed against one another, one is to determine its value. The overview which we have just found lacking with this procedure can nevertheless be regained to some extent by means of a register that brings the material together.",
+        "body_sha256": "c08b34077905035b1e06b0704a43b946e99cff94df0b220cb61e4b416089fa43",
+        "id": "en5-muse-v1",
+        "language": "en",
+        "locator": "GS V §5; printed366–367 / PDF376–377 / scan leaves378–379",
+        "provenance": "Fresh isolated candidate; runtime muse-wonder-full-1.0 Follows GS V (Leitzmann 1906), §5, printed366–367 / PDF376–377 / scan leaves378–379. Drechsel (2024:155) reports cancellation of the first seven paragraphs. Manuscript marks, extent and editorial meaning remain independently unverified. Retained as the printed reading; authorial finality unresolved.",
+        "source_path": "translations/paragraph-005/candidates.json",
+        "source_sha256": "8de093c2038ebade8616adfbe9a6e4bec9daef99eb7a3c2e47f321be36ea5e7e",
+        "title": "Grundzüge §5 — muse English draft",
+        "transcription_status": "generated_translation_not_certified"
+      },
+      {
+        "body": "I therefore begin with a general account of the structure of the American languages, in which I shall attempt to give a complete account, in every respect in which languages are to be assessed, of the characteristics of the American languages generally and of the differences among the individual languages. In this way, the account of the structure of the individual languages is woven into the general account in its principal parts; only the less essential matters and that which constitutes the true individuality of each language—its particular expression in sounds—are omitted. On the other hand, this procedure does admittedly break up the description of the individual languages and make a complete overview of the structure of each impossible. Yet one also gains the advantage of seeing every characteristic of each individual language in the general picture at precisely the place where it can be compared with those of the others and assessed. Anyone accustomed to investigating the structure of many languages, however, will scarcely be able to value this particular advantage too highly. For it is one of the most disheartening experiences, though no less common for that, to have worked one's way, with effort and exertion, into an understanding of a language's structure, yet still remain uncertain how to situate that language within the whole field of linguistic knowledge, and how to determine its worth amid the diversity of merits and shortcomings that must be weighed against one another. The overview whose absence we have just noted in this procedure can nevertheless be recovered to some extent by means of an index that brings the material together.",
+        "body_sha256": "6f4694f7cc434b6358faf13ae1bf0ab308feb3c78dce908b752b88d9cef202eb",
+        "id": "en5-codex-v1",
+        "language": "en",
+        "locator": "GS V §5; printed366–367 / PDF376–377 / scan leaves378–379",
+        "provenance": "Fresh isolated candidate; runtime gpt-6.1-sol Follows GS V (Leitzmann 1906), §5, printed366–367 / PDF376–377 / scan leaves378–379. Drechsel (2024:155) reports cancellation of the first seven paragraphs. Manuscript marks, extent and editorial meaning remain independently unverified. Retained as the printed reading; authorial finality unresolved.",
+        "source_path": "translations/paragraph-005/candidates.json",
+        "source_sha256": "8de093c2038ebade8616adfbe9a6e4bec9daef99eb7a3c2e47f321be36ea5e7e",
+        "title": "Grundzüge §5 — codex English draft",
+        "transcription_status": "generated_translation_not_certified"
+      },
+      {
+        "body": "I therefore begin with the general presentation of the structure of the American languages. In doing so, I shall try to set out fully, in every respect in which languages are to be assessed, the distinctive characteristics of the American languages as a whole and the differences among the individual languages. In this way, the presentation of the structure of the individual languages, in its principal parts, is woven into the general presentation; only the less essential matters and what constitutes the true individuality of each language—its particular designation by sounds—are left out. On the other hand, this procedure admittedly breaks up the description of each language and makes a complete overview of its structure impossible. Yet one also gains the advantage of seeing every distinctive characteristic of each language, within the general picture, at the very point where it can be compared with those of the other languages and assessed. But anyone accustomed to investigating the structure of many languages will scarcely be able to value this very advantage too highly. For it is one of the most disheartening experiences, though no less common for that, to have worked one’s way with effort and exertion into an understanding of a language’s structure and yet remain uncertain how to place it within the whole field of the study of language, or how to determine its worth amid the variety of merits and shortcomings to be weighed against one another. The overview we have just found lacking in this procedure can nevertheless be recovered to some extent through an index that brings the material together.",
+        "body_sha256": "180145a92036a4816fe0e74baa3244e9592d66c2b20aef1db8335ed040c6594f",
+        "id": "en5-synthesis-v1",
+        "language": "en",
+        "locator": "GS V §5; printed366–367 / PDF376–377 / scan leaves378–379",
+        "provenance": "Coordinator pre-audit synthesis; superseded by en5-revised-v2. Follows GS V (Leitzmann 1906), §5, printed366–367 / PDF376–377 / scan leaves378–379. Drechsel (2024:155) reports cancellation of the first seven paragraphs. Manuscript marks, extent and editorial meaning remain independently unverified. Retained as the printed reading; authorial finality unresolved.",
+        "source_path": "translations/paragraph-005/synthesis.json",
+        "source_sha256": "337a7aa3d941584a5edeea6647b5fee13fd17edb745de7d4ad120ad5c6d1f610",
+        "title": "Grundzüge §5 — synthesis English draft",
+        "transcription_status": "generated_translation_not_certified"
+      },
+      {
+        "body": "I therefore begin with the general presentation of the structure of the American languages, in such a way that I shall try to set out fully, in every respect in which languages are to be assessed, the distinctive characteristics of the American languages in general and the differences among the individual languages. In this way, the most important parts of the presentation of the structure of the individual languages are woven into the general presentation; only the less essential matters and what constitutes the true individuality of the individual language—the specific designation by sounds—are left out. On the other hand, this procedure admittedly breaks up the description of the individual languages and makes a complete overview of the structure of each one impossible. Yet one also gains the advantage of seeing every distinctive characteristic of each individual language within the general picture, at the very point where it can be compared with those of the other languages and appraised. Anyone accustomed to investigating the structure of many languages will, however, scarcely be able to rate this very advantage too highly. For it is one of the most disheartening experiences, though no less common for that, to have worked one’s way with effort and exertion into an understanding of a language’s structure and yet remain undecided about how that language is now to be placed within the field of language study as a whole, and how its worth is to be determined amid the variety of merits and shortcomings to be weighed against one another. The overview we have just found lacking in this procedure can nevertheless be recovered to some extent through an index that brings the material together.",
+        "body_sha256": "2dfa04240faca7e06d1f6357c0a2723a3cc2ce24e68abd811bad5f750d6327bc",
+        "id": "en5-revised-v2",
+        "language": "en",
+        "locator": "GS V §5; printed366–367 / PDF376–377 / scan leaves378–379",
+        "provenance": "Coordinator revision after one audit cycle; English review pending; no specialist validation. Follows GS V (Leitzmann 1906), §5, printed366–367 / PDF376–377 / scan leaves378–379. Drechsel (2024:155) reports cancellation of the first seven paragraphs. Manuscript marks, extent and editorial meaning remain independently unverified. Retained as the printed reading; authorial finality unresolved.",
+        "source_path": "translations/paragraph-005/revised.json",
+        "source_sha256": "f2bdb18739e03a364bc2f1f8263e3ed9176d358ed59476d23cd266cb3a9a3b23",
+        "title": "Grundzüge §5 — provisional revised English",
+        "transcription_status": "generated_translation_not_certified"
+      }
+    ],
+    "unit": [
+      {
+        "analysis_id": "p5:de:layout-v1",
+        "end": 47,
+        "id": "p5:term:1",
+        "kind": "phrase",
+        "label": "Darstellung",
+        "note": "Selected contextual term-rule association; not exhaustive token-level sense coding.",
+        "parent_id": "p5:de:s1",
+        "start": 36,
+        "version_id": "grundzuege-005-v1"
+      },
+      {
+        "analysis_id": "p5:de:layout-v1",
+        "end": 57,
+        "id": "p5:term:2",
+        "kind": "phrase",
+        "label": "Baues",
+        "note": "Selected contextual term-rule association; not exhaustive token-level sense coding.",
+        "parent_id": "p5:de:s1",
+        "start": 52,
+        "version_id": "grundzuege-005-v1"
+      },
+      {
+        "analysis_id": "p5:de:layout-v1",
+        "end": 204,
+        "id": "p5:term:3",
+        "kind": "phrase",
+        "label": "Eigenthümlichkeiten",
+        "note": "Selected contextual term-rule association; not exhaustive token-level sense coding.",
+        "parent_id": "p5:de:s1",
+        "start": 185,
+        "version_id": "grundzuege-005-v1"
+      },
+      {
+        "analysis_id": "p5:de:layout-v1",
+        "end": 523,
+        "id": "p5:term:4",
+        "kind": "phrase",
+        "label": "Individualität",
+        "note": "Selected contextual term-rule association; not exhaustive token-level sense coding.",
+        "parent_id": "p5:de:s2",
+        "start": 509,
+        "version_id": "grundzuege-005-v1"
+      },
+      {
+        "analysis_id": "p5:de:layout-v1",
+        "end": 585,
+        "id": "p5:term:5",
+        "kind": "phrase",
+        "label": "Lautbezeichnung",
+        "note": "Selected contextual term-rule association; not exhaustive token-level sense coding.",
+        "parent_id": "p5:de:s2",
+        "start": 570,
+        "version_id": "grundzuege-005-v1"
+      },
+      {
+        "analysis_id": "p5:de:layout-v1",
+        "end": 843,
+        "id": "p5:term:6",
+        "kind": "phrase",
+        "label": "Eigenthümlichkeit",
+        "note": "Selected contextual term-rule association; not exhaustive token-level sense coding.",
+        "parent_id": "p5:de:s4",
+        "start": 826,
+        "version_id": "grundzuege-005-v1"
+      },
+      {
+        "analysis_id": "p5:de:layout-v1",
+        "end": 1635,
+        "id": "p5:term:7",
+        "kind": "phrase",
+        "label": "Register",
+        "note": "Selected contextual term-rule association; not exhaustive token-level sense coding.",
+        "parent_id": "p5:de:s7",
+        "start": 1627,
+        "version_id": "grundzuege-005-v1"
+      },
+      {
+        "analysis_id": "p5:de:layout-v1",
+        "end": 106,
+        "id": "p5:span:1:left",
+        "kind": "phrase",
+        "label": "manner of presentation remains explicit",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p5:de:s1",
+        "start": 90,
+        "version_id": "grundzuege-005-v1"
+      },
+      {
+        "analysis_id": "p5:revised:layout-v1",
+        "end": 110,
+        "id": "p5:span:1:right",
+        "kind": "phrase",
+        "label": "manner of presentation remains explicit",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p5:revised:s1",
+        "start": 92,
+        "version_id": "en5-revised-v2"
+      },
+      {
+        "analysis_id": "p5:de:layout-v1",
+        "end": 179,
+        "id": "p5:span:2:left",
+        "kind": "phrase",
+        "label": "scope of attempted assessment",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p5:de:s1",
+        "start": 111,
+        "version_id": "grundzuege-005-v1"
+      },
+      {
+        "analysis_id": "p5:revised:layout-v1",
+        "end": 195,
+        "id": "p5:span:2:right",
+        "kind": "phrase",
+        "label": "scope of attempted assessment",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p5:revised:s1",
+        "start": 141,
+        "version_id": "en5-revised-v2"
+      },
+      {
+        "analysis_id": "p5:de:layout-v1",
+        "end": 429,
+        "id": "p5:span:3:left",
+        "kind": "phrase",
+        "label": "provisional presentation antecedent; languages alternative retained",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p5:de:s2",
+        "start": 395,
+        "version_id": "grundzuege-005-v1"
+      },
+      {
+        "analysis_id": "p5:revised:layout-v1",
+        "end": 375,
+        "id": "p5:span:3:right",
+        "kind": "phrase",
+        "label": "provisional presentation antecedent; languages alternative retained",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p5:revised:s2",
+        "start": 331,
+        "version_id": "en5-revised-v2"
+      },
+      {
+        "analysis_id": "p5:de:layout-v1",
+        "end": 599,
+        "id": "p5:span:4:left",
+        "kind": "phrase",
+        "label": "two coordinated omissions and apposition",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p5:de:s2",
+        "start": 461,
+        "version_id": "grundzuege-005-v1"
+      },
+      {
+        "analysis_id": "p5:revised:layout-v1",
+        "end": 612,
+        "id": "p5:span:4:right",
+        "kind": "phrase",
+        "label": "two coordinated omissions and apposition",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p5:revised:s2",
+        "start": 462,
+        "version_id": "en5-revised-v2"
+      },
+      {
+        "analysis_id": "p5:de:layout-v1",
+        "end": 585,
+        "id": "p5:span:5:left",
+        "kind": "phrase",
+        "label": "provisional sound-designation reading",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p5:de:s2",
+        "start": 556,
+        "version_id": "grundzuege-005-v1"
+      },
+      {
+        "analysis_id": "p5:revised:layout-v1",
+        "end": 599,
+        "id": "p5:span:5:right",
+        "kind": "phrase",
+        "label": "provisional sound-designation reading",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p5:revised:s2",
+        "start": 565,
+        "version_id": "en5-revised-v2"
+      },
+      {
+        "analysis_id": "p5:de:layout-v1",
+        "end": 781,
+        "id": "p5:span:6:left",
+        "kind": "phrase",
+        "label": "complete overview unavailable under this procedure",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p5:de:s3",
+        "start": 713,
+        "version_id": "grundzuege-005-v1"
+      },
+      {
+        "analysis_id": "p5:revised:layout-v1",
+        "end": 782,
+        "id": "p5:span:6:right",
+        "kind": "phrase",
+        "label": "complete overview unavailable under this procedure",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p5:revised:s3",
+        "start": 717,
+        "version_id": "en5-revised-v2"
+      },
+      {
+        "analysis_id": "p5:de:layout-v1",
+        "end": 994,
+        "id": "p5:span:7:left",
+        "kind": "phrase",
+        "label": "characteristic compared with characteristics of other languages",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p5:de:s4",
+        "start": 924,
+        "version_id": "grundzuege-005-v1"
+      },
+      {
+        "analysis_id": "p5:revised:layout-v1",
+        "end": 1006,
+        "id": "p5:span:7:right",
+        "kind": "phrase",
+        "label": "characteristic compared with characteristics of other languages",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p5:revised:s4",
+        "start": 934,
+        "version_id": "en5-revised-v2"
+      },
+      {
+        "analysis_id": "p5:de:layout-v1",
+        "end": 1115,
+        "id": "p5:span:8:left",
+        "kind": "phrase",
+        "label": "qualified positive valuation",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p5:de:s5",
+        "start": 1055,
+        "version_id": "grundzuege-005-v1"
+      },
+      {
+        "analysis_id": "p5:revised:layout-v1",
+        "end": 1145,
+        "id": "p5:span:8:right",
+        "kind": "phrase",
+        "label": "qualified positive valuation",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p5:revised:s5",
+        "start": 1075,
+        "version_id": "en5-revised-v2"
+      },
+      {
+        "analysis_id": "p5:de:layout-v1",
+        "end": 1285,
+        "id": "p5:span:9:left",
+        "kind": "phrase",
+        "label": "effortful entry into understanding",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p5:de:s6",
+        "start": 1204,
+        "version_id": "grundzuege-005-v1"
+      },
+      {
+        "analysis_id": "p5:revised:layout-v1",
+        "end": 1329,
+        "id": "p5:span:9:right",
+        "kind": "phrase",
+        "label": "effortful entry into understanding",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p5:revised:s6",
+        "start": 1232,
+        "version_id": "en5-revised-v2"
+      },
+      {
+        "analysis_id": "p5:de:layout-v1",
+        "end": 1393,
+        "id": "p5:span:10:left",
+        "kind": "phrase",
+        "label": "continued indecision and language as bearer",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p5:de:s6",
+        "start": 1287,
+        "version_id": "grundzuege-005-v1"
+      },
+      {
+        "analysis_id": "p5:revised:layout-v1",
+        "end": 1444,
+        "id": "p5:span:10:right",
+        "kind": "phrase",
+        "label": "continued indecision and language as bearer",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p5:revised:s6",
+        "start": 1330,
+        "version_id": "en5-revised-v2"
+      },
+      {
+        "analysis_id": "p5:de:layout-v1",
+        "end": 1501,
+        "id": "p5:span:11:left",
+        "kind": "phrase",
+        "label": "connected question of comparative valuation",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p5:de:s6",
+        "start": 1395,
+        "version_id": "grundzuege-005-v1"
+      },
+      {
+        "analysis_id": "p5:revised:layout-v1",
+        "end": 1561,
+        "id": "p5:span:11:right",
+        "kind": "phrase",
+        "label": "connected question of comparative valuation",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p5:revised:s6",
+        "start": 1450,
+        "version_id": "en5-revised-v2"
+      },
+      {
+        "analysis_id": "p5:de:layout-v1",
+        "end": 1651,
+        "id": "p5:span:12:left",
+        "kind": "phrase",
+        "label": "only partial recovery through index",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p5:de:s7",
+        "start": 1568,
+        "version_id": "grundzuege-005-v1"
+      },
+      {
+        "analysis_id": "p5:revised:layout-v1",
+        "end": 1716,
+        "id": "p5:span:12:right",
+        "kind": "phrase",
+        "label": "only partial recovery through index",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p5:revised:s7",
+        "start": 1621,
+        "version_id": "en5-revised-v2"
+      }
+    ],
+    "unit_decision": [
+      {
+        "decision_id": "D019.s1",
+        "unit_id": "p5:de:s1"
+      },
+      {
+        "decision_id": "D019.s1",
+        "unit_id": "p5:revised:s1"
+      },
+      {
+        "decision_id": "D019.s2",
+        "unit_id": "p5:de:s2"
+      },
+      {
+        "decision_id": "D019.s2",
+        "unit_id": "p5:revised:s2"
+      },
+      {
+        "decision_id": "D019.s3",
+        "unit_id": "p5:de:s3"
+      },
+      {
+        "decision_id": "D019.s3",
+        "unit_id": "p5:revised:s3"
+      },
+      {
+        "decision_id": "D019.s4",
+        "unit_id": "p5:de:s4"
+      },
+      {
+        "decision_id": "D019.s4",
+        "unit_id": "p5:revised:s4"
+      },
+      {
+        "decision_id": "D019.s5",
+        "unit_id": "p5:de:s5"
+      },
+      {
+        "decision_id": "D019.s5",
+        "unit_id": "p5:revised:s5"
+      },
+      {
+        "decision_id": "D019.s6",
+        "unit_id": "p5:de:s6"
+      },
+      {
+        "decision_id": "D019.s6",
+        "unit_id": "p5:revised:s6"
+      },
+      {
+        "decision_id": "D019.s7",
+        "unit_id": "p5:de:s7"
+      },
+      {
+        "decision_id": "D019.s7",
+        "unit_id": "p5:revised:s7"
+      },
+      {
+        "decision_id": "D019.audit:claude:F1",
+        "unit_id": "p5:de:s6"
+      },
+      {
+        "decision_id": "D019.audit:claude:F1",
+        "unit_id": "p5:revised:s6"
+      },
+      {
+        "decision_id": "D019.audit:claude:F2",
+        "unit_id": "p5:de:s4"
+      },
+      {
+        "decision_id": "D019.audit:claude:F2",
+        "unit_id": "p5:revised:s4"
+      },
+      {
+        "decision_id": "D019.audit:claude:F3",
+        "unit_id": "p5:de:s5"
+      },
+      {
+        "decision_id": "D019.audit:claude:F3",
+        "unit_id": "p5:revised:s5"
+      },
+      {
+        "decision_id": "D019.audit:claude:F4",
+        "unit_id": "p5:de:s1"
+      },
+      {
+        "decision_id": "D019.audit:claude:F4",
+        "unit_id": "p5:revised:s1"
+      },
+      {
+        "decision_id": "D019.audit:claude:F5",
+        "unit_id": "p5:de:s2"
+      },
+      {
+        "decision_id": "D019.audit:claude:F5",
+        "unit_id": "p5:revised:s2"
+      },
+      {
+        "decision_id": "D019.audit:claude:F6",
+        "unit_id": "p5:de:s2"
+      },
+      {
+        "decision_id": "D019.audit:claude:F6",
+        "unit_id": "p5:revised:s2"
+      },
+      {
+        "decision_id": "D019.audit:claude:F7",
+        "unit_id": "p5:de:s2"
+      },
+      {
+        "decision_id": "D019.audit:claude:F7",
+        "unit_id": "p5:revised:s2"
+      },
+      {
+        "decision_id": "D019.audit:claude:F8",
+        "unit_id": "p5:de:s5"
+      },
+      {
+        "decision_id": "D019.audit:claude:F8",
+        "unit_id": "p5:revised:s5"
+      },
+      {
+        "decision_id": "D019.audit:claude:F9",
+        "unit_id": "p5:de:s6"
+      },
+      {
+        "decision_id": "D019.audit:claude:F9",
+        "unit_id": "p5:revised:s6"
+      },
+      {
+        "decision_id": "D019.audit:claude:F10",
+        "unit_id": "p5:de:s7"
+      },
+      {
+        "decision_id": "D019.audit:claude:F10",
+        "unit_id": "p5:revised:s7"
+      },
+      {
+        "decision_id": "D019.audit:muse:f1",
+        "unit_id": "p5:de:s2"
+      },
+      {
+        "decision_id": "D019.audit:muse:f1",
+        "unit_id": "p5:revised:s2"
+      },
+      {
+        "decision_id": "D019.audit:muse:f2",
+        "unit_id": "p5:de:s4"
+      },
+      {
+        "decision_id": "D019.audit:muse:f2",
+        "unit_id": "p5:revised:s4"
+      },
+      {
+        "decision_id": "D019.audit:muse:f3",
+        "unit_id": "p5:de:s6"
+      },
+      {
+        "decision_id": "D019.audit:muse:f3",
+        "unit_id": "p5:revised:s6"
+      },
+      {
+        "decision_id": "D019.audit:muse:f4",
+        "unit_id": "p5:de:s6"
+      },
+      {
+        "decision_id": "D019.audit:muse:f4",
+        "unit_id": "p5:revised:s6"
+      },
+      {
+        "decision_id": "D009.lex:darstellung:s01",
+        "unit_id": "p5:term:1"
+      },
+      {
+        "decision_id": "D009.lex:bau:s01",
+        "unit_id": "p5:term:2"
+      },
+      {
+        "decision_id": "D009.lex:eigenthuemlichkeit:s01",
+        "unit_id": "p5:term:3"
+      },
+      {
+        "decision_id": "D009.lex:individualitaet:s01",
+        "unit_id": "p5:term:4"
+      },
+      {
+        "decision_id": "D009.lex:lautbezeichnung:s01",
+        "unit_id": "p5:term:5"
+      },
+      {
+        "decision_id": "D009.lex:eigenthuemlichkeit:s01",
+        "unit_id": "p5:term:6"
+      },
+      {
+        "decision_id": "D009.lex:register:s01",
+        "unit_id": "p5:term:7"
+      },
+      {
+        "decision_id": "D019.s1",
+        "unit_id": "p5:span:1:left"
+      },
+      {
+        "decision_id": "D019.s1",
+        "unit_id": "p5:span:1:right"
+      },
+      {
+        "decision_id": "D019.s1",
+        "unit_id": "p5:span:2:left"
+      },
+      {
+        "decision_id": "D019.s1",
+        "unit_id": "p5:span:2:right"
+      },
+      {
+        "decision_id": "D019.s2",
+        "unit_id": "p5:span:3:left"
+      },
+      {
+        "decision_id": "D019.s2",
+        "unit_id": "p5:span:3:right"
+      },
+      {
+        "decision_id": "D019.s2",
+        "unit_id": "p5:span:4:left"
+      },
+      {
+        "decision_id": "D019.s2",
+        "unit_id": "p5:span:4:right"
+      },
+      {
+        "decision_id": "D019.s2",
+        "unit_id": "p5:span:5:left"
+      },
+      {
+        "decision_id": "D019.s2",
+        "unit_id": "p5:span:5:right"
+      },
+      {
+        "decision_id": "D019.s3",
+        "unit_id": "p5:span:6:left"
+      },
+      {
+        "decision_id": "D019.s3",
+        "unit_id": "p5:span:6:right"
+      },
+      {
+        "decision_id": "D019.s4",
+        "unit_id": "p5:span:7:left"
+      },
+      {
+        "decision_id": "D019.s4",
+        "unit_id": "p5:span:7:right"
+      },
+      {
+        "decision_id": "D019.s5",
+        "unit_id": "p5:span:8:left"
+      },
+      {
+        "decision_id": "D019.s5",
+        "unit_id": "p5:span:8:right"
+      },
+      {
+        "decision_id": "D019.s6",
+        "unit_id": "p5:span:9:left"
+      },
+      {
+        "decision_id": "D019.s6",
+        "unit_id": "p5:span:9:right"
+      },
+      {
+        "decision_id": "D019.s6",
+        "unit_id": "p5:span:10:left"
+      },
+      {
+        "decision_id": "D019.s6",
+        "unit_id": "p5:span:10:right"
+      },
+      {
+        "decision_id": "D019.s6",
+        "unit_id": "p5:span:11:left"
+      },
+      {
+        "decision_id": "D019.s6",
+        "unit_id": "p5:span:11:right"
+      },
+      {
+        "decision_id": "D019.s7",
+        "unit_id": "p5:span:12:left"
+      },
+      {
+        "decision_id": "D019.s7",
+        "unit_id": "p5:span:12:right"
+      }
+    ],
+    "unit_evidence": [
+      {
+        "evidence_id": "E005.source:s1",
+        "unit_id": "p5:de:s1"
+      },
+      {
+        "evidence_id": "E005.source:s2",
+        "unit_id": "p5:de:s2"
+      },
+      {
+        "evidence_id": "E005.source:s3",
+        "unit_id": "p5:de:s3"
+      },
+      {
+        "evidence_id": "E005.source:s4",
+        "unit_id": "p5:de:s4"
+      },
+      {
+        "evidence_id": "E005.source:s5",
+        "unit_id": "p5:de:s5"
+      },
+      {
+        "evidence_id": "E005.source:s6",
+        "unit_id": "p5:de:s6"
+      },
+      {
+        "evidence_id": "E005.source:s7",
+        "unit_id": "p5:de:s7"
+      },
+      {
+        "evidence_id": "E005.source:s1",
+        "unit_id": "p5:term:1"
+      },
+      {
+        "evidence_id": "E005.source:s1",
+        "unit_id": "p5:term:2"
+      },
+      {
+        "evidence_id": "E005.source:s1",
+        "unit_id": "p5:term:3"
+      },
+      {
+        "evidence_id": "E005.source:s2",
+        "unit_id": "p5:term:4"
+      },
+      {
+        "evidence_id": "E005.source:s2",
+        "unit_id": "p5:term:5"
+      },
+      {
+        "evidence_id": "E005.source:s4",
+        "unit_id": "p5:term:6"
+      },
+      {
+        "evidence_id": "E005.source:s7",
+        "unit_id": "p5:term:7"
+      },
+      {
+        "evidence_id": "E005.source:s1",
+        "unit_id": "p5:span:1:left"
+      },
+      {
+        "evidence_id": "E005.source:s1",
+        "unit_id": "p5:span:1:right"
+      },
+      {
+        "evidence_id": "E005.source:s1",
+        "unit_id": "p5:span:2:left"
+      },
+      {
+        "evidence_id": "E005.source:s1",
+        "unit_id": "p5:span:2:right"
+      },
+      {
+        "evidence_id": "E005.source:s2",
+        "unit_id": "p5:span:3:left"
+      },
+      {
+        "evidence_id": "E005.source:s2",
+        "unit_id": "p5:span:3:right"
+      },
+      {
+        "evidence_id": "E005.source:s2",
+        "unit_id": "p5:span:4:left"
+      },
+      {
+        "evidence_id": "E005.source:s2",
+        "unit_id": "p5:span:4:right"
+      },
+      {
+        "evidence_id": "E005.source:s2",
+        "unit_id": "p5:span:5:left"
+      },
+      {
+        "evidence_id": "E005.source:s2",
+        "unit_id": "p5:span:5:right"
+      },
+      {
+        "evidence_id": "E005.source:s3",
+        "unit_id": "p5:span:6:left"
+      },
+      {
+        "evidence_id": "E005.source:s3",
+        "unit_id": "p5:span:6:right"
+      },
+      {
+        "evidence_id": "E005.source:s4",
+        "unit_id": "p5:span:7:left"
+      },
+      {
+        "evidence_id": "E005.source:s4",
+        "unit_id": "p5:span:7:right"
+      },
+      {
+        "evidence_id": "E005.source:s5",
+        "unit_id": "p5:span:8:left"
+      },
+      {
+        "evidence_id": "E005.source:s5",
+        "unit_id": "p5:span:8:right"
+      },
+      {
+        "evidence_id": "E005.source:s6",
+        "unit_id": "p5:span:9:left"
+      },
+      {
+        "evidence_id": "E005.source:s6",
+        "unit_id": "p5:span:9:right"
+      },
+      {
+        "evidence_id": "E005.source:s6",
+        "unit_id": "p5:span:10:left"
+      },
+      {
+        "evidence_id": "E005.source:s6",
+        "unit_id": "p5:span:10:right"
+      },
+      {
+        "evidence_id": "E005.source:s6",
+        "unit_id": "p5:span:11:left"
+      },
+      {
+        "evidence_id": "E005.source:s6",
+        "unit_id": "p5:span:11:right"
+      },
+      {
+        "evidence_id": "E005.source:s7",
+        "unit_id": "p5:span:12:left"
+      },
+      {
+        "evidence_id": "E005.source:s7",
+        "unit_id": "p5:span:12:right"
+      }
+    ]
+  }
+}

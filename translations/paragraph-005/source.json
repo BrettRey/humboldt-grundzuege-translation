@@ -1,0 +1,52 @@
+{
+  "section": "5",
+  "sentences": [
+    {
+      "id": "p5:s1",
+      "text": "Ich fange daher mit der allgemeinen Darstellung des Baues der Amerikanischen Sprachen an, dergestalt, dass ich nach allen Richtungen hin, nach welchen Sprachen zu beurtheilen sind, die Eigenthümlichkeiten der Amerikanischen überhaupt, und die Verschiedenheiten der einzelnen unter sich vollständig anzugeben versuchen werde."
+    },
+    {
+      "id": "p5:s2",
+      "text": "Auf diese Weise wird die Darstellung des Baues der einzelnen Sprachen in ihren hauptsächlichsten Theilen in die allgemeine verwebt, und nur das Unwesentlichere, und das, was die wahre Individualität der einzelnen Sprache ausmacht, die bestimmte Lautbezeichnung, fällt hinweg."
+    },
+    {
+      "id": "p5:s3",
+      "text": "Auf der andren Seite wird allerdings bei diesem Verfahren die Schilderung der einzelnen Sprachen zerrissen, und eine vollständige Uebersicht des Baues einer jeden unmöglich gemacht."
+    },
+    {
+      "id": "p5:s4",
+      "text": "Allein man gewinnt auch den Vortheil, jede Eigenthümlichkeit jeder einzelnen Sprache in dem allgemeinen Bilde gleich an der Stelle zu sehen, wo dieselbe mit denen der andren verglichen, und gewürdigt werden kann."
+    },
+    {
+      "id": "p5:s5",
+      "text": "Wer gewohnt ist viele Sprachen in ihrem Bau zu erforschen, wird aber gerade diesen Vorzug kaum zu hoch anrechnen können."
+    },
+    {
+      "id": "p5:s6",
+      "text": "Denn es ist eine der betrübendsten, aber darum nicht weniger gewöhnlichen Erfahrungen, wenn man sich mit Mühe und Anstrengung in den Bau einer Sprache hineingedacht hat, dennoch unschlüssig zu bleiben, wie man nun diese Sprache in dem Gebiete der ganzen Sprachkunde zu stellen, wie in der Verschiedenheit der gegen einander abzuwägenden Vorzüge und Mängel ihren Werth zu bestimmen hat."
+    },
+    {
+      "id": "p5:s7",
+      "text": "Die Uebersicht, die wir so eben bei diesem Verfahren vermissten, lässt sich doch einigermassen durch ein zusammenstellendes Register wieder erlangen."
+    }
+  ],
+  "body": "Ich fange daher mit der allgemeinen Darstellung des Baues der Amerikanischen Sprachen an, dergestalt, dass ich nach allen Richtungen hin, nach welchen Sprachen zu beurtheilen sind, die Eigenthümlichkeiten der Amerikanischen überhaupt, und die Verschiedenheiten der einzelnen unter sich vollständig anzugeben versuchen werde. Auf diese Weise wird die Darstellung des Baues der einzelnen Sprachen in ihren hauptsächlichsten Theilen in die allgemeine verwebt, und nur das Unwesentlichere, und das, was die wahre Individualität der einzelnen Sprache ausmacht, die bestimmte Lautbezeichnung, fällt hinweg. Auf der andren Seite wird allerdings bei diesem Verfahren die Schilderung der einzelnen Sprachen zerrissen, und eine vollständige Uebersicht des Baues einer jeden unmöglich gemacht. Allein man gewinnt auch den Vortheil, jede Eigenthümlichkeit jeder einzelnen Sprache in dem allgemeinen Bilde gleich an der Stelle zu sehen, wo dieselbe mit denen der andren verglichen, und gewürdigt werden kann. Wer gewohnt ist viele Sprachen in ihrem Bau zu erforschen, wird aber gerade diesen Vorzug kaum zu hoch anrechnen können. Denn es ist eine der betrübendsten, aber darum nicht weniger gewöhnlichen Erfahrungen, wenn man sich mit Mühe und Anstrengung in den Bau einer Sprache hineingedacht hat, dennoch unschlüssig zu bleiben, wie man nun diese Sprache in dem Gebiete der ganzen Sprachkunde zu stellen, wie in der Verschiedenheit der gegen einander abzuwägenden Vorzüge und Mängel ihren Werth zu bestimmen hat. Die Uebersicht, die wir so eben bei diesem Verfahren vermissten, lässt sich doch einigermassen durch ein zusammenstellendes Register wieder erlangen.",
+  "printed_pages": [
+    366,
+    367
+  ],
+  "pdf_pages": [
+    376,
+    377
+  ],
+  "scan_leaves": [
+    378,
+    379
+  ],
+  "source_path": "sources/raw/gs-v-1906.pdf",
+  "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+  "source_status": "Follows GS V (Leitzmann 1906), §5, printed366–367 / PDF376–377 / scan leaves378–379. Drechsel (2024:155) reports cancellation of the first seven paragraphs. Manuscript marks, extent and editorial meaning remain independently unverified. Retained as the printed reading; authorial finality unresolved.",
+  "verification": "Coordinator comparison with rendered page images; not specialist human validation",
+  "boundary": "From marginal5 on printed366 to before marginal6 on printed367; line-end word divisions joined, including Gebiete across a line break; no source/editor footnote in this paragraph.",
+  "body_sha256": "646640db7ce05d2b7ac503c2c2e2953efa24a7f4eae9914d315d19839d3f8525"
+}

@@ -1,0 +1,108 @@
+{
+  "section": "5",
+  "source_status": "Follows GS V (Leitzmann 1906), §5, printed366–367 / PDF376–377 / scan leaves378–379. Drechsel (2024:155) reports cancellation of the first seven paragraphs. Manuscript marks, extent and editorial meaning remain independently unverified. Retained as the printed reading; authorial finality unresolved.",
+  "source_image_check": {
+    "pdf_pages": [
+      376,
+      377
+    ],
+    "printed_pages": [
+      366,
+      367
+    ],
+    "scan_leaves": [
+      378,
+      379
+    ],
+    "checker": "coordinator",
+    "limit": "Model-assisted print comparison, not specialist certification"
+  },
+  "candidate_freeze": {
+    "path": "translations/paragraph-005/candidates.json",
+    "sha256": "8de093c2038ebade8616adfbe9a6e4bec9daef99eb7a3c2e47f321be36ea5e7e",
+    "frozen_at": "2026-11-16T01:55:39.404131+00:00"
+  },
+  "synthesis": {
+    "path": "translations/paragraph-005/synthesis.json",
+    "sha256": "337a7aa3d941584a5edeea6647b5fee13fd17edb745de7d4ad120ad5c6d1f610"
+  },
+  "runs": [
+    {
+      "stage": "candidate",
+      "label": "claude",
+      "models": [
+        "claude-fable-5-2"
+      ],
+      "receipt": "tmp/paragraph-005/candidate-claude-receipt.json",
+      "receipt_sha256": "7a628eae747bbc8fe6c2aff01850c5862d30ff83ed7af506371e4676111ef28e",
+      "prompt_sha256": "2e8691bce3b033ec94d8f83a27a0db2ea1f2196a601a5981c41bf79b46a1f72f",
+      "exit_code": 0,
+      "elapsed_seconds": 75.015
+    },
+    {
+      "stage": "candidate",
+      "label": "muse",
+      "models": [
+        "muse-wonder-full-1.0"
+      ],
+      "receipt": "tmp/paragraph-005/candidate-muse-receipt.json",
+      "receipt_sha256": "6705f57eb29feab400baba4ce784f9655fdac5e0e4e963b7ee4ec5294ffae8a1",
+      "prompt_sha256": "2e8691bce3b033ec94d8f83a27a0db2ea1f2196a601a5981c41bf79b46a1f72f",
+      "exit_code": 0,
+      "elapsed_seconds": 22.049
+    },
+    {
+      "stage": "candidate",
+      "label": "codex",
+      "models": [
+        "gpt-6.1-sol"
+      ],
+      "receipt": "tmp/paragraph-005/candidate-codex-receipt.json",
+      "receipt_sha256": "a4353ad7aeb14ca9b5c7ba0f70b379aecc183b1c447bc2f4615b7f7b81a4c425",
+      "prompt_sha256": "2e8691bce3b033ec94d8f83a27a0db2ea1f2196a601a5981c41bf79b46a1f72f",
+      "exit_code": 0,
+      "elapsed_seconds": 25.341
+    },
+    {
+      "stage": "audit",
+      "label": "claude",
+      "models": [
+        "claude-fable-5-2"
+      ],
+      "receipt": "tmp/paragraph-005/audit-claude-receipt.json",
+      "receipt_sha256": "68b9b0429708ae7f9dfb107d52bc77d0237beec677e1ea96f6482bcb4d45c60e",
+      "prompt_sha256": "018b6118c9adc1bd85b6168be9a07c5ef8e578a3aeaa9a4d62974d8b827762c5",
+      "exit_code": 0,
+      "elapsed_seconds": 94.966
+    },
+    {
+      "stage": "audit",
+      "label": "muse",
+      "models": [
+        "muse-wonder-full-1.0"
+      ],
+      "receipt": "tmp/paragraph-005/audit-muse-receipt.json",
+      "receipt_sha256": "7fa7f47632eeddc3120e048d01de4b941ceaf6eaf3a4dadd23de1dc2444e519a",
+      "prompt_sha256": "018b6118c9adc1bd85b6168be9a07c5ef8e578a3aeaa9a4d62974d8b827762c5",
+      "exit_code": 0,
+      "elapsed_seconds": 62.768
+    }
+  ],
+  "coverage": {
+    "source_sentences": 7,
+    "candidates": 3,
+    "audits": 2,
+    "audit_findings": 14,
+    "dispositions": 14
+  },
+  "English_review": "pending",
+  "final_revision": "Coordinator source/termbase check; no further model round",
+  "created_at": "2026-11-16T02:02:42.762006+00:00",
+  "final": {
+    "path": "translations/paragraph-005/revised.json",
+    "sha256": "f2bdb18739e03a364bc2f1f8263e3ed9176d358ed59476d23cd266cb3a9a3b23"
+  },
+  "selected_term_rule_links": 7,
+  "consequential_span_links": 12,
+  "term_check": "After candidate freeze; consulted the local conditional rules for Bau, Darstellung, Eigenthümlichkeit, Individualität, Lautbezeichnung and Register. No prior termbase entry or English body changed."
+}

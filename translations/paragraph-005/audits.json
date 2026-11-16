@@ -1,0 +1,312 @@
+{
+  "section": "5",
+  "synthesis_sha256": "337a7aa3d941584a5edeea6647b5fee13fd17edb745de7d4ad120ad5c6d1f610",
+  "auditors": [
+    {
+      "coverage": [
+        "p5:s1",
+        "p5:s2",
+        "p5:s3",
+        "p5:s4",
+        "p5:s5",
+        "p5:s6",
+        "p5:s7"
+      ],
+      "verdict": "No material defects. Nothing is omitted or added in substance, and scope, modality and argument direction are preserved in all seven sentences. Five minor defects (one ambiguous referent, one merged terminological contrast, one potentially misleading connective, one weakened clause relation, one grammatically excluded reading left open) and five notes are reported. All are fixable by local rewording.",
+      "findings": [
+        {
+          "id": "F1",
+          "source_id": "p5:s6",
+          "severity": "minor",
+          "issue": "Ambiguous referent. In 'into an understanding of a language's structure and yet remain uncertain how to place it ... how to determine its worth', the pronouns 'it' and 'its' can be read as the structure (or even the understanding). The German names the language as what is to be placed and valued.",
+          "source_support": "'wie man nun diese Sprache ... zu stellen, wie ... ihren Werth zu bestimmen hat': 'diese Sprache' is explicit, and feminine 'ihren' agrees with 'Sprache', not with masculine 'Bau' (which would require 'seinen').",
+          "proposed_fix": "'... and yet to remain uncertain how one is now to place that language within the field of the whole study of languages, and how to determine its worth ...'"
+        },
+        {
+          "id": "F2",
+          "source_id": "p5:s4",
+          "severity": "minor",
+          "issue": "Merged terminological contrast. 'gewürdigt' is rendered 'assessed', the same word used for 'beurtheilen' in p5:s1. The German uses two different verbs, and 'würdigen' (to appraise, to give something its due value) anticipates 'ihren Werth zu bestimmen' in p5:s6. That link is lost and a false verbal echo with p5:s1 is created.",
+          "source_support": "p5:s1 'nach welchen Sprachen zu beurtheilen sind'; p5:s4 'verglichen, und gewürdigt werden kann'; p5:s6 'ihren Werth zu bestimmen'.",
+          "proposed_fix": "'... where it can be compared with those of the others and appraised' (or 'given its due'), keeping 'assessed' or 'judged' for 'beurtheilen' only."
+        },
+        {
+          "id": "F3",
+          "source_id": "p5:s5",
+          "severity": "minor",
+          "issue": "Potentially misleading English. Sentence-initial 'But', directly after 'Yet' in p5:s4, sets the sentence up as a counter to the advantage just named. Combined with 'scarcely ... value ... too highly', it invites the opposite reading, that such a person will hardly value it. The German reinforces the advantage: it can hardly be rated too highly. The 'aber' is a weak, clause-internal particle and 'gerade' is emphatic.",
+          "source_support": "'wird aber gerade diesen Vorzug kaum zu hoch anrechnen können': 'kaum zu hoch' means 'hardly too highly', i.e. it cannot easily be overrated; 'aber' sits in mid-position, not as a sentence-opening adversative.",
+          "proposed_fix": "'Anyone accustomed to investigating many languages in their structure will, however, hardly be able to rate precisely this advantage too highly.'"
+        },
+        {
+          "id": "F4",
+          "source_id": "p5:s1",
+          "severity": "minor",
+          "issue": "Weakened clause relation after the sentence split. 'dergestalt, dass' specifies the manner in which the general presentation is to be carried out ('in such a way that'). 'In doing so' presents the second statement as an accompanying action, so the specifying relation is no longer explicit.",
+          "source_support": "'Ich fange ... an, dergestalt, dass ich ... vollständig anzugeben versuchen werde.'",
+          "proposed_fix": "'I therefore begin with the general presentation ..., and in such a way that I shall try to set out fully ...'; or, if the split is kept, 'I shall do this in such a way that I try to set out fully ...'"
+        },
+        {
+          "id": "F5",
+          "source_id": "p5:s2",
+          "severity": "minor",
+          "issue": "Referent of 'in its principal parts'. In English 'its' can be read as referring to 'the structure', which German grammar excludes. The German 'ihren' is itself ambiguous between 'Darstellung' (feminine singular) and 'der einzelnen Sprachen' (plural). The English silently picks the singular and leaves open a reading the source does not allow.",
+          "source_support": "'die Darstellung des Baues der einzelnen Sprachen in ihren hauptsächlichsten Theilen': 'ihren' cannot refer to masculine 'Bau' (that would be 'seinen'); it fits either 'Darstellung' or 'Sprachen'.",
+          "proposed_fix": "Unresolved alternative; do not force it. Either 'the presentation of the structure of the individual languages is, in its chief parts, woven into the general one' (clearly the presentation), or 'in their chief parts' (the languages). Record the choice in a translator's note."
+        },
+        {
+          "id": "F6",
+          "source_id": "p5:s2",
+          "severity": "note",
+          "issue": "Thinning of the allgemein/einzeln contrast (also affects p5:s3 and p5:s4). 'einzeln' is rendered 'individual' in p5:s1 and the first clause of p5:s2, but reduced to 'each language' for 'der einzelnen Sprache' (s2), 'der einzelnen Sprachen' (s3) and 'jeder einzelnen Sprache' (s4). The sense survives, but the paragraph's organising opposition between the general presentation and the individual languages is less visible. In p5:s3 the plural 'descriptions of the individual languages' also becomes distributive singular.",
+          "source_support": "s2 'der einzelnen Sprache'; s3 'die Schilderung der einzelnen Sprachen ... einer jeden'; s4 'jede Eigenthümlichkeit jeder einzelnen Sprache'.",
+          "proposed_fix": "Restore 'individual' where it is cheap: s2 'the true individuality of the individual language'; s3 'the description of the individual languages ... of each one'; s4 'of each individual language'."
+        },
+        {
+          "id": "F7",
+          "source_id": "p5:s2",
+          "severity": "note",
+          "issue": "'die bestimmte Lautbezeichnung' as 'its particular designation by sounds'. The possessive 'its' is added (the source has the definite article), and 'particular' for 'bestimmte' leans toward 'peculiar to it' where the German says 'determinate' or 'specific'. The apposition to 'what constitutes the true individuality' is correctly preserved. Whether 'Lautbezeichnung' means designation by means of sounds (most likely here) or the marking of sounds cannot be settled from this paragraph alone.",
+          "source_support": "'das, was die wahre Individualität der einzelnen Sprache ausmacht, die bestimmte Lautbezeichnung, fällt hinweg'.",
+          "proposed_fix": "'—the determinate designation by sound—' (or 'the specific sound-designation'), with a note if the term is fixed elsewhere in the project."
+        },
+        {
+          "id": "F8",
+          "source_id": "p5:s5",
+          "severity": "note",
+          "issue": "Vortheil/Vorzug/Vorzüge. 'Vortheil' (s4) and 'Vorzug' (s5) are both 'advantage', while 'Vorzüge' (s6) is 'merits'. Because 'diesen Vorzug' in s5 refers back to the 'Vortheil' of s4, 'advantage' is defensible there and 'merits' suits 'Vorzüge und Mängel' as properties of languages. The German lexical link between s5 and s6 is not reproducible without cost. This is a judgment call, not an error.",
+          "source_support": "s4 'den Vortheil'; s5 'gerade diesen Vorzug'; s6 'Vorzüge und Mängel'.",
+          "proposed_fix": "No change required. If the project wants the echo, use 'merit' in s5 ('precisely this merit') and 'merits and defects' in s6."
+        },
+        {
+          "id": "F9",
+          "source_id": "p5:s6",
+          "severity": "note",
+          "issue": "Small scope and term shifts. (a) 'the whole field of the study of language' attaches 'whole' to 'field', whereas 'ganzen' modifies 'Sprachkunde'. (b) 'study of language' (singular, abstract) for 'Sprachkunde' may suggest general theory of language where Humboldt's term is the knowledge or study of languages. (c) The asyndetic 'wie ..., wie ...' is joined with 'or'; 'and' would be more neutral. (d) 'unschlüssig' is nearer 'undecided' than 'uncertain'. None of these alters the claim.",
+          "source_support": "'in dem Gebiete der ganzen Sprachkunde zu stellen, wie in der Verschiedenheit ... ihren Werth zu bestimmen hat'; 'dennoch unschlüssig zu bleiben'.",
+          "proposed_fix": "'... yet to remain undecided how one is to place that language within the domain of the whole study of languages, and how to determine its worth ...'"
+        },
+        {
+          "id": "F10",
+          "source_id": "p5:s7",
+          "severity": "note",
+          "issue": "Explicitation. 'an index that brings the material together' supplies an object ('the material') for 'zusammenstellendes', which has none in the source. The addition is harmless, and the likely implied object is the scattered particulars of each language. 'Register' could also be a register or table, not strictly an index.",
+          "source_support": "'durch ein zusammenstellendes Register wieder erlangen'.",
+          "proposed_fix": "Optional: 'through a collating index' (or 'a compilatory register')."
+        }
+      ],
+      "limitations": [
+        "The audit rests solely on the German as supplied in the packet. The text was not checked against the Leitzmann 1906 print or the PDF, and the SHA-256 fingerprints were not verified.",
+        "The reported cancellation of the paragraph (Drechsel 2024) and the manuscript status were not assessed and do not affect the findings.",
+        "No tools, outside research or additional reviewers were used, as instructed. Judgments on Humboldt's usage ('Lautbezeichnung', 'Sprachkunde', 'würdigen') draw on general knowledge of the period's German, not on a project glossary or parallel passages.",
+        "Severity labels are my own two-step scale: 'minor' is a supported defect worth correcting, and 'note' is a defensible choice or unresolved alternative recorded for the editor. No finding reaches the level of a material mistranslation.",
+        "The referent of 'ihren' in p5:s2 (F5) and the exact sense of 'Lautbezeichnung' (F7) remain genuinely unresolved on the evidence of this paragraph."
+      ],
+      "models": [
+        "claude-fable-5-2"
+      ],
+      "coverage_detail": [
+        {
+          "source_id": "p5:s1",
+          "checked": true,
+          "result": "one minor finding"
+        },
+        {
+          "source_id": "p5:s2",
+          "checked": true,
+          "result": "one minor finding; one unresolved alternative noted"
+        },
+        {
+          "source_id": "p5:s3",
+          "checked": true,
+          "result": "no defect beyond the cross-sentence note F6"
+        },
+        {
+          "source_id": "p5:s4",
+          "checked": true,
+          "result": "one minor finding"
+        },
+        {
+          "source_id": "p5:s5",
+          "checked": true,
+          "result": "one minor finding; one terminological note"
+        },
+        {
+          "source_id": "p5:s6",
+          "checked": true,
+          "result": "one minor finding; two notes"
+        },
+        {
+          "source_id": "p5:s7",
+          "checked": true,
+          "result": "one note"
+        }
+      ],
+      "auditor": "claude"
+    },
+    {
+      "coverage": [
+        "p5:s1",
+        "p5:s2",
+        "p5:s3",
+        "p5:s4",
+        "p5:s5",
+        "p5:s6",
+        "p5:s7"
+      ],
+      "verdict": "no material defects; minor corrections recommended",
+      "findings": [
+        {
+          "id": "f1",
+          "source_id": "p5:s2",
+          "severity": "minor",
+          "issue": "Referent and degree are weakened: English 'in its principal parts' uses a singular pronoun readily taken with 'presentation' or 'structure', whereas German plural 'in ihren hauptsächlichsten Theilen' refers to the individual languages, and 'hauptsächlichsten' is superlative.",
+          "source_support": "die Darstellung des Baues der einzelnen Sprachen in ihren hauptsächlichsten Theilen",
+          "proposed_fix": "Change to 'the presentation of the structure of the individual languages in their most important parts is woven into the general presentation'."
+        },
+        {
+          "id": "f2",
+          "source_id": "p5:s4",
+          "severity": "minor",
+          "issue": "Terminological contrast is collapsed: 'gewürdigt' is rendered 'assessed', the same word used for 'beurtheilen' in p5:s1, obscuring the distinction between assessing/judging languages in p5:s1 and appraising or duly valuing a characteristic here.",
+          "source_support": "wo dieselbe mit denen der andren verglichen, und gewürdigt werden kann; contrast p5:s1 'nach welchen Sprachen zu beurtheilen sind'",
+          "proposed_fix": "Change p5:s4 to 'where it can be compared with those of the other languages and appraised', retaining 'assessed' for 'beurtheilen' in p5:s1."
+        },
+        {
+          "id": "f3",
+          "source_id": "p5:s6",
+          "severity": "minor",
+          "issue": "The parallel German questions 'wie man ... zu stellen, wie ... ihren Werth zu bestimmen hat' present two connected objects of indecision. English 'how to place it ..., or how to determine its worth' can misleadingly suggest alternatives rather than two aspects of the same unresolved judgement.",
+          "source_support": "wie man nun diese Sprache in dem Gebiete der ganzen Sprachkunde zu stellen, wie in der Verschiedenheit ... ihren Werth zu bestimmen hat",
+          "proposed_fix": "Change to 'how to place it within the whole field of the study of language and how to determine its worth amid ...'."
+        },
+        {
+          "id": "f4",
+          "source_id": "p5:s6",
+          "severity": "minor",
+          "issue": "'Uncertain' broadens 'unschlüssig', which denotes remaining undecided or unable to reach a conclusion, rather than general uncertainty or lack of knowledge.",
+          "source_support": "dennoch unschlüssig zu bleiben, wie man ... zu stellen ... hat",
+          "proposed_fix": "Change 'yet remain uncertain how to place it' to 'yet remain undecided how to place it'."
+        }
+      ],
+      "limitations": [
+        "Audit is limited to the supplied German, English synthesis and adjacent context; no outside research, manuscript inspection or established Humboldt glossary was used, as instructed.",
+        "Period and authorial senses of terms such as 'Lautbezeichnung' in p5:s2 and 'zusammenstellendes Register' in p5:s7 cannot be settled from the packet alone. The supplied renderings, 'particular designation by sounds' and 'an index that brings the material together', are supportable literal readings, but alternatives such as 'specific sound-designation'/'phonetic designation' and 'synoptic index/register' remain unresolved and are therefore not reported as defects.",
+        "The prefatory claims about GS V, Drechsel (2024), cancellation, manuscript marks and authorial finality were treated as contextual material outside the translation and were not independently verified."
+      ],
+      "models": [
+        "muse-wonder-full-1.0"
+      ],
+      "coverage_detail": [
+        "p5:s1",
+        "p5:s2",
+        "p5:s3",
+        "p5:s4",
+        "p5:s5",
+        "p5:s6",
+        "p5:s7"
+      ],
+      "auditor": "muse"
+    }
+  ],
+  "dispositions": [
+    {
+      "auditor": "claude",
+      "finding_id": "F1",
+      "source_id": "p5:s6",
+      "severity": "minor",
+      "resolution": "Name that language explicitly as the object to be placed; its worth then refers unambiguously to the language. Restore now and retain the modal is to be placed/determined."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F2",
+      "source_id": "p5:s4",
+      "severity": "minor",
+      "resolution": "Use appraised for gewürdigt, retaining its valuative connection with Werth. Assessed remains the local rendering of beurtheilen in sentence1; no universal one-to-one lexical rule is inferred."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F3",
+      "source_id": "p5:s5",
+      "severity": "minor",
+      "resolution": "Move however inside sentence5 and use rate this very advantage too highly. Preserve the scarcely qualification and the positive evaluation without an abrupt sentence-initial But."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F4",
+      "source_id": "p5:s1",
+      "severity": "minor",
+      "resolution": "Restore a single sentence with in such a way that, explicitly making the attempted comprehensive account the manner of the general presentation."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F5",
+      "source_id": "p5:s2",
+      "severity": "minor",
+      "resolution": "Recast explicitly as the most important parts of the presentation. Note the alternative language antecedent; German ihren permits both Darstellung and Sprachen but excludes masculine Bau. Do not present the chosen antecedent as certain."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F6",
+      "source_id": "p5:s2",
+      "severity": "note",
+      "resolution": "Restore individual language(s) in sentences2–4 where it preserves the general/individual contrast at little cost."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F7",
+      "source_id": "p5:s2",
+      "severity": "note",
+      "resolution": "Use the specific designation by sounds, removing the added possessive and retaining the apposition to true individuality. Record the designation-by-sounds reading as provisional, with sound notation as an unresolved alternative."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F8",
+      "source_id": "p5:s5",
+      "severity": "note",
+      "resolution": "Retain advantage for the referring-back Vorzug in sentence5 and merits for Vorzüge in sentence6. Preserve the shared German root in this record and note the contextual choice rather than forcing one English noun."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F9",
+      "source_id": "p5:s6",
+      "severity": "note",
+      "resolution": "Use language study as a whole for the entire Sprachkunde, consistent with earlier study-of-language wording. Join the two questions with and and use remain undecided. Do not impose a modern disciplinary subfield."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F10",
+      "source_id": "p5:s7",
+      "severity": "note",
+      "resolution": "Retain the descriptive index that brings the material together as a readable explicitation of zusammenstellendes. Note the supplied object and unresolved index/register format; preserve only partial recovery."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "f1",
+      "source_id": "p5:s2",
+      "severity": "minor",
+      "resolution": "Partly accept: make the referent explicit and restore most important for the superlative. Reject the assertion that German grammar requires plural languages: ihren fits feminine singular Darstellung or plural Sprachen. Choose presentation provisionally and record the alternative."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "f2",
+      "source_id": "p5:s4",
+      "severity": "minor",
+      "resolution": "Use appraised for the valuative gewürdigt while retaining assessed for beurtheilen in sentence1, on contextual grounds."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "f3",
+      "source_id": "p5:s6",
+      "severity": "minor",
+      "resolution": "Join the two connected questions with and; the source supplies parallel wie clauses rather than an either-or choice."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "f4",
+      "source_id": "p5:s6",
+      "severity": "minor",
+      "resolution": "Use remain undecided about how to preserve the investigator’s inability to reach a conclusion rather than general lack of knowledge."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "format": "humboldt.passage",
+  "id": "review-0004-20261116",
+  "schema_version": 1,
+  "tables": {
+    "evidence": [
+      {
+        "claim_status": "English_readability_only",
+        "excerpt": "looks good. Carry on",
+        "id": "E004.English-review:2026-11-16",
+        "locator": "Roughdraft completed review; comment at 2026-11-16T01:51:30.440Z",
+        "quote_status": "user_review_record",
+        "source_path": "translations/paragraph-004/approval-2026-11-16.json",
+        "source_sha256": "f4201a3a6e0ba9f4864a0d2ca77d82e891b3221ad8f2484fe51eedbca706485d",
+        "statement": "English readability and editorial usefulness only; no German-fidelity certification"
+      }
+    ],
+    "unit_evidence": [
+      {
+        "evidence_id": "E004.English-review:2026-11-16",
+        "unit_id": "p4:revised:p"
+      }
+    ]
+  }
+}

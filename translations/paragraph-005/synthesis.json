@@ -1,0 +1,36 @@
+{
+  "section": "5",
+  "stage": "coordinator pre-audit synthesis",
+  "sentences": [
+    {
+      "source_id": "p5:s1",
+      "english": "I therefore begin with the general presentation of the structure of the American languages. In doing so, I shall try to set out fully, in every respect in which languages are to be assessed, the distinctive characteristics of the American languages as a whole and the differences among the individual languages."
+    },
+    {
+      "source_id": "p5:s2",
+      "english": "In this way, the presentation of the structure of the individual languages, in its principal parts, is woven into the general presentation; only the less essential matters and what constitutes the true individuality of each language—its particular designation by sounds—are left out."
+    },
+    {
+      "source_id": "p5:s3",
+      "english": "On the other hand, this procedure admittedly breaks up the description of each language and makes a complete overview of its structure impossible."
+    },
+    {
+      "source_id": "p5:s4",
+      "english": "Yet one also gains the advantage of seeing every distinctive characteristic of each language, within the general picture, at the very point where it can be compared with those of the other languages and assessed."
+    },
+    {
+      "source_id": "p5:s5",
+      "english": "But anyone accustomed to investigating the structure of many languages will scarcely be able to value this very advantage too highly."
+    },
+    {
+      "source_id": "p5:s6",
+      "english": "For it is one of the most disheartening experiences, though no less common for that, to have worked one’s way with effort and exertion into an understanding of a language’s structure and yet remain uncertain how to place it within the whole field of the study of language, or how to determine its worth amid the variety of merits and shortcomings to be weighed against one another."
+    },
+    {
+      "source_id": "p5:s7",
+      "english": "The overview we have just found lacking in this procedure can nevertheless be recovered to some extent through an index that brings the material together."
+    }
+  ],
+  "frozen_at": "2026-11-16T01:57:07.225261+00:00",
+  "candidates_sha256": "8de093c2038ebade8616adfbe9a6e4bec9daef99eb7a3c2e47f321be36ea5e7e"
+}
