@@ -1,0 +1,1105 @@
+{
+  "section": "Part I opening",
+  "synthesis_sha256": "9bbc97c7d40fc0d8ef7f596c75984738c4fc83853d7aec4e79cb138fff1681e6",
+  "auditors": [
+    {
+      "coverage": [
+        "p8:s1",
+        "p8:s2",
+        "p8:s3",
+        "p8:s4",
+        "p8:s5",
+        "p8:s6",
+        "p8:s7",
+        "p8:s8",
+        "p8:s9",
+        "p8:s10",
+        "p9:s1",
+        "p9:s2",
+        "p9:s3",
+        "p9:s4",
+        "p9:s5",
+        "p9:s6",
+        "p10:s1",
+        "p10:s2",
+        "p10:s3",
+        "p11:s1",
+        "p11:s2",
+        "p11:s3",
+        "p11:s4",
+        "p11:s5",
+        "p11:s6",
+        "p11:s7",
+        "p11:s8",
+        "p11:s9",
+        "p11:s10",
+        "p11:s11",
+        "p12:s1",
+        "p12:s2",
+        "p13:s1",
+        "p13:s2",
+        "p13:s3",
+        "p13:s4",
+        "p13:s5",
+        "p13:s6",
+        "p14:s1",
+        "p14:s2",
+        "p14:s3",
+        "p14:s4",
+        "p14:s5",
+        "p14:s6",
+        "p14:s7",
+        "p14:s8",
+        "p14:s9",
+        "p14:s10",
+        "p15:s1",
+        "p15:s2",
+        "p15:s3"
+      ],
+      "verdict": {
+        "rating": "acceptable_with_minor_revisions",
+        "material_defects": 0,
+        "minor_suggestions": 11,
+        "defensible_alternatives": 5,
+        "summary": "No material defect found in any of the 51 segments. The argument across passages 8-15 is carried correctly: the classification critique, the anatomy/physiology analogy, the two paths, and the whole-before-parts ordering. The referents that matter are right: jenem/dieses in p8:s5 (English lacks gender, Danish has the inflected passive); jene/diese in p9:s6; das eine/das andre, Jenes/dieses and 'dem ersteren' across p12:s1, p12:s2 and p13:s1 (procedure first); jenem = Studium in p13:s3. Modality is right, including 'nicht ... genommen werden muss' as 'must not' in p12:s1. Nothing is omitted or added at sentence level. The findings concern a dropped concessive particle, the syntax of the dependent question series, some word choices that blur the anatomical analogy, and a few German ambiguities the English silently resolves."
+      },
+      "findings": [
+        {
+          "id": "F01",
+          "source_id": "p11:s4",
+          "severity": "minor",
+          "issue": "The concessive 'zwar' is not rendered. German sets up 'zwar ... Allein ... doch' across p11:s4-s11: examples are easy to give, but a complete systematic enumeration needs deeper investigation. The English keeps only the second half ('Yet' in p11:s11), so p11:s4 reads as a flat statement.",
+          "source_support": "'lassen sich zwar leicht mehrere beispielsweise angeben' ... 'Allein die vollständige und systematische Aufzählung ... muss doch ...' (p11:s11).",
+          "proposed_fix": "'Several of the points that come into consideration here can, to be sure, readily be given by way of example.'",
+          "source_ids": [
+            "p11:s4",
+            "p11:s5",
+            "p11:s6",
+            "p11:s7",
+            "p11:s8",
+            "p11:s9",
+            "p11:s10",
+            "p11:s11"
+          ]
+        },
+        {
+          "id": "F02",
+          "source_id": "p11:s5",
+          "severity": "minor",
+          "issue": "Applies to p11:s5-s10 as a series. The six clauses depend on 'So fragt es sich:' (five 'ob' clauses and one 'in welcher Folge' clause). The English recasts them as six capitalised, independent direct questions and makes 'u. s. f.' a separate sentence ('And so forth.'). The content of every question is accurate, but the formal dependence and the open-ended list character are weakened. 'So' here introduces examples (after 'beispielsweise' in p11:s4) and is slightly mislabelled by inferential 'Thus'. The direct-question recasting is itself a defensible editorial choice if dependence is kept visible.",
+          "source_support": "'So fragt es sich: ob die Sprache ...? ob sie dieselben ...? ob sie den Wechseleinfluss ...? in welcher Folge sie ...? ob sie bei ihren Wörtern ...? ob sie ... einengt? u. s. f.'; the boundary note says passage 11 contains a dependent six-question series, not six independent sentences.",
+          "proposed_fix": "Keep one governed series, e.g. 'Thus, for instance, the question arises: whether the language keeps these means apart ... or throws them together and confuses them; whether it marks them ...; whether it attends ...; in what sequence ...; whether, in its words, it starts from ...; whether ... it allows usage freedom or confines it within fixed rules; and so forth.' If direct questions are kept, use lower-case continuation after the colon and attach 'and so forth' to the series.",
+          "source_ids": [
+            "p11:s5",
+            "p11:s6",
+            "p11:s7",
+            "p11:s8",
+            "p11:s9",
+            "p11:s10"
+          ]
+        },
+        {
+          "id": "F03",
+          "source_id": "p9:s2",
+          "severity": "minor",
+          "issue": "'Verrichtung' is rendered 'operation'. This is also the word used for 'Wirken' (p10:s1, p15:s2) and inside 'Zusammenwirken' (p14:s2), so two German terms merge. Next to 'dissected' and 'anatomical ... physiological treatment' it also invites a surgical reading that runs against the point. 'Verrichtung' is the period term for a (physiological) function or performance.",
+          "source_support": "'sondern eine Verrichtung, ein geistiger Process, wie das Leben ein körperlicher'; p9:s3 'nur mit physiologischer Behandlung'. Background usage only (uncorrected OCR): §132 'organische Verrichtung', §136 'innerliche, lebendige Verrichtung'.",
+          "proposed_fix": "'but an activity (or: a function), a mental process, just as life is a bodily one'; reserve 'operation/working' for Wirken.",
+          "source_ids": [
+            "p9:s2"
+          ]
+        },
+        {
+          "id": "F04",
+          "source_id": "p9:s2",
+          "severity": "minor",
+          "issue": "'material lying ready to hand' for 'ein daliegender Stoff' suggests availability for use (and has a Heideggerian echo). The German stresses inertness: stuff simply lying there, as opposed to a process.",
+          "source_support": "'sie ist, auch nicht einmal in der durch sie gegebenen Masse von Wörtern und Regeln, ein daliegender Stoff, sondern eine Verrichtung'.",
+          "proposed_fix": "'it is not inert material lying there' or 'not a stuff lying before us'.",
+          "source_ids": [
+            "p9:s2"
+          ]
+        },
+        {
+          "id": "F05",
+          "source_id": "p10:s3",
+          "severity": "minor",
+          "issue": "Three points. (a) 'tonal character' for the second half of 'Geistes- und Tonart' risks being read as lexical tone or tone of voice; 'Ton' in this work is sound generally, so 'Tonart' is kind or character of sound. (b) 'as a fixed and finished body' is placed after 'constituent parts' and attaches loosely; in German 'als einen festen und vollendeten Körper' qualifies 'sie'. (c) 'question' for 'Rücksicht' is a defensible smoothing of 'consideration'.",
+          "source_support": "'sie auch, als einen festen und vollendeten Körper in ihre Bestandtheile zu zerlegen; ... der höheren Rücksicht ..., durch welche ursprüngliche Geistes- und Tonart'. Background usage only (uncorrected OCR): §29 'Geschrei und den Tonarten der Thiergattungen'.",
+          "proposed_fix": "'One cannot avoid also taking it apart, as a fixed and finished body, into its constituents; but this task must always remain subordinate to the higher consideration: through what original cast of mind and character of sound, and by what technical means, ...'",
+          "source_ids": [
+            "p10:s3"
+          ]
+        },
+        {
+          "id": "F06",
+          "source_id": "p10:s2",
+          "severity": "minor",
+          "issue": "'bodily materials' for 'körperliche Stoffe' is awkward and suggests materials of a living body. The contrast is between a mental process and physical substances. ('bodily process' for life in p9:s2 is fine.)",
+          "source_support": "'kann das eine und das andre nicht mit gleichem Erfolge, als bei körperlichen Stoffen geschehen'.",
+          "proposed_fix": "'as in the case of corporeal (physical) substances'.",
+          "source_ids": [
+            "p10:s2"
+          ]
+        },
+        {
+          "id": "F07",
+          "source_id": "p8:s3",
+          "severity": "minor",
+          "issue": "'a classification that decides anything about the essential nature' slightly overstates. The German denies a classification that is decisive concerning the essential nature, and p8:s4 concedes that the features prove 'wenig' (little, not nothing) about inner nature.",
+          "source_support": "'zu einer über die wesentliche Natur der Sprachen entscheidenden Classification niemals zu führen im Stande sind'; p8:s4 'wenig über die innere Natur'.",
+          "proposed_fix": "'they can never lead to a classification decisive as to the essential nature of languages'.",
+          "source_ids": [
+            "p8:s3"
+          ]
+        },
+        {
+          "id": "F08",
+          "source_id": "p14:s3",
+          "severity": "minor",
+          "issue": "Terminology across the unit. 'Zergliederung' (p14:s3, s5, s7) is rendered 'analysis', the same word used for 'Sprachanalyse' in p11:s11, while 'zerlegen' (p9:s2, p10:s3) is 'dissect'. So the p9 anatomy analogy is not audibly picked up in p14, where the anatomising 'obscures living individuality'. The reader also meets 'analysis' both for the commended procedure-oriented 'Sprachanalyse' and for the criticised 'Zergliederung'. 'Analysis' is a standard rendering of 'Zergliederung', so this is a suggestion, not an error.",
+          "source_support": "p9:s3 'mit anatomischer, sondern nur mit physiologischer Behandlung'; p14:s3 'Die Zergliederung ... verdunkelt ... die Anschauung der lebendigen Individualität'; p14:s5 'bleibt man gar bei der Zergliederung stehen'; p11:s11 'diese Art der Sprachanalyse'.",
+          "proposed_fix": "Consider 'dissection' (or 'anatomizing') for Zergliederung in p14:s3, s5 and s7, 'take apart/decompose' for zerlegen, and keep 'analysis' for Sprachanalyse. Alternatively retain 'analysis' and accept the lost echo.",
+          "source_ids": [
+            "p14:s3",
+            "p11:s11",
+            "p14:s5",
+            "p14:s7"
+          ]
+        },
+        {
+          "id": "F09",
+          "source_id": "p14:s2",
+          "severity": "defensible_alternative",
+          "issue": "'in its coordinated operation' resolves an ambiguous 'ihrem'. It can refer to the language (its working-together as a whole) or to the three factors just listed (causes, technical means, purpose: 'their' joint working). The English reading is defensible. 'coordinated' adds a nuance of deliberate arrangement not in 'Zusammenwirken'.",
+          "source_support": "'ungeachtet der Aehnlichkeit der hervorbringenden Ursachen, der technischen Mittel und des Zwecks aller, eine entschiedene Individualität, die aber vollständig nur in ihrem Zusammenwirken gefühlt wird'. Background usage only (uncorrected OCR): §17 'Verfahrens der Sprache in seinem ganzen Zusammenwirken'.",
+          "proposed_fix": "Optional: 'which is fully felt only in its (or: their) working together'. No change required.",
+          "source_ids": [
+            "p14:s2"
+          ]
+        },
+        {
+          "id": "F10",
+          "source_id": "p13:s5",
+          "severity": "defensible_alternative",
+          "issue": "'pale colours' for 'hellen Farben' is an interpretive but contextually sound choice: the tints are too light to be recognised singly, and 'bright' would contradict the argument. 'Light' would stay closer to the hell/dunkel opposition.",
+          "source_support": "'in so kleinen Partikeln, mit so hellen Farben (wenn diese Ausdrücke erlaubt sind), dass man es an ihnen einzeln selten deutlich genug erkennt'. Background usage only (uncorrected OCR): §124 'die hellere oder dunklere Farbe der Phantasie'.",
+          "proposed_fix": "Optional: 'in such light colours'. No change required.",
+          "source_ids": [
+            "p13:s5"
+          ]
+        },
+        {
+          "id": "F11",
+          "source_id": "p15:s3",
+          "severity": "defensible_alternative",
+          "issue": "'not always equally visible' takes 'gleich' as 'equally' (as visibly as the points of procedure in p15:s2). 'gleich' can also mean 'immediately', as in p14:s10 and p15:s1, giving 'not always immediately visibly connected'. Both fit. The English could also be misread as 'equally among themselves'.",
+          "source_support": "'bilden dagegen mit dem Charakter des Ganzen nicht immer gleich sichtbar verbundene Theile'; compare 'gleich im Eingange' (p15:s1) and 'wenigstens gleich die Richtung' (p14:s10).",
+          "proposed_fix": "Optional: 'parts whose connection with the character of the whole is not always as visible' or '... not always immediately visible'. No change required.",
+          "source_ids": [
+            "p15:s3"
+          ]
+        },
+        {
+          "id": "F12",
+          "source_id": "p9:s1",
+          "severity": "defensible_alternative",
+          "issue": "'the system of languages' for singular 'Sprachsystem' is defensible, since the context is placing languages in a taxonomy, but so is 'the linguistic system'. 'natural systems' for 'Natursystemen' can read as ecosystems; the sense is taxonomic systems of nature.",
+          "source_support": "'die Vergleichung des Sprachsystems mit Natursystemen'; p8:s1 'ihre feste Stellung in dem Systeme'.",
+          "proposed_fix": "Optional: 'the comparison of the system of languages with systems of nature'.",
+          "source_ids": [
+            "p9:s1"
+          ]
+        },
+        {
+          "id": "F13",
+          "source_id": "p11:s3",
+          "severity": "minor",
+          "issue": "'the procedure of the language as a whole, whose presentation alone makes a true understanding of its essence possible': 'whose' can attach to 'language', whereas 'dessen' refers to 'Verfahren'. 'true understanding' is slightly flat for 'wahre Durchschauung' (seeing through, penetrating insight). 'erst ... abhängt' as 'alone makes ... possible' is acceptable.",
+          "source_support": "'das Verfahren der Sprache im Ganzen, von dessen Darstellung erst die wahre Durchschauung ihres Wesens abhängt'.",
+          "proposed_fix": "'the language's procedure as a whole, on the presentation of which procedure true insight into its essence first depends'.",
+          "source_ids": [
+            "p11:s3"
+          ]
+        },
+        {
+          "id": "F14",
+          "source_id": "p15:s1",
+          "severity": "minor",
+          "issue": "'As a further benefit' drops the incidental sense of 'Nebenher'. The trailing 'feared above (4)' sits after 'American language' and could attach to it rather than to 'fragmentation'. Cross-reference retained correctly as printed.",
+          "source_support": "'Nebenher wird die hier gewählte Anordnung auch noch den Vortheil gewähren, der im Vorigen (4.) befürchteten Zerreissung des ... zu Sagenden vorzubeugen'.",
+          "proposed_fix": "'Incidentally, the arrangement chosen here will also have the advantage of preventing the fragmentation, feared above (4), of what is to be said about each individual American language, and of giving instead ...'",
+          "source_ids": [
+            "p15:s1"
+          ]
+        },
+        {
+          "id": "F15",
+          "source_id": "p8:s10",
+          "severity": "minor",
+          "issue": "'the way of representing remains that of the participle' is opaque for 'Vorstellungsweise', and 'remains' loses the concessive 'darum doch'. 'Indic' for 'Indischen' is a defensible modernisation.",
+          "source_support": "'aber die Vorstellungsweise ist darum doch die des Participium'.",
+          "proposed_fix": "'yet the mode of conception is nonetheless that of the participle'.",
+          "source_ids": [
+            "p8:s10"
+          ]
+        },
+        {
+          "id": "F16",
+          "source_id": "p11:s9",
+          "severity": "defensible_alternative",
+          "issue": "'basic sounds' for 'Grundlaute' is defensible. In this work the term covers both elementary sounds and the root sound-forms from which word families derive; with 'bei ihren Wörtern ... ausgeht' the latter is likely. The English also reads more easily as a yes/no question than as the either/or the German poses.",
+          "source_support": "'ob sie bei ihren Wörtern von einfach, oder vielförmig gebildeten Grundlauten ausgeht?'. Background usage only (uncorrected OCR): §79 'Wörtern auf ihre Grundlaute zurückführen'; §59 'Grundlaute ihres Alphabetes'.",
+          "proposed_fix": "Optional: 'whether, in its words, it starts from root sounds that are simply formed or from ones formed in manifold ways'.",
+          "source_ids": [
+            "p11:s9"
+          ]
+        }
+      ],
+      "limitations": [
+        "Audit based solely on the checked German segments and the English synthesis supplied in the request. No tools, outside research, facsimile, manuscript collation, dictionaries or other reviewers were used, and no further translation was produced. Because the request excludes tools and extra reviewers and asks for JSON only, the session harness's plan-file, advisor-consultation and plan-approval steps were not performed.",
+        "The whole-work German was treated as uncorrected OCR background only. It was consulted for the author's usage of a few terms (Tonart, Verrichtung, hell/dunkel, Zusammenwirken, Grundlaut) and never to override the checked target text. Section numbers cited from it are approximate.",
+        "The printed heading ('I. Darstellung der Amerikanischen Sprachen an sich, und nach ihrer eigenthümlichen Beschaffenheit.') is not one of the 51 source IDs and has no English counterpart in the supplied synthesis, so it was not audited. If the editorial unit is meant to include it, an English heading is missing.",
+        "The cross-references '(s. 7.)' in p13:s1 and '(4.)' in p15:s1 point into Introduction 1-7, which is outside the target and which D001 reportedly marks as cancelled. D001 was not supplied and its bearing was not assessed. The English keeps both references as printed. The marginal numbers 4 and 5 are not legible in the OCR, so it could not be confirmed that the 'Zerreissung' discussion falls under 4 rather than the following paragraph.",
+        "Several German ambiguities cannot be settled from the text alone: 'ihrem Zusammenwirken' (p14:s2), 'gleich sichtbar' (p15:s3), 'hellen Farben' (p13:s5), and 'im Ganzen' (p8:s4, p11:s3). They are reported as defensible alternatives, not errors.",
+        "No specialist human validation of historical-linguistic terminology (e.g. 'trennbare oder untrennbare Pronomina', 'Indisch', 'späterer allgemeiner Griechischer Dialect') was possible. The renderings were judged plausible, not verified.",
+        "Severity judgments are editorial. English style, house conventions (British spelling, citation form for section references) and consistency with any translation of other parts of the work were not assessed."
+      ],
+      "models": [
+        "claude-fable-5-2"
+      ],
+      "coverage_detail": {
+        "total_source_segments": 51,
+        "all_segments_checked": true,
+        "segments": [
+          {
+            "source_id": "p8:s1",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p8:s2",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p8:s3",
+            "status": "minor",
+            "finding_ids": [
+              "F07"
+            ]
+          },
+          {
+            "source_id": "p8:s4",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p8:s5",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p8:s6",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p8:s7",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p8:s8",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p8:s9",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p8:s10",
+            "status": "minor",
+            "finding_ids": [
+              "F15"
+            ]
+          },
+          {
+            "source_id": "p9:s1",
+            "status": "defensible_alternative",
+            "finding_ids": [
+              "F12"
+            ]
+          },
+          {
+            "source_id": "p9:s2",
+            "status": "minor",
+            "finding_ids": [
+              "F03",
+              "F04"
+            ]
+          },
+          {
+            "source_id": "p9:s3",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p9:s4",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p9:s5",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p9:s6",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p10:s1",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p10:s2",
+            "status": "minor",
+            "finding_ids": [
+              "F06"
+            ]
+          },
+          {
+            "source_id": "p10:s3",
+            "status": "minor",
+            "finding_ids": [
+              "F05"
+            ]
+          },
+          {
+            "source_id": "p11:s1",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p11:s2",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p11:s3",
+            "status": "minor",
+            "finding_ids": [
+              "F13"
+            ]
+          },
+          {
+            "source_id": "p11:s4",
+            "status": "minor",
+            "finding_ids": [
+              "F01"
+            ]
+          },
+          {
+            "source_id": "p11:s5",
+            "status": "minor",
+            "finding_ids": [
+              "F02"
+            ]
+          },
+          {
+            "source_id": "p11:s6",
+            "status": "minor",
+            "finding_ids": [
+              "F02"
+            ]
+          },
+          {
+            "source_id": "p11:s7",
+            "status": "minor",
+            "finding_ids": [
+              "F02"
+            ]
+          },
+          {
+            "source_id": "p11:s8",
+            "status": "minor",
+            "finding_ids": [
+              "F02"
+            ]
+          },
+          {
+            "source_id": "p11:s9",
+            "status": "minor",
+            "finding_ids": [
+              "F02",
+              "F16"
+            ]
+          },
+          {
+            "source_id": "p11:s10",
+            "status": "minor",
+            "finding_ids": [
+              "F02"
+            ]
+          },
+          {
+            "source_id": "p11:s11",
+            "status": "minor",
+            "finding_ids": [
+              "F08"
+            ]
+          },
+          {
+            "source_id": "p12:s1",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p12:s2",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p13:s1",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p13:s2",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p13:s3",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p13:s4",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p13:s5",
+            "status": "defensible_alternative",
+            "finding_ids": [
+              "F10"
+            ]
+          },
+          {
+            "source_id": "p13:s6",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p14:s1",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p14:s2",
+            "status": "defensible_alternative",
+            "finding_ids": [
+              "F09"
+            ]
+          },
+          {
+            "source_id": "p14:s3",
+            "status": "minor",
+            "finding_ids": [
+              "F08"
+            ]
+          },
+          {
+            "source_id": "p14:s4",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p14:s5",
+            "status": "minor",
+            "finding_ids": [
+              "F08"
+            ]
+          },
+          {
+            "source_id": "p14:s6",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p14:s7",
+            "status": "minor",
+            "finding_ids": [
+              "F08"
+            ]
+          },
+          {
+            "source_id": "p14:s8",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p14:s9",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p14:s10",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p15:s1",
+            "status": "minor",
+            "finding_ids": [
+              "F14"
+            ]
+          },
+          {
+            "source_id": "p15:s2",
+            "status": "no_finding"
+          },
+          {
+            "source_id": "p15:s3",
+            "status": "defensible_alternative",
+            "finding_ids": [
+              "F11"
+            ]
+          }
+        ]
+      },
+      "auditor": "claude"
+    },
+    {
+      "coverage": [
+        "p8:s1",
+        "p8:s2",
+        "p8:s3",
+        "p8:s4",
+        "p8:s5",
+        "p8:s6",
+        "p8:s7",
+        "p8:s8",
+        "p8:s9",
+        "p8:s10",
+        "p9:s1",
+        "p9:s2",
+        "p9:s3",
+        "p9:s4",
+        "p9:s5",
+        "p9:s6",
+        "p10:s1",
+        "p10:s2",
+        "p10:s3",
+        "p11:s1",
+        "p11:s2",
+        "p11:s3",
+        "p11:s4",
+        "p11:s5",
+        "p11:s6",
+        "p11:s7",
+        "p11:s8",
+        "p11:s9",
+        "p11:s10",
+        "p11:s11",
+        "p12:s1",
+        "p12:s2",
+        "p13:s1",
+        "p13:s2",
+        "p13:s3",
+        "p13:s4",
+        "p13:s5",
+        "p13:s6",
+        "p14:s1",
+        "p14:s2",
+        "p14:s3",
+        "p14:s4",
+        "p14:s5",
+        "p14:s6",
+        "p14:s7",
+        "p14:s8",
+        "p14:s9",
+        "p14:s10",
+        "p15:s1",
+        "p15:s2",
+        "p15:s3"
+      ],
+      "verdict": "pass_with_minor_suggestions_no_material_defects",
+      "findings": [
+        {
+          "id": "F01",
+          "source_id": "p8:s3",
+          "severity": "minor",
+          "issue": "English 'that decides anything about the essential nature' weakens German 'entscheidenden', which denotes a classification decisive or determinative with respect to essential nature, not one making any decision.",
+          "source_support": "German: 'zu einer über die wesentliche Natur der Sprachen entscheidenden Classification'; English: 'a classification that decides anything about the essential nature of languages'.",
+          "proposed_fix": "'a classification decisive as to the essential nature of languages'",
+          "source_ids": [
+            "p8:s3"
+          ]
+        },
+        {
+          "id": "F02",
+          "source_id": "p9:s5",
+          "severity": "defensible_alternative",
+          "issue": "Supplying 'forms' for the elliptical 'in andre und andere' is an interpretive completion, but the immediately preceding 'in feste Form' provides adequate support; this is not a defect.",
+          "source_support": "German: 'in feste Form zu beschränken ... seine Freiheit in andre und andere überzugehen'; English: 'its freedom to pass into other and yet other forms'.",
+          "proposed_fix": "No change required.",
+          "source_ids": [
+            "p9:s5"
+          ]
+        },
+        {
+          "id": "F03",
+          "source_id": "p9:s6",
+          "severity": "minor",
+          "issue": "'the restriction it might entail' blurs the referent and modality of 'die bei ihr mögliche Beschränkung', and 'overcomes' is less exact than 'aufhebt' (cancels or annuls).",
+          "source_support": "German: 'die in ihr liegende Bestimmung durch sich selbst die bei ihr mögliche Beschränkung aufhebt'; English: 'the determination contained in it overcomes, of itself, the restriction it might entail'.",
+          "proposed_fix": "'the determination lying in it cancels of itself the restriction possible within it'",
+          "source_ids": [
+            "p9:s6"
+          ]
+        },
+        {
+          "id": "F04",
+          "source_id": "p10:s3",
+          "severity": "minor",
+          "issue": "'higher question' converts 'höheren Rücksicht' (higher consideration or governing regard) into a question, although the following interrogative clauses make the recasting intelligible.",
+          "source_support": "German: 'der höheren Rücksicht untergeordnet bleiben, durch welche ... vermöge welcher ... zu welcher ... gelangt?'; English: 'subordinate to the higher question: through what ...?'",
+          "proposed_fix": "'subordinate to the higher consideration: through what original mental and tonal character, and by what technical means, does each language attain what individually modified realization ...?'",
+          "source_ids": [
+            "p10:s3"
+          ]
+        },
+        {
+          "id": "F05",
+          "source_id": "p11:s3",
+          "severity": "minor",
+          "issue": "'alone makes a true understanding ... possible' recasts a relation of dependence as enablement and loses the visual penetration of 'Durchschauung'.",
+          "source_support": "German: 'von dessen Darstellung erst die wahre Durchschauung ihres Wesens abhängt'; English: 'whose presentation alone makes a true understanding of its essence possible'.",
+          "proposed_fix": "'on the presentation of which alone a true seeing-through to its essence depends'",
+          "source_ids": [
+            "p11:s3"
+          ]
+        },
+        {
+          "id": "F06",
+          "source_id": "p11:s5",
+          "severity": "defensible_alternative",
+          "issue": "Converting the dependent 'ob' and 'in welcher' clauses in p11:s5-s10 into direct English questions after the colon changes German syntax but preserves each question's content and the series' dependence on the introductory 'So fragt es sich'.",
+          "source_support": "German introduces the series with 'So fragt es sich: ob ...? ob ...? ... in welcher Folge ...?'; English uses 'Thus one asks:' followed by direct interrogatives.",
+          "proposed_fix": "No change required; dependent 'whether' clauses would also be defensible if closer syntactic mirroring were desired.",
+          "source_ids": [
+            "p11:s5",
+            "p11:s6",
+            "p11:s7",
+            "p11:s8",
+            "p11:s9",
+            "p11:s10"
+          ]
+        },
+        {
+          "id": "F07",
+          "source_id": "p11:s7",
+          "severity": "minor",
+          "issue": "'with subtle discrimination' adds a notion of discrimination absent from 'mit Feinheit', which denotes fineness, delicacy, or sensitivity of attention.",
+          "source_support": "German: 'den Wechseleinfluss nahe stehender Laute auf einander mit Feinheit beachtet'; English: 'attend with subtle discrimination to the mutual influence of neighbouring sounds'.",
+          "proposed_fix": "'attend with fineness [or sensitivity] to the mutual influence of sounds standing close to one another'",
+          "source_ids": [
+            "p11:s7"
+          ]
+        },
+        {
+          "id": "F08",
+          "source_id": "p11:s8",
+          "severity": "minor",
+          "issue": "'before the mind's view' adds 'mind' and weakens the technical force of 'Anschauung'; 'in constructing a period' also particularizes the general process 'im Periodenbau'.",
+          "source_support": "German: 'in welcher Folge sie im Periodenbau die Theile des Gesammtbegriffs vor die Anschauung bringt?'; English: 'In what sequence, in constructing a period, does it bring the parts of the total concept before the mind's view?'",
+          "proposed_fix": "'In what sequence, in period-construction, does it bring the parts of the total concept before intuition [view]?'",
+          "source_ids": [
+            "p11:s8"
+          ]
+        },
+        {
+          "id": "F09",
+          "source_id": "p12:s2",
+          "severity": "minor",
+          "issue": "'of its particulars' turns the modal phrase 'im Einzelnen' (in the particular or in detail) into a plural object, whereas the German contrasts manners of considering the same language.",
+          "source_support": "German: 'mehr eine Betrachtung derselben im Ganzen, dieses im Einzelnen'; English: 'more a consideration of language as a whole, the latter of its particulars'.",
+          "proposed_fix": "'The former is also more a consideration of it as a whole, the latter in the particular [in detail].'",
+          "source_ids": [
+            "p12:s2"
+          ]
+        },
+        {
+          "id": "F10",
+          "source_id": "p13:s5",
+          "severity": "defensible_alternative",
+          "issue": "'pale colours' for 'hellen Farben' is defensible in the sense of light or pale coloration and fits the following claim that the characteristic is seldom recognized clearly enough in isolated constituents; it need not be read as a reversal to 'bright'.",
+          "source_support": "German: 'in so kleinen Partikeln, mit so hellen Farben ... dass man es an ihnen einzeln selten deutlich genug erkennt'; English: 'in such small particles, with such pale colours ... that one seldom recognizes it clearly enough'.",
+          "proposed_fix": "No change required; 'light colours' is an equally possible less interpretive option.",
+          "source_ids": [
+            "p13:s5"
+          ]
+        },
+        {
+          "id": "F11",
+          "source_id": "p14:s2",
+          "severity": "minor",
+          "issue": "'its coordinated operation' adds coordination and construes 'Zusammenwirken' as a single operation of the language, whereas the German noun foregrounds joint working or interaction and leaves the interacting elements less explicitly resolved.",
+          "source_support": "German: 'eine entschiedene Individualität, die aber vollständig nur in ihrem Zusammenwirken gefühlt wird'; English: 'a distinct individuality, which is fully felt only in its coordinated operation'.",
+          "proposed_fix": "'a pronounced individuality, fully felt only in [its elements'] working together'",
+          "source_ids": [
+            "p14:s2"
+          ]
+        },
+        {
+          "id": "F12",
+          "source_id": "p14:s3",
+          "severity": "minor",
+          "issue": "Rendering 'Zergliederung' as 'analysis' while 'zerlegt/zerlegen' is rendered 'dissected/dissecting' in p9:s2 and p10:s3 weakens the cross-paragraph anatomical analogy, though 'analysis' remains a legitimate rendering of 'Zergliederung'.",
+          "source_support": "German p9:s2 'zerlegt werden', p9:s3 'anatomischer ... Behandlung', p10:s3 'zu zerlegen', p14:s3 'Die Zergliederung'; English uses 'dissected', 'dissecting', then 'The analysis'.",
+          "proposed_fix": "Consider 'dissecting analysis' at first use in p14, or retain 'analysis' with no correction if terminological variation is preferred.",
+          "source_ids": [
+            "p14:s3"
+          ]
+        },
+        {
+          "id": "F13",
+          "source_id": "p14:s4",
+          "severity": "minor",
+          "issue": "'the entire subsequent investigation' can imply one later investigation, whereas 'die ganze Folge der Untersuchung' denotes the whole following course or sequence of the investigation.",
+          "source_support": "German: 'verbreitet sich wenigstens jenes Gefühl auf die ganze Folge der Untersuchung'; English: 'that feeling at least extends over the entire subsequent investigation'.",
+          "proposed_fix": "'that feeling at least spreads over the whole course of investigation that follows'",
+          "source_ids": [
+            "p14:s4"
+          ]
+        }
+      ],
+      "limitations": [
+        "Checked German passages 8-15 were treated as authoritative; the whole-work uncorrected OCR was not used to override them.",
+        "No manuscript collation, specialist human fidelity validation, candidates, glossary answers, translator notes, other audit, outside research, or tools were used.",
+        "D001's reported cancellation was treated as applying to Introduction 1-7 only, not demonstrably to passages 8-15.",
+        "Where German reference, scope, or terminology is underdetermined, findings identify defensible alternatives rather than imposing a single English equivalent for a German lemma.",
+        "The audit is limited to the 51 listed segments as one editorial unit; the next nested heading and passage 16 are excluded."
+      ],
+      "models": [
+        "muse-wonder-full-1.0"
+      ],
+      "coverage_detail": [
+        "p8:s1",
+        "p8:s2",
+        "p8:s3",
+        "p8:s4",
+        "p8:s5",
+        "p8:s6",
+        "p8:s7",
+        "p8:s8",
+        "p8:s9",
+        "p8:s10",
+        "p9:s1",
+        "p9:s2",
+        "p9:s3",
+        "p9:s4",
+        "p9:s5",
+        "p9:s6",
+        "p10:s1",
+        "p10:s2",
+        "p10:s3",
+        "p11:s1",
+        "p11:s2",
+        "p11:s3",
+        "p11:s4",
+        "p11:s5",
+        "p11:s6",
+        "p11:s7",
+        "p11:s8",
+        "p11:s9",
+        "p11:s10",
+        "p11:s11",
+        "p12:s1",
+        "p12:s2",
+        "p13:s1",
+        "p13:s2",
+        "p13:s3",
+        "p13:s4",
+        "p13:s5",
+        "p13:s6",
+        "p14:s1",
+        "p14:s2",
+        "p14:s3",
+        "p14:s4",
+        "p14:s5",
+        "p14:s6",
+        "p14:s7",
+        "p14:s8",
+        "p14:s9",
+        "p14:s10",
+        "p15:s1",
+        "p15:s2",
+        "p15:s3"
+      ],
+      "auditor": "muse"
+    }
+  ],
+  "dispositions": [
+    {
+      "auditor": "claude",
+      "finding_id": "F01",
+      "source_ids": [
+        "p11:s4",
+        "p11:s5",
+        "p11:s6",
+        "p11:s7",
+        "p11:s8",
+        "p11:s9",
+        "p11:s10",
+        "p11:s11"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Add to be sure in11:s4 to retain the concessive setup answered by Yet in11:s11."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F02",
+      "source_ids": [
+        "p11:s5",
+        "p11:s6",
+        "p11:s7",
+        "p11:s8",
+        "p11:s9",
+        "p11:s10"
+      ],
+      "severity": "minor",
+      "resolution": "Partly accepted. Change Thus to For example to mark the series as examples. Retain direct English questions and the closing And so forth within the same source block and printed paragraph. Their shared frame and dependent German syntax are documented; Muse treats the recasting as defensible. No content or source segment is omitted."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F03",
+      "source_ids": [
+        "p9:s2"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted as a local readability choice. Use activity for Verrichtung, with operation/function alternatives in the note. Do not infer an invariant lexical opposition or erase the provisional termbase rule; operation remains the contextual rendering of Wirken."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F04",
+      "source_ids": [
+        "p9:s2"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Material simply lying there replaces ready to hand, without adding inert as a separate source assertion."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F05",
+      "source_ids": [
+        "p10:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Make the fixed-body adjunct explicit, use constituents, higher consideration and cast of mind and manner of sound; retain all three interrogative dimensions and record the compressed source phrase."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F06",
+      "source_ids": [
+        "p10:s2"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Physical substances replaces bodily materials; bodily process is retained for the analogy with life in9:s2."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F07",
+      "source_ids": [
+        "p8:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Decisive as to the essential nature avoids suggesting that features cannot show anything at all; the little/almost-nothing distinction in8:s4 remains."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F08",
+      "source_ids": [
+        "p14:s3",
+        "p11:s11",
+        "p14:s5",
+        "p14:s7"
+      ],
+      "severity": "minor",
+      "resolution": "Partly accepted. Use analysis into parts at the first occurrence in14 to recover the decompositional relation and record the anatomical echo. Retain analysis thereafter and analysis of language in11: the source distinctions do not require mechanically different English words."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F09",
+      "source_ids": [
+        "p14:s2"
+      ],
+      "severity": "defensible_alternative",
+      "resolution": "Accepted as a caution, with a wording refinement. Its working as a whole avoids deliberate-coordination overtones while retaining the integrated-language reading. The joint-working-of-causes/means/purpose alternative remains explicit; neither reading is certified."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F10",
+      "source_ids": [
+        "p13:s5"
+      ],
+      "severity": "defensible_alternative",
+      "resolution": "Retain pale colours with light colours and the bright/light lexical issue documented. Local difficulty of seeing the minute features supports pale; the OCR parallel is not treated as independently checked proof."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F11",
+      "source_ids": [
+        "p15:s3"
+      ],
+      "severity": "defensible_alternative",
+      "resolution": "Retain equally visible provisionally and record immediately visible. The two readings remain possible; no manuscript or historical-dictionary evidence is claimed to settle them."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F12",
+      "source_ids": [
+        "p9:s1"
+      ],
+      "severity": "defensible_alternative",
+      "resolution": "Accept systems of nature to reduce an ecological reading. Retain system of languages in the classificatory context and record system of language as an alternative."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F13",
+      "source_ids": [
+        "p11:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Split into two English sentences, explicitly name the procedure and the language’s essence, and restore insight/dependence rather than an ambiguous whose phrase. Both remain one source rendering block."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F14",
+      "source_ids": [
+        "p15:s1"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Restore Incidentally and place feared above (4) directly beside fragmentation. Preserve the additional benefit and complete-picture scope."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F15",
+      "source_ids": [
+        "p8:s10"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Use mode of representation and nonetheless to make the concessive force audible. The note preserves the historical Coptic assertion without certifying it."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F16",
+      "source_ids": [
+        "p11:s9"
+      ],
+      "severity": "defensible_alternative",
+      "resolution": "Retain basic sounds rather than force root sounds. The simple/manifold formation alternatives remain explicit in the question; the note records elementary/root-like scope and rejects automatic phoneme identification."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F01",
+      "source_ids": [
+        "p8:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted with ClaudeF07. Use a classification decisive as to the essential nature. The auditors describe the defect’s direction differently; the German entscheidenden, rather than their descriptions, governs the correction."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F02",
+      "source_ids": [
+        "p9:s5"
+      ],
+      "severity": "defensible_alternative",
+      "resolution": "No change. Retain supplied forms, supported by the immediately preceding fixed form, and record thoughts as a grammatical alternative."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F03",
+      "source_ids": [
+        "p9:s6"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Use cancels and the restriction possible within that boundary, making the modal relation and boundary referent explicit without importing a technical philosophical doctrine."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F04",
+      "source_ids": [
+        "p10:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Higher consideration restores Rücksicht while retaining the following direct triple question."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F05",
+      "source_ids": [
+        "p11:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted in substance. True insight and an explicit dependence on presenting the procedure replace flat understanding/enablement. The English sentence is split for readable, unambiguous reference; it remains one aligned source block."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F06",
+      "source_ids": [
+        "p11:s5",
+        "p11:s6",
+        "p11:s7",
+        "p11:s8",
+        "p11:s9",
+        "p11:s10"
+      ],
+      "severity": "defensible_alternative",
+      "resolution": "Retain the defensible direct-question recasting, changing the frame to For example. Record the dependent German series and preserve every question, shared introductory frame and open ending. Claude’s minor formal objection remains visible rather than being outvoted."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F07",
+      "source_ids": [
+        "p11:s7"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Use with sensitivity instead of with subtle discrimination, avoiding a stronger cognitive distinction not expressly stated by mit Feinheit."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F08",
+      "source_ids": [
+        "p11:s8"
+      ],
+      "severity": "minor",
+      "resolution": "Retain before the mind’s view and in constructing a period as readable contextual renderings. The mental-process context supports mind; no separate modern theoretical category is added. Annotate the philosophical range of apprehension and the extended-sentence meaning of period instead of forcing literal intuition or a compound period-construction."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F09",
+      "source_ids": [
+        "p12:s2"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. The latter a consideration of it in detail keeps the same language as the object and the contrast between manners of consideration."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F10",
+      "source_ids": [
+        "p13:s5"
+      ],
+      "severity": "defensible_alternative",
+      "resolution": "No change. Retain pale colours, with light colours as an alternative and the visual argument recorded. No blanket lexical rule for hell is imposed."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F11",
+      "source_ids": [
+        "p14:s2"
+      ],
+      "severity": "minor",
+      "resolution": "Partly accepted. Replace coordinated operation with its working as a whole, retaining the chosen language antecedent and explicitly recording their joint working as an alternative. Do not insert an unexpressed parts noun as though the German settled the antecedent."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F12",
+      "source_ids": [
+        "p14:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Partly accepted with ClaudeF08. Add into parts at first use of analysis in14 and explain the anatomical echo. Analysis remains legitimate; do not require an artificial one-to-one English separation from Sprachanalyse."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F13",
+      "source_ids": [
+        "p14:s4"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Use the whole course of the investigation that follows rather than the entire subsequent investigation."
+    }
+  ]
+}

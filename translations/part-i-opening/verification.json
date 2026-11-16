@@ -1,0 +1,272 @@
+{
+  "section": "Part I opening",
+  "protected_files_unchanged": 118,
+  "AGENTS_unchanged": true,
+  "historical_tables": {
+    "alignment": {
+      "original_rows": 183,
+      "previous_rows": 374,
+      "current_rows": 655,
+      "all_previous_rows_preserved": true
+    },
+    "alignment_member": {
+      "original_rows": 379,
+      "previous_rows": 761,
+      "current_rows": 1323,
+      "all_previous_rows_preserved": true
+    },
+    "analysis": {
+      "original_rows": 27,
+      "previous_rows": 61,
+      "current_rows": 109,
+      "all_previous_rows_preserved": true
+    },
+    "composite_attestation": {
+      "original_rows": 1,
+      "previous_rows": 1,
+      "current_rows": 1,
+      "all_previous_rows_preserved": true
+    },
+    "composite_member": {
+      "original_rows": 2,
+      "previous_rows": 2,
+      "current_rows": 2,
+      "all_previous_rows_preserved": true
+    },
+    "decision": {
+      "original_rows": 1575,
+      "previous_rows": 1668,
+      "current_rows": 1723,
+      "all_previous_rows_preserved": true
+    },
+    "decision_evidence": {
+      "original_rows": 1811,
+      "previous_rows": 1974,
+      "current_rows": 2078,
+      "all_previous_rows_preserved": true
+    },
+    "evidence": {
+      "original_rows": 1768,
+      "previous_rows": 1833,
+      "current_rows": 1886,
+      "all_previous_rows_preserved": true
+    },
+    "evidence_detail": {
+      "original_rows": 155,
+      "previous_rows": 155,
+      "current_rows": 155,
+      "all_previous_rows_preserved": true
+    },
+    "lexeme": {
+      "original_rows": 1048,
+      "previous_rows": 1048,
+      "current_rows": 1048,
+      "all_previous_rows_preserved": true
+    },
+    "lexeme_control": {
+      "original_rows": 149,
+      "previous_rows": 149,
+      "current_rows": 149,
+      "all_previous_rows_preserved": true
+    },
+    "lexeme_form": {
+      "original_rows": 1712,
+      "previous_rows": 1712,
+      "current_rows": 1712,
+      "all_previous_rows_preserved": true
+    },
+    "preparation_input": {
+      "original_rows": 9,
+      "previous_rows": 9,
+      "current_rows": 9,
+      "all_previous_rows_preserved": true
+    },
+    "register_carry_forward": {
+      "original_rows": 119,
+      "previous_rows": 119,
+      "current_rows": 119,
+      "all_previous_rows_preserved": true
+    },
+    "sense_attestation": {
+      "original_rows": 1566,
+      "previous_rows": 1566,
+      "current_rows": 1566,
+      "all_previous_rows_preserved": true
+    },
+    "sense_rendering": {
+      "original_rows": 2167,
+      "previous_rows": 2167,
+      "current_rows": 2167,
+      "all_previous_rows_preserved": true
+    },
+    "term_entry": {
+      "original_rows": 34,
+      "previous_rows": 34,
+      "current_rows": 34,
+      "all_previous_rows_preserved": true
+    },
+    "term_entry_evidence": {
+      "original_rows": 202,
+      "previous_rows": 202,
+      "current_rows": 202,
+      "all_previous_rows_preserved": true
+    },
+    "term_entry_family": {
+      "original_rows": 46,
+      "previous_rows": 46,
+      "current_rows": 46,
+      "all_previous_rows_preserved": true
+    },
+    "term_expression_part": {
+      "original_rows": 1565,
+      "previous_rows": 1565,
+      "current_rows": 1565,
+      "all_previous_rows_preserved": true
+    },
+    "term_family": {
+      "original_rows": 18,
+      "previous_rows": 18,
+      "current_rows": 18,
+      "all_previous_rows_preserved": true
+    },
+    "term_occurrence": {
+      "original_rows": 4740,
+      "previous_rows": 4740,
+      "current_rows": 4740,
+      "all_previous_rows_preserved": true
+    },
+    "term_relation": {
+      "original_rows": 122,
+      "previous_rows": 122,
+      "current_rows": 122,
+      "all_previous_rows_preserved": true
+    },
+    "term_sense": {
+      "original_rows": 1518,
+      "previous_rows": 1518,
+      "current_rows": 1518,
+      "all_previous_rows_preserved": true
+    },
+    "term_use": {
+      "original_rows": 1531,
+      "previous_rows": 1531,
+      "current_rows": 1531,
+      "all_previous_rows_preserved": true
+    },
+    "terminology_candidate": {
+      "original_rows": 3515,
+      "previous_rows": 3515,
+      "current_rows": 3515,
+      "all_previous_rows_preserved": true
+    },
+    "terminology_control": {
+      "original_rows": 87,
+      "previous_rows": 87,
+      "current_rows": 87,
+      "all_previous_rows_preserved": true
+    },
+    "terminology_page_review": {
+      "original_rows": 110,
+      "previous_rows": 110,
+      "current_rows": 110,
+      "all_previous_rows_preserved": true
+    },
+    "text_version": {
+      "original_rows": 21,
+      "previous_rows": 53,
+      "current_rows": 101,
+      "all_previous_rows_preserved": true
+    },
+    "unit": {
+      "original_rows": 86978,
+      "previous_rows": 94821,
+      "current_rows": 105051,
+      "all_previous_rows_preserved": true
+    },
+    "unit_decision": {
+      "original_rows": 1681,
+      "previous_rows": 2016,
+      "current_rows": 2289,
+      "all_previous_rows_preserved": true
+    },
+    "unit_evidence": {
+      "original_rows": 3272,
+      "previous_rows": 3451,
+      "current_rows": 3576,
+      "all_previous_rows_preserved": true
+    },
+    "word_index": {
+      "original_rows": 39132,
+      "previous_rows": 39132,
+      "current_rows": 39132,
+      "all_previous_rows_preserved": true
+    }
+  },
+  "report": {
+    "schema_version": 2,
+    "sealed": true,
+    "counts": {
+      "alignment": 655,
+      "alignment_member": 1323,
+      "analysis": 109,
+      "build_metadata": 11,
+      "change_impact": 1677,
+      "composite_attestation": 1,
+      "composite_member": 2,
+      "decision": 1723,
+      "decision_evidence": 2078,
+      "evidence": 1886,
+      "evidence_detail": 155,
+      "lexeme": 1048,
+      "lexeme_control": 149,
+      "lexeme_form": 1712,
+      "preparation_input": 9,
+      "register_carry_forward": 119,
+      "revision_history": 5,
+      "schema_migration": 2,
+      "sense_attestation": 1566,
+      "sense_rendering": 2167,
+      "term_entry": 34,
+      "term_entry_evidence": 202,
+      "term_entry_family": 46,
+      "term_expression_part": 1565,
+      "term_family": 18,
+      "term_occurrence": 4740,
+      "term_relation": 122,
+      "term_sense": 1518,
+      "term_use": 1531,
+      "terminology_candidate": 3515,
+      "terminology_control": 87,
+      "terminology_page_review": 110,
+      "text_version": 101,
+      "unit": 105051,
+      "unit_decision": 2289,
+      "unit_evidence": 3576,
+      "word_index": 39132
+    },
+    "integrity": "ok",
+    "foreign_key_errors": []
+  },
+  "logical_digest": "1b4c0a6751f5a08795201cf6998ca62737d8b6b89dc3c7c46dd4edfe10c6b299",
+  "local_tests": {
+    "unit": 59,
+    "integration": 19,
+    "corpus": 10,
+    "historical": 43,
+    "total": 131,
+    "all_passed": true
+  },
+  "baseline_matches": true,
+  "baseline_evidence": "Passing tests/corpus/test_baseline.py",
+  "source_segments": 51,
+  "candidates": 3,
+  "independent_audits": 2,
+  "audit_findings": 29,
+  "dispositions": 29,
+  "selected_term_rule_links": 22,
+  "consequential_span_links": 26,
+  "all_previous_English_bodies_preserved": true,
+  "test_run_note": "Initial full run passed unit/integration/historical suites; the new corpus test had a Path indexing typo. After correcting only that test, all10 corpus tests passed in a targeted rerun. Both logs are preserved under tmp/part-i-opening.",
+  "reader_checks": "All8 numeric passages expose6 versions and the intended reading defaults; a consequential span trace resolves.",
+  "limits": "Software and source-fingerprint checks, not specialist German fidelity or manuscript certification. Introduction and new English reviews remain pending. Conservative impact records remain unsuppressed."
+}

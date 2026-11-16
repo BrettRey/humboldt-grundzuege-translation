@@ -1,0 +1,336 @@
+{
+  "section": "Part I opening",
+  "stage": "Coordinator synthesis before two fresh section audits",
+  "paragraphs": [
+    {
+      "number": 8,
+      "sentences": [
+        {
+          "source_id": "p8:s1",
+          "english": "There is as yet no proven procedure for achieving the aim I set myself here, no attempt successful to any degree at portraying the distinctive character of a language in such a way that its relation to others and its place in the domain of languages in general would emerge much as a plant genus acquires its fixed position in the system through the botanical determination of its characters."
+        },
+        {
+          "source_id": "p8:s2",
+          "english": "People have indeed hit upon the idea of classifying languages by the similarities and differences of their grammatical forms, according to whether they possess articles, gender marking, a dual, separable or inseparable pronouns, inflected verbs or verbs combined with auxiliary words, and so forth."
+        },
+        {
+          "source_id": "p8:s3",
+          "english": "Groupings of this kind may afford various subordinate benefits, but even a little reflection shows that they can never lead to a classification that decides anything about the essential nature of languages."
+        },
+        {
+          "source_id": "p8:s4",
+          "english": "The features taken here as the basis of division are merely the technical means of languages, whose use or absence proves little about their inner nature and almost nothing about their agreement or disagreement as wholes."
+        },
+        {
+          "source_id": "p8:s5",
+          "english": "English and Danish are certainly very closely related to German, and yet the former lacks gender marking, while the latter has a passive formed by inflection."
+        },
+        {
+          "source_id": "p8:s6",
+          "english": "What advantage, then, could there be in tearing these languages away from our own in a classification of languages and placing them with those with which they share these properties?"
+        },
+        {
+          "source_id": "p8:s7",
+          "english": "These technical means also change, arise and disappear; one takes the place of another, and the absence of a particular form does not mean the absence of the effect it otherwise produces in the language."
+        },
+        {
+          "source_id": "p8:s8",
+          "english": "Often it is not even easy to determine whether or not one of these forms is present in a language."
+        },
+        {
+          "source_id": "p8:s9",
+          "english": "Examples abound for every point touched on here."
+        },
+        {
+          "source_id": "p8:s10",
+          "english": "An inflected passive was not always foreign to German; the dual disappeared in the later common Greek dialect; Coptic quite ordinarily uses the inflected verb in place of the participle, yet the way of representing remains that of the participle; in some languages it is difficult to say whether or not they have an article, as is already shown by the transition from the Indic demonstrative pronoun to the Homeric article, and from this to the article used in later Greek."
+        }
+      ],
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      ]
+    },
+    {
+      "number": 9,
+      "sentences": [
+        {
+          "source_id": "p9:s1",
+          "english": "In general, one must take care not to carry the comparison of the system of languages with natural systems further than the subject permits."
+        },
+        {
+          "source_id": "p9:s2",
+          "english": "A language cannot be dissected like a natural body; even in the mass of words and rules it presents, it is not material lying ready to hand, but an operation, a mental process, just as life is a bodily process."
+        },
+        {
+          "source_id": "p9:s3",
+          "english": "Nothing relating to it can be compared with anatomical treatment, but only with physiological treatment; nothing in it is static, everything is dynamic."
+        },
+        {
+          "source_id": "p9:s4",
+          "english": "Even dead languages are no exception in this respect."
+        },
+        {
+          "source_id": "p9:s5",
+          "english": "What one investigates in them is the thought of the past that they preserve, and thought is always the breath of something living, always capable of being confined within a fixed form only in such a way that this very confinement secures its natural boundlessness, its freedom to pass into other and yet other forms."
+        },
+        {
+          "source_id": "p9:s6",
+          "english": "For it is the essence of language to draw a boundary in such a way that the determination contained in it overcomes, of itself, the restriction it might entail, as every word and every form, by virtue of their formation, call forth others standing beside, above and below them; language unceasingly articulates parts and wholes into one another in such a way that parts can become wholes and wholes parts."
+        }
+      ],
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      ]
+    },
+    {
+      "number": 10,
+      "sentences": [
+        {
+          "source_id": "p10:s1",
+          "english": "Language must therefore be considered in its living operation if one wishes truly to investigate its nature and arrive at a classification of several languages."
+        },
+        {
+          "source_id": "p10:s2",
+          "english": "Yet precisely because it is a mental process, neither task can be accomplished with the same success as in the case of bodily materials."
+        },
+        {
+          "source_id": "p10:s3",
+          "english": "One cannot avoid also dissecting it into its constituent parts as a fixed and finished body; but this task must always remain subordinate to the higher question: through what original mental and tonal character, and by what technical means, does each language achieve what individually modified realization of the general purpose of language?"
+        }
+      ],
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3
+        ]
+      ]
+    },
+    {
+      "number": 11,
+      "sentences": [
+        {
+          "source_id": "p11:s1",
+          "english": "Thus, according to what has been said here, two paths present themselves for gaining complete insight into the structure of a language, and they must be followed one after the other."
+        },
+        {
+          "source_id": "p11:s2",
+          "english": "On one, one examines the nature of the grammatical and lexical means the language employs: declension, conjugation, compounding, derivation, and so forth."
+        },
+        {
+          "source_id": "p11:s3",
+          "english": "On the other, one investigates the manner in which these means are applied and used, the overall treatment they receive, and explores, from every side and as completely as possible, the procedure of the language as a whole, whose presentation alone makes a true understanding of its essence possible."
+        },
+        {
+          "source_id": "p11:s4",
+          "english": "Several of the points that come into consideration here can readily be given as examples."
+        },
+        {
+          "source_id": "p11:s5",
+          "english": "Thus one asks: does the language keep these means apart from one another in fixed forms, or throw them together and confuse them?"
+        },
+        {
+          "source_id": "p11:s6",
+          "english": "Does it mark them in a simple, regular manner, or in one that is contingently uneven and divergent?"
+        },
+        {
+          "source_id": "p11:s7",
+          "english": "Does it attend with subtle discrimination to the mutual influence of neighbouring sounds and subject it to fixed rules?"
+        },
+        {
+          "source_id": "p11:s8",
+          "english": "In what sequence, in constructing a period, does it bring the parts of the total concept before the mind’s view?"
+        },
+        {
+          "source_id": "p11:s9",
+          "english": "In its words, does it start from basic sounds formed simply or in manifold ways?"
+        },
+        {
+          "source_id": "p11:s10",
+          "english": "In the modification, compounding and placement of words, does it allow usage freedom or confine it within fixed rules? And so forth."
+        },
+        {
+          "source_id": "p11:s11",
+          "english": "Yet a complete and systematic enumeration of these manifold questions must rest on a deeper investigation, since precisely this kind of analysis of language has hitherto been pursued less extensively."
+        }
+      ],
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ]
+    },
+    {
+      "number": 12,
+      "sentences": [
+        {
+          "source_id": "p12:s1",
+          "english": "To name briefly the distinction suggested here, one may call the one the investigation of language’s procedure, the other the investigation of its constituents, provided one does not forget that this opposition must not be taken too strictly."
+        },
+        {
+          "source_id": "p12:s2",
+          "english": "The former is also more a consideration of language as a whole, the latter of its particulars."
+        }
+      ],
+      "typographic_groups": [
+        [
+          1,
+          2
+        ]
+      ]
+    },
+    {
+      "number": 13,
+      "sentences": [
+        {
+          "source_id": "p13:s1",
+          "english": "I begin with the former, and do not believe that I am thereby following an unnatural method in letting the particular follow the general here, as I have already done in the divisions made so far (see 7)."
+        },
+        {
+          "source_id": "p13:s2",
+          "english": "Study requires a different path from the presentation of what has been learned through study."
+        },
+        {
+          "source_id": "p13:s3",
+          "english": "In devoting oneself to study, one must learn the individual American languages before reflecting on them all, and in each ascend step by step from the sound element to the formation of the sentence."
+        },
+        {
+          "source_id": "p13:s4",
+          "english": "But the picture that one can draw, after this work, of the individual languages and of them all becomes more vivid and impresses itself better upon the soul if one begins by indicating its outermost outlines and gradually defines it more closely, bringing out its individual features."
+        },
+        {
+          "source_id": "p13:s5",
+          "english": "What is characteristic of languages does indeed reside in their individual constituents, but in such small particles, with such pale colours (if these expressions may be permitted), that one seldom recognizes it clearly enough in those constituents taken separately."
+        },
+        {
+          "source_id": "p13:s6",
+          "english": "Once the character as a whole has been drawn, however, it becomes much easier to see from it how it requires this or that constitution of the constituents, or rather arises from that constitution."
+        }
+      ],
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      ]
+    },
+    {
+      "number": 14,
+      "sentences": [
+        {
+          "source_id": "p14:s1",
+          "english": "But there is also a deeper reason in the nature of language that justifies the choice of this order."
+        },
+        {
+          "source_id": "p14:s2",
+          "english": "Despite the similarity of the causes that produce all languages, of their technical means and of their purpose, every language possesses a distinct individuality, which is fully felt only in its coordinated operation."
+        },
+        {
+          "source_id": "p14:s3",
+          "english": "The analysis necessary to transform this feeling into knowledge always somewhat obscures the apprehension of living individuality, if only because this very transformation of feeling into knowledge can never be wholly complete."
+        },
+        {
+          "source_id": "p14:s4",
+          "english": "If one begins with the total impression, however, that feeling at least extends over the entire subsequent investigation."
+        },
+        {
+          "source_id": "p14:s5",
+          "english": "If one reverses the order, or even stops at analysis, one obtains a long series of analyses of languages made according to a single plan (since the different plans better suited to each individuality could arise only from knowledge of that individuality), without recognizing or feeling the essential distinctive character of a single one of them."
+        },
+        {
+          "source_id": "p14:s6",
+          "english": "One learns a great deal about them, but not the one thing that matters."
+        },
+        {
+          "source_id": "p14:s7",
+          "english": "The more detailed the analyses, the more they disperse the impression of the whole."
+        },
+        {
+          "source_id": "p14:s8",
+          "english": "Merely comparing samples of language, even meagre ones not altogether suitably chosen, is far better suited to grasping the total impression of a language’s character."
+        },
+        {
+          "source_id": "p14:s9",
+          "english": "I by no means deny, however, that if one wishes to make this comparison fruitful and demonstrate the character of the language in its constituents, this path presents obstacles that are difficult, and in part altogether impossible, to remove."
+        },
+        {
+          "source_id": "p14:s10",
+          "english": "It is therefore all the more important at least to take, from the outset, a direction that facilitates success."
+        }
+      ],
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      ]
+    },
+    {
+      "number": 15,
+      "sentences": [
+        {
+          "source_id": "p15:s1",
+          "english": "As a further benefit, the arrangement chosen here will also prevent the fragmentation of what is to be said about each individual American language, feared above (4), and instead give a total picture of them all at the very outset."
+        },
+        {
+          "source_id": "p15:s2",
+          "english": "For a portrayal of a language in its operation can be drawn only with a certain unity, and even the points that must also be explored individually here always stand in a closer relation to the whole."
+        },
+        {
+          "source_id": "p15:s3",
+          "english": "The grammatical elements (articles, case markers, the verb, and so forth), by contrast, constitute parts whose connection with the character of the whole is not always equally visible, and their portrayal can be carried out separately in as many monographs, each extending across all the American languages."
+        }
+      ],
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3
+        ]
+      ]
+    }
+  ],
+  "frozen_at": "2026-11-16T19:33:12.323462+00:00",
+  "candidates_sha256": "3d996cfa79b519a085f2243fbe811945116a541779e3bed50f4a9e5c9752eb90",
+  "basis": "Source comparison after candidate freeze, conditional termbase consultation and earlier English consistency check; not a model vote."
+}

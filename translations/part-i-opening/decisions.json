@@ -1,0 +1,405 @@
+{
+  "section": "Part I opening",
+  "decisions": [
+    {
+      "source_id": "p8:s1",
+      "question": "Aim, distinctive character and botanical analogy",
+      "resolution": "Retain the negative claim about any successful procedure and the fixed systematic position conferred by botanical characters. Distinctive character continues the contextual use of Eigenthümlichkeit; characters is the botanical use, not a claim of immutable modern biological ranks."
+    },
+    {
+      "source_id": "p8:s3",
+      "question": "Subordinate utility without essential classification",
+      "resolution": "Groupings may be useful in subordinate ways but cannot decide the essential nature of languages. Do not translate this as rejection of all grammatical comparison."
+    },
+    {
+      "source_id": "p8:s5",
+      "question": "Former and latter in the language examples",
+      "resolution": "Former is English, latter Danish. The source’s historical gender/passive claims remain attributed to Humboldt rather than silently modernised."
+    },
+    {
+      "source_id": "p8:s7",
+      "question": "Missing form versus retained effect",
+      "resolution": "Absence of the particular form does not entail absence of the effect it otherwise produces. Do not turn the absence into the cause of the effect or drop otherwise."
+    },
+    {
+      "source_id": "p8:s10",
+      "question": "Historical examples and Indic designation",
+      "resolution": "Keep German as printed, the common Greek dialect, the Coptic verb/participle representational contrast, some rather than many languages, and the two article transitions. Indic clarifies the South Asian designation without supplying Sanskrit as a fact. Historical accuracy has not been independently established in this cycle."
+    },
+    {
+      "source_id": "p9:s1",
+      "question": "Classification system or internal language system",
+      "resolution": "Use system of languages in the immediate classificatory analogy with natural systems; system of language remains possible. The local context governs rather than the provisional termbase English alone."
+    },
+    {
+      "source_id": "p9:s2",
+      "question": "Living operation rather than material stock",
+      "resolution": "Use activity for Verrichtung in its explicit contrast with material stock, recording operation/function as alternatives. This is a local exception to the provisional operation wording, not a termbase rewrite or rigid lexeme boundary. Preserve the mental/bodily-process analogy and even-in-the-stock qualification."
+    },
+    {
+      "source_id": "p9:s5",
+      "question": "Breath, confinement and the unexpressed noun",
+      "resolution": "Retain breath and the paradox that determinate form secures thought’s boundlessness. Supply forms for the unexpressed noun after other and yet other, recording thoughts as an unresolved grammatical alternative."
+    },
+    {
+      "source_id": "p9:s6",
+      "question": "Boundary, determination, restriction and reciprocal articulation",
+      "resolution": "Distinguish delimitation/boundary, determination and restriction. Cancels renders aufhebt without importing a particular philosophical doctrine; possible within that boundary preserves the modal restriction and its referent. Retain the formation clause, beside/above/below relations and both directions of parts/wholes conversion."
+    },
+    {
+      "source_id": "p10:s3",
+      "question": "Mental and tonal character, means and individual attainment",
+      "resolution": "Preserve the three questions: original cast of mind and manner of sound, technical means and individually modified realization of the general purpose. Manner of sound avoids an unsupported musical or lexical-tone category. Analytical dissection remains necessary but subordinate to the higher consideration."
+    },
+    {
+      "source_id": "p11:s1",
+      "question": "Two successive routes rather than incompatible methods",
+      "resolution": "Both routes must be followed one after the other. Their order in11 differs from the terminology order in12; do not harmonise the latter away."
+    },
+    {
+      "source_id": "p11:s3",
+      "question": "Means in coordinated use and the condition on insight",
+      "resolution": "Keep application/use and overall treatment, qualified completeness from every side, and true insight depending on the presentation of the whole procedure. Split the long source sentence into two English sentences to make the procedure antecedent explicit."
+    },
+    {
+      "source_id": "p11:s6",
+      "question": "Regular marking versus contingency",
+      "resolution": "Preserve the contrast between simple regular marking and contingently uneven divergent marking. Accidentally or haphazardly are alternatives; do not convert it into a statistical claim."
+    },
+    {
+      "source_id": "p11:s7",
+      "question": "Neighbouring sounds and regulated mutual influence",
+      "resolution": "Use sensitivity for mit Feinheit, preserving fixed rules governing reciprocal influence. Neighbouring leaves open adjacency in speech and affinity in sound type."
+    },
+    {
+      "source_id": "p11:s8",
+      "question": "Period and the total concept before apprehension",
+      "resolution": "Use period as an extended articulated sentence, not periodic repetition. Before the mind’s view makes Anschauung readable here while retaining the order of parts of the total concept; it is not mere visible printed order."
+    },
+    {
+      "source_id": "p11:s9",
+      "question": "Basic sounds and their formation",
+      "resolution": "Keep basic sounds and simple versus manifold formation. Do not replace Grundlaute with a modern category such as phonemes or silently fix them as reconstructed roots."
+    },
+    {
+      "source_id": "p12:s1",
+      "question": "Non-rigid procedure/constituent opposition",
+      "resolution": "Procedure is named first here, constituents second; the former in13 refers to procedure. Keep both not too strictly and the relative more in the whole/detail distinction."
+    },
+    {
+      "source_id": "p13:s2",
+      "question": "Study and exposition require different orders",
+      "resolution": "Retain the empirical learning of individual languages before general reflection, sound-to-sentence ascent, and the separate general-to-particular order of presenting results. No priority of exposition warrants a priori discovery."
+    },
+    {
+      "source_id": "p13:s5",
+      "question": "Minute particles and pale colours",
+      "resolution": "Particles is a visual metaphor, not a grammatical class. The failure to discern characteristics in isolated parts supports pale/light colours rather than bright; the lexical alternative is recorded."
+    },
+    {
+      "source_id": "p13:s6",
+      "question": "Requires, or rather arises from",
+      "resolution": "Retain the explicit correction of direction from whole character requiring a constitution of constituents to arising from that constitution. Do not omit the self-correction or make it a modern causal proof."
+    },
+    {
+      "source_id": "p14:s2",
+      "question": "Individuality and the antecedent of coordinated operation",
+      "resolution": "Use its working as a whole, taking the language as antecedent in the whole-impression argument and avoiding a suggestion of deliberate coordination. Their joint working, referring to causes/means/purpose, remains grammatically possible; no candidate majority settles it."
+    },
+    {
+      "source_id": "p14:s3",
+      "question": "Necessary analysis and incomplete conversion into knowledge",
+      "resolution": "Keep analysis as necessary to turn feeling into knowledge, its partial obscuring of apprehended living individuality, and the incompleteness of that conversion. Do not flatten Anschauung, Gefühl and Erkenntniss into one kind of knowledge."
+    },
+    {
+      "source_id": "p14:s5",
+      "question": "Single plan versus plans informed by individuality",
+      "resolution": "Treat different plans as the ellipsis after a single plan and knowledge of individuality as the prerequisite. Use parentheses for the inserted explanatory clause. Preserve the alternative that varied analyses rather than plans are meant."
+    },
+    {
+      "source_id": "p14:s9",
+      "question": "Specimens, comparison and admitted obstacles",
+      "resolution": "Retain even meagre/less suitably chosen samples, necessary demonstration in constituents, difficult and partly impossible obstacles, and the modest directional recommendation. Humboldt has not declared a guaranteed substitute for analysis."
+    },
+    {
+      "source_id": "p15:s1",
+      "question": "Avoiding fragmentation and printed backward references",
+      "resolution": "Retain the additional benefit, each individual language, total picture of all, and reference4; reference7 in13 is likewise preserved despite D001’s unresolved report about the Introduction."
+    },
+    {
+      "source_id": "p15:s3",
+      "question": "Element-wise monographs and visibility",
+      "resolution": "Read as many monographs as grammatical elements, each across American languages, not monographs divided by language. Equally visible is retained provisionally; immediately visible remains an alternative for gleich."
+    }
+  ],
+  "term_associations": [
+    [
+      "p8:s1",
+      "Eigenthümlichkeit",
+      "lex:eigenthuemlichkeit:s01"
+    ],
+    [
+      "p8:s5",
+      "Geschlechtsbezeichnung",
+      "lex:geschlechtsbezeichnung:s01"
+    ],
+    [
+      "p8:s10",
+      "Vorstellungsweise",
+      "lex:vorstellungsweise:s01"
+    ],
+    [
+      "p9:s1",
+      "Sprachsystems",
+      "lex:sprachsystem:s01"
+    ],
+    [
+      "p9:s2",
+      "Verrichtung",
+      "lex:verrichtung:s01"
+    ],
+    [
+      "p9:s5",
+      "Aushauch",
+      "lex:aushauch:s01"
+    ],
+    [
+      "p9:s6",
+      "Begränzung",
+      "lex:begraenzung:s01"
+    ],
+    [
+      "p9:s6",
+      "Bestimmung",
+      "lex:bestimmung:s01"
+    ],
+    [
+      "p9:s6",
+      "Beschränkung",
+      "lex:beschraenkung:s01"
+    ],
+    [
+      "p10:s3",
+      "Geistes- und Tonart",
+      "lex:geistes-und-tonart:s01"
+    ],
+    [
+      "p11:s1",
+      "Bau",
+      "lex:bau:s01"
+    ],
+    [
+      "p11:s8",
+      "Periodenbau",
+      "lex:periodenbau:s01"
+    ],
+    [
+      "p11:s9",
+      "Grundlauten",
+      "lex:grundlaut:s01"
+    ],
+    [
+      "p12:s1",
+      "Verfahrens",
+      "lex:verfahren:s01"
+    ],
+    [
+      "p12:s1",
+      "Bestandtheile",
+      "lex:bestandtheil:s01"
+    ],
+    [
+      "p13:s2",
+      "Darstellung",
+      "lex:darstellung:s01"
+    ],
+    [
+      "p13:s5",
+      "Partikeln",
+      "lex:partikel:s01"
+    ],
+    [
+      "p14:s2",
+      "Zusammenwirken",
+      "lex:zusammenwirken:s01"
+    ],
+    [
+      "p14:s3",
+      "Anschauung",
+      "lex:anschauung:s01"
+    ],
+    [
+      "p14:s3",
+      "Zergliederung",
+      "lex:zergliederung:s01"
+    ],
+    [
+      "p14:s8",
+      "Charakters",
+      "lex:charakter:s01"
+    ],
+    [
+      "p15:s2",
+      "Wirken",
+      "lex:wirken:s01"
+    ]
+  ],
+  "span_correspondences": [
+    [
+      "p8:s1",
+      "die Eigenthümlichkeit einer Sprache",
+      "the distinctive character of a language",
+      "Distinctive character as classificatory aim"
+    ],
+    [
+      "p8:s3",
+      "mancherlei untergeordneten Nutzen",
+      "various subordinate benefits",
+      "Qualified utility retained"
+    ],
+    [
+      "p8:s5",
+      "mangelt jenem die Geschlechtsbezeichnung und hat dieses ein durch Flexion gebildetes Passivum",
+      "the former lacks gender marking, while the latter has a passive formed by inflection",
+      "Former/latter resolved in source order"
+    ],
+    [
+      "p8:s7",
+      "darum dass die bestimmte Form fehlt, mangelt nicht die Wirkung",
+      "the absence of a particular form does not mean the absence of the effect",
+      "No entailment from missing form to missing effect"
+    ],
+    [
+      "p8:s10",
+      "aber die Vorstellungsweise ist darum doch die des Participium",
+      "yet the mode of representation is nonetheless that of the participle",
+      "Concessive representational contrast despite the inflected form"
+    ],
+    [
+      "p9:s2",
+      "sondern eine Verrichtung, ein geistiger Process, wie das Leben ein körperlicher",
+      "but an activity, a mental process, just as life is a bodily process",
+      "Activity and bodily-life analogy"
+    ],
+    [
+      "p9:s5",
+      "seine Freiheit in andre und andere überzugehen",
+      "its freedom to pass into other and yet other forms",
+      "Explicit supplied noun with thoughts alternative"
+    ],
+    [
+      "p9:s6",
+      "die in ihr liegende Bestimmung durch sich selbst die bei ihr mögliche Beschränkung aufhebt",
+      "the determination contained in it cancels, of itself, the restriction possible within that boundary",
+      "Determination cancels possible restriction"
+    ],
+    [
+      "p9:s6",
+      "dass jene zu diesen und diese zu jenen werden können",
+      "that parts can become wholes and wholes parts",
+      "Reciprocal parts/wholes conversion"
+    ],
+    [
+      "p10:s3",
+      "durch welche ursprüngliche Geistes- und Tonart",
+      "through what original cast of mind and manner of sound",
+      "Question about mental and sonic character"
+    ],
+    [
+      "p11:s1",
+      "welche nach einander eingeschlagen werden müssen",
+      "they must be followed one after the other",
+      "Successive necessity of both routes"
+    ],
+    [
+      "p11:s3",
+      "in möglicher Vollständigkeit von allen Seiten aus",
+      "from every side and as completely as possible",
+      "Qualified completeness"
+    ],
+    [
+      "p11:s6",
+      "eine zufällig ungleiche und abweichende Weise",
+      "one that is contingently uneven and divergent",
+      "Contingent divergent marking"
+    ],
+    [
+      "p11:s7",
+      "den Wechseleinfluss nahe stehender Laute auf einander",
+      "the mutual influence of neighbouring sounds",
+      "Mutual sound influence without modern category substitution"
+    ],
+    [
+      "p11:s8",
+      "die Theile des Gesammtbegriffs vor die Anschauung bringt",
+      "bring the parts of the total concept before the mind’s view",
+      "Order of presenting the total concept"
+    ],
+    [
+      "p11:s9",
+      "von einfach, oder vielförmig gebildeten Grundlauten",
+      "from basic sounds formed simply or in manifold ways",
+      "Basic-sound formation"
+    ],
+    [
+      "p12:s1",
+      "dass dieser Gegensatz nicht zu strenge genommen werden muss",
+      "that this opposition must not be taken too strictly",
+      "Non-rigid opposition"
+    ],
+    [
+      "p13:s2",
+      "Das Studium verlangt einen andern Weg, als die Darstellung des durch Studium Erkannten",
+      "Study requires a different path from the presentation of what has been learned through study",
+      "Inquiry distinguished from exposition"
+    ],
+    [
+      "p13:s5",
+      "in so kleinen Partikeln, mit so hellen Farben",
+      "in such small particles, with such pale colours",
+      "Minute and faint visual metaphor"
+    ],
+    [
+      "p13:s6",
+      "fordert, oder vielmehr aus derselben entsteht",
+      "requires this or that constitution of the constituents, or rather arises from that constitution",
+      "Explicit correction of direction"
+    ],
+    [
+      "p14:s2",
+      "vollständig nur in ihrem Zusammenwirken gefühlt wird",
+      "is fully felt only in its working as a whole",
+      "Integrated working with antecedent alternative"
+    ],
+    [
+      "p14:s3",
+      "jene Verwandlung des Gefühls in Erkenntniss nie ganz vollständig vor sich gehen kann",
+      "this very transformation of feeling into knowledge can never be wholly complete",
+      "Incomplete conversion into knowledge"
+    ],
+    [
+      "p14:s5",
+      "nach Einem Plan",
+      "according to a single plan",
+      "Uniform plan limits recognition"
+    ],
+    [
+      "p14:s9",
+      "schwer und zum Theil gar nicht zu beseitigende Hindernisse",
+      "obstacles that are difficult, and in part altogether impossible, to remove",
+      "Acknowledged limits of specimen comparison"
+    ],
+    [
+      "p15:s1",
+      "ein Totalbild aller",
+      "a total picture of them all",
+      "Overall picture across languages"
+    ],
+    [
+      "p15:s3",
+      "in ebensoviel Monographieen durch alle Amerikanischen Sprachen hindurch",
+      "in as many monographs, each extending across all the American languages",
+      "Monographs by element across languages"
+    ]
+  ]
+}

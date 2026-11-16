@@ -1,0 +1,397 @@
+{
+  "section": "Part I opening",
+  "range": [
+    8,
+    15
+  ],
+  "new_translation": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "heading": "Darstellung der Amerikanischen Sprachen an sich, und nach ihrer eigenthümlichen Beschaffenheit.",
+  "source_path": "sources/raw/gs-v-1906.pdf",
+  "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+  "source_status": "Provisional translation from GS V (Leitzmann 1906), Part I opening, numbered passages8–15, printed368–372 / PDF378–382 / scan leaves380–381,384–386. The next nested heading begins on printed373 / PDF383 and is excluded. No manuscript collation or specialist human fidelity validation. D001 reports cancellation of the preceding Introduction1–7; it does not establish cancellation of passages8–15.",
+  "paragraphs": [
+    {
+      "number": 8,
+      "version_id": "grundzuege-008-v1",
+      "sentences": [
+        {
+          "id": "p8:s1",
+          "text": "Es giebt bis jetzt kein bewährtes Verfahren, den Zweck, den ich mir hier vorsetze, zu erreichen, keinen irgend gelungenen Versuch, die Eigenthümlichkeit einer Sprache dergestalt zu schildern, dass daraus ihr Verhältniss zu andren, und ihre Stelle im Gebiete der Sprachen überhaupt auf eine ähnliche Weise hervorgienge, als eine Pflanzengattung durch die botanische Bestimmung ihrer Charaktere ihre feste Stellung in dem Systeme erhält."
+        },
+        {
+          "id": "p8:s2",
+          "text": "Man ist zwar wohl auf den Einfall gerathen, die Sprachen nach der Aehnlichkeit und Unähnlichkeit ihrer grammatischen Formen, je nachdem sie Artikel, Geschlechtsbezeichnung, Dualis, trennbare oder untrennbare Pronomina, flectirte oder mit Hülfswörtern verbundene Verba u. s. f. besitzen, zu classificiren."
+        },
+        {
+          "id": "p8:s3",
+          "text": "Zusammenstellungen solcher Art können mancherlei untergeordneten Nutzen gewähren, aber schon geringes Nachdenken zeigt, dass sie zu einer über die wesentliche Natur der Sprachen entscheidenden Classification niemals zu führen im Stande sind."
+        },
+        {
+          "id": "p8:s4",
+          "text": "Die Dinge, welche man hierbei zum Eintheilungsgrunde annimmt, sind nur technische Mittel der Sprachen, deren Gebrauch oder Mangel wenig über die innere Natur, und fast nichts über ihre Uebereinstimmung oder Nichtübereinstimmung im Ganzen beweist."
+        },
+        {
+          "id": "p8:s5",
+          "text": "Englisch und Dänisch sind gewiss dem Deutschen sehr nahe verwandt, und doch mangelt jenem die Geschlechtsbezeichnung und hat dieses ein durch Flexion gebildetes Passivum."
+        },
+        {
+          "id": "p8:s6",
+          "text": "Welchen Vortheil nun könnte es gewähren, diese Sprachen bei einer Sprachclassification von der unsrigen abzureissen und denen beizugesellen, mit welchen sie jene Eigenschaften theilen?"
+        },
+        {
+          "id": "p8:s7",
+          "text": "Diese technischen Mittel verändern sich auch, entstehen und gehen unter, es tritt eines an die Stelle des andren, und darum dass die bestimmte Form fehlt, mangelt nicht die Wirkung, welche sie sonst in der Sprache hervorbringt."
+        },
+        {
+          "id": "p8:s8",
+          "text": "Oft ist es nicht einmal leicht zu bestimmen, ob eine jener Formen in der Sprache vorhanden ist, oder nicht."
+        },
+        {
+          "id": "p8:s9",
+          "text": "Für jeden der hier berührten Punkte bieten sich die Beispiele in Menge dar."
+        },
+        {
+          "id": "p8:s10",
+          "text": "Ein flectirtes Passivum war dem Deutschen nicht immer fremd, der Dualis verlor sich im späteren allgemeinen Griechischen Dialect, das Coptische braucht ganz gewöhnlich das flectirte Verbum statt des Participium, aber die Vorstellungsweise ist darum doch die des Participium, in manchen Sprachen ist es schwer zu sagen, ob sie einen Artikel haben, oder nicht, wie schon der Uebergang des Indischen demonstrativen Pronomen zum Homerischen Artikel und dieses zu dem im späteren Griechischen gebräuchlichen zeigt."
+        }
+      ],
+      "body": "Es giebt bis jetzt kein bewährtes Verfahren, den Zweck, den ich mir hier vorsetze, zu erreichen, keinen irgend gelungenen Versuch, die Eigenthümlichkeit einer Sprache dergestalt zu schildern, dass daraus ihr Verhältniss zu andren, und ihre Stelle im Gebiete der Sprachen überhaupt auf eine ähnliche Weise hervorgienge, als eine Pflanzengattung durch die botanische Bestimmung ihrer Charaktere ihre feste Stellung in dem Systeme erhält. Man ist zwar wohl auf den Einfall gerathen, die Sprachen nach der Aehnlichkeit und Unähnlichkeit ihrer grammatischen Formen, je nachdem sie Artikel, Geschlechtsbezeichnung, Dualis, trennbare oder untrennbare Pronomina, flectirte oder mit Hülfswörtern verbundene Verba u. s. f. besitzen, zu classificiren. Zusammenstellungen solcher Art können mancherlei untergeordneten Nutzen gewähren, aber schon geringes Nachdenken zeigt, dass sie zu einer über die wesentliche Natur der Sprachen entscheidenden Classification niemals zu führen im Stande sind. Die Dinge, welche man hierbei zum Eintheilungsgrunde annimmt, sind nur technische Mittel der Sprachen, deren Gebrauch oder Mangel wenig über die innere Natur, und fast nichts über ihre Uebereinstimmung oder Nichtübereinstimmung im Ganzen beweist. Englisch und Dänisch sind gewiss dem Deutschen sehr nahe verwandt, und doch mangelt jenem die Geschlechtsbezeichnung und hat dieses ein durch Flexion gebildetes Passivum. Welchen Vortheil nun könnte es gewähren, diese Sprachen bei einer Sprachclassification von der unsrigen abzureissen und denen beizugesellen, mit welchen sie jene Eigenschaften theilen? Diese technischen Mittel verändern sich auch, entstehen und gehen unter, es tritt eines an die Stelle des andren, und darum dass die bestimmte Form fehlt, mangelt nicht die Wirkung, welche sie sonst in der Sprache hervorbringt. Oft ist es nicht einmal leicht zu bestimmen, ob eine jener Formen in der Sprache vorhanden ist, oder nicht. Für jeden der hier berührten Punkte bieten sich die Beispiele in Menge dar. Ein flectirtes Passivum war dem Deutschen nicht immer fremd, der Dualis verlor sich im späteren allgemeinen Griechischen Dialect, das Coptische braucht ganz gewöhnlich das flectirte Verbum statt des Participium, aber die Vorstellungsweise ist darum doch die des Participium, in manchen Sprachen ist es schwer zu sagen, ob sie einen Artikel haben, oder nicht, wie schon der Uebergang des Indischen demonstrativen Pronomen zum Homerischen Artikel und dieses zu dem im späteren Griechischen gebräuchlichen zeigt.",
+      "body_sha256": "b89efaae4b308f01f572af5c2d62519f5d9cf4d9e3b49c1390c3e9ed71211887",
+      "locator": "printed368–369 / PDF378–379 / scan leaves380–381",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      ],
+      "verification": "Coordinator compared the complete numbered passage with the 1906 page images; not specialist human validation."
+    },
+    {
+      "number": 9,
+      "version_id": "grundzuege-009-v1",
+      "sentences": [
+        {
+          "id": "p9:s1",
+          "text": "Ueberhaupt muss man sich wohl hüten, die Vergleichung des Sprachsystems mit Natursystemen weiter zu führen, als der Gegenstand es erlaubt."
+        },
+        {
+          "id": "p9:s2",
+          "text": "Eine Sprache kann nicht, wie ein Naturkörper, zerlegt werden, sie ist, auch nicht einmal in der durch sie gegebenen Masse von Wörtern und Regeln, ein daliegender Stoff, sondern eine Verrichtung, ein geistiger Process, wie das Leben ein körperlicher."
+        },
+        {
+          "id": "p9:s3",
+          "text": "Nichts, was sich auf sie bezieht, kann mit anatomischer, sondern nur mit physiologischer Behandlung verglichen werden, nichts in ihr ist statisch, alles dynamisch."
+        },
+        {
+          "id": "p9:s4",
+          "text": "Auch todte Sprachen machen hierin keine Ausnahme."
+        },
+        {
+          "id": "p9:s5",
+          "text": "Was man in ihnen erforscht, ist der Gedanke der Vorzeit, welchen sie festhalten, und der Gedanke ist immer Aushauch des Lebendigen, immer nur so in feste Form zu beschränken, dass ihm dadurch selbst seine natürliche Schrankenlosigkeit, seine Freiheit in andre und andere überzugehen, gesichert wird."
+        },
+        {
+          "id": "p9:s6",
+          "text": "Denn die Begränzung so zu machen, dass die in ihr liegende Bestimmung durch sich selbst die bei ihr mögliche Beschränkung aufhebt, indem jedes Wort und jede Form, vermöge ihrer Bildung, andre neben, über und unter ihnen stehende hervorrufen, ist das Wesen der Sprache, die Theile und Ganze unaufhörlich so in einander gliedert, dass jene zu diesen und diese zu jenen werden können."
+        }
+      ],
+      "body": "Ueberhaupt muss man sich wohl hüten, die Vergleichung des Sprachsystems mit Natursystemen weiter zu führen, als der Gegenstand es erlaubt. Eine Sprache kann nicht, wie ein Naturkörper, zerlegt werden, sie ist, auch nicht einmal in der durch sie gegebenen Masse von Wörtern und Regeln, ein daliegender Stoff, sondern eine Verrichtung, ein geistiger Process, wie das Leben ein körperlicher. Nichts, was sich auf sie bezieht, kann mit anatomischer, sondern nur mit physiologischer Behandlung verglichen werden, nichts in ihr ist statisch, alles dynamisch. Auch todte Sprachen machen hierin keine Ausnahme. Was man in ihnen erforscht, ist der Gedanke der Vorzeit, welchen sie festhalten, und der Gedanke ist immer Aushauch des Lebendigen, immer nur so in feste Form zu beschränken, dass ihm dadurch selbst seine natürliche Schrankenlosigkeit, seine Freiheit in andre und andere überzugehen, gesichert wird. Denn die Begränzung so zu machen, dass die in ihr liegende Bestimmung durch sich selbst die bei ihr mögliche Beschränkung aufhebt, indem jedes Wort und jede Form, vermöge ihrer Bildung, andre neben, über und unter ihnen stehende hervorrufen, ist das Wesen der Sprache, die Theile und Ganze unaufhörlich so in einander gliedert, dass jene zu diesen und diese zu jenen werden können.",
+      "body_sha256": "5aa1648569e284e226118e8906778f3f35e4a31b914c0f1ce54c793b71662636",
+      "locator": "printed369–370 / PDF379–380 / scan leaves381,384",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      ],
+      "verification": "Coordinator compared the complete numbered passage with the 1906 page images; not specialist human validation."
+    },
+    {
+      "number": 10,
+      "version_id": "grundzuege-010-v1",
+      "sentences": [
+        {
+          "id": "p10:s1",
+          "text": "Von der Seite ihres lebendigen Wirkens aus muss daher die Sprache betrachtet werden, wenn man ihre Natur wahrhaft erforschen, und zu einer Classification mehrerer gelangen will."
+        },
+        {
+          "id": "p10:s2",
+          "text": "Gerade aber weil sie ein geistiger Process ist, kann das eine und das andre nicht mit gleichem Erfolge, als bei körperlichen Stoffen geschehen."
+        },
+        {
+          "id": "p10:s3",
+          "text": "Man kann nicht umhin, sie auch, als einen festen und vollendeten Körper in ihre Bestandtheile zu zerlegen; allein dies Geschäft muss immer der höheren Rücksicht untergeordnet bleiben, durch welche ursprüngliche Geistes- und Tonart, vermöge welcher technischen Mittel jede Sprache zu welcher individuell modificirten Erreichung des allgemeinen Sprachzwecks gelangt?"
+        }
+      ],
+      "body": "Von der Seite ihres lebendigen Wirkens aus muss daher die Sprache betrachtet werden, wenn man ihre Natur wahrhaft erforschen, und zu einer Classification mehrerer gelangen will. Gerade aber weil sie ein geistiger Process ist, kann das eine und das andre nicht mit gleichem Erfolge, als bei körperlichen Stoffen geschehen. Man kann nicht umhin, sie auch, als einen festen und vollendeten Körper in ihre Bestandtheile zu zerlegen; allein dies Geschäft muss immer der höheren Rücksicht untergeordnet bleiben, durch welche ursprüngliche Geistes- und Tonart, vermöge welcher technischen Mittel jede Sprache zu welcher individuell modificirten Erreichung des allgemeinen Sprachzwecks gelangt?",
+      "body_sha256": "a8fad6acb636d14ae1a5aca96d0317cf2c53bd80599685fd27e69f8a897869d9",
+      "locator": "printed370 / PDF380 / scan leaves384",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3
+        ]
+      ],
+      "verification": "Coordinator compared the complete numbered passage with the 1906 page images; not specialist human validation."
+    },
+    {
+      "number": 11,
+      "version_id": "grundzuege-011-v1",
+      "sentences": [
+        {
+          "id": "p11:s1",
+          "text": "Es bieten sich also nach dem hier Gesagten, um vollständige Einsicht in den Bau einer Sprache zu erlangen, zwei Wege dar, welche nach einander eingeschlagen werden müssen."
+        },
+        {
+          "id": "p11:s2",
+          "text": "Auf dem einen untersucht man die Beschaffenheit der grammatischen und lexicalischen Mittel, deren sich die Sprache bedient, der Declination, Conjugation, Zusammensetzung, Ableitung u. s. f."
+        },
+        {
+          "id": "p11:s3",
+          "text": "Auf dem andren forscht man nach der Art der Anwendung und des Gebrauchs dieser Mittel, nach der Gesammtbehandlung, die sie erfahren, und ergründet in möglicher Vollständigkeit von allen Seiten aus das Verfahren der Sprache im Ganzen, von dessen Darstellung erst die wahre Durchschauung ihres Wesens abhängt."
+        },
+        {
+          "id": "p11:s4",
+          "text": "Von den Punkten, welche hierbei in Betrachtung kommen, lassen sich zwar leicht mehrere beispielsweise angeben."
+        },
+        {
+          "id": "p11:s5",
+          "text": "So fragt es sich: ob die Sprache jene Mittel in festen Formen von einander absondert, oder zusammenwirft und verwechselt?"
+        },
+        {
+          "id": "p11:s6",
+          "text": "ob sie dieselben auf eine einfache regelmässige, oder eine zufällig ungleiche und abweichende Weise bezeichnet?"
+        },
+        {
+          "id": "p11:s7",
+          "text": "ob sie den Wechseleinfluss nahe stehender Laute auf einander mit Feinheit beachtet und festen Regeln unterwirft?"
+        },
+        {
+          "id": "p11:s8",
+          "text": "in welcher Folge sie im Periodenbau die Theile des Gesammtbegriffs vor die Anschauung bringt?"
+        },
+        {
+          "id": "p11:s9",
+          "text": "ob sie bei ihren Wörtern von einfach, oder vielförmig gebildeten Grundlauten ausgeht?"
+        },
+        {
+          "id": "p11:s10",
+          "text": "ob sie in der Veränderung, Zusammensetzung, und Stellung der Worte dem Gebrauch Freiheit einräumt, oder ihn in feste Regeln einengt? u. s. f."
+        },
+        {
+          "id": "p11:s11",
+          "text": "Allein die vollständige und systematische Aufzählung dieser vielfachen Fragen muss doch, da gerade diese Art der Sprachanalyse bisher weniger verfolgt worden ist, auf eine tiefere Untersuchung gegründet werden."
+        }
+      ],
+      "body": "Es bieten sich also nach dem hier Gesagten, um vollständige Einsicht in den Bau einer Sprache zu erlangen, zwei Wege dar, welche nach einander eingeschlagen werden müssen. Auf dem einen untersucht man die Beschaffenheit der grammatischen und lexicalischen Mittel, deren sich die Sprache bedient, der Declination, Conjugation, Zusammensetzung, Ableitung u. s. f. Auf dem andren forscht man nach der Art der Anwendung und des Gebrauchs dieser Mittel, nach der Gesammtbehandlung, die sie erfahren, und ergründet in möglicher Vollständigkeit von allen Seiten aus das Verfahren der Sprache im Ganzen, von dessen Darstellung erst die wahre Durchschauung ihres Wesens abhängt. Von den Punkten, welche hierbei in Betrachtung kommen, lassen sich zwar leicht mehrere beispielsweise angeben. So fragt es sich: ob die Sprache jene Mittel in festen Formen von einander absondert, oder zusammenwirft und verwechselt? ob sie dieselben auf eine einfache regelmässige, oder eine zufällig ungleiche und abweichende Weise bezeichnet? ob sie den Wechseleinfluss nahe stehender Laute auf einander mit Feinheit beachtet und festen Regeln unterwirft? in welcher Folge sie im Periodenbau die Theile des Gesammtbegriffs vor die Anschauung bringt? ob sie bei ihren Wörtern von einfach, oder vielförmig gebildeten Grundlauten ausgeht? ob sie in der Veränderung, Zusammensetzung, und Stellung der Worte dem Gebrauch Freiheit einräumt, oder ihn in feste Regeln einengt? u. s. f. Allein die vollständige und systematische Aufzählung dieser vielfachen Fragen muss doch, da gerade diese Art der Sprachanalyse bisher weniger verfolgt worden ist, auf eine tiefere Untersuchung gegründet werden.",
+      "body_sha256": "ace51a88b13abb5541a193405cd50330b258b63e721c97e667df7d6e71aab9fc",
+      "locator": "printed370–371 / PDF380–381 / scan leaves384–385",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ],
+      "verification": "Coordinator compared the complete numbered passage with the 1906 page images; not specialist human validation."
+    },
+    {
+      "number": 12,
+      "version_id": "grundzuege-012-v1",
+      "sentences": [
+        {
+          "id": "p12:s1",
+          "text": "Um den hier angeregten Unterschied kurz zu bezeichnen, kann man das eine die Untersuchung des Verfahrens, das andre der Bestandtheile der Sprache nennen, wenn man nur nicht vergisst, dass dieser Gegensatz nicht zu strenge genommen werden muss."
+        },
+        {
+          "id": "p12:s2",
+          "text": "Jenes ist zugleich mehr eine Betrachtung derselben im Ganzen, dieses im Einzelnen."
+        }
+      ],
+      "body": "Um den hier angeregten Unterschied kurz zu bezeichnen, kann man das eine die Untersuchung des Verfahrens, das andre der Bestandtheile der Sprache nennen, wenn man nur nicht vergisst, dass dieser Gegensatz nicht zu strenge genommen werden muss. Jenes ist zugleich mehr eine Betrachtung derselben im Ganzen, dieses im Einzelnen.",
+      "body_sha256": "870529b09d956524a4706085b1a7b758ef57f9347f05caaacb3aaaf08c0923b7",
+      "locator": "printed371 / PDF381 / scan leaves385",
+      "typographic_groups": [
+        [
+          1,
+          2
+        ]
+      ],
+      "verification": "Coordinator compared the complete numbered passage with the 1906 page images; not specialist human validation."
+    },
+    {
+      "number": 13,
+      "version_id": "grundzuege-013-v1",
+      "sentences": [
+        {
+          "id": "p13:s1",
+          "text": "Ich hebe mit dem ersteren an, und glaube nicht darum eine unnatürliche Methode zu befolgen, dass ich hier, wie schon in den bisher vorgenommenen Eintheilungen (s. 7.) das Einzelne dem Allgemeinen nachfolgen lasse."
+        },
+        {
+          "id": "p13:s2",
+          "text": "Das Studium verlangt einen andern Weg, als die Darstellung des durch Studium Erkannten."
+        },
+        {
+          "id": "p13:s3",
+          "text": "Indem man sich jenem widmet, muss man die einzelnen Amerikanischen Sprachen erlernen, ehe man Betrachtungen über alle anstellt, und in jeder von dem Lautelement bis zur Bildung des Satzes schrittweise aufsteigen."
+        },
+        {
+          "id": "p13:s4",
+          "text": "Allein das Bild, das man, nach dieser Arbeit, von den einzelnen und von allen entwerfen kann, wird anschaulicher, und prägt sich der Seele besser ein, wenn man von der Andeutung seiner äussersten Umrisse anfängt, und es nach und nach näher, individualisirend, bestimmt."
+        },
+        {
+          "id": "p13:s5",
+          "text": "Das Charakteristische der Sprachen hängt allerdings an ihren einzelnen Bestandtheilen, aber in so kleinen Partikeln, mit so hellen Farben (wenn diese Ausdrücke erlaubt sind), dass man es an ihnen einzeln selten deutlich genug erkennt."
+        },
+        {
+          "id": "p13:s6",
+          "text": "Ist aber der Charakter im Ganzen einmal gezeichnet, so ergiebt sich aus ihm viel leichter, wie nun er eine solche, oder solche Beschaffenheit der Bestandtheile fordert, oder vielmehr aus derselben entsteht."
+        }
+      ],
+      "body": "Ich hebe mit dem ersteren an, und glaube nicht darum eine unnatürliche Methode zu befolgen, dass ich hier, wie schon in den bisher vorgenommenen Eintheilungen (s. 7.) das Einzelne dem Allgemeinen nachfolgen lasse. Das Studium verlangt einen andern Weg, als die Darstellung des durch Studium Erkannten. Indem man sich jenem widmet, muss man die einzelnen Amerikanischen Sprachen erlernen, ehe man Betrachtungen über alle anstellt, und in jeder von dem Lautelement bis zur Bildung des Satzes schrittweise aufsteigen. Allein das Bild, das man, nach dieser Arbeit, von den einzelnen und von allen entwerfen kann, wird anschaulicher, und prägt sich der Seele besser ein, wenn man von der Andeutung seiner äussersten Umrisse anfängt, und es nach und nach näher, individualisirend, bestimmt. Das Charakteristische der Sprachen hängt allerdings an ihren einzelnen Bestandtheilen, aber in so kleinen Partikeln, mit so hellen Farben (wenn diese Ausdrücke erlaubt sind), dass man es an ihnen einzeln selten deutlich genug erkennt. Ist aber der Charakter im Ganzen einmal gezeichnet, so ergiebt sich aus ihm viel leichter, wie nun er eine solche, oder solche Beschaffenheit der Bestandtheile fordert, oder vielmehr aus derselben entsteht.",
+      "body_sha256": "2ef2841841cbbe88315a15ae7dc3a71e339b92f5a4daaf078adf44ca8601b08c",
+      "locator": "printed371 / PDF381 / scan leaves385",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      ],
+      "verification": "Coordinator compared the complete numbered passage with the 1906 page images; not specialist human validation."
+    },
+    {
+      "number": 14,
+      "version_id": "grundzuege-014-v1",
+      "sentences": [
+        {
+          "id": "p14:s1",
+          "text": "Es liegt aber in der Natur der Sprache auch noch ein tieferer Grund, welcher die Wahl dieser Ordnung rechtfertigt."
+        },
+        {
+          "id": "p14:s2",
+          "text": "Jede Sprache besitzt, ungeachtet der Aehnlichkeit der hervorbringenden Ursachen, der technischen Mittel und des Zwecks aller, eine entschiedene Individualität, die aber vollständig nur in ihrem Zusammenwirken gefühlt wird."
+        },
+        {
+          "id": "p14:s3",
+          "text": "Die Zergliederung, welche nothwendig ist, dies Gefühl in Erkenntniss zu verwandeln, verdunkelt allemal in etwas die Anschauung der lebendigen Individualität, schon dadurch dass eben jene Verwandlung des Gefühls in Erkenntniss nie ganz vollständig vor sich gehen kann."
+        },
+        {
+          "id": "p14:s4",
+          "text": "Hebt man aber mit dem Totaleindruck an, so verbreitet sich wenigstens jenes Gefühl auf die ganze Folge der Untersuchung."
+        },
+        {
+          "id": "p14:s5",
+          "text": "Kehrt man es um, oder bleibt man gar bei der Zergliederung stehen, so erhält man eine lange Reihe nach Einem Plan, da die jeder Individualität besser entsprechenden verschiedenartigen nur aus ihrer Kenntniss hervorgehen könnten, gemachter Zergliederungen von Sprachen, ohne die wesentliche Eigenthümlichkeit einer einzigen derselben zu erkennen, oder zu fühlen."
+        },
+        {
+          "id": "p14:s6",
+          "text": "Man lernt sehr vieles über sie, aber nicht das Eine, worauf es ankommt."
+        },
+        {
+          "id": "p14:s7",
+          "text": "Je ausführlicher die Zergliederungen sind, desto mehr zerstreuen sie den Eindruck des Ganzen."
+        },
+        {
+          "id": "p14:s8",
+          "text": "Die blosse Vergleichung selbst dürftiger und nicht durchaus zweckmässig gewählter Sprachproben ist viel mehr geeignet, den Totaleindruck des Charakters einer Sprache aufzufassen."
+        },
+        {
+          "id": "p14:s9",
+          "text": "Ich läugne indess keinesweges, dass, wenn man diese Vergleichung fruchtbar machen, und den Charakter der Sprache in ihren Bestandtheilen nachweisen will, auf diesem Wege schwer und zum Theil gar nicht zu beseitigende Hindernisse aufstossen."
+        },
+        {
+          "id": "p14:s10",
+          "text": "Desto wichtiger aber ist es, wenigstens gleich die Richtung auf eine das Gelingen erleichternde Weise zu nehmen."
+        }
+      ],
+      "body": "Es liegt aber in der Natur der Sprache auch noch ein tieferer Grund, welcher die Wahl dieser Ordnung rechtfertigt. Jede Sprache besitzt, ungeachtet der Aehnlichkeit der hervorbringenden Ursachen, der technischen Mittel und des Zwecks aller, eine entschiedene Individualität, die aber vollständig nur in ihrem Zusammenwirken gefühlt wird. Die Zergliederung, welche nothwendig ist, dies Gefühl in Erkenntniss zu verwandeln, verdunkelt allemal in etwas die Anschauung der lebendigen Individualität, schon dadurch dass eben jene Verwandlung des Gefühls in Erkenntniss nie ganz vollständig vor sich gehen kann. Hebt man aber mit dem Totaleindruck an, so verbreitet sich wenigstens jenes Gefühl auf die ganze Folge der Untersuchung. Kehrt man es um, oder bleibt man gar bei der Zergliederung stehen, so erhält man eine lange Reihe nach Einem Plan, da die jeder Individualität besser entsprechenden verschiedenartigen nur aus ihrer Kenntniss hervorgehen könnten, gemachter Zergliederungen von Sprachen, ohne die wesentliche Eigenthümlichkeit einer einzigen derselben zu erkennen, oder zu fühlen. Man lernt sehr vieles über sie, aber nicht das Eine, worauf es ankommt. Je ausführlicher die Zergliederungen sind, desto mehr zerstreuen sie den Eindruck des Ganzen. Die blosse Vergleichung selbst dürftiger und nicht durchaus zweckmässig gewählter Sprachproben ist viel mehr geeignet, den Totaleindruck des Charakters einer Sprache aufzufassen. Ich läugne indess keinesweges, dass, wenn man diese Vergleichung fruchtbar machen, und den Charakter der Sprache in ihren Bestandtheilen nachweisen will, auf diesem Wege schwer und zum Theil gar nicht zu beseitigende Hindernisse aufstossen. Desto wichtiger aber ist es, wenigstens gleich die Richtung auf eine das Gelingen erleichternde Weise zu nehmen.",
+      "body_sha256": "39dfa07854ffe0d14b5d1caa93da15ce994331199cc66683789bdd6ac8b091d4",
+      "locator": "printed371–372 / PDF381–382 / scan leaves385–386",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      ],
+      "verification": "Coordinator compared the complete numbered passage with the 1906 page images; not specialist human validation."
+    },
+    {
+      "number": 15,
+      "version_id": "grundzuege-015-v1",
+      "sentences": [
+        {
+          "id": "p15:s1",
+          "text": "Nebenher wird die hier gewählte Anordnung auch noch den Vortheil gewähren, der im Vorigen (4.) befürchteten Zerreissung des über jede einzelne Amerikanische Sprache zu Sagenden vorzubeugen, und vielmehr gleich im Eingange ein Totalbild aller zu geben."
+        },
+        {
+          "id": "p15:s2",
+          "text": "Denn die Schilderung einer Sprache in ihrem Wirken lässt sich nur in einer gewissen Einheit entwerfen, und selbst die Punkte, die auch hierbei einzeln ergründet werden müssen, stehen immer in näherer Beziehung zu dem Ganzen."
+        },
+        {
+          "id": "p15:s3",
+          "text": "Die grammatischen Elemente, Artikel, Casuszeichen, Verbum u. s. f. bilden dagegen mit dem Charakter des Ganzen nicht immer gleich sichtbar verbundene Theile, und ihre Schilderung lässt sich in ebensoviel Monographieen durch alle Amerikanischen Sprachen hindurch abgesondert durchführen."
+        }
+      ],
+      "body": "Nebenher wird die hier gewählte Anordnung auch noch den Vortheil gewähren, der im Vorigen (4.) befürchteten Zerreissung des über jede einzelne Amerikanische Sprache zu Sagenden vorzubeugen, und vielmehr gleich im Eingange ein Totalbild aller zu geben. Denn die Schilderung einer Sprache in ihrem Wirken lässt sich nur in einer gewissen Einheit entwerfen, und selbst die Punkte, die auch hierbei einzeln ergründet werden müssen, stehen immer in näherer Beziehung zu dem Ganzen. Die grammatischen Elemente, Artikel, Casuszeichen, Verbum u. s. f. bilden dagegen mit dem Charakter des Ganzen nicht immer gleich sichtbar verbundene Theile, und ihre Schilderung lässt sich in ebensoviel Monographieen durch alle Amerikanischen Sprachen hindurch abgesondert durchführen.",
+      "body_sha256": "02eb8742f89564d5a0bbe7f0451d9d25ef4f9314c9e3ca1cf27955d8146fa7b3",
+      "locator": "printed372 / PDF382 / scan leaves386",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3
+        ]
+      ],
+      "verification": "Coordinator compared the complete numbered passage with the 1906 page images; not specialist human validation."
+    }
+  ],
+  "typography": "One printed paragraph per numbered passage. Canonical text joins source segments with one space, rejoining printed line-end word splits; spelling and punctuation retained. Passage11 has six dependent questions, assigned separate source segments p11:s5–s10, with the shared introductory frame in s5. They are not six independent syntactic sentences.",
+  "whole_work_context": {
+    "path": "sources/grundzuege-ocr.txt",
+    "sha256": "68c4101bd61c5288e201f22bf00cd209c442c945c7f655e255aa24e621db06b3",
+    "status": "Uncorrected German OCR, background only."
+  },
+  "candidate_packet_metadata_correction": "The original candidate packet used an incorrect constant scan-leaf offset after printed369. The page map has a gap before printed370. Candidate wording and checked German were unaffected; the exact input remains in candidate-packet.md. Current source and audit locators use the page map."
+}

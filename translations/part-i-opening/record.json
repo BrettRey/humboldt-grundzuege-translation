@@ -1,0 +1,136 @@
+{
+  "section": "Part I opening",
+  "printed_range": [
+    368,
+    372
+  ],
+  "numbered_passages": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "working_unit": "Complete opening material between the Part I heading and its next nested heading; one editorial checkpoint",
+  "source_segment_count": 51,
+  "segmentation": "One printed paragraph per numbered passage. Canonical text joins source segments with one space, rejoining printed line-end word splits; spelling and punctuation retained. Passage11 has six dependent questions, assigned separate source segments p11:s5–s10, with the shared introductory frame in s5. They are not six independent syntactic sentences.",
+  "source_status": "Provisional translation from GS V (Leitzmann 1906), Part I opening, numbered passages8–15, printed368–372 / PDF378–382 / scan leaves380–381,384–386. The next nested heading begins on printed373 / PDF383 and is excluded. No manuscript collation or specialist human fidelity validation. D001 reports cancellation of the preceding Introduction1–7; it does not establish cancellation of passages8–15.",
+  "whole_work_context": {
+    "path": "sources/grundzuege-ocr.txt",
+    "sha256": "68c4101bd61c5288e201f22bf00cd209c442c945c7f655e255aa24e621db06b3",
+    "status": "Uncorrected German OCR, background only."
+  },
+  "candidate_freeze": {
+    "path": "translations/part-i-opening/candidates.json",
+    "sha256": "3d996cfa79b519a085f2243fbe811945116a541779e3bed50f4a9e5c9752eb90",
+    "frozen_at": "2026-11-16T19:31:24.983077+00:00"
+  },
+  "candidate_packet": {
+    "path": "translations/part-i-opening/candidate-packet.md",
+    "sha256": "3c09bee5cd8a73a8a6f50afec29b8136c81ff19cf27750966d4fefc40a10e344"
+  },
+  "candidate_locator_correction": "The original candidate packet used an incorrect constant scan-leaf offset after printed369. The page map has a gap before printed370. Candidate wording and checked German were unaffected; the exact input remains in candidate-packet.md. Current source and audit locators use the page map.",
+  "coverage": {
+    "candidates": 3,
+    "audits": 2,
+    "audited_source_segments": 51,
+    "audit_findings": 29,
+    "dispositions": 29
+  },
+  "selected_term_rule_links": 22,
+  "consequential_span_links": 26,
+  "English_review": "pending",
+  "Introduction_review": "remains pending; no Introduction file edited",
+  "final_revision": "One coordinator revision after two fresh whole-target audits; no additional independent round.",
+  "created_at": "2026-11-16T19:44:41.911014+00:00",
+  "runs": [
+    {
+      "stage": "candidate",
+      "label": "claude",
+      "models": [
+        "claude-fable-5-2"
+      ],
+      "receipt": "tmp/part-i-opening/candidate-claude-receipt.json",
+      "receipt_sha256": "938476d32a1e9ab8bb93384b9a78ca02bf1559a88603c840fba1a3aeab34c998",
+      "prompt_sha256": "5f3f1734a32454036d98e7a75a9e96ddec2762aae38efc18eaa346c23c9df5fd",
+      "exit_code": 0,
+      "elapsed_seconds": 185.452
+    },
+    {
+      "stage": "candidate",
+      "label": "muse",
+      "models": [
+        "muse-wonder-full-1.0"
+      ],
+      "receipt": "tmp/part-i-opening/candidate-muse-receipt.json",
+      "receipt_sha256": "f30b3be6cfcd69ccff134c233245ab8c9233e9cde06ebdfabd3b56abb885a5a2",
+      "prompt_sha256": "5f3f1734a32454036d98e7a75a9e96ddec2762aae38efc18eaa346c23c9df5fd",
+      "exit_code": 0,
+      "elapsed_seconds": 100.707
+    },
+    {
+      "stage": "candidate",
+      "label": "codex",
+      "models": [
+        "gpt-6.1-sol"
+      ],
+      "receipt": "tmp/part-i-opening/candidate-codex-receipt.json",
+      "receipt_sha256": "9c4cf9f3c6a1a12c1684cbd3f438ccd90b9506301b2ad3ca327d668344c2b92e",
+      "prompt_sha256": "5f3f1734a32454036d98e7a75a9e96ddec2762aae38efc18eaa346c23c9df5fd",
+      "exit_code": 0,
+      "elapsed_seconds": 75.1
+    },
+    {
+      "stage": "audit",
+      "label": "claude",
+      "models": [
+        "claude-fable-5-2"
+      ],
+      "receipt": "tmp/part-i-opening/audit-claude-receipt.json",
+      "receipt_sha256": "3f6ea49be6335b28e70fcfaad81f1b2d9f6957d6aeb3e68ce83699c0cf96c3ef",
+      "prompt_sha256": "25af74891fbbb265024d655db5ad283d890af7cf0d35cc564450adccb0a690ca",
+      "exit_code": 0,
+      "elapsed_seconds": 248.844
+    },
+    {
+      "stage": "audit",
+      "label": "muse",
+      "models": [
+        "muse-wonder-full-1.0"
+      ],
+      "receipt": "tmp/part-i-opening/audit-muse-receipt.json",
+      "receipt_sha256": "48eb9385c957c0a6e6ea081e6d34bb40bed5fe555894abb9996861835e539d99",
+      "prompt_sha256": "25af74891fbbb265024d655db5ad283d890af7cf0d35cc564450adccb0a690ca",
+      "exit_code": 0,
+      "elapsed_seconds": 243.987
+    }
+  ],
+  "heading": {
+    "German": "Darstellung der Amerikanischen Sprachen an sich, und nach ihrer eigenthümlichen Beschaffenheit.",
+    "English": "I. Presentation of the American languages in themselves and in their distinctive character",
+    "status": "Coordinator translation of the image-checked heading; outside the51 main-text source-segment audits."
+  },
+  "source": {
+    "path": "translations/part-i-opening/source.json",
+    "sha256": "34edec55f73146acef725738c6d24669d3b437d2d1d73df24d1251e4661988b9"
+  },
+  "synthesis": {
+    "path": "translations/part-i-opening/synthesis.json",
+    "sha256": "9bbc97c7d40fc0d8ef7f596c75984738c4fc83853d7aec4e79cb138fff1681e6"
+  },
+  "final": {
+    "path": "translations/part-i-opening/revised.json",
+    "sha256": "f00d2455c6933db8ff655b0e7b6a13cd38d61111eb8469782f5ce4e5f1c63ba9"
+  },
+  "source_unit_map": {
+    "path": "translations/part-i-opening/source-unit-map.json",
+    "sha256": "b2f5b45d824003458180ceecfcb61ee6e74410e7eff9111924ea54c382112f51"
+  },
+  "prompts": {
+    "path": "translations/part-i-opening/prompts.json",
+    "sha256": "4a6728d1e20dcf510bb5dfaea3904eea7af833e7370d495959846a184872a1ac"
+  }
+}
