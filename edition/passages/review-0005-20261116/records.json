@@ -1,0 +1,25 @@
+{
+  "format": "humboldt.passage",
+  "id": "review-0005-20261116",
+  "schema_version": 1,
+  "tables": {
+    "evidence": [
+      {
+        "claim_status": "English_readability_only",
+        "excerpt": "again, looks very good",
+        "id": "E005.English-review:2026-11-16",
+        "locator": "Roughdraft completed review; comment at 2026-11-16T02:22:45.878Z",
+        "quote_status": "user_review_record",
+        "source_path": "translations/paragraph-005/approval-2026-11-16.json",
+        "source_sha256": "d86fa555c120aeff2c60e287cd58b2304b087c90982466e8a58a1dd121f674b5",
+        "statement": "English readability and editorial usefulness only; no German-fidelity certification"
+      }
+    ],
+    "unit_evidence": [
+      {
+        "evidence_id": "E005.English-review:2026-11-16",
+        "unit_id": "p5:revised:p"
+      }
+    ]
+  }
+}

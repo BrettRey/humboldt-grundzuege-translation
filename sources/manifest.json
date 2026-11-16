@@ -74,6 +74,23 @@
       "approval_record": "translations/paragraph-004/approval-2026-11-16.json",
       "approval_record_sha256": "f4201a3a6e0ba9f4864a0d2ca77d82e891b3221ad8f2484fe51eedbca706485d",
       "authority_record": "D018 in DECISIONS.md"
+    },
+    {
+      "id": "paragraph-005-English-review-completed",
+      "recorded_at": "2026-11-16T02:24:42.580020+00:00",
+      "document": "translations/paragraph-005/revised.md",
+      "completion_observed": true,
+      "completion_event_count": 1,
+      "user_comment": "again, looks very good",
+      "user_comment_at": "2026-11-16T02:22:45.878Z",
+      "returned_sha256": "0d6f6f88d68e33710e3605146319ffba9fc4911b0f63f201098c9ea9852b4e7d",
+      "body_integrity": "Complete English and notes unchanged after whitespace normalization.",
+      "approval_scope": "English readability and editorial usefulness only; no German-fidelity certification",
+      "approval_record": "translations/paragraph-005/approval-2026-11-16.json",
+      "approval_record_sha256": "d86fa555c120aeff2c60e287cd58b2304b087c90982466e8a58a1dd121f674b5",
+      "verification_record": "translations/paragraph-005/review-verification-2026-11-16.json",
+      "verification_record_sha256": "2c16cc4ac3f79c697432ec8c1f91fd705aad512b75b03bb902afe0cf46ef420b",
+      "authority_record": "D020 in DECISIONS.md"
     }
   ],
   "editorial_decisions": [

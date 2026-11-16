@@ -35,6 +35,10 @@
     {
       "path": "passages/passage-0005/records.json",
       "sha256": "3977043d331e833d09836a53fc78ebd719d7d5e443f9d8f22303e91cdf1ea039"
+    },
+    {
+      "path": "passages/review-0005-20261116/records.json",
+      "sha256": "8832872c4e2aebc9b108d6a4980dacce46719bea425afb6a87c624ba7c764901"
     }
   ],
   "format": "humboldt.edition",

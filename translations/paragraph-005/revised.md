@@ -2,7 +2,7 @@
 
 **Source status:** Follows GS V (Leitzmann 1906), §5, printed366–367 / PDF376–377 / scan leaves378–379. Drechsel (2024:155) reports cancellation of the first seven paragraphs. Manuscript marks, extent and editorial meaning remain independently unverified. Retained as the printed reading; authorial finality unresolved.
 
-**Review status:** English/editorial review pending. This is a model-assisted research translation, not independently certified German fidelity.
+**Review status:** Brett completed English-readability review (“again, looks very good”). This is a model-assisted research translation, not independently certified German fidelity.
 
 I therefore begin with the general presentation of the structure of the American languages, in such a way that I shall try to set out fully, in every respect in which languages are to be assessed, the distinctive characteristics of the American languages in general and the differences among the individual languages. In this way, the most important parts of the presentation of the structure of the individual languages are woven into the general presentation; only the less essential matters and what constitutes the true individuality of the individual language—the specific designation by sounds—are left out. On the other hand, this procedure admittedly breaks up the description of the individual languages and makes a complete overview of the structure of each one impossible. Yet one also gains the advantage of seeing every distinctive characteristic of each individual language within the general picture, at the very point where it can be compared with those of the other languages and appraised. Anyone accustomed to investigating the structure of many languages will, however, scarcely be able to rate this very advantage too highly. For it is one of the most disheartening experiences, though no less common for that, to have worked one’s way with effort and exertion into an understanding of a language’s structure and yet remain undecided about how that language is now to be placed within the field of language study as a whole, and how its worth is to be determined amid the variety of merits and shortcomings to be weighed against one another. The overview we have just found lacking in this procedure can nevertheless be recovered to some extent through an index that brings the material together.
 
@@ -17,3 +17,10 @@ I therefore begin with the general presentation of the structure of the American
 4. In sentence6 it is the language that is to be placed and evaluated, rather than its structure or the investigator’s understanding. The two connected questions remain joined by and. “Language study” renders Sprachkunde without specifying a modern theoretical subfield; the evaluative claim about a language’s worth is Humboldt’s.
 
 5. “An index that brings the material together” renders zusammenstellendes Register descriptively. Material supplies its implied object. The paragraph leaves the index’s arrangement unspecified; collating index or synoptic register remain alternatives. Recovery of the overview is only partial.
+
+---
+comments:
+  c1:
+    body: again, looks very good
+    by: user
+    at: 2026-11-16T02:22:45.878Z

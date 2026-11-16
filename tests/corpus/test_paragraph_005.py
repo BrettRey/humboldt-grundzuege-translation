@@ -47,18 +47,22 @@ class Paragraph005Record(unittest.TestCase):
         sys.path.insert(0,str(ROOT/'src'))
         from humboldt.ingest import load
         tables,_=load(ROOT,changes=True)
-        version=next(r for r in tables['text_version'] if r['id']=='en4-revised-v2')
-        previous=json.loads((ROOT/'translations/paragraph-004/revised.json').read_text())
-        approval=json.loads((ROOT/'translations/paragraph-004/approval-2026-11-16.json').read_text())
-        self.assertEqual(version['body'],' '.join(s['english'] for s in previous['sentences']))
-        self.assertEqual(version['body_sha256'],approval['body_sha256'])
-        self.assertIn('completed English-readability review',version['provenance'])
-        self.assertTrue(approval['review_completed'])
-        self.assertIn('no German-fidelity certification',approval['scope'])
-        self.assertIn('pending',previous['review_status'])
-        evidence=next(r for r in tables['evidence'] if r['id']=='E004.English-review:2026-11-16')
-        self.assertEqual(evidence['excerpt'],approval['comment'])
-        self.assertEqual(evidence['source_sha256'],hashlib.sha256((ROOT/evidence['source_path']).read_bytes()).hexdigest())
+        for section in (4,5):
+            with self.subTest(section=section):
+                version=next(r for r in tables['text_version'] if r['id']==f'en{section}-revised-v2')
+                passage=ROOT/f'translations/paragraph-{section:03}'
+                previous=json.loads((passage/'revised.json').read_text())
+                approval=json.loads((passage/'approval-2026-11-16.json').read_text())
+                self.assertEqual(version['body'],' '.join(s['english'] for s in previous['sentences']))
+                self.assertEqual(version['body_sha256'],approval['body_sha256'])
+                self.assertIn('completed English-readability review',version['provenance'])
+                self.assertTrue(approval['review_completed'])
+                self.assertIn('no German-fidelity certification',approval['scope'])
+                self.assertIn('pending',previous['review_status'])
+                evidence=next(r for r in tables['evidence'] if r['id']==f'E{section:03}.English-review:2026-11-16')
+                self.assertEqual(evidence['excerpt'],approval['comment'])
+                self.assertEqual(evidence['source_sha256'],hashlib.sha256((ROOT/evidence['source_path']).read_bytes()).hexdigest())
+
 
 
 if __name__=='__main__':unittest.main()
