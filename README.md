@@ -1,7 +1,9 @@
 # Humboldt: Grundzüge des allgemeinen Sprachtypus
-<!-- SUMMARY: §3 completed through comparison/audit/revision; licensed Git baseline committed; public creation awaiting host permission · status: §3 and §147 English review pending · updated: 2026-11-15 -->
+<!-- SUMMARY: Public licensed repository; §3 cycle complete; CI passes on Python 3.11/3.14 · status: §3 and §147 English review pending · updated: 2026-11-15 -->
 
 Software is available under [MIT](LICENSE); original translation and editorial content use [CC BY 4.0](LICENSE-CONTENT), with [public-domain and third-party exclusions](NOTICE.md). See [CONTRIBUTING.md](CONTRIBUTING.md) for the current contributor workflow. This is an AI-assisted provisional research translation; its source and validation limits remain explicit below.
+
+The [public repository](https://github.com/BrettRey/humboldt-grundzuege-translation) is live on `main`. [CI for the published edition commit](https://github.com/BrettRey/humboldt-grundzuege-translation/actions/runs/43784070019) passed on Python 3.11 and 3.14.
 
 [§3](translations/paragraph-003/revised.md) now completes a five-sentence source-check/comparison/audit/revision cycle through the shared importer. [Its comparison](translations/paragraph-003/comparison.md) records three candidates, two audits and fourteen dispositions. English/editorial review is pending; the reported cancellation of §§1–7 remains explicit. Existing English and earlier scholarly records are preserved.
 
