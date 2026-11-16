@@ -1,0 +1,58 @@
+{
+  "document": "docs/footnoting-policy-draft.md",
+  "recovered_at": "2026-11-16T20:50:20.463231+00:00",
+  "mechanism": "Native Firefox accessibility tree via cua_repl; browser connector host unavailable. All comments and suggested insertion were visible in Roughdraft. No browser data edited.",
+  "browser_state": "Saving; Sending disabled; Wrapped handoff displayed. Browser state differed from disk.",
+  "disk_state": "Saved Markdown unchanged from8040-byte baseline; no review markup on disk at recovery.",
+  "comments": [
+    {
+      "id": "browser-terminology",
+      "kind": "comment",
+      "observed_author": "Me",
+      "anchor": "Terminology",
+      "body": "I'd also point out any cases where he appears to be internally inconsistent with his terminology, either in using a give term for a different concept or in applying synonyms to a single concept. In the translation, as much as possible, I'd like to avoid synonyms that are used merely for stylistic variety.",
+      "browser_markup_id": "c1",
+      "browser_timestamp": "2026-11-16T20:33:53.318Z"
+    },
+    {
+      "id": "browser-spelling",
+      "kind": "comment",
+      "observed_author": "Me",
+      "anchor": null,
+      "body": "Use Oxford spelling throughout",
+      "browser_markup_id": null,
+      "browser_timestamp": null
+    },
+    {
+      "id": "browser-note-attribution",
+      "kind": "comment",
+      "observed_author": "Me",
+      "anchor": "Distinguishing note authorship visibly",
+      "body": "using Arabic vs Roman or serif vs non would be visible, but I'm not sure if readers could keep in mind which is which. Footnotes vs endnotes would be another possibility, but probably not good. Probably just (Ed) or something would work. How did Peter and I do it in the Jespersen text?",
+      "browser_markup_id": null,
+      "browser_timestamp": null
+    }
+  ],
+  "suggestions": [
+    {
+      "id": "browser-clear-errors",
+      "kind": "insertion",
+      "observed_author": "Me",
+      "anchor": "After Historical claims and evaluations bullet",
+      "text": "Should we footnote anything that we would identify as a clear error?",
+      "browser_markup_id": null,
+      "browser_timestamp": null
+    }
+  ],
+  "limits": "This is a faithful transcription of UI-visible feedback, not an exported browser document. Null metadata was not exposed in the observed tree; it is not invented. The full annotated browser Markdown has not been saved to disk.",
+  "related_sources": [
+    {
+      "url": "https://github.com/langsci/501/blob/main/localcommands.tex#L44-L45",
+      "finding": "The eds macro produces (Eds.)."
+    },
+    {
+      "url": "https://github.com/langsci/501/blob/main/chapters/01.tex#L133",
+      "finding": "An ordinary editorial footnote ends with the eds macro."
+    }
+  ]
+}

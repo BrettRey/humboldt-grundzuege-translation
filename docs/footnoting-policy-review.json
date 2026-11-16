@@ -1,26 +1,72 @@
 {
   "document": "docs/footnoting-policy.md",
-  "status": "adopted after completed review",
-  "reviewed_document": "docs/footnoting-policy-draft.md",
-  "reviewed_sha256": "77e27944295a5dd09d58d003ce1173e0b5f464bba141c07289bda6dc03cb0fa1",
-  "opened_bytes": 8040,
-  "saved_bytes": 8040,
-  "review_body_preserved": true,
-  "reviewed_copy_unchanged": true,
-  "feedback": {
-    "completion": "Explicit user message",
-    "message": "done",
-    "inline_comments": 0,
-    "insertions": 0,
-    "deletions": 0,
-    "substitutions": 0,
-    "highlights": 0,
-    "overall_comments": 0
+  "status": "revised after recovered browser feedback; review of new wording pending",
+  "original_draft": "docs/footnoting-policy-draft.md",
+  "original_draft_sha256": "77e27944295a5dd09d58d003ce1173e0b5f464bba141c07289bda6dc03cb0fa1",
+  "disk_baseline_intact": true,
+  "original_draft_bytes": 8040,
+  "correction": {
+    "recorded_at": "2026-11-16T20:54:21.737394+00:00",
+    "reported_by": "Brett Reynolds",
+    "message": "I added comments. Check the browser version",
+    "finding": "Three comments and one suggested insertion were visible in Roughdraft but absent from the saved file. The earlier no-feedback/adoption conclusion was premature.",
+    "feedback_source": "docs/footnoting-policy-browser-feedback.json",
+    "full_browser_document_exported": false,
+    "previous_published_commit": "586c68f96d71d1fa1ff58cb7753a02e4c60c0689"
   },
-  "recorded_at": "2026-11-16T20:44:38.089542+00:00",
-  "recorded_by": "Codex",
-  "adoption_basis": "Brett requested development of the policy and completed review without edits; coordinator records the reviewed policy as adopted.",
-  "finalization": "Only title, adoption status, operative tense and review-record links changed after review; policy substance unchanged.",
-  "adopted_sha256": "3c3193aa74b2b8d0c4ccb3f2da092a567baf2a293c214e7106a11ebe71906ff2",
-  "scope": "Routine annotation within subsequent approved translation work. No retrofitting, new translation, software change or completion of other document reviews is inferred."
+  "dispositions": [
+    {
+      "feedback_id": "browser-terminology",
+      "status": "incorporated",
+      "resolution": "Flag apparent terminological inconsistency after contextual checks; avoid English synonyms used merely for stylistic variety; preserve recoverable source variation."
+    },
+    {
+      "feedback_id": "browser-spelling",
+      "status": "incorporated",
+      "resolution": "Oxford spelling throughout original English prose, preserving source quotation/title spelling."
+    },
+    {
+      "feedback_id": "browser-clear-errors",
+      "status": "proposed answer incorporated; wording awaiting review",
+      "resolution": "Footnote demonstrable substantive factual, linguistic or logical errors even where peripheral; distinguish suspected errors and minor misprints."
+    },
+    {
+      "feedback_id": "browser-note-attribution",
+      "status": "Jespersen practice verified; adapted labels awaiting review",
+      "resolution": "Jespersen uses ordinary editorial footnotes ending (Eds.). Propose one Arabic sequence with (Humboldt), (1906 Ed.) and (Trans.) labels for this edition."
+    }
+  ],
+  "current_document_sha256": "b9c6b720507fd5e14dcb065edad6f7429e7bbe10028ea2887c58fb675875e0f0",
+  "prior_assessment_superseded": {
+    "document": "docs/footnoting-policy.md",
+    "status": "adopted after completed review",
+    "reviewed_document": "docs/footnoting-policy-draft.md",
+    "reviewed_sha256": "77e27944295a5dd09d58d003ce1173e0b5f464bba141c07289bda6dc03cb0fa1",
+    "opened_bytes": 8040,
+    "saved_bytes": 8040,
+    "review_body_preserved": true,
+    "reviewed_copy_unchanged": true,
+    "feedback": {
+      "completion": "Explicit user message",
+      "message": "done",
+      "inline_comments": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "substitutions": 0,
+      "highlights": 0,
+      "overall_comments": 0
+    },
+    "recorded_at": "2026-11-16T20:44:38.089542+00:00",
+    "recorded_by": "Codex",
+    "adoption_basis": "Brett requested development of the policy and completed review without edits; coordinator records the reviewed policy as adopted.",
+    "finalization": "Only title, adoption status, operative tense and review-record links changed after review; policy substance unchanged.",
+    "adopted_sha256": "3c3193aa74b2b8d0c4ccb3f2da092a567baf2a293c214e7106a11ebe71906ff2",
+    "scope": "Routine annotation within subsequent approved translation work. No retrofitting, new translation, software change or completion of other document reviews is inferred."
+  },
+  "scope": "Correction of the policy review and incorporation of browser feedback. Translation files, edition data and other review states remain unchanged.",
+  "format_follow_up": {
+    "user_question": "what do you think of the footnotes format? Should we also use Arabic & Roman along side (Ed)?",
+    "coordinator_recommendation": "One Arabic sequence with explicit authorship labels. If two sequences are chosen, use Arabic for Humboldt and lowercase Roman for added notes; retain labels to distinguish1906 editor from translator.",
+    "status": "under discussion; no format approval inferred"
+  }
 }
