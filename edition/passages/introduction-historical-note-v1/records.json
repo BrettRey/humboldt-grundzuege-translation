@@ -1,0 +1,54 @@
+{
+  "format": "humboldt.passage",
+  "id": "introduction-historical-note-v1",
+  "schema_version": 1,
+  "tables": {
+    "decision": [
+      {
+        "authority": "Brett’s explicit insert-it instruction, recorded by Codex",
+        "id": "D023.historical-publication",
+        "question": "Explain the outcome of the projected American grammars and dictionaries?",
+        "resolution": "Insert the exact approved short historical note after p6:s2, with sources and shared dictionary authorship; leave every translated sentence unchanged.",
+        "status": "provisional"
+      }
+    ],
+    "decision_evidence": [
+      {
+        "decision_id": "D023.historical-publication",
+        "evidence_id": "EIntro.historical-publication"
+      }
+    ],
+    "evidence": [
+      {
+        "claim_status": "historical_synthesis_from_cited_sources",
+        "excerpt": "Humboldt’s larger American project remained unfinished, although he left substantial grammatical studies, including a Nahuatl grammar (modern manuscript-based edition, 1994). The Nahuatl dictionary, published in 2000, was conceived by Humboldt but compiled and revised chiefly by Eduard Buschmann, who continued the work after Humboldt’s death.",
+        "id": "EIntro.historical-publication",
+        "locator": "Translator’s historical footnote after Introduction p6:s2",
+        "quote_status": "editorial_note_not_Humboldt_quotation",
+        "source_path": "translations/introduction/historical-footnote.json",
+        "source_sha256": "e9213f898bf542cf052886fce81a06ab25ddabcc9f03c09d40c1eabccaf020f2",
+        "statement": "Source-backed historical translator commentary; insertion expressly authorised by Brett. Distinct from Humboldt’s main text and from the earlier model audits; whole-section English review is still pending."
+      }
+    ],
+    "unit_decision": [
+      {
+        "decision_id": "D023.historical-publication",
+        "unit_id": "p6:de:s2"
+      },
+      {
+        "decision_id": "D023.historical-publication",
+        "unit_id": "p6:revised:s2"
+      }
+    ],
+    "unit_evidence": [
+      {
+        "evidence_id": "EIntro.historical-publication",
+        "unit_id": "p6:de:s2"
+      },
+      {
+        "evidence_id": "EIntro.historical-publication",
+        "unit_id": "p6:revised:s2"
+      }
+    ]
+  }
+}

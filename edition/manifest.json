@@ -47,6 +47,10 @@
     {
       "path": "passages/introduction-clarification-apparatus/records.json",
       "sha256": "edc83131ce6bfbe7c2e1a781d03afe06b1e85e173eeef6bdb45eae603d0c960f"
+    },
+    {
+      "path": "passages/introduction-historical-note-v1/records.json",
+      "sha256": "e4f4871f17b5b5df79c75218ed553a7f3f61fc45d67d11781425033eda86bf9c"
     }
   ],
   "format": "humboldt.edition",

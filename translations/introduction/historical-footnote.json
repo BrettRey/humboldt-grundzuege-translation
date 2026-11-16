@@ -1,0 +1,39 @@
+{
+  "status": "Inserted at Brett’s explicit request; complete-Introduction English review remains pending",
+  "anchor": {
+    "source_id": "p6:s2",
+    "position": "After the sentence about being unable personally to make the separate treatments available",
+    "source_unit": "p6:de:s2",
+    "English_unit": "p6:revised:s2"
+  },
+  "text": "Humboldt’s larger American project remained unfinished, although he left substantial grammatical studies, including a Nahuatl grammar (modern manuscript-based edition, 1994). The Nahuatl dictionary, published in 2000, was conceived by Humboldt but compiled and revised chiefly by Eduard Buschmann, who continued the work after Humboldt’s death.",
+  "sources": [
+    {
+      "reference": "Drechsel 2024, chapters 7–8",
+      "project_files": [
+        "sources/raw/references/drechsel-2024/drechsel-2024-12-2.pdf",
+        "sources/raw/references/drechsel-2024/drechsel-2024-12-3.pdf"
+      ],
+      "supports": "Unfinished American project and substantial descriptive manuscripts"
+    },
+    {
+      "reference": "Jürgen Trabant 2002, L’édition des oeuvres linguistiques de Humboldt : le sort d’un legs intempestif, sections 4.1–4.2",
+      "url": "https://shesl.org/trabant-legs-intempestif/",
+      "supports": "Nahuatl grammar; dictionary conception, compilation and posthumous continuation"
+    },
+    {
+      "reference": "BBAW, obituary of Manfred Ringmacher",
+      "url": "https://www.bbaw.de/files-bbaw/user_upload/nachrufe/Nachruf_Manfred_Ringmacher_final.pdf",
+      "supports": "Manuscript-based grammar edition in 1994 and dictionary edition in 2000"
+    }
+  ],
+  "editorial_scope": "Historical translator commentary, distinct from Humboldt’s wording. Modern edition dates do not imply that he published these works during his lifetime.",
+  "id": "american-publication",
+  "inserted_at": "2026-11-16T13:50:04.832320+00:00",
+  "authorized_by": "Brett Reynolds",
+  "authorization": "insert it",
+  "footnote_label": "american-publication",
+  "document": "translations/introduction/revised.md",
+  "document_sha256_after_insertion": "3fb3c47102de97480bd2bed7ca2e38dc4346f36e38161a984c61604436bd4f46",
+  "rendered_references": "See [Drechsel 2024, chapters 7–8](https://doi.org/10.1017/9781108966801) and [Trabant 2002, §4.2](https://shesl.org/trabant-legs-intempestif/)."
+}

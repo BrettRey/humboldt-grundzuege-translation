@@ -3843,5 +3843,15 @@
       "review_status": "Complete Introduction English review pending; no specialist German-fidelity certification",
       "preservation": "All prior rows in33 scholarly tables and118 protected files retained; old English bodies preserved behind two attributed new versions."
     }
+  ],
+  "editorial_notes": [
+    {
+      "id": "american-publication",
+      "authority": "D023",
+      "anchor": "p6:s2",
+      "record": "translations/introduction/historical-footnote.json",
+      "record_sha256": "e9213f898bf542cf052886fce81a06ab25ddabcc9f03c09d40c1eabccaf020f2",
+      "scope": "Historical translator commentary; not a change to Humboldt’s main text or completion of the English review"
+    }
   ]
 }
