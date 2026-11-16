@@ -4,6 +4,7 @@ import argparse
 import json
 from pathlib import Path
 import re
+import sys
 
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / 'translations/annotated/reading.md'
@@ -31,10 +32,23 @@ def passages():
 
 def render():
     record = read('translations/annotated/notes.json')
+    # The base note text is immutable evidence. Accepted metadata corrections
+    # must survive regeneration just as accepted main-text versions do.
+    sys.path.insert(0, str(ROOT / 'src'))
+    from humboldt.ingest import load
+    tables, _ = load(ROOT)
+    evidence = {r['id']: r for r in tables['evidence']}
+    for collection, prefix in [(record['notes'], 'note'), (record['term_guide'], 'guide')]:
+        for item in collection:
+            item['text'] = evidence['EFootnotes.' + prefix + ':' + item['id']]['excerpt']
+    review_path = ROOT / 'translations/annotated/review.json'
+    reviewed = review_path.exists() and read('translations/annotated/review.json')['completed']
+    status = 'review completed; terminology clarification applied; provisional' if reviewed else 'provisional; English and annotation review pending'
+    review_status = 'The reading review is complete, with a terminology clarification applied in response.' if reviewed else 'These provisional notes and the English await review.'
     notes = record['notes']
     lines = [
         '# Outlines of the General Type of Language' + ''.join('[^' + n['id'] + ']' for n in notes if n.get('display_at') == 'work_title'),
-        '<!-- SUMMARY: Existing translation with selected, attributed footnotes · status: provisional; English and annotation review pending · updated: 2026-11-16 -->',
+        '<!-- SUMMARY: Existing translation with selected, attributed footnotes · status: ' + status + ' · updated: 2026-11-16 -->',
         '',
         'Wilhelm von Humboldt',
         '',
@@ -44,9 +58,9 @@ def render():
         '',
         'The provisional source is Albert Leitzmann’s 1906 edition, *Gesammelte Schriften*, volume V, pp. 364–372 and 469–470. Drechsel (2024:155) reports cancellation of the first seven paragraphs; the manuscript marks, their extent and their editorial meaning have not been independently verified. This qualification concerns 1–7 and is not extended to 8–15 or 147. See [the textual-basis record](../../docs/preparation/textual-basis-options.md).',
         '',
-        'The English wording is preserved from the existing translations. Footnotes ending **(Humboldt)** translate his own notes; **(1906 Ed.)** identifies the print editor’s apparatus; **(Trans.)** identifies our commentary. One Arabic sequence covers all three. The [short terminology guide](#terminology-guide) explains recurring distinctions. These provisional notes and the English await review; English readability review does not establish fidelity to the German.',
+        'The English wording is preserved from the existing translations. Footnotes ending **(Humboldt)** translate his own notes; **(1906 Ed.)** identifies the print editor’s apparatus; **(Trans.)** identifies our commentary. One Arabic sequence covers all three. The [short terminology guide](#terminology-guide) explains recurring distinctions. ' + review_status + ' English readability review does not establish fidelity to the German.',
         '',
-        'The [note records](../../translations/annotated/notes.json) retain stable IDs, exact source/English anchors and evidence limits. The [annotation report](../../translations/annotated/report.md) links all earlier reading copies, alternatives and audits. The historical source includes evaluative scales and labels for peoples and languages; those claims remain Humboldt’s, with focused qualifications in the notes.',
+        'The [base note records](../../translations/annotated/notes.json) retain stable IDs, exact source/English anchors and evidence limits. The [annotation report](../../translations/annotated/report.md) links the review response, earlier reading copies, alternatives and audits. The historical source includes evaluative scales and labels for peoples and languages; those claims remain Humboldt’s, with focused qualifications in the notes.',
         '',
     ]
     used = {n['id'] for n in notes if n.get('display_at') == 'work_title'}
@@ -95,4 +109,4 @@ if __name__ == '__main__':
     elif not OUTPUT.exists() or OUTPUT.read_text() != text:
         raise SystemExit('Reading differs from its records; inspect differences before using --write.')
     else:
-        print('Reading matches its note records and frozen English inputs.')
+        print('Reading matches projected annotations and frozen English inputs.')

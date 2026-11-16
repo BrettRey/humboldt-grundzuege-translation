@@ -1,5 +1,7 @@
 # Annotation application report
-<!-- SUMMARY: Approved policy applied to the existing translations · status: coordinator checks complete; reader review pending · updated: 2026-11-16 -->
+<!-- SUMMARY: Approved policy applied to the existing translations · status: reader review completed; terminology clarification applied · updated: 2026-11-16 -->
+
+**Review response:** Brett completed the reading review and asked whether substantive needed clarification at147:s17. The existing note and terminology entry now define it through the use/employ example. The [review record](review.json) and [response](reviews/2026-11-16/response.md) preserve the exact comment, original files and attributed corrections. The 27-note sequence and all English main text remain unchanged. Completion does not certify German fidelity or imply separate approval of the new wording.
 
 ## Result and scope
 
@@ -35,6 +37,6 @@ python3 tools/render_annotated_reading.py
 ./humboldt test --legacy
 ```
 
-The renderer checks that the reading matches its frozen English inputs and note records. `--write` explicitly regenerates it and refuses to overwrite CriticMarkup; preserve and resolve review feedback first. An optional local preview uses existing Pandoc: `pandoc translations/annotated/reading.md --standalone -o build/annotated/reading.html`.
+The renderer checks that the reading matches its frozen English inputs and current annotation text after journal replay; the immutable base note records remain available. `--write` explicitly regenerates it and refuses to overwrite CriticMarkup; preserve and resolve review feedback first. An optional local preview uses existing Pandoc: `pandoc translations/annotated/reading.md --standalone -o build/annotated/reading.html`.
 
-[Verification](verification.json) records 134 passing checks, unchanged earlier rows in all 33 scholarly tables, all 118 protected file hashes, all 116 previously tracked translation-file hashes, and unchanged journal/impact rows. The HTML check finds exactly one Arabic 1–27 sequence with complete targets. Software tests establish preservation and traceability. Brett’s forthcoming review concerns English clarity, necessity and usefulness of the notes; it cannot certify German fidelity. The [pass record](record.json) preserves the exact inputs and limits.
+[Verification](verification.json) records 134 passing checks, unchanged earlier rows in all 33 scholarly tables, all 118 protected file hashes, all 116 previously tracked translation-file hashes, and unchanged journal/impact rows. The HTML check finds exactly one Arabic 1–27 sequence with complete targets. Software tests establish preservation and traceability. Brett’s completed review concerns English clarity and usefulness; it cannot certify German fidelity. The original verification below predates the clarification; review-response checks are recorded separately in the review record. The [pass record](record.json) preserves the exact inputs and limits.

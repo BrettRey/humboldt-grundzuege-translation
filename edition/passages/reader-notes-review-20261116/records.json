@@ -1,0 +1,98 @@
+{
+  "format": "humboldt.passage",
+  "id": "reader-notes-review-20261116",
+  "schema_version": 1,
+  "tables": {
+    "decision": [
+      {
+        "authority": "Codex coordinator responding to Brett’s exact commentc1 and explicit review completion",
+        "id": "D032.reader-feedback",
+        "question": "Does substantive require clarification at147:s17?",
+        "resolution": "Yes. Expand the existing note and guide with the concrete use/employ example, preserving all main English and27 note IDs; current text is recorded through the attributed metadata journal. See translations/annotated/review.json.",
+        "status": "provisional"
+      }
+    ],
+    "decision_evidence": [
+      {
+        "decision_id": "D032.reader-feedback",
+        "evidence_id": "EReaderReview.20261116.substantive"
+      },
+      {
+        "decision_id": "D032.reader-feedback",
+        "evidence_id": "E147.s07"
+      },
+      {
+        "decision_id": "D032.reader-feedback",
+        "evidence_id": "E147.s14"
+      },
+      {
+        "decision_id": "D032.reader-feedback",
+        "evidence_id": "E147.s17"
+      }
+    ],
+    "evidence": [
+      {
+        "claim_status": "reader_feedback",
+        "excerpt": "does this require a definition/clarification?",
+        "id": "EReaderReview.20261116.substantive",
+        "locator": "Commentc1 on substantive in p147:s17",
+        "quote_status": "verbatim_reader_comment_not_Humboldt",
+        "source_path": "translations/annotated/reviews/2026-11-16/returned.md",
+        "source_sha256": "ba309b7e12ce74017f4631f1597668ced3efed06610cd6a77c09bcc7ec08ccaa",
+        "statement": "Brett’s saved question, received with explicit done and one Roughdraft completion event. The response is a coordinator clarification, not separate approval or German certification."
+      }
+    ],
+    "unit_decision": [
+      {
+        "decision_id": "D032.reader-feedback",
+        "unit_id": "difficult-147-de-v1:s07"
+      },
+      {
+        "decision_id": "D032.reader-feedback",
+        "unit_id": "difficult-147-de-v1:s14"
+      },
+      {
+        "decision_id": "D032.reader-feedback",
+        "unit_id": "difficult-147-de-v1:s17"
+      },
+      {
+        "decision_id": "D032.reader-feedback",
+        "unit_id": "en147-revised-v2:s07"
+      },
+      {
+        "decision_id": "D032.reader-feedback",
+        "unit_id": "en147-revised-v2:s14"
+      },
+      {
+        "decision_id": "D032.reader-feedback",
+        "unit_id": "en147-revised-v2:s17"
+      }
+    ],
+    "unit_evidence": [
+      {
+        "evidence_id": "EReaderReview.20261116.substantive",
+        "unit_id": "difficult-147-de-v1:s07"
+      },
+      {
+        "evidence_id": "EReaderReview.20261116.substantive",
+        "unit_id": "difficult-147-de-v1:s14"
+      },
+      {
+        "evidence_id": "EReaderReview.20261116.substantive",
+        "unit_id": "difficult-147-de-v1:s17"
+      },
+      {
+        "evidence_id": "EReaderReview.20261116.substantive",
+        "unit_id": "en147-revised-v2:s07"
+      },
+      {
+        "evidence_id": "EReaderReview.20261116.substantive",
+        "unit_id": "en147-revised-v2:s14"
+      },
+      {
+        "evidence_id": "EReaderReview.20261116.substantive",
+        "unit_id": "en147-revised-v2:s17"
+      }
+    ]
+  }
+}

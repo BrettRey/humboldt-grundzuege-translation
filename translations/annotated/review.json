@@ -1,0 +1,197 @@
+{
+  "format": "humboldt.reader-review",
+  "version": 1,
+  "reviewer": "Brett Reynolds",
+  "completed": true,
+  "completion": {
+    "user_message": "done",
+    "roughdraft_event_count": 1,
+    "watch_exit_code": 0,
+    "recorded_at": "2026-11-16T22:31:53.262350Z"
+  },
+  "scope": "Annotated reading of1–15 and separate147; completion with one terminology question, not unqualified approval or German specialist validation.",
+  "opened": {
+    "path": "translations/annotated/reviews/2026-11-16/opened.md",
+    "sha256": "404868c28f8051a59ff5c3a974885055c56b407e5b48f6a69857dfbb0fcc0256",
+    "bytes": 36321
+  },
+  "returned": {
+    "path": "translations/annotated/reviews/2026-11-16/returned.md",
+    "sha256": "ba309b7e12ce74017f4631f1597668ced3efed06610cd6a77c09bcc7ec08ccaa",
+    "bytes": 36415
+  },
+  "integrity": "After removing the single anchored comment, text matches the opened file exactly when blank lines and emphasis delimiters are normalized. Roughdraft changed spacing and asterisks to underscores; Markdown AST identity is not claimed. Complete body, footnotes and guide are retained.",
+  "comments": [
+    {
+      "id": "c1",
+      "by": "user",
+      "at": "2026-11-16T22:24:59.421Z",
+      "anchor": "substantive",
+      "source_id": "p147:s17",
+      "text": "does this require a definition/clarification?",
+      "original_attributes": "{id=\"c1\" by=\"user\" at=\"2026-11-16T22:24:59.421Z\"}",
+      "disposition": "Expand the existing definition with a concrete example; retain note ID and first-use anchor. No new note or main-text change.",
+      "reply": {
+        "id": "c2",
+        "by": "Codex",
+        "at": "2026-11-16T22:31:53.262350Z",
+        "re": "c1",
+        "body": "Yes. Here substantive means the content meaning of a word, rather than the grammatical relation it marks. I have made the existing footnote and terminology entry more concrete, using the example to use, to employ. The later loss claim remains general; it does not assert that this particular verb sense had already disappeared."
+      }
+    }
+  ],
+  "replacements": [
+    {
+      "kind": "note",
+      "id": "substantive-content",
+      "evidence_id": "EFootnotes.note:substantive-content",
+      "decision_id": "D031.note:substantive-content",
+      "text": "“Substantive” means the content meaning of a word, as distinct from the grammatical relation it marks. For example, “to use, to employ” is the content meaning of the Chinese word also used as a preposition. An “original substantive meaning” is an earlier content meaning that may later be lost; “substantive” does not mean “noun.”"
+    },
+    {
+      "kind": "guide",
+      "id": "guide-8",
+      "evidence_id": "EFootnotes.guide:guide-8",
+      "decision_id": "D031.guide:guide-8",
+      "text": "The contrast in 147 is between what a word means in its own right and a grammatical relation it expresses. The meaning “to use, to employ” is an example of content meaning; in a later stage of a word’s history, such an earlier meaning may be lost while a relational use remains. “Substantive” does not mean “noun,” and “relational word” is not imposed as a universal modern word-class label."
+    }
+  ],
+  "new_wording_separately_approved": false,
+  "main_text_unchanged": true,
+  "journal_corrections": [
+    {
+      "kind": "evidence",
+      "target_id": "EFootnotes.note:substantive-content",
+      "field": "excerpt",
+      "proposal_id": "35bdf162-e318-49a4-a15b-f7f309f487d7",
+      "decision_id": "53cbee98-47b5-4abc-b774-0d707d9a9048"
+    },
+    {
+      "kind": "decision",
+      "target_id": "D031.note:substantive-content",
+      "field": "resolution",
+      "proposal_id": "d6f6a7a4-c762-42b7-b4d4-6974b9ce519b",
+      "decision_id": "93788c32-dccb-4a34-9774-b2669ef86b06"
+    },
+    {
+      "kind": "evidence",
+      "target_id": "EFootnotes.guide:guide-8",
+      "field": "excerpt",
+      "proposal_id": "d35a001c-f97a-41be-b53f-76050bd20868",
+      "decision_id": "399a2878-58fe-47d1-a5da-bd320970d7cd"
+    },
+    {
+      "kind": "decision",
+      "target_id": "D031.guide:guide-8",
+      "field": "resolution",
+      "proposal_id": "39ed9a39-b1d7-4586-966f-b2304c31e6d8",
+      "decision_id": "ee8f6bf6-be98-4e1a-9773-d26e58e02c84"
+    }
+  ],
+  "verification": {
+    "corpus_tests": 14,
+    "corpus_tests_passed": true,
+    "full_store_integrity": "ok",
+    "foreign_key_errors": [],
+    "source_attachments_checked": true,
+    "counts": {
+      "alignment": 655,
+      "alignment_member": 1323,
+      "analysis": 109,
+      "build_metadata": 9,
+      "change_impact": 1705,
+      "composite_attestation": 1,
+      "composite_member": 2,
+      "decision": 1760,
+      "decision_evidence": 2178,
+      "evidence": 1930,
+      "evidence_detail": 155,
+      "lexeme": 1048,
+      "lexeme_control": 149,
+      "lexeme_form": 1712,
+      "preparation_input": 9,
+      "register_carry_forward": 119,
+      "revision_history": 9,
+      "schema_migration": 2,
+      "sense_attestation": 1566,
+      "sense_rendering": 2167,
+      "term_entry": 34,
+      "term_entry_evidence": 202,
+      "term_entry_family": 46,
+      "term_expression_part": 1565,
+      "term_family": 18,
+      "term_occurrence": 4740,
+      "term_relation": 122,
+      "term_sense": 1518,
+      "term_use": 1531,
+      "terminology_candidate": 3515,
+      "terminology_control": 87,
+      "terminology_page_review": 110,
+      "text_version": 101,
+      "unit": 105051,
+      "unit_decision": 2399,
+      "unit_evidence": 3686,
+      "word_index": 39132
+    },
+    "note_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "all_118_protected_file_hashes_match": true,
+    "main_English_bodies_unchanged": true,
+    "original_note_dataset_unchanged": true,
+    "metadata_corrections": 4,
+    "new_journal_events": 8
+  },
+  "final_reading": {
+    "path": "translations/annotated/reading.md",
+    "sha256": "f34429156b6ab2e0a435d789b74a15c7cd853154195a46fe23b4253f5c06a075"
+  },
+  "archives": [
+    {
+      "path": "translations/annotated/reviews/2026-11-16/opened-record.json",
+      "sha256": "1da8928aee2c06a6e1252d8482fe789e4d19218180e3c0cb846157c3af7cc4d3"
+    },
+    {
+      "path": "translations/annotated/reviews/2026-11-16/opened.md",
+      "sha256": "404868c28f8051a59ff5c3a974885055c56b407e5b48f6a69857dfbb0fcc0256"
+    },
+    {
+      "path": "translations/annotated/reviews/2026-11-16/renderer-before.py",
+      "sha256": "f21a85f5941b9580263aaea2171d4eb0ccb10def20682149c356d80cf265c2f4"
+    },
+    {
+      "path": "translations/annotated/reviews/2026-11-16/response.md",
+      "sha256": "2bbbdf9b27afc786422e652435f88350e102420d4cb42ee96720135102e5c628"
+    },
+    {
+      "path": "translations/annotated/reviews/2026-11-16/returned.md",
+      "sha256": "ba309b7e12ce74017f4631f1597668ced3efed06610cd6a77c09bcc7ec08ccaa"
+    }
+  ]
+}

@@ -21,6 +21,10 @@ class ReaderNotes(unittest.TestCase):
         cls.notes = read('translations/annotated/notes.json')
         cls.record = read('translations/annotated/record.json')
         cls.tables, _ = ingest.load(ROOT)
+        evidence = {r['id']: r for r in cls.tables['evidence']}
+        for collection, prefix in [(cls.notes['notes'], 'note'), (cls.notes['term_guide'], 'guide')]:
+            for item in collection:
+                item['text'] = evidence['EFootnotes.' + prefix + ':' + item['id']]['excerpt']
         cls.versions = {r['id']: r for r in cls.tables['text_version']}
         cls.units = {r['id']: r for r in cls.tables['unit']}
         cls.reading = (ROOT / 'translations/annotated/reading.md').read_text()
@@ -106,6 +110,24 @@ class ReaderNotes(unittest.TestCase):
                 self.assertIn(note['source_unit'], encoded)
         finally:
             db.close()
+
+    def test_review_clarification_preserves_base_and_replays_into_reader(self):
+        review = read('translations/annotated/review.json')
+        self.assertTrue(review['completed'])
+        self.assertEqual(review['comments'][0]['text'], 'does this require a definition/clarification?')
+        for key in ['opened', 'returned']:
+            item = review[key]
+            self.assertEqual(hashlib.sha256((ROOT / item['path']).read_bytes()).hexdigest(), item['sha256'])
+        base = read('translations/annotated/notes.json')
+        evidence = {r['id']: r for r in self.tables['evidence']}
+        for replacement in review['replacements']:
+            current = evidence[replacement['evidence_id']]['excerpt']
+            original = next(x for x in base['notes' if replacement['kind'] == 'note' else 'term_guide'] if x['id'] == replacement['id'])['text']
+            self.assertNotEqual(current, original)
+            self.assertEqual(current, replacement['text'])
+            self.assertIn(current, self.reading)
+            self.assertIn('to use, to employ', current)
+            self.assertTrue(any(r['target_id'] == replacement['evidence_id'] and r['field'] == 'excerpt' and r['status'] == 'accepted' for r in self.tables['revision_history']))
 
 
 if __name__ == '__main__':

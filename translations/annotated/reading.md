@@ -1,5 +1,5 @@
 # Outlines of the General Type of Language[^source-manuscript]
-<!-- SUMMARY: Existing translation with selected, attributed footnotes · status: provisional; English and annotation review pending · updated: 2026-11-16 -->
+<!-- SUMMARY: Existing translation with selected, attributed footnotes · status: review completed; terminology clarification applied; provisional · updated: 2026-11-16 -->
 
 Wilhelm von Humboldt
 
@@ -9,9 +9,9 @@ This selection contains the complete Introduction (numbered passages 1–7), the
 
 The provisional source is Albert Leitzmann’s 1906 edition, *Gesammelte Schriften*, volume V, pp. 364–372 and 469–470. Drechsel (2024:155) reports cancellation of the first seven paragraphs; the manuscript marks, their extent and their editorial meaning have not been independently verified. This qualification concerns 1–7 and is not extended to 8–15 or 147. See [the textual-basis record](../../docs/preparation/textual-basis-options.md).
 
-The English wording is preserved from the existing translations. Footnotes ending **(Humboldt)** translate his own notes; **(1906 Ed.)** identifies the print editor’s apparatus; **(Trans.)** identifies our commentary. One Arabic sequence covers all three. The [short terminology guide](#terminology-guide) explains recurring distinctions. These provisional notes and the English await review; English readability review does not establish fidelity to the German.
+The English wording is preserved from the existing translations. Footnotes ending **(Humboldt)** translate his own notes; **(1906 Ed.)** identifies the print editor’s apparatus; **(Trans.)** identifies our commentary. One Arabic sequence covers all three. The [short terminology guide](#terminology-guide) explains recurring distinctions. The reading review is complete, with a terminology clarification applied in response. English readability review does not establish fidelity to the German.
 
-The [note records](../../translations/annotated/notes.json) retain stable IDs, exact source/English anchors and evidence limits. The [annotation report](../../translations/annotated/report.md) links all earlier reading copies, alternatives and audits. The historical source includes evaluative scales and labels for peoples and languages; those claims remain Humboldt’s, with focused qualifications in the notes.
+The [base note records](../../translations/annotated/notes.json) retain stable IDs, exact source/English anchors and evidence limits. The [annotation report](../../translations/annotated/report.md) links the review response, earlier reading copies, alternatives and audits. The historical source includes evaluative scales and labels for peoples and languages; those claims remain Humboldt’s, with focused qualifications in the notes.
 
 ## Introduction
 
@@ -73,7 +73,7 @@ These are local reading aids. The [full termbase](../../docs/preparation/termbas
 
 **Apprehension and knowledge** (*Anschauung*, *Auffassung*, *Erkenntniss*). The distinctions are local: 14 contrasts apprehended living individuality with knowledge obtained by analysis; 147 contrasts speakers’ apprehension with what is audibly marked. No uniform English substitution settles their philosophical relations.
 
-**Substantive and relational** (*Sachbegriff*, *Sachwörter*, *Sachbedeutung*, *Verhältnisswörter*, *Verhältnissbegriff*). The contrast in 147 concerns conceptual content and grammatical relations. Substantive does not mean noun, and relational word is not imposed as a universal modern word-class label.
+**Substantive and relational** (*Sachbegriff*, *Sachwörter*, *Sachbedeutung*, *Verhältnisswörter*, *Verhältnissbegriff*). The contrast in 147 is between what a word means in its own right and a grammatical relation it expresses. The meaning “to use, to employ” is an example of content meaning; in a later stage of a word’s history, such an earlier meaning may be lost while a relational use remains. “Substantive” does not mean “noun,” and “relational word” is not imposed as a universal modern word-class label.
 
 **Noun and verb** (*Nomen*, *Nomina*, *Verbum*). Noun is the working English label for the Latin Nomen in 147; its precise historical extension remains unsettled. The examples describe a word’s use as a noun or a verb, without establishing a modern category-membership test.
 
@@ -119,7 +119,7 @@ These are local reading aids. The [full termbase](../../docs/preparation/termbas
 
 [^joint-working]: “Its” takes the language as the referent. The German also permits “their working together,” referring to the causes, technical means and purpose just listed. (Trans.)
 
-[^substantive-content]: “Substantive” here means conceptual content as opposed to relation, rather than “noun.” The German Sach- vocabulary recurs in words for concept, word and meaning below. (Trans.)
+[^substantive-content]: “Substantive” means the content meaning of a word, as distinct from the grammatical relation it marks. For example, “to use, to employ” is the content meaning of the Chinese word also used as a preposition. An “original substantive meaning” is an earlier content meaning that may later be lost; “substantive” does not mean “noun.” (Trans.)
 
 [^form-or-indication]: “The grammatical form” supplies the referent of German sie. “The indication” is also grammatically possible; the surrounding discussion favours the form as the chosen reading. (Trans.)
 

@@ -59,6 +59,10 @@
     {
       "path": "passages/reader-footnotes-v1/records.json",
       "sha256": "de32ce6fd102bd5a85fe51c931ea20ef41ba6c27c02ec910b8b096699bff5253"
+    },
+    {
+      "path": "passages/reader-notes-review-20261116/records.json",
+      "sha256": "376eb69d2afd704b99a0f58ee80ed7d7d459bd56dab6d8437a8cd8c7e2e8d603"
     }
   ],
   "format": "humboldt.edition",

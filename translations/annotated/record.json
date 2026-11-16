@@ -1,9 +1,9 @@
 {
   "format": "humboldt.annotation-pass",
-  "version": 1,
+  "version": 2,
   "date": "2026-11-16",
   "authorization": "D030; policy D029",
-  "review_status": "English and annotation review pending; prior review statuses unchanged",
+  "review_status": "Reading review completed with one terminology query; clarification applied, not separately approved; no German specialist certification",
   "method": "Coordinator policy application and bounded source checks; no new translation candidates/audits or German specialist validation",
   "inputs": [
     {
@@ -485,7 +485,7 @@
   },
   "renderer": {
     "path": "tools/render_annotated_reading.py",
-    "sha256": "f21a85f5941b9580263aaea2171d4eb0ccb10def20682149c356d80cf265c2f4"
+    "sha256": "e11d39bf3e665c16fc74f5bc47ebb63e0a2a5c1fba053794768629059184e396"
   },
   "counts": {
     "passages": 16,
@@ -585,7 +585,13 @@
   ],
   "reading": {
     "path": "translations/annotated/reading.md",
-    "sha256": "404868c28f8051a59ff5c3a974885055c56b407e5b48f6a69857dfbb0fcc0256",
-    "review_status": "Prepared for Roughdraft; no completion or approval inferred"
+    "sha256": "f34429156b6ab2e0a435d789b74a15c7cd853154195a46fe23b4253f5c06a075",
+    "review_status": "Reading review completed with one terminology query; clarification applied, not separately approved; no German specialist certification"
+  },
+  "annotation_text_projection": {
+    "method": "Current evidence excerpts after accepted metadata journal corrections; immutable base anchors and note text retained in notes.json",
+    "review_record": "translations/annotated/review.json",
+    "prior_pass_record": "translations/annotated/reviews/2026-11-16/opened-record.json",
+    "prior_renderer": "translations/annotated/reviews/2026-11-16/renderer-before.py"
   }
 }
