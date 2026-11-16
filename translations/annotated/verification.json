@@ -1,0 +1,273 @@
+{
+  "format": "humboldt.annotation-verification",
+  "date": "2026-11-16",
+  "checks": {
+    "unit": 59,
+    "integration": 19,
+    "corpus": 13,
+    "historical": 43,
+    "total": 134,
+    "all_pass": true,
+    "follow_up": "The13-test corpus suite, source validation and build were rerun after moving the guide9 link from147:s06 to147:s11; all pass. No English or reader prose changed. The title-apparatus callout was then placed on the title itself; the three reader-note tests and HTML numbering check pass after regeneration."
+  },
+  "database": {
+    "integrity": "ok",
+    "foreign_key_errors": [],
+    "counts": {
+      "alignment": 655,
+      "alignment_member": 1323,
+      "analysis": 109,
+      "build_metadata": 9,
+      "change_impact": 1677,
+      "composite_attestation": 1,
+      "composite_member": 2,
+      "decision": 1759,
+      "decision_evidence": 2174,
+      "evidence": 1929,
+      "evidence_detail": 155,
+      "lexeme": 1048,
+      "lexeme_control": 149,
+      "lexeme_form": 1712,
+      "preparation_input": 9,
+      "register_carry_forward": 119,
+      "revision_history": 5,
+      "schema_migration": 2,
+      "sense_attestation": 1566,
+      "sense_rendering": 2167,
+      "term_entry": 34,
+      "term_entry_evidence": 202,
+      "term_entry_family": 46,
+      "term_expression_part": 1565,
+      "term_family": 18,
+      "term_occurrence": 4740,
+      "term_relation": 122,
+      "term_sense": 1518,
+      "term_use": 1531,
+      "terminology_candidate": 3515,
+      "terminology_control": 87,
+      "terminology_page_review": 110,
+      "text_version": 101,
+      "unit": 105051,
+      "unit_decision": 2393,
+      "unit_evidence": 3680,
+      "word_index": 39132
+    },
+    "logical_digest": "09d889e569458512ca9832b02c01431436c5429687ace368d931aa5c2de62f94"
+  },
+  "preservation": {
+    "scholarly_tables": {
+      "alignment": {
+        "before": 655,
+        "after": 655,
+        "all_previous_rows_preserved": true
+      },
+      "alignment_member": {
+        "before": 1323,
+        "after": 1323,
+        "all_previous_rows_preserved": true
+      },
+      "analysis": {
+        "before": 109,
+        "after": 109,
+        "all_previous_rows_preserved": true
+      },
+      "composite_attestation": {
+        "before": 1,
+        "after": 1,
+        "all_previous_rows_preserved": true
+      },
+      "composite_member": {
+        "before": 2,
+        "after": 2,
+        "all_previous_rows_preserved": true
+      },
+      "decision": {
+        "before": 1723,
+        "after": 1759,
+        "all_previous_rows_preserved": true
+      },
+      "decision_evidence": {
+        "before": 2078,
+        "after": 2174,
+        "all_previous_rows_preserved": true
+      },
+      "evidence": {
+        "before": 1886,
+        "after": 1929,
+        "all_previous_rows_preserved": true
+      },
+      "evidence_detail": {
+        "before": 155,
+        "after": 155,
+        "all_previous_rows_preserved": true
+      },
+      "lexeme": {
+        "before": 1048,
+        "after": 1048,
+        "all_previous_rows_preserved": true
+      },
+      "lexeme_control": {
+        "before": 149,
+        "after": 149,
+        "all_previous_rows_preserved": true
+      },
+      "lexeme_form": {
+        "before": 1712,
+        "after": 1712,
+        "all_previous_rows_preserved": true
+      },
+      "preparation_input": {
+        "before": 9,
+        "after": 9,
+        "all_previous_rows_preserved": true
+      },
+      "register_carry_forward": {
+        "before": 119,
+        "after": 119,
+        "all_previous_rows_preserved": true
+      },
+      "sense_attestation": {
+        "before": 1566,
+        "after": 1566,
+        "all_previous_rows_preserved": true
+      },
+      "sense_rendering": {
+        "before": 2167,
+        "after": 2167,
+        "all_previous_rows_preserved": true
+      },
+      "term_entry": {
+        "before": 34,
+        "after": 34,
+        "all_previous_rows_preserved": true
+      },
+      "term_entry_evidence": {
+        "before": 202,
+        "after": 202,
+        "all_previous_rows_preserved": true
+      },
+      "term_entry_family": {
+        "before": 46,
+        "after": 46,
+        "all_previous_rows_preserved": true
+      },
+      "term_expression_part": {
+        "before": 1565,
+        "after": 1565,
+        "all_previous_rows_preserved": true
+      },
+      "term_family": {
+        "before": 18,
+        "after": 18,
+        "all_previous_rows_preserved": true
+      },
+      "term_occurrence": {
+        "before": 4740,
+        "after": 4740,
+        "all_previous_rows_preserved": true
+      },
+      "term_relation": {
+        "before": 122,
+        "after": 122,
+        "all_previous_rows_preserved": true
+      },
+      "term_sense": {
+        "before": 1518,
+        "after": 1518,
+        "all_previous_rows_preserved": true
+      },
+      "term_use": {
+        "before": 1531,
+        "after": 1531,
+        "all_previous_rows_preserved": true
+      },
+      "terminology_candidate": {
+        "before": 3515,
+        "after": 3515,
+        "all_previous_rows_preserved": true
+      },
+      "terminology_control": {
+        "before": 87,
+        "after": 87,
+        "all_previous_rows_preserved": true
+      },
+      "terminology_page_review": {
+        "before": 110,
+        "after": 110,
+        "all_previous_rows_preserved": true
+      },
+      "text_version": {
+        "before": 101,
+        "after": 101,
+        "all_previous_rows_preserved": true
+      },
+      "unit": {
+        "before": 105051,
+        "after": 105051,
+        "all_previous_rows_preserved": true
+      },
+      "unit_decision": {
+        "before": 2289,
+        "after": 2393,
+        "all_previous_rows_preserved": true
+      },
+      "unit_evidence": {
+        "before": 3576,
+        "after": 3680,
+        "all_previous_rows_preserved": true
+      },
+      "word_index": {
+        "before": 39132,
+        "after": 39132,
+        "all_previous_rows_preserved": true
+      }
+    },
+    "protected_files": 118,
+    "previous_translation_files": 116,
+    "all_protected_hashes_match": true,
+    "all_previous_translation_hashes_match": true,
+    "all_previous_rows_preserved": true,
+    "main_English_bodies_unchanged": true,
+    "source_rendering_blocks": 107,
+    "journal_and_impact_rows_unchanged": true,
+    "frozen_agents_unchanged": true
+  },
+  "html": {
+    "note_numbers": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27"
+    ],
+    "all_note_targets_present": true,
+    "unique_ids": true
+  },
+  "limits": "Software checks establish preservation, attachment and reproducibility, not German fidelity, historical adequacy or human approval. Local logs and pre-retrofit comparison snapshot are ignored runtime evidence; normal clean builds and tests use durable edition inputs.",
+  "reading": {
+    "path": "translations/annotated/reading.md",
+    "sha256": "404868c28f8051a59ff5c3a974885055c56b407e5b48f6a69857dfbb0fcc0256"
+  }
+}

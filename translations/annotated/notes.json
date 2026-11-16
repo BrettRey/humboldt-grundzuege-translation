@@ -1,0 +1,1004 @@
+{
+  "format": "humboldt.reader-notes",
+  "version": 1,
+  "status": "Provisional annotation pass; reader-note review pending",
+  "policy": "docs/footnoting-policy.md",
+  "policy_sha256": "f31503d00281d2c18aaf29fa52ebe1e6a41713ffd07dab128c08254378ffe89f",
+  "scope": {
+    "passages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      147
+    ],
+    "main_text_unchanged": true,
+    "earlier_reading_files_unchanged": true,
+    "earlier_note_inventory": "translations/annotated/dispositions.json"
+  },
+  "sources": {
+    "parks": {
+      "title": "Parks Canada, Culture and history: L’Anse aux Meadows",
+      "url": "https://www.parcs.canada.ca/lhn-nhs/nl/meadows/culture",
+      "locator": "Discovery of the Site and Initial Excavations (1960–1968), paragraphs1–3",
+      "access": "Full page text read through web tool.",
+      "supports": "Norse settlement around1000 and discovery in1960; does not establish a linguistic influence on American languages."
+    },
+    "maya": {
+      "title": "SLUB Dresden, The Dresden Maya Codex: Deciphering",
+      "url": "https://www.slub-dresden.de/en/explore/manuscripts/the-dresden-maya-codex/deciphering",
+      "locator": "Description of the logosyllabic writing system",
+      "access": "Primary-site search-index excerpt read; live page opened but follow-up retrieval timed out. No complete page reread is claimed.",
+      "excerpt": "The hieroglyphic writing system of the Maya is logosyllabic",
+      "supports": "Maya writing includes word signs and syllable signs; non-alphabetic does not mean unwritten."
+    },
+    "gender": {
+      "title": "Cambridge English Grammar Today, Gender",
+      "url": "https://dictionary.cambridge.org/grammar/british-grammar/gender",
+      "locator": "Opening contrast between nouns and pronouns/possessive determiners",
+      "access": "Primary-site search-index excerpt read; direct page access returned403. No full-page inspection is claimed.",
+      "excerpt": "we use pronouns and possessive determiners to show gender",
+      "supports": "English marks gender in pronouns/possessives although nouns are not commonly gender-marked; does not establish Humboldt’s intended restriction."
+    },
+    "germanic": {
+      "title": "Winfred P. Lehmann, A Grammar of Proto-Germanic, chapter5",
+      "url": "https://lrc.la.utexas.edu/books/pgmc/5-syntax",
+      "locator": "5.5 Expression of Voice: Middle and Passive Constructions",
+      "access": "Relevant full section read through web tool.",
+      "supports": "Inflected passives in Gothic and auxiliary passive constructions in Old High German; does not settle the intended extension of Humboldt’s Deutschen."
+    },
+    "publication": {
+      "status": "Inserted at Brett’s explicit request; complete-Introduction English review remains pending",
+      "anchor": {
+        "source_id": "p6:s2",
+        "position": "After the sentence about being unable personally to make the separate treatments available",
+        "source_unit": "p6:de:s2",
+        "English_unit": "p6:revised:s2"
+      },
+      "text": "Humboldt’s larger American project remained unfinished, although he left substantial grammatical studies, including a Nahuatl grammar (modern manuscript-based edition, 1994). The Nahuatl dictionary, published in 2000, was conceived by Humboldt but compiled and revised chiefly by Eduard Buschmann, who continued the work after Humboldt’s death.",
+      "sources": [
+        {
+          "reference": "Drechsel 2024, chapters 7–8",
+          "project_files": [
+            "sources/raw/references/drechsel-2024/drechsel-2024-12-2.pdf",
+            "sources/raw/references/drechsel-2024/drechsel-2024-12-3.pdf"
+          ],
+          "supports": "Unfinished American project and substantial descriptive manuscripts"
+        },
+        {
+          "reference": "Jürgen Trabant 2002, L’édition des oeuvres linguistiques de Humboldt : le sort d’un legs intempestif, sections 4.1–4.2",
+          "url": "https://shesl.org/trabant-legs-intempestif/",
+          "supports": "Nahuatl grammar; dictionary conception, compilation and posthumous continuation"
+        },
+        {
+          "reference": "BBAW, obituary of Manfred Ringmacher",
+          "url": "https://www.bbaw.de/files-bbaw/user_upload/nachrufe/Nachruf_Manfred_Ringmacher_final.pdf",
+          "supports": "Manuscript-based grammar edition in 1994 and dictionary edition in 2000"
+        }
+      ],
+      "editorial_scope": "Historical translator commentary, distinct from Humboldt’s wording. Modern edition dates do not imply that he published these works during his lifetime.",
+      "id": "american-publication",
+      "inserted_at": "2026-11-16T13:50:04.832320+00:00",
+      "authorized_by": "Brett Reynolds",
+      "authorization": "insert it",
+      "footnote_label": "american-publication",
+      "document": "translations/introduction/revised.md",
+      "document_sha256_after_insertion": "3fb3c47102de97480bd2bed7ca2e38dc4346f36e38161a984c61604436bd4f46",
+      "rendered_references": "See [Drechsel 2024, chapters 7–8](https://doi.org/10.1017/9781108966801) and [Trabant 2002, §4.2](https://shesl.org/trabant-legs-intempestif/)."
+    },
+    "print": {
+      "path": "sources/raw/gs-v-1906.pdf",
+      "sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+      "access": "Earlier checked transcriptions retained; coordinator re-inspected complete147 on printed469–470 and source note on470. Target-specific English notes were checked against these source records."
+    },
+    "termbase": {
+      "path": "sources/terminology/v2/termbase.json",
+      "sha256": "ec047c1c70a2a47b136f5076e3da6b4d2226932de359e5f53d06a3a398879b7c",
+      "access": "Selected existing contextual rules consulted, not a new exhaustive terminology audit."
+    },
+    "greek": {
+      "title": "Herbert Weir Smyth, Greek Grammar",
+      "url": "https://grammars.alpheios.net/smyth/xhtml/body.1_div1.4_div2.16.html",
+      "locator": "§§1099–1102",
+      "access": "Relevant full article-origin discussion read through web tool; §195 also read separately.",
+      "supports": "Demonstrative uses of Greek article forms and emerging article uses in Homer; does not establish a direct Indic-to-Greek derivation. §195 describes the dual but does not by itself establish its later disappearance."
+    },
+    "coptic": {
+      "title": "John Martin Plumley, An Introductory Coptic Grammar (Sahidic Dialect), 1948",
+      "url": "https://cdn.suscopts.org/files/deacons/coptic/introductory-sahidic-coptic-grammar_john-martin-plumley-1948.pdf",
+      "locator": "§§197–197a, PDF p.32 (zero-based page31)",
+      "access": "Relevant full text read through web tool; hosted transcription of the grammar, not a newly collated 1948 print.",
+      "supports": "Circumstantial clauses correspond to participles or temporal clauses in Greek/English; examples include Mt26:40. This supports a functional comparison, not certification of Humboldt’s precise intended Coptic construction."
+    },
+    "danish": {
+      "title": "Dansk Sprognævn, Passiverne frikendes",
+      "url": "https://sproget.dk/passiverne-frikendes/",
+      "locator": "28 January2016; discussion of the s-passive",
+      "access": "Full page read through web tool.",
+      "supports": "Existence of a Danish s-passive; no correction is warranted on that limited point. Not a comprehensive morphological audit."
+    }
+  },
+  "notes": [
+    {
+      "id": "source-manuscript",
+      "source_id": "p1:s1",
+      "source_unit": "g:s1",
+      "target_unit": "intro:p1:clarified:s1",
+      "source_version": "grundzuege-001-v1",
+      "target_version": "revision-text-933d4f42-f708-5542-9ca6-a11ee25ecdf5",
+      "target_body_sha256": "bf86d5f7d5e9a11ae4cd9a378db95cf480184ed50ceba88f1025b4944ca1b164",
+      "anchor": {
+        "after": "complete source rendering block",
+        "offset_in_rendering": 275
+      },
+      "authorship": "editor1906",
+      "attribution": "1906 Ed.",
+      "text": "[Summary of the 1906 editor’s note.] The editor reports a manuscript of 148 half-written folio pages in the Royal Library in Berlin and notes Steinthal’s use of selected passages in his edition of Humboldt’s language-philosophical works.",
+      "source_ids": [
+        "p1:s1"
+      ],
+      "evidence": [
+        "print"
+      ],
+      "reason": "Preserve the separately authored source note; its1906 location report is historical.",
+      "status": "provisional reader note; English review pending",
+      "display_at": "work_title",
+      "original_marker": "*)",
+      "original_anchor": "Title of the work, printed364",
+      "source_text": "Handschrift (148 halbbeschriebene Folioseiten) in der Königlichen Bibliothek in Berlin. Einzelne Abschnitte und Sätze hat Steinthal in seiner Ausgabe der sprachphilosophischen Werke in die erläuternden Vorbemerkungen zu den einzelnen Paragraphen eingefügt, worauf hier nur im allgemeinen hingewiesen wird.",
+      "display_number": 1
+    },
+    {
+      "id": "subjugation-scope",
+      "source_id": "p1:s6",
+      "source_unit": "g:s6",
+      "target_unit": "intro:p1:clarified:s6",
+      "source_version": "grundzuege-001-v1",
+      "target_version": "revision-text-933d4f42-f708-5542-9ca6-a11ee25ecdf5",
+      "target_body_sha256": "bf86d5f7d5e9a11ae4cd9a378db95cf480184ed50ceba88f1025b4944ca1b164",
+      "anchor": {
+        "after": "down to subjugation by Europeans",
+        "offset_in_rendering": 108
+      },
+      "authorship": "translator",
+      "attribution": "Trans.",
+      "text": "“Down to subjugation by Europeans” adopts the temporal reading of German bis auf. “Except for subjugation by Europeans” remains possible; that reading would make subjugation an exception to the claim of freedom from foreign influence.",
+      "source_ids": [
+        "p1:s6"
+      ],
+      "evidence": [
+        "print"
+      ],
+      "reason": "Expose the consequential temporal/exceptive alternative already recorded in the opening audit.",
+      "status": "provisional reader note; English review pending",
+      "display_number": 2
+    },
+    {
+      "id": "american-contact",
+      "source_id": "p1:s6",
+      "source_unit": "g:s6",
+      "target_unit": "intro:p1:clarified:s6",
+      "source_version": "grundzuege-001-v1",
+      "target_version": "revision-text-933d4f42-f708-5542-9ca6-a11ee25ecdf5",
+      "target_body_sha256": "bf86d5f7d5e9a11ae4cd9a378db95cf480184ed50ceba88f1025b4944ca1b164",
+      "anchor": {
+        "after": "complete source rendering block",
+        "offset_in_rendering": 356
+      },
+      "authorship": "translator",
+      "attribution": "Trans.",
+      "text": "The Norse settlement at L’Anse aux Meadows, dating from around 1000 and discovered in 1960, supplies archaeological evidence of pre-Columbian European presence. This qualifies the picture of isolation; it does not by itself establish an influence on American languages. See [Parks Canada](https://www.parcs.canada.ca/lhn-nhs/nl/meadows/culture).",
+      "source_ids": [
+        "p1:s6"
+      ],
+      "evidence": [
+        "parks",
+        "print"
+      ],
+      "reason": "Qualify an overbroad picture of isolation without turning settlement evidence into a linguistic-contact claim.",
+      "status": "provisional reader note; English review pending",
+      "display_number": 3
+    },
+    {
+      "id": "nations-or-languages",
+      "source_id": "p2:s2",
+      "source_unit": "g2:s2",
+      "target_unit": "en2-revised-v2:g2:s2",
+      "source_version": "grundzuege-002-v1",
+      "target_version": "en2-revised-v2",
+      "target_body_sha256": "bfb20ec4fbe577a204ad1fac8593f2cf053601093b93e7962deef1126bbd083c",
+      "anchor": {
+        "after": "in the languages themselves as well",
+        "offset_in_rendering": 166
+      },
+      "authorship": "translator",
+      "attribution": "Trans.",
+      "text": "“In the languages themselves” interprets a German pronoun that can also refer to the nations. The later “them all” likewise leaves open whether nations or languages are placed on the asserted scale.",
+      "source_ids": [
+        "p2:s2"
+      ],
+      "evidence": [
+        "print"
+      ],
+      "reason": "Do not let the English completion silently settle a consequential source antecedent.",
+      "status": "provisional reader note; English review pending",
+      "display_number": 4
+    },
+    {
+      "id": "writing-and-literature",
+      "source_id": "p2:s2",
+      "source_unit": "g2:s2",
+      "target_unit": "en2-revised-v2:g2:s2",
+      "source_version": "grundzuege-002-v1",
+      "target_version": "en2-revised-v2",
+      "target_body_sha256": "bfb20ec4fbe577a204ad1fac8593f2cf053601093b93e7962deef1126bbd083c",
+      "anchor": {
+        "after": "complete source rendering block",
+        "offset_in_rendering": 322
+      },
+      "authorship": "translator",
+      "attribution": "Trans.",
+      "text": "Alphabetic writing is only one kind of writing. Maya script combines word signs and syllable signs; absence of an alphabet therefore does not establish absence of writing. “Literature in the proper sense” and the scale of a “lower level” express Humboldt’s evaluative criterion. See [SLUB Dresden](https://www.slub-dresden.de/en/explore/manuscripts/the-dresden-maya-codex/deciphering).",
+      "source_ids": [
+        "p2:s2"
+      ],
+      "evidence": [
+        "maya",
+        "print"
+      ],
+      "reason": "Distinguish the alphabetic claim from an absence-of-writing inference and identify the author’s evaluation.",
+      "status": "provisional reader note; English review pending",
+      "display_number": 5
+    },
+    {
+      "id": "parts-of-presentation",
+      "source_id": "p5:s2",
+      "source_unit": "p5:de:s2",
+      "target_unit": "p5:revised:s2",
+      "source_version": "grundzuege-005-v1",
+      "target_version": "en5-revised-v2",
+      "target_body_sha256": "2dfa04240faca7e06d1f6357c0a2723a3cc2ce24e68abd811bad5f750d6327bc",
+      "anchor": {
+        "after": "the structure of the individual languages",
+        "offset_in_rendering": 102
+      },
+      "authorship": "translator",
+      "attribution": "Trans.",
+      "text": "“The most important parts” is taken to mean parts of the presentation. The German possessive also permits parts of the individual languages; its form does not settle the reference.",
+      "source_ids": [
+        "p5:s2"
+      ],
+      "evidence": [
+        "print"
+      ],
+      "reason": "Retain the consequential alternative omitted from the aggregate reader notes.",
+      "status": "provisional reader note; English review pending",
+      "display_number": 6
+    },
+    {
+      "id": "sound-designation",
+      "source_id": "p5:s2",
+      "source_unit": "p5:de:s2",
+      "target_unit": "p5:revised:s2",
+      "source_version": "grundzuege-005-v1",
+      "target_version": "en5-revised-v2",
+      "target_body_sha256": "2dfa04240faca7e06d1f6357c0a2723a3cc2ce24e68abd811bad5f750d6327bc",
+      "anchor": {
+        "after": "complete source rendering block",
+        "offset_in_rendering": 295
+      },
+      "authorship": "translator",
+      "attribution": "Trans.",
+      "text": "The German Lautbezeichnung can concern designation through sounds or the specification of those sounds. The present rendering follows the former reading; the latter remains possible.",
+      "source_ids": [
+        "p5:s2"
+      ],
+      "evidence": [
+        "print",
+        "termbase"
+      ],
+      "reason": "The alternative affects what is omitted from the proposed general presentation.",
+      "status": "provisional reader note; English review pending",
+      "display_number": 7
+    },
+    {
+      "id": "american-publication",
+      "source_id": "p6:s2",
+      "source_unit": "p6:de:s2",
+      "target_unit": "p6:revised:s2",
+      "source_version": "grundzuege-006-v1",
+      "target_version": "en6-revised-v2",
+      "target_body_sha256": "be6f9209141f753d692fcf783504e67f47308b44e9437f57517298cad38eaaba",
+      "anchor": {
+        "after": "complete source rendering block",
+        "offset_in_rendering": 219
+      },
+      "authorship": "translator",
+      "attribution": "Trans.",
+      "text": "Humboldt’s larger American project remained unfinished, although he left substantial grammatical studies, including a Nahuatl grammar (modern manuscript-based edition, 1994). The Nahuatl dictionary, published in 2000, was conceived by Humboldt but compiled and revised chiefly by Eduard Buschmann, who continued the work after Humboldt’s death. See [Drechsel 2024, chapters 7–8](https://doi.org/10.1017/9781108966801) and [Trabant 2002, §4.2](https://shesl.org/trabant-legs-intempestif/).",
+      "source_ids": [
+        "p6:s2"
+      ],
+      "evidence": [
+        "publication"
+      ],
+      "reason": "Retain the already approved substantive historical footnote.",
+      "status": "provisional reader note; English review pending",
+      "previous_note": "translations/introduction/historical-footnote.json",
+      "previous_decision": "D023.historical-publication",
+      "display_number": 8
+    },
+    {
+      "id": "idiom",
+      "source_id": "p7:s1",
+      "source_unit": "p7:de:s1",
+      "target_unit": "p7:revised:s1",
+      "source_version": "grundzuege-007-v1",
+      "target_version": "en7-revised-v2",
+      "target_body_sha256": "97ef79bfbee1bcc4baf5e5213449d694858e29a2c3036743d44c509290dc07f7",
+      "anchor": {
+        "after": "idioms",
+        "offset_in_rendering": 131
+      },
+      "authorship": "translator",
+      "attribution": "Trans.",
+      "text": "“Idioms” here means individual languages or varieties, rather than idiomatic expressions.",
+      "source_ids": [
+        "p7:s1"
+      ],
+      "evidence": [
+        "print",
+        "termbase"
+      ],
+      "reason": "Explain a historically unfamiliar use at its first occurrence.",
+      "status": "provisional reader note; English review pending",
+      "display_number": 9
+    },
+    {
+      "id": "genus-shift",
+      "source_id": "p7:s6",
+      "source_unit": "p7:de:s6",
+      "target_unit": "p7:revised:s6",
+      "source_version": "grundzuege-007-v1",
+      "target_version": "en7-revised-v2",
+      "target_body_sha256": "97ef79bfbee1bcc4baf5e5213449d694858e29a2c3036743d44c509290dc07f7",
+      "anchor": {
+        "after": "new genus",
+        "offset_in_rendering": 127
+      },
+      "authorship": "translator",
+      "attribution": "Trans.",
+      "text": "The earlier analogy makes individual languages species under the genus of human language. Here each language is itself called a “new genus”: the German repeats Gattung. This apparent shift in classificatory level is retained; “new kind” is another possible reading.",
+      "source_ids": [
+        "p7:s6",
+        "p7:s1",
+        "p8:s1"
+      ],
+      "evidence": [
+        "print",
+        "termbase"
+      ],
+      "reason": "Expose an apparent source terminological shift instead of silently harmonizing it.",
+      "status": "provisional reader note; English review pending",
+      "display_number": 10
+    },
+    {
+      "id": "english-gender",
+      "source_id": "p8:s5",
+      "source_unit": "p8:de:s5",
+      "target_unit": "p8:revised:s5",
+      "source_version": "grundzuege-008-v1",
+      "target_version": "en8-revised-v2",
+      "target_body_sha256": "72215f9427d6720556a5298185b19d5f755061ddec2e0a89a1763d3e99614e8b",
+      "anchor": {
+        "after": "complete source rendering block",
+        "offset_in_rendering": 158
+      },
+      "authorship": "translator",
+      "attribution": "Trans.",
+      "text": "English distinguishes he, she and it, although nouns are not commonly marked for gender. Humboldt’s claim is therefore too broad if read as excluding every gender distinction; a restriction to nominal gender is possible but is not explicit here. See [English Grammar Today](https://dictionary.cambridge.org/grammar/british-grammar/gender).",
+      "source_ids": [
+        "p8:s5"
+      ],
+      "evidence": [
+        "gender",
+        "print"
+      ],
+      "reason": "Give a concrete qualification, while keeping the intended scope of the historical claim unresolved.",
+      "status": "provisional reader note; English review pending",
+      "display_number": 11
+    },
+    {
+      "id": "coptic-participle-comparison",
+      "source_id": "p8:s10",
+      "source_unit": "p8:de:s10",
+      "target_unit": "p8:revised:s10",
+      "source_version": "grundzuege-008-v1",
+      "target_version": "en8-revised-v2",
+      "target_body_sha256": "72215f9427d6720556a5298185b19d5f755061ddec2e0a89a1763d3e99614e8b",
+      "anchor": {
+        "after": "the mode of representation is nonetheless that of the participle",
+        "offset_in_rendering": 255
+      },
+      "authorship": "translator",
+      "attribution": "Trans.",
+      "text": "Coptic circumstantial clauses can do work rendered by participles in Greek or English: for example, “He found them sleeping” (Matthew 26:40). See [Plumley, §§197–197a](https://cdn.suscopts.org/files/deacons/coptic/introductory-sahidic-coptic-grammar_john-martin-plumley-1948.pdf); this supports the functional comparison without identifying Humboldt’s precise intended construction.",
+      "source_ids": [
+        "p8:s10"
+      ],
+      "evidence": [
+        "coptic",
+        "print"
+      ],
+      "reason": "Explain the unfamiliar example through attested usage while distinguishing that evidence from adjudication of Humboldt’s exact analysis.",
+      "status": "provisional reader note; English review pending",
+      "display_number": 12
+    },
+    {
+      "id": "greek-article-development",
+      "source_id": "p8:s10",
+      "source_unit": "p8:de:s10",
+      "target_unit": "p8:revised:s10",
+      "source_version": "grundzuege-008-v1",
+      "target_version": "en8-revised-v2",
+      "target_body_sha256": "72215f9427d6720556a5298185b19d5f755061ddec2e0a89a1763d3e99614e8b",
+      "anchor": {
+        "after": "the Indic demonstrative pronoun",
+        "offset_in_rendering": 409
+      },
+      "authorship": "translator",
+      "attribution": "Trans.",
+      "text": "Greek article forms retain demonstrative uses in Homer alongside emerging article uses; see [Smyth, §§1099–1102](https://grammars.alpheios.net/smyth/xhtml/body.1_div1.4_div2.16.html). The comparison here does not establish a direct derivation of Greek from an Indian language.",
+      "source_ids": [
+        "p8:s10"
+      ],
+      "evidence": [
+        "greek",
+        "print"
+      ],
+      "reason": "Clarify the demonstrative/article comparison without silently accepting a linear Indic-to-Greek descent.",
+      "status": "provisional reader note; English review pending",
+      "display_number": 13
+    },
+    {
+      "id": "historical-german-passive",
+      "source_id": "p8:s10",
+      "source_unit": "p8:de:s10",
+      "target_unit": "p8:revised:s10",
+      "source_version": "grundzuege-008-v1",
+      "target_version": "en8-revised-v2",
+      "target_body_sha256": "72215f9427d6720556a5298185b19d5f755061ddec2e0a89a1763d3e99614e8b",
+      "anchor": {
+        "after": "complete source rendering block",
+        "offset_in_rendering": 483
+      },
+      "authorship": "translator",
+      "attribution": "Trans.",
+      "text": "Inflected passive forms are attested in Gothic; Old High German has passive constructions with auxiliaries. “German” is retained here; a broader historical use for Germanic may be intended. See [Lehmann, §5.5](https://lrc.la.utexas.edu/books/pgmc/5-syntax).",
+      "source_ids": [
+        "p8:s10"
+      ],
+      "evidence": [
+        "germanic",
+        "print"
+      ],
+      "reason": "Identify the historical scope problem without asserting that Humboldt’s precise intended referent is settled.",
+      "status": "provisional reader note; English review pending",
+      "display_number": 14
+    },
+    {
+      "id": "system-of-languages",
+      "source_id": "p9:s1",
+      "source_unit": "p9:de:s1",
+      "target_unit": "p9:revised:s1",
+      "source_version": "grundzuege-009-v1",
+      "target_version": "en9-revised-v2",
+      "target_body_sha256": "09c59c2d6ea8ff34dc49856fe371b194bc22b82af346873d38f2d08aa1fb0afd",
+      "anchor": {
+        "after": "the system of languages",
+        "offset_in_rendering": 85
+      },
+      "authorship": "translator",
+      "attribution": "Trans.",
+      "text": "“System of languages” takes the German Sprachsystem in the classificatory context of passage 8. “System of language,” referring to language’s internal organization, is another possible reading.",
+      "source_ids": [
+        "p9:s1"
+      ],
+      "evidence": [
+        "print"
+      ],
+      "reason": "The alternative changes what is being compared with natural systems.",
+      "status": "provisional reader note; English review pending",
+      "display_number": 15
+    },
+    {
+      "id": "thought-other-forms",
+      "source_id": "p9:s5",
+      "source_unit": "p9:de:s5",
+      "target_unit": "p9:revised:s5",
+      "source_version": "grundzuege-009-v1",
+      "target_version": "en9-revised-v2",
+      "target_body_sha256": "09c59c2d6ea8ff34dc49856fe371b194bc22b82af346873d38f2d08aa1fb0afd",
+      "anchor": {
+        "after": "complete source rendering block",
+        "offset_in_rendering": 316
+      },
+      "authorship": "translator",
+      "attribution": "Trans.",
+      "text": "The German leaves the noun unexpressed. “Forms” is supplied from the preceding “fixed form”; “thoughts” is also possible.",
+      "source_ids": [
+        "p9:s5"
+      ],
+      "evidence": [
+        "print"
+      ],
+      "reason": "Make a consequential completion of the German ellipsis visible.",
+      "status": "provisional reader note; English review pending",
+      "display_number": 16
+    },
+    {
+      "id": "period",
+      "source_id": "p11:s8",
+      "source_unit": "p11:de:s8",
+      "target_unit": "p11:revised:s8",
+      "source_version": "grundzuege-011-v1",
+      "target_version": "en11-revised-v2",
+      "target_body_sha256": "f00ebb5620dd3db08989d9877d0c8a03025a28dd5bc3d0701984b95712de409f",
+      "anchor": {
+        "after": "period",
+        "offset_in_rendering": 42
+      },
+      "authorship": "translator",
+      "attribution": "Trans.",
+      "text": "A “period” here is an extended, articulated sentence, rather than a full stop. Periodenbau concerns its construction or structure.",
+      "source_ids": [
+        "p11:s8"
+      ],
+      "evidence": [
+        "print",
+        "termbase"
+      ],
+      "reason": "Prevent the everyday punctuation sense from obscuring the argument.",
+      "status": "provisional reader note; English review pending",
+      "display_number": 17
+    },
+    {
+      "id": "basic-sounds",
+      "source_id": "p11:s9",
+      "source_unit": "p11:de:s9",
+      "target_unit": "p11:revised:s9",
+      "source_version": "grundzuege-011-v1",
+      "target_version": "en11-revised-v2",
+      "target_body_sha256": "f00ebb5620dd3db08989d9877d0c8a03025a28dd5bc3d0701984b95712de409f",
+      "anchor": {
+        "after": "basic sounds",
+        "offset_in_rendering": 45
+      },
+      "authorship": "translator",
+      "attribution": "Trans.",
+      "text": "“Basic sounds” (Grundlaute) leaves open whether elementary speech sounds or root-like sound formations are in view; it is not a substitution of the modern term phonemes.",
+      "source_ids": [
+        "p11:s9"
+      ],
+      "evidence": [
+        "print",
+        "termbase"
+      ],
+      "reason": "Retain the consequential elementary-sound/root-sound alternative.",
+      "status": "provisional reader note; English review pending",
+      "display_number": 18
+    },
+    {
+      "id": "individuality-across-passages",
+      "source_id": "p14:s2",
+      "source_unit": "p14:de:s2",
+      "target_unit": "p14:revised:s2",
+      "source_version": "grundzuege-014-v1",
+      "target_version": "en14-revised-v2",
+      "target_body_sha256": "3c80c71bc490bd1764579ed6cc05ea5bd2cc86bc56399a5535cb1cb7f6ad8f8b",
+      "anchor": {
+        "after": "individuality",
+        "offset_in_rendering": 161
+      },
+      "authorship": "translator",
+      "attribution": "Trans.",
+      "text": "In passage 5, “true individuality” was tied to specific designation by sounds; here individuality is felt in the language’s working as a whole. The German uses Individualität in both places. These different emphases are retained without imposing a fixed opposition between individuality, distinctive character and character.",
+      "source_ids": [
+        "p14:s2",
+        "p5:s2"
+      ],
+      "evidence": [
+        "print",
+        "termbase"
+      ],
+      "reason": "Flag variation in the source’s use of the same central term without declaring contextual variation an established contradiction.",
+      "status": "provisional reader note; English review pending",
+      "display_number": 19
+    },
+    {
+      "id": "joint-working",
+      "source_id": "p14:s2",
+      "source_unit": "p14:de:s2",
+      "target_unit": "p14:revised:s2",
+      "source_version": "grundzuege-014-v1",
+      "target_version": "en14-revised-v2",
+      "target_body_sha256": "3c80c71bc490bd1764579ed6cc05ea5bd2cc86bc56399a5535cb1cb7f6ad8f8b",
+      "anchor": {
+        "after": "complete source rendering block",
+        "offset_in_rendering": 214
+      },
+      "authorship": "translator",
+      "attribution": "Trans.",
+      "text": "“Its” takes the language as the referent. The German also permits “their working together,” referring to the causes, technical means and purpose just listed.",
+      "source_ids": [
+        "p14:s2"
+      ],
+      "evidence": [
+        "print"
+      ],
+      "reason": "The alternative changes what is said to work together.",
+      "status": "provisional reader note; English review pending",
+      "display_number": 20
+    },
+    {
+      "id": "substantive-content",
+      "source_id": "p147:s07",
+      "source_unit": "difficult-147-de-v1:s07",
+      "target_unit": "en147-revised-v2:s07",
+      "source_version": "difficult-147-de-v1",
+      "target_version": "en147-revised-v2",
+      "target_body_sha256": "d44a7bc4821a8d04d24f7d3d0d98aff26d3da99dc001d0d2388539dc5ac59c83",
+      "anchor": {
+        "after": "substantive content",
+        "offset_in_rendering": 206
+      },
+      "authorship": "translator",
+      "attribution": "Trans.",
+      "text": "“Substantive” here means conceptual content as opposed to relation, rather than “noun.” The German Sach- vocabulary recurs in words for concept, word and meaning below.",
+      "source_ids": [
+        "p147:s07"
+      ],
+      "evidence": [
+        "print",
+        "termbase"
+      ],
+      "reason": "Disambiguate an English technical false friend that affects the contrast.",
+      "status": "provisional reader note; English review pending",
+      "display_number": 21
+    },
+    {
+      "id": "form-or-indication",
+      "source_id": "p147:s07",
+      "source_unit": "difficult-147-de-v1:s07",
+      "target_unit": "en147-revised-v2:s07",
+      "source_version": "difficult-147-de-v1",
+      "target_version": "en147-revised-v2",
+      "target_body_sha256": "d44a7bc4821a8d04d24f7d3d0d98aff26d3da99dc001d0d2388539dc5ac59c83",
+      "anchor": {
+        "after": "the grammatical form",
+        "offset_in_rendering": 228
+      },
+      "authorship": "translator",
+      "attribution": "Trans.",
+      "text": "“The grammatical form” supplies the referent of German sie. “The indication” is also grammatically possible; the surrounding discussion favours the form as the chosen reading.",
+      "source_ids": [
+        "p147:s07"
+      ],
+      "evidence": [
+        "print"
+      ],
+      "reason": "The pronoun alternative affects what is brought into language.",
+      "status": "provisional reader note; English review pending",
+      "display_number": 22
+    },
+    {
+      "id": "chinese-grammatical-form",
+      "source_id": "p147:s08",
+      "source_unit": "difficult-147-de-v1:s08",
+      "target_unit": "en147-revised-v2:s08",
+      "source_version": "difficult-147-de-v1",
+      "target_version": "en147-revised-v2",
+      "target_body_sha256": "d44a7bc4821a8d04d24f7d3d0d98aff26d3da99dc001d0d2388539dc5ac59c83",
+      "anchor": {
+        "after": "complete source rendering block",
+        "offset_in_rendering": 88
+      },
+      "authorship": "translator",
+      "attribution": "Trans.",
+      "text": "“Grammatical form” has the restricted sense defined above. The argument distinguishes a grammatical relation from its formal designation; it explicitly allows Chinese verbs to be recognized through habitual use in the following sentences.",
+      "source_ids": [
+        "p147:s08"
+      ],
+      "evidence": [
+        "print"
+      ],
+      "reason": "Prevent a claim about formal marking from being read as a denial that Chinese has verbs.",
+      "status": "provisional reader note; English review pending",
+      "display_number": 23
+    },
+    {
+      "id": "historical-chinese-transcription",
+      "source_id": "p147:s14",
+      "source_unit": "difficult-147-de-v1:s14",
+      "target_unit": "en147-revised-v2:s14",
+      "source_version": "difficult-147-de-v1",
+      "target_version": "en147-revised-v2",
+      "target_body_sha256": "d44a7bc4821a8d04d24f7d3d0d98aff26d3da99dc001d0d2388539dc5ac59c83",
+      "anchor": {
+        "after": "ì",
+        "offset_in_rendering": 13
+      },
+      "authorship": "translator",
+      "attribution": "Trans.",
+      "text": "The form ì reproduces the historical transcription in the print. No Chinese character or modern pinyin equivalent is supplied here.",
+      "source_ids": [
+        "p147:s14"
+      ],
+      "evidence": [
+        "print"
+      ],
+      "reason": "Prevent the historical romanization from being read as a modern transcription standard.",
+      "status": "provisional reader note; English review pending",
+      "display_number": 24
+    },
+    {
+      "id": "remusat-citation",
+      "source_id": "p147:s15",
+      "source_unit": "difficult-147-de-v1:s15",
+      "target_unit": "en147-revised-v2:s15",
+      "source_version": "difficult-147-de-v1",
+      "target_version": "en147-revised-v2",
+      "target_body_sha256": "d44a7bc4821a8d04d24f7d3d0d98aff26d3da99dc001d0d2388539dc5ac59c83",
+      "anchor": {
+        "after": "Abel-Rémusat",
+        "offset_in_rendering": 56
+      },
+      "authorship": "humboldt",
+      "attribution": "Humboldt",
+      "text": "*Lettre sur le génie de la langue Chinoise à Monsieur Abel Remusat* [*Letter on the character of the Chinese language to Monsieur Abel Remusat*], p. 22. 98.",
+      "source_ids": [
+        "p147:s15"
+      ],
+      "evidence": [
+        "print"
+      ],
+      "reason": "Translate the complete author’s source note, retaining the unexplained terminal number.",
+      "status": "provisional reader note; English review pending",
+      "original_marker": "*)",
+      "original_anchor": "After Abel-Rémusat in printed470",
+      "source_text": "Lettre sur le génie de la langue Chinoise à Monsieur Abel Remusat. p. 22. [editor callout 1] 98.",
+      "English_title_gloss_supplied": true,
+      "display_number": 25
+    },
+    {
+      "id": "editor-remusat-page",
+      "source_id": "p147:s15",
+      "source_unit": "difficult-147-de-v1:s15",
+      "target_unit": "en147-revised-v2:s15",
+      "source_version": "difficult-147-de-v1",
+      "target_version": "en147-revised-v2",
+      "target_body_sha256": "d44a7bc4821a8d04d24f7d3d0d98aff26d3da99dc001d0d2388539dc5ac59c83",
+      "anchor": {
+        "after": "Abel-Rémusat",
+        "offset_in_rendering": 56
+      },
+      "authorship": "editor1906",
+      "attribution": "1906 Ed.",
+      "text": "[On Humboldt’s preceding citation:] Cf. above, p. 268.",
+      "source_ids": [
+        "p147:s15"
+      ],
+      "evidence": [
+        "print"
+      ],
+      "reason": "Preserve the1906 editor’s separate cross-reference and its relation to the author’s citation.",
+      "status": "provisional reader note; English review pending",
+      "original_marker": "1)",
+      "original_anchor": "Within Humboldt’s source note, after p.22",
+      "source_text": "1) Vgl. oben S. 268.",
+      "display_relocation": "Called out beside the author’s note in the main text, to keep one flat footnote sequence; original nested anchor retained in this record.",
+      "display_number": 26
+    },
+    {
+      "id": "citation-number-context",
+      "source_id": "p147:s15",
+      "source_unit": "difficult-147-de-v1:s15",
+      "target_unit": "en147-revised-v2:s15",
+      "source_version": "difficult-147-de-v1",
+      "target_version": "en147-revised-v2",
+      "target_body_sha256": "d44a7bc4821a8d04d24f7d3d0d98aff26d3da99dc001d0d2388539dc5ac59c83",
+      "anchor": {
+        "after": "Abel-Rémusat",
+        "offset_in_rendering": 56
+      },
+      "authorship": "translator",
+      "attribution": "Trans.",
+      "text": "The unexplained terminal “98.” is retained from Humboldt’s note. The editor’s page 268 belongs to the 1906 German volume, rather than this English reading.",
+      "source_ids": [
+        "p147:s15"
+      ],
+      "evidence": [
+        "print"
+      ],
+      "reason": "Keep the retained numeral and edition-specific page reference intelligible without inventing their meaning.",
+      "status": "provisional reader note; English review pending",
+      "display_number": 27
+    }
+  ],
+  "term_guide": [
+    {
+      "term": "Distinctive character, character, individuality",
+      "German": [
+        "Eigenthümlichkeit",
+        "Charakter",
+        "Individualität"
+      ],
+      "text": "These expressions can overlap. The present passages do not establish an invariant three-way technical division; passages 5 and 14 place different emphases on Individualität.",
+      "source_ids": [
+        "p5:s2",
+        "p7:s6",
+        "p14:s2"
+      ],
+      "target_versions": [
+        "en14-revised-v2",
+        "en5-revised-v2",
+        "en7-revised-v2"
+      ],
+      "id": "guide-1"
+    },
+    {
+      "term": "Procedure and constituents",
+      "German": [
+        "Verfahren",
+        "Bestandtheile"
+      ],
+      "text": "Procedure concerns how a language employs and coordinates its means; constituents are the grammatical and lexical components. Passage 12 expressly makes the opposition non-rigid.",
+      "source_ids": [
+        "p11:s3",
+        "p12:s1",
+        "p12:s2"
+      ],
+      "target_versions": [
+        "en11-revised-v2",
+        "en12-revised-v2"
+      ],
+      "id": "guide-2"
+    },
+    {
+      "term": "Activity and operation",
+      "German": [
+        "Verrichtung",
+        "Wirken",
+        "Zusammenwirken"
+      ],
+      "text": "Activity in 9 renders Verrichtung in contrast to a stock of material; operation or working renders Wirken. Their joint-working sense is important, but no fixed philosophical opposition between these English words is asserted.",
+      "source_ids": [
+        "p9:s2",
+        "p10:s1",
+        "p14:s2"
+      ],
+      "target_versions": [
+        "en10-revised-v2",
+        "en14-revised-v2",
+        "en9-revised-v2"
+      ],
+      "id": "guide-3"
+    },
+    {
+      "term": "Boundary, determination, restriction",
+      "German": [
+        "Begränzung",
+        "Bestimmung",
+        "Beschränkung"
+      ],
+      "text": "Passage 9 uses three distinct words: making a boundary, the determination it contains, and the restriction thereby made possible. Cancels renders aufhebt without fixing a later philosophical doctrine.",
+      "source_ids": [
+        "p9:s6"
+      ],
+      "target_versions": [
+        "en9-revised-v2"
+      ],
+      "id": "guide-4"
+    },
+    {
+      "term": "Mind and soul",
+      "German": [
+        "Geist",
+        "Seele"
+      ],
+      "text": "The inherited English uses soul for Seele in 13 and mind for it in 147; that English variation does not establish a German lexical contrast. Geist and Seele are not assigned an invariant division into separate faculties here. The main text is preserved in this annotation pass.",
+      "source_ids": [
+        "p13:s4",
+        "p147:s07"
+      ],
+      "target_versions": [
+        "en13-revised-v2",
+        "en147-revised-v2"
+      ],
+      "id": "guide-5"
+    },
+    {
+      "term": "Cast of mind and manner of sound",
+      "German": [
+        "Geistes- und Tonart"
+      ],
+      "text": "The compressed phrase in 10 concerns mental and sonic character. Manner of sound leaves open its historical range; it does not designate a musical key or a modern tone-language class.",
+      "source_ids": [
+        "p10:s3"
+      ],
+      "target_versions": [
+        "en10-revised-v2"
+      ],
+      "id": "guide-6"
+    },
+    {
+      "term": "Apprehension and knowledge",
+      "German": [
+        "Anschauung",
+        "Auffassung",
+        "Erkenntniss"
+      ],
+      "text": "The distinctions are local: 14 contrasts apprehended living individuality with knowledge obtained by analysis; 147 contrasts speakers’ apprehension with what is audibly marked. No uniform English substitution settles their philosophical relations.",
+      "source_ids": [
+        "p14:s3",
+        "p147:s03",
+        "p147:s04"
+      ],
+      "target_versions": [
+        "en14-revised-v2",
+        "en147-revised-v2"
+      ],
+      "id": "guide-7"
+    },
+    {
+      "term": "Substantive and relational",
+      "German": [
+        "Sachbegriff",
+        "Sachwörter",
+        "Sachbedeutung",
+        "Verhältnisswörter",
+        "Verhältnissbegriff"
+      ],
+      "text": "The contrast in 147 concerns conceptual content and grammatical relations. Substantive does not mean noun, and relational word is not imposed as a universal modern word-class label.",
+      "source_ids": [
+        "p147:s07",
+        "p147:s13",
+        "p147:s17"
+      ],
+      "target_versions": [
+        "en147-revised-v2"
+      ],
+      "id": "guide-8"
+    },
+    {
+      "id": "guide-9",
+      "term": "Noun and verb",
+      "German": [
+        "Nomen",
+        "Nomina",
+        "Verbum"
+      ],
+      "text": "Noun is the working English label for the Latin Nomen in 147; its precise historical extension remains unsettled. The examples describe a word’s use as a noun or a verb, without establishing a modern category-membership test.",
+      "source_ids": [
+        "p147:s09",
+        "p147:s10",
+        "p147:s11"
+      ],
+      "target_versions": [
+        "en147-revised-v2"
+      ]
+    }
+  ],
+  "date": "2026-11-16"
+}

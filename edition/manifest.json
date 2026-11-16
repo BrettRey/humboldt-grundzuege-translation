@@ -55,6 +55,10 @@
     {
       "path": "passages/part-i-opening-008-015/records.json",
       "sha256": "3e96d6b7366405adf6a163032d3b08a90ab92d726bb3e751fbb4fc95942a2678"
+    },
+    {
+      "path": "passages/reader-footnotes-v1/records.json",
+      "sha256": "de32ce6fd102bd5a85fe51c931ea20ef41ba6c27c02ec910b8b096699bff5253"
     }
   ],
   "format": "humboldt.edition",

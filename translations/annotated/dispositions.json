@@ -1,0 +1,638 @@
+{
+  "format": "humboldt.note-dispositions",
+  "version": 1,
+  "status": "Coordinator dispositions; reader review pending",
+  "scope": "Current section reading notes and their retained earlier paragraph reading copies; not a new disposition of every candidate or audit.",
+  "earlier_notes": [
+    {
+      "id": "prior-note-1",
+      "path": "translations/introduction/revised.json",
+      "source_sha256": "0404bf7d25323783b91b4f9c6cef403fb9e893bc63256cf175eee4c15dc7eda3",
+      "locator": "/notes/0",
+      "text": "The two English clarifications in earlier passages are versioned: “have come together” in1 describes geographical confluence, not increasing structural similarity; “for the reader” in4 makes the German singular dative explicit. Earlier reviewed English remains available in its original versions.",
+      "footnote_ids": [],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "Version history belongs in the apparatus; it does not require a local reader footnote."
+    },
+    {
+      "id": "prior-note-2",
+      "path": "translations/introduction/revised.json",
+      "source_sha256": "0404bf7d25323783b91b4f9c6cef403fb9e893bc63256cf175eee4c15dc7eda3",
+      "locator": "/notes/1",
+      "text": "The historical labels and evaluations in1–2 remain Humboldt’s. “Continent” follows the passage’s treatment of America as one unit. “Self-contained native interaction” in1 describes contact confined to the internal network, not an absence of contact among communities. In2 the referents of ihnen and alle, the scope of nicht einmal darin and the softening force of wohl retain the alternatives recorded in the earlier notes.",
+      "footnote_ids": [
+        "subjugation-scope",
+        "american-contact",
+        "nations-or-languages",
+        "writing-and-literature"
+      ],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "Consequential source referents and historical qualifications receive local notes; recurring source/evaluation limits are explained in the reading prelude."
+    },
+    {
+      "id": "prior-note-3",
+      "path": "translations/introduction/revised.json",
+      "source_sha256": "0404bf7d25323783b91b4f9c6cef403fb9e893bc63256cf175eee4c15dc7eda3",
+      "locator": "/notes/2",
+      "text": "In3, “essential character” is a local rendering of Wesen, distinguishing Natur in the following sentence; it is not a universal equation with Eigenthümlichkeit or Beschaffenheit. “Describing” there belongs to the programme of presentation continued in4–7. Contextually different English renderings of Forschung and Untersuchung are not made into distinct modern disciplines.",
+      "footnote_ids": [],
+      "guide_ids": [
+        "guide-1"
+      ],
+      "apparatus_retained": true,
+      "reason": "Local lexical alternatives remain in the apparatus; the guide avoids imposing a fixed technical vocabulary."
+    },
+    {
+      "id": "prior-note-4",
+      "path": "translations/introduction/revised.json",
+      "source_sha256": "0404bf7d25323783b91b4f9c6cef403fb9e893bc63256cf175eee4c15dc7eda3",
+      "locator": "/notes/3",
+      "text": "In5, the possessive in ihren hauptsächlichsten Theilen permits the presentation or the individual languages as antecedent; the presentation remains the provisional choice. The coordinated omissions remain distinct: less essential matters, and the true individuality identified with specific designation by sounds. Lautbezeichnung remains uncertain between designation through sounds and notation/specification of sounds. The English does not claim a complete understanding of a language before its comparative place is determined.",
+      "footnote_ids": [
+        "parts-of-presentation",
+        "sound-designation"
+      ],
+      "guide_ids": [
+        "guide-1"
+      ],
+      "apparatus_retained": true,
+      "reason": "Retain both consequential ambiguities; the coordinated omissions are already explicit in the English."
+    },
+    {
+      "id": "prior-note-5",
+      "path": "translations/introduction/revised.json",
+      "source_sha256": "0404bf7d25323783b91b4f9c6cef403fb9e893bc63256cf175eee4c15dc7eda3",
+      "locator": "/notes/4",
+      "text": "In6, later grammars and dictionaries remain a possibility, not a publication commitment. The repeated particulars connects the brief cross-references with the details to be included in the general part. “Must take time and involve several people” renders Sache der Zeit, und Mehrerer; it preserves both time and multiple contributors sharing the purpose and perspectives. “General study of language” and advancing “knowledge of languages” follow the local contexts; the spelling variation Sprachkunde/Sprachenkunde does not itself establish two doctrines.",
+      "footnote_ids": [
+        "american-publication"
+      ],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "Retain the approved historical note. The English already preserves the conditional programme, shared work and time; spelling variation alone is not a second doctrine."
+    },
+    {
+      "id": "prior-note-6",
+      "path": "translations/introduction/revised.json",
+      "source_sha256": "0404bf7d25323783b91b4f9c6cef403fb9e893bc63256cf175eee4c15dc7eda3",
+      "locator": "/notes/5",
+      "text": "In7, “idioms” means particular languages or varieties, not idiomatic expressions. The first analogy places them as species under the genus of human language. Later the printed text calls each language a “new genus”, repeating Gattung. That shift is preserved and flagged rather than silently changed to “species”. “New kind” is a defensible alternative; the analogy does not establish fixed modern biological ranks.",
+      "footnote_ids": [
+        "idiom",
+        "genus-shift"
+      ],
+      "guide_ids": [
+        "guide-1"
+      ],
+      "apparatus_retained": true,
+      "reason": "Explain unfamiliar idiom and the apparent change in classificatory rank."
+    },
+    {
+      "id": "prior-note-7",
+      "path": "translations/introduction/revised.json",
+      "source_sha256": "0404bf7d25323783b91b4f9c6cef403fb9e893bc63256cf175eee4c15dc7eda3",
+      "locator": "/notes/6",
+      "text": "The natural-history analogy contrasts position in a classificatory system with physical location and the regional aggregate. Steinarten is left broad as “kinds of stone”; the exact period sense of Steinlager is not fixed here. “Rock bed”, “rock deposit” and “rock formations” remain alternatives; the plural deposits conveys the regional aggregate without specifying geological strata.",
+      "footnote_ids": [],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "The analogy is intelligible in English; the unsettled geological synonyms remain recoverable without a local note."
+    },
+    {
+      "id": "prior-note-8",
+      "path": "translations/introduction/revised.json",
+      "source_sha256": "0404bf7d25323783b91b4f9c6cef403fb9e893bc63256cf175eee4c15dc7eda3",
+      "locator": "/notes/7",
+      "text": "The two ways of presenting languages differ in content and method but remain connected. Neither investigation excludes geographical and historical circumstances. “Primarily” retains vorzugsweise: descent and relatedness are assigned chiefly, not exclusively, to the latter approach. Relatedness alone does not certify a common ancestral language.",
+      "footnote_ids": [],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "The English retains chiefly and the interdependence of the two modes. No new claim of a common ancestor is inserted."
+    },
+    {
+      "id": "prior-note-9",
+      "path": "translations/introduction/revised.json",
+      "source_sha256": "0404bf7d25323783b91b4f9c6cef403fb9e893bc63256cf175eee4c15dc7eda3",
+      "locator": "/notes/8",
+      "text": "In7’s final printed paragraph, knowledge of “these” is read as knowledge of the languages in themselves; the presentation is a grammatical alternative for dieser. Topic-appropriate order has priority; geographical order applies where that purpose leaves the choice indifferent. “Configuration of America” is a contextual rendering, with south-to-north and west-to-east kept in source order. Every additional means remains constrained by the main purpose.",
+      "footnote_ids": [],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "Retain the alternative antecedent and geographical-order analysis in the apparatus; the English follows the local language referent and explicitly states the ordering priority."
+    },
+    {
+      "id": "prior-note-10",
+      "path": "translations/part-i-opening/revised.json",
+      "source_sha256": "f00d2455c6933db8ff655b0e7b6a13cd38d61111eb8469782f5ce4e5f1c63ba9",
+      "locator": "/notes/0",
+      "text": "**8 — Historical examples.** Humboldt’s claims about gender, passives, Greek and Coptic are translated as given, without independent historical verification in this cycle. Indic renders his Indisch without specifying Sanskrit. The German word rendered characters in the botanical analogy means diagnostic characteristics.",
+      "footnote_ids": [
+        "english-gender",
+        "historical-german-passive",
+        "coptic-participle-comparison",
+        "greek-article-development"
+      ],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "Replace a blanket unverified-examples note with focused checks. Danish s-passive existence is checked; later loss of the Greek dual remains only partially checked and is not certified. Indic remains the print’s label, without specifying Sanskrit."
+    },
+    {
+      "id": "prior-note-11",
+      "path": "translations/part-i-opening/revised.json",
+      "source_sha256": "f00d2455c6933db8ff655b0e7b6a13cd38d61111eb8469782f5ce4e5f1c63ba9",
+      "locator": "/notes/1",
+      "text": "**9 — System, activity and thought.** System of languages follows the classificatory context; system of language is another possible reading. Activity renders Verrichtung here, preserving the physiological contrast; operation and function remain alternatives. Mental retains the intellectual range of geistig without settling its philosophical implications.",
+      "footnote_ids": [
+        "system-of-languages"
+      ],
+      "guide_ids": [
+        "guide-3"
+      ],
+      "apparatus_retained": true,
+      "reason": "Expose the consequential system reading; recurring activity terminology belongs in the guide."
+    },
+    {
+      "id": "prior-note-12",
+      "path": "translations/part-i-opening/revised.json",
+      "source_sha256": "f00d2455c6933db8ff655b0e7b6a13cd38d61111eb8469782f5ce4e5f1c63ba9",
+      "locator": "/notes/2",
+      "text": "**9 — Other forms.** The noun after other and yet other is unexpressed in German. Forms is supplied from the preceding fixed form; thoughts remains possible. Boundary, determination and restriction render three distinct German terms. Cancels does not impose a particular later philosophical doctrine on aufhebt.",
+      "footnote_ids": [
+        "thought-other-forms"
+      ],
+      "guide_ids": [
+        "guide-4"
+      ],
+      "apparatus_retained": true,
+      "reason": "Footnote the consequential supplied noun; put the recurring boundary terms in the guide."
+    },
+    {
+      "id": "prior-note-13",
+      "path": "translations/part-i-opening/revised.json",
+      "source_sha256": "f00d2455c6933db8ff655b0e7b6a13cd38d61111eb8469782f5ce4e5f1c63ba9",
+      "locator": "/notes/3",
+      "text": "**10 — Mind and sound.** Cast of mind and manner of sound renders the compressed Geistes- und Tonart. The wording concerns mental and sonic character; no musical key or modern tone-language class is asserted.",
+      "footnote_ids": [],
+      "guide_ids": [
+        "guide-6"
+      ],
+      "apparatus_retained": true,
+      "reason": "Explain the compressed recurring expression in the guide."
+    },
+    {
+      "id": "prior-note-14",
+      "path": "translations/part-i-opening/revised.json",
+      "source_sha256": "f00d2455c6933db8ff655b0e7b6a13cd38d61111eb8469782f5ce4e5f1c63ba9",
+      "locator": "/notes/4",
+      "text": "**11 — Questions and terminology.** The six questions form one dependent series in German; English uses direct questions under one introductory frame. Period means an extended articulated sentence. Basic sounds leaves open their elementary or root-like character; it does not specify phonemes. Neighbouring sounds leaves open adjacency and affinity. Contingently may also be read accidentally or haphazardly.",
+      "footnote_ids": [
+        "period",
+        "basic-sounds"
+      ],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "Explain misleading technical senses. Syntactic recasting and the remaining adjacency/affinity and contingency alternatives stay in the apparatus."
+    },
+    {
+      "id": "prior-note-15",
+      "path": "translations/part-i-opening/revised.json",
+      "source_sha256": "f00d2455c6933db8ff655b0e7b6a13cd38d61111eb8469782f5ce4e5f1c63ba9",
+      "locator": "/notes/5",
+      "text": "**12–14 — Procedure, inquiry and analysis.** Procedure is named first in12, reversing the order of the two paths in11; the former in13 refers to procedure. General-first exposition follows, rather than replaces, study of individual languages. Analysis into parts renders Zergliederung and recalls the anatomical comparison, while remaining necessary for knowledge.",
+      "footnote_ids": [],
+      "guide_ids": [
+        "guide-2",
+        "guide-7"
+      ],
+      "apparatus_retained": true,
+      "reason": "The English states the study/exposition order; the guide carries the non-rigid distinction and analysis/apprehension relation."
+    },
+    {
+      "id": "prior-note-16",
+      "path": "translations/part-i-opening/revised.json",
+      "source_sha256": "f00d2455c6933db8ff655b0e7b6a13cd38d61111eb8469782f5ce4e5f1c63ba9",
+      "locator": "/notes/6",
+      "text": "**13 — Colours and constituents.** Pale reads hell in the sense light rather than bright, following the difficulty of discerning the characteristics separately; light colours is also possible. Particles belongs to this visual metaphor. The phrase or rather arises from preserves Humboldt’s own correction of the relation between whole character and constituents.",
+      "footnote_ids": [],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "The visual metaphor and authorial self-correction are legible in English. Pale/light are lexical alternatives retained in the apparatus."
+    },
+    {
+      "id": "prior-note-17",
+      "path": "translations/part-i-opening/revised.json",
+      "source_sha256": "f00d2455c6933db8ff655b0e7b6a13cd38d61111eb8469782f5ce4e5f1c63ba9",
+      "locator": "/notes/7",
+      "text": "**14 — Working as a whole.** Its takes the language as the antecedent of ihrem. Their working together, referring to the preceding causes, means and purpose, remains grammatically possible. Different plans is supplied in the elliptical contrast with a single plan; different analyses is another possible completion.",
+      "footnote_ids": [
+        "joint-working"
+      ],
+      "guide_ids": [
+        "guide-1",
+        "guide-3"
+      ],
+      "apparatus_retained": true,
+      "reason": "Footnote the consequential working-together antecedent; retain the plans/analyses ellipsis in the apparatus."
+    },
+    {
+      "id": "prior-note-18",
+      "path": "translations/part-i-opening/revised.json",
+      "source_sha256": "f00d2455c6933db8ff655b0e7b6a13cd38d61111eb8469782f5ce4e5f1c63ba9",
+      "locator": "/notes/8",
+      "text": "**15 — Visibility and monographs.** Equally visible could also mean immediately visible. The monographs are understood as separate treatments of grammatical elements across languages. Printed references4 here and7 in13 are retained despite the unresolved textual-status report about the Introduction.",
+      "footnote_ids": [],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "The main text already preserves both back-references. Equal/immediate visibility and the monograph reading remain in the apparatus; the prelude explains the limited reported-cancellation scope."
+    },
+    {
+      "id": "prior-note-19",
+      "path": "translations/difficult-147/revised.md",
+      "source_sha256": "22612dcab237bc518be8158ea291a1d78aacf03e9dd6729a70b525d88427d911",
+      "locator": "Translator’s notes bullet 1",
+      "text": "“Grammatical form” is explicitly restricted here to the fixed, pure audible indication described in the definition. The following examples concern Humboldt’s historical analysis of Chinese; the English does not certify that analysis as modern linguistic fact.",
+      "footnote_ids": [
+        "chinese-grammatical-form"
+      ],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "Explain the restricted definition without certifying all historical claims about Chinese."
+    },
+    {
+      "id": "prior-note-20",
+      "path": "translations/difficult-147/revised.md",
+      "source_sha256": "22612dcab237bc518be8158ea291a1d78aacf03e9dd6729a70b525d88427d911",
+      "locator": "Translator’s notes bullet 2",
+      "text": "“Substantive content” renders the related Sach- vocabulary in concept, word and meaning. It contrasts here with relation as such, and includes the action expressed by “use”; it does not mean “noun” or only a concrete object. Nor is it an automatic equation with a modern content-word class.",
+      "footnote_ids": [
+        "substantive-content"
+      ],
+      "guide_ids": [
+        "guide-8"
+      ],
+      "apparatus_retained": true,
+      "reason": "Explain the technical false friend locally and retain the recurring word family in the guide."
+    },
+    {
+      "id": "prior-note-21",
+      "path": "translations/difficult-147/revised.md",
+      "source_sha256": "22612dcab237bc518be8158ea291a1d78aacf03e9dd6729a70b525d88427d911",
+      "locator": "Translator’s notes bullet 3",
+      "text": "In the sentence beginning “If I now assume,” “the grammatical form” resolves German sie. Its grammar also permits “the indication.” The following section’s statement that speakers put the concept of grammatical relations into language supports the chosen reading, without eliminating the syntactic ambiguity.",
+      "footnote_ids": [
+        "form-or-indication"
+      ],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "Retain both consequential pronoun readings."
+    },
+    {
+      "id": "prior-note-22",
+      "path": "translations/difficult-147/revised.md",
+      "source_sha256": "22612dcab237bc518be8158ea291a1d78aacf03e9dd6729a70b525d88427d911",
+      "locator": "Translator’s notes bullet 4",
+      "text": "“Mind” here renders Seele; “soul” remains an alternative. This local choice does not equate every Seele with Geist. “Apprehension” preserves Auffassung and its relation to Auffassungsweise, without treating understanding as merely hearing sound.",
+      "footnote_ids": [],
+      "guide_ids": [
+        "guide-5",
+        "guide-7"
+      ],
+      "apparatus_retained": true,
+      "reason": "Recurring mental terminology belongs in the guide; acknowledge the inherited Seele variation explicitly."
+    },
+    {
+      "id": "prior-note-23",
+      "path": "translations/difficult-147/revised.md",
+      "source_sha256": "22612dcab237bc518be8158ea291a1d78aacf03e9dd6729a70b525d88427d911",
+      "locator": "Translator’s notes bullet 5",
+      "text": "The source has Latin Nomen/Nomina. “Noun” is the working English label here; its precise historical extension is not independently settled. “Used as a noun or as a verb” describes use, not a modern category-membership test.",
+      "footnote_ids": [],
+      "guide_ids": [
+        "guide-9"
+      ],
+      "apparatus_retained": true,
+      "reason": "State the historical label’s limit and distinguish use from a modern category test in the guide."
+    },
+    {
+      "id": "prior-note-24",
+      "path": "translations/difficult-147/revised.md",
+      "source_sha256": "22612dcab237bc518be8158ea291a1d78aacf03e9dd6729a70b525d88427d911",
+      "locator": "Translator’s notes bullet 6",
+      "text": "The historical transcription ì reproduces the coordinator’s reading of the accented italic i in print. No Chinese character, phonetic value or modern pinyin has been supplied. The footnote’s terminal 98 remains uninterpreted; the footnote’s original form is preserved in source.json.",
+      "footnote_ids": [
+        "historical-chinese-transcription",
+        "citation-number-context"
+      ],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "Retain the historical romanization and unexplained number without inventing an identification."
+    },
+    {
+      "id": "prior-note-25",
+      "path": "translations/difficult-147/revised.md",
+      "source_sha256": "22612dcab237bc518be8158ea291a1d78aacf03e9dd6729a70b525d88427d911",
+      "locator": "Translator’s notes bullet 7",
+      "text": "The final sentence retains the limit “not always,” “from the language alone,” and the need to know speakers’ manner of apprehension at different epochs. It does not say that etymology alone proves present grammatical function.",
+      "footnote_ids": [],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "The main text already retains not always, from the language alone and the historical limits. No redundant paraphrase note is needed."
+    },
+    {
+      "id": "prior-note-26",
+      "path": "translations/opening-001/revised.md",
+      "source_sha256": "6d3248bb508e45fc4812dcfd2e3c56c08e41690ab9ed183a7c56d7992151f7d5",
+      "locator": "Editorial notes bullet 1",
+      "text": "**Geographical unit:** “continent” renders *Welttheil* with America treated as the single unit in this passage. It does not settle a modern continental classification.",
+      "footnote_ids": [],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "The reading prelude explains source numbering and historical labels; America remains the author’s single geographical unit."
+    },
+    {
+      "id": "prior-note-27",
+      "path": "translations/opening-001/revised.md",
+      "source_sha256": "6d3248bb508e45fc4812dcfd2e3c56c08e41690ab9ed183a7c56d7992151f7d5",
+      "locator": "Editorial notes bullet 2",
+      "text": "**Linguistic versus human groups:** “language stocks” concerns languages; “tribes, hordes, and families” preserves the author’s historical labels for human groups. “Development” retains an evaluative scale in *Bildung* without endorsing it or fixing a universal equivalent.",
+      "footnote_ids": [],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "Preserve the author’s human-group labels and evaluative language, explained once in the prelude rather than repeated as a local disclaimer."
+    },
+    {
+      "id": "prior-note-28",
+      "path": "translations/opening-001/revised.md",
+      "source_sha256": "6d3248bb508e45fc4812dcfd2e3c56c08e41690ab9ed183a7c56d7992151f7d5",
+      "locator": "Editorial notes bullet 3",
+      "text": "**National distinctiveness:** the historically marked “national” is retained without equating it with a modern nation-state. “Distinctive traits” keeps the connection with *Eigenthümlichkeiten* later in the paragraph.",
+      "footnote_ids": [],
+      "guide_ids": [
+        "guide-1"
+      ],
+      "apparatus_retained": true,
+      "reason": "The English retains national; no modern nation-state equivalence is introduced."
+    },
+    {
+      "id": "prior-note-29",
+      "path": "translations/opening-001/revised.md",
+      "source_sha256": "6d3248bb508e45fc4812dcfd2e3c56c08e41690ab9ed183a7c56d7992151f7d5",
+      "locator": "Editorial notes bullet 4",
+      "text": "**Ferment:** the peoples come into the state; no external setter or specified “activity” is supplied. The metaphor remains unusual in English. “Down to subjugation by Europeans” adopts the temporal reading of *bis auf*; “except for” remains an alternative.",
+      "footnote_ids": [
+        "subjugation-scope"
+      ],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "Footnote the consequential temporal/exceptive reading; leave the readable ferment metaphor intact."
+    },
+    {
+      "id": "prior-note-30",
+      "path": "translations/opening-001/revised.md",
+      "source_sha256": "6d3248bb508e45fc4812dcfd2e3c56c08e41690ab9ed183a7c56d7992151f7d5",
+      "locator": "Editorial notes bullet 5",
+      "text": "**Final sentence:** “wearing-down” preserves abrasion without asserting a completed equalisation. “Self-contained native interaction” describes the internal network of contact in this paragraph; it does not mean that each community was isolated. This contextual explanation is an interpretation, not an added manuscript reading. “Anything foreign” remains unspecified as to language, people, custom or other material.",
+      "footnote_ids": [],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "The English retains wearing-down and self-contained interaction; unspecified foreign material and uncompleted equalization remain in the apparatus."
+    },
+    {
+      "id": "prior-note-31",
+      "path": "translations/paragraph-002/revised.md",
+      "source_sha256": "bc1fdabe06dc65039a030272ce26b7de25c540677a2fe719abd57c5eb832a964",
+      "locator": "Editorial notes bullet 1",
+      "text": "**References:** “this” continues §1’s argument. “In the languages themselves” is an interpretation of *in ihnen selbst*; the nations themselves are another possible antecedent. “Them all” leaves *alle* pronominal, though the explicit earlier choice may lead an English reader toward languages. “Nations” retains Humboldt’s wording without specifying modern nation-states.",
+      "footnote_ids": [
+        "nations-or-languages"
+      ],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "Footnote the consequential referents; this plainly continues passage1 and needs no separate back-reference note."
+    },
+    {
+      "id": "prior-note-32",
+      "path": "translations/paragraph-002/revised.md",
+      "source_sha256": "bc1fdabe06dc65039a030272ce26b7de25c540677a2fe719abd57c5eb832a964",
+      "locator": "Editorial notes bullet 2",
+      "text": "**Evaluation:** alphabetic writing, literature “in the proper sense,” and the “lower level” are Humboldt’s qualifications and judgment. The translation preserves them; it does not turn “alphabetic” into a claim about all writing. The parallel fragment lacks the explicit lower-level phrase.",
+      "footnote_ids": [
+        "writing-and-literature"
+      ],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "Distinguish alphabetic writing, writing in general and the author’s evaluation. The parallel variant stays in the apparatus."
+    },
+    {
+      "id": "prior-note-33",
+      "path": "translations/paragraph-002/revised.md",
+      "source_sha256": "bc1fdabe06dc65039a030272ce26b7de25c540677a2fe719abd57c5eb832a964",
+      "locator": "Editorial notes bullet 3",
+      "text": "**Similarity and sameness:** the paragraph rejects alleged sameness of structure and alleged deviation from all other languages, while retaining similarity. “Also been asserted” leaves the nuance of *wohl* open. “Even in this respect” preserves *darin* without claiming a uniquely settled referent. English plural agreement is idiomatic; the checked German retains singular *erlaubt*.",
+      "footnote_ids": [],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "The English already distinguishes sameness from similarity; wohl, darin and grammatical agreement choices remain in the apparatus."
+    },
+    {
+      "id": "prior-note-34",
+      "path": "translations/paragraph-003/revised.json",
+      "source_sha256": "795c48d5551d9368def9453e4cf1be40328ea83625cdb38093becb3731f96aee",
+      "locator": "/notes/0",
+      "text": "Interconnection describes the comparative relations considered here; it does not establish one original American language. “As a connected whole” remains possible. “Continents” follows the earlier paragraphs’ local treatment of Welttheile.",
+      "footnote_ids": [],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "Interconnection is not expanded into a common ancestor; the connected-whole synonym stays in the apparatus."
+    },
+    {
+      "id": "prior-note-35",
+      "path": "translations/paragraph-003/revised.json",
+      "source_sha256": "795c48d5551d9368def9453e4cf1be40328ea83625cdb38093becb3731f96aee",
+      "locator": "/notes/1",
+      "text": "“Essential character” renders Wesen locally and distinguishes it from Natur in sentence4. “Essence” is an alternative; no single English equivalent is imposed on all occurrences of Wesen.",
+      "footnote_ids": [],
+      "guide_ids": [
+        "guide-1"
+      ],
+      "apparatus_retained": true,
+      "reason": "Retain the local Wesen/Natur choice without inventing a universal glossary division."
+    },
+    {
+      "id": "prior-note-36",
+      "path": "translations/paragraph-003/revised.json",
+      "source_sha256": "795c48d5551d9368def9453e4cf1be40328ea83625cdb38093becb3731f96aee",
+      "locator": "/notes/2",
+      "text": "“Prepared my own treatments” retains the contrast between studirt and bearbeitet without specifying completed grammars, dictionaries or fieldwork. The force of selbst may also be scalar (“even”). “Chiefly in manuscript” describes the materials, not necessarily Humboldt’s own handwriting.",
+      "footnote_ids": [
+        "american-publication"
+      ],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "The later historical footnote supplies the reader’s programme context; prepared my own treatments and manuscript scope remain unchanged."
+    },
+    {
+      "id": "prior-note-37",
+      "path": "translations/paragraph-003/revised.json",
+      "source_sha256": "795c48d5551d9368def9453e4cf1be40328ea83625cdb38093becb3731f96aee",
+      "locator": "/notes/3",
+      "text": "The final sentence repeats “material” for the German ellipsis and preserves abundant material for comprehensive treatment versus sufficient material for reliable assessment. The earlier preparatory work combines with the resources in providing material; it is not silently identified with the source collection.",
+      "footnote_ids": [],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "The English already preserves the distinct material quantities and sources; no explanatory paraphrase note is needed."
+    },
+    {
+      "id": "prior-note-38",
+      "path": "translations/paragraph-004/revised.json",
+      "source_sha256": "85daf03d4e2ad8ea5cc9393ad72701a6c2df4d3cc5e4697f7fec2283ff0e1bc3",
+      "locator": "/notes/0",
+      "text": "The two plans concern publication order: individual grammars and dictionaries first, or general conclusions first. “The latter course” refers to presenting the conclusions first; “the former course” refers to publishing the individual resources first. Presentation order does not establish the order of Humboldt’s research.",
+      "footnote_ids": [],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "The English makes the two publication plans and their references explicit."
+    },
+    {
+      "id": "prior-note-39",
+      "path": "translations/paragraph-004/revised.json",
+      "source_sha256": "85daf03d4e2ad8ea5cc9393ad72701a6c2df4d3cc5e4697f7fec2283ff0e1bc3",
+      "locator": "/notes/1",
+      "text": "“Resources” follows the local use of Hülfsmittel in §3. “Those that exist” refers to existing resources, not languages. The colon makes explicit the explanatory connection expressed by the German relative clause. “Only very incompletely” concerns how fully the reader can check the claims; it does not imply total inability or faulty reasoning.",
+      "footnote_ids": [],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "The source/English clarification is versioned; the current rendering explicitly identifies reader and resources."
+    },
+    {
+      "id": "prior-note-40",
+      "path": "translations/paragraph-004/revised.json",
+      "source_sha256": "85daf03d4e2ad8ea5cc9393ad72701a6c2df4d3cc5e4697f7fec2283ff0e1bc3",
+      "locator": "/notes/2",
+      "text": "“Publishing” renders Herausgabe in both occurrences; editing or bringing out remains possible within its historical range. “Protracted nature” retains the lengthiness of the undertaking, without excluding wearisomeness. “Would necessarily have elapsed in the process” preserves the hypothetical, necessary delay of hätte … verfliessen müssen; it does not report time that actually elapsed.",
+      "footnote_ids": [],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "The English preserves both publishing occurrences and hypothetical delay; historical lexical alternatives stay in the apparatus."
+    },
+    {
+      "id": "prior-note-41",
+      "path": "translations/paragraph-005/revised.json",
+      "source_sha256": "f2bdb18739e03a364bc2f1f8263e3ed9176d358ed59476d23cd266cb3a9a3b23",
+      "locator": "/notes/0",
+      "text": "In sentence2, “the most important parts of the presentation” is a provisional reading of in ihren hauptsächlichsten Theilen. The possessive can also refer to the individual languages; its form permits both. It cannot refer to the masculine German noun Bau (structure). The alternative would concern the languages’ main parts rather than parts of their presentation.",
+      "footnote_ids": [
+        "parts-of-presentation"
+      ],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "Footnote the consequential possessive alternative."
+    },
+    {
+      "id": "prior-note-42",
+      "path": "translations/paragraph-005/revised.json",
+      "source_sha256": "f2bdb18739e03a364bc2f1f8263e3ed9176d358ed59476d23cd266cb3a9a3b23",
+      "locator": "/notes/1",
+      "text": "“The specific designation by sounds” provisionally renders die bestimmte Lautbezeichnung. The local reading concerns designation through sounds; notation of sounds remains an alternative requiring further evidence. The apposition identifies this with what constitutes the language’s true individuality. The less essential matters and the true individuality are retained as two coordinated omissions; individuality is not silently classed as inessential.",
+      "footnote_ids": [
+        "sound-designation"
+      ],
+      "guide_ids": [
+        "guide-1"
+      ],
+      "apparatus_retained": true,
+      "reason": "Footnote the consequential sound-designation alternative; the coordinated omissions are explicit in English."
+    },
+    {
+      "id": "prior-note-43",
+      "path": "translations/paragraph-005/revised.json",
+      "source_sha256": "f2bdb18739e03a364bc2f1f8263e3ed9176d358ed59476d23cd266cb3a9a3b23",
+      "locator": "/notes/2",
+      "text": "“Distinctive characteristics” renders Eigenthümlichkeiten locally, while Individualität remains “individuality”; this does not establish an invariant boundary between the German nouns. “Appraised” retains the valuative force of gewürdigt. “Advantage” in sentence5 refers back to sentence4, while “merits” in sentence6 concerns what is weighed with shortcomings.",
+      "footnote_ids": [],
+      "guide_ids": [
+        "guide-1"
+      ],
+      "apparatus_retained": true,
+      "reason": "The guide handles contextual terminology; ordinary evaluative and backward-reference choices stay in the apparatus."
+    },
+    {
+      "id": "prior-note-44",
+      "path": "translations/paragraph-005/revised.json",
+      "source_sha256": "f2bdb18739e03a364bc2f1f8263e3ed9176d358ed59476d23cd266cb3a9a3b23",
+      "locator": "/notes/3",
+      "text": "In sentence6 it is the language that is to be placed and evaluated, rather than its structure or the investigator’s understanding. The two connected questions remain joined by and. “Language study” renders Sprachkunde without specifying a modern theoretical subfield; the evaluative claim about a language’s worth is Humboldt’s.",
+      "footnote_ids": [],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "The English identifies the language as the evaluated bearer and retains the author’s evaluation; no redundant note is needed."
+    },
+    {
+      "id": "prior-note-45",
+      "path": "translations/paragraph-005/revised.json",
+      "source_sha256": "f2bdb18739e03a364bc2f1f8263e3ed9176d358ed59476d23cd266cb3a9a3b23",
+      "locator": "/notes/4",
+      "text": "“An index that brings the material together” renders zusammenstellendes Register descriptively. Material supplies its implied object. The paragraph leaves the index’s arrangement unspecified; collating index or synoptic register remain alternatives. Recovery of the overview is only partial.",
+      "footnote_ids": [],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "The descriptive index rendering leaves arrangement unspecified; minor lexical alternatives remain in the apparatus."
+    },
+    {
+      "id": "prior-note-46",
+      "path": "translations/introduction/historical-footnote.json",
+      "source_sha256": "e9213f898bf542cf052886fce81a06ab25ddabcc9f03c09d40c1eabccaf020f2",
+      "locator": "/text",
+      "text": "Humboldt’s larger American project remained unfinished, although he left substantial grammatical studies, including a Nahuatl grammar (modern manuscript-based edition, 1994). The Nahuatl dictionary, published in 2000, was conceived by Humboldt but compiled and revised chiefly by Eduard Buschmann, who continued the work after Humboldt’s death.",
+      "footnote_ids": [
+        "american-publication"
+      ],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "Exact previously approved text retained at the start of the attributed footnote, with its existing evidence."
+    },
+    {
+      "id": "prior-note-47",
+      "path": "translations/introduction/apparatus.json",
+      "source_sha256": "3e89434b815c212e906492a6953b2e0fc18ab15809360e8007862e3a014dda79",
+      "locator": "/German",
+      "text": "Handschrift (148 halbbeschriebene Folioseiten) in der Königlichen Bibliothek in Berlin. Einzelne Abschnitte und Sätze hat Steinthal in seiner Ausgabe der sprachphilosophischen Werke in die erläuternden Vorbemerkungen zu den einzelnen Paragraphen eingefügt, worauf hier nur im allgemeinen hingewiesen wird.",
+      "footnote_ids": [
+        "source-manuscript"
+      ],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "Explicitly labelled English summary of the1906 apparatus, retaining original text, marker and location in the note record."
+    },
+    {
+      "id": "prior-note-48",
+      "path": "translations/difficult-147/source.json",
+      "source_sha256": "06f5bc0af19d0ccdc0f3bd0fa54c4600360e71fb74167d1f06dd1fb4010ac34e",
+      "locator": "/source_notes/author_footnote",
+      "text": "Lettre sur le génie de la langue Chinoise à Monsieur Abel Remusat. p. 22. [editor callout 1] 98.",
+      "footnote_ids": [
+        "remusat-citation",
+        "citation-number-context"
+      ],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "Retain the complete author citation, translated title gloss and unexplained terminal number; attribute author and translator separately."
+    },
+    {
+      "id": "prior-note-49",
+      "path": "translations/difficult-147/source.json",
+      "source_sha256": "06f5bc0af19d0ccdc0f3bd0fa54c4600360e71fb74167d1f06dd1fb4010ac34e",
+      "locator": "/source_notes/editorial_note",
+      "text": "1) Vgl. oben S. 268.",
+      "footnote_ids": [
+        "editor-remusat-page",
+        "citation-number-context"
+      ],
+      "guide_ids": [],
+      "apparatus_retained": true,
+      "reason": "Translate the editor note separately, retaining its original nested location and explaining relocation to one flat sequence."
+    }
+  ]
+}

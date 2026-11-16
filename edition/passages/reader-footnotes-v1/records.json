@@ -1,0 +1,1949 @@
+{
+  "format": "humboldt.passage",
+  "id": "reader-footnotes-v1",
+  "requires_versions": [
+    "difficult-147-de-v1",
+    "en10-revised-v2",
+    "en11-revised-v2",
+    "en12-revised-v2",
+    "en13-revised-v2",
+    "en14-revised-v2",
+    "en147-revised-v2",
+    "en15-revised-v2",
+    "en2-revised-v2",
+    "en3-revised-v2",
+    "en5-revised-v2",
+    "en6-revised-v2",
+    "en7-revised-v2",
+    "en8-revised-v2",
+    "en9-revised-v2",
+    "grundzuege-001-v1",
+    "grundzuege-002-v1",
+    "grundzuege-003-v1",
+    "grundzuege-004-v1",
+    "grundzuege-005-v1",
+    "grundzuege-006-v1",
+    "grundzuege-007-v1",
+    "grundzuege-008-v1",
+    "grundzuege-009-v1",
+    "grundzuege-010-v1",
+    "grundzuege-011-v1",
+    "grundzuege-012-v1",
+    "grundzuege-013-v1",
+    "grundzuege-014-v1",
+    "grundzuege-015-v1",
+    "revision-text-5508d194-4f71-5864-ab79-1eb6cac6d1bc",
+    "revision-text-933d4f42-f708-5542-9ca6-a11ee25ecdf5"
+  ],
+  "schema_version": 1,
+  "tables": {
+    "decision": [
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:source-manuscript",
+        "question": "Reader footnote: source-manuscript",
+        "resolution": "[Summary of the 1906 editor’s note.] The editor reports a manuscript of 148 half-written folio pages in the Royal Library in Berlin and notes Steinthal’s use of selected passages in his edition of Humboldt’s language-philosophical works. (1906 Ed.)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:subjugation-scope",
+        "question": "Reader footnote: subjugation-scope",
+        "resolution": "“Down to subjugation by Europeans” adopts the temporal reading of German bis auf. “Except for subjugation by Europeans” remains possible; that reading would make subjugation an exception to the claim of freedom from foreign influence. (Trans.)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:american-contact",
+        "question": "Reader footnote: american-contact",
+        "resolution": "The Norse settlement at L’Anse aux Meadows, dating from around 1000 and discovered in 1960, supplies archaeological evidence of pre-Columbian European presence. This qualifies the picture of isolation; it does not by itself establish an influence on American languages. See [Parks Canada](https://www.parcs.canada.ca/lhn-nhs/nl/meadows/culture). (Trans.)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:nations-or-languages",
+        "question": "Reader footnote: nations-or-languages",
+        "resolution": "“In the languages themselves” interprets a German pronoun that can also refer to the nations. The later “them all” likewise leaves open whether nations or languages are placed on the asserted scale. (Trans.)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:writing-and-literature",
+        "question": "Reader footnote: writing-and-literature",
+        "resolution": "Alphabetic writing is only one kind of writing. Maya script combines word signs and syllable signs; absence of an alphabet therefore does not establish absence of writing. “Literature in the proper sense” and the scale of a “lower level” express Humboldt’s evaluative criterion. See [SLUB Dresden](https://www.slub-dresden.de/en/explore/manuscripts/the-dresden-maya-codex/deciphering). (Trans.)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:parts-of-presentation",
+        "question": "Reader footnote: parts-of-presentation",
+        "resolution": "“The most important parts” is taken to mean parts of the presentation. The German possessive also permits parts of the individual languages; its form does not settle the reference. (Trans.)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:sound-designation",
+        "question": "Reader footnote: sound-designation",
+        "resolution": "The German Lautbezeichnung can concern designation through sounds or the specification of those sounds. The present rendering follows the former reading; the latter remains possible. (Trans.)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:american-publication",
+        "question": "Reader footnote: american-publication",
+        "resolution": "Humboldt’s larger American project remained unfinished, although he left substantial grammatical studies, including a Nahuatl grammar (modern manuscript-based edition, 1994). The Nahuatl dictionary, published in 2000, was conceived by Humboldt but compiled and revised chiefly by Eduard Buschmann, who continued the work after Humboldt’s death. See [Drechsel 2024, chapters 7–8](https://doi.org/10.1017/9781108966801) and [Trabant 2002, §4.2](https://shesl.org/trabant-legs-intempestif/). (Trans.)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:idiom",
+        "question": "Reader footnote: idiom",
+        "resolution": "“Idioms” here means individual languages or varieties, rather than idiomatic expressions. (Trans.)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:genus-shift",
+        "question": "Reader footnote: genus-shift",
+        "resolution": "The earlier analogy makes individual languages species under the genus of human language. Here each language is itself called a “new genus”: the German repeats Gattung. This apparent shift in classificatory level is retained; “new kind” is another possible reading. (Trans.)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:english-gender",
+        "question": "Reader footnote: english-gender",
+        "resolution": "English distinguishes he, she and it, although nouns are not commonly marked for gender. Humboldt’s claim is therefore too broad if read as excluding every gender distinction; a restriction to nominal gender is possible but is not explicit here. See [English Grammar Today](https://dictionary.cambridge.org/grammar/british-grammar/gender). (Trans.)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:coptic-participle-comparison",
+        "question": "Reader footnote: coptic-participle-comparison",
+        "resolution": "Coptic circumstantial clauses can do work rendered by participles in Greek or English: for example, “He found them sleeping” (Matthew 26:40). See [Plumley, §§197–197a](https://cdn.suscopts.org/files/deacons/coptic/introductory-sahidic-coptic-grammar_john-martin-plumley-1948.pdf); this supports the functional comparison without identifying Humboldt’s precise intended construction. (Trans.)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:greek-article-development",
+        "question": "Reader footnote: greek-article-development",
+        "resolution": "Greek article forms retain demonstrative uses in Homer alongside emerging article uses; see [Smyth, §§1099–1102](https://grammars.alpheios.net/smyth/xhtml/body.1_div1.4_div2.16.html). The comparison here does not establish a direct derivation of Greek from an Indian language. (Trans.)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:historical-german-passive",
+        "question": "Reader footnote: historical-german-passive",
+        "resolution": "Inflected passive forms are attested in Gothic; Old High German has passive constructions with auxiliaries. “German” is retained here; a broader historical use for Germanic may be intended. See [Lehmann, §5.5](https://lrc.la.utexas.edu/books/pgmc/5-syntax). (Trans.)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:system-of-languages",
+        "question": "Reader footnote: system-of-languages",
+        "resolution": "“System of languages” takes the German Sprachsystem in the classificatory context of passage 8. “System of language,” referring to language’s internal organization, is another possible reading. (Trans.)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:thought-other-forms",
+        "question": "Reader footnote: thought-other-forms",
+        "resolution": "The German leaves the noun unexpressed. “Forms” is supplied from the preceding “fixed form”; “thoughts” is also possible. (Trans.)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:period",
+        "question": "Reader footnote: period",
+        "resolution": "A “period” here is an extended, articulated sentence, rather than a full stop. Periodenbau concerns its construction or structure. (Trans.)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:basic-sounds",
+        "question": "Reader footnote: basic-sounds",
+        "resolution": "“Basic sounds” (Grundlaute) leaves open whether elementary speech sounds or root-like sound formations are in view; it is not a substitution of the modern term phonemes. (Trans.)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:individuality-across-passages",
+        "question": "Reader footnote: individuality-across-passages",
+        "resolution": "In passage 5, “true individuality” was tied to specific designation by sounds; here individuality is felt in the language’s working as a whole. The German uses Individualität in both places. These different emphases are retained without imposing a fixed opposition between individuality, distinctive character and character. (Trans.)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:joint-working",
+        "question": "Reader footnote: joint-working",
+        "resolution": "“Its” takes the language as the referent. The German also permits “their working together,” referring to the causes, technical means and purpose just listed. (Trans.)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:substantive-content",
+        "question": "Reader footnote: substantive-content",
+        "resolution": "“Substantive” here means conceptual content as opposed to relation, rather than “noun.” The German Sach- vocabulary recurs in words for concept, word and meaning below. (Trans.)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:form-or-indication",
+        "question": "Reader footnote: form-or-indication",
+        "resolution": "“The grammatical form” supplies the referent of German sie. “The indication” is also grammatically possible; the surrounding discussion favours the form as the chosen reading. (Trans.)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:chinese-grammatical-form",
+        "question": "Reader footnote: chinese-grammatical-form",
+        "resolution": "“Grammatical form” has the restricted sense defined above. The argument distinguishes a grammatical relation from its formal designation; it explicitly allows Chinese verbs to be recognized through habitual use in the following sentences. (Trans.)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:historical-chinese-transcription",
+        "question": "Reader footnote: historical-chinese-transcription",
+        "resolution": "The form ì reproduces the historical transcription in the print. No Chinese character or modern pinyin equivalent is supplied here. (Trans.)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:remusat-citation",
+        "question": "Reader footnote: remusat-citation",
+        "resolution": "*Lettre sur le génie de la langue Chinoise à Monsieur Abel Remusat* [*Letter on the character of the Chinese language to Monsieur Abel Remusat*], p. 22. 98. (Humboldt)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:editor-remusat-page",
+        "question": "Reader footnote: editor-remusat-page",
+        "resolution": "[On Humboldt’s preceding citation:] Cf. above, p. 268. (1906 Ed.)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.note:citation-number-context",
+        "question": "Reader footnote: citation-number-context",
+        "resolution": "The unexplained terminal “98.” is retained from Humboldt’s note. The editor’s page 268 belongs to the 1906 German volume, rather than this English reading. (Trans.)",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.guide:guide-1",
+        "question": "Reader terminology guide: guide-1",
+        "resolution": "These expressions can overlap. The present passages do not establish an invariant three-way technical division; passages 5 and 14 place different emphases on Individualität. ",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.guide:guide-2",
+        "question": "Reader terminology guide: guide-2",
+        "resolution": "Procedure concerns how a language employs and coordinates its means; constituents are the grammatical and lexical components. Passage 12 expressly makes the opposition non-rigid. ",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.guide:guide-3",
+        "question": "Reader terminology guide: guide-3",
+        "resolution": "Activity in 9 renders Verrichtung in contrast to a stock of material; operation or working renders Wirken. Their joint-working sense is important, but no fixed philosophical opposition between these English words is asserted. ",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.guide:guide-4",
+        "question": "Reader terminology guide: guide-4",
+        "resolution": "Passage 9 uses three distinct words: making a boundary, the determination it contains, and the restriction thereby made possible. Cancels renders aufhebt without fixing a later philosophical doctrine. ",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.guide:guide-5",
+        "question": "Reader terminology guide: guide-5",
+        "resolution": "The inherited English uses soul for Seele in 13 and mind for it in 147; that English variation does not establish a German lexical contrast. Geist and Seele are not assigned an invariant division into separate faculties here. The main text is preserved in this annotation pass. ",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.guide:guide-6",
+        "question": "Reader terminology guide: guide-6",
+        "resolution": "The compressed phrase in 10 concerns mental and sonic character. Manner of sound leaves open its historical range; it does not designate a musical key or a modern tone-language class. ",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.guide:guide-7",
+        "question": "Reader terminology guide: guide-7",
+        "resolution": "The distinctions are local: 14 contrasts apprehended living individuality with knowledge obtained by analysis; 147 contrasts speakers’ apprehension with what is audibly marked. No uniform English substitution settles their philosophical relations. ",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.guide:guide-8",
+        "question": "Reader terminology guide: guide-8",
+        "resolution": "The contrast in 147 concerns conceptual content and grammatical relations. Substantive does not mean noun, and relational word is not imposed as a universal modern word-class label. ",
+        "status": "provisional"
+      },
+      {
+        "authority": "Codex coordinator, applying Brett-approved D029 policy under D030; no German specialist or new reader approval claimed",
+        "id": "D031.guide:guide-9",
+        "question": "Reader terminology guide: guide-9",
+        "resolution": "Noun is the working English label for the Latin Nomen in 147; its precise historical extension remains unsettled. The examples describe a word’s use as a noun or a verb, without establishing a modern category-membership test. ",
+        "status": "provisional"
+      }
+    ],
+    "decision_evidence": [
+      {
+        "decision_id": "D031.note:source-manuscript",
+        "evidence_id": "EFootnotes.note:source-manuscript"
+      },
+      {
+        "decision_id": "D031.note:source-manuscript",
+        "evidence_id": "EIntro.source:p1:s1"
+      },
+      {
+        "decision_id": "D031.note:subjugation-scope",
+        "evidence_id": "EFootnotes.note:subjugation-scope"
+      },
+      {
+        "decision_id": "D031.note:subjugation-scope",
+        "evidence_id": "EIntro.source:p1:s6"
+      },
+      {
+        "decision_id": "D031.note:american-contact",
+        "evidence_id": "EFootnotes.note:american-contact"
+      },
+      {
+        "decision_id": "D031.note:american-contact",
+        "evidence_id": "EIntro.source:p1:s6"
+      },
+      {
+        "decision_id": "D031.note:american-contact",
+        "evidence_id": "EFootnotes.source:parks"
+      },
+      {
+        "decision_id": "D031.note:nations-or-languages",
+        "evidence_id": "EFootnotes.note:nations-or-languages"
+      },
+      {
+        "decision_id": "D031.note:nations-or-languages",
+        "evidence_id": "EIntro.source:p2:s2"
+      },
+      {
+        "decision_id": "D031.note:writing-and-literature",
+        "evidence_id": "EFootnotes.note:writing-and-literature"
+      },
+      {
+        "decision_id": "D031.note:writing-and-literature",
+        "evidence_id": "EIntro.source:p2:s2"
+      },
+      {
+        "decision_id": "D031.note:writing-and-literature",
+        "evidence_id": "EFootnotes.source:maya"
+      },
+      {
+        "decision_id": "D031.note:parts-of-presentation",
+        "evidence_id": "EFootnotes.note:parts-of-presentation"
+      },
+      {
+        "decision_id": "D031.note:parts-of-presentation",
+        "evidence_id": "EIntro.source:p5:s2"
+      },
+      {
+        "decision_id": "D031.note:sound-designation",
+        "evidence_id": "EFootnotes.note:sound-designation"
+      },
+      {
+        "decision_id": "D031.note:sound-designation",
+        "evidence_id": "EIntro.source:p5:s2"
+      },
+      {
+        "decision_id": "D031.note:american-publication",
+        "evidence_id": "EFootnotes.note:american-publication"
+      },
+      {
+        "decision_id": "D031.note:american-publication",
+        "evidence_id": "EIntro.source:p6:s2"
+      },
+      {
+        "decision_id": "D031.note:american-publication",
+        "evidence_id": "EIntro.historical-publication"
+      },
+      {
+        "decision_id": "D031.note:idiom",
+        "evidence_id": "EFootnotes.note:idiom"
+      },
+      {
+        "decision_id": "D031.note:idiom",
+        "evidence_id": "EIntro.source:p7:s1"
+      },
+      {
+        "decision_id": "D031.note:genus-shift",
+        "evidence_id": "EFootnotes.note:genus-shift"
+      },
+      {
+        "decision_id": "D031.note:genus-shift",
+        "evidence_id": "EIntro.source:p7:s6"
+      },
+      {
+        "decision_id": "D031.note:genus-shift",
+        "evidence_id": "EIntro.source:p7:s1"
+      },
+      {
+        "decision_id": "D031.note:genus-shift",
+        "evidence_id": "EPartI.source:p8:s1"
+      },
+      {
+        "decision_id": "D031.note:english-gender",
+        "evidence_id": "EFootnotes.note:english-gender"
+      },
+      {
+        "decision_id": "D031.note:english-gender",
+        "evidence_id": "EPartI.source:p8:s5"
+      },
+      {
+        "decision_id": "D031.note:english-gender",
+        "evidence_id": "EFootnotes.source:gender"
+      },
+      {
+        "decision_id": "D031.note:coptic-participle-comparison",
+        "evidence_id": "EFootnotes.note:coptic-participle-comparison"
+      },
+      {
+        "decision_id": "D031.note:coptic-participle-comparison",
+        "evidence_id": "EPartI.source:p8:s10"
+      },
+      {
+        "decision_id": "D031.note:coptic-participle-comparison",
+        "evidence_id": "EFootnotes.source:coptic"
+      },
+      {
+        "decision_id": "D031.note:greek-article-development",
+        "evidence_id": "EFootnotes.note:greek-article-development"
+      },
+      {
+        "decision_id": "D031.note:greek-article-development",
+        "evidence_id": "EPartI.source:p8:s10"
+      },
+      {
+        "decision_id": "D031.note:greek-article-development",
+        "evidence_id": "EFootnotes.source:greek"
+      },
+      {
+        "decision_id": "D031.note:historical-german-passive",
+        "evidence_id": "EFootnotes.note:historical-german-passive"
+      },
+      {
+        "decision_id": "D031.note:historical-german-passive",
+        "evidence_id": "EPartI.source:p8:s10"
+      },
+      {
+        "decision_id": "D031.note:historical-german-passive",
+        "evidence_id": "EFootnotes.source:germanic"
+      },
+      {
+        "decision_id": "D031.note:system-of-languages",
+        "evidence_id": "EFootnotes.note:system-of-languages"
+      },
+      {
+        "decision_id": "D031.note:system-of-languages",
+        "evidence_id": "EPartI.source:p9:s1"
+      },
+      {
+        "decision_id": "D031.note:thought-other-forms",
+        "evidence_id": "EFootnotes.note:thought-other-forms"
+      },
+      {
+        "decision_id": "D031.note:thought-other-forms",
+        "evidence_id": "EPartI.source:p9:s5"
+      },
+      {
+        "decision_id": "D031.note:period",
+        "evidence_id": "EFootnotes.note:period"
+      },
+      {
+        "decision_id": "D031.note:period",
+        "evidence_id": "EPartI.source:p11:s8"
+      },
+      {
+        "decision_id": "D031.note:basic-sounds",
+        "evidence_id": "EFootnotes.note:basic-sounds"
+      },
+      {
+        "decision_id": "D031.note:basic-sounds",
+        "evidence_id": "EPartI.source:p11:s9"
+      },
+      {
+        "decision_id": "D031.note:individuality-across-passages",
+        "evidence_id": "EFootnotes.note:individuality-across-passages"
+      },
+      {
+        "decision_id": "D031.note:individuality-across-passages",
+        "evidence_id": "EPartI.source:p14:s2"
+      },
+      {
+        "decision_id": "D031.note:individuality-across-passages",
+        "evidence_id": "EIntro.source:p5:s2"
+      },
+      {
+        "decision_id": "D031.note:joint-working",
+        "evidence_id": "EFootnotes.note:joint-working"
+      },
+      {
+        "decision_id": "D031.note:joint-working",
+        "evidence_id": "EPartI.source:p14:s2"
+      },
+      {
+        "decision_id": "D031.note:substantive-content",
+        "evidence_id": "EFootnotes.note:substantive-content"
+      },
+      {
+        "decision_id": "D031.note:substantive-content",
+        "evidence_id": "E147.s07"
+      },
+      {
+        "decision_id": "D031.note:form-or-indication",
+        "evidence_id": "EFootnotes.note:form-or-indication"
+      },
+      {
+        "decision_id": "D031.note:form-or-indication",
+        "evidence_id": "E147.s07"
+      },
+      {
+        "decision_id": "D031.note:chinese-grammatical-form",
+        "evidence_id": "EFootnotes.note:chinese-grammatical-form"
+      },
+      {
+        "decision_id": "D031.note:chinese-grammatical-form",
+        "evidence_id": "E147.s08"
+      },
+      {
+        "decision_id": "D031.note:historical-chinese-transcription",
+        "evidence_id": "EFootnotes.note:historical-chinese-transcription"
+      },
+      {
+        "decision_id": "D031.note:historical-chinese-transcription",
+        "evidence_id": "E147.s14"
+      },
+      {
+        "decision_id": "D031.note:remusat-citation",
+        "evidence_id": "EFootnotes.note:remusat-citation"
+      },
+      {
+        "decision_id": "D031.note:remusat-citation",
+        "evidence_id": "E147.s15"
+      },
+      {
+        "decision_id": "D031.note:editor-remusat-page",
+        "evidence_id": "EFootnotes.note:editor-remusat-page"
+      },
+      {
+        "decision_id": "D031.note:editor-remusat-page",
+        "evidence_id": "E147.s15"
+      },
+      {
+        "decision_id": "D031.note:citation-number-context",
+        "evidence_id": "EFootnotes.note:citation-number-context"
+      },
+      {
+        "decision_id": "D031.note:citation-number-context",
+        "evidence_id": "E147.s15"
+      },
+      {
+        "decision_id": "D031.guide:guide-1",
+        "evidence_id": "EFootnotes.guide:guide-1"
+      },
+      {
+        "decision_id": "D031.guide:guide-1",
+        "evidence_id": "EIntro.source:p5:s2"
+      },
+      {
+        "decision_id": "D031.guide:guide-1",
+        "evidence_id": "EIntro.source:p7:s6"
+      },
+      {
+        "decision_id": "D031.guide:guide-1",
+        "evidence_id": "EPartI.source:p14:s2"
+      },
+      {
+        "decision_id": "D031.guide:guide-2",
+        "evidence_id": "EFootnotes.guide:guide-2"
+      },
+      {
+        "decision_id": "D031.guide:guide-2",
+        "evidence_id": "EPartI.source:p11:s3"
+      },
+      {
+        "decision_id": "D031.guide:guide-2",
+        "evidence_id": "EPartI.source:p12:s1"
+      },
+      {
+        "decision_id": "D031.guide:guide-2",
+        "evidence_id": "EPartI.source:p12:s2"
+      },
+      {
+        "decision_id": "D031.guide:guide-3",
+        "evidence_id": "EFootnotes.guide:guide-3"
+      },
+      {
+        "decision_id": "D031.guide:guide-3",
+        "evidence_id": "EPartI.source:p9:s2"
+      },
+      {
+        "decision_id": "D031.guide:guide-3",
+        "evidence_id": "EPartI.source:p10:s1"
+      },
+      {
+        "decision_id": "D031.guide:guide-3",
+        "evidence_id": "EPartI.source:p14:s2"
+      },
+      {
+        "decision_id": "D031.guide:guide-4",
+        "evidence_id": "EFootnotes.guide:guide-4"
+      },
+      {
+        "decision_id": "D031.guide:guide-4",
+        "evidence_id": "EPartI.source:p9:s6"
+      },
+      {
+        "decision_id": "D031.guide:guide-5",
+        "evidence_id": "EFootnotes.guide:guide-5"
+      },
+      {
+        "decision_id": "D031.guide:guide-5",
+        "evidence_id": "EPartI.source:p13:s4"
+      },
+      {
+        "decision_id": "D031.guide:guide-5",
+        "evidence_id": "E147.s07"
+      },
+      {
+        "decision_id": "D031.guide:guide-6",
+        "evidence_id": "EFootnotes.guide:guide-6"
+      },
+      {
+        "decision_id": "D031.guide:guide-6",
+        "evidence_id": "EPartI.source:p10:s3"
+      },
+      {
+        "decision_id": "D031.guide:guide-7",
+        "evidence_id": "EFootnotes.guide:guide-7"
+      },
+      {
+        "decision_id": "D031.guide:guide-7",
+        "evidence_id": "EPartI.source:p14:s3"
+      },
+      {
+        "decision_id": "D031.guide:guide-7",
+        "evidence_id": "E147.s03"
+      },
+      {
+        "decision_id": "D031.guide:guide-7",
+        "evidence_id": "E147.s04"
+      },
+      {
+        "decision_id": "D031.guide:guide-8",
+        "evidence_id": "EFootnotes.guide:guide-8"
+      },
+      {
+        "decision_id": "D031.guide:guide-8",
+        "evidence_id": "E147.s07"
+      },
+      {
+        "decision_id": "D031.guide:guide-8",
+        "evidence_id": "E147.s13"
+      },
+      {
+        "decision_id": "D031.guide:guide-8",
+        "evidence_id": "E147.s17"
+      },
+      {
+        "decision_id": "D031.guide:guide-9",
+        "evidence_id": "EFootnotes.guide:guide-9"
+      },
+      {
+        "decision_id": "D031.guide:guide-9",
+        "evidence_id": "E147.s11"
+      },
+      {
+        "decision_id": "D031.guide:guide-9",
+        "evidence_id": "E147.s09"
+      },
+      {
+        "decision_id": "D031.guide:guide-9",
+        "evidence_id": "E147.s10"
+      },
+      {
+        "decision_id": "D031.note:english-gender",
+        "evidence_id": "EFootnotes.source:danish"
+      }
+    ],
+    "evidence": [
+      {
+        "claim_status": "bounded_source_support_not_full_example_certification",
+        "excerpt": "",
+        "id": "EFootnotes.source:parks",
+        "locator": "/sources/parks; https://www.parcs.canada.ca/lhn-nhs/nl/meadows/culture; Discovery of the Site and Initial Excavations (1960–1968), paragraphs1–3",
+        "quote_status": "source_consultation_record_not_verbatim_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Full page text read through web tool. Norse settlement around1000 and discovery in1960; does not establish a linguistic influence on American languages."
+      },
+      {
+        "claim_status": "bounded_source_support_not_full_example_certification",
+        "excerpt": "The hieroglyphic writing system of the Maya is logosyllabic",
+        "id": "EFootnotes.source:maya",
+        "locator": "/sources/maya; https://www.slub-dresden.de/en/explore/manuscripts/the-dresden-maya-codex/deciphering; Description of the logosyllabic writing system",
+        "quote_status": "primary_site_excerpt",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Primary-site search-index excerpt read; live page opened but follow-up retrieval timed out. No complete page reread is claimed. Maya writing includes word signs and syllable signs; non-alphabetic does not mean unwritten."
+      },
+      {
+        "claim_status": "bounded_source_support_not_full_example_certification",
+        "excerpt": "we use pronouns and possessive determiners to show gender",
+        "id": "EFootnotes.source:gender",
+        "locator": "/sources/gender; https://dictionary.cambridge.org/grammar/british-grammar/gender; Opening contrast between nouns and pronouns/possessive determiners",
+        "quote_status": "primary_site_excerpt",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Primary-site search-index excerpt read; direct page access returned403. No full-page inspection is claimed. English marks gender in pronouns/possessives although nouns are not commonly gender-marked; does not establish Humboldt’s intended restriction."
+      },
+      {
+        "claim_status": "bounded_source_support_not_full_example_certification",
+        "excerpt": "",
+        "id": "EFootnotes.source:germanic",
+        "locator": "/sources/germanic; https://lrc.la.utexas.edu/books/pgmc/5-syntax; 5.5 Expression of Voice: Middle and Passive Constructions",
+        "quote_status": "source_consultation_record_not_verbatim_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Relevant full section read through web tool. Inflected passives in Gothic and auxiliary passive constructions in Old High German; does not settle the intended extension of Humboldt’s Deutschen."
+      },
+      {
+        "claim_status": "bounded_source_support_not_full_example_certification",
+        "excerpt": "",
+        "id": "EFootnotes.source:greek",
+        "locator": "/sources/greek; https://grammars.alpheios.net/smyth/xhtml/body.1_div1.4_div2.16.html; §§1099–1102",
+        "quote_status": "source_consultation_record_not_verbatim_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Relevant full article-origin discussion read through web tool; §195 also read separately. Demonstrative uses of Greek article forms and emerging article uses in Homer; does not establish a direct Indic-to-Greek derivation. §195 describes the dual but does not by itself establish its later disappearance."
+      },
+      {
+        "claim_status": "bounded_source_support_not_full_example_certification",
+        "excerpt": "",
+        "id": "EFootnotes.source:coptic",
+        "locator": "/sources/coptic; https://cdn.suscopts.org/files/deacons/coptic/introductory-sahidic-coptic-grammar_john-martin-plumley-1948.pdf; §§197–197a, PDF p.32 (zero-based page31)",
+        "quote_status": "source_consultation_record_not_verbatim_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Relevant full text read through web tool; hosted transcription of the grammar, not a newly collated 1948 print. Circumstantial clauses correspond to participles or temporal clauses in Greek/English; examples include Mt26:40. This supports a functional comparison, not certification of Humboldt’s precise intended Coptic construction."
+      },
+      {
+        "claim_status": "bounded_source_support_not_full_example_certification",
+        "excerpt": "",
+        "id": "EFootnotes.source:danish",
+        "locator": "/sources/danish; https://sproget.dk/passiverne-frikendes/; 28 January2016; discussion of the s-passive",
+        "quote_status": "source_consultation_record_not_verbatim_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Full page read through web tool. Existence of a Danish s-passive; no correction is warranted on that limited point. Not a comprehensive morphological audit."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "[Summary of the 1906 editor’s note.] The editor reports a manuscript of 148 half-written folio pages in the Royal Library in Berlin and notes Steinthal’s use of selected passages in his edition of Humboldt’s language-philosophical works.",
+        "id": "EFootnotes.note:source-manuscript",
+        "locator": "/notes/0",
+        "quote_status": "attributed_source_note_translation_or_summary",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Preserve the separately authored source note; its1906 location report is historical."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "“Down to subjugation by Europeans” adopts the temporal reading of German bis auf. “Except for subjugation by Europeans” remains possible; that reading would make subjugation an exception to the claim of freedom from foreign influence.",
+        "id": "EFootnotes.note:subjugation-scope",
+        "locator": "/notes/1",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Expose the consequential temporal/exceptive alternative already recorded in the opening audit."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "The Norse settlement at L’Anse aux Meadows, dating from around 1000 and discovered in 1960, supplies archaeological evidence of pre-Columbian European presence. This qualifies the picture of isolation; it does not by itself establish an influence on American languages. See [Parks Canada](https://www.parcs.canada.ca/lhn-nhs/nl/meadows/culture).",
+        "id": "EFootnotes.note:american-contact",
+        "locator": "/notes/2",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Qualify an overbroad picture of isolation without turning settlement evidence into a linguistic-contact claim."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "“In the languages themselves” interprets a German pronoun that can also refer to the nations. The later “them all” likewise leaves open whether nations or languages are placed on the asserted scale.",
+        "id": "EFootnotes.note:nations-or-languages",
+        "locator": "/notes/3",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Do not let the English completion silently settle a consequential source antecedent."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "Alphabetic writing is only one kind of writing. Maya script combines word signs and syllable signs; absence of an alphabet therefore does not establish absence of writing. “Literature in the proper sense” and the scale of a “lower level” express Humboldt’s evaluative criterion. See [SLUB Dresden](https://www.slub-dresden.de/en/explore/manuscripts/the-dresden-maya-codex/deciphering).",
+        "id": "EFootnotes.note:writing-and-literature",
+        "locator": "/notes/4",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Distinguish the alphabetic claim from an absence-of-writing inference and identify the author’s evaluation."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "“The most important parts” is taken to mean parts of the presentation. The German possessive also permits parts of the individual languages; its form does not settle the reference.",
+        "id": "EFootnotes.note:parts-of-presentation",
+        "locator": "/notes/5",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Retain the consequential alternative omitted from the aggregate reader notes."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "The German Lautbezeichnung can concern designation through sounds or the specification of those sounds. The present rendering follows the former reading; the latter remains possible.",
+        "id": "EFootnotes.note:sound-designation",
+        "locator": "/notes/6",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. The alternative affects what is omitted from the proposed general presentation."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "Humboldt’s larger American project remained unfinished, although he left substantial grammatical studies, including a Nahuatl grammar (modern manuscript-based edition, 1994). The Nahuatl dictionary, published in 2000, was conceived by Humboldt but compiled and revised chiefly by Eduard Buschmann, who continued the work after Humboldt’s death. See [Drechsel 2024, chapters 7–8](https://doi.org/10.1017/9781108966801) and [Trabant 2002, §4.2](https://shesl.org/trabant-legs-intempestif/).",
+        "id": "EFootnotes.note:american-publication",
+        "locator": "/notes/7",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Retain the already approved substantive historical footnote."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "“Idioms” here means individual languages or varieties, rather than idiomatic expressions.",
+        "id": "EFootnotes.note:idiom",
+        "locator": "/notes/8",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Explain a historically unfamiliar use at its first occurrence."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "The earlier analogy makes individual languages species under the genus of human language. Here each language is itself called a “new genus”: the German repeats Gattung. This apparent shift in classificatory level is retained; “new kind” is another possible reading.",
+        "id": "EFootnotes.note:genus-shift",
+        "locator": "/notes/9",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Expose an apparent source terminological shift instead of silently harmonizing it."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "English distinguishes he, she and it, although nouns are not commonly marked for gender. Humboldt’s claim is therefore too broad if read as excluding every gender distinction; a restriction to nominal gender is possible but is not explicit here. See [English Grammar Today](https://dictionary.cambridge.org/grammar/british-grammar/gender).",
+        "id": "EFootnotes.note:english-gender",
+        "locator": "/notes/10",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Give a concrete qualification, while keeping the intended scope of the historical claim unresolved."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "Coptic circumstantial clauses can do work rendered by participles in Greek or English: for example, “He found them sleeping” (Matthew 26:40). See [Plumley, §§197–197a](https://cdn.suscopts.org/files/deacons/coptic/introductory-sahidic-coptic-grammar_john-martin-plumley-1948.pdf); this supports the functional comparison without identifying Humboldt’s precise intended construction.",
+        "id": "EFootnotes.note:coptic-participle-comparison",
+        "locator": "/notes/11",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Explain the unfamiliar example through attested usage while distinguishing that evidence from adjudication of Humboldt’s exact analysis."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "Greek article forms retain demonstrative uses in Homer alongside emerging article uses; see [Smyth, §§1099–1102](https://grammars.alpheios.net/smyth/xhtml/body.1_div1.4_div2.16.html). The comparison here does not establish a direct derivation of Greek from an Indian language.",
+        "id": "EFootnotes.note:greek-article-development",
+        "locator": "/notes/12",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Clarify the demonstrative/article comparison without silently accepting a linear Indic-to-Greek descent."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "Inflected passive forms are attested in Gothic; Old High German has passive constructions with auxiliaries. “German” is retained here; a broader historical use for Germanic may be intended. See [Lehmann, §5.5](https://lrc.la.utexas.edu/books/pgmc/5-syntax).",
+        "id": "EFootnotes.note:historical-german-passive",
+        "locator": "/notes/13",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Identify the historical scope problem without asserting that Humboldt’s precise intended referent is settled."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "“System of languages” takes the German Sprachsystem in the classificatory context of passage 8. “System of language,” referring to language’s internal organization, is another possible reading.",
+        "id": "EFootnotes.note:system-of-languages",
+        "locator": "/notes/14",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. The alternative changes what is being compared with natural systems."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "The German leaves the noun unexpressed. “Forms” is supplied from the preceding “fixed form”; “thoughts” is also possible.",
+        "id": "EFootnotes.note:thought-other-forms",
+        "locator": "/notes/15",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Make a consequential completion of the German ellipsis visible."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "A “period” here is an extended, articulated sentence, rather than a full stop. Periodenbau concerns its construction or structure.",
+        "id": "EFootnotes.note:period",
+        "locator": "/notes/16",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Prevent the everyday punctuation sense from obscuring the argument."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "“Basic sounds” (Grundlaute) leaves open whether elementary speech sounds or root-like sound formations are in view; it is not a substitution of the modern term phonemes.",
+        "id": "EFootnotes.note:basic-sounds",
+        "locator": "/notes/17",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Retain the consequential elementary-sound/root-sound alternative."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "In passage 5, “true individuality” was tied to specific designation by sounds; here individuality is felt in the language’s working as a whole. The German uses Individualität in both places. These different emphases are retained without imposing a fixed opposition between individuality, distinctive character and character.",
+        "id": "EFootnotes.note:individuality-across-passages",
+        "locator": "/notes/18",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Flag variation in the source’s use of the same central term without declaring contextual variation an established contradiction."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "“Its” takes the language as the referent. The German also permits “their working together,” referring to the causes, technical means and purpose just listed.",
+        "id": "EFootnotes.note:joint-working",
+        "locator": "/notes/19",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. The alternative changes what is said to work together."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "“Substantive” here means conceptual content as opposed to relation, rather than “noun.” The German Sach- vocabulary recurs in words for concept, word and meaning below.",
+        "id": "EFootnotes.note:substantive-content",
+        "locator": "/notes/20",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Disambiguate an English technical false friend that affects the contrast."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "“The grammatical form” supplies the referent of German sie. “The indication” is also grammatically possible; the surrounding discussion favours the form as the chosen reading.",
+        "id": "EFootnotes.note:form-or-indication",
+        "locator": "/notes/21",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. The pronoun alternative affects what is brought into language."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "“Grammatical form” has the restricted sense defined above. The argument distinguishes a grammatical relation from its formal designation; it explicitly allows Chinese verbs to be recognized through habitual use in the following sentences.",
+        "id": "EFootnotes.note:chinese-grammatical-form",
+        "locator": "/notes/22",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Prevent a claim about formal marking from being read as a denial that Chinese has verbs."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "The form ì reproduces the historical transcription in the print. No Chinese character or modern pinyin equivalent is supplied here.",
+        "id": "EFootnotes.note:historical-chinese-transcription",
+        "locator": "/notes/23",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Prevent the historical romanization from being read as a modern transcription standard."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "*Lettre sur le génie de la langue Chinoise à Monsieur Abel Remusat* [*Letter on the character of the Chinese language to Monsieur Abel Remusat*], p. 22. 98.",
+        "id": "EFootnotes.note:remusat-citation",
+        "locator": "/notes/24",
+        "quote_status": "attributed_source_note_translation_or_summary",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Translate the complete author’s source note, retaining the unexplained terminal number."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "[On Humboldt’s preceding citation:] Cf. above, p. 268.",
+        "id": "EFootnotes.note:editor-remusat-page",
+        "locator": "/notes/25",
+        "quote_status": "attributed_source_note_translation_or_summary",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Preserve the1906 editor’s separate cross-reference and its relation to the author’s citation."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "The unexplained terminal “98.” is retained from Humboldt’s note. The editor’s page 268 belongs to the 1906 German volume, rather than this English reading.",
+        "id": "EFootnotes.note:citation-number-context",
+        "locator": "/notes/26",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Keep the retained numeral and edition-specific page reference intelligible without inventing their meaning."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "These expressions can overlap. The present passages do not establish an invariant three-way technical division; passages 5 and 14 place different emphases on Individualität.",
+        "id": "EFootnotes.guide:guide-1",
+        "locator": "/term_guide/0",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Recurring local terminology; not a certified universal equivalence."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "Procedure concerns how a language employs and coordinates its means; constituents are the grammatical and lexical components. Passage 12 expressly makes the opposition non-rigid.",
+        "id": "EFootnotes.guide:guide-2",
+        "locator": "/term_guide/1",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Recurring local terminology; not a certified universal equivalence."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "Activity in 9 renders Verrichtung in contrast to a stock of material; operation or working renders Wirken. Their joint-working sense is important, but no fixed philosophical opposition between these English words is asserted.",
+        "id": "EFootnotes.guide:guide-3",
+        "locator": "/term_guide/2",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Recurring local terminology; not a certified universal equivalence."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "Passage 9 uses three distinct words: making a boundary, the determination it contains, and the restriction thereby made possible. Cancels renders aufhebt without fixing a later philosophical doctrine.",
+        "id": "EFootnotes.guide:guide-4",
+        "locator": "/term_guide/3",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Recurring local terminology; not a certified universal equivalence."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "The inherited English uses soul for Seele in 13 and mind for it in 147; that English variation does not establish a German lexical contrast. Geist and Seele are not assigned an invariant division into separate faculties here. The main text is preserved in this annotation pass.",
+        "id": "EFootnotes.guide:guide-5",
+        "locator": "/term_guide/4",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Recurring local terminology; not a certified universal equivalence."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "The compressed phrase in 10 concerns mental and sonic character. Manner of sound leaves open its historical range; it does not designate a musical key or a modern tone-language class.",
+        "id": "EFootnotes.guide:guide-6",
+        "locator": "/term_guide/5",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Recurring local terminology; not a certified universal equivalence."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "The distinctions are local: 14 contrasts apprehended living individuality with knowledge obtained by analysis; 147 contrasts speakers’ apprehension with what is audibly marked. No uniform English substitution settles their philosophical relations.",
+        "id": "EFootnotes.guide:guide-7",
+        "locator": "/term_guide/6",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Recurring local terminology; not a certified universal equivalence."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "The contrast in 147 concerns conceptual content and grammatical relations. Substantive does not mean noun, and relational word is not imposed as a universal modern word-class label.",
+        "id": "EFootnotes.guide:guide-8",
+        "locator": "/term_guide/7",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Recurring local terminology; not a certified universal equivalence."
+      },
+      {
+        "claim_status": "provisional_editorial_annotation",
+        "excerpt": "Noun is the working English label for the Latin Nomen in 147; its precise historical extension remains unsettled. The examples describe a word’s use as a noun or a verb, without establishing a modern category-membership test.",
+        "id": "EFootnotes.guide:guide-9",
+        "locator": "/term_guide/8",
+        "quote_status": "translator_editorial_prose_not_Humboldt_quotation",
+        "source_path": "translations/annotated/notes.json",
+        "source_sha256": "9a4d841d6c3a00f10e9e92b16461eba7633b1a787d6dc2ec1291a862137d6f40",
+        "statement": "Coordinator application of the approved footnoting policy; linked source/English interpretation, English note review pending. Recurring local terminology; not a certified universal equivalence."
+      }
+    ],
+    "unit_decision": [
+      {
+        "decision_id": "D031.note:source-manuscript",
+        "unit_id": "g:s1"
+      },
+      {
+        "decision_id": "D031.note:source-manuscript",
+        "unit_id": "intro:p1:clarified:s1"
+      },
+      {
+        "decision_id": "D031.note:subjugation-scope",
+        "unit_id": "g:s6"
+      },
+      {
+        "decision_id": "D031.note:subjugation-scope",
+        "unit_id": "intro:p1:clarified:s6"
+      },
+      {
+        "decision_id": "D031.note:american-contact",
+        "unit_id": "g:s6"
+      },
+      {
+        "decision_id": "D031.note:american-contact",
+        "unit_id": "intro:p1:clarified:s6"
+      },
+      {
+        "decision_id": "D031.note:nations-or-languages",
+        "unit_id": "g2:s2"
+      },
+      {
+        "decision_id": "D031.note:nations-or-languages",
+        "unit_id": "en2-revised-v2:g2:s2"
+      },
+      {
+        "decision_id": "D031.note:writing-and-literature",
+        "unit_id": "g2:s2"
+      },
+      {
+        "decision_id": "D031.note:writing-and-literature",
+        "unit_id": "en2-revised-v2:g2:s2"
+      },
+      {
+        "decision_id": "D031.note:parts-of-presentation",
+        "unit_id": "p5:de:s2"
+      },
+      {
+        "decision_id": "D031.note:parts-of-presentation",
+        "unit_id": "p5:revised:s2"
+      },
+      {
+        "decision_id": "D031.note:sound-designation",
+        "unit_id": "p5:de:s2"
+      },
+      {
+        "decision_id": "D031.note:sound-designation",
+        "unit_id": "p5:revised:s2"
+      },
+      {
+        "decision_id": "D031.note:american-publication",
+        "unit_id": "p6:de:s2"
+      },
+      {
+        "decision_id": "D031.note:american-publication",
+        "unit_id": "p6:revised:s2"
+      },
+      {
+        "decision_id": "D031.note:idiom",
+        "unit_id": "p7:de:s1"
+      },
+      {
+        "decision_id": "D031.note:idiom",
+        "unit_id": "p7:revised:s1"
+      },
+      {
+        "decision_id": "D031.note:genus-shift",
+        "unit_id": "p7:de:s6"
+      },
+      {
+        "decision_id": "D031.note:genus-shift",
+        "unit_id": "p7:revised:s6"
+      },
+      {
+        "decision_id": "D031.note:genus-shift",
+        "unit_id": "p7:de:s1"
+      },
+      {
+        "decision_id": "D031.note:genus-shift",
+        "unit_id": "p7:revised:s1"
+      },
+      {
+        "decision_id": "D031.note:genus-shift",
+        "unit_id": "p8:de:s1"
+      },
+      {
+        "decision_id": "D031.note:genus-shift",
+        "unit_id": "p8:revised:s1"
+      },
+      {
+        "decision_id": "D031.note:english-gender",
+        "unit_id": "p8:de:s5"
+      },
+      {
+        "decision_id": "D031.note:english-gender",
+        "unit_id": "p8:revised:s5"
+      },
+      {
+        "decision_id": "D031.note:coptic-participle-comparison",
+        "unit_id": "p8:de:s10"
+      },
+      {
+        "decision_id": "D031.note:coptic-participle-comparison",
+        "unit_id": "p8:revised:s10"
+      },
+      {
+        "decision_id": "D031.note:greek-article-development",
+        "unit_id": "p8:de:s10"
+      },
+      {
+        "decision_id": "D031.note:greek-article-development",
+        "unit_id": "p8:revised:s10"
+      },
+      {
+        "decision_id": "D031.note:historical-german-passive",
+        "unit_id": "p8:de:s10"
+      },
+      {
+        "decision_id": "D031.note:historical-german-passive",
+        "unit_id": "p8:revised:s10"
+      },
+      {
+        "decision_id": "D031.note:system-of-languages",
+        "unit_id": "p9:de:s1"
+      },
+      {
+        "decision_id": "D031.note:system-of-languages",
+        "unit_id": "p9:revised:s1"
+      },
+      {
+        "decision_id": "D031.note:thought-other-forms",
+        "unit_id": "p9:de:s5"
+      },
+      {
+        "decision_id": "D031.note:thought-other-forms",
+        "unit_id": "p9:revised:s5"
+      },
+      {
+        "decision_id": "D031.note:period",
+        "unit_id": "p11:de:s8"
+      },
+      {
+        "decision_id": "D031.note:period",
+        "unit_id": "p11:revised:s8"
+      },
+      {
+        "decision_id": "D031.note:basic-sounds",
+        "unit_id": "p11:de:s9"
+      },
+      {
+        "decision_id": "D031.note:basic-sounds",
+        "unit_id": "p11:revised:s9"
+      },
+      {
+        "decision_id": "D031.note:individuality-across-passages",
+        "unit_id": "p14:de:s2"
+      },
+      {
+        "decision_id": "D031.note:individuality-across-passages",
+        "unit_id": "p14:revised:s2"
+      },
+      {
+        "decision_id": "D031.note:individuality-across-passages",
+        "unit_id": "p5:de:s2"
+      },
+      {
+        "decision_id": "D031.note:individuality-across-passages",
+        "unit_id": "p5:revised:s2"
+      },
+      {
+        "decision_id": "D031.note:joint-working",
+        "unit_id": "p14:de:s2"
+      },
+      {
+        "decision_id": "D031.note:joint-working",
+        "unit_id": "p14:revised:s2"
+      },
+      {
+        "decision_id": "D031.note:substantive-content",
+        "unit_id": "difficult-147-de-v1:s07"
+      },
+      {
+        "decision_id": "D031.note:substantive-content",
+        "unit_id": "en147-revised-v2:s07"
+      },
+      {
+        "decision_id": "D031.note:form-or-indication",
+        "unit_id": "difficult-147-de-v1:s07"
+      },
+      {
+        "decision_id": "D031.note:form-or-indication",
+        "unit_id": "en147-revised-v2:s07"
+      },
+      {
+        "decision_id": "D031.note:chinese-grammatical-form",
+        "unit_id": "difficult-147-de-v1:s08"
+      },
+      {
+        "decision_id": "D031.note:chinese-grammatical-form",
+        "unit_id": "en147-revised-v2:s08"
+      },
+      {
+        "decision_id": "D031.note:historical-chinese-transcription",
+        "unit_id": "difficult-147-de-v1:s14"
+      },
+      {
+        "decision_id": "D031.note:historical-chinese-transcription",
+        "unit_id": "en147-revised-v2:s14"
+      },
+      {
+        "decision_id": "D031.note:remusat-citation",
+        "unit_id": "difficult-147-de-v1:s15"
+      },
+      {
+        "decision_id": "D031.note:remusat-citation",
+        "unit_id": "en147-revised-v2:s15"
+      },
+      {
+        "decision_id": "D031.note:editor-remusat-page",
+        "unit_id": "difficult-147-de-v1:s15"
+      },
+      {
+        "decision_id": "D031.note:editor-remusat-page",
+        "unit_id": "en147-revised-v2:s15"
+      },
+      {
+        "decision_id": "D031.note:citation-number-context",
+        "unit_id": "difficult-147-de-v1:s15"
+      },
+      {
+        "decision_id": "D031.note:citation-number-context",
+        "unit_id": "en147-revised-v2:s15"
+      },
+      {
+        "decision_id": "D031.guide:guide-1",
+        "unit_id": "p5:de:s2"
+      },
+      {
+        "decision_id": "D031.guide:guide-1",
+        "unit_id": "p5:revised:s2"
+      },
+      {
+        "decision_id": "D031.guide:guide-1",
+        "unit_id": "p7:de:s6"
+      },
+      {
+        "decision_id": "D031.guide:guide-1",
+        "unit_id": "p7:revised:s6"
+      },
+      {
+        "decision_id": "D031.guide:guide-1",
+        "unit_id": "p14:de:s2"
+      },
+      {
+        "decision_id": "D031.guide:guide-1",
+        "unit_id": "p14:revised:s2"
+      },
+      {
+        "decision_id": "D031.guide:guide-2",
+        "unit_id": "p11:de:s3"
+      },
+      {
+        "decision_id": "D031.guide:guide-2",
+        "unit_id": "p11:revised:s3"
+      },
+      {
+        "decision_id": "D031.guide:guide-2",
+        "unit_id": "p12:de:s1"
+      },
+      {
+        "decision_id": "D031.guide:guide-2",
+        "unit_id": "p12:revised:s1"
+      },
+      {
+        "decision_id": "D031.guide:guide-2",
+        "unit_id": "p12:de:s2"
+      },
+      {
+        "decision_id": "D031.guide:guide-2",
+        "unit_id": "p12:revised:s2"
+      },
+      {
+        "decision_id": "D031.guide:guide-3",
+        "unit_id": "p9:de:s2"
+      },
+      {
+        "decision_id": "D031.guide:guide-3",
+        "unit_id": "p9:revised:s2"
+      },
+      {
+        "decision_id": "D031.guide:guide-3",
+        "unit_id": "p10:de:s1"
+      },
+      {
+        "decision_id": "D031.guide:guide-3",
+        "unit_id": "p10:revised:s1"
+      },
+      {
+        "decision_id": "D031.guide:guide-3",
+        "unit_id": "p14:de:s2"
+      },
+      {
+        "decision_id": "D031.guide:guide-3",
+        "unit_id": "p14:revised:s2"
+      },
+      {
+        "decision_id": "D031.guide:guide-4",
+        "unit_id": "p9:de:s6"
+      },
+      {
+        "decision_id": "D031.guide:guide-4",
+        "unit_id": "p9:revised:s6"
+      },
+      {
+        "decision_id": "D031.guide:guide-5",
+        "unit_id": "p13:de:s4"
+      },
+      {
+        "decision_id": "D031.guide:guide-5",
+        "unit_id": "p13:revised:s4"
+      },
+      {
+        "decision_id": "D031.guide:guide-5",
+        "unit_id": "difficult-147-de-v1:s07"
+      },
+      {
+        "decision_id": "D031.guide:guide-5",
+        "unit_id": "en147-revised-v2:s07"
+      },
+      {
+        "decision_id": "D031.guide:guide-6",
+        "unit_id": "p10:de:s3"
+      },
+      {
+        "decision_id": "D031.guide:guide-6",
+        "unit_id": "p10:revised:s3"
+      },
+      {
+        "decision_id": "D031.guide:guide-7",
+        "unit_id": "p14:de:s3"
+      },
+      {
+        "decision_id": "D031.guide:guide-7",
+        "unit_id": "p14:revised:s3"
+      },
+      {
+        "decision_id": "D031.guide:guide-7",
+        "unit_id": "difficult-147-de-v1:s03"
+      },
+      {
+        "decision_id": "D031.guide:guide-7",
+        "unit_id": "en147-revised-v2:s03"
+      },
+      {
+        "decision_id": "D031.guide:guide-7",
+        "unit_id": "difficult-147-de-v1:s04"
+      },
+      {
+        "decision_id": "D031.guide:guide-7",
+        "unit_id": "en147-revised-v2:s04"
+      },
+      {
+        "decision_id": "D031.guide:guide-8",
+        "unit_id": "difficult-147-de-v1:s07"
+      },
+      {
+        "decision_id": "D031.guide:guide-8",
+        "unit_id": "en147-revised-v2:s07"
+      },
+      {
+        "decision_id": "D031.guide:guide-8",
+        "unit_id": "difficult-147-de-v1:s13"
+      },
+      {
+        "decision_id": "D031.guide:guide-8",
+        "unit_id": "en147-revised-v2:s13"
+      },
+      {
+        "decision_id": "D031.guide:guide-8",
+        "unit_id": "difficult-147-de-v1:s17"
+      },
+      {
+        "decision_id": "D031.guide:guide-8",
+        "unit_id": "en147-revised-v2:s17"
+      },
+      {
+        "decision_id": "D031.guide:guide-9",
+        "unit_id": "difficult-147-de-v1:s11"
+      },
+      {
+        "decision_id": "D031.guide:guide-9",
+        "unit_id": "en147-revised-v2:s11"
+      },
+      {
+        "decision_id": "D031.guide:guide-9",
+        "unit_id": "difficult-147-de-v1:s09"
+      },
+      {
+        "decision_id": "D031.guide:guide-9",
+        "unit_id": "en147-revised-v2:s09"
+      },
+      {
+        "decision_id": "D031.guide:guide-9",
+        "unit_id": "difficult-147-de-v1:s10"
+      },
+      {
+        "decision_id": "D031.guide:guide-9",
+        "unit_id": "en147-revised-v2:s10"
+      }
+    ],
+    "unit_evidence": [
+      {
+        "evidence_id": "EFootnotes.note:source-manuscript",
+        "unit_id": "g:s1"
+      },
+      {
+        "evidence_id": "EFootnotes.note:source-manuscript",
+        "unit_id": "intro:p1:clarified:s1"
+      },
+      {
+        "evidence_id": "EFootnotes.note:subjugation-scope",
+        "unit_id": "g:s6"
+      },
+      {
+        "evidence_id": "EFootnotes.note:subjugation-scope",
+        "unit_id": "intro:p1:clarified:s6"
+      },
+      {
+        "evidence_id": "EFootnotes.note:american-contact",
+        "unit_id": "g:s6"
+      },
+      {
+        "evidence_id": "EFootnotes.note:american-contact",
+        "unit_id": "intro:p1:clarified:s6"
+      },
+      {
+        "evidence_id": "EFootnotes.note:nations-or-languages",
+        "unit_id": "g2:s2"
+      },
+      {
+        "evidence_id": "EFootnotes.note:nations-or-languages",
+        "unit_id": "en2-revised-v2:g2:s2"
+      },
+      {
+        "evidence_id": "EFootnotes.note:writing-and-literature",
+        "unit_id": "g2:s2"
+      },
+      {
+        "evidence_id": "EFootnotes.note:writing-and-literature",
+        "unit_id": "en2-revised-v2:g2:s2"
+      },
+      {
+        "evidence_id": "EFootnotes.note:parts-of-presentation",
+        "unit_id": "p5:de:s2"
+      },
+      {
+        "evidence_id": "EFootnotes.note:parts-of-presentation",
+        "unit_id": "p5:revised:s2"
+      },
+      {
+        "evidence_id": "EFootnotes.note:sound-designation",
+        "unit_id": "p5:de:s2"
+      },
+      {
+        "evidence_id": "EFootnotes.note:sound-designation",
+        "unit_id": "p5:revised:s2"
+      },
+      {
+        "evidence_id": "EFootnotes.note:american-publication",
+        "unit_id": "p6:de:s2"
+      },
+      {
+        "evidence_id": "EFootnotes.note:american-publication",
+        "unit_id": "p6:revised:s2"
+      },
+      {
+        "evidence_id": "EFootnotes.note:idiom",
+        "unit_id": "p7:de:s1"
+      },
+      {
+        "evidence_id": "EFootnotes.note:idiom",
+        "unit_id": "p7:revised:s1"
+      },
+      {
+        "evidence_id": "EFootnotes.note:genus-shift",
+        "unit_id": "p7:de:s6"
+      },
+      {
+        "evidence_id": "EFootnotes.note:genus-shift",
+        "unit_id": "p7:revised:s6"
+      },
+      {
+        "evidence_id": "EFootnotes.note:genus-shift",
+        "unit_id": "p7:de:s1"
+      },
+      {
+        "evidence_id": "EFootnotes.note:genus-shift",
+        "unit_id": "p7:revised:s1"
+      },
+      {
+        "evidence_id": "EFootnotes.note:genus-shift",
+        "unit_id": "p8:de:s1"
+      },
+      {
+        "evidence_id": "EFootnotes.note:genus-shift",
+        "unit_id": "p8:revised:s1"
+      },
+      {
+        "evidence_id": "EFootnotes.note:english-gender",
+        "unit_id": "p8:de:s5"
+      },
+      {
+        "evidence_id": "EFootnotes.note:english-gender",
+        "unit_id": "p8:revised:s5"
+      },
+      {
+        "evidence_id": "EFootnotes.note:coptic-participle-comparison",
+        "unit_id": "p8:de:s10"
+      },
+      {
+        "evidence_id": "EFootnotes.note:coptic-participle-comparison",
+        "unit_id": "p8:revised:s10"
+      },
+      {
+        "evidence_id": "EFootnotes.note:greek-article-development",
+        "unit_id": "p8:de:s10"
+      },
+      {
+        "evidence_id": "EFootnotes.note:greek-article-development",
+        "unit_id": "p8:revised:s10"
+      },
+      {
+        "evidence_id": "EFootnotes.note:historical-german-passive",
+        "unit_id": "p8:de:s10"
+      },
+      {
+        "evidence_id": "EFootnotes.note:historical-german-passive",
+        "unit_id": "p8:revised:s10"
+      },
+      {
+        "evidence_id": "EFootnotes.note:system-of-languages",
+        "unit_id": "p9:de:s1"
+      },
+      {
+        "evidence_id": "EFootnotes.note:system-of-languages",
+        "unit_id": "p9:revised:s1"
+      },
+      {
+        "evidence_id": "EFootnotes.note:thought-other-forms",
+        "unit_id": "p9:de:s5"
+      },
+      {
+        "evidence_id": "EFootnotes.note:thought-other-forms",
+        "unit_id": "p9:revised:s5"
+      },
+      {
+        "evidence_id": "EFootnotes.note:period",
+        "unit_id": "p11:de:s8"
+      },
+      {
+        "evidence_id": "EFootnotes.note:period",
+        "unit_id": "p11:revised:s8"
+      },
+      {
+        "evidence_id": "EFootnotes.note:basic-sounds",
+        "unit_id": "p11:de:s9"
+      },
+      {
+        "evidence_id": "EFootnotes.note:basic-sounds",
+        "unit_id": "p11:revised:s9"
+      },
+      {
+        "evidence_id": "EFootnotes.note:individuality-across-passages",
+        "unit_id": "p14:de:s2"
+      },
+      {
+        "evidence_id": "EFootnotes.note:individuality-across-passages",
+        "unit_id": "p14:revised:s2"
+      },
+      {
+        "evidence_id": "EFootnotes.note:individuality-across-passages",
+        "unit_id": "p5:de:s2"
+      },
+      {
+        "evidence_id": "EFootnotes.note:individuality-across-passages",
+        "unit_id": "p5:revised:s2"
+      },
+      {
+        "evidence_id": "EFootnotes.note:joint-working",
+        "unit_id": "p14:de:s2"
+      },
+      {
+        "evidence_id": "EFootnotes.note:joint-working",
+        "unit_id": "p14:revised:s2"
+      },
+      {
+        "evidence_id": "EFootnotes.note:substantive-content",
+        "unit_id": "difficult-147-de-v1:s07"
+      },
+      {
+        "evidence_id": "EFootnotes.note:substantive-content",
+        "unit_id": "en147-revised-v2:s07"
+      },
+      {
+        "evidence_id": "EFootnotes.note:form-or-indication",
+        "unit_id": "difficult-147-de-v1:s07"
+      },
+      {
+        "evidence_id": "EFootnotes.note:form-or-indication",
+        "unit_id": "en147-revised-v2:s07"
+      },
+      {
+        "evidence_id": "EFootnotes.note:chinese-grammatical-form",
+        "unit_id": "difficult-147-de-v1:s08"
+      },
+      {
+        "evidence_id": "EFootnotes.note:chinese-grammatical-form",
+        "unit_id": "en147-revised-v2:s08"
+      },
+      {
+        "evidence_id": "EFootnotes.note:historical-chinese-transcription",
+        "unit_id": "difficult-147-de-v1:s14"
+      },
+      {
+        "evidence_id": "EFootnotes.note:historical-chinese-transcription",
+        "unit_id": "en147-revised-v2:s14"
+      },
+      {
+        "evidence_id": "EFootnotes.note:remusat-citation",
+        "unit_id": "difficult-147-de-v1:s15"
+      },
+      {
+        "evidence_id": "EFootnotes.note:remusat-citation",
+        "unit_id": "en147-revised-v2:s15"
+      },
+      {
+        "evidence_id": "EFootnotes.note:editor-remusat-page",
+        "unit_id": "difficult-147-de-v1:s15"
+      },
+      {
+        "evidence_id": "EFootnotes.note:editor-remusat-page",
+        "unit_id": "en147-revised-v2:s15"
+      },
+      {
+        "evidence_id": "EFootnotes.note:citation-number-context",
+        "unit_id": "difficult-147-de-v1:s15"
+      },
+      {
+        "evidence_id": "EFootnotes.note:citation-number-context",
+        "unit_id": "en147-revised-v2:s15"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-1",
+        "unit_id": "p5:de:s2"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-1",
+        "unit_id": "p5:revised:s2"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-1",
+        "unit_id": "p7:de:s6"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-1",
+        "unit_id": "p7:revised:s6"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-1",
+        "unit_id": "p14:de:s2"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-1",
+        "unit_id": "p14:revised:s2"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-2",
+        "unit_id": "p11:de:s3"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-2",
+        "unit_id": "p11:revised:s3"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-2",
+        "unit_id": "p12:de:s1"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-2",
+        "unit_id": "p12:revised:s1"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-2",
+        "unit_id": "p12:de:s2"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-2",
+        "unit_id": "p12:revised:s2"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-3",
+        "unit_id": "p9:de:s2"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-3",
+        "unit_id": "p9:revised:s2"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-3",
+        "unit_id": "p10:de:s1"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-3",
+        "unit_id": "p10:revised:s1"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-3",
+        "unit_id": "p14:de:s2"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-3",
+        "unit_id": "p14:revised:s2"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-4",
+        "unit_id": "p9:de:s6"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-4",
+        "unit_id": "p9:revised:s6"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-5",
+        "unit_id": "p13:de:s4"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-5",
+        "unit_id": "p13:revised:s4"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-5",
+        "unit_id": "difficult-147-de-v1:s07"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-5",
+        "unit_id": "en147-revised-v2:s07"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-6",
+        "unit_id": "p10:de:s3"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-6",
+        "unit_id": "p10:revised:s3"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-7",
+        "unit_id": "p14:de:s3"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-7",
+        "unit_id": "p14:revised:s3"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-7",
+        "unit_id": "difficult-147-de-v1:s03"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-7",
+        "unit_id": "en147-revised-v2:s03"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-7",
+        "unit_id": "difficult-147-de-v1:s04"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-7",
+        "unit_id": "en147-revised-v2:s04"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-8",
+        "unit_id": "difficult-147-de-v1:s07"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-8",
+        "unit_id": "en147-revised-v2:s07"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-8",
+        "unit_id": "difficult-147-de-v1:s13"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-8",
+        "unit_id": "en147-revised-v2:s13"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-8",
+        "unit_id": "difficult-147-de-v1:s17"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-8",
+        "unit_id": "en147-revised-v2:s17"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-9",
+        "unit_id": "difficult-147-de-v1:s11"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-9",
+        "unit_id": "en147-revised-v2:s11"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-9",
+        "unit_id": "difficult-147-de-v1:s09"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-9",
+        "unit_id": "en147-revised-v2:s09"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-9",
+        "unit_id": "difficult-147-de-v1:s10"
+      },
+      {
+        "evidence_id": "EFootnotes.guide:guide-9",
+        "unit_id": "en147-revised-v2:s10"
+      }
+    ]
+  }
+}
