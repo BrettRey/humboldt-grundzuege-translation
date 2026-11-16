@@ -67,6 +67,8 @@
   "format_follow_up": {
     "user_question": "what do you think of the footnotes format? Should we also use Arabic & Roman along side (Ed)?",
     "coordinator_recommendation": "One Arabic sequence with explicit authorship labels. If two sequences are chosen, use Arabic for Humboldt and lowercase Roman for added notes; retain labels to distinguish1906 editor from translator.",
-    "status": "under discussion; no format approval inferred"
+    "status": "confirmed by Brett",
+    "user_confirmation": "ok, keep one Arabic sequence",
+    "recorded_at": "2026-11-16T21:05:34.029443+00:00"
   }
 }
