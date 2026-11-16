@@ -6,6 +6,8 @@ Use the [workflow by section](docs/translation-workflow.md): production and Engl
 
 Use Python 3.11 or newer. Run `./humboldt test` for synthetic, generated and real-corpus regression checks. `./humboldt test --legacy` additionally requires local source holdings and historical snapshots. Run `./humboldt validate` before proposing data changes; available original attachments can be checked with `--sources`.
 
+Follow the [footnoting policy](docs/footnoting-policy.md): reserve local footnotes for consequential reading problems, use the glossary/commentary for recurring explanations and preserve the complete translation record in the linked apparatus.
+
 Keep source transcription, proposed analysis, English alternatives, editorial commentary and verification status distinct. Check a new source passage against its scan. Cite the printed page, PDF page and scan leaf separately. Consult the conditional termbase rather than imposing one English equivalent per German word. English readability feedback does not establish German fidelity.
 
 For record corrections, download a proposal draft through the reader or use the CLI. Include a reason and existing evidence IDs where applicable. Send drafts to the maintainer; one authoritative copy appends the journal. Do not merge independent journal files or edit/renumber old events. New passages and reviewed apparatus are imported as data. Text corrections create new versions and preserve old readings and links.

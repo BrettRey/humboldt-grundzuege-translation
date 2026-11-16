@@ -1,4 +1,5 @@
 # Translation workflow by section
+<!-- SUMMARY: Section-level translation, independent audits, linked records and reader-facing notes · status: current under D021 and D026 · updated: 2026-11-16 -->
 
 Brett approved work by the printed sections and waived a separate planning review in D021. The earlier 500–1,000-word proposal is superseded. `AGENTS.md` and the original workflow proposal remain historical artifacts.
 
@@ -28,5 +29,7 @@ The opening-material ranges collect everything between printed headings; they ar
 4. Obtain two fresh audits of the entire section’s checked German and proposed English, including argument and terminology across its numbered passages. Require every source sentence to be accounted for and retain individual findings, severity judgments and dispositions.
 5. Revise once against the source. Existing text changes create attributed new versions; old bodies and links remain available. Declare new semantic correspondence explicitly. Preserve unresolved alternatives and source-status qualifications.
 6. Import through the generic edition format. Validate each prepared import, then perform regression, preservation, reader and publication checks at the section checkpoint. Avoid repeating a full production cycle or human handoff for each numbered passage.
+
+Apply the [footnoting policy](footnoting-policy.md) at each section checkpoint: selective reader-facing notes, recurring explanations in the glossary/commentary, and full provenance in the linked apparatus. Check factual additions against cited evidence and keep authorial,1906-editor and translator notes distinct. The policy applies routinely within approved translation work; retrofitting existing sections is a separate bounded task.
 
 Brett’s review concerns English readability and editorial usefulness. It does not certify German fidelity. Existing source, privacy, publication and spending boundaries continue. The next reviewable artifact is the completed section, not another workflow plan.

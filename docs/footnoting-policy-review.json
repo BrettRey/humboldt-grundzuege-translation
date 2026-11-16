@@ -1,0 +1,26 @@
+{
+  "document": "docs/footnoting-policy.md",
+  "status": "adopted after completed review",
+  "reviewed_document": "docs/footnoting-policy-draft.md",
+  "reviewed_sha256": "77e27944295a5dd09d58d003ce1173e0b5f464bba141c07289bda6dc03cb0fa1",
+  "opened_bytes": 8040,
+  "saved_bytes": 8040,
+  "review_body_preserved": true,
+  "reviewed_copy_unchanged": true,
+  "feedback": {
+    "completion": "Explicit user message",
+    "message": "done",
+    "inline_comments": 0,
+    "insertions": 0,
+    "deletions": 0,
+    "substitutions": 0,
+    "highlights": 0,
+    "overall_comments": 0
+  },
+  "recorded_at": "2026-11-16T20:44:38.089542+00:00",
+  "recorded_by": "Codex",
+  "adoption_basis": "Brett requested development of the policy and completed review without edits; coordinator records the reviewed policy as adopted.",
+  "finalization": "Only title, adoption status, operative tense and review-record links changed after review; policy substance unchanged.",
+  "adopted_sha256": "3c3193aa74b2b8d0c4ccb3f2da092a567baf2a293c214e7106a11ebe71906ff2",
+  "scope": "Routine annotation within subsequent approved translation work. No retrofitting, new translation, software change or completion of other document reviews is inferred."
+}
