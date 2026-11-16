@@ -1,5 +1,5 @@
 # Humboldt: Grundzüge des allgemeinen Sprachtypus
-<!-- SUMMARY: Part I opening translated and audited; footnoting policy revised after feedback · status: passages8–15, Introduction and §147 English review pending · updated: 2026-11-16 -->
+<!-- SUMMARY: Part I opening translated and audited; footnoting policy approved with feedback · status: passages8–15, Introduction and §147 English review pending · updated: 2026-11-16 -->
 
 Software is available under [MIT](LICENSE); original translation and editorial content use [CC BY 4.0](LICENSE-CONTENT), with [public-domain and third-party exclusions](NOTICE.md). See [CONTRIBUTING.md](CONTRIBUTING.md) for the current contributor workflow. This is an AI-assisted provisional research translation; its source and validation limits remain explicit below.
 
@@ -9,7 +9,7 @@ The complete [opening of Part I, numbered passages8–15](translations/part-i-op
 
 The complete [Introduction, numbered passages1–7](translations/introduction/revised.md), is ready for English review as one editorial unit. [Its comparison](translations/introduction/comparison.md) records three source-only candidates for the new6–7 translation, two fresh audits covering all38 section sentences, and27 dispositions. Whole-work German OCR was supplied as labelled background. Two source-based clarifications in1 and4 use new versions; every earlier body remains available. The reported cancellation status remains explicit. See the [workflow by section](docs/translation-workflow.md); numbered passages retain precise citation IDs, while production and human review follow the printed sections.
 
-The [footnoting policy](docs/footnoting-policy.md) distinguishes local reader-facing explanations, recurring glossary/commentary material and the full linked scholarly apparatus. It has been revised after recovered browser feedback; the new error-note rule and attribution labels await review. Existing reading copies await a separate application.
+The [footnoting policy](docs/footnoting-policy.md) distinguishes local reader-facing explanations, recurring glossary/commentary material and the full linked scholarly apparatus. It is approved with the recovered browser feedback incorporated, including the error-note rule and explicit attribution labels. Existing reading copies await a separate application.
 
 The edition now has a shared Python engine, durable record bundles and a local reader. Start with the [user and contributor guide](docs/architecture/user-guide.md) to build, search, follow word/span evidence, propose corrections or add another passage as data. The [data contract](docs/architecture/data-contract.md) explains permanent IDs, versions and revision history; the [verification report](docs/architecture/verification.md) records preservation and portability checks. Historical builders and snapshots remain available for reproduction.
 

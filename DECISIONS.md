@@ -232,3 +232,9 @@ The public Reynolds–Evans Jespersen edition’s localcommands.tex44–45 defin
 ## D028 — Keep one Arabic footnote sequence (16 November 2026)
 
 **Owner:** Brett confirmed **“ok, keep one Arabic sequence.”** Retain a single Arabic-numbered sequence with explicit note-attribution labels; do not add a parallel Roman sequence. This settles the numbering choice only. It does not complete the revised policy review, approve the precise attribution wording or clear other open document reviews. The policy body already proposes one Arabic sequence and remains untouched during review.
+
+## D029 — Approve the revised footnoting policy (2026-11-16)
+
+**Owner:** Brett confirmed **“everything looks good”** after the recovered comments were incorporated and the single Arabic sequence was confirmed. Treat this as explicit approval of the revised policy, including the substantive-error note rule and (Humboldt), (1906 Ed.) and (Trans.) attribution labels. The10692-byte revised file matches its opening baseline, with no additional disk CriticMarkup; no Roughdraft tab was present in the checked Firefox window. The prior browser comments and insertion remain preserved, and no new claim of comment-free review is made. See the [review record](docs/footnoting-policy-review.json).
+
+Finalize status and operative tense, retain every substantive rule and all earlier review evidence, and link the approved policy from the workflow and contributor guides. Apply it routinely within subsequent approved translation work. Approval does not close the Introduction or Part I English reviews, authorize retrofitting earlier translations or authorize another section. The original draft, recovered feedback, translation bodies, edition data, journal and frozen AGENTS.md remain unchanged.

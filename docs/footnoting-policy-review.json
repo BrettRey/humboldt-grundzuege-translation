@@ -1,6 +1,6 @@
 {
   "document": "docs/footnoting-policy.md",
-  "status": "revised after recovered browser feedback; review of new wording pending",
+  "status": "approved after recovered browser feedback was incorporated",
   "original_draft": "docs/footnoting-policy-draft.md",
   "original_draft_sha256": "77e27944295a5dd09d58d003ce1173e0b5f464bba141c07289bda6dc03cb0fa1",
   "disk_baseline_intact": true,
@@ -17,26 +17,26 @@
   "dispositions": [
     {
       "feedback_id": "browser-terminology",
-      "status": "incorporated",
+      "status": "incorporated in policy approved by Brett",
       "resolution": "Flag apparent terminological inconsistency after contextual checks; avoid English synonyms used merely for stylistic variety; preserve recoverable source variation."
     },
     {
       "feedback_id": "browser-spelling",
-      "status": "incorporated",
+      "status": "incorporated in policy approved by Brett",
       "resolution": "Oxford spelling throughout original English prose, preserving source quotation/title spelling."
     },
     {
       "feedback_id": "browser-clear-errors",
-      "status": "proposed answer incorporated; wording awaiting review",
+      "status": "incorporated in policy approved by Brett",
       "resolution": "Footnote demonstrable substantive factual, linguistic or logical errors even where peripheral; distinguish suspected errors and minor misprints."
     },
     {
       "feedback_id": "browser-note-attribution",
-      "status": "Jespersen practice verified; adapted labels awaiting review",
+      "status": "incorporated in policy approved by Brett",
       "resolution": "Jespersen uses ordinary editorial footnotes ending (Eds.). Propose one Arabic sequence with (Humboldt), (1906 Ed.) and (Trans.) labels for this edition."
     }
   ],
-  "current_document_sha256": "b9c6b720507fd5e14dcb065edad6f7429e7bbe10028ea2887c58fb675875e0f0",
+  "current_document_sha256": "f31503d00281d2c18aaf29fa52ebe1e6a41713ffd07dab128c08254378ffe89f",
   "prior_assessment_superseded": {
     "document": "docs/footnoting-policy.md",
     "status": "adopted after completed review",
@@ -70,5 +70,25 @@
     "status": "confirmed by Brett",
     "user_confirmation": "ok, keep one Arabic sequence",
     "recorded_at": "2026-11-16T21:05:34.029443+00:00"
+  },
+  "reviewed_revised_document_sha256": "b9c6b720507fd5e14dcb065edad6f7429e7bbe10028ea2887c58fb675875e0f0",
+  "final_approval": {
+    "user": "Brett Reynolds",
+    "message": "everything looks good",
+    "completion": "Explicit user approval; no CLI completion event is claimed",
+    "recorded_at": "2026-11-16T21:34:43.955617+00:00",
+    "opened_bytes": 10692,
+    "saved_bytes": 10692,
+    "saved_body_matches_review_baseline": true,
+    "additional_disk_criticmarkup": {
+      "comments": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "substitutions": 0,
+      "highlights": 0
+    },
+    "browser_check": "No Roughdraft tab was present in the checked Firefox window. The previously recovered3 comments and1 insertion remain preserved; an unchanged file alone is not treated as evidence of no browser feedback.",
+    "scope": "Approves the revised footnoting policy, including the error-note rule and explicit attribution labels. Does not complete other document reviews or authorize a translation retrofit or another section.",
+    "finalization": "Only policy status and operative tense changed after approval; no substantive rule changed."
   }
 }

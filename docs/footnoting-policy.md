@@ -1,7 +1,7 @@
 # Footnoting policy
-<!-- SUMMARY: Reader-facing annotation policy revised from recovered browser feedback · status: revised wording awaiting review; existing translations await a separate application · updated: 2026-11-16 -->
+<!-- SUMMARY: Reader-facing annotation policy revised from recovered browser feedback · status: approved after recovered-feedback review; existing translations await a separate application · updated: 2026-11-16 -->
 
-**Review update:** This revision incorporates the browser comments that were absent from the saved draft. The earlier record of comment-free adoption is superseded. The error-note rule and explicit attribution labels below respond to the questions in that feedback; see the [corrected review record](footnoting-policy-review.json).
+**Status:** Approved after the recovered browser feedback was incorporated. See the [review record](footnoting-policy-review.json) for the feedback, its dispositions and final approval.
 
 ## Purpose and reader
 
@@ -68,7 +68,7 @@ A sample reader-facing note for passage9 is:
 
 Give each note a stable identifier, separate from its displayed number. Attach it to the existing German and English sentence/span IDs; retain its text, authorship, citations, evidence and review status in the edition records. Keep superseded versions available. Check a note’s attachment when the translation changes; matching character positions alone do not establish that it still belongs there. Use the existing annotation and revision mechanisms; this policy requires no new database architecture.
 
-At each section checkpoint, check notes with the main text for accuracy, necessity, placement, duplication and accessibility. Source-check factual additions and verify that interpretive notes describe the actual alternatives fairly. Brett’s review assesses English clarity and usefulness; it does not certify German fidelity. The spelling and consistency instructions above are Brett’s explicit preferences. This revised policy’s error rule and attribution wording await review; after confirmation, apply them within subsequent approved translation work without a separate permission request for every note. Retrofitting existing sections remains a distinct, bounded application.
+At each section checkpoint, check notes with the main text for accuracy, necessity, placement, duplication and accessibility. Source-check factual additions and verify that interpretive notes describe the actual alternatives fairly. Brett’s review assesses English clarity and usefulness; it does not certify German fidelity. Apply this policy within subsequent approved translation work without a separate permission request for every note. Retrofitting existing sections remains a distinct, bounded application.
 
 ## Existing examples and supporting records
 

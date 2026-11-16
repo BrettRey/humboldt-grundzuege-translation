@@ -6,7 +6,7 @@ Use the [workflow by section](docs/translation-workflow.md): production and Engl
 
 Use Python 3.11 or newer. Run `./humboldt test` for synthetic, generated and real-corpus regression checks. `./humboldt test --legacy` additionally requires local source holdings and historical snapshots. Run `./humboldt validate` before proposing data changes; available original attachments can be checked with `--sources`.
 
-Use Oxford spelling in original English prose and avoid synonyms introduced merely for stylistic variety. The [footnoting policy](docs/footnoting-policy.md), revised after browser feedback, separates local reader explanations, recurring glossary/commentary and the full scholarly apparatus; its new error and attribution wording is awaiting review.
+Use Oxford spelling in original English prose and avoid synonyms introduced merely for stylistic variety. Follow the approved [footnoting policy](docs/footnoting-policy.md) for local reader explanations, recurring glossary/commentary, the full scholarly apparatus, substantive-error notes and explicit note-attribution labels.
 
 Keep source transcription, proposed analysis, English alternatives, editorial commentary and verification status distinct. Check a new source passage against its scan. Cite the printed page, PDF page and scan leaf separately. Consult the conditional termbase rather than imposing one English equivalent per German word. English readability feedback does not establish German fidelity.
 
