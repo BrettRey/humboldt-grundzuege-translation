@@ -1,0 +1,116 @@
+{
+  "section": "4",
+  "frozen_at": "2026-11-16T01:31:36.288706+00:00",
+  "packet_sha256": "10442b0959051d3b463aeadd4f3d0eea3e31c5c3b7e0e3ff350e20cfa6454c95",
+  "candidates": [
+    {
+      "sentences": [
+        {
+          "source_id": "p4:s1",
+          "english": "For a time I wavered between two plans: whether to let the publication of the individual grammars and dictionaries come first, or the presentation of the general conclusions drawn from the investigations into the individual languages."
+        },
+        {
+          "source_id": "p4:s2",
+          "english": "This latter procedure has the disadvantage that the reader, for whom the aids to the study of the individual languages must first be created, given the scarcity and the often very inconvenient arrangement of those that exist, is in a position to test the correctness of the general assertions only very incompletely."
+        },
+        {
+          "source_id": "p4:s3",
+          "english": "But I was deterred from the former procedure by the protractedness of the task, and by the length of time that, given the difficulty of publishing such writings, would necessarily have had to elapse over it."
+        }
+      ],
+      "notes": [
+        {
+          "source_id": "p4:s1",
+          "issue": "\"zwischen dem doppelten Plane\" is a singular noun phrase (literally \"between the double/twofold plan\"), rendered here as \"between two plans\"; the two alternatives are kept in source order so that \"latter\" (s2) and \"former\" (s3) resolve correctly.",
+          "alternatives": [
+            "I wavered for a time over a twofold plan",
+            "I hesitated for a while between the two alternative plans"
+          ]
+        },
+        {
+          "source_id": "p4:s1",
+          "issue": "\"Herausgabe\" can mean publication, issuing or editing; \"publication\" is chosen here and the same sense is kept in s3. \"Darstellung\" is rendered \"presentation\".",
+          "alternatives": [
+            "the editing of the individual grammars and dictionaries",
+            "the issuing of the individual grammars and dictionaries",
+            "the exposition / account of the general conclusions"
+          ]
+        },
+        {
+          "source_id": "p4:s2",
+          "issue": "\"Hülfsmittel\" is rendered \"aids\" (the same word as in the preceding §3 context); \"Einrichtung\" refers to how the existing aids are arranged or organised; \"der vorhandenen\" is elliptical for the existing aids.",
+          "alternatives": [
+            "resources for the study of the individual languages",
+            "the often very inconvenient layout / organisation of the existing ones"
+          ]
+        },
+        {
+          "source_id": "p4:s2",
+          "issue": "\"erst geschaffen werden müssen\" is read as \"must first be created\" (i.e. such aids do not yet adequately exist for the reader); \"erst\" could also carry the nuance \"have yet to be created\". \"Behauptungen\" is rendered \"assertions\".",
+          "alternatives": [
+            "for whom the aids ... have yet to be created",
+            "the correctness of the general claims"
+          ]
+        },
+        {
+          "source_id": "p4:s3",
+          "issue": "\"Allein\" is the adversative conjunction (\"but / however\"), not \"alone\". \"Geschäft\" is rendered \"task\" (not commercial \"business\"). \"darüber\" is rendered \"over it\", i.e. over that undertaking; it could also be taken more loosely as \"in the meantime\". The counterfactual \"hätte ... verfliessen müssen\" is preserved, as are the two coordinated deterrents (the protractedness of the task, and the lapse of time).",
+          "alternatives": [
+            "However, the tediousness / lengthiness of the undertaking ... deterred me from the former course",
+            "the length of time that would necessarily have had to pass in the meantime",
+            "given the difficulty of bringing out / editing such works"
+          ]
+        }
+      ],
+      "source_status_acknowledged": true,
+      "id": "claude",
+      "models": [
+        "claude-fable-5-2"
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "source_id": "p4:s1",
+          "english": "For a time I wavered between the two plans of letting either the publication of the individual grammars and dictionaries, or the presentation of the general conclusions drawn from the researches into the individual languages, come first."
+        },
+        {
+          "source_id": "p4:s2",
+          "english": "This latter procedure has the disadvantage that the reader, for whom the aids to the study of the individual languages must first be created, given the rarity and the often very inconvenient arrangement of those that exist, is able to test the correctness of the general assertions only very incompletely."
+        },
+        {
+          "source_id": "p4:s3",
+          "english": "Yet I was deterred from the former procedure by the protracted nature of the undertaking, and by the length of time which, given the difficulty of publishing such writings, would necessarily have had to elapse over it."
+        }
+      ],
+      "notes": [],
+      "source_status_acknowledged": true,
+      "id": "muse",
+      "models": [
+        "muse-wonder-full-1.0"
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "source_id": "p4:s1",
+          "english": "For a time I wavered between two plans: to let the publication of the individual grammars and dictionaries come first, or to begin with a presentation of the general conclusions drawn from research on the individual languages."
+        },
+        {
+          "source_id": "p4:s2",
+          "english": "This latter procedure has the disadvantage that the reader—for whom aids to studying the individual languages must first be created, given the scarcity and often very inconvenient arrangement of those available—is able to examine the correctness of the general assertions only very incompletely."
+        },
+        {
+          "source_id": "p4:s3",
+          "english": "Yet I was deterred from the former procedure by the protracted nature of the undertaking and the length of time that would necessarily have elapsed in carrying it out, given the difficulty of publishing such works."
+        }
+      ],
+      "notes": [],
+      "source_status_acknowledged": true,
+      "id": "codex",
+      "models": [
+        "gpt-6.1-sol"
+      ]
+    }
+  ]
+}

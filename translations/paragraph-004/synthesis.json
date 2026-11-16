@@ -1,0 +1,20 @@
+{
+  "section": "4",
+  "stage": "coordinator pre-audit synthesis",
+  "sentences": [
+    {
+      "source_id": "p4:s1",
+      "english": "For a time I wavered between two plans: publishing the individual grammars and dictionaries first, or first presenting the general conclusions drawn from research into the individual languages."
+    },
+    {
+      "source_id": "p4:s2",
+      "english": "The latter course has the disadvantage that the reader can check the correctness of the general claims only very imperfectly. The resources needed for studying the individual languages must first be created for the reader, since those available are scarce and often very inconveniently arranged."
+    },
+    {
+      "source_id": "p4:s3",
+      "english": "But I was deterred from the former course by the lengthy nature of the undertaking and the length of time that carrying it out would necessarily have required, given the difficulty of publishing such works."
+    }
+  ],
+  "frozen_at": "2026-11-16T01:32:03.292434+00:00",
+  "candidates_sha256": "14cd702d765a78d4e66b3c254d735663ded6827b2a2639a9d84724ec9537572e"
+}

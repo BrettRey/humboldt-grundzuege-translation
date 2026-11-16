@@ -1,0 +1,1184 @@
+{
+  "format": "humboldt.passage",
+  "id": "passage-0004",
+  "layouts": [
+    {
+      "analysis_id": "p4:de:layout-v1",
+      "label": "§4",
+      "paragraph_id": "p4:de:p",
+      "segments": [
+        {
+          "id": "p4:de:s1",
+          "kind": "sentence",
+          "label": "§4 source sentence 1",
+          "text": "Ich habe eine Zeitlang zwischen dem doppelten Plane geschwankt, die Herausgabe der einzelnen Grammatiken und Wörterbücher, oder die Darstellung der aus den Forschungen über die einzelnen Sprachen gezogenen allgemeinen Folgerungen vorangehen zu lassen."
+        },
+        {
+          "id": "p4:de:s2",
+          "kind": "sentence",
+          "label": "§4 source sentence 2",
+          "text": "Dies letztere Verfahren hat den Nachtheil, dass der Leser, dem die Hülfsmittel zu dem Studium der einzelnen Sprachen, bei der Seltenheit und der oft sehr unbequemen Einrichtung der vorhandenen, erst geschaffen werden müssen, die Richtigkeit der allgemeinen Behauptungen nur sehr unvollständig zu prüfen im Stande ist."
+        },
+        {
+          "id": "p4:de:s3",
+          "kind": "sentence",
+          "label": "§4 source sentence 3",
+          "text": "Allein von dem ersteren Verfahren hat mich die Langwierigkeit des Geschäfts, und die Dauer der Zeit, die nothwendig bei der Schwierigkeit der Herausgabe solcher Schriften hätte darüber verfliessen müssen, abgeschreckt."
+        }
+      ],
+      "version_id": "grundzuege-004-v1"
+    },
+    {
+      "analysis_id": "p4:claude:layout-v1",
+      "label": "§4",
+      "paragraph_id": "p4:claude:p",
+      "segments": [
+        {
+          "id": "p4:claude:s1",
+          "kind": "rendering",
+          "label": "§4 claude rendering 1",
+          "source_units": [
+            "p4:de:s1"
+          ],
+          "text": "For a time I wavered between two plans: whether to let the publication of the individual grammars and dictionaries come first, or the presentation of the general conclusions drawn from the investigations into the individual languages."
+        },
+        {
+          "id": "p4:claude:s2",
+          "kind": "rendering",
+          "label": "§4 claude rendering 2",
+          "source_units": [
+            "p4:de:s2"
+          ],
+          "text": "This latter procedure has the disadvantage that the reader, for whom the aids to the study of the individual languages must first be created, given the scarcity and the often very inconvenient arrangement of those that exist, is in a position to test the correctness of the general assertions only very incompletely."
+        },
+        {
+          "id": "p4:claude:s3",
+          "kind": "rendering",
+          "label": "§4 claude rendering 3",
+          "source_units": [
+            "p4:de:s3"
+          ],
+          "text": "But I was deterred from the former procedure by the protractedness of the task, and by the length of time that, given the difficulty of publishing such writings, would necessarily have had to elapse over it."
+        }
+      ],
+      "source_version": "grundzuege-004-v1",
+      "version_id": "en4-claude-v1"
+    },
+    {
+      "analysis_id": "p4:muse:layout-v1",
+      "label": "§4",
+      "paragraph_id": "p4:muse:p",
+      "segments": [
+        {
+          "id": "p4:muse:s1",
+          "kind": "rendering",
+          "label": "§4 muse rendering 1",
+          "source_units": [
+            "p4:de:s1"
+          ],
+          "text": "For a time I wavered between the two plans of letting either the publication of the individual grammars and dictionaries, or the presentation of the general conclusions drawn from the researches into the individual languages, come first."
+        },
+        {
+          "id": "p4:muse:s2",
+          "kind": "rendering",
+          "label": "§4 muse rendering 2",
+          "source_units": [
+            "p4:de:s2"
+          ],
+          "text": "This latter procedure has the disadvantage that the reader, for whom the aids to the study of the individual languages must first be created, given the rarity and the often very inconvenient arrangement of those that exist, is able to test the correctness of the general assertions only very incompletely."
+        },
+        {
+          "id": "p4:muse:s3",
+          "kind": "rendering",
+          "label": "§4 muse rendering 3",
+          "source_units": [
+            "p4:de:s3"
+          ],
+          "text": "Yet I was deterred from the former procedure by the protracted nature of the undertaking, and by the length of time which, given the difficulty of publishing such writings, would necessarily have had to elapse over it."
+        }
+      ],
+      "source_version": "grundzuege-004-v1",
+      "version_id": "en4-muse-v1"
+    },
+    {
+      "analysis_id": "p4:codex:layout-v1",
+      "label": "§4",
+      "paragraph_id": "p4:codex:p",
+      "segments": [
+        {
+          "id": "p4:codex:s1",
+          "kind": "rendering",
+          "label": "§4 codex rendering 1",
+          "source_units": [
+            "p4:de:s1"
+          ],
+          "text": "For a time I wavered between two plans: to let the publication of the individual grammars and dictionaries come first, or to begin with a presentation of the general conclusions drawn from research on the individual languages."
+        },
+        {
+          "id": "p4:codex:s2",
+          "kind": "rendering",
+          "label": "§4 codex rendering 2",
+          "source_units": [
+            "p4:de:s2"
+          ],
+          "text": "This latter procedure has the disadvantage that the reader—for whom aids to studying the individual languages must first be created, given the scarcity and often very inconvenient arrangement of those available—is able to examine the correctness of the general assertions only very incompletely."
+        },
+        {
+          "id": "p4:codex:s3",
+          "kind": "rendering",
+          "label": "§4 codex rendering 3",
+          "source_units": [
+            "p4:de:s3"
+          ],
+          "text": "Yet I was deterred from the former procedure by the protracted nature of the undertaking and the length of time that would necessarily have elapsed in carrying it out, given the difficulty of publishing such works."
+        }
+      ],
+      "source_version": "grundzuege-004-v1",
+      "version_id": "en4-codex-v1"
+    },
+    {
+      "analysis_id": "p4:synthesis:layout-v1",
+      "label": "§4",
+      "paragraph_id": "p4:synthesis:p",
+      "segments": [
+        {
+          "id": "p4:synthesis:s1",
+          "kind": "rendering",
+          "label": "§4 synthesis rendering 1",
+          "source_units": [
+            "p4:de:s1"
+          ],
+          "text": "For a time I wavered between two plans: publishing the individual grammars and dictionaries first, or first presenting the general conclusions drawn from research into the individual languages."
+        },
+        {
+          "id": "p4:synthesis:s2",
+          "kind": "rendering",
+          "label": "§4 synthesis rendering 2",
+          "source_units": [
+            "p4:de:s2"
+          ],
+          "text": "The latter course has the disadvantage that the reader can check the correctness of the general claims only very imperfectly. The resources needed for studying the individual languages must first be created for the reader, since those available are scarce and often very inconveniently arranged."
+        },
+        {
+          "id": "p4:synthesis:s3",
+          "kind": "rendering",
+          "label": "§4 synthesis rendering 3",
+          "source_units": [
+            "p4:de:s3"
+          ],
+          "text": "But I was deterred from the former course by the lengthy nature of the undertaking and the length of time that carrying it out would necessarily have required, given the difficulty of publishing such works."
+        }
+      ],
+      "source_version": "grundzuege-004-v1",
+      "version_id": "en4-synthesis-v1"
+    },
+    {
+      "analysis_id": "p4:revised:layout-v1",
+      "label": "§4",
+      "paragraph_id": "p4:revised:p",
+      "segments": [
+        {
+          "id": "p4:revised:s1",
+          "kind": "rendering",
+          "label": "§4 revised rendering 1",
+          "source_units": [
+            "p4:de:s1"
+          ],
+          "text": "For a time I wavered between two plans: publishing the individual grammars and dictionaries first, or first presenting the general conclusions drawn from the research into the individual languages."
+        },
+        {
+          "id": "p4:revised:s2",
+          "kind": "rendering",
+          "label": "§4 revised rendering 2",
+          "source_units": [
+            "p4:de:s2"
+          ],
+          "text": "The latter course has the disadvantage that the reader can check the correctness of the general claims only very incompletely: resources for studying the individual languages must first be created for them, given the rarity and often very inconvenient arrangement of those that exist."
+        },
+        {
+          "id": "p4:revised:s3",
+          "kind": "rendering",
+          "label": "§4 revised rendering 3",
+          "source_units": [
+            "p4:de:s3"
+          ],
+          "text": "But I was deterred from the former course by the protracted nature of the undertaking and the length of time that, given the difficulty of publishing such works, would necessarily have elapsed in the process."
+        }
+      ],
+      "source_version": "grundzuege-004-v1",
+      "version_id": "en4-revised-v2"
+    }
+  ],
+  "schema_version": 1,
+  "section": "4",
+  "tables": {
+    "alignment": [
+      {
+        "id": "p4:correspondence:1",
+        "left_version": "grundzuege-004-v1",
+        "note": "first publication alternative; contextual span link, not certified equivalence.",
+        "relation": "provisional_translation_correspondence",
+        "right_version": "en4-revised-v2",
+        "status": "proposed"
+      },
+      {
+        "id": "p4:correspondence:2",
+        "left_version": "grundzuege-004-v1",
+        "note": "second publication alternative; contextual span link, not certified equivalence.",
+        "relation": "provisional_translation_correspondence",
+        "right_version": "en4-revised-v2",
+        "status": "proposed"
+      },
+      {
+        "id": "p4:correspondence:3",
+        "left_version": "grundzuege-004-v1",
+        "note": "latter = conclusions first; contextual span link, not certified equivalence.",
+        "relation": "provisional_translation_correspondence",
+        "right_version": "en4-revised-v2",
+        "status": "proposed"
+      },
+      {
+        "id": "p4:correspondence:4",
+        "left_version": "grundzuege-004-v1",
+        "note": "resources, locally distinct from languages; contextual span link, not certified equivalence.",
+        "relation": "provisional_translation_correspondence",
+        "right_version": "en4-revised-v2",
+        "status": "proposed"
+      },
+      {
+        "id": "p4:correspondence:5",
+        "left_version": "grundzuege-004-v1",
+        "note": "existing resources and their arrangement; contextual span link, not certified equivalence.",
+        "relation": "provisional_translation_correspondence",
+        "right_version": "en4-revised-v2",
+        "status": "proposed"
+      },
+      {
+        "id": "p4:correspondence:6",
+        "left_version": "grundzuege-004-v1",
+        "note": "extent of reader verification; contextual span link, not certified equivalence.",
+        "relation": "provisional_translation_correspondence",
+        "right_version": "en4-revised-v2",
+        "status": "proposed"
+      },
+      {
+        "id": "p4:correspondence:7",
+        "left_version": "grundzuege-004-v1",
+        "note": "former = grammars and dictionaries first; contextual span link, not certified equivalence.",
+        "relation": "provisional_translation_correspondence",
+        "right_version": "en4-revised-v2",
+        "status": "proposed"
+      },
+      {
+        "id": "p4:correspondence:8",
+        "left_version": "grundzuege-004-v1",
+        "note": "lengthiness of undertaking; contextual span link, not certified equivalence.",
+        "relation": "provisional_translation_correspondence",
+        "right_version": "en4-revised-v2",
+        "status": "proposed"
+      },
+      {
+        "id": "p4:correspondence:9",
+        "left_version": "grundzuege-004-v1",
+        "note": "publication difficulty inside time clause; contextual span link, not certified equivalence.",
+        "relation": "provisional_translation_correspondence",
+        "right_version": "en4-revised-v2",
+        "status": "proposed"
+      },
+      {
+        "id": "p4:correspondence:10",
+        "left_version": "grundzuege-004-v1",
+        "note": "counterfactual necessary elapsed time; contextual span link, not certified equivalence.",
+        "relation": "provisional_translation_correspondence",
+        "right_version": "en4-revised-v2",
+        "status": "proposed"
+      }
+    ],
+    "alignment_member": [
+      {
+        "alignment_id": "p4:correspondence:1",
+        "side": "left",
+        "unit_id": "p4:span:1:left"
+      },
+      {
+        "alignment_id": "p4:correspondence:1",
+        "side": "right",
+        "unit_id": "p4:span:1:right"
+      },
+      {
+        "alignment_id": "p4:correspondence:2",
+        "side": "left",
+        "unit_id": "p4:span:2:left"
+      },
+      {
+        "alignment_id": "p4:correspondence:2",
+        "side": "right",
+        "unit_id": "p4:span:2:right"
+      },
+      {
+        "alignment_id": "p4:correspondence:3",
+        "side": "left",
+        "unit_id": "p4:span:3:left"
+      },
+      {
+        "alignment_id": "p4:correspondence:3",
+        "side": "right",
+        "unit_id": "p4:span:3:right"
+      },
+      {
+        "alignment_id": "p4:correspondence:4",
+        "side": "left",
+        "unit_id": "p4:span:4:left"
+      },
+      {
+        "alignment_id": "p4:correspondence:4",
+        "side": "right",
+        "unit_id": "p4:span:4:right"
+      },
+      {
+        "alignment_id": "p4:correspondence:5",
+        "side": "left",
+        "unit_id": "p4:span:5:left"
+      },
+      {
+        "alignment_id": "p4:correspondence:5",
+        "side": "right",
+        "unit_id": "p4:span:5:right"
+      },
+      {
+        "alignment_id": "p4:correspondence:6",
+        "side": "left",
+        "unit_id": "p4:span:6:left"
+      },
+      {
+        "alignment_id": "p4:correspondence:6",
+        "side": "right",
+        "unit_id": "p4:span:6:right"
+      },
+      {
+        "alignment_id": "p4:correspondence:7",
+        "side": "left",
+        "unit_id": "p4:span:7:left"
+      },
+      {
+        "alignment_id": "p4:correspondence:7",
+        "side": "right",
+        "unit_id": "p4:span:7:right"
+      },
+      {
+        "alignment_id": "p4:correspondence:8",
+        "side": "left",
+        "unit_id": "p4:span:8:left"
+      },
+      {
+        "alignment_id": "p4:correspondence:8",
+        "side": "right",
+        "unit_id": "p4:span:8:right"
+      },
+      {
+        "alignment_id": "p4:correspondence:9",
+        "side": "left",
+        "unit_id": "p4:span:9:left"
+      },
+      {
+        "alignment_id": "p4:correspondence:9",
+        "side": "right",
+        "unit_id": "p4:span:9:right"
+      },
+      {
+        "alignment_id": "p4:correspondence:10",
+        "side": "left",
+        "unit_id": "p4:span:10:left"
+      },
+      {
+        "alignment_id": "p4:correspondence:10",
+        "side": "right",
+        "unit_id": "p4:span:10:right"
+      }
+    ],
+    "decision": [
+      {
+        "authority": "coordinator under D016; English review pending",
+        "id": "D017.s1",
+        "question": "Order of presentation and publication",
+        "resolution": "Keep the two alternatives and their order explicit. Restore definite research; conclusions (Folgerungen) are distinct from the claims (Behauptungen) to be checked in sentence2.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator under D016; English review pending",
+        "id": "D017.s2",
+        "question": "Resources, reader and extent of checking",
+        "resolution": "Preserve the explanatory connection, resources still to be created for the reader, rarity and arrangement of existing resources, and only very incomplete checking. Do not turn incompleteness into total inability or defective quality.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator under D016; English review pending",
+        "id": "D017.s3",
+        "question": "Protracted undertaking and unrealized publication delay",
+        "resolution": "Keep both coordinated deterrents, the publication-difficulty adjunct within the time clause, and the counterfactual necessary lapse of time. Publishing remains locally provisional within Herausgabe’s range.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator disposition of claude audit",
+        "id": "D017.audit:claude:F1",
+        "question": "The split into two sentences turns the subordinated relative clause into a free-standing assertion with no connective. The link between the reader's inability to check and the missing aids is left to juxtaposition, and the second sentence is no longer visibly inside the stated disadvantage. The brief allows re-division only if the relations remain explicit. No propositional content is falsified, and the dative 'dem' is correctly kept as 'for the reader'.",
+        "resolution": "Join the English blocks with a colon so the need to create resources explicitly explains the limited checking within the stated disadvantage. Preserve the beneficiary through singular they referring to the reader.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator disposition of claude audit",
+        "id": "D017.audit:claude:F2",
+        "question": "Three small lexical shifts. (a) 'needed' has no counterpart in the German. (b) 'imperfectly' for 'unvollständig' moves from completeness of checking to quality of checking. (c) 'since' makes the circumstantial 'bei' fully causal, and 'scarce' (few exist) is slightly less exact than 'rare' (hard to come by) for 'Seltenheit'. None changes the claim.",
+        "resolution": "Remove the added needed; replace imperfectly with incompletely to retain extent. Use given for bei, rarity for Seltenheit and those that exist for the existing resources.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator disposition of claude audit",
+        "id": "D017.audit:claude:F3",
+        "question": "'from research into the individual languages' drops the definite article. The source points to a specific body of investigations (in context, those underlying this work); the English reads as research in general.",
+        "resolution": "Restore the definite the research, referring to the investigations underlying these conclusions, without inserting a possessor.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator disposition of claude audit",
+        "id": "D017.audit:claude:F4",
+        "question": "(a) 'that carrying it out would necessarily have required' recasts time elapsing over the business as time required by carrying it out. This resolves 'darüber' as 'in carrying it out' and loses the nuance of delay; the necessity and counterfactual are preserved. (b) The trailing 'given the difficulty of publishing such works' could be read as attaching to 'was deterred'. In the German it sits inside the relative clause and grounds why the time would necessarily have had to pass.",
+        "resolution": "Restore time elapsing in the process and place the publication-difficulty adjunct inside its relative clause. Necessarily and would have preserve the modal and unrealized temporal relation without implying that the delay actually occurred.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator disposition of muse audit",
+        "id": "D017.audit:muse:F1",
+        "question": "The split into two English sentences leaves the link between the reader's limited ability to check the claims and the need first to create study aids implicit. In the German, that need is embedded as a relative clause characterizing the reader within the single disadvantage clause.",
+        "resolution": "Use an explanatory colon joining the limited checking and resource need; the relation is explicit rather than left to sentence juxtaposition.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator disposition of muse audit",
+        "id": "D017.audit:muse:F2",
+        "question": "'Very imperfectly' suggests defective quality of checking, whereas 'sehr unvollständig' denotes the incomplete extent to which checking is possible.",
+        "resolution": "Use only very incompletely, preserving the completeness limitation rather than a claim that the checking is defective.",
+        "status": "provisional"
+      },
+      {
+        "authority": "coordinator disposition of muse audit",
+        "id": "D017.audit:muse:F3",
+        "question": "'Those available' can suggest ready availability. 'Der vorhandenen' refers more neutrally to the existing or extant aids, whose scarcity is part of the point.",
+        "resolution": "Use those that exist, referring to resources; avoid a suggestion of ready availability. Retain rarity and inconvenient arrangement.",
+        "status": "provisional"
+      }
+    ],
+    "decision_evidence": [
+      {
+        "decision_id": "D017.s1",
+        "evidence_id": "E004.source:s1"
+      },
+      {
+        "decision_id": "D017.s2",
+        "evidence_id": "E004.source:s2"
+      },
+      {
+        "decision_id": "D017.s3",
+        "evidence_id": "E004.source:s3"
+      },
+      {
+        "decision_id": "D017.audit:claude:F1",
+        "evidence_id": "E004.audit:claude"
+      },
+      {
+        "decision_id": "D017.audit:claude:F1",
+        "evidence_id": "E004.source:s2"
+      },
+      {
+        "decision_id": "D017.audit:claude:F2",
+        "evidence_id": "E004.audit:claude"
+      },
+      {
+        "decision_id": "D017.audit:claude:F2",
+        "evidence_id": "E004.source:s2"
+      },
+      {
+        "decision_id": "D017.audit:claude:F3",
+        "evidence_id": "E004.audit:claude"
+      },
+      {
+        "decision_id": "D017.audit:claude:F3",
+        "evidence_id": "E004.source:s1"
+      },
+      {
+        "decision_id": "D017.audit:claude:F4",
+        "evidence_id": "E004.audit:claude"
+      },
+      {
+        "decision_id": "D017.audit:claude:F4",
+        "evidence_id": "E004.source:s3"
+      },
+      {
+        "decision_id": "D017.audit:muse:F1",
+        "evidence_id": "E004.audit:muse"
+      },
+      {
+        "decision_id": "D017.audit:muse:F1",
+        "evidence_id": "E004.source:s2"
+      },
+      {
+        "decision_id": "D017.audit:muse:F2",
+        "evidence_id": "E004.audit:muse"
+      },
+      {
+        "decision_id": "D017.audit:muse:F2",
+        "evidence_id": "E004.source:s2"
+      },
+      {
+        "decision_id": "D017.audit:muse:F3",
+        "evidence_id": "E004.audit:muse"
+      },
+      {
+        "decision_id": "D017.audit:muse:F3",
+        "evidence_id": "E004.source:s2"
+      }
+    ],
+    "evidence": [
+      {
+        "claim_status": "provisional_printed_base",
+        "excerpt": "Ich habe eine Zeitlang zwischen dem doppelten Plane geschwankt, die Herausgabe der einzelnen Grammatiken und Wörterbücher, oder die Darstellung der aus den Forschungen über die einzelnen Sprachen gezogenen allgemeinen Folgerungen vorangehen zu lassen.",
+        "id": "E004.source:s1",
+        "locator": "printed366 / PDF376 / scan leaf378",
+        "quote_status": "coordinator_image_checked",
+        "source_path": "sources/raw/gs-v-1906.pdf",
+        "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+        "statement": "Coordinator compared the supplied sentence against the page image; provisional printed base, not manuscript collation."
+      },
+      {
+        "claim_status": "provisional_printed_base",
+        "excerpt": "Dies letztere Verfahren hat den Nachtheil, dass der Leser, dem die Hülfsmittel zu dem Studium der einzelnen Sprachen, bei der Seltenheit und der oft sehr unbequemen Einrichtung der vorhandenen, erst geschaffen werden müssen, die Richtigkeit der allgemeinen Behauptungen nur sehr unvollständig zu prüfen im Stande ist.",
+        "id": "E004.source:s2",
+        "locator": "printed366 / PDF376 / scan leaf378",
+        "quote_status": "coordinator_image_checked",
+        "source_path": "sources/raw/gs-v-1906.pdf",
+        "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+        "statement": "Coordinator compared the supplied sentence against the page image; provisional printed base, not manuscript collation."
+      },
+      {
+        "claim_status": "provisional_printed_base",
+        "excerpt": "Allein von dem ersteren Verfahren hat mich die Langwierigkeit des Geschäfts, und die Dauer der Zeit, die nothwendig bei der Schwierigkeit der Herausgabe solcher Schriften hätte darüber verfliessen müssen, abgeschreckt.",
+        "id": "E004.source:s3",
+        "locator": "printed366 / PDF376 / scan leaf378",
+        "quote_status": "coordinator_image_checked",
+        "source_path": "sources/raw/gs-v-1906.pdf",
+        "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+        "statement": "Coordinator compared the supplied sentence against the page image; provisional printed base, not manuscript collation."
+      },
+      {
+        "claim_status": "provisional_model_judgment",
+        "excerpt": "{\"coverage\": [\"p4:s1\", \"p4:s2\", \"p4:s3\"], \"verdict\": \"No material defects. All three sentences are complete, with no omissions, no substantive additions, and the former/latter referents, the Folgerungen/Behauptungen contrast (conclusions/claims) and the counterfactual modality of s3 preserved. Four minor findings follow. Only F1 touches a stated condition of the brief (relations must remain explicit when a sentence is split) and is the one I would fix before the translation is finalised; F2–F4 are optional tightenings.\", \"findings\": [{\"id\": \"F1\", \"source_id\": \"p4:s2\", \"severity\": \"minor\", \"issue\": \"The split into two sentences turns the subordinated relative clause into a free-standing assertion with no connective. The link between the reader's inability to check and the missing aids is left to juxtaposition, and the second sentence is no longer visibly inside the stated disadvantage. The brief allows re-division only if the relations remain explicit. No propositional content is falsified, and the dative 'dem' is correctly kept as 'for the reader'.\", \"source_support\": \"'dass der Leser, dem die Hülfsmittel … erst geschaffen werden müssen, die Richtigkeit … nur sehr unvollständig zu prüfen im Stande ist': a single dass-clause in which the relative clause attached to 'der Leser' gives the circumstance that explains the limited checking.\", \"proposed_fix\": \"Keep one sentence or add an explicit link, e.g. 'The latter course has the disadvantage that the reader, for whom the aids to the study of the individual languages must first be created, given the rarity and often very inconvenient arrangement of those that exist, is able to check the correctness of the general claims only very incompletely.' If two sentences are kept, open the second with 'For the resources … must first be created for the reader …'.\"}, {\"id\": \"F2\", \"source_id\": \"p4:s2\", \"severity\": \"minor\", \"issue\": \"Three small lexical shifts. (a) 'needed' has no counterpart in the German. (b) 'imperfectly' for 'unvollständig' moves from completeness of checking to quality of checking. (c) 'since' makes the circumstantial 'bei' fully causal, and 'scarce' (few exist) is slightly less exact than 'rare' (hard to come by) for 'Seltenheit'. None changes the claim.\", \"source_support\": \"'die Hülfsmittel zu dem Studium der einzelnen Sprachen' (no 'needed'); 'nur sehr unvollständig zu prüfen'; 'bei der Seltenheit und der oft sehr unbequemen Einrichtung der vorhandenen'.\", \"proposed_fix\": \"'the aids/resources for the study of the individual languages'; 'only very incompletely'; 'given the rarity and the often very inconvenient arrangement of the existing ones'.\"}, {\"id\": \"F3\", \"source_id\": \"p4:s1\", \"severity\": \"minor\", \"issue\": \"'from research into the individual languages' drops the definite article. The source points to a specific body of investigations (in context, those underlying this work); the English reads as research in general.\", \"source_support\": \"'der aus den Forschungen über die einzelnen Sprachen gezogenen allgemeinen Folgerungen': definite plural 'den Forschungen'.\", \"proposed_fix\": \"'the general conclusions drawn from the investigations into the individual languages'. Do not insert 'my'; the source does not state the possessor.\"}, {\"id\": \"F4\", \"source_id\": \"p4:s3\", \"severity\": \"minor\", \"issue\": \"(a) 'that carrying it out would necessarily have required' recasts time elapsing over the business as time required by carrying it out. This resolves 'darüber' as 'in carrying it out' and loses the nuance of delay; the necessity and counterfactual are preserved. (b) The trailing 'given the difficulty of publishing such works' could be read as attaching to 'was deterred'. In the German it sits inside the relative clause and grounds why the time would necessarily have had to pass.\", \"source_support\": \"'die Dauer der Zeit, die nothwendig bei der Schwierigkeit der Herausgabe solcher Schriften hätte darüber verfliessen müssen': 'bei der Schwierigkeit …' is inside the relative clause; 'darüber verfliessen' means 'elapse over/in the course of it'.\", \"proposed_fix\": \"'But I was deterred from the former course by the protracted nature of the task and by the length of time that, given the difficulty of publishing such works, would necessarily have had to elapse over it.'\"}], \"limitations\": \"Audited only against the German in the packet. I did not consult the PDF, verify the hashes or the Leitzmann page references, or assess the Drechsel cancellation report; the question of authorial finality is untouched. No outside research, tools or additional reviewers were used, as instructed; the session's built-in advisor review was therefore deliberately not invoked. Unresolved alternatives, not counted as defects: (1) 'Herausgabe' can mean publishing or editing/issuing; 'publishing' is defensible and consistent across s1 and s3, but the editorial sense cannot be excluded from this paragraph alone. (2) 'erst' in 'erst geschaffen werden müssen' can be sequential ('first') or 'have yet to be'; both give the same sense here. (3) 'Hülfsmittel' as 'resources' is acceptable; 'aids' is closer, and the word recurs in §3 for Humboldt's own source materials, so consistency with the rest of the translation cannot be checked from this packet. (4) 'Langwierigkeit' also carries a sense of wearisomeness; 'lengthy nature' gives the primary sense but sits close to 'length of time' in the same sentence, a near-redundancy that is also present in the German. (5) 'two plans' for 'dem doppelten Plane' (literally 'the twofold plan') is an idiomatic normalisation with no change of meaning. Severity ratings are my judgement on a minor/moderate/major scale, as the brief supplies no rubric.\", \"coverage_detail\": [{\"source_id\": \"p4:s1\", \"checked\": true, \"result\": \"accurate; one minor definiteness point (F3)\"}, {\"source_id\": \"p4:s2\", \"checked\": true, \"result\": \"content complete; one structural finding (F1) and one minor lexical addition (F2)\"}, {\"source_id\": \"p4:s3\", \"checked\": true, \"result\": \"accurate in substance; one minor paraphrase/attachment point (F4)\"}], \"auditor\": \"claude\", \"models\": [\"claude-fable-5-2\"]}",
+        "id": "E004.audit:claude",
+        "locator": "claude-fable-5-2 audit of the pre-revision synthesis",
+        "quote_status": "model_audit_record",
+        "source_path": "translations/paragraph-004/audits.json",
+        "source_sha256": "a629a80abf1cd5a15798dab7ccaa249395b321f9462337a70500c13cc143d550",
+        "statement": "Model audit of supplied source and English; not independent source verification."
+      },
+      {
+        "claim_status": "provisional_model_judgment",
+        "excerpt": "{\"coverage\": [\"p4:s1\", \"p4:s2\", \"p4:s3\"], \"verdict\": \"no_material_defects_minor_imprecisions_only\", \"findings\": [{\"id\": \"F1\", \"source_id\": \"p4:s2\", \"severity\": \"minor\", \"issue\": \"The split into two English sentences leaves the link between the reader's limited ability to check the claims and the need first to create study aids implicit. In the German, that need is embedded as a relative clause characterizing the reader within the single disadvantage clause.\", \"source_support\": \"dass der Leser, dem die Hülfsmittel zu dem Studium der einzelnen Sprachen ... erst geschaffen werden müssen, die Richtigkeit der allgemeinen Behauptungen nur sehr unvollständig zu prüfen im Stande ist\", \"proposed_fix\": \"The latter course has the disadvantage that the reader, for whom the aids for studying the individual languages must first be created, is able to check the correctness of the general claims only very incompletely.\"}, {\"id\": \"F2\", \"source_id\": \"p4:s2\", \"severity\": \"minor\", \"issue\": \"'Very imperfectly' suggests defective quality of checking, whereas 'sehr unvollständig' denotes the incomplete extent to which checking is possible.\", \"source_support\": \"nur sehr unvollständig zu prüfen im Stande ist\", \"proposed_fix\": \"only very incompletely\"}, {\"id\": \"F3\", \"source_id\": \"p4:s2\", \"severity\": \"minor\", \"issue\": \"'Those available' can suggest ready availability. 'Der vorhandenen' refers more neutrally to the existing or extant aids, whose scarcity is part of the point.\", \"source_support\": \"bei der Seltenheit und der oft sehr unbequemen Einrichtung der vorhandenen\", \"proposed_fix\": \"since the existing ones are scarce and often very inconveniently arranged\"}], \"limitations\": [\"The audit is limited to the three supplied German sentences and the adjacent context provided; the reported cancellation of the opening paragraphs, manuscript marks, editorial status and authorial finality were not independently verified.\", \"No established glossary or parallel English text was supplied. Historically broad terms such as Herausgabe, Verfahren, Geschäft and Einrichtung were therefore assessed only for contextually supported material meaning, not against an external terminological standard.\"], \"coverage_detail\": [\"p4:s1\", \"p4:s2\", \"p4:s3\"], \"auditor\": \"muse\", \"models\": [\"muse-wonder-full-1.0\"]}",
+        "id": "E004.audit:muse",
+        "locator": "muse-wonder-full-1.0 audit of the pre-revision synthesis",
+        "quote_status": "model_audit_record",
+        "source_path": "translations/paragraph-004/audits.json",
+        "source_sha256": "a629a80abf1cd5a15798dab7ccaa249395b321f9462337a70500c13cc143d550",
+        "statement": "Model audit of supplied source and English; not independent source verification."
+      }
+    ],
+    "text_version": [
+      {
+        "body": "Ich habe eine Zeitlang zwischen dem doppelten Plane geschwankt, die Herausgabe der einzelnen Grammatiken und Wörterbücher, oder die Darstellung der aus den Forschungen über die einzelnen Sprachen gezogenen allgemeinen Folgerungen vorangehen zu lassen. Dies letztere Verfahren hat den Nachtheil, dass der Leser, dem die Hülfsmittel zu dem Studium der einzelnen Sprachen, bei der Seltenheit und der oft sehr unbequemen Einrichtung der vorhandenen, erst geschaffen werden müssen, die Richtigkeit der allgemeinen Behauptungen nur sehr unvollständig zu prüfen im Stande ist. Allein von dem ersteren Verfahren hat mich die Langwierigkeit des Geschäfts, und die Dauer der Zeit, die nothwendig bei der Schwierigkeit der Herausgabe solcher Schriften hätte darüber verfliessen müssen, abgeschreckt.",
+        "body_sha256": "2aa1326fb360b4e75c009ef54cf477bdc95757c5ecf95bfce56784e79c4fe590",
+        "id": "grundzuege-004-v1",
+        "language": "de",
+        "locator": "GS V §4; printed366 / PDF376 / scan leaf378",
+        "provenance": "Coordinator image-checked print; D001 remains provisional. Follows GS V (Leitzmann 1906), §4, printed366 / PDF376 / scan leaf378. Drechsel (2024:155) reports cancellation of the first seven paragraphs. Manuscript marks, extent and editorial meaning remain independently unverified. Retained as the printed reading; authorial finality unresolved.",
+        "source_path": "sources/raw/gs-v-1906.pdf",
+        "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+        "title": "Grundzüge §4 — checked German",
+        "transcription_status": "coordinator_image_checked"
+      },
+      {
+        "body": "For a time I wavered between two plans: whether to let the publication of the individual grammars and dictionaries come first, or the presentation of the general conclusions drawn from the investigations into the individual languages. This latter procedure has the disadvantage that the reader, for whom the aids to the study of the individual languages must first be created, given the scarcity and the often very inconvenient arrangement of those that exist, is in a position to test the correctness of the general assertions only very incompletely. But I was deterred from the former procedure by the protractedness of the task, and by the length of time that, given the difficulty of publishing such writings, would necessarily have had to elapse over it.",
+        "body_sha256": "c6e7623a2669338a87b4567371af63936c7becac1904b7aaeae8172ee5d4a438",
+        "id": "en4-claude-v1",
+        "language": "en",
+        "locator": "GS V §4; printed366 / PDF376 / scan leaf378",
+        "provenance": "Fresh isolated candidate; runtime claude-fable-5-2 Follows GS V (Leitzmann 1906), §4, printed366 / PDF376 / scan leaf378. Drechsel (2024:155) reports cancellation of the first seven paragraphs. Manuscript marks, extent and editorial meaning remain independently unverified. Retained as the printed reading; authorial finality unresolved.",
+        "source_path": "translations/paragraph-004/candidates.json",
+        "source_sha256": "14cd702d765a78d4e66b3c254d735663ded6827b2a2639a9d84724ec9537572e",
+        "title": "Grundzüge §4 — claude English draft",
+        "transcription_status": "generated_translation_not_certified"
+      },
+      {
+        "body": "For a time I wavered between the two plans of letting either the publication of the individual grammars and dictionaries, or the presentation of the general conclusions drawn from the researches into the individual languages, come first. This latter procedure has the disadvantage that the reader, for whom the aids to the study of the individual languages must first be created, given the rarity and the often very inconvenient arrangement of those that exist, is able to test the correctness of the general assertions only very incompletely. Yet I was deterred from the former procedure by the protracted nature of the undertaking, and by the length of time which, given the difficulty of publishing such writings, would necessarily have had to elapse over it.",
+        "body_sha256": "02550466b28c3c2ecdf1eadac94c74352b7bc7cb8686755d02346cec45f8d282",
+        "id": "en4-muse-v1",
+        "language": "en",
+        "locator": "GS V §4; printed366 / PDF376 / scan leaf378",
+        "provenance": "Fresh isolated candidate; runtime muse-wonder-full-1.0 Follows GS V (Leitzmann 1906), §4, printed366 / PDF376 / scan leaf378. Drechsel (2024:155) reports cancellation of the first seven paragraphs. Manuscript marks, extent and editorial meaning remain independently unverified. Retained as the printed reading; authorial finality unresolved.",
+        "source_path": "translations/paragraph-004/candidates.json",
+        "source_sha256": "14cd702d765a78d4e66b3c254d735663ded6827b2a2639a9d84724ec9537572e",
+        "title": "Grundzüge §4 — muse English draft",
+        "transcription_status": "generated_translation_not_certified"
+      },
+      {
+        "body": "For a time I wavered between two plans: to let the publication of the individual grammars and dictionaries come first, or to begin with a presentation of the general conclusions drawn from research on the individual languages. This latter procedure has the disadvantage that the reader—for whom aids to studying the individual languages must first be created, given the scarcity and often very inconvenient arrangement of those available—is able to examine the correctness of the general assertions only very incompletely. Yet I was deterred from the former procedure by the protracted nature of the undertaking and the length of time that would necessarily have elapsed in carrying it out, given the difficulty of publishing such works.",
+        "body_sha256": "41eeee5903c260a0b3892a3f0db5247c36073a3f18f05239b225f905eaf17981",
+        "id": "en4-codex-v1",
+        "language": "en",
+        "locator": "GS V §4; printed366 / PDF376 / scan leaf378",
+        "provenance": "Fresh isolated candidate; runtime gpt-6.1-sol Follows GS V (Leitzmann 1906), §4, printed366 / PDF376 / scan leaf378. Drechsel (2024:155) reports cancellation of the first seven paragraphs. Manuscript marks, extent and editorial meaning remain independently unverified. Retained as the printed reading; authorial finality unresolved.",
+        "source_path": "translations/paragraph-004/candidates.json",
+        "source_sha256": "14cd702d765a78d4e66b3c254d735663ded6827b2a2639a9d84724ec9537572e",
+        "title": "Grundzüge §4 — codex English draft",
+        "transcription_status": "generated_translation_not_certified"
+      },
+      {
+        "body": "For a time I wavered between two plans: publishing the individual grammars and dictionaries first, or first presenting the general conclusions drawn from research into the individual languages. The latter course has the disadvantage that the reader can check the correctness of the general claims only very imperfectly. The resources needed for studying the individual languages must first be created for the reader, since those available are scarce and often very inconveniently arranged. But I was deterred from the former course by the lengthy nature of the undertaking and the length of time that carrying it out would necessarily have required, given the difficulty of publishing such works.",
+        "body_sha256": "3446a7bb66e83d5c768a75dc7e5b17ab3a53d8ace9815c964d4e6215751aa6e5",
+        "id": "en4-synthesis-v1",
+        "language": "en",
+        "locator": "GS V §4; printed366 / PDF376 / scan leaf378",
+        "provenance": "Coordinator pre-audit synthesis; superseded by en4-revised-v2. Follows GS V (Leitzmann 1906), §4, printed366 / PDF376 / scan leaf378. Drechsel (2024:155) reports cancellation of the first seven paragraphs. Manuscript marks, extent and editorial meaning remain independently unverified. Retained as the printed reading; authorial finality unresolved.",
+        "source_path": "translations/paragraph-004/synthesis.json",
+        "source_sha256": "8e62192cb87d1191a22fa0d9f6f2b11da1666c72d1ed1044eaad265047f91f40",
+        "title": "Grundzüge §4 — synthesis English draft",
+        "transcription_status": "generated_translation_not_certified"
+      },
+      {
+        "body": "For a time I wavered between two plans: publishing the individual grammars and dictionaries first, or first presenting the general conclusions drawn from the research into the individual languages. The latter course has the disadvantage that the reader can check the correctness of the general claims only very incompletely: resources for studying the individual languages must first be created for them, given the rarity and often very inconvenient arrangement of those that exist. But I was deterred from the former course by the protracted nature of the undertaking and the length of time that, given the difficulty of publishing such works, would necessarily have elapsed in the process.",
+        "body_sha256": "750d083cf1b0a53d60454c63bb63658c36d6c0084c0afcc755148f65d0c038f1",
+        "id": "en4-revised-v2",
+        "language": "en",
+        "locator": "GS V §4; printed366 / PDF376 / scan leaf378",
+        "provenance": "Coordinator revision after one audit cycle; English review pending; no specialist validation. Follows GS V (Leitzmann 1906), §4, printed366 / PDF376 / scan leaf378. Drechsel (2024:155) reports cancellation of the first seven paragraphs. Manuscript marks, extent and editorial meaning remain independently unverified. Retained as the printed reading; authorial finality unresolved.",
+        "source_path": "translations/paragraph-004/revised.json",
+        "source_sha256": "85daf03d4e2ad8ea5cc9393ad72701a6c2df4d3cc5e4697f7fec2283ff0e1bc3",
+        "title": "Grundzüge §4 — provisional revised English",
+        "transcription_status": "generated_translation_not_certified"
+      }
+    ],
+    "unit": [
+      {
+        "analysis_id": "p4:de:layout-v1",
+        "end": 143,
+        "id": "p4:term:1",
+        "kind": "phrase",
+        "label": "Darstellung",
+        "note": "Selected contextual term-rule association; not exhaustive token-level sense coding.",
+        "parent_id": "p4:de:s1",
+        "start": 132,
+        "version_id": "grundzuege-004-v1"
+      },
+      {
+        "analysis_id": "p4:de:layout-v1",
+        "end": 330,
+        "id": "p4:term:2",
+        "kind": "phrase",
+        "label": "Hülfsmittel",
+        "note": "Selected contextual term-rule association; not exhaustive token-level sense coding.",
+        "parent_id": "p4:de:s2",
+        "start": 319,
+        "version_id": "grundzuege-004-v1"
+      },
+      {
+        "analysis_id": "p4:de:layout-v1",
+        "end": 121,
+        "id": "p4:span:1:left",
+        "kind": "phrase",
+        "label": "first publication alternative",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p4:de:s1",
+        "start": 64,
+        "version_id": "grundzuege-004-v1"
+      },
+      {
+        "analysis_id": "p4:revised:layout-v1",
+        "end": 97,
+        "id": "p4:span:1:right",
+        "kind": "phrase",
+        "label": "first publication alternative",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p4:revised:s1",
+        "start": 40,
+        "version_id": "en4-revised-v2"
+      },
+      {
+        "analysis_id": "p4:de:layout-v1",
+        "end": 229,
+        "id": "p4:span:2:left",
+        "kind": "phrase",
+        "label": "second publication alternative",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p4:de:s1",
+        "start": 128,
+        "version_id": "grundzuege-004-v1"
+      },
+      {
+        "analysis_id": "p4:revised:layout-v1",
+        "end": 196,
+        "id": "p4:span:2:right",
+        "kind": "phrase",
+        "label": "second publication alternative",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p4:revised:s1",
+        "start": 102,
+        "version_id": "en4-revised-v2"
+      },
+      {
+        "analysis_id": "p4:de:layout-v1",
+        "end": 275,
+        "id": "p4:span:3:left",
+        "kind": "phrase",
+        "label": "latter = conclusions first",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p4:de:s2",
+        "start": 252,
+        "version_id": "grundzuege-004-v1"
+      },
+      {
+        "analysis_id": "p4:revised:layout-v1",
+        "end": 215,
+        "id": "p4:span:3:right",
+        "kind": "phrase",
+        "label": "latter = conclusions first",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p4:revised:s2",
+        "start": 198,
+        "version_id": "en4-revised-v2"
+      },
+      {
+        "analysis_id": "p4:de:layout-v1",
+        "end": 368,
+        "id": "p4:span:4:left",
+        "kind": "phrase",
+        "label": "resources, locally distinct from languages",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p4:de:s2",
+        "start": 315,
+        "version_id": "grundzuege-004-v1"
+      },
+      {
+        "analysis_id": "p4:revised:layout-v1",
+        "end": 372,
+        "id": "p4:span:4:right",
+        "kind": "phrase",
+        "label": "resources, locally distinct from languages",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p4:revised:s2",
+        "start": 325,
+        "version_id": "en4-revised-v2"
+      },
+      {
+        "analysis_id": "p4:de:layout-v1",
+        "end": 444,
+        "id": "p4:span:5:left",
+        "kind": "phrase",
+        "label": "existing resources and their arrangement",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p4:de:s2",
+        "start": 370,
+        "version_id": "grundzuege-004-v1"
+      },
+      {
+        "analysis_id": "p4:revised:layout-v1",
+        "end": 481,
+        "id": "p4:span:5:right",
+        "kind": "phrase",
+        "label": "existing resources and their arrangement",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p4:revised:s2",
+        "start": 405,
+        "version_id": "en4-revised-v2"
+      },
+      {
+        "analysis_id": "p4:de:layout-v1",
+        "end": 568,
+        "id": "p4:span:6:left",
+        "kind": "phrase",
+        "label": "extent of reader verification",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p4:de:s2",
+        "start": 477,
+        "version_id": "grundzuege-004-v1"
+      },
+      {
+        "analysis_id": "p4:revised:layout-v1",
+        "end": 323,
+        "id": "p4:span:6:right",
+        "kind": "phrase",
+        "label": "extent of reader verification",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p4:revised:s2",
+        "start": 253,
+        "version_id": "en4-revised-v2"
+      },
+      {
+        "analysis_id": "p4:de:layout-v1",
+        "end": 603,
+        "id": "p4:span:7:left",
+        "kind": "phrase",
+        "label": "former = grammars and dictionaries first",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p4:de:s3",
+        "start": 577,
+        "version_id": "grundzuege-004-v1"
+      },
+      {
+        "analysis_id": "p4:revised:layout-v1",
+        "end": 524,
+        "id": "p4:span:7:right",
+        "kind": "phrase",
+        "label": "former = grammars and dictionaries first",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p4:revised:s3",
+        "start": 502,
+        "version_id": "en4-revised-v2"
+      },
+      {
+        "analysis_id": "p4:de:layout-v1",
+        "end": 645,
+        "id": "p4:span:8:left",
+        "kind": "phrase",
+        "label": "lengthiness of undertaking",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p4:de:s3",
+        "start": 613,
+        "version_id": "grundzuege-004-v1"
+      },
+      {
+        "analysis_id": "p4:revised:layout-v1",
+        "end": 568,
+        "id": "p4:span:8:right",
+        "kind": "phrase",
+        "label": "lengthiness of undertaking",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p4:revised:s3",
+        "start": 528,
+        "version_id": "en4-revised-v2"
+      },
+      {
+        "analysis_id": "p4:de:layout-v1",
+        "end": 740,
+        "id": "p4:span:9:left",
+        "kind": "phrase",
+        "label": "publication difficulty inside time clause",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p4:de:s3",
+        "start": 686,
+        "version_id": "grundzuege-004-v1"
+      },
+      {
+        "analysis_id": "p4:revised:layout-v1",
+        "end": 643,
+        "id": "p4:span:9:right",
+        "kind": "phrase",
+        "label": "publication difficulty inside time clause",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p4:revised:s3",
+        "start": 598,
+        "version_id": "en4-revised-v2"
+      },
+      {
+        "analysis_id": "p4:de:layout-v1",
+        "end": 773,
+        "id": "p4:span:10:left",
+        "kind": "phrase",
+        "label": "counterfactual necessary elapsed time",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p4:de:s3",
+        "start": 741,
+        "version_id": "grundzuege-004-v1"
+      },
+      {
+        "analysis_id": "p4:revised:layout-v1",
+        "end": 690,
+        "id": "p4:span:10:right",
+        "kind": "phrase",
+        "label": "counterfactual necessary elapsed time",
+        "note": "Coordinator-proposed consequential span; phrase boundaries do not assert a full syntactic parse.",
+        "parent_id": "p4:revised:s3",
+        "start": 645,
+        "version_id": "en4-revised-v2"
+      }
+    ],
+    "unit_decision": [
+      {
+        "decision_id": "D017.s1",
+        "unit_id": "p4:de:s1"
+      },
+      {
+        "decision_id": "D017.s1",
+        "unit_id": "p4:revised:s1"
+      },
+      {
+        "decision_id": "D017.s2",
+        "unit_id": "p4:de:s2"
+      },
+      {
+        "decision_id": "D017.s2",
+        "unit_id": "p4:revised:s2"
+      },
+      {
+        "decision_id": "D017.s3",
+        "unit_id": "p4:de:s3"
+      },
+      {
+        "decision_id": "D017.s3",
+        "unit_id": "p4:revised:s3"
+      },
+      {
+        "decision_id": "D017.audit:claude:F1",
+        "unit_id": "p4:de:s2"
+      },
+      {
+        "decision_id": "D017.audit:claude:F1",
+        "unit_id": "p4:revised:s2"
+      },
+      {
+        "decision_id": "D017.audit:claude:F2",
+        "unit_id": "p4:de:s2"
+      },
+      {
+        "decision_id": "D017.audit:claude:F2",
+        "unit_id": "p4:revised:s2"
+      },
+      {
+        "decision_id": "D017.audit:claude:F3",
+        "unit_id": "p4:de:s1"
+      },
+      {
+        "decision_id": "D017.audit:claude:F3",
+        "unit_id": "p4:revised:s1"
+      },
+      {
+        "decision_id": "D017.audit:claude:F4",
+        "unit_id": "p4:de:s3"
+      },
+      {
+        "decision_id": "D017.audit:claude:F4",
+        "unit_id": "p4:revised:s3"
+      },
+      {
+        "decision_id": "D017.audit:muse:F1",
+        "unit_id": "p4:de:s2"
+      },
+      {
+        "decision_id": "D017.audit:muse:F1",
+        "unit_id": "p4:revised:s2"
+      },
+      {
+        "decision_id": "D017.audit:muse:F2",
+        "unit_id": "p4:de:s2"
+      },
+      {
+        "decision_id": "D017.audit:muse:F2",
+        "unit_id": "p4:revised:s2"
+      },
+      {
+        "decision_id": "D017.audit:muse:F3",
+        "unit_id": "p4:de:s2"
+      },
+      {
+        "decision_id": "D017.audit:muse:F3",
+        "unit_id": "p4:revised:s2"
+      },
+      {
+        "decision_id": "D009.lex:darstellung:s01",
+        "unit_id": "p4:term:1"
+      },
+      {
+        "decision_id": "D009.lex:huelfsmittel:s01",
+        "unit_id": "p4:term:2"
+      },
+      {
+        "decision_id": "D017.s1",
+        "unit_id": "p4:span:1:left"
+      },
+      {
+        "decision_id": "D017.s1",
+        "unit_id": "p4:span:1:right"
+      },
+      {
+        "decision_id": "D017.s1",
+        "unit_id": "p4:span:2:left"
+      },
+      {
+        "decision_id": "D017.s1",
+        "unit_id": "p4:span:2:right"
+      },
+      {
+        "decision_id": "D017.s2",
+        "unit_id": "p4:span:3:left"
+      },
+      {
+        "decision_id": "D017.s2",
+        "unit_id": "p4:span:3:right"
+      },
+      {
+        "decision_id": "D017.s2",
+        "unit_id": "p4:span:4:left"
+      },
+      {
+        "decision_id": "D017.s2",
+        "unit_id": "p4:span:4:right"
+      },
+      {
+        "decision_id": "D017.s2",
+        "unit_id": "p4:span:5:left"
+      },
+      {
+        "decision_id": "D017.s2",
+        "unit_id": "p4:span:5:right"
+      },
+      {
+        "decision_id": "D017.s2",
+        "unit_id": "p4:span:6:left"
+      },
+      {
+        "decision_id": "D017.s2",
+        "unit_id": "p4:span:6:right"
+      },
+      {
+        "decision_id": "D017.s3",
+        "unit_id": "p4:span:7:left"
+      },
+      {
+        "decision_id": "D017.s3",
+        "unit_id": "p4:span:7:right"
+      },
+      {
+        "decision_id": "D017.s3",
+        "unit_id": "p4:span:8:left"
+      },
+      {
+        "decision_id": "D017.s3",
+        "unit_id": "p4:span:8:right"
+      },
+      {
+        "decision_id": "D017.s3",
+        "unit_id": "p4:span:9:left"
+      },
+      {
+        "decision_id": "D017.s3",
+        "unit_id": "p4:span:9:right"
+      },
+      {
+        "decision_id": "D017.s3",
+        "unit_id": "p4:span:10:left"
+      },
+      {
+        "decision_id": "D017.s3",
+        "unit_id": "p4:span:10:right"
+      }
+    ],
+    "unit_evidence": [
+      {
+        "evidence_id": "E004.source:s1",
+        "unit_id": "p4:de:s1"
+      },
+      {
+        "evidence_id": "E004.source:s2",
+        "unit_id": "p4:de:s2"
+      },
+      {
+        "evidence_id": "E004.source:s3",
+        "unit_id": "p4:de:s3"
+      },
+      {
+        "evidence_id": "E004.source:s1",
+        "unit_id": "p4:term:1"
+      },
+      {
+        "evidence_id": "E004.source:s2",
+        "unit_id": "p4:term:2"
+      },
+      {
+        "evidence_id": "E004.source:s1",
+        "unit_id": "p4:span:1:left"
+      },
+      {
+        "evidence_id": "E004.source:s1",
+        "unit_id": "p4:span:1:right"
+      },
+      {
+        "evidence_id": "E004.source:s1",
+        "unit_id": "p4:span:2:left"
+      },
+      {
+        "evidence_id": "E004.source:s1",
+        "unit_id": "p4:span:2:right"
+      },
+      {
+        "evidence_id": "E004.source:s2",
+        "unit_id": "p4:span:3:left"
+      },
+      {
+        "evidence_id": "E004.source:s2",
+        "unit_id": "p4:span:3:right"
+      },
+      {
+        "evidence_id": "E004.source:s2",
+        "unit_id": "p4:span:4:left"
+      },
+      {
+        "evidence_id": "E004.source:s2",
+        "unit_id": "p4:span:4:right"
+      },
+      {
+        "evidence_id": "E004.source:s2",
+        "unit_id": "p4:span:5:left"
+      },
+      {
+        "evidence_id": "E004.source:s2",
+        "unit_id": "p4:span:5:right"
+      },
+      {
+        "evidence_id": "E004.source:s2",
+        "unit_id": "p4:span:6:left"
+      },
+      {
+        "evidence_id": "E004.source:s2",
+        "unit_id": "p4:span:6:right"
+      },
+      {
+        "evidence_id": "E004.source:s3",
+        "unit_id": "p4:span:7:left"
+      },
+      {
+        "evidence_id": "E004.source:s3",
+        "unit_id": "p4:span:7:right"
+      },
+      {
+        "evidence_id": "E004.source:s3",
+        "unit_id": "p4:span:8:left"
+      },
+      {
+        "evidence_id": "E004.source:s3",
+        "unit_id": "p4:span:8:right"
+      },
+      {
+        "evidence_id": "E004.source:s3",
+        "unit_id": "p4:span:9:left"
+      },
+      {
+        "evidence_id": "E004.source:s3",
+        "unit_id": "p4:span:9:right"
+      },
+      {
+        "evidence_id": "E004.source:s3",
+        "unit_id": "p4:span:10:left"
+      },
+      {
+        "evidence_id": "E004.source:s3",
+        "unit_id": "p4:span:10:right"
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "section": "4",
+  "synthesis_sha256": "8e62192cb87d1191a22fa0d9f6f2b11da1666c72d1ed1044eaad265047f91f40",
+  "auditors": [
+    {
+      "coverage": [
+        "p4:s1",
+        "p4:s2",
+        "p4:s3"
+      ],
+      "verdict": "No material defects. All three sentences are complete, with no omissions, no substantive additions, and the former/latter referents, the Folgerungen/Behauptungen contrast (conclusions/claims) and the counterfactual modality of s3 preserved. Four minor findings follow. Only F1 touches a stated condition of the brief (relations must remain explicit when a sentence is split) and is the one I would fix before the translation is finalised; F2–F4 are optional tightenings.",
+      "findings": [
+        {
+          "id": "F1",
+          "source_id": "p4:s2",
+          "severity": "minor",
+          "issue": "The split into two sentences turns the subordinated relative clause into a free-standing assertion with no connective. The link between the reader's inability to check and the missing aids is left to juxtaposition, and the second sentence is no longer visibly inside the stated disadvantage. The brief allows re-division only if the relations remain explicit. No propositional content is falsified, and the dative 'dem' is correctly kept as 'for the reader'.",
+          "source_support": "'dass der Leser, dem die Hülfsmittel … erst geschaffen werden müssen, die Richtigkeit … nur sehr unvollständig zu prüfen im Stande ist': a single dass-clause in which the relative clause attached to 'der Leser' gives the circumstance that explains the limited checking.",
+          "proposed_fix": "Keep one sentence or add an explicit link, e.g. 'The latter course has the disadvantage that the reader, for whom the aids to the study of the individual languages must first be created, given the rarity and often very inconvenient arrangement of those that exist, is able to check the correctness of the general claims only very incompletely.' If two sentences are kept, open the second with 'For the resources … must first be created for the reader …'."
+        },
+        {
+          "id": "F2",
+          "source_id": "p4:s2",
+          "severity": "minor",
+          "issue": "Three small lexical shifts. (a) 'needed' has no counterpart in the German. (b) 'imperfectly' for 'unvollständig' moves from completeness of checking to quality of checking. (c) 'since' makes the circumstantial 'bei' fully causal, and 'scarce' (few exist) is slightly less exact than 'rare' (hard to come by) for 'Seltenheit'. None changes the claim.",
+          "source_support": "'die Hülfsmittel zu dem Studium der einzelnen Sprachen' (no 'needed'); 'nur sehr unvollständig zu prüfen'; 'bei der Seltenheit und der oft sehr unbequemen Einrichtung der vorhandenen'.",
+          "proposed_fix": "'the aids/resources for the study of the individual languages'; 'only very incompletely'; 'given the rarity and the often very inconvenient arrangement of the existing ones'."
+        },
+        {
+          "id": "F3",
+          "source_id": "p4:s1",
+          "severity": "minor",
+          "issue": "'from research into the individual languages' drops the definite article. The source points to a specific body of investigations (in context, those underlying this work); the English reads as research in general.",
+          "source_support": "'der aus den Forschungen über die einzelnen Sprachen gezogenen allgemeinen Folgerungen': definite plural 'den Forschungen'.",
+          "proposed_fix": "'the general conclusions drawn from the investigations into the individual languages'. Do not insert 'my'; the source does not state the possessor."
+        },
+        {
+          "id": "F4",
+          "source_id": "p4:s3",
+          "severity": "minor",
+          "issue": "(a) 'that carrying it out would necessarily have required' recasts time elapsing over the business as time required by carrying it out. This resolves 'darüber' as 'in carrying it out' and loses the nuance of delay; the necessity and counterfactual are preserved. (b) The trailing 'given the difficulty of publishing such works' could be read as attaching to 'was deterred'. In the German it sits inside the relative clause and grounds why the time would necessarily have had to pass.",
+          "source_support": "'die Dauer der Zeit, die nothwendig bei der Schwierigkeit der Herausgabe solcher Schriften hätte darüber verfliessen müssen': 'bei der Schwierigkeit …' is inside the relative clause; 'darüber verfliessen' means 'elapse over/in the course of it'.",
+          "proposed_fix": "'But I was deterred from the former course by the protracted nature of the task and by the length of time that, given the difficulty of publishing such works, would necessarily have had to elapse over it.'"
+        }
+      ],
+      "limitations": "Audited only against the German in the packet. I did not consult the PDF, verify the hashes or the Leitzmann page references, or assess the Drechsel cancellation report; the question of authorial finality is untouched. No outside research, tools or additional reviewers were used, as instructed; the session's built-in advisor review was therefore deliberately not invoked. Unresolved alternatives, not counted as defects: (1) 'Herausgabe' can mean publishing or editing/issuing; 'publishing' is defensible and consistent across s1 and s3, but the editorial sense cannot be excluded from this paragraph alone. (2) 'erst' in 'erst geschaffen werden müssen' can be sequential ('first') or 'have yet to be'; both give the same sense here. (3) 'Hülfsmittel' as 'resources' is acceptable; 'aids' is closer, and the word recurs in §3 for Humboldt's own source materials, so consistency with the rest of the translation cannot be checked from this packet. (4) 'Langwierigkeit' also carries a sense of wearisomeness; 'lengthy nature' gives the primary sense but sits close to 'length of time' in the same sentence, a near-redundancy that is also present in the German. (5) 'two plans' for 'dem doppelten Plane' (literally 'the twofold plan') is an idiomatic normalisation with no change of meaning. Severity ratings are my judgement on a minor/moderate/major scale, as the brief supplies no rubric.",
+      "coverage_detail": [
+        {
+          "source_id": "p4:s1",
+          "checked": true,
+          "result": "accurate; one minor definiteness point (F3)"
+        },
+        {
+          "source_id": "p4:s2",
+          "checked": true,
+          "result": "content complete; one structural finding (F1) and one minor lexical addition (F2)"
+        },
+        {
+          "source_id": "p4:s3",
+          "checked": true,
+          "result": "accurate in substance; one minor paraphrase/attachment point (F4)"
+        }
+      ],
+      "auditor": "claude",
+      "models": [
+        "claude-fable-5-2"
+      ]
+    },
+    {
+      "coverage": [
+        "p4:s1",
+        "p4:s2",
+        "p4:s3"
+      ],
+      "verdict": "no_material_defects_minor_imprecisions_only",
+      "findings": [
+        {
+          "id": "F1",
+          "source_id": "p4:s2",
+          "severity": "minor",
+          "issue": "The split into two English sentences leaves the link between the reader's limited ability to check the claims and the need first to create study aids implicit. In the German, that need is embedded as a relative clause characterizing the reader within the single disadvantage clause.",
+          "source_support": "dass der Leser, dem die Hülfsmittel zu dem Studium der einzelnen Sprachen ... erst geschaffen werden müssen, die Richtigkeit der allgemeinen Behauptungen nur sehr unvollständig zu prüfen im Stande ist",
+          "proposed_fix": "The latter course has the disadvantage that the reader, for whom the aids for studying the individual languages must first be created, is able to check the correctness of the general claims only very incompletely."
+        },
+        {
+          "id": "F2",
+          "source_id": "p4:s2",
+          "severity": "minor",
+          "issue": "'Very imperfectly' suggests defective quality of checking, whereas 'sehr unvollständig' denotes the incomplete extent to which checking is possible.",
+          "source_support": "nur sehr unvollständig zu prüfen im Stande ist",
+          "proposed_fix": "only very incompletely"
+        },
+        {
+          "id": "F3",
+          "source_id": "p4:s2",
+          "severity": "minor",
+          "issue": "'Those available' can suggest ready availability. 'Der vorhandenen' refers more neutrally to the existing or extant aids, whose scarcity is part of the point.",
+          "source_support": "bei der Seltenheit und der oft sehr unbequemen Einrichtung der vorhandenen",
+          "proposed_fix": "since the existing ones are scarce and often very inconveniently arranged"
+        }
+      ],
+      "limitations": [
+        "The audit is limited to the three supplied German sentences and the adjacent context provided; the reported cancellation of the opening paragraphs, manuscript marks, editorial status and authorial finality were not independently verified.",
+        "No established glossary or parallel English text was supplied. Historically broad terms such as Herausgabe, Verfahren, Geschäft and Einrichtung were therefore assessed only for contextually supported material meaning, not against an external terminological standard."
+      ],
+      "coverage_detail": [
+        "p4:s1",
+        "p4:s2",
+        "p4:s3"
+      ],
+      "auditor": "muse",
+      "models": [
+        "muse-wonder-full-1.0"
+      ]
+    }
+  ],
+  "dispositions": [
+    {
+      "auditor": "claude",
+      "finding_id": "F1",
+      "source_id": "p4:s2",
+      "severity": "minor",
+      "resolution": "Join the English blocks with a colon so the need to create resources explicitly explains the limited checking within the stated disadvantage. Preserve the beneficiary through singular they referring to the reader."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F2",
+      "source_id": "p4:s2",
+      "severity": "minor",
+      "resolution": "Remove the added needed; replace imperfectly with incompletely to retain extent. Use given for bei, rarity for Seltenheit and those that exist for the existing resources."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F3",
+      "source_id": "p4:s1",
+      "severity": "minor",
+      "resolution": "Restore the definite the research, referring to the investigations underlying these conclusions, without inserting a possessor."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F4",
+      "source_id": "p4:s3",
+      "severity": "minor",
+      "resolution": "Restore time elapsing in the process and place the publication-difficulty adjunct inside its relative clause. Necessarily and would have preserve the modal and unrealized temporal relation without implying that the delay actually occurred."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F1",
+      "source_id": "p4:s2",
+      "severity": "minor",
+      "resolution": "Use an explanatory colon joining the limited checking and resource need; the relation is explicit rather than left to sentence juxtaposition."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F2",
+      "source_id": "p4:s2",
+      "severity": "minor",
+      "resolution": "Use only very incompletely, preserving the completeness limitation rather than a claim that the checking is defective."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F3",
+      "source_id": "p4:s2",
+      "severity": "minor",
+      "resolution": "Use those that exist, referring to resources; avoid a suggestion of ready availability. Retain rarity and inconvenient arrangement."
+    }
+  ]
+}

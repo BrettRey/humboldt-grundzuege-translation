@@ -1,0 +1,25 @@
+{
+  "format": "humboldt.passage",
+  "id": "review-0003-20261116",
+  "schema_version": 1,
+  "tables": {
+    "evidence": [
+      {
+        "claim_status": "English_readability_only",
+        "excerpt": "very natural",
+        "id": "E003.English-review:2026-11-16",
+        "locator": "Roughdraft completed review; comment at 2026-11-16T01:22:04.400Z",
+        "quote_status": "user_review_record",
+        "source_path": "translations/paragraph-003/approval-2026-11-16.json",
+        "source_sha256": "00dd5744382afd7f196ae8f0a85d80f2dbf3a7b0f1aafa2fb660a6b996882f69",
+        "statement": "English readability and editorial usefulness only; no German-fidelity certification"
+      }
+    ],
+    "unit_evidence": [
+      {
+        "evidence_id": "E003.English-review:2026-11-16",
+        "unit_id": "p3:revised:p"
+      }
+    ]
+  }
+}

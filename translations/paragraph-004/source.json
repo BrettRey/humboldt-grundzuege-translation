@@ -1,0 +1,33 @@
+{
+  "section": "4",
+  "sentences": [
+    {
+      "id": "p4:s1",
+      "text": "Ich habe eine Zeitlang zwischen dem doppelten Plane geschwankt, die Herausgabe der einzelnen Grammatiken und Wörterbücher, oder die Darstellung der aus den Forschungen über die einzelnen Sprachen gezogenen allgemeinen Folgerungen vorangehen zu lassen."
+    },
+    {
+      "id": "p4:s2",
+      "text": "Dies letztere Verfahren hat den Nachtheil, dass der Leser, dem die Hülfsmittel zu dem Studium der einzelnen Sprachen, bei der Seltenheit und der oft sehr unbequemen Einrichtung der vorhandenen, erst geschaffen werden müssen, die Richtigkeit der allgemeinen Behauptungen nur sehr unvollständig zu prüfen im Stande ist."
+    },
+    {
+      "id": "p4:s3",
+      "text": "Allein von dem ersteren Verfahren hat mich die Langwierigkeit des Geschäfts, und die Dauer der Zeit, die nothwendig bei der Schwierigkeit der Herausgabe solcher Schriften hätte darüber verfliessen müssen, abgeschreckt."
+    }
+  ],
+  "body": "Ich habe eine Zeitlang zwischen dem doppelten Plane geschwankt, die Herausgabe der einzelnen Grammatiken und Wörterbücher, oder die Darstellung der aus den Forschungen über die einzelnen Sprachen gezogenen allgemeinen Folgerungen vorangehen zu lassen. Dies letztere Verfahren hat den Nachtheil, dass der Leser, dem die Hülfsmittel zu dem Studium der einzelnen Sprachen, bei der Seltenheit und der oft sehr unbequemen Einrichtung der vorhandenen, erst geschaffen werden müssen, die Richtigkeit der allgemeinen Behauptungen nur sehr unvollständig zu prüfen im Stande ist. Allein von dem ersteren Verfahren hat mich die Langwierigkeit des Geschäfts, und die Dauer der Zeit, die nothwendig bei der Schwierigkeit der Herausgabe solcher Schriften hätte darüber verfliessen müssen, abgeschreckt.",
+  "printed_pages": [
+    366
+  ],
+  "pdf_pages": [
+    376
+  ],
+  "scan_leaves": [
+    378
+  ],
+  "source_path": "sources/raw/gs-v-1906.pdf",
+  "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+  "body_sha256": "2aa1326fb360b4e75c009ef54cf477bdc95757c5ecf95bfce56784e79c4fe590",
+  "source_status": "Follows GS V (Leitzmann 1906), §4, printed366 / PDF376 / scan leaf378. Drechsel (2024:155) reports cancellation of the first seven paragraphs. Manuscript marks, extent and editorial meaning remain independently unverified. Retained as the printed reading; authorial finality unresolved.",
+  "verification": "Coordinator comparison with rendered page images; not specialist human validation",
+  "boundary": "From marginal4 to before marginal5 on printed366; line-end word divisions joined; no source/editor footnote in this paragraph."
+}

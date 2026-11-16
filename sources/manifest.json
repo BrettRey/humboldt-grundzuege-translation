@@ -44,6 +44,21 @@
       "approval_record": "translations/opening-001/approval-2026-11-15.json",
       "approval_record_sha256": "4938ac4a0e1c8dd7cafa2e4f6f237ddbbb07fd75cb7d4734ce1122f40bcf82c9",
       "authority_record": "D004 in DECISIONS.md"
+    },
+    {
+      "id": "paragraph-003-English-review-completed",
+      "recorded_at": "2026-11-16T01:26:14.209228+00:00",
+      "document": "translations/paragraph-003/revised.md",
+      "completion_observed": true,
+      "completion_event_count": 1,
+      "user_comment": "very natural",
+      "user_comment_at": "2026-11-16T01:22:04.400Z",
+      "returned_sha256": "84e2d4e1147b78961f4770353a958063536beea78974f07adbed182acabd6ed9",
+      "body_integrity": "English and translator notes unchanged after normalizing whitespace.",
+      "approval_scope": "English readability and editorial usefulness only; no German-fidelity certification",
+      "approval_record": "translations/paragraph-003/approval-2026-11-16.json",
+      "approval_record_sha256": "00dd5744382afd7f196ae8f0a85d80f2dbf3a7b0f1aafa2fb660a6b996882f69",
+      "authority_record": "D016 in DECISIONS.md"
     }
   ],
   "editorial_decisions": [
@@ -3712,6 +3727,30 @@
       },
       "review_status": "English/editorial review pending; no specialist fidelity certification",
       "preservation": "All earlier scholarly rows and 118 protected files unchanged."
+    },
+    {
+      "id": "paragraph-004-cycle",
+      "authority": "D016–D017",
+      "source": "translations/paragraph-004/source.json",
+      "English": "translations/paragraph-004/revised.md",
+      "record": {
+        "path": "translations/paragraph-004/record.json",
+        "sha256": "08ebead62c8712f0633cf4e5e8872caabd895b34d22dd70002e141936a80e06e"
+      },
+      "verification": {
+        "path": "translations/paragraph-004/verification.json",
+        "sha256": "41399dc4dc04f53d7a8cd5a3bf72f99801d5317ee0e3e513062e7b0494ef44f4"
+      },
+      "coverage": {
+        "source_sentences": 3,
+        "candidates": 3,
+        "audits": 2,
+        "audit_findings": 7,
+        "dispositions": 7
+      },
+      "consequential_span_links": 10,
+      "review_status": "English/editorial review pending; no specialist fidelity certification",
+      "preservation": "All original scholarly rows and 118 protected files unchanged; sole later metadata amendment records §3 review, with English unchanged."
     }
   ]
 }

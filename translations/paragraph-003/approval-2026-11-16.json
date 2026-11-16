@@ -1,0 +1,17 @@
+{
+  "section": "3",
+  "reviewer": "Brett Reynolds",
+  "scope": "English readability and editorial usefulness only; no German-fidelity certification",
+  "review_completed": true,
+  "completion_events": 1,
+  "comment": "very natural",
+  "comment_at": "2026-11-16T01:22:04.400Z",
+  "recorded_at": "2026-11-16T01:26:14.209228+00:00",
+  "opened_sha256": "633fd0f5472b3f8f206ff5cb61f28fa2a942d0bcb46bf3b1ceed3d96fae3d869",
+  "returned_sha256": "84e2d4e1147b78961f4770353a958063536beea78974f07adbed182acabd6ed9",
+  "current_markdown_sha256": "8728ffcd29afba67ff37103b3eb59fa34788e80d0b4a65eb62d98b94f43744f9",
+  "English_and_notes_unchanged_after_normalizing_whitespace": true,
+  "body_sha256": "e38f63cd6652bc203a787cb443c4038d0d82749fb17fc7411722a52efb3f61d2",
+  "review_status_note": "Original source JSON remains frozen; current approval is a separate evidence record.",
+  "presentation_cleanup": "Restored original paragraph spacing after the returned review; English, notes and user comment unchanged."
+}

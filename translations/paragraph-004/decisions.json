@@ -1,0 +1,23 @@
+{
+  "section": "4",
+  "decisions": [
+    {
+      "id": "D017.s1",
+      "source_id": "p4:s1",
+      "question": "Order of presentation and publication",
+      "resolution": "Keep the two alternatives and their order explicit. Restore definite research; conclusions (Folgerungen) are distinct from the claims (Behauptungen) to be checked in sentence2."
+    },
+    {
+      "id": "D017.s2",
+      "source_id": "p4:s2",
+      "question": "Resources, reader and extent of checking",
+      "resolution": "Preserve the explanatory connection, resources still to be created for the reader, rarity and arrangement of existing resources, and only very incomplete checking. Do not turn incompleteness into total inability or defective quality."
+    },
+    {
+      "id": "D017.s3",
+      "source_id": "p4:s3",
+      "question": "Protracted undertaking and unrealized publication delay",
+      "resolution": "Keep both coordinated deterrents, the publication-difficulty adjunct within the time clause, and the counterfactual necessary lapse of time. Publishing remains locally provisional within Herausgabe’s range."
+    }
+  ]
+}
