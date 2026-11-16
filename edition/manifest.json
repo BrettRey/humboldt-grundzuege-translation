@@ -39,6 +39,14 @@
     {
       "path": "passages/review-0005-20261116/records.json",
       "sha256": "8832872c4e2aebc9b108d6a4980dacce46719bea425afb6a87c624ba7c764901"
+    },
+    {
+      "path": "passages/introduction-006-007/records.json",
+      "sha256": "de93d8d674f45742a017b557c033eecab60823f948187840ba1d4127a19699b0"
+    },
+    {
+      "path": "passages/introduction-clarification-apparatus/records.json",
+      "sha256": "edc83131ce6bfbe7c2e1a781d03afe06b1e85e173eeef6bdb45eae603d0c960f"
     }
   ],
   "format": "humboldt.edition",
@@ -47,7 +55,7 @@
     {
       "section": "1",
       "source_id": "grundzuege-001-v1",
-      "target_id": "en-revised-v2"
+      "target_id": "revision-text-933d4f42-f708-5542-9ca6-a11ee25ecdf5"
     },
     {
       "section": "2",
@@ -67,12 +75,22 @@
     {
       "section": "4",
       "source_id": "grundzuege-004-v1",
-      "target_id": "en4-revised-v2"
+      "target_id": "revision-text-5508d194-4f71-5864-ab79-1eb6cac6d1bc"
     },
     {
       "section": "5",
       "source_id": "grundzuege-005-v1",
       "target_id": "en5-revised-v2"
+    },
+    {
+      "section": "6",
+      "source_id": "grundzuege-006-v1",
+      "target_id": "en6-revised-v2"
+    },
+    {
+      "section": "7",
+      "source_id": "grundzuege-007-v1",
+      "target_id": "en7-revised-v2"
     }
   ],
   "resources": [

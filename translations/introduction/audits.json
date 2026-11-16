@@ -1,0 +1,885 @@
+{
+  "section": "Introduction",
+  "synthesis_sha256": "4fc55df361f48e0cbb1affe8cb76d2fb0527978b009f20729d2cb3f5582df4af",
+  "auditors": [
+    {
+      "coverage": [
+        "p1:s1",
+        "p1:s2",
+        "p1:s3",
+        "p1:s4",
+        "p1:s5",
+        "p1:s6",
+        "p1:s7",
+        "p2:s1",
+        "p2:s2",
+        "p2:s3",
+        "p3:s1",
+        "p3:s2",
+        "p3:s3",
+        "p3:s4",
+        "p3:s5",
+        "p4:s1",
+        "p4:s2",
+        "p4:s3",
+        "p5:s1",
+        "p5:s2",
+        "p5:s3",
+        "p5:s4",
+        "p5:s5",
+        "p5:s6",
+        "p5:s7",
+        "p6:s1",
+        "p6:s2",
+        "p6:s3",
+        "p6:s4",
+        "p7:s1",
+        "p7:s2",
+        "p7:s3",
+        "p7:s4",
+        "p7:s5",
+        "p7:s6",
+        "p7:s7",
+        "p7:s8",
+        "p7:s9"
+      ],
+      "verdict": {
+        "summary": "The English is faithful in argument, scope, modality and referents across all 38 sentences, with no omission, addition or reversal of sense. One item needs action: 'new genus' at p7:s6 clashes with the species-under-a-genus analogy of p7:s1 (F10, moderate confidence). The remaining findings are minor suggestions or defensible alternatives.",
+        "material_findings": 1,
+        "minor_findings": 10,
+        "defensible_alternatives": 5,
+        "passages_1_to_5": "Fidelity confirmed apart from the minor points F1–F7 and F15; no material defect.",
+        "passages_6_to_7": "Sound overall; F10 should be resolved or annotated, and F8, F11–F14 and F16 are minor.",
+        "recommendation": "Accept after addressing F10; apply the minor fixes at the translator's discretion."
+      },
+      "findings": [
+        {
+          "id": "F1",
+          "source_id": "p1:s2",
+          "severity": "minor",
+          "issue": "'have converged' for 'zusammengeflossen' can be read as 'have grown alike'. That is the opposite of the point, which is that very different languages have ended up side by side on one continent.",
+          "source_support": "'sind so verschiedene Sprachen zusammengeflossen' is spatial confluence; the diversity is what removes any reason to study them 'gerade in der Verbindung'.",
+          "proposed_fix": "'such diverse languages have flowed together' or 'have come together'.",
+          "source_ids": [
+            "p1:s2"
+          ]
+        },
+        {
+          "id": "F2",
+          "source_id": "p1:s7",
+          "severity": "defensible_alternative",
+          "issue": "'wearing-down influence' for 'abschleifenden Einfluss' is accurate but can suggest mere attrition. The sense is that foreign features were abraded or smoothed away by purely internal contact, which is what p2:s1 ('Dafür spricht nun auch die auffallende Aehnlichkeit') then supports.",
+          "source_support": "'diesen abschleifenden Einfluss des auf sich selbst beschränkten einheimischen Verkehrs'; p2:s1 'Dafür spricht ...'.",
+          "proposed_fix": "Optional: 'this abrading (levelling) influence'. No change required.",
+          "source_ids": [
+            "p1:s7"
+          ]
+        },
+        {
+          "id": "F3",
+          "source_id": "p2:s2",
+          "severity": "defensible_alternative",
+          "issue": "The English resolves 'auch in ihnen selbst' as 'in the languages themselves', and its 'them all' then reads as the languages. The first is the most probable reading. German 'alle' is open between nations and languages, and the lack of writing and literature is strictly a property of the nations.",
+          "source_support": "'der Nationen, welchen sie angehören' (sie = Sprachen); 'auch in ihnen selbst unverkennbare Unterschiede'; 'stellt doch alle, ohne Ausnahme, ... gleich'.",
+          "proposed_fix": "No change required. If neutrality is wanted, 'places all of them' already serves; do not disambiguate further.",
+          "source_ids": [
+            "p2:s2"
+          ]
+        },
+        {
+          "id": "F4",
+          "source_id": "p2:s3",
+          "severity": "minor",
+          "issue": "Two small points. (a) Scope: 'do not permit ... even in this respect' attaches 'even' to 'in this respect', implying other respects. The German 'erlaubt nicht einmal darin, ... Gränzen zu ziehen' more naturally says that north and south do not so much as permit dividing lines here; the exact scope of 'nicht einmal' and the referent of 'darin' are somewhat uncertain. (b) 'wohl' in 'die auch wohl behauptete Abweichung' ('also sometimes asserted') is dropped.",
+          "source_support": "'und der Norden und Süden des Welttheils erlaubt nicht einmal darin, wahrhaft abscheidende Gränzen zu ziehen'; 'die auch wohl behauptete Abweichung'.",
+          "proposed_fix": "(a) 'and the north and south of the continent do not even permit genuinely dividing boundaries to be drawn in this respect'. (b) 'which has also at times been asserted'.",
+          "source_ids": [
+            "p2:s3"
+          ]
+        },
+        {
+          "id": "F5",
+          "source_id": "p3:s1",
+          "severity": "minor",
+          "issue": "'darzustellen' is rendered 'describing', while 'Darstellung'/'darstellen' is 'presentation'/'present' everywhere else and 'describe' is used for 'Schilderung'/'beschreiben' (p5:s3, p7:s3, p7:s6). This weakens the link between the programme stated here (erforschen, darstellen, vergleichen) and the 'Darstellung' discussed in passages 4–7. Separately, 'calls for' paraphrases 'ein Bedürfniss für die allgemeine Sprachkunde genannt werden'; that is defensible.",
+          "source_support": "'ihren Bau zu erforschen, darzustellen, und ... zu vergleichen'; p4:s1 'die Darstellung der ... allgemeinen Folgerungen'; p5:s1 'der allgemeinen Darstellung des Baues'.",
+          "proposed_fix": "'inquiring into and presenting their structure'. Optionally 'may be called a need of the general study of language'.",
+          "source_ids": [
+            "p3:s1"
+          ]
+        },
+        {
+          "id": "F6",
+          "source_id": "p4:s2",
+          "severity": "minor",
+          "issue": "English referent ambiguity: in 'resources for studying the individual languages must first be created for them', 'them' is meant as the reader but reads most naturally as 'the individual languages'.",
+          "source_support": "'der Leser, dem die Hülfsmittel ... erst geschaffen werden müssen' (dative singular = the reader).",
+          "proposed_fix": "'... only very incompletely, since the resources for studying the individual languages must first be created for that reader, given ...'.",
+          "source_ids": [
+            "p4:s2"
+          ]
+        },
+        {
+          "id": "F7",
+          "source_id": "p5:s5",
+          "severity": "minor",
+          "issue": "'however' for 'aber' sets up a contrast with p5:s4 that the argument does not make. The sentence reinforces the advantage just named (and p5:s6 'Denn ...' justifies it); 'aber' here is continuative or emphatic.",
+          "source_support": "p5:s4 'Allein man gewinnt auch den Vortheil ...'; p5:s5 'wird aber gerade diesen Vorzug kaum zu hoch anrechnen können'; p5:s6 'Denn ...'.",
+          "proposed_fix": "'Indeed, anyone accustomed to investigating the structure of many languages will scarcely be able to rate this very advantage too highly.'",
+          "source_ids": [
+            "p5:s5"
+          ]
+        },
+        {
+          "id": "F8",
+          "source_id": "p6:s1; p6:s2",
+          "severity": "minor",
+          "issue": "(a) 'bloss' is dropped: 'sich ... bloss kurz zu beziehen' means the general part lets one merely refer briefly. (b) 'das ... Einzelne' is 'particulars' in p6:s1 but 'sehr viel Einzelnes' is 'a great deal of detail' in p6:s2, which mutes the echo carrying the argument (brief reference to particulars already included, therefore include many particulars). (c) 'remain an option' for 'vorbehalten bleiben' ('remain reserved' for later) is defensible.",
+          "source_support": "p6:s1 'als dieser erlaubt, sich auf das schon in ihm enthaltene Einzelne bloss kurz zu beziehen'; p6:s2 'sehr viel Einzelnes in den allgemeinen Theil zu verweben'.",
+          "proposed_fix": "(a) 'since that part permits one merely to refer briefly to the particulars already contained in it'. (b) p6:s2: 'to weave a great many particulars into the general part'. (c) Optional: 'It may, however, also be reserved for later to ...'.",
+          "source_ids": [
+            "p6:s1",
+            "p6:s2"
+          ]
+        },
+        {
+          "id": "F9",
+          "source_id": "p7:s1",
+          "severity": "defensible_alternative",
+          "issue": "'idioms' for 'Idiome' is historically correct (idiom = a particular language) but may be read by modern readers as 'idiomatic expressions'.",
+          "source_support": "'als unter der allgemeinen Menschensprache, wie Arten unter einer Gattung, begriffene Idiome'.",
+          "proposed_fix": "No change required. Optional: 'as particular languages (Idiome) subsumed under ...'.",
+          "source_ids": [
+            "p7:s1"
+          ]
+        },
+        {
+          "id": "F10",
+          "source_id": "p7:s6 (with p7:s1)",
+          "severity": "material",
+          "issue": "Classificatory analogy, moderate confidence. p7:s1 makes the individual languages species ('Arten') under the genus ('Gattung') of human language. p7:s6 then renders 'bloss als neue Gattung betrachtet' as 'merely as a new genus', so each language becomes a genus. The German repeats 'Gattung', so the literal rendering is lexically consistent. But 'Gattung' also has a broad sense ('kind', a taxon to be placed in the system) that 'genus' lacks, so the English turns a loose authorial usage into a hard taxonomic contradiction. Here the word is not paired with 'Art' and means 'a new kind to be assigned its place in the system' (compare p7:s3).",
+          "source_support": "p7:s1 'wie Arten unter einer Gattung'; p7:s3 'weist ihnen ... ihre Stelle in dem System an'; p7:s6 'da auch bloss als neue Gattung betrachtet, doch jede Sprache ...'. Orientation only, from the uncorrected OCR and not relied on to establish any reading: the work appears to use 'Gattung' broadly ('Menschengattung', 'einer Gattung bestimmter Sprachen', 'Pflanzengattung').",
+          "proposed_fix": "Preferred: 'even when regarded merely as a new kind', with a translator's note that the German repeats 'Gattung' from p7:s1. Alternative: keep 'genus' only with a note flagging the shift of level against p7:s1. Do not leave 'genus' unannotated.",
+          "source_ids": [
+            "p7:s6",
+            "p7:s1"
+          ]
+        },
+        {
+          "id": "F11",
+          "source_id": "p7:s6 (with p1:s1)",
+          "severity": "minor",
+          "issue": "Two different German terms are both rendered 'character' in one sentence: 'localen und geschichtlichen Beschaffenheit' ('local and historical character') and 'Eigenthümlichkeit dieser' ('their distinctive character'). 'distinctive character' also renders 'besondre Beschaffenheit' in p1:s1. This blurs the contrast between the circumstantial constitution of a language and its peculiarity, which is the hinge of the sentence's two-way dependence.",
+          "source_support": "'also in ihrer localen und geschichtlichen Beschaffenheit'; 'die Kenntniss der Eigenthümlichkeit dieser voraussetzt'; p1:s1 'die besondre Beschaffenheit seiner Sprachen'.",
+          "proposed_fix": "'and hence in its local and historical constitution (or condition) ... presupposes knowledge of their distinctive character'.",
+          "source_ids": [
+            "p7:s6",
+            "p1:s1"
+          ]
+        },
+        {
+          "id": "F12",
+          "source_id": "p7:s7",
+          "severity": "minor",
+          "issue": "(a) 'will nevertheless differ' reads 'werden' as a future auxiliary. With no infinitive present, 'verschieden ... werden' is 'become / turn out different', a statement about how the two modes come out in practice. (b) 'relationship' for 'Verwandtschaft' is vague beside 'descent'; 'kinship' or 'affinity' is the genealogical sense. This second point is a defensible alternative.",
+          "source_support": "'Allein durchaus verschieden dem Inhalte und der Methode nach werden diese beiden Darstellungsarten dennoch'; 'die Abstammung und die Verwandtschaft der Sprachen'.",
+          "proposed_fix": "'Yet these two modes of presentation nevertheless turn out entirely different in content and method, and all investigations into the descent and kinship of languages, for example, belong primarily to the latter.'",
+          "source_ids": [
+            "p7:s7"
+          ]
+        },
+        {
+          "id": "F13",
+          "source_id": "p7:s8",
+          "severity": "defensible_alternative",
+          "issue": "'knowledge of the languages' for 'die Kenntniss dieser' loses the tie to 'der Sprachen an sich'. The claim is that knowledge of the languages in themselves must precede the geographical-historical presentation (compare p7:s6 'setzt die Kenntniss der Eigenthümlichkeit dieser voraus').",
+          "source_support": "'mit der Darstellung der Sprachen an sich, da die Kenntniss dieser immer vorangehen muss'.",
+          "proposed_fix": "Optional: 'since knowledge of these must always come first' or 'knowledge of the languages as such'.",
+          "source_ids": [
+            "p7:s8"
+          ]
+        },
+        {
+          "id": "F14",
+          "source_id": "p7:s9",
+          "severity": "minor",
+          "issue": "(a) 'dieser Zweck' is 'that aim' while 'Hauptzweck' is 'main purpose' in the same sentence (and 'Zweck' is 'purpose' in p7:s1), which obscures that both point to the same governing purpose, the presentation an sich. (b) 'the two distinct ways' for 'die beiden unterschiedenen Darstellungsweisen' loses the participial sense 'the two modes distinguished above'. (c) 'configuration of America' for 'Beschaffenheit Amerika's' is an interpretive but defensible narrowing to geographical shape.",
+          "source_support": "'wo dieser Zweck die Ordnung gleichgültig lässt'; 'jedes andre, den Hauptzweck nicht störende Mittel'; 'die beiden unterschiedenen Darstellungsweisen'; 'der Beschaffenheit Amerika's gemäss'.",
+          "proposed_fix": "(a) 'Where that purpose leaves the order indifferent ... that does not interfere with the main purpose'. (b) 'the two modes of presentation distinguished above'. (c) No change required.",
+          "source_ids": [
+            "p7:s9"
+          ]
+        },
+        {
+          "id": "F15",
+          "source_id": "p1:s1; p1:s3; p2:s2; p2:s3; p3:s2; p3:s5",
+          "severity": "defensible_alternative",
+          "issue": "Terminology cross-mapping, reported for awareness only. 'Untersuchung' is 'inquiry' (p1:s1) and 'investigation' (p3:s5); 'Forschung' is 'investigation' (p2:s3), 'inquiry' (p3:s2) and 'research' (p4:s1, p6:s4). 'Bildung' (p1:s3, of language stocks) and 'Ausbildung' (p2:s2, of nations) are both 'development'. No argument depends on these distinctions in the Introduction, and uniformity should not be forced.",
+          "source_support": "p1:s1 'Gegenstande einer Untersuchung'; p3:s5 'diese Untersuchung' (twice); p2:s3 'tiefer eindringenden Forschung'; p3:s2 'eindringenden Forschung'; p1:s3 'Stufen der von ihnen erreichten Bildung'; p2:s2 'In der Ausbildung der Nationen'.",
+          "proposed_fix": "Optional: align the echo p2:s3 / p3:s2 (the same phrase 'eindringende Forschung') on one English noun; consider 'cultivation' for 'Bildung' at p1:s3. Otherwise leave.",
+          "source_ids": [
+            "p1:s1",
+            "p1:s3",
+            "p2:s2",
+            "p2:s3",
+            "p3:s2",
+            "p3:s5"
+          ]
+        },
+        {
+          "id": "F16",
+          "source_id": "p7:s3",
+          "severity": "minor",
+          "issue": "'the entire rock deposit' for 'das ganze Steinlager' suggests a single deposit. The parallel with 'Pflanzendecke' points to the whole body of rock beds or strata of a region.",
+          "source_support": "'die ganze Pflanzendecke, das ganze Steinlager eines Erdstrichs'.",
+          "proposed_fix": "'the entire vegetation cover and the entire rock strata (or rock formations) of a region'.",
+          "source_ids": [
+            "p7:s3"
+          ]
+        }
+      ],
+      "limitations": [
+        "Audit based solely on the supplied checked German (38 sentences) and the supplied English. The Leitzmann scan was not consulted, so the checked transcription is taken as given.",
+        "The whole-work OCR was used only for orientation, on the breadth of 'Gattung' (F10) and on sound as the seat of a language's individuality (p5:s2). No reading or finding rests on it alone; F10 is supported by the tension between p7:s1 and p7:s6 in the checked text.",
+        "F10 is a moderate-confidence judgement. Retaining 'genus' is lexically consistent with the German, so the finding is that the English needs resolution or annotation, not that it is a plain mistranslation.",
+        "No translator notes, glossary or earlier audit findings were seen; some points (notably F10, F9, F14c) may already be handled in notes.",
+        "The printed paragraph break after p7:s7 cannot be verified in the supplied English, which is laid out by sentence. The editorial note at passage 1 and the reported cancellation of the first seven paragraphs (Drechsel 2024) were not audited and remain unverified.",
+        "Readability and style were assessed only where they affect fidelity or referents (e.g. F6).",
+        "Single independent pass as instructed: no outside research, no second reviewer and no tools were used, and no retranslation is offered beyond local fixes."
+      ],
+      "models": [
+        "claude-fable-5-2"
+      ],
+      "coverage_detail": {
+        "total_source_sentences": 38,
+        "all_checked": true,
+        "sentences": [
+          {
+            "source_id": "p1:s1",
+            "status": "no defect; see F15 (terminology note)"
+          },
+          {
+            "source_id": "p1:s2",
+            "status": "finding F1"
+          },
+          {
+            "source_id": "p1:s3",
+            "status": "no defect; see F15"
+          },
+          {
+            "source_id": "p1:s4",
+            "status": "no finding"
+          },
+          {
+            "source_id": "p1:s5",
+            "status": "no finding"
+          },
+          {
+            "source_id": "p1:s6",
+            "status": "no finding"
+          },
+          {
+            "source_id": "p1:s7",
+            "status": "finding F2"
+          },
+          {
+            "source_id": "p2:s1",
+            "status": "no finding"
+          },
+          {
+            "source_id": "p2:s2",
+            "status": "finding F3 (no change required); see F15"
+          },
+          {
+            "source_id": "p2:s3",
+            "status": "finding F4; see F15"
+          },
+          {
+            "source_id": "p3:s1",
+            "status": "finding F5"
+          },
+          {
+            "source_id": "p3:s2",
+            "status": "no defect; see F15"
+          },
+          {
+            "source_id": "p3:s3",
+            "status": "no finding"
+          },
+          {
+            "source_id": "p3:s4",
+            "status": "no finding"
+          },
+          {
+            "source_id": "p3:s5",
+            "status": "no defect; see F15"
+          },
+          {
+            "source_id": "p4:s1",
+            "status": "no finding"
+          },
+          {
+            "source_id": "p4:s2",
+            "status": "finding F6"
+          },
+          {
+            "source_id": "p4:s3",
+            "status": "no finding"
+          },
+          {
+            "source_id": "p5:s1",
+            "status": "no finding"
+          },
+          {
+            "source_id": "p5:s2",
+            "status": "no finding (appositive reading of 'die bestimmte Lautbezeichnung' judged sound; see limitations)"
+          },
+          {
+            "source_id": "p5:s3",
+            "status": "no finding"
+          },
+          {
+            "source_id": "p5:s4",
+            "status": "no finding"
+          },
+          {
+            "source_id": "p5:s5",
+            "status": "finding F7"
+          },
+          {
+            "source_id": "p5:s6",
+            "status": "no finding"
+          },
+          {
+            "source_id": "p5:s7",
+            "status": "no finding"
+          },
+          {
+            "source_id": "p6:s1",
+            "status": "finding F8"
+          },
+          {
+            "source_id": "p6:s2",
+            "status": "see F8 (cross-sentence echo); otherwise no finding"
+          },
+          {
+            "source_id": "p6:s3",
+            "status": "no finding"
+          },
+          {
+            "source_id": "p6:s4",
+            "status": "no finding (Sprachkunde/Sprachenkunde distinction preserved)"
+          },
+          {
+            "source_id": "p7:s1",
+            "status": "finding F9 (no change required); anchor for F10"
+          },
+          {
+            "source_id": "p7:s2",
+            "status": "no finding"
+          },
+          {
+            "source_id": "p7:s3",
+            "status": "finding F16"
+          },
+          {
+            "source_id": "p7:s4",
+            "status": "no finding"
+          },
+          {
+            "source_id": "p7:s5",
+            "status": "no finding"
+          },
+          {
+            "source_id": "p7:s6",
+            "status": "findings F10, F11"
+          },
+          {
+            "source_id": "p7:s7",
+            "status": "finding F12"
+          },
+          {
+            "source_id": "p7:s8",
+            "status": "finding F13"
+          },
+          {
+            "source_id": "p7:s9",
+            "status": "finding F14"
+          }
+        ]
+      },
+      "auditor": "claude"
+    },
+    {
+      "coverage": [
+        "p1:s1",
+        "p1:s2",
+        "p1:s3",
+        "p1:s4",
+        "p1:s5",
+        "p1:s6",
+        "p1:s7",
+        "p2:s1",
+        "p2:s2",
+        "p2:s3",
+        "p3:s1",
+        "p3:s2",
+        "p3:s3",
+        "p3:s4",
+        "p3:s5",
+        "p4:s1",
+        "p4:s2",
+        "p4:s3",
+        "p5:s1",
+        "p5:s2",
+        "p5:s3",
+        "p5:s4",
+        "p5:s5",
+        "p5:s6",
+        "p5:s7",
+        "p6:s1",
+        "p6:s2",
+        "p6:s3",
+        "p6:s4",
+        "p7:s1",
+        "p7:s2",
+        "p7:s3",
+        "p7:s4",
+        "p7:s5",
+        "p7:s6",
+        "p7:s7",
+        "p7:s8",
+        "p7:s9"
+      ],
+      "verdict": "Pass with minor corrections; no material mistranslation was substantiated across the 38 Introduction sentences.",
+      "findings": [
+        {
+          "id": "F1",
+          "source_id": "p1:s2",
+          "severity": "minor",
+          "issue": "\"have converged\" can suggest linguistic convergence toward similarity, whereas German describes diverse languages having come together within the Old World continents.",
+          "source_support": "German: \"sind so verschiedene Sprachen zusammengeflossen\"; the following contrast concerns geographical accumulation and the accidental continental grouping, not structural convergence.",
+          "proposed_fix": "\"Such diverse languages have flowed together [in Europe, Asia, and Africa]\" or \"have come together.\"",
+          "source_ids": [
+            "p1:s2"
+          ]
+        },
+        {
+          "id": "F2",
+          "source_id": "p1:s7",
+          "severity": "minor",
+          "issue": "\"self-contained native interaction\" changes intercourse restricted to itself into an apparently inherent self-contained quality and modernizes Verkehr.",
+          "source_support": "German: \"des auf sich selbst beschränkten einheimischen Verkehrs\"; beschränkt denotes restriction or confinement, and Verkehr denotes social intercourse or interchange.",
+          "proposed_fix": "\"the wearing-down influence of native intercourse confined to itself\" or \"of indigenous interchange restricted to itself.\"",
+          "source_ids": [
+            "p1:s7"
+          ]
+        },
+        {
+          "id": "F3",
+          "source_id": "p2:s3",
+          "severity": "minor",
+          "issue": "The hedging force of \"wohl\" in the second rejected claim is omitted, making that claim sound less tentatively attributed than in German.",
+          "source_support": "German parallels \"die bisweilen fälschlich behauptete Einerleiheit\" with \"die auch wohl behauptete Abweichung.\"",
+          "proposed_fix": "\"as does the deviation from the structure of all other languages that has also at times been asserted.\"",
+          "source_ids": [
+            "p2:s3"
+          ]
+        },
+        {
+          "id": "F4",
+          "source_id": "p3:s1",
+          "severity": "minor",
+          "issue": "Rendering darstellen as \"describing\" weakens the Introduction's central Darstellung terminology and collapses darstellen with schildern, elsewhere also rendered by description language.",
+          "source_support": "German p3:s1 has \"ihren Bau zu erforschen, darzustellen\"; Darstellung governs p4:s1, p5:s1, p6:s1 and p7:s7-p7:s8, while Schilderung is distinct in p5:s3 and p7:s6.",
+          "proposed_fix": "\"to investigate and present their structure.\"",
+          "source_ids": [
+            "p3:s1"
+          ]
+        },
+        {
+          "id": "F5",
+          "source_id": "p3:s2",
+          "severity": "minor",
+          "issue": "\"essential character\" paraphrases Wesen in terms also used for Beschaffenheit and Eigenthümlichkeit, blurring Humboldt's distinct philosophical vocabulary.",
+          "source_support": "German p3:s2: \"in das Wesen dieser Sprachen\"; compare Beschaffenheit in p1:s1 and Eigenthümlichkeit in p7:s6, both rendered with \"character\" in English.",
+          "proposed_fix": "\"inquiry penetrating as deeply as possible into the nature [Wesen] of these languages.\"",
+          "source_ids": [
+            "p3:s2"
+          ]
+        },
+        {
+          "id": "F6",
+          "source_id": "p4:s2",
+          "severity": "minor",
+          "issue": "The pronoun in \"must first be created for them\" is referentially ambiguous and may attach grammatically to the individual languages rather than to the reader.",
+          "source_support": "German has the singular dative relative \"dem\" referring unambiguously to \"der Leser\": resources must first be created for the reader.",
+          "proposed_fix": "\"resources for studying the individual languages must first be created for the reader.\"",
+          "source_ids": [
+            "p4:s2"
+          ]
+        },
+        {
+          "id": "F7",
+          "source_id": "p5:s2",
+          "severity": "uncertainty",
+          "issue": "\"designation by sounds\" resolves Lautbezeichnung in one direction; the checked German also permits emphasis on the determinate sound-form or sound-specification that constitutes individuality and is omitted from the general account.",
+          "source_support": "German: \"das, was die wahre Individualität der einzelnen Sprache ausmacht, die bestimmte Lautbezeichnung, fällt hinweg.\" The compound itself does not in this supplied sentence fully disambiguate designation by sounds from determinate designation or specification of sounds.",
+          "proposed_fix": "Use the more neutral \"the determinate sound-designation\" or \"its specific sound-form,\" with a translator's note if the edition permits one.",
+          "source_ids": [
+            "p5:s2"
+          ]
+        },
+        {
+          "id": "F8",
+          "source_id": "p5:s6",
+          "severity": "minor",
+          "issue": "\"worked one's way ... into an understanding of\" adds attained understanding, whereas hineindenken denotes thinking oneself into the structure through sustained imaginative and analytical entry.",
+          "source_support": "German: \"wenn man sich mit Mühe und Anstrengung in den Bau einer Sprache hineingedacht hat.\"",
+          "proposed_fix": "\"to have thought one's way, with effort and exertion, into the structure of a language.\"",
+          "source_ids": [
+            "p5:s6"
+          ]
+        },
+        {
+          "id": "F9",
+          "source_id": "p6:s1",
+          "severity": "minor",
+          "issue": "\"remain an option\" weakens vorbehalten bleiben: the later publication is not merely an available option but something that may be reserved for subsequent undertaking.",
+          "source_support": "German: \"Es kann indess auch vorbehalten bleiben, auf die allgemeine Darstellung ... Grammatiken und Wörterbücher ... folgen zu lassen.\"",
+          "proposed_fix": "\"It may, however, also be reserved for later to follow the general presentation with grammars and dictionaries...\"",
+          "source_ids": [
+            "p6:s1"
+          ]
+        },
+        {
+          "id": "F10",
+          "source_id": "p7:s6",
+          "severity": "defensible_alternative",
+          "issue": "\"new genus\" creates an apparent taxonomic rank tension with p7:s1, where languages are species under the genus of human language; that tension is already present in the German's repeated Gattung and may reflect relative logical or classificatory levels rather than a translation error.",
+          "source_support": "p7:s1: \"wie Arten unter einer Gattung\"; p7:s6: \"bloss als neue Gattung betrachtet.\" Both occurrences use Gattung, so literal retention is defensible and silent harmonization would conceal a source-level shift.",
+          "proposed_fix": "No textual change required; retain \"genus\" and, if notes are permitted, note the shift in Gattung between p7:s1 and p7:s6 rather than replacing it with \"species.\"",
+          "source_ids": [
+            "p7:s6"
+          ]
+        },
+        {
+          "id": "F11",
+          "source_id": "p7:s9",
+          "severity": "defensible_alternative",
+          "issue": "\"configuration of America\" narrows Beschaffenheit toward physical configuration, but the immediately following south-to-north and west-to-east geographical order supports that contextual interpretation.",
+          "source_support": "German: \"der Beschaffenheit Amerika's gemäss, von Süden nach Norden, und von Westen nach Osten.\"",
+          "proposed_fix": "No change required; \"in accordance with America's [geographical] character\" would be a more literal but less specific alternative.",
+          "source_ids": [
+            "p7:s9"
+          ]
+        }
+      ],
+      "limitations": [
+        "Audit confined to the supplied checked German Introduction sentences and supplied English synthesis for passages 1-7; no outside research, additional reviewers, translator notes, glossary, candidates, or other audit findings were used.",
+        "The whole-work uncorrected OCR was treated only as background and was not used to establish any disputed German reading; consequently the interpretation of Lautbezeichnung in p5:s2 remains an uncertainty.",
+        "The printed bibliographic editorial note at passage 1 was excluded as apparatus, as instructed. Reported manuscript cancellation, marks, extent, and authorial finality were not independently assessable from the supplied texts.",
+        "English sentences that split one German sentence, notably p1:s6, p2:s3, and p7:s9, were audited as renderings of their single source IDs; sentence splitting itself was not treated as a defect.",
+        "Positive English-readability assessments for passages 1-5 were not treated as evidence of fidelity; all 38 sentences were checked independently against the German.",
+        "Terminology judgments are based on internal usage across the supplied Introduction and contextually distinguishable senses; where a rendering is defensible, it is identified as such rather than counted as a material defect."
+      ],
+      "models": [
+        "muse-wonder-full-1.0"
+      ],
+      "coverage_detail": [
+        "p1:s1",
+        "p1:s2",
+        "p1:s3",
+        "p1:s4",
+        "p1:s5",
+        "p1:s6",
+        "p1:s7",
+        "p2:s1",
+        "p2:s2",
+        "p2:s3",
+        "p3:s1",
+        "p3:s2",
+        "p3:s3",
+        "p3:s4",
+        "p3:s5",
+        "p4:s1",
+        "p4:s2",
+        "p4:s3",
+        "p5:s1",
+        "p5:s2",
+        "p5:s3",
+        "p5:s4",
+        "p5:s5",
+        "p5:s6",
+        "p5:s7",
+        "p6:s1",
+        "p6:s2",
+        "p6:s3",
+        "p6:s4",
+        "p7:s1",
+        "p7:s2",
+        "p7:s3",
+        "p7:s4",
+        "p7:s5",
+        "p7:s6",
+        "p7:s7",
+        "p7:s8",
+        "p7:s9"
+      ],
+      "auditor": "muse"
+    }
+  ],
+  "dispositions": [
+    {
+      "auditor": "claude",
+      "finding_id": "F1",
+      "source_ids": [
+        "p1:s2"
+      ],
+      "severity": "minor",
+      "resolution": "Clarify geographical confluence as have come together in an attributed new version of passage1; retain the earlier reviewed version."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F2",
+      "source_ids": [
+        "p1:s7"
+      ],
+      "severity": "defensible_alternative",
+      "resolution": "Retain wearing-down with the existing abrasion/levelling alternative and internal-contact explanation; do not assert completed equalisation."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F3",
+      "source_ids": [
+        "p2:s2"
+      ],
+      "severity": "defensible_alternative",
+      "resolution": "Retain the earlier provisional referents and notes. Neither additional disambiguation nor a new main-text version is justified here."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F4",
+      "source_ids": [
+        "p2:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Retain the earlier defensible scope of even in this respect and the attributed second claim; record alternative placements and the softening/at-times reading of wohl in the section notes. No unequivocal reversal is established."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F5",
+      "source_ids": [
+        "p3:s1"
+      ],
+      "severity": "minor",
+      "resolution": "Retain describing in the reviewed text; explicitly connect it with the presentation programme in the notes. A shared German root does not force one English verb in all contexts; calls for remains a defended qualified recasting."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F6",
+      "source_ids": [
+        "p4:s2"
+      ],
+      "severity": "minor",
+      "resolution": "Replace for them with for the reader through an attributed body revision, preserving the old version and explicitly rechecking its sentence correspondence."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F7",
+      "source_ids": [
+        "p5:s5"
+      ],
+      "severity": "minor",
+      "resolution": "Retain internal however as a possible continuation against the admitted cost in passage5; the high valuation remains clear. Indeed is a possible editorial alternative, not a required correction."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F8",
+      "source_ids": [
+        "p6:s1",
+        "p6:s2"
+      ],
+      "severity": "minor",
+      "resolution": "Restore merely before refer briefly and repeat particulars in6.2, preserving the argument’s lexical connection. Retain the possibility/deferment rather than a firm future commitment."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F9",
+      "source_ids": [
+        "p7:s1"
+      ],
+      "severity": "defensible_alternative",
+      "resolution": "Retain idioms under the local terminology rule and explain the period sense as particular languages/varieties in the notes."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F10",
+      "source_ids": [
+        "p7:s6",
+        "p7:s1"
+      ],
+      "severity": "material",
+      "resolution": "Accept the need for explicit annotation, not a demonstrated plain mistranslation. Retain genus to expose repeated Gattung; record the shift against the earlier species/genus analogy and new kind as an alternative. Do not infer fixed modern taxonomic ranks or decide from uncorrected OCR."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F11",
+      "source_ids": [
+        "p7:s6",
+        "p1:s1"
+      ],
+      "severity": "minor",
+      "resolution": "Use local and historical constitution in7.6 and retain distinctive character for Eigenthümlichkeit there. Do not impose this as a universal rule or rewrite the different context in1."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F12",
+      "source_ids": [
+        "p7:s7"
+      ],
+      "severity": "minor",
+      "resolution": "Use turn out to be entirely different for werden with an adjective. Use descent and relatedness locally; kinship remains possible, but the noun alone is not proof of a genealogical relation."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F13",
+      "source_ids": [
+        "p7:s8"
+      ],
+      "severity": "defensible_alternative",
+      "resolution": "Use knowledge of these, carrying the preceding languages-in-themselves phrase; record the grammatical alternative without pretending the antecedent is established beyond doubt."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F14",
+      "source_ids": [
+        "p7:s9"
+      ],
+      "severity": "minor",
+      "resolution": "Use purpose consistently in the two governing-purpose references and restore distinguished above. Retain ways of presenting for Darstellungsweisen; do not erase its relation to modes of presentation. Configuration remains a qualified geographical reading."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F15",
+      "source_ids": [
+        "p1:s1",
+        "p1:s3",
+        "p2:s2",
+        "p2:s3",
+        "p3:s2",
+        "p3:s5"
+      ],
+      "severity": "defensible_alternative",
+      "resolution": "Retain contextual equivalents and the earlier qualifications. Do not force Bildung/Ausbildung or Forschung/Untersuchung into universal one-to-one English mappings absent a consequential contrast."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F16",
+      "source_ids": [
+        "p7:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Render the regional aggregate as all the rock deposits rather than one isolated deposit; record bed/formation alternatives without specifying geological strata as settled."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F1",
+      "source_ids": [
+        "p1:s2"
+      ],
+      "severity": "minor",
+      "resolution": "Clarify to have come together in an attributed new version of passage1; preserve the source’s contrast between geographical confluence and structural diversity."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F2",
+      "source_ids": [
+        "p1:s7"
+      ],
+      "severity": "minor",
+      "resolution": "Retain the reviewed self-contained native interaction with its existing explicit explanation: restricted to an internal network, not isolated communities. Intercourse/interchange remain alternatives; modern interaction does not itself change the relation."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F3",
+      "source_ids": [
+        "p2:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Keep the previously recorded softening/at-times alternative for wohl visible. The English still attributes the rejected claim rather than asserting it; no mandatory temporal reading is established."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F4",
+      "source_ids": [
+        "p3:s1"
+      ],
+      "severity": "minor",
+      "resolution": "Retain describing in3 as a contextual rendering and explain its connection with presentation elsewhere; no rigid lexical bijection is imposed."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F5",
+      "source_ids": [
+        "p3:s2"
+      ],
+      "severity": "minor",
+      "resolution": "Retain essential character as the local Wesen choice, distinguishing Natur and qualifying the relation to Eigenthümlichkeit/Beschaffenheit. Nature would remove an earlier deliberate distinction; no universal essence rule is inferred."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F6",
+      "source_ids": [
+        "p4:s2"
+      ],
+      "severity": "minor",
+      "resolution": "Clarify the singular beneficiary to for the reader through an attributed new English version and retain the old wording in history."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F7",
+      "source_ids": [
+        "p5:s2"
+      ],
+      "severity": "uncertainty",
+      "resolution": "Retain the provisional sound-designation reading with the previously stated notation/specification alternative; do not silently replace the historically broader compound with a modern sound-form concept."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F8",
+      "source_ids": [
+        "p5:s6"
+      ],
+      "severity": "minor",
+      "resolution": "Retain worked one’s way into an understanding as a contextual rendering of hineingedacht; clarify that it does not claim complete understanding or fieldwork, and preserve the unresolved comparative placement."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F9",
+      "source_ids": [
+        "p6:s1"
+      ],
+      "severity": "minor",
+      "resolution": "Make the reservation/deferment explicit as may also be left for later, while retaining the modal possibility rather than promising publication."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F10",
+      "source_ids": [
+        "p7:s6"
+      ],
+      "severity": "defensible_alternative",
+      "resolution": "Retain the repeated genus with an explicit note on the shift and new kind alternative. Do not silently normalise Gattung to species; the difference between audit severity judgments remains visible."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F11",
+      "source_ids": [
+        "p7:s9"
+      ],
+      "severity": "defensible_alternative",
+      "resolution": "Retain configuration of America as supported by the following compass-order phrase; note the broader character/constitution alternative."
+    }
+  ]
+}

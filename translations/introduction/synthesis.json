@@ -1,0 +1,271 @@
+{
+  "section": "Introduction",
+  "stage": "coordinator section synthesis before audits",
+  "paragraphs": [
+    {
+      "number": 1,
+      "new_translation": false,
+      "sentences": [
+        {
+          "source_id": "p1:s1",
+          "english": "If it may seem strange to make precisely the languages of a single continent the subject of an inquiry, this approach, at first sight merely geographical, is justified in the case of America by the continent’s isolated position and the distinctive character of its languages."
+        },
+        {
+          "source_id": "p1:s2",
+          "english": "In Europe, Asia, and Africa, such diverse languages have converged that the study of language, at least, can find no reason to investigate them in the particular grouping in which, always more or less by chance, they now find themselves within the boundaries of the same continent."
+        },
+        {
+          "source_id": "p1:s3",
+          "english": "The language stocks of each of these continents also show very considerable differences, both in their structure and in the stages of development they have attained."
+        },
+        {
+          "source_id": "p1:s4",
+          "english": "America, by contrast, apart from the most recent European immigration, which has affected the continent’s inner national distinctiveness only through its destructive influence, has experienced either no immigration at all or only immigration of which scarcely a trace that could be called historical remains."
+        },
+        {
+          "source_id": "p1:s5",
+          "english": "Whatever the origin of the American peoples and languages may therefore be, their fortunes have for many centuries been shaped solely from within and through contact with one another."
+        },
+        {
+          "source_id": "p1:s6",
+          "english": "Throughout the period for which we know the history of this vast continent, down to subjugation by Europeans, its countless tribes, hordes, and families, from the farthest north to the farthest south, came, free from foreign influence, into a ferment of their powers through themselves alone. They imparted only their own distinctive traits to one another."
+        },
+        {
+          "source_id": "p1:s7",
+          "english": "Anything foreign that may have been introduced at a still earlier time has therefore subsequently undergone, for centuries, this wearing-down influence of self-contained native interaction."
+        }
+      ],
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      ]
+    },
+    {
+      "number": 2,
+      "new_translation": false,
+      "sentences": [
+        {
+          "source_id": "p2:s1",
+          "english": "Further support for this comes from the striking similarity of the American languages."
+        },
+        {
+          "source_id": "p2:s2",
+          "english": "There have certainly been substantial differences in the development of the nations to which they belong, differences unmistakable in the languages themselves as well; yet the lack of alphabetic writing, and hence of literature in the proper sense, places them all, without exception, on an equal footing at a lower level."
+        },
+        {
+          "source_id": "p2:s3",
+          "english": "It is true that the sometimes wrongly asserted sameness of their structure disappears under more penetrating investigation, as does their deviation from the structure of all other languages, which has also been asserted. Nevertheless, all the languages of America do in fact exhibit broad features of similarity, and the north and south of the continent do not permit genuinely separating boundaries to be drawn even in this respect."
+        }
+      ],
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3
+        ]
+      ]
+    },
+    {
+      "number": 3,
+      "new_translation": false,
+      "sentences": [
+        {
+          "source_id": "p3:s1",
+          "english": "It may therefore well be said, with good reason, that the general study of language calls for considering the American languages in their interconnection, inquiring into and describing their structure, and comparing it with that of the languages of the other continents."
+        },
+        {
+          "source_id": "p3:s2",
+          "english": "My intention in the present work is to do this to the best of my abilities, with due completeness, but above all through inquiry that penetrates as deeply as possible into the essential character of these languages."
+        },
+        {
+          "source_id": "p3:s3",
+          "english": "To achieve this aim, I have for a number of years not merely studied the individual languages but also prepared my own treatments of them, and for an even longer time collected materials, chiefly in manuscript."
+        },
+        {
+          "source_id": "p3:s4",
+          "english": "Collecting of this kind can never attain completeness; that is inherent in the nature of the matter itself."
+        },
+        {
+          "source_id": "p3:s5",
+          "english": "But the resources that are at my disposal and are to be regarded as sources for this investigation provide, when combined with what has already been very usefully prepared in several other works, abundant material for a treatment covering the whole field of this investigation, and sufficient material for a reliable assessment."
+        }
+      ],
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      ]
+    },
+    {
+      "number": 4,
+      "new_translation": false,
+      "sentences": [
+        {
+          "source_id": "p4:s1",
+          "english": "For a time I wavered between two plans: publishing the individual grammars and dictionaries first, or first presenting the general conclusions drawn from the research into the individual languages."
+        },
+        {
+          "source_id": "p4:s2",
+          "english": "The latter course has the disadvantage that the reader can check the correctness of the general claims only very incompletely: resources for studying the individual languages must first be created for them, given the rarity and often very inconvenient arrangement of those that exist."
+        },
+        {
+          "source_id": "p4:s3",
+          "english": "But I was deterred from the former course by the protracted nature of the undertaking and the length of time that, given the difficulty of publishing such works, would necessarily have elapsed in the process."
+        }
+      ],
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3
+        ]
+      ]
+    },
+    {
+      "number": 5,
+      "new_translation": false,
+      "sentences": [
+        {
+          "source_id": "p5:s1",
+          "english": "I therefore begin with the general presentation of the structure of the American languages, in such a way that I shall try to set out fully, in every respect in which languages are to be assessed, the distinctive characteristics of the American languages in general and the differences among the individual languages."
+        },
+        {
+          "source_id": "p5:s2",
+          "english": "In this way, the most important parts of the presentation of the structure of the individual languages are woven into the general presentation; only the less essential matters and what constitutes the true individuality of the individual language—the specific designation by sounds—are left out."
+        },
+        {
+          "source_id": "p5:s3",
+          "english": "On the other hand, this procedure admittedly breaks up the description of the individual languages and makes a complete overview of the structure of each one impossible."
+        },
+        {
+          "source_id": "p5:s4",
+          "english": "Yet one also gains the advantage of seeing every distinctive characteristic of each individual language within the general picture, at the very point where it can be compared with those of the other languages and appraised."
+        },
+        {
+          "source_id": "p5:s5",
+          "english": "Anyone accustomed to investigating the structure of many languages will, however, scarcely be able to rate this very advantage too highly."
+        },
+        {
+          "source_id": "p5:s6",
+          "english": "For it is one of the most disheartening experiences, though no less common for that, to have worked one’s way with effort and exertion into an understanding of a language’s structure and yet remain undecided about how that language is now to be placed within the field of language study as a whole, and how its worth is to be determined amid the variety of merits and shortcomings to be weighed against one another."
+        },
+        {
+          "source_id": "p5:s7",
+          "english": "The overview we have just found lacking in this procedure can nevertheless be recovered to some extent through an index that brings the material together."
+        }
+      ],
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      ]
+    },
+    {
+      "number": 6,
+      "new_translation": true,
+      "sentences": [
+        {
+          "source_id": "p6:s1",
+          "english": "It may, however, also remain an option to follow the general presentation of the American languages with grammars and dictionaries of the individual languages; this could be done all the more briefly after the general part, since that part permits brief reference to particulars already contained in it."
+        },
+        {
+          "source_id": "p6:s2",
+          "english": "I shall take care, however, to weave a great deal of detail into the general part, so that no excessively large gap arises even if I should be unable to make available the separate treatments of the various languages."
+        },
+        {
+          "source_id": "p6:s3",
+          "english": "For these treatments, by their nature, must take time and involve several people undertaking such work for the same purpose and from the same points of view."
+        },
+        {
+          "source_id": "p6:s4",
+          "english": "If the general study of language is ever to become a study accessible also to those for whom it is not an exclusive vocation, there must be grammars and dictionaries of all known languages prepared according to the same principles, and these, as a continuing body of material for new research, must be corrected and expanded in keeping with ever-advancing knowledge of languages."
+        }
+      ],
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ]
+      ]
+    },
+    {
+      "number": 7,
+      "new_translation": true,
+      "sentences": [
+        {
+          "source_id": "p7:s1",
+          "english": "The languages of a region can be presented chiefly in two ways that differ in purpose and treatment: first in themselves, as idioms subsumed under human language in general, as species under a genus; second in relation to the place and the people to which they belong, in their geographical and historical connections."
+        },
+        {
+          "source_id": "p7:s2",
+          "english": "This is no different from what one does with the products of nature, with plants and kinds of stone."
+        },
+        {
+          "source_id": "p7:s3",
+          "english": "One characterizes, identifies, and names the individual ones, assigning them their position in the system without regard to the place they occupy; but one also describes the entire vegetation cover and the entire rock deposit of a region."
+        },
+        {
+          "source_id": "p7:s4",
+          "english": "In both cases, the one way actually presents the languages and the natural objects, while the other presents not so much these themselves as the region in terms of them."
+        },
+        {
+          "source_id": "p7:s5",
+          "english": "The general study of language as a whole must be pursued in these two directions; so far, however, the latter, geographical and historical direction has been the more prevalent."
+        },
+        {
+          "source_id": "p7:s6",
+          "english": "These two perspectives cannot, however, be completely separated, since every language, even when regarded merely as a new genus, must nevertheless be investigated and examined together with all the circumstances that influence it, and hence in its local and historical character, and since describing a region in terms of its languages presupposes knowledge of their distinctive character."
+        },
+        {
+          "source_id": "p7:s7",
+          "english": "Yet these two modes of presentation will nevertheless differ entirely in content and method, and all investigations into the descent and relationship of languages, for example, belong primarily to the latter."
+        },
+        {
+          "source_id": "p7:s8",
+          "english": "I begin with the presentation of the languages in themselves, since knowledge of the languages must always come first, and this treatment is also by far the more important for the study of language."
+        },
+        {
+          "source_id": "p7:s9",
+          "english": "Accordingly, when referring to individual American languages, I shall always bring them forward in the order appropriate to the subject under discussion on each occasion. Where that aim leaves the order a matter of indifference, however, I shall follow the geographical order, proceeding, in accordance with the configuration of America, from south to north and from west to east, so as to keep the two distinct ways of presenting languages connected through this and every other means that does not interfere with the main purpose."
+        }
+      ],
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        [
+          8,
+          9
+        ]
+      ]
+    }
+  ],
+  "frozen_at": "2026-11-16T03:00:27.465989+00:00",
+  "candidates_sha256": "13eefb081312206b8d6687d8431517a9e1ed6cc4d32bf83c269cc442f3a42385",
+  "earlier_English": "Passages1–5 retained unchanged; their human review concerned English readability, not German fidelity."
+}

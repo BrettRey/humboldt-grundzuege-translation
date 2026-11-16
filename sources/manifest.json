@@ -3807,6 +3807,41 @@
       "consequential_span_links": 12,
       "review_status": "English/editorial review pending; no specialist fidelity certification",
       "preservation": "All original scholarly rows and 118 protected files unchanged; only later §4 provenance amended relative to previous projection, with English body unchanged."
+    },
+    {
+      "id": "introduction-section-cycle",
+      "authority": "D021–D022",
+      "source": "translations/introduction/source.json",
+      "English": "translations/introduction/revised.md",
+      "record": {
+        "path": "translations/introduction/record.json",
+        "sha256": "2c1b40dbc74e95e301cf452ef5fb64835f4ba3610d9c8d4e4f8e5b5e12bbd596"
+      },
+      "verification": {
+        "path": "translations/introduction/verification.json",
+        "sha256": "f7a84a2092038d1ba0cfe18fb82a905ce34067ea427d93a12a16840dff544bd3"
+      },
+      "coverage": {
+        "candidates": 3,
+        "audits": 2,
+        "audited_sentences": 38,
+        "audit_findings": 27,
+        "dispositions": 27
+      },
+      "source_sentences": 38,
+      "new_source_sentences": 13,
+      "new_translation": [
+        6,
+        7
+      ],
+      "body_clarifications": [
+        1,
+        4
+      ],
+      "selected_term_rule_links": 14,
+      "consequential_span_links": 19,
+      "review_status": "Complete Introduction English review pending; no specialist German-fidelity certification",
+      "preservation": "All prior rows in33 scholarly tables and118 protected files retained; old English bodies preserved behind two attributed new versions."
     }
   ]
 }

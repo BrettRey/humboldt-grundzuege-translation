@@ -1,0 +1,29 @@
+{
+  "section": "Introduction",
+  "events": [
+    {
+      "number": 1,
+      "old_version": "en-revised-v2",
+      "proposal_id": "c0233571-95e7-4ab1-a2fd-fcabf5009ba7",
+      "decision_id": "06fe568c-aecc-4e02-94e6-6bc590eb22a3",
+      "before": "have converged",
+      "after": "have come together",
+      "reason": "Clarify geographical confluence rather than structural convergence.",
+      "new_version": "revision-text-933d4f42-f708-5542-9ca6-a11ee25ecdf5",
+      "new_body_sha256": "bf86d5f7d5e9a11ae4cd9a378db95cf480184ed50ceba88f1025b4944ca1b164"
+    },
+    {
+      "number": 4,
+      "old_version": "en4-revised-v2",
+      "proposal_id": "2e468e69-9dae-4d9a-93d1-4eaa6e6e3920",
+      "decision_id": "4ef761a1-17d7-4442-a27b-66bba91cddad",
+      "before": "for them",
+      "after": "for the reader",
+      "reason": "Make the source’s singular reader beneficiary explicit rather than using ambiguous them.",
+      "new_version": "revision-text-5508d194-4f71-5864-ab79-1eb6cac6d1bc",
+      "new_body_sha256": "1a36158f78a4bbd75bfc2e7d2cfa5381965c01e06fb0cd73809bfaf516d1b574"
+    }
+  ],
+  "human_English_review": "pending for these new versions",
+  "preservation": "Every earlier English body and scholarly record retained; explicit new layouts and links are coordinator proposals."
+}

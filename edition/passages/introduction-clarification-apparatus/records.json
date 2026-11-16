@@ -1,0 +1,328 @@
+{
+  "format": "humboldt.passage",
+  "id": "introduction-clarification-apparatus",
+  "layouts": [
+    {
+      "analysis_id": "intro:p1:clarified:layout-v1",
+      "label": "§1",
+      "paragraph_id": "intro:p1:clarified:p",
+      "segments": [
+        {
+          "id": "intro:p1:clarified:s1",
+          "kind": "rendering",
+          "label": "Introduction clarified passage1, source sentence1",
+          "source_units": [
+            "g:s1"
+          ],
+          "text": "If it may seem strange to make precisely the languages of a single continent the subject of an inquiry, this approach, at first sight merely geographical, is justified in the case of America by the continent’s isolated position and the distinctive character of its languages."
+        },
+        {
+          "id": "intro:p1:clarified:s2",
+          "kind": "rendering",
+          "label": "Introduction clarified passage1, source sentence2",
+          "source_units": [
+            "g:s2"
+          ],
+          "text": "In Europe, Asia, and Africa, such diverse languages have come together that the study of language, at least, can find no reason to investigate them in the particular grouping in which, always more or less by chance, they now find themselves within the boundaries of the same continent."
+        },
+        {
+          "id": "intro:p1:clarified:s3",
+          "kind": "rendering",
+          "label": "Introduction clarified passage1, source sentence3",
+          "source_units": [
+            "g:s3"
+          ],
+          "text": "The language stocks of each of these continents also show very considerable differences, both in their structure and in the stages of development they have attained."
+        },
+        {
+          "id": "intro:p1:clarified:s4",
+          "kind": "rendering",
+          "label": "Introduction clarified passage1, source sentence4",
+          "source_units": [
+            "g:s4"
+          ],
+          "text": "America, by contrast, apart from the most recent European immigration, which has affected the continent’s inner national distinctiveness only through its destructive influence, has experienced either no immigration at all or only immigration of which scarcely a trace that could be called historical remains."
+        },
+        {
+          "id": "intro:p1:clarified:s5",
+          "kind": "rendering",
+          "label": "Introduction clarified passage1, source sentence5",
+          "source_units": [
+            "g:s5"
+          ],
+          "text": "Whatever the origin of the American peoples and languages may therefore be, their fortunes have for many centuries been shaped solely from within and through contact with one another."
+        },
+        {
+          "id": "intro:p1:clarified:s6",
+          "kind": "rendering",
+          "label": "Introduction clarified passage1, source sentence6",
+          "source_units": [
+            "g:s6"
+          ],
+          "text": "Throughout the period for which we know the history of this vast continent, down to subjugation by Europeans, its countless tribes, hordes, and families, from the farthest north to the farthest south, came, free from foreign influence, into a ferment of their powers through themselves alone. They imparted only their own distinctive traits to one another."
+        },
+        {
+          "id": "intro:p1:clarified:s7",
+          "kind": "rendering",
+          "label": "Introduction clarified passage1, source sentence7",
+          "source_units": [
+            "g:s7"
+          ],
+          "text": "Anything foreign that may have been introduced at a still earlier time has therefore subsequently undergone, for centuries, this wearing-down influence of self-contained native interaction."
+        }
+      ],
+      "source_version": "grundzuege-001-v1",
+      "version_id": "revision-text-933d4f42-f708-5542-9ca6-a11ee25ecdf5"
+    },
+    {
+      "analysis_id": "intro:p4:clarified:layout-v1",
+      "label": "§4",
+      "paragraph_id": "intro:p4:clarified:p",
+      "segments": [
+        {
+          "id": "intro:p4:clarified:s1",
+          "kind": "rendering",
+          "label": "Introduction clarified passage4, source sentence1",
+          "source_units": [
+            "p4:de:s1"
+          ],
+          "text": "For a time I wavered between two plans: publishing the individual grammars and dictionaries first, or first presenting the general conclusions drawn from the research into the individual languages."
+        },
+        {
+          "id": "intro:p4:clarified:s2",
+          "kind": "rendering",
+          "label": "Introduction clarified passage4, source sentence2",
+          "source_units": [
+            "p4:de:s2"
+          ],
+          "text": "The latter course has the disadvantage that the reader can check the correctness of the general claims only very incompletely: resources for studying the individual languages must first be created for the reader, given the rarity and often very inconvenient arrangement of those that exist."
+        },
+        {
+          "id": "intro:p4:clarified:s3",
+          "kind": "rendering",
+          "label": "Introduction clarified passage4, source sentence3",
+          "source_units": [
+            "p4:de:s3"
+          ],
+          "text": "But I was deterred from the former course by the protracted nature of the undertaking and the length of time that, given the difficulty of publishing such works, would necessarily have elapsed in the process."
+        }
+      ],
+      "source_version": "grundzuege-004-v1",
+      "version_id": "revision-text-5508d194-4f71-5864-ab79-1eb6cac6d1bc"
+    }
+  ],
+  "requires_versions": [
+    "revision-text-933d4f42-f708-5542-9ca6-a11ee25ecdf5",
+    "revision-text-5508d194-4f71-5864-ab79-1eb6cac6d1bc"
+  ],
+  "schema_version": 1,
+  "section": "Introduction",
+  "tables": {
+    "alignment": [
+      {
+        "id": "intro:clarification:1",
+        "left_version": "grundzuege-001-v1",
+        "note": "Explicit source-based clarification; old versions and original links retained.",
+        "relation": "provisional_translation_correspondence",
+        "right_version": "revision-text-933d4f42-f708-5542-9ca6-a11ee25ecdf5",
+        "status": "proposed"
+      },
+      {
+        "id": "intro:clarification:4",
+        "left_version": "grundzuege-004-v1",
+        "note": "Explicit source-based clarification; old versions and original links retained.",
+        "relation": "provisional_translation_correspondence",
+        "right_version": "revision-text-5508d194-4f71-5864-ab79-1eb6cac6d1bc",
+        "status": "proposed"
+      }
+    ],
+    "alignment_member": [
+      {
+        "alignment_id": "intro:clarification:1",
+        "side": "left",
+        "unit_id": "intro:clarification:1:left"
+      },
+      {
+        "alignment_id": "intro:clarification:1",
+        "side": "right",
+        "unit_id": "intro:clarification:1:right"
+      },
+      {
+        "alignment_id": "intro:clarification:4",
+        "side": "left",
+        "unit_id": "intro:clarification:4:left"
+      },
+      {
+        "alignment_id": "intro:clarification:4",
+        "side": "right",
+        "unit_id": "intro:clarification:4:right"
+      }
+    ],
+    "unit": [
+      {
+        "analysis_id": "grund-layout",
+        "end": 384,
+        "id": "intro:clarification:1:left",
+        "kind": "phrase",
+        "label": "source-based English clarification",
+        "note": "Explicit coordinator correspondence for a versioned clarification; not inherited certification.",
+        "parent_id": "g:s2",
+        "start": 367,
+        "version_id": "grundzuege-001-v1"
+      },
+      {
+        "analysis_id": "intro:p1:clarified:layout-v1",
+        "end": 346,
+        "id": "intro:clarification:1:right",
+        "kind": "phrase",
+        "label": "source-based English clarification",
+        "note": "Explicit coordinator correspondence for a versioned clarification; not inherited certification.",
+        "parent_id": "intro:p1:clarified:s2",
+        "start": 333,
+        "version_id": "revision-text-933d4f42-f708-5542-9ca6-a11ee25ecdf5"
+      },
+      {
+        "analysis_id": "p4:de:layout-v1",
+        "end": 314,
+        "id": "intro:clarification:4:left",
+        "kind": "phrase",
+        "label": "source-based English clarification",
+        "note": "Explicit coordinator correspondence for a versioned clarification; not inherited certification.",
+        "parent_id": "p4:de:s2",
+        "start": 311,
+        "version_id": "grundzuege-004-v1"
+      },
+      {
+        "analysis_id": "intro:p4:clarified:layout-v1",
+        "end": 409,
+        "id": "intro:clarification:4:right",
+        "kind": "phrase",
+        "label": "source-based English clarification",
+        "note": "Explicit coordinator correspondence for a versioned clarification; not inherited certification.",
+        "parent_id": "intro:p4:clarified:s2",
+        "start": 395,
+        "version_id": "revision-text-5508d194-4f71-5864-ab79-1eb6cac6d1bc"
+      }
+    ],
+    "unit_decision": [
+      {
+        "decision_id": "D022.audit:claude:F11",
+        "unit_id": "intro:p1:clarified:s1"
+      },
+      {
+        "decision_id": "D022.audit:claude:F15",
+        "unit_id": "intro:p1:clarified:s1"
+      },
+      {
+        "decision_id": "D022.p1:s2",
+        "unit_id": "intro:p1:clarified:s2"
+      },
+      {
+        "decision_id": "D022.audit:claude:F1",
+        "unit_id": "intro:p1:clarified:s2"
+      },
+      {
+        "decision_id": "D022.audit:muse:F1",
+        "unit_id": "intro:p1:clarified:s2"
+      },
+      {
+        "decision_id": "D022.audit:claude:F15",
+        "unit_id": "intro:p1:clarified:s3"
+      },
+      {
+        "decision_id": "D022.audit:claude:F2",
+        "unit_id": "intro:p1:clarified:s7"
+      },
+      {
+        "decision_id": "D022.audit:muse:F2",
+        "unit_id": "intro:p1:clarified:s7"
+      },
+      {
+        "decision_id": "D022.p4:s2",
+        "unit_id": "intro:p4:clarified:s2"
+      },
+      {
+        "decision_id": "D022.audit:claude:F6",
+        "unit_id": "intro:p4:clarified:s2"
+      },
+      {
+        "decision_id": "D022.audit:muse:F6",
+        "unit_id": "intro:p4:clarified:s2"
+      },
+      {
+        "decision_id": "D022.p1:s2",
+        "unit_id": "intro:clarification:1:left"
+      },
+      {
+        "decision_id": "D022.p1:s2",
+        "unit_id": "intro:clarification:1:right"
+      },
+      {
+        "decision_id": "D022.p4:s2",
+        "unit_id": "intro:clarification:4:left"
+      },
+      {
+        "decision_id": "D022.p4:s2",
+        "unit_id": "intro:clarification:4:right"
+      }
+    ],
+    "unit_evidence": [
+      {
+        "evidence_id": "EIntro.source:p1:s1",
+        "unit_id": "intro:p1:clarified:s1"
+      },
+      {
+        "evidence_id": "EIntro.source:p1:s2",
+        "unit_id": "intro:p1:clarified:s2"
+      },
+      {
+        "evidence_id": "EIntro.source:p1:s3",
+        "unit_id": "intro:p1:clarified:s3"
+      },
+      {
+        "evidence_id": "EIntro.source:p1:s4",
+        "unit_id": "intro:p1:clarified:s4"
+      },
+      {
+        "evidence_id": "EIntro.source:p1:s5",
+        "unit_id": "intro:p1:clarified:s5"
+      },
+      {
+        "evidence_id": "EIntro.source:p1:s6",
+        "unit_id": "intro:p1:clarified:s6"
+      },
+      {
+        "evidence_id": "EIntro.source:p1:s7",
+        "unit_id": "intro:p1:clarified:s7"
+      },
+      {
+        "evidence_id": "EIntro.source:p4:s1",
+        "unit_id": "intro:p4:clarified:s1"
+      },
+      {
+        "evidence_id": "EIntro.source:p4:s2",
+        "unit_id": "intro:p4:clarified:s2"
+      },
+      {
+        "evidence_id": "EIntro.source:p4:s3",
+        "unit_id": "intro:p4:clarified:s3"
+      },
+      {
+        "evidence_id": "EIntro.source:p1:s2",
+        "unit_id": "intro:clarification:1:left"
+      },
+      {
+        "evidence_id": "EIntro.source:p1:s2",
+        "unit_id": "intro:clarification:1:right"
+      },
+      {
+        "evidence_id": "EIntro.source:p4:s2",
+        "unit_id": "intro:clarification:4:left"
+      },
+      {
+        "evidence_id": "EIntro.source:p4:s2",
+        "unit_id": "intro:clarification:4:right"
+      }
+    ]
+  }
+}

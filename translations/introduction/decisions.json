@@ -1,0 +1,82 @@
+{
+  "section": "Introduction",
+  "decisions": [
+    {
+      "source_id": "p1:s2",
+      "question": "Geographical confluence versus structural convergence",
+      "resolution": "Clarify have converged as have come together in a new version, preserving the old English and the explicit diversity of the languages."
+    },
+    {
+      "source_id": "p4:s2",
+      "question": "Resources created for the reader",
+      "resolution": "Clarify the singular dative beneficiary as for the reader in a new version; preserve the old English and its links."
+    },
+    {
+      "source_id": "p6:s1",
+      "question": "Deferred grammars and shorter treatment",
+      "resolution": "Preserve possibility, deferment, follow-on order and brevity enabled by references to already included particulars."
+    },
+    {
+      "source_id": "p6:s2",
+      "question": "Particular detail and personal publication contingency",
+      "resolution": "Repeat particulars and preserve the conditional inability of the author to supply separate treatments, without promising their completion."
+    },
+    {
+      "source_id": "p6:s3",
+      "question": "Time and multiple contributors",
+      "resolution": "Retain both time and several people with the same purpose and viewpoints; do not turn the group into a promised funded team."
+    },
+    {
+      "source_id": "p6:s4",
+      "question": "Accessibility, all known languages and continuing correction",
+      "resolution": "Keep the conditional accessibility aim, all known languages, same principles, material for new inquiry and updating in keeping with advancing knowledge."
+    },
+    {
+      "source_id": "p7:s1",
+      "question": "Two modes and the classificatory analogy",
+      "resolution": "Retain human language in general, idioms as particular languages, species/genus analogy and the different purpose/treatment of the geographical-historical mode."
+    },
+    {
+      "source_id": "p7:s2",
+      "question": "Natural-history comparison",
+      "resolution": "Retain plants and kinds of stone without importing modern biological/geological categories."
+    },
+    {
+      "source_id": "p7:s3",
+      "question": "Systematic placement versus regional aggregate",
+      "resolution": "Distinguish physical place from position in the classificatory system. Treat rock deposits collectively and retain uncertainty about the period geological term."
+    },
+    {
+      "source_id": "p7:s4",
+      "question": "Different objects of presentation",
+      "resolution": "In each case distinguish presenting the languages/natural objects from presenting the region in terms of them."
+    },
+    {
+      "source_id": "p7:s5",
+      "question": "Two directions and relative prevalence",
+      "resolution": "Keep both directions as required and preserve the comparative, historically bounded prevalence of the latter."
+    },
+    {
+      "source_id": "p7:s6",
+      "question": "Interdependent perspectives and repeated Gattung",
+      "resolution": "Keep both reasons against complete separation, all influencing circumstances, prior knowledge and the printed new-genus wording with an explicit kind/rank alternative."
+    },
+    {
+      "source_id": "p7:s7",
+      "question": "Distinct method/content and chiefly historical affiliation",
+      "resolution": "Render werden with adjective as turn out to be, retain entire difference in method/content and chiefly rather than exclusively for descent/relatedness inquiries."
+    },
+    {
+      "source_id": "p7:s8",
+      "question": "Knowledge priority and comparative importance",
+      "resolution": "Read these as the languages in themselves, retaining the alternative; keep always and by far the more important without generalising to all scholarship."
+    },
+    {
+      "source_id": "p7:s9",
+      "question": "Topic priority, geographical fallback and connection",
+      "resolution": "Preserve topic-appropriate order, conditional geographical order, south-to-north then west-to-east, and every means constrained by the main purpose."
+    }
+  ],
+  "selected_term_rule_links": 14,
+  "consequential_span_links": 17
+}

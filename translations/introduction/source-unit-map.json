@@ -1,0 +1,382 @@
+{
+  "p1:s1": {
+    "number": 1,
+    "source_version": "grundzuege-001-v1",
+    "source_unit": "g:s1",
+    "source_text": "Wenn es vielleicht sonderbar scheint, gerade die Sprachen eines Welttheils zum Gegenstande einer Untersuchung zu machen, so rechtfertigt sich diese, dem ersten Anblick nach, bloss geographische Ansicht bei Amerika durch die abgesonderte Lage dieses Welttheils und die besondre Beschaffenheit seiner Sprachen.",
+    "audited_English_version": "en-revised-v2",
+    "audited_English_unit": "en-revised-v2:g:s1",
+    "final_English_version": "revision-text-933d4f42-f708-5542-9ca6-a11ee25ecdf5",
+    "final_English_unit": "intro:p1:clarified:s1"
+  },
+  "p1:s2": {
+    "number": 1,
+    "source_version": "grundzuege-001-v1",
+    "source_unit": "g:s2",
+    "source_text": "In Europa, Asien und Afrika sind so verschiedene Sprachen zusammengeflossen, dass wenigstens die Sprachkunde keine Veranlassung finden kann, dieselben gerade in der Verbindung zu untersuchen, in die sie, immer mehr oder weniger zufällig, nun eben innerhalb der Gränzen desselben Welttheils getreten sind.",
+    "audited_English_version": "en-revised-v2",
+    "audited_English_unit": "en-revised-v2:g:s2",
+    "final_English_version": "revision-text-933d4f42-f708-5542-9ca6-a11ee25ecdf5",
+    "final_English_unit": "intro:p1:clarified:s2"
+  },
+  "p1:s3": {
+    "number": 1,
+    "source_version": "grundzuege-001-v1",
+    "source_unit": "g:s3",
+    "source_text": "Auch zeigen die Sprachstämme eines jeden die bedeutendsten Verschiedenheiten sowohl in ihrem Bau, als in den Stufen der von ihnen erreichten Bildung.",
+    "audited_English_version": "en-revised-v2",
+    "audited_English_unit": "en-revised-v2:g:s3",
+    "final_English_version": "revision-text-933d4f42-f708-5542-9ca6-a11ee25ecdf5",
+    "final_English_unit": "intro:p1:clarified:s3"
+  },
+  "p1:s4": {
+    "number": 1,
+    "source_version": "grundzuege-001-v1",
+    "source_unit": "g:s4",
+    "source_text": "Amerika dagegen hat, ausser den neuesten Europäischen Einwanderungen, welche die innere Nationaleigenthümlichkeit dieses Welttheils nur durch ihren zerstörenden Einfluss berührt haben, entweder gar keine, oder nur solche erfahren, von welchen kaum eine geschichtlich zu nennende Spur übriggeblieben ist.",
+    "audited_English_version": "en-revised-v2",
+    "audited_English_unit": "en-revised-v2:g:s4",
+    "final_English_version": "revision-text-933d4f42-f708-5542-9ca6-a11ee25ecdf5",
+    "final_English_unit": "intro:p1:clarified:s4"
+  },
+  "p1:s5": {
+    "number": 1,
+    "source_version": "grundzuege-001-v1",
+    "source_unit": "g:s5",
+    "source_text": "Welches daher auch der Ursprung der Amerikanischen Völker und Sprachen seyn mag, so haben sich ihre Geschicke viele Jahrhunderte hindurch nur durch sich selbst, und durch Berührung unter einander gestaltet.",
+    "audited_English_version": "en-revised-v2",
+    "audited_English_unit": "en-revised-v2:g:s5",
+    "final_English_version": "revision-text-933d4f42-f708-5542-9ca6-a11ee25ecdf5",
+    "final_English_unit": "intro:p1:clarified:s5"
+  },
+  "p1:s6": {
+    "number": 1,
+    "source_version": "grundzuege-001-v1",
+    "source_unit": "g:s6",
+    "source_text": "Die unübersehbare Menge von Stämmen, Horden und Familien vom obersten Norden bis zum untersten Süden des ausgedehnten Welttheils sind, solange wir die Geschichte desselben kennen, bis auf die Europaeische Unterjochung frei von fremdem Einfluss, nur durch sich selbst in Gährung ihrer Kräfte gerathen, und haben sich nur ihre Eigenthümlichkeiten mitgetheilt.",
+    "audited_English_version": "en-revised-v2",
+    "audited_English_unit": "en-revised-v2:g:s6",
+    "final_English_version": "revision-text-933d4f42-f708-5542-9ca6-a11ee25ecdf5",
+    "final_English_unit": "intro:p1:clarified:s6"
+  },
+  "p1:s7": {
+    "number": 1,
+    "source_version": "grundzuege-001-v1",
+    "source_unit": "g:s7",
+    "source_text": "Was daher auch in noch früherer Zeit Fremdes eingebracht seyn möchte, hat nachher Jahrhunderte hindurch diesen abschleifenden Einfluss des auf sich selbst beschränkten einheimischen Verkehrs erfahren.",
+    "audited_English_version": "en-revised-v2",
+    "audited_English_unit": "en-revised-v2:g:s7",
+    "final_English_version": "revision-text-933d4f42-f708-5542-9ca6-a11ee25ecdf5",
+    "final_English_unit": "intro:p1:clarified:s7"
+  },
+  "p2:s1": {
+    "number": 2,
+    "source_version": "grundzuege-002-v1",
+    "source_unit": "g2:s1",
+    "source_text": "Dafür spricht nun auch die auffallende Aehnlichkeit der Amerikanischen Sprachen.",
+    "audited_English_version": "en2-revised-v2",
+    "audited_English_unit": "en2-revised-v2:g2:s1",
+    "final_English_version": "en2-revised-v2",
+    "final_English_unit": "en2-revised-v2:g2:s1"
+  },
+  "p2:s2": {
+    "number": 2,
+    "source_version": "grundzuege-002-v1",
+    "source_unit": "g2:s2",
+    "source_text": "In der Ausbildung der Nationen, welchen sie angehören, sind gewiss bedeutende, auch in ihnen selbst unverkennbare Unterschiede gewesen, allein der Mangel alphabetischer Schrift und mithin eigentlicher Literatur stellt doch alle, ohne Ausnahme, auf einer niedrigeren Stufe gleich.",
+    "audited_English_version": "en2-revised-v2",
+    "audited_English_unit": "en2-revised-v2:g2:s2",
+    "final_English_version": "en2-revised-v2",
+    "final_English_unit": "en2-revised-v2:g2:s2"
+  },
+  "p2:s3": {
+    "number": 2,
+    "source_version": "grundzuege-002-v1",
+    "source_unit": "g2:s3",
+    "source_text": "Die bisweilen fälschlich behauptete Einerleiheit ihres Baues verschwindet zwar, ebenso als die auch wohl behauptete Abweichung von dem Bau aller übrigen Sprachen, vor der tiefer eindringenden Forschung, aber grosse Züge der Aehnlichkeit bieten doch alle Sprachen Amerika's wirklich dar, und der Norden und Süden des Welttheils erlaubt nicht einmal darin, wahrhaft abscheidende Gränzen zu ziehen.",
+    "audited_English_version": "en2-revised-v2",
+    "audited_English_unit": "en2-revised-v2:g2:s3",
+    "final_English_version": "en2-revised-v2",
+    "final_English_unit": "en2-revised-v2:g2:s3"
+  },
+  "p3:s1": {
+    "number": 3,
+    "source_version": "grundzuege-003-v1",
+    "source_unit": "p3:de:s1",
+    "source_text": "Es darf daher wohl mit Recht ein Bedürfniss für die allgemeine Sprachkunde genannt werden, die Amerikanischen Sprachen in ihrem Zusammenhange zu betrachten, ihren Bau zu erforschen, darzustellen, und mit dem Bau der Sprachen der übrigen Welttheile zu vergleichen.",
+    "audited_English_version": "en3-revised-v2",
+    "audited_English_unit": "p3:revised:s1",
+    "final_English_version": "en3-revised-v2",
+    "final_English_unit": "p3:revised:s1"
+  },
+  "p3:s2": {
+    "number": 3,
+    "source_version": "grundzuege-003-v1",
+    "source_unit": "p3:de:s2",
+    "source_text": "Dies nach meinen Kräften, in gehöriger Vollständigkeit, vorzüglich aber mit so tief, als möglich, in das Wesen dieser Sprachen eindringenden Forschung zu thun, ist meine Absicht bei der gegenwärtigen Schrift.",
+    "audited_English_version": "en3-revised-v2",
+    "audited_English_unit": "p3:revised:s2",
+    "final_English_version": "en3-revised-v2",
+    "final_English_unit": "p3:revised:s2"
+  },
+  "p3:s3": {
+    "number": 3,
+    "source_version": "grundzuege-003-v1",
+    "source_unit": "p3:de:s3",
+    "source_text": "Um dieselbe zu erreichen, habe ich eine Reihe von Jahren hindurch die einzelnen Sprachen nicht bloss studirt, sondern selbst bearbeitet, und seit noch längerer Zeit Materialien, vorzüglich handschriftliche, gesammelt.",
+    "audited_English_version": "en3-revised-v2",
+    "audited_English_unit": "p3:revised:s3",
+    "final_English_version": "en3-revised-v2",
+    "final_English_unit": "p3:revised:s3"
+  },
+  "p3:s4": {
+    "number": 3,
+    "source_version": "grundzuege-003-v1",
+    "source_unit": "p3:de:s4",
+    "source_text": "Dass das Sammeln dieser Art nie Vollständigkeit erreichen kann, liegt in der Natur der Sache selbst.",
+    "audited_English_version": "en3-revised-v2",
+    "audited_English_unit": "p3:revised:s4",
+    "final_English_version": "en3-revised-v2",
+    "final_English_unit": "p3:revised:s4"
+  },
+  "p3:s5": {
+    "number": 3,
+    "source_version": "grundzuege-003-v1",
+    "source_unit": "p3:de:s5",
+    "source_text": "Aber die Hülfsmittel, die mir zu Gebote stehen, und die als Quellen für diese Untersuchung anzusehen sind, bieten, verbunden mit dem schon in mehreren andren Werken sehr zweckmässig Vorgearbeiteten, einen reichlichen Stoff zu einer, das ganze Feld dieser Untersuchung umfassenden Bearbeitung, und einen hinreichenden zu einer sichren Beurtheilung dar.",
+    "audited_English_version": "en3-revised-v2",
+    "audited_English_unit": "p3:revised:s5",
+    "final_English_version": "en3-revised-v2",
+    "final_English_unit": "p3:revised:s5"
+  },
+  "p4:s1": {
+    "number": 4,
+    "source_version": "grundzuege-004-v1",
+    "source_unit": "p4:de:s1",
+    "source_text": "Ich habe eine Zeitlang zwischen dem doppelten Plane geschwankt, die Herausgabe der einzelnen Grammatiken und Wörterbücher, oder die Darstellung der aus den Forschungen über die einzelnen Sprachen gezogenen allgemeinen Folgerungen vorangehen zu lassen.",
+    "audited_English_version": "en4-revised-v2",
+    "audited_English_unit": "p4:revised:s1",
+    "final_English_version": "revision-text-5508d194-4f71-5864-ab79-1eb6cac6d1bc",
+    "final_English_unit": "intro:p4:clarified:s1"
+  },
+  "p4:s2": {
+    "number": 4,
+    "source_version": "grundzuege-004-v1",
+    "source_unit": "p4:de:s2",
+    "source_text": "Dies letztere Verfahren hat den Nachtheil, dass der Leser, dem die Hülfsmittel zu dem Studium der einzelnen Sprachen, bei der Seltenheit und der oft sehr unbequemen Einrichtung der vorhandenen, erst geschaffen werden müssen, die Richtigkeit der allgemeinen Behauptungen nur sehr unvollständig zu prüfen im Stande ist.",
+    "audited_English_version": "en4-revised-v2",
+    "audited_English_unit": "p4:revised:s2",
+    "final_English_version": "revision-text-5508d194-4f71-5864-ab79-1eb6cac6d1bc",
+    "final_English_unit": "intro:p4:clarified:s2"
+  },
+  "p4:s3": {
+    "number": 4,
+    "source_version": "grundzuege-004-v1",
+    "source_unit": "p4:de:s3",
+    "source_text": "Allein von dem ersteren Verfahren hat mich die Langwierigkeit des Geschäfts, und die Dauer der Zeit, die nothwendig bei der Schwierigkeit der Herausgabe solcher Schriften hätte darüber verfliessen müssen, abgeschreckt.",
+    "audited_English_version": "en4-revised-v2",
+    "audited_English_unit": "p4:revised:s3",
+    "final_English_version": "revision-text-5508d194-4f71-5864-ab79-1eb6cac6d1bc",
+    "final_English_unit": "intro:p4:clarified:s3"
+  },
+  "p5:s1": {
+    "number": 5,
+    "source_version": "grundzuege-005-v1",
+    "source_unit": "p5:de:s1",
+    "source_text": "Ich fange daher mit der allgemeinen Darstellung des Baues der Amerikanischen Sprachen an, dergestalt, dass ich nach allen Richtungen hin, nach welchen Sprachen zu beurtheilen sind, die Eigenthümlichkeiten der Amerikanischen überhaupt, und die Verschiedenheiten der einzelnen unter sich vollständig anzugeben versuchen werde.",
+    "audited_English_version": "en5-revised-v2",
+    "audited_English_unit": "p5:revised:s1",
+    "final_English_version": "en5-revised-v2",
+    "final_English_unit": "p5:revised:s1"
+  },
+  "p5:s2": {
+    "number": 5,
+    "source_version": "grundzuege-005-v1",
+    "source_unit": "p5:de:s2",
+    "source_text": "Auf diese Weise wird die Darstellung des Baues der einzelnen Sprachen in ihren hauptsächlichsten Theilen in die allgemeine verwebt, und nur das Unwesentlichere, und das, was die wahre Individualität der einzelnen Sprache ausmacht, die bestimmte Lautbezeichnung, fällt hinweg.",
+    "audited_English_version": "en5-revised-v2",
+    "audited_English_unit": "p5:revised:s2",
+    "final_English_version": "en5-revised-v2",
+    "final_English_unit": "p5:revised:s2"
+  },
+  "p5:s3": {
+    "number": 5,
+    "source_version": "grundzuege-005-v1",
+    "source_unit": "p5:de:s3",
+    "source_text": "Auf der andren Seite wird allerdings bei diesem Verfahren die Schilderung der einzelnen Sprachen zerrissen, und eine vollständige Uebersicht des Baues einer jeden unmöglich gemacht.",
+    "audited_English_version": "en5-revised-v2",
+    "audited_English_unit": "p5:revised:s3",
+    "final_English_version": "en5-revised-v2",
+    "final_English_unit": "p5:revised:s3"
+  },
+  "p5:s4": {
+    "number": 5,
+    "source_version": "grundzuege-005-v1",
+    "source_unit": "p5:de:s4",
+    "source_text": "Allein man gewinnt auch den Vortheil, jede Eigenthümlichkeit jeder einzelnen Sprache in dem allgemeinen Bilde gleich an der Stelle zu sehen, wo dieselbe mit denen der andren verglichen, und gewürdigt werden kann.",
+    "audited_English_version": "en5-revised-v2",
+    "audited_English_unit": "p5:revised:s4",
+    "final_English_version": "en5-revised-v2",
+    "final_English_unit": "p5:revised:s4"
+  },
+  "p5:s5": {
+    "number": 5,
+    "source_version": "grundzuege-005-v1",
+    "source_unit": "p5:de:s5",
+    "source_text": "Wer gewohnt ist viele Sprachen in ihrem Bau zu erforschen, wird aber gerade diesen Vorzug kaum zu hoch anrechnen können.",
+    "audited_English_version": "en5-revised-v2",
+    "audited_English_unit": "p5:revised:s5",
+    "final_English_version": "en5-revised-v2",
+    "final_English_unit": "p5:revised:s5"
+  },
+  "p5:s6": {
+    "number": 5,
+    "source_version": "grundzuege-005-v1",
+    "source_unit": "p5:de:s6",
+    "source_text": "Denn es ist eine der betrübendsten, aber darum nicht weniger gewöhnlichen Erfahrungen, wenn man sich mit Mühe und Anstrengung in den Bau einer Sprache hineingedacht hat, dennoch unschlüssig zu bleiben, wie man nun diese Sprache in dem Gebiete der ganzen Sprachkunde zu stellen, wie in der Verschiedenheit der gegen einander abzuwägenden Vorzüge und Mängel ihren Werth zu bestimmen hat.",
+    "audited_English_version": "en5-revised-v2",
+    "audited_English_unit": "p5:revised:s6",
+    "final_English_version": "en5-revised-v2",
+    "final_English_unit": "p5:revised:s6"
+  },
+  "p5:s7": {
+    "number": 5,
+    "source_version": "grundzuege-005-v1",
+    "source_unit": "p5:de:s7",
+    "source_text": "Die Uebersicht, die wir so eben bei diesem Verfahren vermissten, lässt sich doch einigermassen durch ein zusammenstellendes Register wieder erlangen.",
+    "audited_English_version": "en5-revised-v2",
+    "audited_English_unit": "p5:revised:s7",
+    "final_English_version": "en5-revised-v2",
+    "final_English_unit": "p5:revised:s7"
+  },
+  "p6:s1": {
+    "number": 6,
+    "source_version": "grundzuege-006-v1",
+    "source_unit": "p6:de:s1",
+    "source_text": "Es kann indess auch vorbehalten bleiben, auf die allgemeine Darstellung der Amerikanischen Sprachen Grammatiken und Wörterbücher der einzelnen folgen zu lassen, was nach dem allgemeinen Theile würde um so kürzer geschehen können, als dieser erlaubt, sich auf das schon in ihm enthaltene Einzelne bloss kurz zu beziehen.",
+    "audited_English_version": "en6-synthesis-v1",
+    "audited_English_unit": "p6:synthesis:s1",
+    "final_English_version": "en6-revised-v2",
+    "final_English_unit": "p6:revised:s1"
+  },
+  "p6:s2": {
+    "number": 6,
+    "source_version": "grundzuege-006-v1",
+    "source_unit": "p6:de:s2",
+    "source_text": "Ich werde aber darauf bedacht seyn, sehr viel Einzelnes in den allgemeinen Theil zu verweben, damit keine zu grosse Lücke entsteht, wenn auch die einzelnen Bearbeitungen der verschiedenen Sprachen nicht sollten durch mich mitgetheilt werden können.",
+    "audited_English_version": "en6-synthesis-v1",
+    "audited_English_unit": "p6:synthesis:s2",
+    "final_English_version": "en6-revised-v2",
+    "final_English_unit": "p6:revised:s2"
+  },
+  "p6:s3": {
+    "number": 6,
+    "source_version": "grundzuege-006-v1",
+    "source_unit": "p6:de:s3",
+    "source_text": "Denn diese Bearbeitungen müssen, ihrer Natur nach, Sache der Zeit, und Mehrerer seyn, die zu demselben Zweck, und aus denselben Gesichtspunkten Hand an ein solches Werk legen.",
+    "audited_English_version": "en6-synthesis-v1",
+    "audited_English_unit": "p6:synthesis:s3",
+    "final_English_version": "en6-revised-v2",
+    "final_English_unit": "p6:revised:s3"
+  },
+  "p6:s4": {
+    "number": 6,
+    "source_version": "grundzuege-006-v1",
+    "source_unit": "p6:de:s4",
+    "source_text": "Soll die allgemeine Sprachkunde jemals zu einem, auch denjenigen, welchen sie nicht ausschliesslicher Beruf ist, zugänglichen Studium werden, so muss es nach gleichen Grundsätzen ausgearbeitete Grammatiken und Wörterbücher aller bekannten Sprachen geben, und diese müssen, als ein beständiger Stoff neuer Forschungen, nach Massgabe der immer fortschreitenden Sprachenkunde, berichtigt und erweitert werden.",
+    "audited_English_version": "en6-synthesis-v1",
+    "audited_English_unit": "p6:synthesis:s4",
+    "final_English_version": "en6-revised-v2",
+    "final_English_unit": "p6:revised:s4"
+  },
+  "p7:s1": {
+    "number": 7,
+    "source_version": "grundzuege-007-v1",
+    "source_unit": "p7:de:s1",
+    "source_text": "Die Sprachen eines Erdstrichs lassen sich hauptsächlich auf zwei, in dem Zweck und der Behandlung verschiedene Weisen darstellen, einmal an sich, als unter der allgemeinen Menschensprache, wie Arten unter einer Gattung, begriffene Idiome, dann in Beziehung auf den Ort und das Volk, welchen sie angehören, in ihrem geographischen und geschichtlichen Zusammenhange.",
+    "audited_English_version": "en7-synthesis-v1",
+    "audited_English_unit": "p7:synthesis:s1",
+    "final_English_version": "en7-revised-v2",
+    "final_English_unit": "p7:revised:s1"
+  },
+  "p7:s2": {
+    "number": 7,
+    "source_version": "grundzuege-007-v1",
+    "source_unit": "p7:de:s2",
+    "source_text": "Es ist dies nicht anders, als wie man es mit den Erzeugnissen der Natur, mit Pflanzen und Steinarten macht.",
+    "audited_English_version": "en7-synthesis-v1",
+    "audited_English_unit": "p7:synthesis:s2",
+    "final_English_version": "en7-revised-v2",
+    "final_English_unit": "p7:revised:s2"
+  },
+  "p7:s3": {
+    "number": 7,
+    "source_version": "grundzuege-007-v1",
+    "source_unit": "p7:de:s3",
+    "source_text": "Man charakterisirt, bestimmt, benennt die einzelnen, und weist ihnen, unbekümmert um den Platz, den sie einnehmen, ihre Stelle in dem System an; man beschreibt aber auch die ganze Pflanzendecke, das ganze Steinlager eines Erdstrichs.",
+    "audited_English_version": "en7-synthesis-v1",
+    "audited_English_unit": "p7:synthesis:s3",
+    "final_English_version": "en7-revised-v2",
+    "final_English_unit": "p7:revised:s3"
+  },
+  "p7:s4": {
+    "number": 7,
+    "source_version": "grundzuege-007-v1",
+    "source_unit": "p7:de:s4",
+    "source_text": "In beiden Fällen stellt man auf die eine Weise wirklich die Sprachen, und die Naturgegenstände, auf die andre nicht so wohl sie, als den Erdstrich nach ihnen dar.",
+    "audited_English_version": "en7-synthesis-v1",
+    "audited_English_unit": "p7:synthesis:s4",
+    "final_English_version": "en7-revised-v2",
+    "final_English_unit": "p7:revised:s4"
+  },
+  "p7:s5": {
+    "number": 7,
+    "source_version": "grundzuege-007-v1",
+    "source_unit": "p7:de:s5",
+    "source_text": "Die ganze allgemeine Sprachkunde muss nach dieser doppelten Richtung bearbeitet werden; bisher hat jedoch mehr die zuletzt genannte, geographisch-historische vorgewaltet.",
+    "audited_English_version": "en7-synthesis-v1",
+    "audited_English_unit": "p7:synthesis:s5",
+    "final_English_version": "en7-revised-v2",
+    "final_English_unit": "p7:revised:s5"
+  },
+  "p7:s6": {
+    "number": 7,
+    "source_version": "grundzuege-007-v1",
+    "source_unit": "p7:de:s6",
+    "source_text": "Vollkommen trennen lassen sich indess beide Rücksichten nicht, da auch bloss als neue Gattung betrachtet, doch jede Sprache mit allen, auf sie Einfluss ausübenden Umständen, also in ihrer localen und geschichtlichen Beschaffenheit, untersucht und geprüft werden muss, und die Schilderung eines Erdstrichs nach seinen Sprachen die Kenntniss der Eigenthümlichkeit dieser voraussetzt.",
+    "audited_English_version": "en7-synthesis-v1",
+    "audited_English_unit": "p7:synthesis:s6",
+    "final_English_version": "en7-revised-v2",
+    "final_English_unit": "p7:revised:s6"
+  },
+  "p7:s7": {
+    "number": 7,
+    "source_version": "grundzuege-007-v1",
+    "source_unit": "p7:de:s7",
+    "source_text": "Allein durchaus verschieden dem Inhalte und der Methode nach werden diese beiden Darstellungsarten dennoch, und alle Untersuchungen über die Abstammung und die Verwandtschaft der Sprachen gehören zum Beispiel vorzugsweise der letzteren an.",
+    "audited_English_version": "en7-synthesis-v1",
+    "audited_English_unit": "p7:synthesis:s7",
+    "final_English_version": "en7-revised-v2",
+    "final_English_unit": "p7:revised:s7"
+  },
+  "p7:s8": {
+    "number": 7,
+    "source_version": "grundzuege-007-v1",
+    "source_unit": "p7:de:s8",
+    "source_text": "Ich beginne mit der Darstellung der Sprachen an sich, da die Kenntniss dieser immer vorangehen muss, und diese Bearbeitung auch für die Sprachkunde die bei weitem wichtigere ist.",
+    "audited_English_version": "en7-synthesis-v1",
+    "audited_English_unit": "p7:synthesis:s8",
+    "final_English_version": "en7-revised-v2",
+    "final_English_unit": "p7:revised:s8"
+  },
+  "p7:s9": {
+    "number": 7,
+    "source_version": "grundzuege-007-v1",
+    "source_unit": "p7:de:s9",
+    "source_text": "Ich werde daher bei Erwähnung einzelner Amerikanischer Sprachen dieselben immer in der Ordnung herausheben, welche dem Gegenstande, von dem jedesmal die Rede ist, angemessen seyn wird, jedoch, wo dieser Zweck die Ordnung gleichgültig lässt, der geographischen, und zwar, der Beschaffenheit Amerika's gemäss, von Süden nach Norden, und von Westen nach Osten folgen, um dadurch und sonst durch jedes andre, den Hauptzweck nicht störende Mittel die beiden unterschiedenen Darstellungsweisen in Verbindung mit einander zu erhalten.",
+    "audited_English_version": "en7-synthesis-v1",
+    "audited_English_unit": "p7:synthesis:s9",
+    "final_English_version": "en7-revised-v2",
+    "final_English_unit": "p7:revised:s9"
+  }
+}

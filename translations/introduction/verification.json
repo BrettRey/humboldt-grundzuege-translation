@@ -1,0 +1,272 @@
+{
+  "section": "Introduction",
+  "protected_files_unchanged": 118,
+  "historical_tables": {
+    "alignment": {
+      "original_rows": 183,
+      "previous_rows": 280,
+      "current_rows": 374,
+      "all_previous_rows_preserved": true
+    },
+    "alignment_member": {
+      "original_rows": 379,
+      "previous_rows": 573,
+      "current_rows": 761,
+      "all_previous_rows_preserved": true
+    },
+    "analysis": {
+      "original_rows": 27,
+      "previous_rows": 45,
+      "current_rows": 61,
+      "all_previous_rows_preserved": true
+    },
+    "composite_attestation": {
+      "original_rows": 1,
+      "previous_rows": 1,
+      "current_rows": 1,
+      "all_previous_rows_preserved": true
+    },
+    "composite_member": {
+      "original_rows": 2,
+      "previous_rows": 2,
+      "current_rows": 2,
+      "all_previous_rows_preserved": true
+    },
+    "decision": {
+      "original_rows": 1575,
+      "previous_rows": 1625,
+      "current_rows": 1667,
+      "all_previous_rows_preserved": true
+    },
+    "decision_evidence": {
+      "original_rows": 1811,
+      "previous_rows": 1896,
+      "current_rows": 1973,
+      "all_previous_rows_preserved": true
+    },
+    "evidence": {
+      "original_rows": 1768,
+      "previous_rows": 1792,
+      "current_rows": 1832,
+      "all_previous_rows_preserved": true
+    },
+    "evidence_detail": {
+      "original_rows": 155,
+      "previous_rows": 155,
+      "current_rows": 155,
+      "all_previous_rows_preserved": true
+    },
+    "lexeme": {
+      "original_rows": 1048,
+      "previous_rows": 1048,
+      "current_rows": 1048,
+      "all_previous_rows_preserved": true
+    },
+    "lexeme_control": {
+      "original_rows": 149,
+      "previous_rows": 149,
+      "current_rows": 149,
+      "all_previous_rows_preserved": true
+    },
+    "lexeme_form": {
+      "original_rows": 1712,
+      "previous_rows": 1712,
+      "current_rows": 1712,
+      "all_previous_rows_preserved": true
+    },
+    "preparation_input": {
+      "original_rows": 9,
+      "previous_rows": 9,
+      "current_rows": 9,
+      "all_previous_rows_preserved": true
+    },
+    "register_carry_forward": {
+      "original_rows": 119,
+      "previous_rows": 119,
+      "current_rows": 119,
+      "all_previous_rows_preserved": true
+    },
+    "sense_attestation": {
+      "original_rows": 1566,
+      "previous_rows": 1566,
+      "current_rows": 1566,
+      "all_previous_rows_preserved": true
+    },
+    "sense_rendering": {
+      "original_rows": 2167,
+      "previous_rows": 2167,
+      "current_rows": 2167,
+      "all_previous_rows_preserved": true
+    },
+    "term_entry": {
+      "original_rows": 34,
+      "previous_rows": 34,
+      "current_rows": 34,
+      "all_previous_rows_preserved": true
+    },
+    "term_entry_evidence": {
+      "original_rows": 202,
+      "previous_rows": 202,
+      "current_rows": 202,
+      "all_previous_rows_preserved": true
+    },
+    "term_entry_family": {
+      "original_rows": 46,
+      "previous_rows": 46,
+      "current_rows": 46,
+      "all_previous_rows_preserved": true
+    },
+    "term_expression_part": {
+      "original_rows": 1565,
+      "previous_rows": 1565,
+      "current_rows": 1565,
+      "all_previous_rows_preserved": true
+    },
+    "term_family": {
+      "original_rows": 18,
+      "previous_rows": 18,
+      "current_rows": 18,
+      "all_previous_rows_preserved": true
+    },
+    "term_occurrence": {
+      "original_rows": 4740,
+      "previous_rows": 4740,
+      "current_rows": 4740,
+      "all_previous_rows_preserved": true
+    },
+    "term_relation": {
+      "original_rows": 122,
+      "previous_rows": 122,
+      "current_rows": 122,
+      "all_previous_rows_preserved": true
+    },
+    "term_sense": {
+      "original_rows": 1518,
+      "previous_rows": 1518,
+      "current_rows": 1518,
+      "all_previous_rows_preserved": true
+    },
+    "term_use": {
+      "original_rows": 1531,
+      "previous_rows": 1531,
+      "current_rows": 1531,
+      "all_previous_rows_preserved": true
+    },
+    "terminology_candidate": {
+      "original_rows": 3515,
+      "previous_rows": 3515,
+      "current_rows": 3515,
+      "all_previous_rows_preserved": true
+    },
+    "terminology_control": {
+      "original_rows": 87,
+      "previous_rows": 87,
+      "current_rows": 87,
+      "all_previous_rows_preserved": true
+    },
+    "terminology_page_review": {
+      "original_rows": 110,
+      "previous_rows": 110,
+      "current_rows": 110,
+      "all_previous_rows_preserved": true
+    },
+    "text_version": {
+      "original_rows": 21,
+      "previous_rows": 39,
+      "current_rows": 53,
+      "all_previous_rows_preserved": true
+    },
+    "unit": {
+      "original_rows": 86978,
+      "previous_rows": 90555,
+      "current_rows": 94821,
+      "all_previous_rows_preserved": true
+    },
+    "unit_decision": {
+      "original_rows": 1681,
+      "previous_rows": 1840,
+      "current_rows": 2014,
+      "all_previous_rows_preserved": true
+    },
+    "unit_evidence": {
+      "original_rows": 3272,
+      "previous_rows": 3349,
+      "current_rows": 3449,
+      "all_previous_rows_preserved": true
+    },
+    "word_index": {
+      "original_rows": 39132,
+      "previous_rows": 39132,
+      "current_rows": 39132,
+      "all_previous_rows_preserved": true
+    }
+  },
+  "report": {
+    "schema_version": 2,
+    "sealed": true,
+    "counts": {
+      "alignment": 374,
+      "alignment_member": 761,
+      "analysis": 61,
+      "build_metadata": 11,
+      "change_impact": 1677,
+      "composite_attestation": 1,
+      "composite_member": 2,
+      "decision": 1667,
+      "decision_evidence": 1973,
+      "evidence": 1832,
+      "evidence_detail": 155,
+      "lexeme": 1048,
+      "lexeme_control": 149,
+      "lexeme_form": 1712,
+      "preparation_input": 9,
+      "register_carry_forward": 119,
+      "revision_history": 5,
+      "schema_migration": 2,
+      "sense_attestation": 1566,
+      "sense_rendering": 2167,
+      "term_entry": 34,
+      "term_entry_evidence": 202,
+      "term_entry_family": 46,
+      "term_expression_part": 1565,
+      "term_family": 18,
+      "term_occurrence": 4740,
+      "term_relation": 122,
+      "term_sense": 1518,
+      "term_use": 1531,
+      "terminology_candidate": 3515,
+      "terminology_control": 87,
+      "terminology_page_review": 110,
+      "text_version": 53,
+      "unit": 94821,
+      "unit_decision": 2014,
+      "unit_evidence": 3449,
+      "word_index": 39132
+    },
+    "integrity": "ok",
+    "foreign_key_errors": []
+  },
+  "logical_digest": "efa3f1eb188b2f2d34909479f972c6e6de14e9e7a21d57daf9aabc8a3d38e3ef",
+  "local_tests": {
+    "unit": 59,
+    "integration": 19,
+    "corpus": 8,
+    "historical": 43,
+    "total": 129,
+    "all_passed": true
+  },
+  "baseline_matches": true,
+  "baseline_evidence": "Passing tests/corpus/test_baseline.py",
+  "source_sentences": 38,
+  "new_source_sentences": 13,
+  "candidates": 3,
+  "independent_audits": 2,
+  "audit_findings": 27,
+  "dispositions": 27,
+  "selected_term_rule_links": 14,
+  "consequential_span_links": 19,
+  "typographic_paragraphs_in_passage7": 2,
+  "clarifications_create_new_versions": true,
+  "all_previous_English_bodies_preserved": true,
+  "limits": "Software/source-fingerprint checks and model-assisted print comparison, not specialist German fidelity or manuscript certification. Review flags remain conservative and unsuppressed."
+}

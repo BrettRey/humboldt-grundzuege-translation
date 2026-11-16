@@ -1,0 +1,403 @@
+{
+  "section": "Introduction",
+  "frozen_at": "2026-11-16T02:56:35.230019+00:00",
+  "packet_sha256": "76e18e8a322233b075f98468007352803dbb032418ca5deddf233c37e769b039",
+  "candidates": [
+    {
+      "sentences": [
+        {
+          "source_id": "p6:s1",
+          "english": "It may, however, also remain reserved to have the general presentation of the American languages followed by grammars and dictionaries of the individual ones, which, after the general part, could be done all the more briefly inasmuch as that part permits one merely to refer briefly to the particulars already contained in it."
+        },
+        {
+          "source_id": "p6:s2",
+          "english": "I shall, however, take care to weave a great deal of particular detail into the general part, so that no too great gap arises even if the individual treatments of the various languages should not be able to be communicated by me."
+        },
+        {
+          "source_id": "p6:s3",
+          "english": "For these treatments must, by their nature, be a matter of time, and of several persons who, for the same purpose and from the same points of view, set their hands to such a work."
+        },
+        {
+          "source_id": "p6:s4",
+          "english": "If the general study of language is ever to become a study accessible also to those for whom it is not an exclusive vocation, there must be grammars and dictionaries of all known languages, worked out according to the same principles, and these must, as a constant material for new investigations, be corrected and enlarged in proportion to the ever-advancing study of languages."
+        },
+        {
+          "source_id": "p7:s1",
+          "english": "The languages of a region of the earth can be presented chiefly in two ways, differing in purpose and in treatment: first in themselves, as idioms comprised under the general human language, as species under a genus; then in relation to the place and the people to which they belong, in their geographical and historical connection."
+        },
+        {
+          "source_id": "p7:s2",
+          "english": "This is no different from what one does with the products of nature, with plants and kinds of stone."
+        },
+        {
+          "source_id": "p7:s3",
+          "english": "One characterizes, determines, and names the individual ones, and assigns them, unconcerned with the place they occupy, their position in the system; but one also describes the entire plant cover, the entire stone deposit, of a region of the earth."
+        },
+        {
+          "source_id": "p7:s4",
+          "english": "In both cases one presents, in the one way, really the languages and the natural objects; in the other, not so much them as the region of the earth according to them."
+        },
+        {
+          "source_id": "p7:s5",
+          "english": "The whole of the general study of language must be worked on in this twofold direction; hitherto, however, it is more the last-named, the geographical-historical one, that has predominated."
+        },
+        {
+          "source_id": "p7:s6",
+          "english": "The two considerations cannot, however, be completely separated, since, even when regarded merely as a new genus, every language must nevertheless be investigated and examined together with all the circumstances exerting influence upon it, and thus in its local and historical constitution, and since the depiction of a region of the earth according to its languages presupposes knowledge of their peculiar character."
+        },
+        {
+          "source_id": "p7:s7",
+          "english": "Yet these two kinds of presentation nonetheless become thoroughly different in content and in method, and all investigations into the descent and the kinship of languages, for example, belong preferentially to the latter."
+        },
+        {
+          "source_id": "p7:s8",
+          "english": "I begin with the presentation of the languages in themselves, since knowledge of these must always come first, and since this treatment is also by far the more important one for the study of language."
+        },
+        {
+          "source_id": "p7:s9",
+          "english": "In mentioning individual American languages I shall therefore always bring them out in the order that will be appropriate to the subject under discussion in each case; where, however, this purpose leaves the order indifferent, I shall follow the geographical order, and specifically, in accordance with the constitution of America, from south to north and from west to east, in order thereby, and otherwise by every other means that does not disturb the main purpose, to keep the two distinguished modes of presentation in connection with one another."
+        }
+      ],
+      "notes": [
+        {
+          "source_id": "p6:s1",
+          "issue": "'Es kann ... vorbehalten bleiben' is impersonal: it states no commitment and names no agent. 'Darstellung' is rendered 'presentation' throughout the target passages.",
+          "alternatives": [
+            "It may, however, also be left open to ...",
+            "The option may, however, also be retained of ...",
+            "'Darstellung': 'account', 'exposition'"
+          ]
+        },
+        {
+          "source_id": "p6:s2",
+          "issue": "'Bearbeitungen' (also p6:s3; singular in p7:s8) has no exact English equivalent; 'treatments' is used consistently. 'mitgetheilt' is rendered 'communicated' and may imply publication. 'durch mich' is kept as 'by me': the limitation concerns the author as the one who communicates them.",
+          "alternatives": [
+            "'Bearbeitungen': 'elaborations', 'worked-up accounts', 'studies'",
+            "'mitgetheilt': 'published', 'made available'",
+            "'Einzelnes': 'particulars', 'individual detail'"
+          ]
+        },
+        {
+          "source_id": "p6:s3",
+          "issue": "'Sache der Zeit, und Mehrerer' joins two genitives: a matter of time, and a matter for several people. 'Mehrerer' is rendered 'several persons'.",
+          "alternatives": [
+            "the affair of time and of several people",
+            "a matter for time and for a number of persons"
+          ]
+        },
+        {
+          "source_id": "p6:s4",
+          "issue": "The checked text has 'allgemeine Sprachkunde' and then 'Sprachenkunde' in the same sentence. They are kept distinct as 'general study of language' and 'study of languages'; whether a difference of sense is intended is uncertain. 'Linguistics' was avoided as possibly anachronistic. 'nach Massgabe' is rendered 'in proportion to'.",
+          "alternatives": [
+            "'allgemeine Sprachkunde': 'general linguistics', 'general science of language'",
+            "'Sprachenkunde': 'knowledge of languages'",
+            "'nach Massgabe': 'in keeping with', 'according to the measure of'",
+            "'beständiger Stoff': 'standing material', 'permanent material'"
+          ]
+        },
+        {
+          "source_id": "p7:s1",
+          "issue": "'Erdstrich' is rendered 'region of the earth' consistently in p7:s1, s3, s4 and s6. 'Idiome' is kept as 'idioms' in the older sense of particular languages. 'begriffene' means 'comprised or subsumed under', not 'conceived'. 'allgemeine Menschensprache' and 'Zusammenhange' each admit other renderings.",
+          "alternatives": [
+            "'Erdstrich': 'tract of the earth', 'zone'",
+            "'Idiome': 'particular languages', 'tongues'",
+            "'allgemeine Menschensprache': 'universal human language', 'human language in general'",
+            "'Zusammenhange': 'context', 'interconnection', 'nexus'"
+          ]
+        },
+        {
+          "source_id": "p7:s2",
+          "issue": "'Steinarten' is a period term; 'kinds of stone' is a deliberately non-technical rendering.",
+          "alternatives": [
+            "kinds of rock",
+            "species of stone",
+            "minerals"
+          ]
+        },
+        {
+          "source_id": "p7:s3",
+          "issue": "'bestimmt' carries the natural-history sense of determining or identifying a specimen. 'Steinlager' is a period term whose exact geological sense is uncertain. 'Platz, den sie einnehmen' is taken as the physical location, in contrast to 'Stelle in dem System'.",
+          "alternatives": [
+            "'bestimmt': 'identifies', 'defines'",
+            "'Steinlager': 'rock bed', 'rock strata', 'mineral deposits', 'stone formation'",
+            "'Pflanzendecke': 'vegetation cover', 'mantle of vegetation'"
+          ]
+        },
+        {
+          "source_id": "p7:s4",
+          "issue": "'nach ihnen' is rendered literally as 'according to them', meaning the region characterized by or in terms of its languages or natural objects. 'wirklich' is kept as 'really'.",
+          "alternatives": [
+            "in terms of them",
+            "by means of them",
+            "'wirklich': 'actually', 'properly'"
+          ]
+        },
+        {
+          "source_id": "p7:s5",
+          "issue": "'mehr ... vorgewaltet' is a comparative hedge and is kept as such. 'bearbeitet' is rendered 'worked on'. 'die zuletzt genannte' is elliptical; a noun such as direction or manner is understood.",
+          "alternatives": [
+            "hitherto, however, the last-named ... has predominated more",
+            "'bearbeitet': 'cultivated', 'treated', 'worked out'"
+          ]
+        },
+        {
+          "source_id": "p7:s6",
+          "issue": "Crux: 'bloss als neue Gattung betrachtet'. In p7:s1 the languages are 'Arten' under a 'Gattung', whereas here each language is itself viewed as a 'Gattung'. 'Genus' is kept so that the printed term matches p7:s1, and the tension is not harmonized. The word may be used loosely for 'kind'. The uncorrected OCR of the later text (not checked, and not decisive) likens a language to a 'Pflanzengattung'. 'Rücksichten' and 'Beschaffenheit' also admit other renderings.",
+          "alternatives": [
+            "'Gattung': 'kind', 'class', 'type'",
+            "'Rücksichten': 'respects', 'points of view', 'regards'",
+            "'Beschaffenheit': 'character', 'condition', 'make-up'",
+            "'Eigenthümlichkeit': 'peculiarity', 'distinctive nature', 'individuality'"
+          ]
+        },
+        {
+          "source_id": "p7:s7",
+          "issue": "'werden' is translated as printed ('become'); the present tense of becoming is slightly odd, and a sense like 'turn out' is possible. 'vorzugsweise' is a hedge, not 'exclusively'. 'der letzteren' is taken as the second kind of presentation, the geographical-historical one. 'Verwandtschaft' is rendered 'kinship'.",
+          "alternatives": [
+            "'werden': 'turn out', 'prove to be'",
+            "'vorzugsweise': 'pre-eminently', 'chiefly', 'by preference'",
+            "'Abstammung': 'derivation', 'genealogy'",
+            "'Verwandtschaft': 'affinity', 'relatedness'"
+          ]
+        },
+        {
+          "source_id": "p7:s8",
+          "issue": "A new printed paragraph begins with this sentence: passage 7 consists of two paragraphs, s1–s7 and s8–s9. The antecedent of 'dieser' in 'die Kenntniss dieser' is ambiguous: most likely the languages in themselves (compare the similar genitive in p7:s6), but grammatically also the presentation. 'Knowledge of these' follows the first reading. 'auch' is kept as 'also'.",
+          "alternatives": [
+            "since knowledge of this [presentation] must always come first",
+            "'diese Bearbeitung': 'this mode of treatment', 'this line of work'"
+          ]
+        },
+        {
+          "source_id": "p7:s9",
+          "issue": "The antecedent of 'dieser Zweck' is not explicit: probably the fit of the order to the subject under discussion, or the aim of presenting the languages in themselves. It is rendered literally as 'this purpose'. 'herausheben' and 'Beschaffenheit Amerika's' admit other renderings. 'der geographischen' is elliptical for the geographical order.",
+          "alternatives": [
+            "'herausheben': 'single out', 'bring forward', 'set out'",
+            "'Beschaffenheit Amerika's': 'configuration of America', 'nature of America', 'character of America'",
+            "'in Verbindung mit einander zu erhalten': 'to keep ... linked with one another', 'to maintain ... in conjunction'"
+          ]
+        }
+      ],
+      "source_status_acknowledged": true,
+      "models": [
+        "claude-fable-5-2"
+      ],
+      "id": "claude"
+    },
+    {
+      "sentences": [
+        {
+          "source_id": "p6:s1",
+          "english": "It may, however, also remain reserved to let grammars and dictionaries of the individual [languages] follow upon the general presentation of the American languages, which could take place all the more briefly after the general part inasmuch as the latter permits merely brief reference to the particulars already contained in it."
+        },
+        {
+          "source_id": "p6:s2",
+          "english": "I shall, however, take care to weave a very great deal of detail into the general part, so that no too great gap arises even if the individual treatments of the various languages should not be able to be communicated by me."
+        },
+        {
+          "source_id": "p6:s3",
+          "english": "For these treatments must, by their nature, be a matter of time, and of several [persons], who put their hand to such a work for the same purpose and from the same points of view."
+        },
+        {
+          "source_id": "p6:s4",
+          "english": "If the general science of language is ever to become a study accessible also to those for whom it is not an exclusive profession, then there must be grammars and dictionaries of all known languages worked out according to the same principles, and these must, as a constant material for new investigations, be corrected and enlarged in accordance with the ever-advancing knowledge of languages."
+        },
+        {
+          "source_id": "p7:s1",
+          "english": "The languages of a tract of earth can principally be presented in two ways, differing in purpose and treatment, first in themselves, as idioms comprehended under the general human language, as species under a genus, then in relation to the place and the people to which they belong, in their geographical and historical interconnection."
+        },
+        {
+          "source_id": "p7:s2",
+          "english": "This is no different from what one does with the products of nature, with plants and kinds of stone."
+        },
+        {
+          "source_id": "p7:s3",
+          "english": "One characterises, determines, and names the individual ones, and assigns them their place in the system, unconcerned about the place which they occupy; but one also describes the whole plant covering, the whole stone deposit, of a tract of earth."
+        },
+        {
+          "source_id": "p7:s4",
+          "english": "In both cases, in the one way one really presents the languages, and the objects of nature, in the other not so much them as the tract of earth according to them."
+        },
+        {
+          "source_id": "p7:s5",
+          "english": "The whole general science of language must be worked upon in this double direction; hitherto, however, the last-mentioned, the geographical-historical, has predominated more."
+        },
+        {
+          "source_id": "p7:s6",
+          "english": "The two considerations cannot, however, be completely separated, since, even when regarded merely as a new genus, every language must nevertheless be investigated and examined together with all the circumstances exercising influence upon it, that is, in its local and historical character, and the portrayal of a tract of earth according to its languages presupposes knowledge of the peculiar character of the latter."
+        },
+        {
+          "source_id": "p7:s7",
+          "english": "But these two kinds of presentation nevertheless become thoroughly different in content and in method, and all investigations concerning the descent and the relationship of languages, for example, belong preferentially to the latter."
+        },
+        {
+          "source_id": "p7:s8",
+          "english": "I begin with the presentation of the languages in themselves, since knowledge of them must always come first, and this treatment is also by far the more important for the science of language."
+        },
+        {
+          "source_id": "p7:s9",
+          "english": "In mentioning individual American languages I shall therefore always bring them forward in the order that will be appropriate to the subject under discussion on each occasion, but, where this purpose leaves the order indifferent, I shall follow the geographical order, namely, in accordance with the character of America, from south to north and from west to east, in order thereby, and otherwise by every other means that does not disturb the main purpose, to keep the two distinguished modes of presentation in connection with one another."
+        }
+      ],
+      "notes": [
+        {
+          "source_id": "p6:s3",
+          "issue": "Mehrerer is elliptical without an expressed noun and denotes several persons.",
+          "alternatives": [
+            "of several workers",
+            "of more than one person"
+          ]
+        },
+        {
+          "source_id": "p6:s4",
+          "issue": "Sprachkunde in the opening phrase and Sprachenkunde at the end may not be fully equivalent; the rendering distinguishes general science of language from knowledge of languages.",
+          "alternatives": [
+            "general linguistics ... linguistic knowledge",
+            "general study of language ... study of languages"
+          ]
+        },
+        {
+          "source_id": "p7:s1",
+          "issue": "Erdstrich denotes a geographically delimited tract or region of the earth; begriffene means comprehended or subsumed under the stated category.",
+          "alternatives": [
+            "region of the earth",
+            "idioms subsumed under general human language"
+          ]
+        },
+        {
+          "source_id": "p7:s3",
+          "issue": "Steinlager can denote a deposit, bed, or stratum of stone rather than stone in the abstract.",
+          "alternatives": [
+            "whole bed of stone",
+            "whole rock formation"
+          ]
+        },
+        {
+          "source_id": "p7:s4",
+          "issue": "nach ihnen is ambiguous between according to them and by reference to or in terms of them.",
+          "alternatives": [
+            "the tract of earth in terms of them",
+            "the tract of earth by reference to them"
+          ]
+        },
+        {
+          "source_id": "p7:s6",
+          "issue": "bloss als neue Gattung betrachtet is textually and conceptually uncertain against the species-under-a-genus formulation in p7:s1; genus is retained literally rather than normalised to species.",
+          "alternatives": [
+            "merely as a new kind",
+            "merely as a new type"
+          ]
+        },
+        {
+          "source_id": "p7:s7",
+          "issue": "werden may describe a resulting state rather than a temporal becoming.",
+          "alternatives": [
+            "are nevertheless thoroughly different",
+            "nevertheless turn out to be thoroughly different"
+          ]
+        },
+        {
+          "source_id": "p7:s9",
+          "issue": "herausheben means to bring forward, pick out, or single out in sequence; dieser Zweck apparently refers back to suitability to the subject under discussion.",
+          "alternatives": [
+            "single them out in the order",
+            "introduce them in the order"
+          ]
+        }
+      ],
+      "source_status_acknowledged": true,
+      "models": [
+        "muse-wonder-full-1.0"
+      ],
+      "id": "muse"
+    },
+    {
+      "sentences": [
+        {
+          "source_id": "p6:s1",
+          "english": "The possibility may, however, also be left open of following the general account of the American languages with grammars and dictionaries of the individual languages; after the general part, these could be made all the briefer, since it permits merely brief references to the particulars already contained in it."
+        },
+        {
+          "source_id": "p6:s2",
+          "english": "But I shall take care to weave a great many particulars into the general part, so that no excessively large gap arises even if I should be unable to make available the separate treatments of the various languages."
+        },
+        {
+          "source_id": "p6:s3",
+          "english": "For these treatments must, by their nature, be a matter of time and of several people who undertake such a work for the same purpose and from the same points of view."
+        },
+        {
+          "source_id": "p6:s4",
+          "english": "If the general study of language is ever to become a study accessible also to those for whom it is not an exclusive vocation, there must be grammars and dictionaries of all known languages worked out according to the same principles, and these must, as a continuing source of material for new research, be corrected and expanded in accordance with the ever-advancing knowledge of languages."
+        },
+        {
+          "source_id": "p7:s1",
+          "english": "The languages of a region can be presented chiefly in two ways that differ in purpose and treatment: first, in themselves, as idioms subsumed under human language in general as species under a genus; second, in relation to the place and the people to which they belong, in their geographical and historical connections."
+        },
+        {
+          "source_id": "p7:s2",
+          "english": "This is no different from what is done with the products of nature, with plants and kinds of stone."
+        },
+        {
+          "source_id": "p7:s3",
+          "english": "One characterizes, identifies, and names the individual ones, and assigns them their position in the system without regard to the place they occupy; but one also describes the entire vegetation cover, the entire rock deposit of a region."
+        },
+        {
+          "source_id": "p7:s4",
+          "english": "In both cases, the one way actually presents the languages and the natural objects, while the other presents not so much these themselves as the region in terms of them."
+        },
+        {
+          "source_id": "p7:s5",
+          "english": "The whole general study of language must be pursued in these two directions; hitherto, however, the latter, geographical and historical direction has predominated."
+        },
+        {
+          "source_id": "p7:s6",
+          "english": "These two perspectives cannot, however, be completely separated, since every language, even when considered merely as a new genus, must nevertheless be investigated and examined together with all the circumstances that exert an influence on it, hence in its local and historical constitution, and the description of a region in terms of its languages presupposes knowledge of their distinctive character."
+        },
+        {
+          "source_id": "p7:s7",
+          "english": "Yet these two modes of presentation will nevertheless differ entirely in content and method, and all investigations into the descent and relatedness of languages, for example, belong primarily to the latter."
+        },
+        {
+          "source_id": "p7:s8",
+          "english": "I begin with the presentation of the languages in themselves, since knowledge of these must always come first, and this treatment is also by far the more important for the study of language."
+        },
+        {
+          "source_id": "p7:s9",
+          "english": "Accordingly, when mentioning individual American languages, I shall always single them out in the order appropriate to the subject under discussion on each occasion; wherever, however, this purpose leaves the order a matter of indifference, I shall follow the geographical order, proceeding, in accordance with the configuration of America, from south to north and from west to east, so as to keep the two distinguished modes of presentation connected with one another through this and through every other means that does not interfere with the main purpose."
+        }
+      ],
+      "notes": [
+        {
+          "source_id": "p6:s1",
+          "issue": "The printed reading is retained with its unresolved authorial status: the packet reports cancellation of the first seven paragraphs, but the manuscript marks, their extent, and their editorial meaning remain independently unverified.",
+          "alternatives": []
+        },
+        {
+          "source_id": "p7:s3",
+          "issue": "“Bestimmt” can denote identification or determination of classificatory identity; “Steinlager” denotes a geological deposit or bed, without specifying its precise geological form here.",
+          "alternatives": [
+            "determines",
+            "the entire rock bed of a region"
+          ]
+        },
+        {
+          "source_id": "p7:s6",
+          "issue": "“Neue Gattung” is rendered literally as “new genus,” preserving the printed shift from the species-under-genus analogy in p7:s1 rather than harmonizing the terminology.",
+          "alternatives": [
+            "a new kind"
+          ]
+        },
+        {
+          "source_id": "p7:s8",
+          "issue": "A new printed paragraph begins here; p7:s1–p7:s7 form the preceding paragraph, and p7:s8–p7:s9 form the second.",
+          "alternatives": []
+        }
+      ],
+      "source_status_acknowledged": true,
+      "models": [
+        "gpt-6.1-sol"
+      ],
+      "id": "codex"
+    }
+  ]
+}

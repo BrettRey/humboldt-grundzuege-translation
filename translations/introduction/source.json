@@ -1,0 +1,322 @@
+{
+  "section": "Introduction",
+  "range": [
+    1,
+    7
+  ],
+  "new_translation": [
+    6,
+    7
+  ],
+  "source_path": "sources/raw/gs-v-1906.pdf",
+  "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+  "source_status": "Follows GS V (Leitzmann 1906), Introduction, numbered passages1–7, printed364–368 / PDF374–378 / scan leaves376–380. Drechsel (2024:155) reports cancellation of the first seven paragraphs. Manuscript marks, extent and editorial meaning remain independently unverified. Retained as the printed reading; authorial finality unresolved.",
+  "paragraphs": [
+    {
+      "number": 1,
+      "version_id": "grundzuege-001-v1",
+      "sentences": [
+        {
+          "id": "p1:s1",
+          "text": "Wenn es vielleicht sonderbar scheint, gerade die Sprachen eines Welttheils zum Gegenstande einer Untersuchung zu machen, so rechtfertigt sich diese, dem ersten Anblick nach, bloss geographische Ansicht bei Amerika durch die abgesonderte Lage dieses Welttheils und die besondre Beschaffenheit seiner Sprachen."
+        },
+        {
+          "id": "p1:s2",
+          "text": "In Europa, Asien und Afrika sind so verschiedene Sprachen zusammengeflossen, dass wenigstens die Sprachkunde keine Veranlassung finden kann, dieselben gerade in der Verbindung zu untersuchen, in die sie, immer mehr oder weniger zufällig, nun eben innerhalb der Gränzen desselben Welttheils getreten sind."
+        },
+        {
+          "id": "p1:s3",
+          "text": "Auch zeigen die Sprachstämme eines jeden die bedeutendsten Verschiedenheiten sowohl in ihrem Bau, als in den Stufen der von ihnen erreichten Bildung."
+        },
+        {
+          "id": "p1:s4",
+          "text": "Amerika dagegen hat, ausser den neuesten Europäischen Einwanderungen, welche die innere Nationaleigenthümlichkeit dieses Welttheils nur durch ihren zerstörenden Einfluss berührt haben, entweder gar keine, oder nur solche erfahren, von welchen kaum eine geschichtlich zu nennende Spur übriggeblieben ist."
+        },
+        {
+          "id": "p1:s5",
+          "text": "Welches daher auch der Ursprung der Amerikanischen Völker und Sprachen seyn mag, so haben sich ihre Geschicke viele Jahrhunderte hindurch nur durch sich selbst, und durch Berührung unter einander gestaltet."
+        },
+        {
+          "id": "p1:s6",
+          "text": "Die unübersehbare Menge von Stämmen, Horden und Familien vom obersten Norden bis zum untersten Süden des ausgedehnten Welttheils sind, solange wir die Geschichte desselben kennen, bis auf die Europaeische Unterjochung frei von fremdem Einfluss, nur durch sich selbst in Gährung ihrer Kräfte gerathen, und haben sich nur ihre Eigenthümlichkeiten mitgetheilt."
+        },
+        {
+          "id": "p1:s7",
+          "text": "Was daher auch in noch früherer Zeit Fremdes eingebracht seyn möchte, hat nachher Jahrhunderte hindurch diesen abschleifenden Einfluss des auf sich selbst beschränkten einheimischen Verkehrs erfahren."
+        }
+      ],
+      "body": "Wenn es vielleicht sonderbar scheint, gerade die Sprachen eines Welttheils zum Gegenstande einer Untersuchung zu machen, so rechtfertigt sich diese, dem ersten Anblick nach, bloss geographische Ansicht bei Amerika durch die abgesonderte Lage dieses Welttheils und die besondre Beschaffenheit seiner Sprachen. In Europa, Asien und Afrika sind so verschiedene Sprachen zusammengeflossen, dass wenigstens die Sprachkunde keine Veranlassung finden kann, dieselben gerade in der Verbindung zu untersuchen, in die sie, immer mehr oder weniger zufällig, nun eben innerhalb der Gränzen desselben Welttheils getreten sind. Auch zeigen die Sprachstämme eines jeden die bedeutendsten Verschiedenheiten sowohl in ihrem Bau, als in den Stufen der von ihnen erreichten Bildung. Amerika dagegen hat, ausser den neuesten Europäischen Einwanderungen, welche die innere Nationaleigenthümlichkeit dieses Welttheils nur durch ihren zerstörenden Einfluss berührt haben, entweder gar keine, oder nur solche erfahren, von welchen kaum eine geschichtlich zu nennende Spur übriggeblieben ist. Welches daher auch der Ursprung der Amerikanischen Völker und Sprachen seyn mag, so haben sich ihre Geschicke viele Jahrhunderte hindurch nur durch sich selbst, und durch Berührung unter einander gestaltet. Die unübersehbare Menge von Stämmen, Horden und Familien vom obersten Norden bis zum untersten Süden des ausgedehnten Welttheils sind, solange wir die Geschichte desselben kennen, bis auf die Europaeische Unterjochung frei von fremdem Einfluss, nur durch sich selbst in Gährung ihrer Kräfte gerathen, und haben sich nur ihre Eigenthümlichkeiten mitgetheilt. Was daher auch in noch früherer Zeit Fremdes eingebracht seyn möchte, hat nachher Jahrhunderte hindurch diesen abschleifenden Einfluss des auf sich selbst beschränkten einheimischen Verkehrs erfahren.",
+      "body_sha256": "a2565fa80ff79414cd2cdf5ecce92753e6badb0fbd1aba4a31a078ccf8815be5",
+      "locator": "GS V (1906), printed 364–365; PDF 374–375; scan leaves 376–377",
+      "prior_source_path": "sources/raw/gs-v-1906.pdf",
+      "prior_source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      ],
+      "verification": "Previously image-checked source retained unchanged."
+    },
+    {
+      "number": 2,
+      "version_id": "grundzuege-002-v1",
+      "sentences": [
+        {
+          "id": "p2:s1",
+          "text": "Dafür spricht nun auch die auffallende Aehnlichkeit der Amerikanischen Sprachen."
+        },
+        {
+          "id": "p2:s2",
+          "text": "In der Ausbildung der Nationen, welchen sie angehören, sind gewiss bedeutende, auch in ihnen selbst unverkennbare Unterschiede gewesen, allein der Mangel alphabetischer Schrift und mithin eigentlicher Literatur stellt doch alle, ohne Ausnahme, auf einer niedrigeren Stufe gleich."
+        },
+        {
+          "id": "p2:s3",
+          "text": "Die bisweilen fälschlich behauptete Einerleiheit ihres Baues verschwindet zwar, ebenso als die auch wohl behauptete Abweichung von dem Bau aller übrigen Sprachen, vor der tiefer eindringenden Forschung, aber grosse Züge der Aehnlichkeit bieten doch alle Sprachen Amerika's wirklich dar, und der Norden und Süden des Welttheils erlaubt nicht einmal darin, wahrhaft abscheidende Gränzen zu ziehen."
+        }
+      ],
+      "body": "Dafür spricht nun auch die auffallende Aehnlichkeit der Amerikanischen Sprachen. In der Ausbildung der Nationen, welchen sie angehören, sind gewiss bedeutende, auch in ihnen selbst unverkennbare Unterschiede gewesen, allein der Mangel alphabetischer Schrift und mithin eigentlicher Literatur stellt doch alle, ohne Ausnahme, auf einer niedrigeren Stufe gleich. Die bisweilen fälschlich behauptete Einerleiheit ihres Baues verschwindet zwar, ebenso als die auch wohl behauptete Abweichung von dem Bau aller übrigen Sprachen, vor der tiefer eindringenden Forschung, aber grosse Züge der Aehnlichkeit bieten doch alle Sprachen Amerika's wirklich dar, und der Norden und Süden des Welttheils erlaubt nicht einmal darin, wahrhaft abscheidende Gränzen zu ziehen.",
+      "body_sha256": "29f4acac06326d0a75d685b5ef81155afbc1b72f45f3e17181215ac35883caca",
+      "locator": "GS V (1906), printed365; PDF375; scan leaf377",
+      "prior_source_path": "sources/raw/gs-v-1906.pdf",
+      "prior_source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3
+        ]
+      ],
+      "verification": "Previously image-checked source retained unchanged."
+    },
+    {
+      "number": 3,
+      "version_id": "grundzuege-003-v1",
+      "sentences": [
+        {
+          "id": "p3:s1",
+          "text": "Es darf daher wohl mit Recht ein Bedürfniss für die allgemeine Sprachkunde genannt werden, die Amerikanischen Sprachen in ihrem Zusammenhange zu betrachten, ihren Bau zu erforschen, darzustellen, und mit dem Bau der Sprachen der übrigen Welttheile zu vergleichen."
+        },
+        {
+          "id": "p3:s2",
+          "text": "Dies nach meinen Kräften, in gehöriger Vollständigkeit, vorzüglich aber mit so tief, als möglich, in das Wesen dieser Sprachen eindringenden Forschung zu thun, ist meine Absicht bei der gegenwärtigen Schrift."
+        },
+        {
+          "id": "p3:s3",
+          "text": "Um dieselbe zu erreichen, habe ich eine Reihe von Jahren hindurch die einzelnen Sprachen nicht bloss studirt, sondern selbst bearbeitet, und seit noch längerer Zeit Materialien, vorzüglich handschriftliche, gesammelt."
+        },
+        {
+          "id": "p3:s4",
+          "text": "Dass das Sammeln dieser Art nie Vollständigkeit erreichen kann, liegt in der Natur der Sache selbst."
+        },
+        {
+          "id": "p3:s5",
+          "text": "Aber die Hülfsmittel, die mir zu Gebote stehen, und die als Quellen für diese Untersuchung anzusehen sind, bieten, verbunden mit dem schon in mehreren andren Werken sehr zweckmässig Vorgearbeiteten, einen reichlichen Stoff zu einer, das ganze Feld dieser Untersuchung umfassenden Bearbeitung, und einen hinreichenden zu einer sichren Beurtheilung dar."
+        }
+      ],
+      "body": "Es darf daher wohl mit Recht ein Bedürfniss für die allgemeine Sprachkunde genannt werden, die Amerikanischen Sprachen in ihrem Zusammenhange zu betrachten, ihren Bau zu erforschen, darzustellen, und mit dem Bau der Sprachen der übrigen Welttheile zu vergleichen. Dies nach meinen Kräften, in gehöriger Vollständigkeit, vorzüglich aber mit so tief, als möglich, in das Wesen dieser Sprachen eindringenden Forschung zu thun, ist meine Absicht bei der gegenwärtigen Schrift. Um dieselbe zu erreichen, habe ich eine Reihe von Jahren hindurch die einzelnen Sprachen nicht bloss studirt, sondern selbst bearbeitet, und seit noch längerer Zeit Materialien, vorzüglich handschriftliche, gesammelt. Dass das Sammeln dieser Art nie Vollständigkeit erreichen kann, liegt in der Natur der Sache selbst. Aber die Hülfsmittel, die mir zu Gebote stehen, und die als Quellen für diese Untersuchung anzusehen sind, bieten, verbunden mit dem schon in mehreren andren Werken sehr zweckmässig Vorgearbeiteten, einen reichlichen Stoff zu einer, das ganze Feld dieser Untersuchung umfassenden Bearbeitung, und einen hinreichenden zu einer sichren Beurtheilung dar.",
+      "body_sha256": "3d8bb5d73ad60153d891ce3e7f24c2410c7a7c9f9d52218a8e55de714f23a5b8",
+      "locator": "GS V §3; printed365–366 / PDF375–376 / scan leaves377–378",
+      "prior_source_path": "sources/raw/gs-v-1906.pdf",
+      "prior_source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      ],
+      "verification": "Previously image-checked source retained unchanged."
+    },
+    {
+      "number": 4,
+      "version_id": "grundzuege-004-v1",
+      "sentences": [
+        {
+          "id": "p4:s1",
+          "text": "Ich habe eine Zeitlang zwischen dem doppelten Plane geschwankt, die Herausgabe der einzelnen Grammatiken und Wörterbücher, oder die Darstellung der aus den Forschungen über die einzelnen Sprachen gezogenen allgemeinen Folgerungen vorangehen zu lassen."
+        },
+        {
+          "id": "p4:s2",
+          "text": "Dies letztere Verfahren hat den Nachtheil, dass der Leser, dem die Hülfsmittel zu dem Studium der einzelnen Sprachen, bei der Seltenheit und der oft sehr unbequemen Einrichtung der vorhandenen, erst geschaffen werden müssen, die Richtigkeit der allgemeinen Behauptungen nur sehr unvollständig zu prüfen im Stande ist."
+        },
+        {
+          "id": "p4:s3",
+          "text": "Allein von dem ersteren Verfahren hat mich die Langwierigkeit des Geschäfts, und die Dauer der Zeit, die nothwendig bei der Schwierigkeit der Herausgabe solcher Schriften hätte darüber verfliessen müssen, abgeschreckt."
+        }
+      ],
+      "body": "Ich habe eine Zeitlang zwischen dem doppelten Plane geschwankt, die Herausgabe der einzelnen Grammatiken und Wörterbücher, oder die Darstellung der aus den Forschungen über die einzelnen Sprachen gezogenen allgemeinen Folgerungen vorangehen zu lassen. Dies letztere Verfahren hat den Nachtheil, dass der Leser, dem die Hülfsmittel zu dem Studium der einzelnen Sprachen, bei der Seltenheit und der oft sehr unbequemen Einrichtung der vorhandenen, erst geschaffen werden müssen, die Richtigkeit der allgemeinen Behauptungen nur sehr unvollständig zu prüfen im Stande ist. Allein von dem ersteren Verfahren hat mich die Langwierigkeit des Geschäfts, und die Dauer der Zeit, die nothwendig bei der Schwierigkeit der Herausgabe solcher Schriften hätte darüber verfliessen müssen, abgeschreckt.",
+      "body_sha256": "2aa1326fb360b4e75c009ef54cf477bdc95757c5ecf95bfce56784e79c4fe590",
+      "locator": "GS V §4; printed366 / PDF376 / scan leaf378",
+      "prior_source_path": "sources/raw/gs-v-1906.pdf",
+      "prior_source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3
+        ]
+      ],
+      "verification": "Previously image-checked source retained unchanged."
+    },
+    {
+      "number": 5,
+      "version_id": "grundzuege-005-v1",
+      "sentences": [
+        {
+          "id": "p5:s1",
+          "text": "Ich fange daher mit der allgemeinen Darstellung des Baues der Amerikanischen Sprachen an, dergestalt, dass ich nach allen Richtungen hin, nach welchen Sprachen zu beurtheilen sind, die Eigenthümlichkeiten der Amerikanischen überhaupt, und die Verschiedenheiten der einzelnen unter sich vollständig anzugeben versuchen werde."
+        },
+        {
+          "id": "p5:s2",
+          "text": "Auf diese Weise wird die Darstellung des Baues der einzelnen Sprachen in ihren hauptsächlichsten Theilen in die allgemeine verwebt, und nur das Unwesentlichere, und das, was die wahre Individualität der einzelnen Sprache ausmacht, die bestimmte Lautbezeichnung, fällt hinweg."
+        },
+        {
+          "id": "p5:s3",
+          "text": "Auf der andren Seite wird allerdings bei diesem Verfahren die Schilderung der einzelnen Sprachen zerrissen, und eine vollständige Uebersicht des Baues einer jeden unmöglich gemacht."
+        },
+        {
+          "id": "p5:s4",
+          "text": "Allein man gewinnt auch den Vortheil, jede Eigenthümlichkeit jeder einzelnen Sprache in dem allgemeinen Bilde gleich an der Stelle zu sehen, wo dieselbe mit denen der andren verglichen, und gewürdigt werden kann."
+        },
+        {
+          "id": "p5:s5",
+          "text": "Wer gewohnt ist viele Sprachen in ihrem Bau zu erforschen, wird aber gerade diesen Vorzug kaum zu hoch anrechnen können."
+        },
+        {
+          "id": "p5:s6",
+          "text": "Denn es ist eine der betrübendsten, aber darum nicht weniger gewöhnlichen Erfahrungen, wenn man sich mit Mühe und Anstrengung in den Bau einer Sprache hineingedacht hat, dennoch unschlüssig zu bleiben, wie man nun diese Sprache in dem Gebiete der ganzen Sprachkunde zu stellen, wie in der Verschiedenheit der gegen einander abzuwägenden Vorzüge und Mängel ihren Werth zu bestimmen hat."
+        },
+        {
+          "id": "p5:s7",
+          "text": "Die Uebersicht, die wir so eben bei diesem Verfahren vermissten, lässt sich doch einigermassen durch ein zusammenstellendes Register wieder erlangen."
+        }
+      ],
+      "body": "Ich fange daher mit der allgemeinen Darstellung des Baues der Amerikanischen Sprachen an, dergestalt, dass ich nach allen Richtungen hin, nach welchen Sprachen zu beurtheilen sind, die Eigenthümlichkeiten der Amerikanischen überhaupt, und die Verschiedenheiten der einzelnen unter sich vollständig anzugeben versuchen werde. Auf diese Weise wird die Darstellung des Baues der einzelnen Sprachen in ihren hauptsächlichsten Theilen in die allgemeine verwebt, und nur das Unwesentlichere, und das, was die wahre Individualität der einzelnen Sprache ausmacht, die bestimmte Lautbezeichnung, fällt hinweg. Auf der andren Seite wird allerdings bei diesem Verfahren die Schilderung der einzelnen Sprachen zerrissen, und eine vollständige Uebersicht des Baues einer jeden unmöglich gemacht. Allein man gewinnt auch den Vortheil, jede Eigenthümlichkeit jeder einzelnen Sprache in dem allgemeinen Bilde gleich an der Stelle zu sehen, wo dieselbe mit denen der andren verglichen, und gewürdigt werden kann. Wer gewohnt ist viele Sprachen in ihrem Bau zu erforschen, wird aber gerade diesen Vorzug kaum zu hoch anrechnen können. Denn es ist eine der betrübendsten, aber darum nicht weniger gewöhnlichen Erfahrungen, wenn man sich mit Mühe und Anstrengung in den Bau einer Sprache hineingedacht hat, dennoch unschlüssig zu bleiben, wie man nun diese Sprache in dem Gebiete der ganzen Sprachkunde zu stellen, wie in der Verschiedenheit der gegen einander abzuwägenden Vorzüge und Mängel ihren Werth zu bestimmen hat. Die Uebersicht, die wir so eben bei diesem Verfahren vermissten, lässt sich doch einigermassen durch ein zusammenstellendes Register wieder erlangen.",
+      "body_sha256": "646640db7ce05d2b7ac503c2c2e2953efa24a7f4eae9914d315d19839d3f8525",
+      "locator": "GS V §5; printed366–367 / PDF376–377 / scan leaves378–379",
+      "prior_source_path": "sources/raw/gs-v-1906.pdf",
+      "prior_source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      ],
+      "verification": "Previously image-checked source retained unchanged."
+    },
+    {
+      "number": 6,
+      "version_id": "grundzuege-006-v1",
+      "sentences": [
+        {
+          "id": "p6:s1",
+          "text": "Es kann indess auch vorbehalten bleiben, auf die allgemeine Darstellung der Amerikanischen Sprachen Grammatiken und Wörterbücher der einzelnen folgen zu lassen, was nach dem allgemeinen Theile würde um so kürzer geschehen können, als dieser erlaubt, sich auf das schon in ihm enthaltene Einzelne bloss kurz zu beziehen."
+        },
+        {
+          "id": "p6:s2",
+          "text": "Ich werde aber darauf bedacht seyn, sehr viel Einzelnes in den allgemeinen Theil zu verweben, damit keine zu grosse Lücke entsteht, wenn auch die einzelnen Bearbeitungen der verschiedenen Sprachen nicht sollten durch mich mitgetheilt werden können."
+        },
+        {
+          "id": "p6:s3",
+          "text": "Denn diese Bearbeitungen müssen, ihrer Natur nach, Sache der Zeit, und Mehrerer seyn, die zu demselben Zweck, und aus denselben Gesichtspunkten Hand an ein solches Werk legen."
+        },
+        {
+          "id": "p6:s4",
+          "text": "Soll die allgemeine Sprachkunde jemals zu einem, auch denjenigen, welchen sie nicht ausschliesslicher Beruf ist, zugänglichen Studium werden, so muss es nach gleichen Grundsätzen ausgearbeitete Grammatiken und Wörterbücher aller bekannten Sprachen geben, und diese müssen, als ein beständiger Stoff neuer Forschungen, nach Massgabe der immer fortschreitenden Sprachenkunde, berichtigt und erweitert werden."
+        }
+      ],
+      "body": "Es kann indess auch vorbehalten bleiben, auf die allgemeine Darstellung der Amerikanischen Sprachen Grammatiken und Wörterbücher der einzelnen folgen zu lassen, was nach dem allgemeinen Theile würde um so kürzer geschehen können, als dieser erlaubt, sich auf das schon in ihm enthaltene Einzelne bloss kurz zu beziehen. Ich werde aber darauf bedacht seyn, sehr viel Einzelnes in den allgemeinen Theil zu verweben, damit keine zu grosse Lücke entsteht, wenn auch die einzelnen Bearbeitungen der verschiedenen Sprachen nicht sollten durch mich mitgetheilt werden können. Denn diese Bearbeitungen müssen, ihrer Natur nach, Sache der Zeit, und Mehrerer seyn, die zu demselben Zweck, und aus denselben Gesichtspunkten Hand an ein solches Werk legen. Soll die allgemeine Sprachkunde jemals zu einem, auch denjenigen, welchen sie nicht ausschliesslicher Beruf ist, zugänglichen Studium werden, so muss es nach gleichen Grundsätzen ausgearbeitete Grammatiken und Wörterbücher aller bekannten Sprachen geben, und diese müssen, als ein beständiger Stoff neuer Forschungen, nach Massgabe der immer fortschreitenden Sprachenkunde, berichtigt und erweitert werden.",
+      "body_sha256": "5a6dce4c978f4233b7d82fa08a36210edb0190f03c45eac7193fe5cf8d1ccd43",
+      "locator": "printed367 / PDF377 / scan leaf379",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ]
+      ],
+      "verification": "Coordinator image comparison of the complete numbered passage, not specialist human validation."
+    },
+    {
+      "number": 7,
+      "version_id": "grundzuege-007-v1",
+      "sentences": [
+        {
+          "id": "p7:s1",
+          "text": "Die Sprachen eines Erdstrichs lassen sich hauptsächlich auf zwei, in dem Zweck und der Behandlung verschiedene Weisen darstellen, einmal an sich, als unter der allgemeinen Menschensprache, wie Arten unter einer Gattung, begriffene Idiome, dann in Beziehung auf den Ort und das Volk, welchen sie angehören, in ihrem geographischen und geschichtlichen Zusammenhange."
+        },
+        {
+          "id": "p7:s2",
+          "text": "Es ist dies nicht anders, als wie man es mit den Erzeugnissen der Natur, mit Pflanzen und Steinarten macht."
+        },
+        {
+          "id": "p7:s3",
+          "text": "Man charakterisirt, bestimmt, benennt die einzelnen, und weist ihnen, unbekümmert um den Platz, den sie einnehmen, ihre Stelle in dem System an; man beschreibt aber auch die ganze Pflanzendecke, das ganze Steinlager eines Erdstrichs."
+        },
+        {
+          "id": "p7:s4",
+          "text": "In beiden Fällen stellt man auf die eine Weise wirklich die Sprachen, und die Naturgegenstände, auf die andre nicht so wohl sie, als den Erdstrich nach ihnen dar."
+        },
+        {
+          "id": "p7:s5",
+          "text": "Die ganze allgemeine Sprachkunde muss nach dieser doppelten Richtung bearbeitet werden; bisher hat jedoch mehr die zuletzt genannte, geographisch-historische vorgewaltet."
+        },
+        {
+          "id": "p7:s6",
+          "text": "Vollkommen trennen lassen sich indess beide Rücksichten nicht, da auch bloss als neue Gattung betrachtet, doch jede Sprache mit allen, auf sie Einfluss ausübenden Umständen, also in ihrer localen und geschichtlichen Beschaffenheit, untersucht und geprüft werden muss, und die Schilderung eines Erdstrichs nach seinen Sprachen die Kenntniss der Eigenthümlichkeit dieser voraussetzt."
+        },
+        {
+          "id": "p7:s7",
+          "text": "Allein durchaus verschieden dem Inhalte und der Methode nach werden diese beiden Darstellungsarten dennoch, und alle Untersuchungen über die Abstammung und die Verwandtschaft der Sprachen gehören zum Beispiel vorzugsweise der letzteren an."
+        },
+        {
+          "id": "p7:s8",
+          "text": "Ich beginne mit der Darstellung der Sprachen an sich, da die Kenntniss dieser immer vorangehen muss, und diese Bearbeitung auch für die Sprachkunde die bei weitem wichtigere ist."
+        },
+        {
+          "id": "p7:s9",
+          "text": "Ich werde daher bei Erwähnung einzelner Amerikanischer Sprachen dieselben immer in der Ordnung herausheben, welche dem Gegenstande, von dem jedesmal die Rede ist, angemessen seyn wird, jedoch, wo dieser Zweck die Ordnung gleichgültig lässt, der geographischen, und zwar, der Beschaffenheit Amerika's gemäss, von Süden nach Norden, und von Westen nach Osten folgen, um dadurch und sonst durch jedes andre, den Hauptzweck nicht störende Mittel die beiden unterschiedenen Darstellungsweisen in Verbindung mit einander zu erhalten."
+        }
+      ],
+      "body": "Die Sprachen eines Erdstrichs lassen sich hauptsächlich auf zwei, in dem Zweck und der Behandlung verschiedene Weisen darstellen, einmal an sich, als unter der allgemeinen Menschensprache, wie Arten unter einer Gattung, begriffene Idiome, dann in Beziehung auf den Ort und das Volk, welchen sie angehören, in ihrem geographischen und geschichtlichen Zusammenhange. Es ist dies nicht anders, als wie man es mit den Erzeugnissen der Natur, mit Pflanzen und Steinarten macht. Man charakterisirt, bestimmt, benennt die einzelnen, und weist ihnen, unbekümmert um den Platz, den sie einnehmen, ihre Stelle in dem System an; man beschreibt aber auch die ganze Pflanzendecke, das ganze Steinlager eines Erdstrichs. In beiden Fällen stellt man auf die eine Weise wirklich die Sprachen, und die Naturgegenstände, auf die andre nicht so wohl sie, als den Erdstrich nach ihnen dar. Die ganze allgemeine Sprachkunde muss nach dieser doppelten Richtung bearbeitet werden; bisher hat jedoch mehr die zuletzt genannte, geographisch-historische vorgewaltet. Vollkommen trennen lassen sich indess beide Rücksichten nicht, da auch bloss als neue Gattung betrachtet, doch jede Sprache mit allen, auf sie Einfluss ausübenden Umständen, also in ihrer localen und geschichtlichen Beschaffenheit, untersucht und geprüft werden muss, und die Schilderung eines Erdstrichs nach seinen Sprachen die Kenntniss der Eigenthümlichkeit dieser voraussetzt. Allein durchaus verschieden dem Inhalte und der Methode nach werden diese beiden Darstellungsarten dennoch, und alle Untersuchungen über die Abstammung und die Verwandtschaft der Sprachen gehören zum Beispiel vorzugsweise der letzteren an. Ich beginne mit der Darstellung der Sprachen an sich, da die Kenntniss dieser immer vorangehen muss, und diese Bearbeitung auch für die Sprachkunde die bei weitem wichtigere ist. Ich werde daher bei Erwähnung einzelner Amerikanischer Sprachen dieselben immer in der Ordnung herausheben, welche dem Gegenstande, von dem jedesmal die Rede ist, angemessen seyn wird, jedoch, wo dieser Zweck die Ordnung gleichgültig lässt, der geographischen, und zwar, der Beschaffenheit Amerika's gemäss, von Süden nach Norden, und von Westen nach Osten folgen, um dadurch und sonst durch jedes andre, den Hauptzweck nicht störende Mittel die beiden unterschiedenen Darstellungsweisen in Verbindung mit einander zu erhalten.",
+      "body_sha256": "70afd34b0be8db155983225c5595b7c6b5a0da58f733c6ec103b6363ea2794db",
+      "locator": "printed367–368 / PDF377–378 / scan leaves379–380",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        [
+          8,
+          9
+        ]
+      ],
+      "verification": "Coordinator image comparison of the complete numbered passage, not specialist human validation."
+    }
+  ],
+  "typography": "Canonical sentence bodies join with one space; typographic_groups preserve printed paragraph breaks. Numbered passage7 contains two printed paragraphs.",
+  "whole_work_context": {
+    "path": "sources/grundzuege-ocr.txt",
+    "sha256": "68c4101bd61c5288e201f22bf00cd209c442c945c7f655e255aa24e621db06b3",
+    "status": "Uncorrected whole-work German OCR, context only; source assertions require checked text/image evidence."
+  }
+}

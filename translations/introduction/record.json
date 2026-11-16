@@ -1,0 +1,162 @@
+{
+  "section": "Introduction",
+  "printed_range": [
+    364,
+    368
+  ],
+  "numbered_passages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "working_unit": "Complete printed Introduction; no per-paragraph production checkpoint",
+  "new_translation": [
+    6,
+    7
+  ],
+  "source_sentence_count": 38,
+  "new_source_sentence_count": 13,
+  "source_status": "Follows GS V (Leitzmann 1906), Introduction, numbered passages1–7, printed364–368 / PDF374–378 / scan leaves376–380. Drechsel (2024:155) reports cancellation of the first seven paragraphs. Manuscript marks, extent and editorial meaning remain independently unverified. Retained as the printed reading; authorial finality unresolved.",
+  "candidate_freeze": {
+    "path": "translations/introduction/candidates.json",
+    "sha256": "13eefb081312206b8d6687d8431517a9e1ed6cc4d32bf83c269cc442f3a42385",
+    "frozen_at": "2026-11-16T02:56:35.230019+00:00"
+  },
+  "source": {
+    "path": "translations/introduction/source.json",
+    "sha256": "64fbad7a81ce55c58e42ccb165e22731a39974a189ba69597c15ef5965fe5149"
+  },
+  "whole_work_context": {
+    "path": "sources/grundzuege-ocr.txt",
+    "sha256": "68c4101bd61c5288e201f22bf00cd209c442c945c7f655e255aa24e621db06b3",
+    "status": "Uncorrected whole-work German OCR, context only; source assertions require checked text/image evidence."
+  },
+  "synthesis": {
+    "path": "translations/introduction/synthesis.json",
+    "sha256": "4fc55df361f48e0cbb1affe8cb76d2fb0527978b009f20729d2cb3f5582df4af"
+  },
+  "final": {
+    "path": "translations/introduction/revised.json",
+    "sha256": "0404bf7d25323783b91b4f9c6cef403fb9e893bc63256cf175eee4c15dc7eda3"
+  },
+  "source_unit_map": {
+    "path": "translations/introduction/source-unit-map.json",
+    "sha256": "5b028ed13264cdd15e0958611a9f0d28a4e46302cac5539302abcb91e9cd851b"
+  },
+  "coverage": {
+    "candidates": 3,
+    "audits": 2,
+    "audited_sentences": 38,
+    "audit_findings": 27,
+    "dispositions": 27
+  },
+  "selected_term_rule_links": 14,
+  "consequential_span_links": 19,
+  "older_English_changes": [
+    {
+      "number": 1,
+      "old_version": "en-revised-v2",
+      "proposal_id": "c0233571-95e7-4ab1-a2fd-fcabf5009ba7",
+      "decision_id": "06fe568c-aecc-4e02-94e6-6bc590eb22a3",
+      "before": "have converged",
+      "after": "have come together",
+      "reason": "Clarify geographical confluence rather than structural convergence.",
+      "new_version": "revision-text-933d4f42-f708-5542-9ca6-a11ee25ecdf5",
+      "new_body_sha256": "bf86d5f7d5e9a11ae4cd9a378db95cf480184ed50ceba88f1025b4944ca1b164"
+    },
+    {
+      "number": 4,
+      "old_version": "en4-revised-v2",
+      "proposal_id": "2e468e69-9dae-4d9a-93d1-4eaa6e6e3920",
+      "decision_id": "4ef761a1-17d7-4442-a27b-66bba91cddad",
+      "before": "for them",
+      "after": "for the reader",
+      "reason": "Make the source’s singular reader beneficiary explicit rather than using ambiguous them.",
+      "new_version": "revision-text-5508d194-4f71-5864-ab79-1eb6cac6d1bc",
+      "new_body_sha256": "1a36158f78a4bbd75bfc2e7d2cfa5381965c01e06fb0cd73809bfaf516d1b574"
+    }
+  ],
+  "typographic_paragraphs_in_passage7": 2,
+  "English_review": "pending for complete Introduction and new English versions",
+  "apparatus_limit": "Coordinator image-checked German and English summary; separate editorial apparatus, outside the model audits of the38 main-text sentences. Historical report, not verification of present manuscript custody.",
+  "final_revision": "One coordinator revision after section audits; no additional independent round.",
+  "created_at": "2026-11-16T03:32:36.588086+00:00",
+  "runs": [
+    {
+      "stage": "candidate",
+      "label": "claude",
+      "models": [
+        "claude-fable-5-2"
+      ],
+      "receipt": "tmp/introduction/candidate-claude-receipt.json",
+      "receipt_sha256": "58a827007c2867dd13c972fc806f7073a9f2493027da38cef1fbe3f3f77be8ea",
+      "prompt_sha256": "9e2ebf6a87ef63d4d58c388a0317e25e0ed76f9253ed1cd157bc44c439ad2ef3",
+      "exit_code": 0,
+      "elapsed_seconds": 138.581
+    },
+    {
+      "stage": "candidate",
+      "label": "muse",
+      "models": [
+        "muse-wonder-full-1.0"
+      ],
+      "receipt": "tmp/introduction/candidate-muse-receipt.json",
+      "receipt_sha256": "a8d659e49f95462c440b842dc3392e168220b6b5a6d168e6c89df0ad9139e086",
+      "prompt_sha256": "9e2ebf6a87ef63d4d58c388a0317e25e0ed76f9253ed1cd157bc44c439ad2ef3",
+      "exit_code": 0,
+      "elapsed_seconds": 60.756
+    },
+    {
+      "stage": "candidate",
+      "label": "codex",
+      "models": [
+        "gpt-6.1-sol"
+      ],
+      "receipt": "tmp/introduction/candidate-codex-receipt.json",
+      "receipt_sha256": "f31f14af346c458b7109d019d3252be0478f1519704dfb1e5d63bc3321f7acde",
+      "prompt_sha256": "9e2ebf6a87ef63d4d58c388a0317e25e0ed76f9253ed1cd157bc44c439ad2ef3",
+      "exit_code": 0,
+      "elapsed_seconds": 34.024
+    },
+    {
+      "stage": "audit",
+      "label": "claude",
+      "models": [
+        "claude-fable-5-2"
+      ],
+      "receipt": "tmp/introduction/audit-claude-receipt.json",
+      "receipt_sha256": "7e4a49508f952f4e1968f7f87f4d849e0021791b40919a978b979dc8e1f138b8",
+      "prompt_sha256": "40ebe0f81e39a36f6b390936d1c9ce8b7c5d58814d300c249423c03f0a9c41f3",
+      "exit_code": 0,
+      "elapsed_seconds": 270.916
+    },
+    {
+      "stage": "audit",
+      "label": "muse",
+      "models": [
+        "muse-wonder-full-1.0"
+      ],
+      "receipt": "tmp/introduction/audit-muse-receipt.json",
+      "receipt_sha256": "8d42b08625d6dcf742a3bd4117ccb9e65a726b1a9dcd381c2af649c9766bd9e4",
+      "prompt_sha256": "40ebe0f81e39a36f6b390936d1c9ce8b7c5d58814d300c249423c03f0a9c41f3",
+      "exit_code": 0,
+      "elapsed_seconds": 382.653
+    }
+  ],
+  "apparatus": {
+    "path": "translations/introduction/apparatus.json",
+    "sha256": "3e89434b815c212e906492a6953b2e0fc18ab15809360e8007862e3a014dda79"
+  },
+  "audit_source": {
+    "path": "translations/introduction/audit-source.md",
+    "sha256": "aefc30431e65dd7c0011036a64363dddd684c83365a1a6223f422c84f0f00422"
+  },
+  "prompts": {
+    "path": "translations/introduction/prompts.json",
+    "sha256": "681a1e997418049ff6a27751cbfeab428effaa1f7e7cfc9cb3001782e6ffbf22"
+  }
+}
