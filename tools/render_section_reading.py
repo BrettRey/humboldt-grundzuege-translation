@@ -27,7 +27,11 @@ def render(folder):
     ancillary = {s['source_id']: s['english'] for s in final['ancillary']}
     reading = final['reading']
     lines = ['# ' + reading['title'], '', reading['byline'], '', '## About this reading', '']
+    review_path = folder / 'review.json'
+    review = json.loads(review_path.read_text()) if review_path.exists() else {}
     for paragraph in reading['about']:
+        if review.get('completed') and paragraph.startswith('**Review:**'):
+            paragraph = review['reading_status_text']
         lines += [paragraph, '']
     used = set()
     for paragraph in final['paragraphs']:

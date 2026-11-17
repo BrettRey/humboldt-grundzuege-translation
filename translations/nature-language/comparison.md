@@ -174,4 +174,4 @@ The generic importer adds264 versions: checked German, three candidates, frozen 
 
 Regenerate this reader with `python3 tools/render_section_reading.py translations/nature-language --write`; omit `--write` to compare. The renderer reads current annotation metadata through the existing journal and checks the frozen English body and note anchors before inserting callouts. A later English version needs explicit reattachment; character offsets alone are not semantic approval. A clean clone builds its database from durable edition inputs without this turn’s ignored working scripts or PDFs.
 
-English and annotation review is pending. The English review cannot certify fidelity to German. See [verification.json](verification.json) for checks and their limits.
+Brett completed the English and annotation review with the overall comment “excellent” and no requested changes. The [review record](review.json) preserves exact opened/returned files and the completion event. The English and notes are unchanged; this review does not certify fidelity to German. See [verification.json](verification.json) for checks and their limits.

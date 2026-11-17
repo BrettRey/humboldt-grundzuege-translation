@@ -10,7 +10,7 @@ The provisional base is Leitzmann’s 1906 edition, *Gesammelte Schriften*, volu
 
 Footnotes use one Arabic sequence in this standalone export. **(Humboldt)** identifies his own note and **(Trans.)** our commentary; stable note IDs preserve their identity when a combined edition is renumbered. Historical classifications, evaluations and claims remain his. See the [terminology guide](#terminology-guide) for recurring distinctions.
 
-**Review:** Please assess the English and the usefulness of the notes. The translation and annotations are provisional; English readability review does not establish German fidelity. [Source, alternatives and audit decisions](comparison.md) remain available for closer inspection.
+**Review:** Brett completed the English and annotation review with the overall comment “excellent” and no requested changes. The translation remains provisional; English readability review does not establish German fidelity. [Source, alternatives and audit decisions](comparison.md) remain available for closer inspection.
 
 ## 1. Presentation of the American languages in the manner and according to the procedure of their operation.
 

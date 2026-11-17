@@ -1,0 +1,78 @@
+{
+  "format": "humboldt.reader-review",
+  "version": 1,
+  "reviewer": "Brett Reynolds",
+  "completed": true,
+  "completion": {
+    "user_message": "done",
+    "roughdraft_event_count": 1,
+    "watch_exit_code": 0,
+    "event_path": "translations/nature-language/reviews/2026-11-17T010856Z/completion-event.json",
+    "event_sha256": "4608dc68cb6044a257d11061d6be005259c8f474aa1ef76fd0299bc157d5c296",
+    "recorded_at": "2026-11-17T01:11:48.884014+00:00"
+  },
+  "scope": "English readability and editorial usefulness of passages16–55,20 notes and twelve guide entries; not German-specialist certification.",
+  "opened": {
+    "path": "translations/nature-language/reviews/2026-11-17T010856Z/opened.md",
+    "sha256": "51fc2d65b09652d0fb927155767b952072684335c67df7195d198e622d8e8501",
+    "bytes": 76873
+  },
+  "returned": {
+    "path": "translations/nature-language/reviews/2026-11-17T010856Z/returned.md",
+    "sha256": "2206ddb71c5047835907b0a73039ac5f044e6c92f7bb562cda5f57bc8b15202a",
+    "bytes": 76960
+  },
+  "integrity": "Returned bytes consist of the exact opened reading followed only by the overall-comment YAML endmatter. No main text, footnote, guide, formatting or other prose changed during review.",
+  "comments": [
+    {
+      "id": "c1",
+      "kind": "overall",
+      "body": "excellent",
+      "by": "user",
+      "at": "2026-11-17T01:08:56.398Z",
+      "disposition": "Acknowledged. No change requested; preserve all translation and annotation prose."
+    }
+  ],
+  "inline_comments": 0,
+  "suggestions": 0,
+  "main_text_unchanged": true,
+  "footnotes_and_guide_unchanged": true,
+  "fidelity_status": "Provisional model-assisted translation; English review does not establish German fidelity.",
+  "reading_status_text": "**Review:** Brett completed the English and annotation review with the overall comment “excellent” and no requested changes. The translation remains provisional; English readability review does not establish German fidelity. [Source, alternatives and audit decisions](comparison.md) remain available for closer inspection.",
+  "historical_status": "Pending-review fields in frozen revised.json, notes.json, model findings and edition evidence describe the state at their creation; this review record supplies the current English-review status.",
+  "clean_reading": {
+    "path": "translations/nature-language/reading.md",
+    "sha256": "ec54759794f35e3b8b1c158f7d2ae61aade63973b1a158bb765a1307bd769f52",
+    "only_edit": "Replace the review-status paragraph; all main English, footnotes and guide entries are unchanged."
+  },
+  "validation": {
+    "returned_body_exact": true,
+    "only_status_prelude_changed": true,
+    "edition_and_journal_unchanged": true,
+    "main_English_and_notes_unchanged": true,
+    "corpus_tests": 17,
+    "corpus_tests_passed": true,
+    "html_note_sequence": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ]
+  }
+}

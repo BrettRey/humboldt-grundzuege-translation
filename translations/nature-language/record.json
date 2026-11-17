@@ -65,7 +65,7 @@
   "audited_blocks": 281,
   "scope": "One editorial deliverable with two internal drafting blocks; stop before56.",
   "source_status": "Provisional1906 printed base. Coordinator compared all27 complete target page images373–399 and boundary400. No manuscript collation or German-specialist human certification. D001’s cancellation report about1–7 is not extended to16–55. The graphic detail Verstände/Verstande in46:s3 remains uncertain; the supplied form is retained, with no English consequence. See source-checks.json.",
-  "English_review": "pending",
+  "English_review": "completed; overall comment excellent; no requested changes",
   "coverage": {
     "candidates": 3,
     "candidate_model_families": 2,
@@ -735,15 +735,24 @@
     },
     {
       "path": "translations/nature-language/reading.md",
-      "sha256": "51fc2d65b09652d0fb927155767b952072684335c67df7195d198e622d8e8501"
+      "sha256": "ec54759794f35e3b8b1c158f7d2ae61aade63973b1a158bb765a1307bd769f52"
     },
     {
       "path": "translations/nature-language/comparison.md",
-      "sha256": "b9a0186a4fdc3ec3acac05b9537c43023a6af55ddff549898f68cd896bae922d"
+      "sha256": "572ee6d38dff270afdc4174dc420b0b3022d6a96cddefc90fee6736acc0c13c3"
     },
     {
       "path": "tools/render_section_reading.py",
-      "sha256": "fde2a7176bb6767fc6be703aa7e47a8ebd1591e9120a90aa4cbace1f0e3d7cb5"
+      "sha256": "6bba89ca6c4907852955edabf57f846c82e0be740132298d5acdecef3115de03"
+    },
+    {
+      "path": "translations/nature-language/review.json",
+      "sha256": "cedb89c1c7a5245e580c3bfae2b862611e2d3a8e0d411130d1efc6c7760ce163"
     }
-  ]
+  ],
+  "review_record": {
+    "path": "translations/nature-language/review.json",
+    "sha256": "cedb89c1c7a5245e580c3bfae2b862611e2d3a8e0d411130d1efc6c7760ce163"
+  },
+  "current_status_recorded_at": "2026-11-17T01:12:55.509164+00:00"
 }
