@@ -37,3 +37,9 @@ The opening-material ranges collect everything between printed headings; they ar
 Apply the [footnoting policy](footnoting-policy.md) at each section checkpoint: selective reader-facing notes, recurring explanations in the glossary/commentary, and full provenance in the linked apparatus. Check factual additions against cited evidence and keep Humboldt’s notes, the1906 editor’s notes and translator’s notes distinct. Oxford spelling and avoidance of merely stylistic synonyms are explicit instructions. The error-note rule and explicit attribution labels are approved under D029; retrofitting existing sections remains a separate bounded task.
 
 Brett’s review concerns English readability and editorial usefulness. It does not certify German fidelity. Existing source, privacy, publication and spending boundaries continue. The next reviewable artifact is the completed section, not another workflow plan.
+
+## Editorial typography
+
+In notes, terminology guides and supporting prose, italicize words and phrases mentioned as forms in German or English. Use single quotation marks for meanings, glosses and paraphrases. Use double quotation marks for direct quotations and scare quotes.
+
+For example, German *bis auf* can mean ‘except for’. When discussing the English wording of the translation, italicize the form *down to subjugation by Europeans*. When quoting a passage as evidence of a claim, use double quotation marks.

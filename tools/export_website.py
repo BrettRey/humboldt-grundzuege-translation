@@ -69,9 +69,32 @@ def markdown(text):
     return re.sub(r'href="([^"]+)"', link, result)
 
 
-def inline(text):
-    value = markdown(text)
-    return value[3:-4] if value.startswith('<p>') and value.endswith('</p>') else value
+def annotation_text(record, edits):
+    """Apply context-checked editorial typography to the projected excerpt."""
+    text = record['excerpt']
+    for original, formatted in edits.get(record['id'], []):
+        if text.count(original) != 1:
+            raise ValueError('Review typography for changed annotation: ' + record['id'])
+        text = text.replace(original, formatted, 1)
+    return text
+
+
+class SearchText(HTMLParser):
+    """Read visible annotation prose for search snippets."""
+
+    def __init__(self):
+        super().__init__()
+        self.parts = []
+
+    def handle_data(self, data):
+        self.parts.append(data)
+
+
+def search_text(text):
+    parser = SearchText()
+    parser.feed(markdown(text))
+    parser.close()
+    return ' '.join(''.join(parser.parts).split())
 
 
 def note_ref(note):
@@ -87,6 +110,9 @@ def model():
     versions = {v['id']: v for v in tables['text_version']}
     units = {u['id']: u for u in tables['unit']}
     evidence = {e['id']: e for e in tables['evidence']}
+    typography = read(ASSETS / 'note-typography.json')
+    if missing := typography.keys() - evidence.keys():
+        raise ValueError('Unknown annotations in typography file: ' + ', '.join(sorted(missing)))
     defaults = {d['section']: d for d in read(ROOT / 'edition/manifest.json')['reading_defaults']}
     sections = []
     for spec in read(ASSETS / 'sections.json'):
@@ -100,13 +126,13 @@ def model():
         wanted = {str(p['number']) for p in paragraphs}
         selected = [n.copy() for n in annotation['notes'] if number(n['source_id']) in wanted]
         for n in selected:
-            n['text'] = evidence[spec['prefix'] + 'note:' + n['id']]['excerpt']
+            n['text'] = annotation_text(evidence[spec['prefix'] + 'note:' + n['id']], typography)
         # Keep printed reading order; numbering is local to this complete page.
         for i, n in enumerate(selected, 1):
             n['display_number'] = i
         guides = [g.copy() for g in annotation['term_guide'] if spec['annotations'] != 'annotated' or any(number(s) in wanted for s in g['source_ids'])]
         for g in guides:
-            g['text'] = evidence[spec['prefix'] + 'guide:' + g['id']]['excerpt']
+            g['text'] = annotation_text(evidence[spec['prefix'] + 'guide:' + g['id']], typography)
         review = ROOT / 'translations' / spec['review'] / 'review.json'
         reviewed = review.exists() and read(review).get('completed', False)
         result = dict(spec, reviewed=reviewed, status='English-reading review completed' if reviewed else 'English-reading review pending', notes=selected, guides=guides, paragraphs=[], source=source, headings=[])
@@ -233,7 +259,8 @@ def section_page(section, sections):
 <details class="german" lang="de"><summary><span lang="en">German · {escape(p['locator'])}</span></summary>{''.join('<p>' + escape(t) + '</p>' for t in p['german_groups'])}<p class="source-links" lang="en"><a href="{scan}">Open scanned page</a> · <a href="{record}">Checked transcription</a></p></details></div></article>''')
     parts += ['</div>', '<section id="terminology"><h2>Terminology guide</h2><p class="meta">Local reading aids for this section. They do not impose fixed English equivalents across the whole work.</p>']
     for g in section['guides']:
-        parts.append(f'<article class="term-entry" id="term-{escape(g["id"], quote=True)}"><h3>{escape(g["term"])}</h3><p class="german-terms" lang="de">{escape(", ".join(g["German"]))}</p>{markdown(g["text"])}</article>')
+        words = ', '.join(f'<em>{escape(word)}</em>' for word in g['German'])
+        parts.append(f'<article class="term-entry" id="term-{escape(g["id"], quote=True)}"><h3>{escape(g["term"])}</h3><p class="german-terms" lang="de">{words}</p>{markdown(g["text"])}</article>')
     parts += ['</section>', '<section id="notes"><h2>Notes</h2><p class="meta">Humboldt: his own notes. 1906 Ed.: the print editor’s apparatus. Trans.: our explanations and qualifications. One Arabic sequence covers all three.</p><ol class="endnotes">']
     for n in section['notes']:
         parts.append(f'<li id="note-{escape(n["id"], quote=True)}" data-number="{n["display_number"]}" tabindex="-1"><div class="note-text">{markdown(n["text"] + " (" + n["attribution"] + ")")}</div><a class="note-back" href="#ref-{escape(n["id"], quote=True)}" aria-label="Return to note {n["display_number"]} in the reading">Return to text ↑</a></li>')
@@ -300,7 +327,8 @@ def download(section):
             start += len(group) + 1
     lines += ['## Terminology guide', '']
     for g in section['guides']:
-        lines += ['**' + g['term'] + '** (' + ', '.join(g['German']) + '). ' + g['text'], '']
+        words = ', '.join('*' + word + '*' for word in g['German'])
+        lines += ['**' + g['term'] + '** (' + words + '). ' + g['text'], '']
     lines += ['## Notes', '']
     for n in section['notes']:
         lines += ['[^' + n['id'] + ']: ' + n['text'] + ' (' + n['attribution'] + ')', '']
@@ -327,9 +355,9 @@ def export(output):
         for p in section['paragraphs']:
             search.append(dict(title=section['title'] + ' · ' + p['number'], href='/humboldt/' + section['slug'] + '/#p' + p['number'], kind='Passage', text='p' + p['number'] + ' ' + p['english'] + '\n' + p['german']))
         for n in section['notes']:
-            search.append(dict(title=section['title'] + ' · note ' + str(n['display_number']), href='/humboldt/' + section['slug'] + '/#note-' + n['id'], kind=n['attribution'], text=n['text']))
+            search.append(dict(title=section['title'] + ' · note ' + str(n['display_number']), href='/humboldt/' + section['slug'] + '/#note-' + n['id'], kind=n['attribution'], text=search_text(n['text'])))
         for g in section['guides']:
-            search.append(dict(title=g['term'] + ' · ' + section['title'], href='/humboldt/' + section['slug'] + '/#term-' + g['id'], kind='Terminology', text=', '.join(g['German']) + ' ' + g['text']))
+            search.append(dict(title=g['term'] + ' · ' + section['title'], href='/humboldt/' + section['slug'] + '/#term-' + g['id'], kind='Terminology', text=', '.join(g['German']) + ' ' + search_text(g['text'])))
     (output / 'index.html').write_text(home_page(sections))
     (output / 'search-index.json').write_text(json.dumps(search, ensure_ascii=False, separators=(',', ':')) + '\n')
     for asset in ['reader.css', 'reader.js']:

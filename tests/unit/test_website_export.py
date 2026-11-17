@@ -37,5 +37,16 @@ class WebsiteAttachment(unittest.TestCase):
             module.check_anchor(invalid, self.version, self.unit)
 
 
+class WebsiteTypography(unittest.TestCase):
+    def test_an_edit_requires_one_match_in_the_projected_note(self):
+        edits = {'E.note': [['“der”', '*der*']]}
+        note = dict(id='E.note', excerpt='Deleted after “der”: “the phrase”.')
+        self.assertEqual(module.annotation_text(note, edits), 'Deleted after *der*: “the phrase”.')
+        self.assertEqual(note['excerpt'], 'Deleted after “der”: “the phrase”.')
+        for changed in ['Deleted after “dem”.', '“der” follows “der”.']:
+            with self.assertRaisesRegex(ValueError, 'Review typography for changed annotation'):
+                module.annotation_text(dict(note, excerpt=changed), edits)
+
+
 if __name__ == '__main__':
     unittest.main()

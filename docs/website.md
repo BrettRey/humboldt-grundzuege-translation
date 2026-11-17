@@ -21,6 +21,8 @@ The exporter reads the durable edition with accepted journal updates. It checks 
 
 Each section supplies HTML, downloadable Markdown and `records.json` with original version IDs, body hashes, note anchors and local terminology. `snapshot.json` identifies the source commit and fingerprints the generated files. Displayed note numbers are local to a complete reading page; semantic IDs remain stable. Do not hand-edit generated text. Correct the edition through its existing revision workflow and regenerate.
 
+Write new notes and guides with italicized mentions, single quotes for meanings and paraphrases, and double quotes for direct quotations and scare quotes. For older notes and guides, `tools/website/note-typography.json` records contextual display edits keyed by evidence ID. The exporter applies them to the accepted note text and checks that each edited fragment has one match. If a matched fragment changes, update or remove its display edit. See the [editorial typography rules](translation-workflow.md#editorial-typography).
+
 Latest drafts are included with explicit English-reading review labels. Website approval does not complete a pending translation review or certify German fidelity. The 1906 base, reported opening cancellation and unresolved readings remain qualified. No review markup, library PDF, generated SQLite store or raw worker stream is exported.
 
 ## Verification and publication
