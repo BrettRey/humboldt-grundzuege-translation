@@ -1,0 +1,40 @@
+{
+  "encoding": "UTF-8",
+  "joining": "Concatenate in array order without added separators.",
+  "recipes": {
+    "candidate": {
+      "parts": [
+        {
+          "file": "translations/nature-language/candidate-instructions.md"
+        },
+        {
+          "literal": "\n"
+        },
+        {
+          "file": "translations/nature-language/candidate-packet.md"
+        },
+        {
+          "literal": "\n# Whole-work German context — UNCORRECTED OCR\n\n"
+        },
+        {
+          "file": "sources/grundzuege-ocr.txt"
+        }
+      ],
+      "sha256": "9156a2a0f5fa7e34c7d396334546ff29d6ec1e134830859a6db26afe44e03a19"
+    },
+    "audit": {
+      "parts": [
+        {
+          "file": "translations/nature-language/audit-packet.md"
+        },
+        {
+          "literal": "\n\n# Whole-work German background — UNCORRECTED OCR\n\n"
+        },
+        {
+          "file": "sources/grundzuege-ocr.txt"
+        }
+      ],
+      "sha256": "1626f32b012aba0153b4921c516c40ea9ec978c68371d900c91ca435722920eb"
+    }
+  }
+}

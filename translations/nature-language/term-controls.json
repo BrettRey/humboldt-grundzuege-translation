@@ -1,0 +1,2081 @@
+[
+  {
+    "id": "lex:abstammung",
+    "headword": "Abstammung",
+    "senses": [
+      {
+        "group": "early|Abstammung|1",
+        "definition": "Descent applied to languages under an explicit warning: a mother language changes through generations and mixture rather than producing a complete daughter as a separate object.",
+        "renderings": [
+          "descent"
+        ],
+        "rule": "Retain the descent metaphor and its express restriction; never infer a single pure parent from the term alone.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 390,
+            "pdf_page": 400,
+            "section": null,
+            "ocr_quote": "Vorsicht, um mit Richtigkeit gebraucht zu werden. Ebendies ist der Fall mit der Anwendung des Begriffes der Abstammung auf die Sprachen,*) der nie so genommen werden darf, als könnte eine in ihrer Totalitaet aus einer andren herv^orgehn, sondern nur so, dass sich die angebliche Muttersprache in dem Munde",
+            "checked_quote": "Vorsicht, um mit Richtigkeit gebraucht zu werden. Ebendies ist der Fall mit der Anwendung des Begriffes der Abstammung auf die Sprachen,*) der nie so genommen werden darf, als könnte eine in ihrer Totalitaet aus einer andren hervorgehn, sondern nur so, dass sich die angebliche Muttersprache in dem Munde",
+            "term_form": "Abstammung",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "Image correction: 'herv^orgehn' → 'hervorgehn'.",
+            "reported_term_form": "Abstammung",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Abstammung|1|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Abstammung|1",
+            "scan_leaf": 404,
+            "page_span": [
+              1818,
+              2123
+            ],
+            "checked_parts": [
+              {
+                "text": "Abstammung",
+                "span": [
+                  108,
+                  118
+                ]
+              }
+            ],
+            "id": "lex:abstammung:s01:e01",
+            "use_id": "lex:abstammung:s01:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:articulation",
+    "headword": "Articulation",
+    "senses": [
+      {
+        "group": "early|Articulation|1",
+        "definition": "The mental control and division of the sound continuum enabling combinations whose wholes can become parts of further wholes; analytically separated from audible noise.",
+        "renderings": [
+          "articulation"
+        ],
+        "rule": "Retain the articulation/noise distinction together with its subsequent sensory qualification.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 375,
+            "pdf_page": 385,
+            "section": "21",
+            "ocr_quote": "das dem Ohre wirklich Vernehmbare, oder um es anders auszudrücken, wenn man den articulirten Laut in die Articulation und das Geräusch zerlegt, nicht dieses, sondern nur jene. Die Articulation beruht auf der Gewalt des Geistes über die Sprachwerkzeuge, sie zu einer Behandlung des Tons zu nöthigen, welche der",
+            "checked_quote": "das dem Ohre wirklich Vernehmbare, oder um es anders auszudrücken, wenn man den articulirten Laut in die Articulation und das Geräusch zerlegt, nicht dieses, sondern nur jene. Die Articulation beruht auf der Gewalt des Geistes über die Sprachwerkzeuge, sie zu einer Behandlung des Tons zu nöthigen, welche der",
+            "term_form": "Articulation",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "",
+            "reported_term_form": "Articulation",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Articulation|1|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Articulation|1",
+            "scan_leaf": 389,
+            "page_span": [
+              1062,
+              1371
+            ],
+            "checked_parts": [
+              {
+                "text": "Articulation",
+                "span": [
+                  105,
+                  117
+                ]
+              }
+            ],
+            "id": "lex:articulation:s01:e01",
+            "use_id": "lex:articulation:s01:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:begriff",
+    "headword": "Begriff",
+    "senses": [
+      {
+        "group": "early|Begriff|1",
+        "definition": "A concept formed from the flow of representations and attaining determinacy and clarity through reflection from another thinking power.",
+        "renderings": [
+          "concept"
+        ],
+        "rule": "Keep concept distinct from thinking, thought-content and representation.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 380,
+            "pdf_page": 390,
+            "section": "31",
+            "ocr_quote": "der Begriff erreicht seine Bestimmtheit und Klarheit erst durch das Zurückstrahlen aus einer fremden Denkkraft.",
+            "checked_quote": "der Begriff erreicht seine Bestimmtheit und Klarheit erst durch das Zurückstrahlen aus einer fremden Denkkraft.",
+            "term_form": "Begriff",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "",
+            "reported_term_form": "Begriff",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Begriff|1|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Begriff|1",
+            "scan_leaf": 394,
+            "page_span": [
+              1727,
+              1838
+            ],
+            "checked_parts": [
+              {
+                "text": "Begriff",
+                "span": [
+                  4,
+                  11
+                ]
+              }
+            ],
+            "id": "lex:begriff:s01:e01",
+            "use_id": "lex:begriff:s01:u01"
+          }
+        ]
+      },
+      {
+        "group": "early|Begriff|2",
+        "definition": "The pure concept of language determining what may be said of the general process type.",
+        "renderings": [
+          "concept"
+        ],
+        "rule": "Retain the conceptual standard; do not replace it by a historical average or ancestry.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 373,
+            "pdf_page": 383,
+            "section": "16",
+            "ocr_quote": "Die Allgemeinheit dieses Typus besteht darin, dass Alles, was von ihm auszusagen ist, nur durch den reinen BegritF der Sprache bedingt und von allen andren Umständen abgesehen wird, die, aus den übrigen menschlichen Anlagen und den auf sie einwirkenden Verhältnissen entspringend, in der Wirklichkeit den allgemeinen Typus individualisiren.",
+            "checked_quote": "Die Allgemeinheit dieses Typus besteht darin, dass Alles, was von ihm auszusagen ist, nur durch den reinen Begriff der Sprache bedingt und von allen andren Umständen abgesehen wird, die, aus den übrigen menschlichen Anlagen und den auf sie einwirkenden Verhältnissen entspringend, in der Wirklichkeit den allgemeinen Typus individualisiren.",
+            "term_form": "Begriff",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "Image correction: 'BegritF' → 'Begriff'.",
+            "reported_term_form": "Begriff",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Begriff|2|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Begriff|2",
+            "scan_leaf": 387,
+            "page_span": [
+              628,
+              968
+            ],
+            "checked_parts": [
+              {
+                "text": "Begriff",
+                "span": [
+                  107,
+                  114
+                ]
+              }
+            ],
+            "id": "lex:begriff:s02:e01",
+            "use_id": "lex:begriff:s02:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:bildung",
+    "headword": "Bildung",
+    "senses": [
+      {
+        "group": "early|Bildung|3",
+        "definition": "Gradual formation of nations through separation and cohesion, after which their distinctiveness becomes visible.",
+        "renderings": [
+          "formation"
+        ],
+        "rule": "Retain the gradual collective process and do not imply deliberate invention.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 391,
+            "pdf_page": 401,
+            "section": null,
+            "ocr_quote": "das zusammenwirkende Princip der Absonderung und des Zusammenhaltens; nur wird die so entspringende Eigenthümlichkeit erst nach vollendeter Bildung in einem gewissen Punkte sichtbar. Alle Sprachen von Völkern, zwischen denen jemals irgend 44eine Verbindung obgewaltet hat, müssen daher als Eine, nur durch Entfremdung und Vermischung zu mannigfaltigen Unterarten umgeänderte",
+            "checked_quote": "das zusammenwirkende Princip der Absonderung und des Zusammenhaltens; nur wird die so entspringende Eigenthümlichkeit erst nach vollendeter Bildung in einem gewissen Punkte sichtbar. Alle Sprachen von Völkern, zwischen denen jemals irgend eine Verbindung obgewaltet hat, müssen daher als Eine, nur durch Entfremdung und Vermischung zu mannigfaltigen Unterarten umgeänderte",
+            "term_form": "Bildung",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "Image correction: '44eine' → 'eine'.",
+            "reported_term_form": "Bildung",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Bildung|3|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Bildung|3",
+            "scan_leaf": 405,
+            "page_span": [
+              267,
+              641
+            ],
+            "checked_parts": [
+              {
+                "text": "Bildung",
+                "span": [
+                  140,
+                  147
+                ]
+              }
+            ],
+            "id": "lex:bildung:s03:e01",
+            "use_id": "lex:bildung:s03:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:empfindung",
+    "headword": "Empfindung",
+    "senses": [
+      {
+        "group": "early|Empfindung|1",
+        "definition": "Feeling that seeks the animal cry, one of the drives united in articulated sound.",
+        "renderings": [
+          "feeling",
+          "sensation"
+        ],
+        "rule": "Use feeling/sensation for the affective motive for cries; distinguish it from thought's drive and conversation's developmental need.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 376,
+            "pdf_page": 386,
+            "section": null,
+            "ocr_quote": "verbunden ist. 23. Es liegt aber hierin dreierlei: der Drang des Gedanken nach Aeusserung, das Bedürfniss der Empfindung zum thierischen Schrei, und die Nothwendigkeit der gesellschaftlichen Wechselwirkung zur Ausbildung des Gedanken. Jedes dieser Stücke führt einzeln zur Hervorbringung des Tons, und die Sprache vereinigt alle im articulirten Laut.",
+            "checked_quote": "verbunden ist. Es liegt aber hierin dreierlei: der Drang des Gedanken nach Aeusserung, das Bedürfniss der Empfindung zum thierischen Schrei, und die Nothwendigkeit der gesellschaftlichen Wechselwirkung zur Ausbildung des Gedanken. Jedes dieser Stücke führt einzeln zur Hervorbringung des Tons, und die Sprache vereinigt alle im articulirten Laut.",
+            "term_form": "Empfindung",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "Marginal section numeral excluded from continuous main-text quotation.",
+            "reported_term_form": "Empfindung",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Empfindung|1|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Empfindung|1",
+            "scan_leaf": 390,
+            "page_span": [
+              1883,
+              2233
+            ],
+            "checked_parts": [
+              {
+                "text": "Empfindung",
+                "span": [
+                  106,
+                  116
+                ]
+              }
+            ],
+            "id": "lex:empfindung:s01:e01",
+            "use_id": "lex:empfindung:s01:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:erzeugung",
+    "headword": "Erzeugung",
+    "senses": [
+      {
+        "group": "early|Erzeugung|1",
+        "definition": "Renewed production of language in thought, making it subjective and objective at once.",
+        "renderings": [
+          "production"
+        ],
+        "rule": "Use production for the defined local use.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 388,
+            "pdf_page": 398,
+            "section": null,
+            "ocr_quote": "Denn sie hat nirgends, auch in der Schrift nicht, eine bleibende Stätte, sondern muss immer im Denken aufs neue erzeugt werden, und folglich ganz in das Subject übergehen; es liegt aber in dem Act dieser Erzeugung, sie gerade ebenso zum Object zu machen;",
+            "checked_quote": "Denn sie hat nirgends, auch in der Schrift nicht, eine bleibende Stätte, sondern muss immer im Denken aufs neue erzeugt werden, und folglich ganz in das Subject übergehen; es liegt aber in dem Act dieser Erzeugung, sie gerade ebenso zum Object zu machen;",
+            "term_form": "Erzeugung",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "",
+            "reported_term_form": "Erzeugung",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Erzeugung|1|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Erzeugung|1",
+            "scan_leaf": 402,
+            "page_span": [
+              2169,
+              2423
+            ],
+            "checked_parts": [
+              {
+                "text": "Erzeugung",
+                "span": [
+                  204,
+                  213
+                ]
+              }
+            ],
+            "id": "lex:erzeugung:s01:e01",
+            "use_id": "lex:erzeugung:s01:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:form",
+    "headword": "Form",
+    "senses": [
+      {
+        "group": "form-mode-activity",
+        "definition": "Form used for the mode or organization of mental/linguistic activity, including determinate thought and its externalization. The explicit law/direction/procedure stipulation belongs to§136.",
+        "renderings": [
+          "form"
+        ],
+        "rule": "Identify the operation and bearer in the local use. Keep§136’s stipulation visible without retroactively making it the exhaustive definition of every earlier Form.",
+        "caution": "These are grouped contextual uses of a broad form vocabulary, not a single unchanging technical doctrine. The individual source uses and their conditions remain below.",
+        "evidence": [
+          {
+            "printed_page": 375,
+            "pdf_page": 385,
+            "section": "21",
+            "ocr_quote": "der Gewalt des Geistes über die Sprachwerkzeuge, sie zu einer Behandlung des Tons zu nöthigen, welche der Form seines Wirkens entspricht. Dasjenige, worin sich diese Form und die Articulation, wie in einem verknüpfenden Mittel begegnen, ist, dass beide ihr Gebiet in Grundtheile zerlegen, deren Zusammenfügung lauter solche Ganze",
+            "checked_quote": "der Gewalt des Geistes über die Sprachwerkzeuge, sie zu einer Behandlung des Tons zu nöthigen, welche der Form seines Wirkens entspricht. Dasjenige, worin sich diese Form und die Articulation, wie in einem verknüpfenden Mittel begegnen, ist, dass beide ihr Gebiet in Grundtheile zerlegen, deren Zusammenfügung lauter solche Ganze",
+            "term_form": "Form",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "",
+            "reported_term_form": "Form",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Form|2|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Form|2",
+            "scan_leaf": 389,
+            "page_span": [
+              1266,
+              1595
+            ],
+            "checked_parts": [
+              {
+                "text": "Form",
+                "span": [
+                  106,
+                  110
+                ]
+              }
+            ],
+            "id": "lex:form:s02:e01",
+            "use_id": "lex:form:s02:u01"
+          }
+        ]
+      },
+      {
+        "group": "form-relative-matter",
+        "definition": "The organizing or active side of a locally specified form/matter relation: discourse-connection versus words, the word’s coordinating contribution, or thought’s operations versus objects.",
+        "renderings": [
+          "form"
+        ],
+        "rule": "State what counts as matter and form in each source use. In§55 words/discourse-connection is expressly not sounds/rules; the word and thought discussions have different bearers.",
+        "caution": "These contextual uses must not be flattened into syntax, sound shape, or one independent metaphysical substance.",
+        "evidence": [
+          {
+            "printed_page": 399,
+            "pdf_page": 409,
+            "section": "55",
+            "ocr_quote": "sich nun zwei Dinge deutlich von einander ab, die Wörter und die Redeverbindung, als die Materie und Form der Sprache. Man muss diese Eintheilung nicht verwechseln mit der in Laute und Regeln; denn auch die Wortbildung kennt Regeln, und die Redeverbindung bedient sich bisweilen ihr eigenthümlicher Laute ;",
+            "checked_quote": "sich nun zwei Dinge deutlich von einander ab, die Wörter und die Redeverbindung, als die Materie und Form der Sprache. Man muss diese Eintheilung nicht verwechseln mit der in Laute und Regeln; denn auch die Wortbildung kennt Regeln, und die Redeverbindung bedient sich bisweilen ihr eigenthümlicher Laute ;",
+            "term_form": "Form",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "",
+            "reported_term_form": "Form",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Form|3|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Form|3",
+            "scan_leaf": 413,
+            "page_span": [
+              1534,
+              1840
+            ],
+            "checked_parts": [
+              {
+                "text": "Form",
+                "span": [
+                  101,
+                  105
+                ]
+              }
+            ],
+            "id": "lex:form:s03:e01",
+            "use_id": "lex:form:s03:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:gattung",
+    "headword": "Gattung",
+    "senses": [
+      {
+        "group": "early|Gattung|2",
+        "definition": "A relative grouping which can itself be treated as an individual against a more general grouping.",
+        "renderings": [
+          "kind",
+          "genus"
+        ],
+        "rule": "Preserve relativity of the grouping; do not impose fixed modern biological ranks.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 382,
+            "pdf_page": 392,
+            "section": null,
+            "ocr_quote": "Diese Kraft ist, wie jede, natürlich eine individuelle, aber nach allen den Gattungsbegriffen individualisirt, vermöge welcher jede Gattung gegen eine allgemeinere höhere als Individuum genommen werden kann. Sie ist mithin die allgemeine Sprachkraft, bestimmt durch den Völkerstamm, die Nation, die Mundart, dann in ihren Lautzeichen feststehend, in der",
+            "checked_quote": "Diese Kraft ist, wie jede, natürlich eine individuelle, aber nach allen den Gattungsbegriffen individualisirt, vermöge welcher jede Gattung gegen eine allgemeinere höhere als Individuum genommen werden kann. Sie ist mithin die allgemeine Sprachkraft, bestimmt durch den Völkerstamm, die Nation, die Mundart, dann in ihren Lautzeichen feststehend, in der",
+            "term_form": "Gattung",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "",
+            "reported_term_form": "Gattung",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Gattung|2|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Gattung|2",
+            "scan_leaf": 396,
+            "page_span": [
+              904,
+              1257
+            ],
+            "checked_parts": [
+              {
+                "text": "Gattung",
+                "span": [
+                  132,
+                  139
+                ]
+              }
+            ],
+            "id": "lex:gattung:s02:e01",
+            "use_id": "lex:gattung:s02:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:gefuehl",
+    "headword": "Gefühl",
+    "senses": [
+      {
+        "group": "early|Gefühl|2",
+        "definition": "The sense shared among peoples that speaking requires a distinct addressee, invoked in explaining pronoun patterns.",
+        "renderings": [
+          "sense",
+          "feeling"
+        ],
+        "rule": "Use feeling/sense without turning it into explicit propositional knowledge.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 381,
+            "pdf_page": 391,
+            "section": null,
+            "ocr_quote": "einem von ihnen, sondern beiden entgegengesetzt. Dass dieselbe Pronominalform durch alle Sprachen durchgeht, zeigt, dass, nach dem Gefühl aller Völker, das Sprechen in seinem Wesen voraussetzt, dass der Sprechende, sich gegenüber, einen Angeredeten von allen Andren unterscheidet. In mehreren Amerikanischen Sprachen zeigt sich sogar darin eine besondre Sorgfalt",
+            "checked_quote": "einem von ihnen, sondern beiden entgegengesetzt. Dass dieselbe Pronominalform durch alle Sprachen durchgeht, zeigt, dass, nach dem Gefühl aller Völker, das Sprechen in seinem Wesen voraussetzt, dass der Sprechende, sich gegenüber, einen Angeredeten von allen Andren unterscheidet. In mehreren Amerikanischen Sprachen zeigt sich sogar darin eine besondre Sorgfalt",
+            "term_form": "Gefühl",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "",
+            "reported_term_form": "Gefühl",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Gefühl|2|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Gefühl|2",
+            "scan_leaf": 395,
+            "page_span": [
+              1072,
+              1434
+            ],
+            "checked_parts": [
+              {
+                "text": "Gefühl",
+                "span": [
+                  131,
+                  137
+                ]
+              }
+            ],
+            "id": "lex:gefuehl:s02:e01",
+            "use_id": "lex:gefuehl:s02:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:geist",
+    "headword": "Geist",
+    "senses": [
+      {
+        "group": "early|Geist|1",
+        "definition": "The inward thinking agency from which language proceeds and on which it acts back through individuals and generations.",
+        "renderings": [
+          "mind"
+        ],
+        "rule": "Use mind where thinking agency is central; preserve local metaphysical or living-spirit emphasis separately.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 374,
+            "pdf_page": 384,
+            "section": null,
+            "ocr_quote": "Einfluss auf das Denk- und Empfindungsvermögen. Der ganze Gang kommt in Betrachtung, auf dem sie, von dem Geiste ausgehend, auf den Geist zurückwirkt, im Individuum, in dem jedesmal lebenden Geschlecht und in der Nation durch mehrere Geschlechter hindurch. 20. Denn es ist schon sonst dargethan, und kann wohl,",
+            "checked_quote": "Einfluss auf das Denk- und Empfindungsvermögen. Der ganze Gang kommt in Betrachtung, auf dem sie, von dem Geiste ausgehend, auf den Geist zurückwirkt, im Individuum, in dem jedesmal lebenden Geschlecht und in der Nation durch mehrere Geschlechter hindurch. Denn es ist schon sonst dargethan, und kann wohl,",
+            "term_form": "Geiste",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "Marginal section numeral excluded from continuous main-text quotation.",
+            "reported_term_form": "Geiste",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Geist|1|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Geist|1",
+            "scan_leaf": 388,
+            "page_span": [
+              811,
+              1121
+            ],
+            "checked_parts": [
+              {
+                "text": "Geiste",
+                "span": [
+                  106,
+                  112
+                ]
+              }
+            ],
+            "id": "lex:geist:s01:e01",
+            "use_id": "lex:geist:s01:u01"
+          }
+        ]
+      },
+      {
+        "group": "early|Geist|2",
+        "definition": "Living mind that animates the inherited stock of words and rules through thinking, speaking and recording.",
+        "renderings": [
+          "mind",
+          "spirit"
+        ],
+        "rule": "Retain the living/dead opposition, without substituting a later philosophical system.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 398,
+            "pdf_page": 408,
+            "section": null,
+            "ocr_quote": "das System von Regeln, welche wir Sprache nennen, immer im Denken, Sprechen und Aufzeichnen von dem lebendigen Geiste befruchtet werden, so muss auch die Untersuchung den lebendigen Geist und die todte Sprache immer zugleich vor Augen haben, und ihrer Wechselwirkung nachgehen.",
+            "checked_quote": "das System von Regeln, welche wir Sprache nennen, immer im Denken, Sprechen und Aufzeichnen von dem lebendigen Geiste befruchtet werden, so muss auch die Untersuchung den lebendigen Geist und die todte Sprache immer zugleich vor Augen haben, und ihrer Wechselwirkung nachgehen.",
+            "term_form": "Geiste",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "",
+            "reported_term_form": "Geiste",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Geist|2|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Geist|2",
+            "scan_leaf": 412,
+            "page_span": [
+              2190,
+              2467
+            ],
+            "checked_parts": [
+              {
+                "text": "Geiste",
+                "span": [
+                  111,
+                  117
+                ]
+              }
+            ],
+            "id": "lex:geist:s02:e01",
+            "use_id": "lex:geist:s02:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:gemueth",
+    "headword": "Gemüth",
+    "senses": [
+      {
+        "group": "early|Gemüth|1",
+        "definition": "The inward affective life on which internal dispositions and external contingencies act strongly enough to affect linguistic usage.",
+        "renderings": [
+          "inner life",
+          "mind"
+        ],
+        "rule": "Do not silently identify it with a fixed modern faculty or with Geist in every context.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 382,
+            "pdf_page": 392,
+            "section": null,
+            "ocr_quote": "dann in ihren Lautzeichen feststehend, in der Art des Gebrauches bestimmt durch alle so mächtig auf das Gemüth einwirkenden inneren Beschaffenheiten und äusseren Zufälligkeiten, dass die Wirkung in der Sprache fühlbar wird, endlich durch die in keine allgemeinere Kategorie mehr zu bringende Individualität. Jede dieser bis zum Allgemeinsten",
+            "checked_quote": "dann in ihren Lautzeichen feststehend, in der Art des Gebrauches bestimmt durch alle so mächtig auf das Gemüth einwirkenden inneren Beschaffenheiten und äusseren Zufälligkeiten, dass die Wirkung in der Sprache fühlbar wird, endlich durch die in keine allgemeinere Kategorie mehr zu bringende Individualität. Jede dieser bis zum Allgemeinsten",
+            "term_form": "Gemüth",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "",
+            "reported_term_form": "Gemüth",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Gemüth|1|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Gemüth|1",
+            "scan_leaf": 396,
+            "page_span": [
+              1212,
+              1553
+            ],
+            "checked_parts": [
+              {
+                "text": "Gemüth",
+                "span": [
+                  104,
+                  110
+                ]
+              }
+            ],
+            "id": "lex:gemueth:s01:e01",
+            "use_id": "lex:gemueth:s01:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:gewalt",
+    "headword": "Gewalt",
+    "senses": [
+      {
+        "group": "early|Gewalt|1",
+        "definition": "Mind's power over speech organs to make sound conform to the form of its operation.",
+        "renderings": [
+          "power",
+          "command"
+        ],
+        "rule": "Retain the control relation; not physical violence in this occurrence.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 375,
+            "pdf_page": 385,
+            "section": null,
+            "ocr_quote": "in die Articulation und das Geräusch zerlegt, nicht dieses, sondern nur jene. Die Articulation beruht auf der Gewalt des Geistes über die Sprachwerkzeuge, sie zu einer Behandlung des Tons zu nöthigen, welche der Form seines Wirkens entspricht. Dasjenige, worin sich diese Form und die Articulation, wie in einem",
+            "checked_quote": "in die Articulation und das Geräusch zerlegt, nicht dieses, sondern nur jene. Die Articulation beruht auf der Gewalt des Geistes über die Sprachwerkzeuge, sie zu einer Behandlung des Tons zu nöthigen, welche der Form seines Wirkens entspricht. Dasjenige, worin sich diese Form und die Articulation, wie in einem",
+            "term_form": "Gewalt",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "",
+            "reported_term_form": "Gewalt",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Gewalt|1|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Gewalt|1",
+            "scan_leaf": 389,
+            "page_span": [
+              1160,
+              1471
+            ],
+            "checked_parts": [
+              {
+                "text": "Gewalt",
+                "span": [
+                  110,
+                  116
+                ]
+              }
+            ],
+            "id": "lex:gewalt:s01:e01",
+            "use_id": "lex:gewalt:s01:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:individualitaet",
+    "headword": "Individualität",
+    "senses": [
+      {
+        "group": "early|Individualität|1",
+        "definition": "The language's singular identity said to be fully manifest only in its own sound rather than exhausted by classification.",
+        "renderings": [
+          "individuality"
+        ],
+        "rule": "Retain the emphatic sound claim and read it with §§49–50 rather than silently reducing or universalizing it.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 379,
+            "pdf_page": 389,
+            "section": "29",
+            "ocr_quote": "Ideen oder ihrer Verbindungen. In der Natur des Tones, als solchen, liegt endlich allein die 29. wahre Individualitaet jeder Sprache. Was man thun und versuchen mag, ihre Eigenthümlichkeiten zu schildern, so bestimmt man nur immer näher und näher die Gattung, welcher sie angehört ;als diese und keine andere",
+            "checked_quote": "Ideen oder ihrer Verbindungen. In der Natur des Tones, als solchen, liegt endlich allein die wahre Individualitaet jeder Sprache. Was man thun und versuchen mag, ihre Eigenthümlichkeiten zu schildern, so bestimmt man nur immer näher und näher die Gattung, welcher sie angehört ; als diese und keine andere",
+            "term_form": "Individualitaet",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "Image correction: ';als' → '; als'. Marginal section numeral excluded from continuous main-text quotation.",
+            "reported_term_form": "Individualitaet",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Individualität|1|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Individualität|1",
+            "scan_leaf": 393,
+            "page_span": [
+              495,
+              803
+            ],
+            "checked_parts": [
+              {
+                "text": "Individualitaet",
+                "span": [
+                  99,
+                  114
+                ]
+              }
+            ],
+            "id": "lex:individualitaet:s01:e01",
+            "use_id": "lex:individualitaet:s01:u01"
+          },
+          {
+            "printed_page": 395,
+            "pdf_page": 405,
+            "section": "49",
+            "ocr_quote": "aus dem Vorigen von selbst, dass, obgleich 49der individuelle Sprachlaut die letzte vi^irkliche Erscheinung ist, doch die Individualitaet einer Sprache nicht bloss in ihrem Ton, und das Gleichartige etwa in dem Ideellen gesucht werden muss. Die Individualitaet zeigt sich vielmehr in Allem, und ist eine und eben dieselbe",
+            "checked_quote": "aus dem Vorigen von selbst, dass, obgleich der individuelle Sprachlaut die letzte wirkliche Erscheinung ist, doch die Individualitaet einer Sprache nicht bloss in ihrem Ton, und das Gleichartige etwa in dem Ideellen gesucht werden muss. Die Individualitaet zeigt sich vielmehr in Allem, und ist eine und eben dieselbe",
+            "term_form": "Individualitaet",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "Image correction: '49der' → 'der'. Image correction: 'vi^irkliche' → 'wirkliche'.",
+            "reported_term_form": "Individualitaet",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Individualität|1|2",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Individualität|1",
+            "scan_leaf": 409,
+            "page_span": [
+              58,
+              379
+            ],
+            "checked_parts": [
+              {
+                "text": "Individualitaet",
+                "span": [
+                  118,
+                  133
+                ]
+              }
+            ],
+            "id": "lex:individualitaet:s01:e02",
+            "use_id": "lex:individualitaet:s01:u01"
+          }
+        ]
+      },
+      {
+        "group": "early|Individualität|2",
+        "definition": "Strict individuality located only in the present speaker; a nation's language is individual only comparatively.",
+        "renderings": [
+          "individuality"
+        ],
+        "rule": "Keep the speaker as final bearer and national individuality relative.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 396,
+            "pdf_page": 406,
+            "section": "50",
+            "ocr_quote": "scharfen Begränzung der Begrifle nichts fehlen zu lassen, muss zu dem Vorigen noch hinzugesetzt werden, dass die Individualität einer Sprache auch nur vergleichungsweise eine seyn kann, und dass die wahre Individualität nur in dem jedesmal Sprechenden liegt. In der That vollendet erst dies den Begrilf. Eine Nation hat",
+            "checked_quote": "scharfen Begränzung der Begriffe nichts fehlen zu lassen, muss zu dem Vorigen noch hinzugesetzt werden, dass die Individualität einer Sprache auch nur vergleichungsweise eine seyn kann, und dass die wahre Individualität nur in dem jedesmal Sprechenden liegt. In der That vollendet erst dies den Begriff. Eine Nation hat",
+            "term_form": "Individualität",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "Image correction: 'Begrifle' → 'Begriffe'. Image correction: 'Begrilf' → 'Begriff'.",
+            "reported_term_form": "Individualität",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Individualität|2|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Individualität|2",
+            "scan_leaf": 410,
+            "page_span": [
+              37,
+              356
+            ],
+            "checked_parts": [
+              {
+                "text": "Individualität",
+                "span": [
+                  113,
+                  127
+                ]
+              }
+            ],
+            "id": "lex:individualitaet:s02:e01",
+            "use_id": "lex:individualitaet:s02:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:laut",
+    "headword": "Laut",
+    "senses": [
+      {
+        "group": "early|Laut|1",
+        "definition": "Articulated speech sound, treated both as articulation and as physically transmitted audible air vibration.",
+        "renderings": [
+          "sound",
+          "speech sound"
+        ],
+        "rule": "Identify the articulated/acoustic role; do not mechanically translate every Ton as tone and Laut as noise.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 376,
+            "pdf_page": 386,
+            "section": null,
+            "ocr_quote": "Gedanken. Jedes dieser Stücke führt einzeln zur Hervorbringung des Tons, und die Sprache vereinigt alle im articulirten Laut. 24. Das Denken ist eine geistige Handlung, wird aber durch sein Bedürfniss nach Sprache ein Antrieb zu einer körperlichen. Es ist ein fortschreitendes Entwicklen, eine blosse innere Bewegung,",
+            "checked_quote": "Gedanken. Jedes dieser Stücke führt einzeln zur Hervorbringung des Tons, und die Sprache vereinigt alle im articulirten Laut. Das Denken ist eine geistige Handlung, wird aber durch sein Bedürfniss nach Sprache ein Antrieb zu einer körperlichen. Es ist ein fortschreitendes Entwicklen, eine blosse innere Bewegung,",
+            "term_form": "Laut",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "Marginal section numeral excluded from continuous main-text quotation.",
+            "reported_term_form": "Laut",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Laut|1|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Laut|1",
+            "scan_leaf": 390,
+            "page_span": [
+              2108,
+              2425
+            ],
+            "checked_parts": [
+              {
+                "text": "Laut",
+                "span": [
+                  120,
+                  124
+                ]
+              }
+            ],
+            "id": "lex:laut:s01:e01",
+            "use_id": "lex:laut:s01:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:macht",
+    "headword": "Macht",
+    "senses": [
+      {
+        "group": "early|Macht|1",
+        "definition": "The relative independent power accumulated language exerts over present individuals and generations.",
+        "renderings": [
+          "power"
+        ],
+        "rule": "Keep the accumulated-language bearer distinct from an individual's Kraft without asserting an invariant lexical opposition.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 388,
+            "pdf_page": 398,
+            "section": null,
+            "ocr_quote": "jedesmal Redenden, dem jedesmaligen Geschlecht, der Nation, ja zuletzt selbst von der Menschheit in gewisser Art unabhängigen Macht an. Wir sind im Vorigen darauf aufmerksam geworden, dass der in Sprache aufgenommene Gedanke für die Seele zum Object wird, und eine ihr insofern als etwas Fremdes zukommende Wirkung auf",
+            "checked_quote": "jedesmal Redenden, dem jedesmaligen Geschlecht, der Nation, ja zuletzt selbst von der Menschheit in gewisser Art unabhängigen Macht an. Wir sind im Vorigen darauf aufmerksam geworden, dass der in Sprache aufgenommene Gedanke für die Seele zum Object wird, und eine ihr insofern als etwas Fremdes zukommende Wirkung auf",
+            "term_form": "Macht",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "",
+            "reported_term_form": "Macht",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Macht|1|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Macht|1",
+            "scan_leaf": 402,
+            "page_span": [
+              682,
+              1000
+            ],
+            "checked_parts": [
+              {
+                "text": "Macht",
+                "span": [
+                  126,
+                  131
+                ]
+              }
+            ],
+            "id": "lex:macht:s01:e01",
+            "use_id": "lex:macht:s01:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:materie",
+    "headword": "Materie",
+    "senses": [
+      {
+        "group": "early|Materie|1",
+        "definition": "Words as the matter of discourse, opposed to their combination as form.",
+        "renderings": [
+          "matter"
+        ],
+        "rule": "Use matter for the defined local use.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 399,
+            "pdf_page": 409,
+            "section": "55",
+            "ocr_quote": "diesem sondern sich nun zwei Dinge deutlich von einander ab, die Wörter und die Redeverbindung, als die Materie und Form der Sprache. Man muss diese Eintheilung nicht verwechseln mit der in Laute und Regeln; denn auch die Wortbildung kennt Regeln, und die Redeverbindung bedient sich bisweilen ihr eigenthümlicher",
+            "checked_quote": "diesem sondern sich nun zwei Dinge deutlich von einander ab, die Wörter und die Redeverbindung, als die Materie und Form der Sprache. Man muss diese Eintheilung nicht verwechseln mit der in Laute und Regeln; denn auch die Wortbildung kennt Regeln, und die Redeverbindung bedient sich bisweilen ihr eigenthümlicher",
+            "term_form": "Materie",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "",
+            "reported_term_form": "Materie",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Materie|1|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Materie|1",
+            "scan_leaf": 413,
+            "page_span": [
+              1519,
+              1832
+            ],
+            "checked_parts": [
+              {
+                "text": "Materie",
+                "span": [
+                  104,
+                  111
+                ]
+              }
+            ],
+            "id": "lex:materie:s01:e01",
+            "use_id": "lex:materie:s01:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:rede",
+    "headword": "Rede",
+    "senses": [
+      {
+        "group": "early|Rede|1",
+        "definition": "Discourse analyzed logically by general grammar into forms needed to connect thoughts; a product of language rather than its whole process.",
+        "renderings": [
+          "discourse",
+          "speech"
+        ],
+        "rule": "Use discourse for the defined local use.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 373,
+            "pdf_page": 383,
+            "section": null,
+            "ocr_quote": "Vollendung gebracht war, die wenig mehr hinzuzufügen erlaubte, beschäftigt sich eigentlich nur mit der logischen Zergliederung der Rede und der Untersuchung der zur Verknüpfung der Gedanken in dieser nöthigen Wortformen ; also zunächst mit einem Erzeugniss der Sprache und daher nur mit einem Theile von dieser. Man hat",
+            "checked_quote": "Vollendung gebracht war, die wenig mehr hinzuzufügen erlaubte, beschäftigt sich eigentlich nur mit der logischen Zergliederung der Rede und der Untersuchung der zur Verknüpfung der Gedanken in dieser nöthigen Wortformen ; also zunächst mit einem Erzeugniss der Sprache und daher nur mit einem Theile von dieser. Man hat",
+            "term_form": "Rede",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "",
+            "reported_term_form": "Rede",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Rede|1|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Rede|1",
+            "scan_leaf": 387,
+            "page_span": [
+              1353,
+              1672
+            ],
+            "checked_parts": [
+              {
+                "text": "Rede",
+                "span": [
+                  131,
+                  135
+                ]
+              }
+            ],
+            "id": "lex:rede:s01:e01",
+            "use_id": "lex:rede:s01:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:seele",
+    "headword": "Seele",
+    "senses": [
+      {
+        "group": "early|Seele|1",
+        "definition": "The inward subject for which a thing becomes an object through a concept and the image produced by perception.",
+        "renderings": [
+          "soul",
+          "mind"
+        ],
+        "rule": "Preserve the local inward bearer without asserting a strict invariant faculty division from Geist.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 387,
+            "pdf_page": 397,
+            "section": null,
+            "ocr_quote": "vollen Gehalt zu erschöpfen. Ebensowenig als ein Begriff ohne sie möglich ist, ebensowenig kann es für die Seele ein Gegenstand seyn, da ja jeder äussere Gegenstand nur vermittelst des Begriffes für sie Wesenheit erhält. In die Bildung und den Gebrauch der Sprache geht nothwendig die ganze Art der",
+            "checked_quote": "vollen Gehalt zu erschöpfen. Ebensowenig als ein Begriff ohne sie möglich ist, ebensowenig kann es für die Seele ein Gegenstand seyn, da ja jeder äussere Gegenstand nur vermittelst des Begriffes für sie Wesenheit erhält. In die Bildung und den Gebrauch der Sprache geht nothwendig die ganze Art der",
+            "term_form": "Seele",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "",
+            "reported_term_form": "Seele",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Seele|1|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Seele|1",
+            "scan_leaf": 401,
+            "page_span": [
+              91,
+              389
+            ],
+            "checked_parts": [
+              {
+                "text": "Seele",
+                "span": [
+                  107,
+                  112
+                ]
+              }
+            ],
+            "id": "lex:seele:s01:e01",
+            "use_id": "lex:seele:s01:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:sinn",
+    "headword": "Sinn",
+    "senses": [
+      {
+        "group": "early|Sinn|1",
+        "definition": "Meaning/content upon which sound-filling syllables or words have no determinate effect.",
+        "renderings": [
+          "meaning",
+          "sense"
+        ],
+        "rule": "Use meaning for the defined local use.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 379,
+            "pdf_page": 389,
+            "section": null,
+            "ocr_quote": "wirklichen Sprache beimischen, Sylben und selbst Wörter gebrauchen ohne bestimmte Einwirkung auf den Sinn, fast nur zur Ausfüllung des Tones.",
+            "checked_quote": "wirklichen Sprache beimischen, Sylben und selbst Wörter gebrauchen ohne bestimmte Einwirkung auf den Sinn, fast nur zur Ausfüllung des Tones.",
+            "term_form": "Sinn",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "",
+            "reported_term_form": "Sinn",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Sinn|1|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Sinn|1",
+            "scan_leaf": 393,
+            "page_span": [
+              43,
+              184
+            ],
+            "checked_parts": [
+              {
+                "text": "Sinn",
+                "span": [
+                  101,
+                  105
+                ]
+              }
+            ],
+            "id": "lex:sinn:s01:e01",
+            "use_id": "lex:sinn:s01:u01"
+          }
+        ]
+      },
+      {
+        "group": "early|Sinn|2",
+        "definition": "The senses for which intellectual activity becomes outwardly perceptible through speech sound.",
+        "renderings": [
+          "senses"
+        ],
+        "rule": "Use senses for the defined local use.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 374,
+            "pdf_page": 384,
+            "section": null,
+            "ocr_quote": "innerlich, und gewissermassen spurlos vorübergehend, wird durch den Ton in der Rede äusserlich und wahrnehmbar für die Sinne, und erhält durch die Schrift einen bleibenden Körper. Das auf diese Weise Erzeugte ist das Gesprochene und Aufgezeichnete aller Art, die Sprache aber der Inbegriff der Laute, welche die bestimmte",
+            "checked_quote": "innerlich, und gewissermassen spurlos vorübergehend, wird durch den Ton in der Rede äusserlich und wahrnehmbar für die Sinne, und erhält durch die Schrift einen bleibenden Körper. Das auf diese Weise Erzeugte ist das Gesprochene und Aufgezeichnete aller Art, die Sprache aber der Inbegriff der Laute, welche die bestimmte",
+            "term_form": "Sinne",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "",
+            "reported_term_form": "Sinne",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Sinn|2|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Sinn|2",
+            "scan_leaf": 388,
+            "page_span": [
+              1358,
+              1679
+            ],
+            "checked_parts": [
+              {
+                "text": "Sinne",
+                "span": [
+                  119,
+                  124
+                ]
+              }
+            ],
+            "id": "lex:sinn:s02:e01",
+            "use_id": "lex:sinn:s02:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:sprache",
+    "headword": "Sprache",
+    "senses": [
+      {
+        "group": "early|Sprache|1",
+        "definition": "Human language as the formative organ of thought and range of possible articulated sounds and combinations.",
+        "renderings": [
+          "language"
+        ],
+        "rule": "Preserve human-language, particular-language and activity/material standpoints rather than forcing one definition.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 374,
+            "pdf_page": 384,
+            "section": "20",
+            "ocr_quote": "dass die Sprache nicht bloss die Bezeichnung des, unabhängig von ihr geformten Gedanken, sondern selbst das bildende Organ des Gedanken ist.",
+            "checked_quote": "dass die Sprache nicht bloss die Bezeichnung des, unabhängig von ihr geformten Gedanken, sondern selbst das bildende Organ des Gedanken ist.",
+            "term_form": "Sprache",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "",
+            "reported_term_form": "Sprache",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Sprache|1|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Sprache|1",
+            "scan_leaf": 388,
+            "page_span": [
+              1159,
+              1299
+            ],
+            "checked_parts": [
+              {
+                "text": "Sprache",
+                "span": [
+                  9,
+                  16
+                ]
+              }
+            ],
+            "id": "lex:sprache:s01:e01",
+            "use_id": "lex:sprache:s01:u01"
+          }
+        ]
+      },
+      {
+        "group": "early|Sprache|2",
+        "definition": "Historically accumulated stock of words and system of rules generated from speaking, becoming relatively independent power.",
+        "renderings": [
+          "language"
+        ],
+        "rule": "Retain the explicit shift from speaking to inherited language; do not deny the material standpoint.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 388,
+            "pdf_page": 398,
+            "section": "40",
+            "ocr_quote": "Aus dem Sprechen aber erzeugt sich die Sprache, ein Vorrath von Wörtern und System von Regeln, und wächst, sich durch die Folge der Jahrtausende hinschlingend, zu einer von dem jedesmal Redenden, dem jedesmaligen Geschlecht, der Nation, ja zuletzt selbst von der Menschheit in gewisser Art unabhängigen Macht an.",
+            "checked_quote": "Aus dem Sprechen aber erzeugt sich die Sprache, ein Vorrath von Wörtern und System von Regeln, und wächst, sich durch die Folge der Jahrtausende hinschlingend, zu einer von dem jedesmal Redenden, dem jedesmaligen Geschlecht, der Nation, ja zuletzt selbst von der Menschheit in gewisser Art unabhängigen Macht an.",
+            "term_form": "Sprache",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "",
+            "reported_term_form": "Sprache",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Sprache|2|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Sprache|2",
+            "scan_leaf": 402,
+            "page_span": [
+              505,
+              817
+            ],
+            "checked_parts": [
+              {
+                "text": "Sprache",
+                "span": [
+                  39,
+                  46
+                ]
+              }
+            ],
+            "id": "lex:sprache:s02:e01",
+            "use_id": "lex:sprache:s02:u01"
+          }
+        ]
+      },
+      {
+        "group": "early|Sprache|3",
+        "definition": "The particular language of each individual speaker, within shared national forms yet individually differentiated.",
+        "renderings": [
+          "language"
+        ],
+        "rule": "Keep this relative individualization compatible with the stated shared-forms sense.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 396,
+            "pdf_page": 406,
+            "section": "50",
+            "ocr_quote": "Eine Nation hat freilich im Ganzen dieselbe Sprache, allein schon nicht alle ihre Mitglieder (38.) ganz dieselbe, und geht man noch weiter in das Feinste über, so besitzt jeder Mensch seine eigne.",
+            "checked_quote": "Eine Nation hat freilich im Ganzen dieselbe Sprache, allein schon nicht alle ihre Mitglieder (38.) ganz dieselbe, und geht man noch weiter in das Feinste über, so besitzt jeder Mensch seine eigne.",
+            "term_form": "Sprache",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "",
+            "reported_term_form": "Sprache",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Sprache|3|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Sprache|3",
+            "scan_leaf": 410,
+            "page_span": [
+              341,
+              537
+            ],
+            "checked_parts": [
+              {
+                "text": "Sprache",
+                "span": [
+                  44,
+                  51
+                ]
+              }
+            ],
+            "id": "lex:sprache:s03:e01",
+            "use_id": "lex:sprache:s03:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:stoff",
+    "headword": "Stoff",
+    "senses": [
+      {
+        "group": "early|Stoff|2",
+        "definition": "The material acquired as a child understands more language, reinforcing the growing power of understanding.",
+        "renderings": [
+          "material"
+        ],
+        "rule": "Keep acquired material distinct from the capacity that increases with it.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 385,
+            "pdf_page": 395,
+            "section": null,
+            "ocr_quote": "wachsendem Verhältniss, sondern in beständig sich selbst steigerndem, da die Erhöhung der Kraft und die Gewinnung des Stoffs sich gegenseitig verstärken und erweitern. Dass bei den Kindern nicht ein mechanisches Lernen der Sprache, sondern eine Entwicklung der Sprachkraft vorgeht, beweist auch, dass allen menschlichen Kräften ein gewisser Zeitpunkt",
+            "checked_quote": "wachsendem Verhältniss, sondern in beständig sich selbst steigerndem, da die Erhöhung der Kraft und die Gewinnung des Stoffs sich gegenseitig verstärken und erweitern. Dass bei den Kindern nicht ein mechanisches Lernen der Sprache, sondern eine Entwicklung der Sprachkraft vorgeht, beweist auch, dass allen menschlichen Kräften ein gewisser Zeitpunkt",
+            "term_form": "Stoffs",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "",
+            "reported_term_form": "Stoffs",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Stoff|2|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Stoff|2",
+            "scan_leaf": 399,
+            "page_span": [
+              435,
+              785
+            ],
+            "checked_parts": [
+              {
+                "text": "Stoffs",
+                "span": [
+                  118,
+                  124
+                ]
+              }
+            ],
+            "id": "lex:stoff:s02:e01",
+            "use_id": "lex:stoff:s02:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:thaetigkeit",
+    "headword": "Thätigkeit",
+    "senses": [
+      {
+        "group": "early|Thätigkeit|1",
+        "definition": "The intellectual activity made outward and perceptible by sound and inseparable from language, not simply prior producer of a finished product.",
+        "renderings": [
+          "activity"
+        ],
+        "rule": "Use activity, distinguishing it from power and product; preserve the reciprocal inseparability of intellectual activity and language rather than a merely prior producer.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 374,
+            "pdf_page": 384,
+            "section": null,
+            "ocr_quote": "Bezeichnung des, unabhängig von ihr geformten Gedanken, sondern selbst das bildende Organ des Gedanken ist. Die intellectuelle Thätigkeit, durchaus geistig, durchaus innerlich, und gewissermassen spurlos vorübergehend, wird durch den Ton in der Rede äusserlich und wahrnehmbar für die Sinne, und erhält durch die Schrift einen bleibenden Körper. Das",
+            "checked_quote": "Bezeichnung des, unabhängig von ihr geformten Gedanken, sondern selbst das bildende Organ des Gedanken ist. Die intellectuelle Thätigkeit, durchaus geistig, durchaus innerlich, und gewissermassen spurlos vorübergehend, wird durch den Ton in der Rede äusserlich und wahrnehmbar für die Sinne, und erhält durch die Schrift einen bleibenden Körper. Das",
+            "term_form": "Thätigkeit",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "",
+            "reported_term_form": "Thätigkeit",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Thätigkeit|1|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Thätigkeit|1",
+            "scan_leaf": 388,
+            "page_span": [
+              1192,
+              1541
+            ],
+            "checked_parts": [
+              {
+                "text": "Thätigkeit",
+                "span": [
+                  127,
+                  137
+                ]
+              }
+            ],
+            "id": "lex:thaetigkeit:s01:e01",
+            "use_id": "lex:thaetigkeit:s01:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:ton",
+    "headword": "Ton",
+    "senses": [
+      {
+        "group": "early|Ton|1",
+        "definition": "Sound with which intellectual activity must unite and which it forms into articulated speech.",
+        "renderings": [
+          "sound"
+        ],
+        "rule": "Use sound for the acoustic/formative medium; do not impose tone in every occurrence.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 375,
+            "pdf_page": 385,
+            "section": null,
+            "ocr_quote": "bestimmend auf den Geist zurück. Die intellectuelle Thätigkeit ist an die Nothwendigkeit geknüpft, eine Verbindung mit dem Ton einzugehen, das Denken kann sonst nicht zur Deutlichkeit gelangen, die Vorstellung nicht zum Begrift\" A'f? werden. Den Ton erzeugt sie aus freiem Entschluss und formt ihn durch ihre Kraft, denn",
+            "checked_quote": "bestimmend auf den Geist zurück. Die intellectuelle Thätigkeit ist an die Nothwendigkeit geknüpft, eine Verbindung mit dem Ton einzugehen, das Denken kann sonst nicht zur Deutlichkeit gelangen, die Vorstellung nicht zum Begriff werden. Den Ton erzeugt sie aus freiem Entschluss und formt ihn durch ihre Kraft, denn",
+            "term_form": "Ton",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "Image correction: 'Begrift\" A\\'f?' → 'Begriff'.",
+            "reported_term_form": "Ton",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Ton|1|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Ton|1",
+            "scan_leaf": 389,
+            "page_span": [
+              441,
+              761
+            ],
+            "checked_parts": [
+              {
+                "text": "Ton",
+                "span": [
+                  123,
+                  126
+                ]
+              }
+            ],
+            "id": "lex:ton:s01:e01",
+            "use_id": "lex:ton:s01:u01"
+          }
+        ]
+      },
+      {
+        "group": "early|Ton|2",
+        "definition": "The tone of personal conviction rather than confident universal assertion in which the unity-of-humanity claim is offered.",
+        "renderings": [
+          "tone"
+        ],
+        "rule": "Use tone here; this is manner of assertion rather than a speech sound.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 383,
+            "pdf_page": 393,
+            "section": null,
+            "ocr_quote": "Ende des zu Erklärenden zu leiten vermag. Mir nun — denn ich spreche dies lieber in dem Tone innerer Ueberzeugung, als mit der Zuversicht allgemeiner Behauptung aus — scheint das Wesen der Sprache verkannt, der geistige Process ihrer Entstehung (nicht der an sich, sondern auch der im jedesmaligen",
+            "checked_quote": "Ende des zu Erklärenden zu leiten vermag. Mir nun — denn ich spreche dies lieber in dem Tone innerer Ueberzeugung, als mit der Zuversicht allgemeiner Behauptung aus — scheint das Wesen der Sprache verkannt, der geistige Process ihrer Entstehung (nicht der an sich, sondern auch der im jedesmaligen",
+            "term_form": "Tone",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "",
+            "reported_term_form": "Tone",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Ton|2|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Ton|2",
+            "scan_leaf": 397,
+            "page_span": [
+              563,
+              860
+            ],
+            "checked_parts": [
+              {
+                "text": "Tone",
+                "span": [
+                  88,
+                  92
+                ]
+              }
+            ],
+            "id": "lex:ton:s02:e01",
+            "use_id": "lex:ton:s02:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:typus",
+    "headword": "Typus",
+    "senses": [
+      {
+        "group": "early|Typus|1",
+        "definition": "The common pattern of the mental process of language, defined by the pure concept of language abstracting from individualizing circumstances.",
+        "renderings": [
+          "type",
+          "pattern"
+        ],
+        "rule": "Name the process bearer; not automatically a taxonomic language class or a single ancestral language.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 373,
+            "pdf_page": 383,
+            "section": "16",
+            "ocr_quote": "Die Allgemeinheit dieses Typus besteht darin, dass Alles, was von ihm auszusagen ist, nur durch den reinen BegritF der Sprache bedingt und von allen andren Umständen abgesehen wird, die, aus den übrigen menschlichen Anlagen und den auf sie einwirkenden Verhältnissen entspringend, in der Wirklichkeit den allgemeinen Typus individualisiren.",
+            "checked_quote": "Die Allgemeinheit dieses Typus besteht darin, dass Alles, was von ihm auszusagen ist, nur durch den reinen Begriff der Sprache bedingt und von allen andren Umständen abgesehen wird, die, aus den übrigen menschlichen Anlagen und den auf sie einwirkenden Verhältnissen entspringend, in der Wirklichkeit den allgemeinen Typus individualisiren.",
+            "term_form": "Typus",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "Image correction: 'BegritF' → 'Begriff'.",
+            "reported_term_form": "Typus",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Typus|1|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Typus|1",
+            "scan_leaf": 387,
+            "page_span": [
+              628,
+              968
+            ],
+            "checked_parts": [
+              {
+                "text": "Typus",
+                "span": [
+                  25,
+                  30
+                ]
+              }
+            ],
+            "id": "lex:typus:s01:e01",
+            "use_id": "lex:typus:s01:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:ursprache",
+    "headword": "Ursprache",
+    "senses": [
+      {
+        "group": "early|Ursprache|1",
+        "definition": "An original language whose single or multiple existence Humboldt considers possible but not established or needed for explaining observed language phenomena.",
+        "renderings": [
+          "original language",
+          "primordial language"
+        ],
+        "rule": "Do not equate general human language or contact-connected unity with one original language.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 392,
+            "pdf_page": 402,
+            "section": null,
+            "ocr_quote": "Dunkel verliert, so tritt bei dieser Unkenntniss ihrer Zeitfolge für uns gewässermassen Gleichzeitigkeit derselben ein. 46. Eine Ursprache anzunehmen, oder eine Verschiedenheit der Sprachen vor und nach der Vertilgung des grössten Theils des Menschengeschlechts durch eine Flut aufzustellen, scheint mir unnütz und misleitend. Weder das Gebiet der Thatsachen,",
+            "checked_quote": "Dunkel verliert, so tritt bei dieser Unkenntniss ihrer Zeitfolge für uns gewissermassen Gleichzeitigkeit derselben ein. Eine Ursprache anzunehmen, oder eine Verschiedenheit der Sprachen vor und nach der Vertilgung des grössten Theils des Menschengeschlechts durch eine Flut aufzustellen, scheint mir unnütz und misleitend. Weder das Gebiet der Thatsachen,",
+            "term_form": "Ursprache",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "Image correction: 'gewässermassen' → 'gewissermassen'. Marginal section numeral excluded from continuous main-text quotation.",
+            "reported_term_form": "Ursprache",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Ursprache|1|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Ursprache|1",
+            "scan_leaf": 406,
+            "page_span": [
+              508,
+              867
+            ],
+            "checked_parts": [
+              {
+                "text": "Ursprache",
+                "span": [
+                  125,
+                  134
+                ]
+              }
+            ],
+            "id": "lex:ursprache:s01:e01",
+            "use_id": "lex:ursprache:s01:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:verkehr",
+    "headword": "Verkehr",
+    "senses": [
+      {
+        "group": "early|Verkehr|1",
+        "definition": "Actual interaction of speakers through which similarities can be transmitted from already formed language.",
+        "renderings": [
+          "interaction"
+        ],
+        "rule": "Do not narrow automatically to commerce, transport or correspondence.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 393,
+            "pdf_page": 403,
+            "section": null,
+            "ocr_quote": "solchen Verkehr., Dies ist wichtig, weil dadurch wenigstens, sollte es auch w^enig fruchtbar für die Anwendung seyn, der Grundsatz ausgesprochen ist, nach welchem der geschichtliche Zusammenhang der Sprachen von derjenigen Gleichartigkeit unterschieden werden kann, welche bloss in der Gleichartigkeit der menschlichen Anlagen zu suchen ist.",
+            "checked_quote": "solchen Verkehr. Dies ist wichtig, weil dadurch wenigstens, sollte es auch wenig fruchtbar für die Anwendung seyn, der Grundsatz ausgesprochen ist, nach welchem der geschichtliche Zusammenhang der Sprachen von derjenigen Gleichartigkeit unterschieden werden kann, welche bloss in der Gleichartigkeit der menschlichen Anlagen zu suchen ist.",
+            "term_form": "Verkehr",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "Image correction: 'Verkehr.,' → 'Verkehr.'. Image correction: 'w^enig' → 'wenig'.",
+            "reported_term_form": "Verkehr",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Verkehr|1|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Verkehr|1",
+            "scan_leaf": 407,
+            "page_span": [
+              42,
+              383
+            ],
+            "checked_parts": [
+              {
+                "text": "Verkehr",
+                "span": [
+                  8,
+                  15
+                ]
+              }
+            ],
+            "id": "lex:verkehr:s01:e01",
+            "use_id": "lex:verkehr:s01:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:vermoegen",
+    "headword": "Vermögen",
+    "senses": [
+      {
+        "group": "early|Vermögen|1",
+        "definition": "Capacity to turn heard material increasingly into understanding, paired with drive in the growth account.",
+        "renderings": [
+          "capacity"
+        ],
+        "rule": "Use capacity here; distinguish it from the paired drive and from acquired material.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 385,
+            "pdf_page": 395,
+            "section": null,
+            "ocr_quote": "35 — 37. ogder seitdem schärfer gewordenen Kraft plötzlich einleuchtet, klar, und schärft den Drang und das \\^ermögen, aus dem Gehörten immer mehr und schneller in das Verständniss hinüberzuziehen, immer weniger davon als blossen Klang vorüberrauschen zu lassen. Die Fortschritte geschehen daher auch nicht, wie etwa beim Vocabellernen,",
+            "checked_quote": "35 — ogder seitdem schärfer gewordenen Kraft plötzlich einleuchtet, klar, und schärft den Drang und das Vermögen, aus dem Gehörten immer mehr und schneller in das Verständniss hinüberzuziehen, immer weniger davon als blossen Klang vorüberrauschen zu lassen. Die Fortschritte geschehen daher auch nicht, wie etwa beim Vocabellernen,",
+            "term_form": "Vermögen",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "Image correction: '\\\\^ermögen' → 'Vermögen'. Marginal section numeral excluded from continuous main-text quotation.",
+            "reported_term_form": "Vermögen",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Vermögen|1|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Vermögen|1",
+            "scan_leaf": 399,
+            "page_span": [
+              29,
+              365
+            ],
+            "checked_parts": [
+              {
+                "text": "Vermögen",
+                "span": [
+                  104,
+                  112
+                ]
+              }
+            ],
+            "id": "lex:vermoegen:s01:e01",
+            "use_id": "lex:vermoegen:s01:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:vorstellung",
+    "headword": "Vorstellung",
+    "senses": [
+      {
+        "group": "early|Vorstellung|1",
+        "definition": "Representation that cannot become a concept without thinking's connection with sound.",
+        "renderings": [
+          "representation"
+        ],
+        "rule": "Use representation where it can become a concept through the sound-linked process; distinguish representation, concept, object impression and word effect.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 375,
+            "pdf_page": 385,
+            "section": null,
+            "ocr_quote": "Nothwendigkeit geknüpft, eine Verbindung mit dem Ton einzugehen, das Denken kann sonst nicht zur Deutlichkeit gelangen, die Vorstellung nicht zum Begrift\" A'f? werden. Den Ton erzeugt sie aus freiem Entschluss und formt ihn durch ihre Kraft, denn vermöge ihrer Durchdringung wird er zum articulirten Laut (wenn es möglich",
+            "checked_quote": "Nothwendigkeit geknüpft, eine Verbindung mit dem Ton einzugehen, das Denken kann sonst nicht zur Deutlichkeit gelangen, die Vorstellung nicht zum Begriff werden. Den Ton erzeugt sie aus freiem Entschluss und formt ihn durch ihre Kraft, denn vermöge ihrer Durchdringung wird er zum articulirten Laut (wenn es möglich",
+            "term_form": "Vorstellung",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "Image correction: 'Begrift\" A\\'f?' → 'Begriff'.",
+            "reported_term_form": "Vorstellung",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Vorstellung|1|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Vorstellung|1",
+            "scan_leaf": 389,
+            "page_span": [
+              515,
+              836
+            ],
+            "checked_parts": [
+              {
+                "text": "Vorstellung",
+                "span": [
+                  124,
+                  135
+                ]
+              }
+            ],
+            "id": "lex:vorstellung:s01:e01",
+            "use_id": "lex:vorstellung:s01:u01"
+          }
+        ]
+      },
+      {
+        "group": "early|Vorstellung|2",
+        "definition": "A representation formed through sensory activity and inner action, separating as an object and being taken back into the subject.",
+        "renderings": [
+          "representation"
+        ],
+        "rule": "Preserve the synthetic sensory/inner formation rather than a mere copy of an already present object.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 377,
+            "pdf_page": 387,
+            "section": null,
+            "ocr_quote": "Die Thätigkeit der Sinne muss sich mit der inneren Handlung des Geistes synthetisch verbinden, und aus dieser Verbindung reisst sich die Vorstellung los, wird, der subjectiven Kraft gegenüber, zum Object, und kehrt, als solches aufs neue wahrgenommen, in jene zurück.",
+            "checked_quote": "Die Thätigkeit der Sinne muss sich mit der inneren Handlung des Geistes synthetisch verbinden, und aus dieser Verbindung reisst sich die Vorstellung los, wird, der subjectiven Kraft gegenüber, zum Object, und kehrt, als solches aufs neue wahrgenommen, in jene zurück.",
+            "term_form": "Vorstellung",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "",
+            "reported_term_form": "Vorstellung",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Vorstellung|2|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Vorstellung|2",
+            "scan_leaf": 391,
+            "page_span": [
+              1261,
+              1528
+            ],
+            "checked_parts": [
+              {
+                "text": "Vorstellung",
+                "span": [
+                  137,
+                  148
+                ]
+              }
+            ],
+            "id": "lex:vorstellung:s02:e01",
+            "use_id": "lex:vorstellung:s02:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:weltansicht",
+    "headword": "Weltansicht",
+    "senses": [
+      {
+        "group": "weltansicht-view",
+        "definition": "A view/standpoint of the world belonging to an individual and further shaped and intensified through language; a language’s connected presentation can thus have its own distinctive world-view.",
+        "renderings": [
+          "view of the world",
+          "world-view"
+        ],
+        "rule": "Preserve the individual standpoint already possible independently of language in§39 and the additional contribution made by language. Keep individual and language bearers explicit.",
+        "caution": "The uses do not imply identical beliefs or one ideology for all speakers. The later Weltansicht/Weltanschauung interpretive distinction is a control, not an invariant lexical law proved here.",
+        "evidence": [
+          {
+            "printed_page": 387,
+            "pdf_page": 397,
+            "section": "39",
+            "ocr_quote": "Da aller objectiven Wahrnehmung unvermeidlich Subjectivitaet beigemischt ist, so kann man schon unabhängig von der Sprache jede menschliche Individualität als einen eignen Standpunkt der Weltansicht betrachten. Sie wird aber noch viel mehr dazu durch die Sprache, da das Wort sich, der Seele gegenüber, auch wieder selbst zum Object macht, und eine neue, vom Subject sich absondernde Eigenthümlichkeit hinzubringt,",
+            "checked_quote": "Da aller objectiven Wahrnehmung unvermeidlich Subjectivitaet beigemischt ist, so kann man schon unabhängig von der Sprache jede menschliche Individualität als einen eignen Standpunkt der Weltansicht betrachten. Sie wird aber noch viel mehr dazu durch die Sprache, da das Wort sich, der Seele gegenüber, auch wieder selbst zum Object macht, und eine neue, vom Subject sich absondernde Eigenthümlichkeit hinzubringt,",
+            "term_form": "Weltansicht",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "",
+            "reported_term_form": "Weltansicht",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Weltansicht|1|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Weltansicht|1",
+            "scan_leaf": 401,
+            "page_span": [
+              592,
+              1006
+            ],
+            "checked_parts": [
+              {
+                "text": "Weltansicht",
+                "span": [
+                  187,
+                  198
+                ]
+              }
+            ],
+            "id": "lex:weltansicht:s01:e01",
+            "use_id": "lex:weltansicht:s01:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:wesen",
+    "headword": "Wesen",
+    "senses": [
+      {
+        "group": "early|Wesen|1",
+        "definition": "Essence/nature in the qualified metaphysical claim that human beings are divided manifestations of one essence.",
+        "renderings": [
+          "essence",
+          "nature"
+        ],
+        "rule": "Use essence for the defined local use.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 383,
+            "pdf_page": 393,
+            "section": null,
+            "ocr_quote": "gestellten Behauptungen ist einleuchtend, da die innere Verwandtschaft des Menschengeschlechts nach der letzteren auf der Einheit des Wesens desselben, nach der ersteren nur auf der Einheit der Idee beruht, w^elche dasselbe, betrachtend oder schaffend, zusammenfasst. In der Art dieser Verwandtschaft liegt das Geheimniss der 35. menschlichen Individualität verschlossen,",
+            "checked_quote": "gestellten Behauptungen ist einleuchtend, da die innere Verwandtschaft des Menschengeschlechts nach der letzteren auf der Einheit des Wesens desselben, nach der ersteren nur auf der Einheit der Idee beruht, welche dasselbe, betrachtend oder schaffend, zusammenfasst. In der Art dieser Verwandtschaft liegt das Geheimniss der menschlichen Individualität verschlossen,",
+            "term_form": "Wesens",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "Image correction: 'w^elche' → 'welche'. Marginal section numeral excluded from continuous main-text quotation.",
+            "reported_term_form": "Wesens",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Wesen|1|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Wesen|1",
+            "scan_leaf": 397,
+            "page_span": [
+              1317,
+              1688
+            ],
+            "checked_parts": [
+              {
+                "text": "Wesens",
+                "span": [
+                  134,
+                  140
+                ]
+              }
+            ],
+            "id": "lex:wesen:s01:e01",
+            "use_id": "lex:wesen:s01:u01"
+          }
+        ]
+      },
+      {
+        "group": "early|Wesen|2",
+        "definition": "A being with the human's twofold bodily and mental nature united in one.",
+        "renderings": [
+          "being"
+        ],
+        "rule": "Use being for the entity; not essence in every occurrence.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 377,
+            "pdf_page": 387,
+            "section": null,
+            "ocr_quote": "dem Licht, aus der Beschränkung nach der Unendlichkeit. In dem, aus zwiefacher Natur in Eins zusammengeschmolzenen menschlichen Wesen geht dies Streben auch nach aussen, und findet, durch die Vermittlung der Sprachwerkzeuge, in der Luft, dem feinsten und am leichtesten bewegbaren aller Elemente, dessen scheinbare Unkörperlichkeit dem Geiste auch",
+            "checked_quote": "dem Licht, aus der Beschränkung nach der Unendlichkeit. In dem, aus zwiefacher Natur in Eins zusammengeschmolzenen menschlichen Wesen geht dies Streben auch nach aussen, und findet, durch die Vermittlung der Sprachwerkzeuge, in der Luft, dem feinsten und am leichtesten bewegbaren aller Elemente, dessen scheinbare Unkörperlichkeit dem Geiste auch",
+            "term_form": "Wesen",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "",
+            "reported_term_form": "Wesen",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Wesen|2|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Wesen|2",
+            "scan_leaf": 391,
+            "page_span": [
+              161,
+              508
+            ],
+            "checked_parts": [
+              {
+                "text": "Wesen",
+                "span": [
+                  128,
+                  133
+                ]
+              }
+            ],
+            "id": "lex:wesen:s02:e01",
+            "use_id": "lex:wesen:s02:u01"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:wesenheit",
+    "headword": "Wesenheit",
+    "senses": [
+      {
+        "group": "early|Wesenheit|1",
+        "definition": "Reality/substantial standing of a word attained in a hearer/respondent, distinguishing it from an apparent or dream object.",
+        "renderings": [
+          "reality"
+        ],
+        "rule": "Use reality for the defined local use.",
+        "caution": "",
+        "evidence": [
+          {
+            "printed_page": 381,
+            "pdf_page": 391,
+            "section": null,
+            "ocr_quote": "auf ihn zurückwirkend seyn. Damit es sich nun von einem blossen Scheinobjecte, einem Traumbilde, unterscheide, muss es Wesenheit in einem Hörenden und Erwiedernden gewinnen. Diesen Urtypus aller Sprachen drückt das Pronomen durch die Unterscheidung der zweiten Person von der dritten aus. Ich und E r sind wirklich verschiedne",
+            "checked_quote": "auf ihn zurückwirkend seyn. Damit es sich nun von einem blossen Scheinobjecte, einem Traumbilde, unterscheide, muss es Wesenheit in einem Hörenden und Erwiedernden gewinnen. Diesen Urtypus aller Sprachen drückt das Pronomen durch die Unterscheidung der zweiten Person von der dritten aus. Ich und Er sind wirklich verschiedne",
+            "term_form": "Wesenheit",
+            "text_layer": "main_text",
+            "verification": "image-checked short quotation",
+            "issue": "Image correction: 'E r' → 'Er'.",
+            "reported_term_form": "Wesenheit",
+            "evidence_role": "direct_occurrence",
+            "source_record": "early|Wesenheit|1|1",
+            "source_path": "sources/raw/gs-v-1906.pdf",
+            "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+            "reader": "early",
+            "origin": "early|Wesenheit|1",
+            "scan_leaf": 395,
+            "page_span": [
+              229,
+              555
+            ],
+            "checked_parts": [
+              {
+                "text": "Wesenheit",
+                "span": [
+                  119,
+                  128
+                ]
+              }
+            ],
+            "id": "lex:wesenheit:s01:e01",
+            "use_id": "lex:wesenheit:s01:u01"
+          }
+        ]
+      }
+    ]
+  }
+]

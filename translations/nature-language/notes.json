@@ -1,0 +1,724 @@
+{
+  "notes": [
+    {
+      "id": "nature-indian-grammar",
+      "source_id": "p17:s2",
+      "text": "Humboldt is describing the limits of his knowledge, not denying that India had a grammatical tradition. Pāṇini’s *Aṣṭādhyāyī* is a Sanskrit grammatical text; see its [opening rules](https://sanskritdocuments.org/doc_z_misc_major_works/aShTAdhyAyI.html?lang=iast).",
+      "reason": "Prevent the qualification about knowledge from becoming a claim of an absent tradition.",
+      "evidence": [
+        "panini"
+      ],
+      "attribution": "Trans.",
+      "source_ids": [
+        "p17:s2"
+      ],
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p17:de:s2",
+      "target_unit": "p17:revised:s2",
+      "source_version": "grundzuege-017-v1",
+      "target_version": "en17-revised-v2",
+      "source_body_sha256": "92850caab84d351b835ca79ba2da075e582f921c981287d7709285929cdeeed3",
+      "target_body_sha256": "ef9ead6b8adeb6f05ee8921193dc2a4b52f4c32d95c2b7b2e2e5ec078b367a6a",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 469
+      },
+      "authorship": "translator",
+      "display_number": 1
+    },
+    {
+      "id": "nature-establishment",
+      "source_id": "p20:s7",
+      "source_ids": [
+        "p20:s7"
+      ],
+      "text": "The English takes intellectual activity as establishing the domain of sounds. The nearer German subject, articulated sound, is also possible; the hypothetical beginning may qualify that establishment or the whole account of producing articulated sound.",
+      "reason": "Disclose the ambiguous agent and scope of the hypothetical beginning.",
+      "evidence": [],
+      "attribution": "Trans.",
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p20:de:s7",
+      "target_unit": "p20:revised:s7",
+      "source_version": "grundzuege-020-v1",
+      "target_version": "en20-revised-v2",
+      "source_body_sha256": "dce091628c15bc82762d7dc630ec9ac5066b2f64b5e85a1096b0d7e5c61d737c",
+      "target_body_sha256": "32c31f2e030249e2a84d5e62060552eacd443434a38e3957e90b644e491c7797",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 337
+      },
+      "authorship": "translator",
+      "display_number": 2
+    },
+    {
+      "id": "nature-noise",
+      "source_id": "p21:s1",
+      "text": "“Noise” here means the audible physical component of speech, contrasted with articulation; it need not mean an unwanted or disorderly sound. See the terminology guide on sound and articulation.",
+      "reason": "Avoid the modern everyday evaluative sense of Geräusch.",
+      "evidence": [],
+      "attribution": "Trans.",
+      "source_ids": [
+        "p21:s1"
+      ],
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p21:de:s1",
+      "target_unit": "p21:revised:s1",
+      "source_version": "grundzuege-021-v1",
+      "target_version": "en21-revised-v2",
+      "source_body_sha256": "25a75d90bc963a1ca04d2052184f3794c8fd08f05cd4c10de82bca7aee38af73",
+      "target_body_sha256": "de118f748695284d077bf4ff8ab3020f4d78bca2ebae3b3991d623f08aa53dd6",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 237
+      },
+      "authorship": "translator",
+      "display_number": 3
+    },
+    {
+      "id": "nature-deaf-language",
+      "source_id": "p21:s5",
+      "text": "“Deaf-mute” is Humboldt’s historical label. His account considers lip-reading, writing and taught speech; a natural sign language such as ASL is a complete visual language with its own grammar, not merely a set of signs for spoken sounds. See [NIDCD, American Sign Language](https://www.nidcd.nih.gov/health/american-sign-language), especially “What is ASL?” and “How does ASL compare with spoken language?”",
+      "reason": "Qualify the account of language access without erasing the historical argument.",
+      "evidence": [
+        "sign-language"
+      ],
+      "attribution": "Trans.",
+      "source_ids": [
+        "p21:s5",
+        "p21:s6",
+        "p21:s10",
+        "p21:s11",
+        "p22:s3"
+      ],
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p21:de:s5",
+      "target_unit": "p21:revised:s5",
+      "source_version": "grundzuege-021-v1",
+      "target_version": "en21-revised-v2",
+      "source_body_sha256": "25a75d90bc963a1ca04d2052184f3794c8fd08f05cd4c10de82bca7aee38af73",
+      "target_body_sha256": "de118f748695284d077bf4ff8ab3020f4d78bca2ebae3b3991d623f08aa53dd6",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 147
+      },
+      "authorship": "translator",
+      "display_number": 4
+    },
+    {
+      "id": "nature-articulation-senses",
+      "source_id": "p22:s3",
+      "text": "Passage21 separates articulation from audible noise; here Humboldt nevertheless restricts articulation in its essential nature to hearing. His restriction does not accommodate natural sign languages, whose grammar is expressed visually; see the preceding note on deaf people and language.",
+      "reason": "Expose both the local conceptual tension and the unsupported sensory restriction.",
+      "evidence": [
+        "sign-language"
+      ],
+      "attribution": "Trans.",
+      "source_ids": [
+        "p22:s3",
+        "p21:s1",
+        "p21:s5",
+        "p22:s1",
+        "p22:s2"
+      ],
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p22:de:s3",
+      "target_unit": "p22:revised:s3",
+      "source_version": "grundzuege-022-v1",
+      "target_version": "en22-revised-v2",
+      "source_body_sha256": "ad76ce6082547973bfe35bce33008b6c5574eb01069170b47f58203d0b0a2f1c",
+      "target_body_sha256": "d4f455ca6abdc2f718f71b575fe3c5fef43f743cacb79b8abafa957c25d34093",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 211
+      },
+      "authorship": "translator",
+      "display_number": 5
+    },
+    {
+      "id": "nature-starlight",
+      "source_id": "p24:s3",
+      "text": "Air is needed to carry sound, but light can travel through a vacuum. The image here combines these different kinds of propagation; see [NASA, “Anatomy of an Electromagnetic Wave”](https://science.nasa.gov/ems/02_anatomy/), on mechanical and electromagnetic waves.",
+      "reason": "Correct a substantive physical claim while retaining Humboldt’s image.",
+      "evidence": [
+        "light"
+      ],
+      "attribution": "Trans.",
+      "source_ids": [
+        "p24:s3"
+      ],
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p24:de:s3",
+      "target_unit": "p24:revised:s3",
+      "source_version": "grundzuege-024-v1",
+      "target_version": "en24-revised-v2",
+      "source_body_sha256": "8a52d744254ada3eb63822ba4e63eb4ad505149f13059e14f79edb0b8129cb01",
+      "target_body_sha256": "63f649db67c43b3192a377bebc30355c7c63897ca413d29ed371ee70db618974",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 544
+      },
+      "authorship": "translator",
+      "display_number": 6
+    },
+    {
+      "id": "nature-animal-song",
+      "source_id": "p26:s5",
+      "text": "Birds are not the only animals that sing: male humpback whales also produce complex songs. See [NOAA’s account of humpback whale song](https://hawaiihumpbackwhale.noaa.gov/science/research/whale-behavior.html), “Understanding the function of humpback whale song”.",
+      "reason": "Correct the explicit exclusivity claim.",
+      "evidence": [
+        "animal-song"
+      ],
+      "attribution": "Trans.",
+      "source_ids": [
+        "p26:s5"
+      ],
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p26:de:s5",
+      "target_unit": "p26:revised:s5",
+      "source_version": "grundzuege-026-v1",
+      "target_version": "en26-revised-v2",
+      "source_body_sha256": "1418526d61965da311b97a4ca6e90e9c4268f26590c0967f5da8d69eb90b340f",
+      "target_body_sha256": "f9a09cde0185856aa7d20983c8654f52afa64cfabb1608347010a1c9f80237ff",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 292
+      },
+      "authorship": "translator",
+      "display_number": 7
+    },
+    {
+      "id": "nature-savages",
+      "source_id": "p27:s6",
+      "text": "“So-called savages” preserves Humboldt’s qualified historical label. His immediate point is that these languages contain expressive resources beyond practical need, rather than being impoverished systems for obtaining help.",
+      "reason": "Make the rhetorical function of a historical classification clear.",
+      "evidence": [],
+      "attribution": "Trans.",
+      "source_ids": [
+        "p27:s6"
+      ],
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p27:de:s6",
+      "target_unit": "p27:revised:s6",
+      "source_version": "grundzuege-027-v1",
+      "target_version": "en27-revised-v2",
+      "source_body_sha256": "5f1938e68ddcfffcdf2b83269aa9dda732555a032b9dc495a6b46970bf7b6428",
+      "target_body_sha256": "c9d91c0571f0b28260ed7ea142f4cd37fb181d56bd47fe2461cf24e185536fbe",
+      "anchor": {
+        "after": "so-called savages",
+        "offset_in_rendering": 43
+      },
+      "authorship": "translator",
+      "display_number": 8
+    },
+    {
+      "id": "nature-abschliesst",
+      "source_id": "p29:s5",
+      "text": "“Brings much to a close” follows the printed verb *abschliesst*, whose force here is uncertain: it may mean completing or closing off. “Wears much away” would fit the contrast with what remains fixed, but would require a different German reading; the checked print has not been altered.",
+      "reason": "Expose a consequential uncertain verb rather than silently emending it.",
+      "evidence": [],
+      "attribution": "Trans.",
+      "source_ids": [
+        "p29:s5"
+      ],
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p29:de:s5",
+      "target_unit": "p29:revised:s5",
+      "source_version": "grundzuege-029-v1",
+      "target_version": "en29-revised-v2",
+      "source_body_sha256": "665a588cc8597c98f80de0aa3ef94cb514d7d7d84f468d1b69a521c68e1683d2",
+      "target_body_sha256": "d9c33a7623e1720ad90ddb65310e7edfc1653577c2788000dcf173189cd8fed9",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 230
+      },
+      "authorship": "translator",
+      "display_number": 9
+    },
+    {
+      "id": "nature-inclusive-we",
+      "source_id": "p31:s20",
+      "text": "The distinction is between “we, including you” and “we, excluding you”: often called inclusive and exclusive *we*. Humboldt invokes different grammatical forms for these meanings, without giving a language-specific example here.",
+      "reason": "Explain an unfamiliar grammatical contrast in ordinary English.",
+      "evidence": [],
+      "attribution": "Trans.",
+      "source_ids": [
+        "p31:s20"
+      ],
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p31:de:s20",
+      "target_unit": "p31:revised:s20",
+      "source_version": "grundzuege-031-v1",
+      "target_version": "en31-revised-v2",
+      "source_body_sha256": "46b16390d996f766d20da58ef9e3e1966e47995bf0b95d1c129c3869d696b1e9",
+      "target_body_sha256": "cce64e6b633df216703f76774cd04153dfd806adf459fd28105efc1419cab4f4",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 205
+      },
+      "authorship": "translator",
+      "display_number": 10
+    },
+    {
+      "id": "nature-origin-parenthesis",
+      "source_id": "p34:s4",
+      "text": "The English reads the parenthesis as “not just … but also”, including both emergence as such and emergence in each act of speaking. The print has an uneven “not … but also” construction; the inclusive reading follows “also”, but a strictly literal rendering leaves the relation unclear.",
+      "reason": "Disclose a syntactic interpretation that changes the scope of origin.",
+      "evidence": [],
+      "attribution": "Trans.",
+      "source_ids": [
+        "p34:s4"
+      ],
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p34:de:s4",
+      "target_unit": "p34:revised:s4",
+      "source_version": "grundzuege-034-v1",
+      "target_version": "en34-revised-v2",
+      "source_body_sha256": "b1549811d1af32ca92c0c511fc5fbca1046c8f984acfbf79bf8766166f15bf96",
+      "target_body_sha256": "83d19a0d2c10bc9e209e11fc79adb1cbffea970ab3724d26876ec72bcca632db",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 662
+      },
+      "authorship": "translator",
+      "display_number": 11
+    },
+    {
+      "id": "nature-development",
+      "source_id": "p36:s11",
+      "text": "The broad developmental pattern does not warrant the claim about all children under the most varied circumstances. Children differ in timing, and access to language matters; see [NIDCD, “Speech and Language Developmental Milestones”](https://www.nidcd.nih.gov/health/speech-and-language), the opening two sections.",
+      "reason": "Qualify the universal narrow-timing inference, not merely its dated wording.",
+      "evidence": [
+        "development"
+      ],
+      "attribution": "Trans.",
+      "source_ids": [
+        "p36:s11"
+      ],
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p36:de:s11",
+      "target_unit": "p36:revised:s11",
+      "source_version": "grundzuege-036-v1",
+      "target_version": "en36-revised-v2",
+      "source_body_sha256": "810d14e220071d7179ce23c189f1204d09504e9f3b3d7f560cfc21704598536a",
+      "target_body_sha256": "a429f2e110d91476cadcbdd3cb231caa295a6b5da5a9afcc2875de543e3d0a7b",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 364
+      },
+      "authorship": "translator",
+      "display_number": 12
+    },
+    {
+      "id": "nature-descent",
+      "source_id": "p37:s9",
+      "text": "The proposed inherited destiny for a particular language is Humboldt’s inference, not something established by the examples offered here. He names no individual case in this passage; attachment to a familiar language does not by itself distinguish inheritance from experience. The German may instead mean that an original destiny was shifted onto another language; distinguish either reading from the descent of languages in43–47.",
+      "reason": "Identify the missing discriminating evidence without introducing unsupported modern genetic claims.",
+      "evidence": [],
+      "attribution": "Trans.",
+      "source_ids": [
+        "p37:s9",
+        "p37:s4",
+        "p37:s5",
+        "p37:s6",
+        "p37:s7"
+      ],
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p37:de:s9",
+      "target_unit": "p37:revised:s9",
+      "source_version": "grundzuege-037-v1",
+      "target_version": "en37-revised-v2",
+      "source_body_sha256": "3e025695c2b7f0393d5f3dcad4d337149fa9f2bea39d90abd8877afac9c89004",
+      "target_body_sha256": "978a770e392a80fea4c3b67c1d4fd4176b6734bf0ccce9315c7df78b365bd456",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 499
+      },
+      "authorship": "translator",
+      "display_number": 13
+    },
+    {
+      "id": "nature-inca",
+      "source_id": "p38:s3",
+      "text": "Humboldt gives no name or example that identifies this variety precisely. “The language of the Incas” here should therefore not be silently equated with a particular modern language; the point of the example is its joint association with family descent and social rank.",
+      "reason": "Retain the identification limit for a historical example.",
+      "evidence": [],
+      "attribution": "Trans.",
+      "source_ids": [
+        "p38:s3"
+      ],
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p38:de:s3",
+      "target_unit": "p38:revised:s3",
+      "source_version": "grundzuege-038-v1",
+      "target_version": "en38-revised-v2",
+      "source_body_sha256": "b5c099581f08c683a18cd6047d315ff8cc5189771a96aa843130f4abcdda8f43",
+      "target_body_sha256": "63fcc82fccfb7621203f2ce75877ba8d85f617151d753d518f20486a6707fc4f",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 142
+      },
+      "authorship": "translator",
+      "display_number": 14
+    },
+    {
+      "id": "nature-klaproth",
+      "source_id": "p43:s5",
+      "text": "Mr Klaproth already makes this observation in *Asia polyglotta*, p. [43.]",
+      "reason": "Translate the sole source footnote in full; the bracketed page reference belongs to the print.",
+      "evidence": [],
+      "attribution": "Humboldt",
+      "source_ids": [
+        "p43:s5",
+        "note:klaproth"
+      ],
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p43:de:s5",
+      "target_unit": "p43:revised:s5",
+      "source_version": "grundzuege-043-v1",
+      "target_version": "en43-revised-v2",
+      "source_body_sha256": "6ab5688334a839f2f62b913bd8f8f7995bb55b2730edd68e9abd87115981269a",
+      "target_body_sha256": "8e17572d90a788b830625ef914cfb421226af2a4ba78c7b0cc78a07ba3de4518",
+      "anchor": {
+        "after": "descent for languages",
+        "offset_in_rendering": 67
+      },
+      "authorship": "humboldt",
+      "original_marker": "*)",
+      "original_anchor": "printed390, after Sprachen in p43:s5",
+      "source_note_id": "note:klaproth",
+      "source_text": "Dies bemerkt schon Herr Klaproth in der Asia polyglotta. S. [43.]",
+      "display_number": 15
+    },
+    {
+      "id": "nature-individuality",
+      "source_id": "p49:s1",
+      "text": "This qualifies the earlier emphasis on sound in29: here individuality extends throughout a language, and50 places “true individuality” in the individual speaker. The changes in level—from a language’s audible identity to its entire character and then its speakers—should remain visible rather than being harmonized into one unchanging claim.",
+      "reason": "Flag an apparent shift while distinguishing its bearers.",
+      "evidence": [],
+      "attribution": "Trans.",
+      "source_ids": [
+        "p49:s1",
+        "p29:s1",
+        "p49:s2",
+        "p50:s1"
+      ],
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p49:de:s1",
+      "target_unit": "p49:revised:s1",
+      "source_version": "grundzuege-049-v1",
+      "target_version": "en49-revised-v2",
+      "source_body_sha256": "ea7a0af294eb44f22c0416fe47cf8b58f63cce27e4052abc88945d76fc5b0eaf",
+      "target_body_sha256": "f9b1c243e4bf7aace141a8a77d5f83f63fa3d5e471c0cd41218e289d2aeba533",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 258
+      },
+      "authorship": "translator",
+      "display_number": 16
+    },
+    {
+      "id": "nature-not-understanding",
+      "source_id": "p50:s6",
+      "text": "The claim concerns differences within understanding, not its complete impossibility: even speakers who agree do not attach precisely identical content to a word. The qualification develops the differences introduced in50 rather than retracting the possibility of communication argued for earlier.",
+      "reason": "Prevent the compressed paradox from erasing its degree qualification.",
+      "evidence": [],
+      "attribution": "Trans.",
+      "source_ids": [
+        "p50:s6",
+        "p50:s4",
+        "p50:s5",
+        "p50:s7"
+      ],
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p50:de:s6",
+      "target_unit": "p50:revised:s6",
+      "source_version": "grundzuege-050-v1",
+      "target_version": "en50-revised-v2",
+      "source_body_sha256": "7fa2a179f05ee34a1a2c3cf87797a92731efe8e53760f85713cff51eac8ef1ba",
+      "target_body_sha256": "709048eb028f120057a5e819960af99759c8fd94e269600fd5b9996cab3d2db7",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 215
+      },
+      "authorship": "translator",
+      "display_number": 17
+    },
+    {
+      "id": "nature-physiological",
+      "source_id": "p51:s2",
+      "text": "“Physiological” describes language’s inherited power over its users; “dynamic” describes their power to act upon it. Humboldt expressly marks the physiological term as an analogy applied to mental powers, not a claim about a measured bodily mechanism.",
+      "reason": "Resolve the demonstratives and explain the historically specific contrast.",
+      "evidence": [],
+      "attribution": "Trans.",
+      "source_ids": [
+        "p51:s2"
+      ],
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p51:de:s2",
+      "target_unit": "p51:revised:s2",
+      "source_version": "grundzuege-051-v1",
+      "target_version": "en51-revised-v2",
+      "source_body_sha256": "ea1e52c7ba8c79710f6187f67f704088b1347c49d80a80504dbb2adb92b32e6a",
+      "target_body_sha256": "7328adaddc90d6033faaeeb230c468de12f8aca7d440b19da3326f2cc958d72b",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 290
+      },
+      "authorship": "translator",
+      "display_number": 18
+    },
+    {
+      "id": "nature-latitude",
+      "source_id": "p51:s4",
+      "source_ids": [
+        "p51:s4",
+        "p52:s8"
+      ],
+      "text": "The English takes “within a certain latitude” to qualify how far freedom’s limits can be recognized. It may instead describe the latitude within which freedom itself operates;52 uses the same word for the scope left to an individual.",
+      "reason": "Expose the consequential scope ambiguity instead of hiding it in a literal English comma frame.",
+      "evidence": [],
+      "attribution": "Trans.",
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p51:de:s4",
+      "target_unit": "p51:revised:s4",
+      "source_version": "grundzuege-051-v1",
+      "target_version": "en51-revised-v2",
+      "source_body_sha256": "ea1e52c7ba8c79710f6187f67f704088b1347c49d80a80504dbb2adb92b32e6a",
+      "target_body_sha256": "7328adaddc90d6033faaeeb230c468de12f8aca7d440b19da3326f2cc958d72b",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 333
+      },
+      "authorship": "translator",
+      "display_number": 19
+    },
+    {
+      "id": "nature-aggregate",
+      "source_id": "p52:s6",
+      "text": "“In that influence” takes the compressed German pronoun to refer to national influence: individual treatments appear there in the aggregate. “In the individual” is grammatically possible, but fits the contrast between collective influence and individual activity less well.",
+      "reason": "Expose a consequential pronoun choice.",
+      "evidence": [],
+      "attribution": "Trans.",
+      "source_ids": [
+        "p52:s6"
+      ],
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p52:de:s6",
+      "target_unit": "p52:revised:s6",
+      "source_version": "grundzuege-052-v1",
+      "target_version": "en52-revised-v2",
+      "source_body_sha256": "1be2f8652f39fc0acbb0d34dc0c891284731530e67d1f8de5fab6eea3c0633f4",
+      "target_body_sha256": "ccfc3f29d46a80a48f7c72373e7edc15ed2e641d9743b0fb1c5a8f818dcfce43",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 212
+      },
+      "authorship": "translator",
+      "display_number": 20
+    }
+  ],
+  "term_guide": [
+    {
+      "id": "nature-general-type",
+      "term": "General type",
+      "German": [
+        "Typus",
+        "Sprachtypus"
+      ],
+      "text": "The shared pattern of the mental process described in16–20, abstracting from circumstances that give particular languages their character. It is not a classification such as “inflecting” or “agglutinating”.",
+      "source_ids": [
+        "p16:s2",
+        "p16:s3",
+        "p18:s1"
+      ]
+    },
+    {
+      "id": "nature-mind-soul",
+      "term": "Mind, soul and inner life",
+      "German": [
+        "Geist",
+        "Seele",
+        "Gemüth"
+      ],
+      "text": "This unit uses “mind”, “soul” and “inner life” to keep these recurring German terms recoverable. They overlap in reference; the wording does not impose a system of three separate faculties. The earlier English147 used “mind” for some instances of Seele and remains preserved.",
+      "source_ids": [
+        "p19:s2",
+        "p33:s3",
+        "p33:s6"
+      ]
+    },
+    {
+      "id": "nature-representation-concept",
+      "term": "Representation and concept",
+      "German": [
+        "Vorstellung",
+        "Begriff",
+        "Wesenheit"
+      ],
+      "text": "A representation is what the mind presents to itself; a concept is its articulated determination in the argument. “Reality” translates Wesenheit where a thought acquires standing as an object for a subject, not necessarily material substance.",
+      "source_ids": [
+        "p20:s6",
+        "p25:s4",
+        "p31:s7",
+        "p31:s12",
+        "p39:s3"
+      ]
+    },
+    {
+      "id": "nature-sound-articulation",
+      "term": "Sound and articulation",
+      "German": [
+        "Ton",
+        "Laut",
+        "Geräusch",
+        "Articulation"
+      ],
+      "text": "Articulation is the shaping of sound into thought-bearing elements and combinations. Ton and Laut overlap and can both require “sound”; “speech sound” marks Laut where useful. Geräusch is “noise” in the specific contrast of21–22, without the implication of unwanted sound. “Alphabet” in29 and33 ranges over speech sounds rather than merely written letters.",
+      "source_ids": [
+        "p21:s1",
+        "p21:s3",
+        "p22:s1",
+        "p29:s3",
+        "p33:s8"
+      ]
+    },
+    {
+      "id": "nature-power-capacity",
+      "term": "Power and capacity",
+      "German": [
+        "Kraft",
+        "Vermögen",
+        "Sprachkraft",
+        "Sprachvermögen",
+        "Gewalt",
+        "Macht"
+      ],
+      "text": "“Power of language” keeps the recurring Sprachkraft visible; “capacity for language” renders Sprachvermögen. These are contextual contrasts, not names for two independently established mechanisms. Empfindung is “feeling” in the thinking/feeling contrast and “sensation” where bodily or animal responsiveness is at issue. Gewalt and Macht can also require “power”; their German identity remains available in the source. In51 the crucial contrast is who acts upon whom, made explicit in the English, rather than three independently established kinds of mechanism. Gefühl also requires “feeling”; the German words overlap here rather than naming universally separate domains.",
+      "source_ids": [
+        "p19:s1",
+        "p23:s1",
+        "p33:s3",
+        "p36:s4",
+        "p36:s8"
+      ]
+    },
+    {
+      "id": "nature-individuality",
+      "term": "Individuality and similarity in kind",
+      "German": [
+        "Individualität",
+        "Gleichartigkeit"
+      ],
+      "text": "Individuality is a distinctive way of being, said of languages, nations and persons at different levels; similarity in kind is what makes them comparable. The bearer and comparison matter. Sound’s privileged role in29 is qualified by49–50, as the local note explains.",
+      "source_ids": [
+        "p29:s1",
+        "p33:s5",
+        "p48:s6",
+        "p49:s1",
+        "p50:s1"
+      ]
+    },
+    {
+      "id": "nature-view-world",
+      "term": "View and representation of the world",
+      "German": [
+        "Weltansicht",
+        "Weltvorstellung"
+      ],
+      "text": "Weltansicht in39 is “view of the world”: a standpoint and manner of apprehending things, not merely an explicit set of opinions. Weltvorstellung in49 is “representation of the world”; the English retains the change of German term. This does not by itself make every member of a nation hold identical beliefs;50 explicitly returns to individual differences.",
+      "source_ids": [
+        "p39:s6",
+        "p39:s8",
+        "p39:s11",
+        "p49:s2"
+      ]
+    },
+    {
+      "id": "nature-descent-contact",
+      "term": "Descent, stock and contact",
+      "German": [
+        "Abstammung",
+        "Stamm",
+        "Verkehr",
+        "Ursprache"
+      ],
+      "text": "Descent may concern people or languages; the argument distinguishes these. “Stock” retains the historical grouping metaphor, including regional groups such as the Florentines in29, without making it a modern biological taxon. “Primordial language” belongs to the explicitly qualified origin discussion in45–47. In43 “mother language” is a supposed parent language; “mother tongues” in49 are people’s native languages.",
+      "source_ids": [
+        "p29:s6",
+        "p37:s4",
+        "p43:s5",
+        "p45:s1",
+        "p46:s1",
+        "p49:s10"
+      ]
+    },
+    {
+      "id": "nature-speech-discourse",
+      "term": "Speech, discourse, matter and form",
+      "German": [
+        "Rede",
+        "Redeverbindung",
+        "Materie",
+        "Form",
+        "Stoff"
+      ],
+      "text": "Rede concerns connected speech or discourse, rather than a stock of words. In55 the distinction is between words as matter and their combination into discourse as form, explicitly not simply sounds versus rules. “Material” renders Stoff where the inherited language is contrasted with its living production. “Dead” material means the inherited stock considered apart from its living use; it need not be an extinct language.",
+      "source_ids": [
+        "p17:s2",
+        "p40:s1",
+        "p54:s3",
+        "p55:s1",
+        "p55:s2",
+        "p55:s3"
+      ]
+    },
+    {
+      "id": "nature-intellectual",
+      "term": "Intellectual life",
+      "German": [
+        "Intellectualitaet"
+      ],
+      "text": "The repeated Intellectualitaet in52 and54 is “intellectual life”: the sphere towards which national activity is directed, with a role for language. It does not mean measured intelligence or modern national test scores. Geistig and intellectuell can also overlap as “mental” or “intellectual”; the English does not posit two exclusive faculties from that lexical difference.",
+      "source_ids": [
+        "p52:s8",
+        "p54:s5"
+      ]
+    },
+    {
+      "id": "nature-nation",
+      "term": "Nation and people",
+      "German": [
+        "Nation",
+        "Volk"
+      ],
+      "text": "These name the human communities in the argument, not automatically modern sovereign states. Humboldt places dialects, social groups and individual ways of speaking within them, and describes their historical formation through separation and cohesion.",
+      "source_ids": [
+        "p19:s2",
+        "p33:s6",
+        "p43:s7",
+        "p50:s3"
+      ]
+    },
+    {
+      "id": "nature-object",
+      "term": "Thing and object",
+      "German": [
+        "Gegenstand",
+        "Object"
+      ],
+      "text": "In31 the word is contrasted with things and then becomes an object for a thinking subject;39 distinguishes an external object’s impression from the word’s own effect. “Object” can translate either German noun where the context supports it. Gegenstand does not invariably mean a physical thing:31 also calls I and he different Gegenstände.",
+      "source_ids": [
+        "p31:s11",
+        "p31:s14",
+        "p39:s3",
+        "p39:s7"
+      ]
+    }
+  ],
+  "format": "humboldt.reader-notes",
+  "version": 1,
+  "status": "provisional; English and annotation review pending",
+  "policy": "docs/footnoting-policy.md",
+  "policy_sha256": "f31503d00281d2c18aaf29fa52ebe1e6a41713ffd07dab128c08254378ffe89f",
+  "source_checks": "translations/nature-language/annotation-sources.json"
+}

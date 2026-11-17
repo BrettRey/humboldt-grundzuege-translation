@@ -1,0 +1,30 @@
+{
+  "label": "muse",
+  "command": [
+    "muse",
+    "exec",
+    "--preset",
+    "empty",
+    "--disable-web-tools",
+    "--disable-write",
+    "--disable-shell",
+    "--disable-reminders",
+    "--disable-request-user-input",
+    "--no-foreign-personal-context",
+    "--no-session-log",
+    "--max-model-steps",
+    "1",
+    "--approval-mode",
+    "never",
+    "--prompt-file",
+    "/var/folders/tq/7kfdnyd52zz82t095tvgbljc0000gp/T/humboldt-nature-language-audit-muse-g7uwuiy7/input.md",
+    "--json"
+  ],
+  "prompt_sha256": "1626f32b012aba0153b4921c516c40ea9ec978c68371d900c91ca435722920eb",
+  "synthesis_sha256": "7a4451da47954efce7c21fe86ec16fc73fcbf1d98d4305e66e06228eb333d96c",
+  "timeout_seconds": 1800,
+  "exit_code": 0,
+  "elapsed_seconds": 750.398,
+  "stdout_bytes": 1377940,
+  "stderr_bytes": 272
+}

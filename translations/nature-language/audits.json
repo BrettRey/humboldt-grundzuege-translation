@@ -1,0 +1,4794 @@
+{
+  "section": "Opening of I.1 and nature of language",
+  "synthesis_sha256": "7a4451da47954efce7c21fe86ec16fc73fcbf1d98d4305e66e06228eb333d96c",
+  "auditors": [
+    {
+      "coverage": [
+        "heading:i1",
+        "p16:s1",
+        "p16:s2",
+        "p16:s3",
+        "p17:s1",
+        "p17:s2",
+        "p17:s3",
+        "p17:s4",
+        "p18:s1",
+        "heading:A",
+        "heading:a",
+        "p19:s1",
+        "p19:s2",
+        "p20:s1",
+        "p20:s2",
+        "p20:s3",
+        "p20:s4",
+        "p20:s5",
+        "p20:s6",
+        "p20:s7",
+        "p21:s1",
+        "p21:s2",
+        "p21:s3",
+        "p21:s4",
+        "p21:s5",
+        "p21:s6",
+        "p21:s7",
+        "p21:s8",
+        "p21:s9",
+        "p21:s10",
+        "p21:s11",
+        "p22:s1",
+        "p22:s2",
+        "p22:s3",
+        "p22:s4",
+        "p23:s1",
+        "p23:s2",
+        "p24:s1",
+        "p24:s2",
+        "p24:s3",
+        "p25:s1",
+        "p25:s2",
+        "p25:s3",
+        "p25:s4",
+        "p25:s5",
+        "p25:s6",
+        "p25:s7",
+        "p26:s1",
+        "p26:s2",
+        "p26:s3",
+        "p26:s4",
+        "p26:s5",
+        "p27:s1",
+        "p27:s2",
+        "p27:s3",
+        "p27:s4",
+        "p27:s5",
+        "p27:s6",
+        "p27:s7",
+        "p28:s1",
+        "p28:s2",
+        "p28:s3",
+        "p28:s4",
+        "p28:s5",
+        "p28:s6",
+        "p28:s7",
+        "p29:s1",
+        "p29:s2",
+        "p29:s3",
+        "p29:s4",
+        "p29:s5",
+        "p29:s6",
+        "p29:s7",
+        "p29:s8",
+        "p29:s9",
+        "p30:s1",
+        "p30:s2",
+        "p30:s3",
+        "p30:s4",
+        "p31:s1",
+        "p31:s2",
+        "p31:s3",
+        "p31:s4",
+        "p31:s5",
+        "p31:s6",
+        "p31:s7",
+        "p31:s8",
+        "p31:s9",
+        "p31:s10",
+        "p31:s11",
+        "p31:s12",
+        "p31:s13",
+        "p31:s14",
+        "p31:s15",
+        "p31:s16",
+        "p31:s17",
+        "p31:s18",
+        "p31:s19",
+        "p31:s20",
+        "p32:s1",
+        "p32:s2",
+        "p32:s3",
+        "p32:s4",
+        "p32:s5",
+        "p33:s1",
+        "p33:s2",
+        "p33:s3",
+        "p33:s4",
+        "p33:s5",
+        "p33:s6",
+        "p33:s7",
+        "p33:s8",
+        "p34:s1",
+        "p34:s2",
+        "p34:s3",
+        "p34:s4",
+        "p34:s5",
+        "p35:s1",
+        "p35:s2",
+        "p35:s3",
+        "p35:s4",
+        "p36:s1",
+        "p36:s2",
+        "p36:s3",
+        "p36:s4",
+        "p36:s5",
+        "p36:s6",
+        "p36:s7",
+        "p36:s8",
+        "p36:s9",
+        "p36:s10",
+        "p36:s11",
+        "p36:s12",
+        "p37:s1",
+        "p37:s2",
+        "p37:s3",
+        "p37:s4",
+        "p37:s5",
+        "p37:s6",
+        "p37:s7",
+        "p37:s8",
+        "p37:s9",
+        "p38:s1",
+        "p38:s2",
+        "p38:s3",
+        "p38:s4",
+        "p39:s1",
+        "p39:s2",
+        "p39:s3",
+        "p39:s4",
+        "p39:s5",
+        "p39:s6",
+        "p39:s7",
+        "p39:s8",
+        "p39:s9",
+        "p39:s10",
+        "p39:s11",
+        "p39:s12",
+        "p39:s13",
+        "p39:s14",
+        "p40:s1",
+        "p40:s2",
+        "p40:s3",
+        "p40:s4",
+        "p40:s5",
+        "p40:s6",
+        "p40:s7",
+        "p40:s8",
+        "p40:s9",
+        "p40:s10",
+        "p40:s11",
+        "p40:s12",
+        "p40:s13",
+        "p40:s14",
+        "p41:s1",
+        "p41:s2",
+        "p41:s3",
+        "p41:s4",
+        "p41:s5",
+        "p42:s1",
+        "p42:s2",
+        "p42:s3",
+        "p42:s4",
+        "p42:s5",
+        "p43:s1",
+        "p43:s2",
+        "p43:s3",
+        "p43:s4",
+        "p43:s5",
+        "p43:s6",
+        "p43:s7",
+        "note:klaproth",
+        "p44:s1",
+        "p44:s2",
+        "p44:s3",
+        "p44:s4",
+        "p44:s5",
+        "p44:s6",
+        "p44:s7",
+        "p44:s8",
+        "p45:s1",
+        "p45:s2",
+        "p45:s3",
+        "p46:s1",
+        "p46:s2",
+        "p46:s3",
+        "p46:s4",
+        "p46:s5",
+        "p46:s6",
+        "p47:s1",
+        "p47:s2",
+        "p47:s3",
+        "p47:s4",
+        "p47:s5",
+        "p47:s6",
+        "p47:s7",
+        "p47:s8",
+        "p47:s9",
+        "p48:s1",
+        "p48:s2",
+        "p48:s3",
+        "p48:s4",
+        "p48:s5",
+        "p48:s6",
+        "p48:s7",
+        "p48:s8",
+        "p48:s9",
+        "p48:s10",
+        "p49:s1",
+        "p49:s2",
+        "p49:s3",
+        "p49:s4",
+        "p49:s5",
+        "p49:s6",
+        "p49:s7",
+        "p49:s8",
+        "p49:s9",
+        "p49:s10",
+        "p49:s11",
+        "p50:s1",
+        "p50:s2",
+        "p50:s3",
+        "p50:s4",
+        "p50:s5",
+        "p50:s6",
+        "p50:s7",
+        "p50:s8",
+        "p50:s9",
+        "p50:s10",
+        "p50:s11",
+        "p50:s12",
+        "p50:s13",
+        "p50:s14",
+        "p50:s15",
+        "p50:s16",
+        "p51:s1",
+        "p51:s2",
+        "p51:s3",
+        "p51:s4",
+        "p52:s1",
+        "p52:s2",
+        "p52:s3",
+        "p52:s4",
+        "p52:s5",
+        "p52:s6",
+        "p52:s7",
+        "p52:s8",
+        "p52:s9",
+        "p53:s1",
+        "p53:s2",
+        "p54:s1",
+        "p54:s2",
+        "p54:s3",
+        "p54:s4",
+        "p54:s5",
+        "p54:s6",
+        "p54:s7",
+        "p55:s1",
+        "p55:s2",
+        "p55:s3",
+        "p55:s4"
+      ],
+      "findings": [
+        {
+          "id": "F01",
+          "source_id": "p16:s1",
+          "severity": "minor",
+          "issue": "Unclear referent. 'einander so gleich und ungleich' compares the powers, means and results of one language with those of another; the English 'its powers, means and results resemble and differ from one another' can be read as comparing powers with means with results. The possessive 'its' is also an addition.",
+          "proposed_english": "the powers, means and results are as alike and as unlike one another [from language to language] as human bodily and mental dispositions for language permit diversity within the limits set by nature.",
+          "reason": "The German compares across languages (the sentence opens 'In jeder Sprache'). The bracketed gloss is interpretive and could be left out if the translator prefers to keep the source's compression; at minimum drop 'its'.",
+          "source_ids": [
+            "p16:s1"
+          ]
+        },
+        {
+          "id": "F02",
+          "source_id": "p16:s2",
+          "severity": "minor",
+          "issue": "'nun' is rendered 'therefore', which adds an inferential link the German does not assert.",
+          "proposed_english": "Now, wherever one attempts to describe individual languages, one must begin with the general type of this process and return to it, ...",
+          "reason": "'Wo man nun' is a transitional 'now', not 'folglich' or 'daher'.",
+          "source_ids": [
+            "p16:s2"
+          ]
+        },
+        {
+          "id": "F03",
+          "source_id": "p16:s3",
+          "severity": "minor",
+          "issue": "'bedingt' is rendered 'determined', the word used everywhere else for 'bestimmt'.",
+          "proposed_english": "... everything that can be said of it being conditioned solely by the pure concept of language ...",
+          "reason": "Humboldt separates conditioning (bedingen) from determining (bestimmen); 'determined' should stay reserved for 'bestimmt', which carries much of the argument in 20, 39–40 and 48.",
+          "source_ids": [
+            "p16:s3"
+          ]
+        },
+        {
+          "id": "F04",
+          "source_id": "p17:s3",
+          "severity": "minor",
+          "issue": "'in seinem ganzen Zusammenwirken' becomes 'in its full interaction'. 'Interaction' is the rendering of 'Wechselwirkung' elsewhere (23, 39, 54), and 'Zusammenwirken' becomes 'cooperation' in p30:s4. The English also leaves it unclear what interacts with what.",
+          "proposed_english": "an analysis of the procedure of language in the whole of its concerted working.",
+          "reason": "'Zusammenwirken' is the joint working of all the parts of the procedure. This is the programmatic statement of what the section sets out to do, so the term should be distinct from 'Wechselwirkung' and stable.",
+          "source_ids": [
+            "p17:s3"
+          ]
+        },
+        {
+          "id": "F05",
+          "source_id": "p19:s1",
+          "severity": "minor",
+          "issue": "Inconsistent rendering of one concept. 'Empfindungsvermögen' is 'capacity for ... feeling' here but 'faculty of sensation' in p36:s4. More broadly, 'Empfindung/empfinden' alternates between 'sensation' (p23:s1, p26:s1, p36:s4) and 'feeling' (p19:s1, p27:s2, p31:s6, p39:s12, p49:s5, p49:s7, p50:s5, p50:s7), where it merges with 'Gefühl' = 'feeling'.",
+          "proposed_english": "... its influence on the capacity for thought and sensation.",
+          "reason": "The same compound should not have two renderings across the unit, and 'Empfindung' should stay distinguishable from 'Gefühl' (compare p50:s6–s7). Whichever policy is chosen should be applied to all the listed IDs.",
+          "source_ids": [
+            "p19:s1"
+          ]
+        },
+        {
+          "id": "F06",
+          "source_id": "p20:s5",
+          "severity": "minor",
+          "issue": "'wirkt ... wieder bestimmend auf den Geist zurück' is rendered 'in turn acts upon and determines the mind'. This drops the 'acts back' wording used for 'zurückwirken' everywhere else (p19:s2, p20:s7, p34:s1, p40:s4, p42:s4).",
+          "proposed_english": "... and, passing straight over again into language in general, it in turn acts back upon the mind, determining it.",
+          "reason": "'Zurückwirken' is the recurring term for the reciprocal relation and should be recognisable at each occurrence.",
+          "source_ids": [
+            "p20:s5"
+          ]
+        },
+        {
+          "id": "F07",
+          "source_id": "p20:s7",
+          "severity": "moderate",
+          "issue": "Three linked points, the first two source ambiguities that the English resolves silently. (1) The subject of 'begründet' is ambiguous: 'sie' (intellectual activity) or 'er' (the sound now become articulated). The English assigns it to intellectual activity; the nearer subject is the sound. (2) The parenthesis '(wenn es möglich wäre, einen Anfang aller Sprache zu denken)' stands between 'Laut' and 'begründet' and most naturally qualifies the founding of a domain of sounds. The English encloses it in dashes with the becoming-articulated clause, shifting its scope. (3) 'Ton ... wird zum articulirten Laut' becomes 'sound becomes articulated sound'; the Ton/Laut step is carried only by the adjective.",
+          "proposed_english": "It produces sound by a free decision and shapes it through its power, for by being permeated by it sound becomes articulated sound (if it were possible to conceive a beginning of all language), founds a domain of such sounds, which, self-subsistent, determining and limiting, acts back upon it.",
+          "reason": "Keeping the parenthesis in the source position and leaving the subject of 'founds' open preserves the German ambiguity. If the translator's reading is retained, it should be recognised as an interpretation rather than the only construal.",
+          "source_ids": [
+            "p20:s7"
+          ]
+        },
+        {
+          "id": "F08",
+          "source_id": "p21:s2",
+          "severity": "minor",
+          "issue": "'der Form seines Wirkens' becomes 'the form of its own activity'. 'Its' is ambiguous in English between mind and sound, and 'Wirken' is rendered 'activity', the standing equivalent of 'Thätigkeit' ('Wirken' is 'operation' in heading:i1, p51:s2 and p52:s9).",
+          "proposed_english": "... compelling them to treat sound in a way that corresponds to the form of the mind's own working.",
+          "reason": "Referent clarity ('seines' most naturally refers to 'Geist') and separation of 'Wirken' from 'Thätigkeit'.",
+          "source_ids": [
+            "p21:s2"
+          ]
+        },
+        {
+          "id": "F09",
+          "source_id": "p21:s7",
+          "severity": "minor",
+          "issue": "'errathen lernen' is rendered 'learn to infer'.",
+          "proposed_english": "... they learn to divine, in another person, the one member from the other ...",
+          "reason": "'Errathen' is guessing or divining, not inference; the more rational verb alters the kind of cognition Humboldt attributes to the learners.",
+          "source_ids": [
+            "p21:s7"
+          ]
+        },
+        {
+          "id": "F10",
+          "source_id": "p21:s9",
+          "severity": "minor",
+          "issue": "Attachment is unclear: in '... in place of what is missing, of which we have no conception' the relative clause can attach to 'what is missing' rather than to the sensory 'something'.",
+          "proposed_english": "There may also be something sensory in them corresponding to this noise, perhaps something their imagination substitutes for what is missing, something of which we have no conception; ...",
+          "reason": "'wovon wir keinen Begriff haben' refers to 'etwas Sinnliches ... untergeschobenes'.",
+          "source_ids": [
+            "p21:s9"
+          ]
+        },
+        {
+          "id": "F11",
+          "source_id": "p22:s4",
+          "severity": "minor",
+          "issue": "'von dem Gedanken bestimmten Organe' is rendered 'organs directed by thought'.",
+          "proposed_english": "... produced by organs determined by thought ...",
+          "reason": "'Bestimmen' is 'determine' everywhere else in the unit; the single variant weakens the terminological thread.",
+          "source_ids": [
+            "p22:s4"
+          ]
+        },
+        {
+          "id": "F12",
+          "source_id": "p23:s1",
+          "severity": "minor",
+          "issue": "'Drang des Gedanken nach Aeusserung' becomes 'urge towards expression'. 'Expression' is the rendering of 'Ausdruck', and 'Aeusserung' is 'utterance' in p48:s5.",
+          "proposed_english": "thought's urge towards utterance",
+          "reason": "Consistency, and 'Aeusserung' carries the outward movement ('nach aussen', p24:s3, p30:s1) that this paragraph develops.",
+          "source_ids": [
+            "p23:s1"
+          ]
+        },
+        {
+          "id": "F13",
+          "source_id": "p25:s3",
+          "severity": "minor",
+          "issue": "'ein reines Beschauen' is rendered 'the mere contemplation'.",
+          "proposed_english": "... can be regarded as a pure beholding of an object already present.",
+          "reason": "'Rein' means purely receptive, unmixed with the mind's own activity, which is the point of the next sentence. 'Mere' is dismissive rather than descriptive.",
+          "source_ids": [
+            "p25:s3"
+          ]
+        },
+        {
+          "id": "F14",
+          "source_id": "p27:s6",
+          "severity": "minor",
+          "issue": "'nur Ideen mit den Tönen verbindend' becomes 'only with ideas joined to sounds'. The active participle is lost and 'Tönen' loses its musical sense in a clause about singing.",
+          "proposed_english": "... is essentially a singing creature, only one that joins ideas to its tones.",
+          "reason": "The contrast is with birdsong: the human sings but attaches ideas to the tones.",
+          "source_ids": [
+            "p27:s6"
+          ]
+        },
+        {
+          "id": "F15",
+          "source_id": "p27:s7",
+          "severity": "minor",
+          "issue": "'Der viel wesentlichere Entstehungsgrund' is rendered with an indefinite article, 'A far more essential cause'.",
+          "proposed_english": "The far more essential ground of the emergence of language is delight in speaking, ...",
+          "reason": "The definite article names the ground Humboldt sets against mutual assistance; 'A' makes it one candidate among several.",
+          "source_ids": [
+            "p27:s7"
+          ]
+        },
+        {
+          "id": "F16",
+          "source_id": "p28:s5",
+          "severity": "minor",
+          "issue": "'more or less ringing devoid of ideas' is hard to parse. 'Schmettern' is also 'ringing out' in p26:s1 but 'resounding' in p28:s4.",
+          "proposed_english": "... mix a more or less idea-less ringing into language proper, ...",
+          "reason": "Clarity of the claim, and one rendering for 'Schmettern' across 26 and 28.",
+          "source_ids": [
+            "p28:s5"
+          ]
+        },
+        {
+          "id": "F17",
+          "source_id": "p29:s2",
+          "severity": "minor",
+          "issue": "'spricht sie sich nur selbst vor dem Ohre aus' becomes 'only by speaking to the ear'. The restriction 'nur selbst' (only the language itself, as against any description) is moved onto the manner.",
+          "proposed_english": "... as this language and no other, only it itself can declare itself, before the ear.",
+          "reason": "The contrast is between description, which only narrows the class, and the language's own audible self-presentation.",
+          "source_ids": [
+            "p29:s2"
+          ]
+        },
+        {
+          "id": "F18",
+          "source_id": "p29:s5",
+          "severity": "moderate",
+          "issue": "'wenn auch die fortschreitende Entwicklung viel abschliesst' is rendered 'brings much to completion'. 'Abschliessen' is ambiguous (complete, conclude, or close off). In a concessive clause set against 'something fixed' remaining, 'closes off' fits at least as well.",
+          "proposed_english": "Even though progressive development closes off much, there is nevertheless something fixed in this, ...",
+          "reason": "Source ambiguity, not a demonstrable error. I cannot settle it from the checked text alone, and the checked reading must stand without emendation. The current English chooses the reading that makes the concession least intelligible.",
+          "source_ids": [
+            "p29:s5"
+          ]
+        },
+        {
+          "id": "F19",
+          "source_id": "p29:s8",
+          "severity": "minor",
+          "issue": "'das Grosse, Geistige, Vorherrschende' becomes 'great, intellectual and predominant'. 'Geistig' is 'mental' almost everywhere else, and 'intellectual' is the equivalent of 'intellectuell'. The same variant occurs in p37:s9 ('geistigsten Gebrauche' as 'most intellectual use').",
+          "proposed_english": "... wanting to seek in them only what is great, mental and predominant.",
+          "reason": "Humboldt uses both 'geistig' and 'intellectuell' in this unit (p22:s1, p37:s6, p52:s8); the English should not let them overlap.",
+          "source_ids": [
+            "p29:s8"
+          ]
+        },
+        {
+          "id": "F20",
+          "source_id": "p30:s2",
+          "severity": "minor",
+          "issue": "Addition. The German has 'einmal dass ..., dass ...' with no second marker; the English supplies 'and second'.",
+          "proposed_english": "... first, that all human powers develop fully only in society; [second,] that there is something common to the entire human race, ...",
+          "reason": "The repair is reasonable, since the source announces 'ein zwiefaches', but it is the translator's and should be bracketed or otherwise recognised as such.",
+          "source_ids": [
+            "p30:s2"
+          ]
+        },
+        {
+          "id": "F21",
+          "source_id": "p30:s4",
+          "severity": "minor",
+          "issue": "'das gesellige Zusammenwirken auf sie' is rendered 'the social cooperation acting upon language'. See F04: 'Zusammenwirken' has two different renderings.",
+          "proposed_english": "For the greater and livelier the combined social action upon language, the more it gains, ...",
+          "reason": "Consistency for 'Zusammenwirken'; 'bewegter' is 'livelier' or 'more animated' rather than 'more active'.",
+          "source_ids": [
+            "p30:s4"
+          ]
+        },
+        {
+          "id": "F22",
+          "source_id": "p31:s5",
+          "severity": "minor",
+          "issue": "'Es ist nur uns unmöglich' is rendered 'It is simply impossible for us'. Adversative 'nur' is turned into an intensifier.",
+          "proposed_english": "Only, it is impossible for us to fathom these causes, ...",
+          "reason": "The German concedes a limit on the preceding claim; it does not intensify the impossibility.",
+          "source_ids": [
+            "p31:s5"
+          ]
+        },
+        {
+          "id": "F23",
+          "source_id": "p31:s10",
+          "severity": "minor",
+          "issue": "'alles Sprechen ist auf Anrede und Erwiederung gestellt' is rendered 'directed towards address and reply'.",
+          "proposed_english": "... and all speaking is founded on address and reply.",
+          "reason": "'Auf etwas gestellt sein' means to rest on or be built upon. 'Directed towards' makes address and reply the aim of speaking rather than its basis, which is what the 'unalterable dualism' requires.",
+          "source_ids": [
+            "p31:s10"
+          ]
+        },
+        {
+          "id": "F24",
+          "source_id": "p31:s11",
+          "severity": "moderate",
+          "issue": "Terminology. 'Gegenstand' is 'thing' here, to keep it apart from 'Object' in the same sentence, but 'object' everywhere else (p31:s14, p36:s2, p39:s2–s7, s11–s12), where it merges with 'Object' = 'object'.",
+          "proposed_english": "Keep this sentence as it stands and carry the distinction through, e.g. p31:s14: 'I' and 'he' are really different things; p39:s5: an imprint not of the thing in itself but of the image it produces in the soul.",
+          "reason": "The argument of 31 and 39–40 turns on the difference between the external thing (Gegenstand) and the correlate of the subject (Object). A solution used once and then dropped leaves the reader unable to follow it. See F35.",
+          "source_ids": [
+            "p31:s11"
+          ]
+        },
+        {
+          "id": "F25",
+          "source_id": "p32:s1",
+          "severity": "minor",
+          "issue": "Omission: 'gewährt ihm' loses its dative, giving 'provides conviction and stimulation'. The colon also turns the second clause into a gloss on the first.",
+          "proposed_english": "...; social communication affords him conviction and stimulation.",
+          "reason": "'Ihm' (the human being) is the beneficiary in the German, which has a semicolon, not an explanatory link.",
+          "source_ids": [
+            "p32:s1"
+          ]
+        },
+        {
+          "id": "F26",
+          "source_id": "p33:s3",
+          "severity": "minor",
+          "issue": "'Anregung der Sprachkraft' becomes 'activation'; 'Anregung' is 'stimulation' in p32:s1, and 'anregen' is 'activate' in p36:s4 and p36:s12. The expansion 'understanding activates its inward receptivity, as speaking activates its outward activity' also over-resolves an elliptical clause.",
+          "proposed_english": "... is itself a stimulation of the power of language, only in its inward receptivity, as speaking is in its outward activity.",
+          "reason": "One equivalent for 'Anregung/anregen' across 32, 33 and 36. The German says the power is stimulated in its receptivity, not that receptivity is activated.",
+          "source_ids": [
+            "p33:s3"
+          ]
+        },
+        {
+          "id": "F27",
+          "source_id": "p33:s7",
+          "severity": "minor",
+          "issue": "'Stufen' is 'stages' here but 'levels' in p50:s11 and p50:s14, which describe the same ladder of individualization.",
+          "proposed_english": "Each of these levels, ascending to the most general, forms a linguistic sphere ...",
+          "reason": "Paragraph 50 resumes the gradation set out in 33; the link should be visible in the English.",
+          "source_ids": [
+            "p33:s7"
+          ]
+        },
+        {
+          "id": "F28",
+          "source_id": "p33:s8",
+          "severity": "minor",
+          "issue": "'wieder in einander begriffenen' is rendered 'mutually nested'.",
+          "proposed_english": "... the smaller domains of the particular classes of languages, each in turn contained within another, ...",
+          "reason": "The nesting is successive, not mutual.",
+          "source_ids": [
+            "p33:s8"
+          ]
+        },
+        {
+          "id": "F29",
+          "source_id": "p34:s3",
+          "severity": "minor",
+          "issue": "'wie denn keine metaphysische ... Untersuchung' is made a new causal sentence beginning 'For ...'. 'Lead beyond the endpoint' also slightly recasts 'weiter als an das Ende ... zu leiten'.",
+          "proposed_english": "..., just as, indeed, no metaphysical investigation, that is, one grounded in fathoming being in itself, can lead further than to the end of what is to be explained.",
+          "reason": "'Wie denn' adds a confirming comparison, not a reason.",
+          "source_ids": [
+            "p34:s3"
+          ]
+        },
+        {
+          "id": "F30",
+          "source_id": "p34:s4",
+          "severity": "minor",
+          "issue": "(1) The parenthesis 'nicht der an sich, sondern auch der ...' has no 'bloss'; the English normalizes it to 'not just ... but also'. (2) 'Menschengeschlecht' is 'humanity' here and in p41:s4, p44:s2, p46:s1, p48:s5, but 'human race' in p30:s2, p40:s6, p42:s3, while 'Menschheit' is also 'humanity' (p40:s2, p47:s5, p53:s1).",
+          "proposed_english": "... (not [only] that emergence in itself, but also that in each act of speaking and understanding) ...; and 'the human race' throughout for 'Menschengeschlecht'.",
+          "reason": "The supplied 'only' is very probably right but repairs a slip in the source. 'Menschheit' in p47:s5 means the concept of being human, so the two nouns should be kept apart.",
+          "source_ids": [
+            "p34:s4"
+          ]
+        },
+        {
+          "id": "F31",
+          "source_id": "p36:s3",
+          "severity": "minor",
+          "issue": "Modality: 'es wäre möglich, dass ... so verführe' is rendered with the indicative, 'it is possible that ... proceeds'.",
+          "proposed_english": "...; and it might be that the child's soul proceeds in this way at the earliest beginnings of understanding.",
+          "reason": "The German subjunctive holds the possibility at a distance, and the next sentence restricts it at once.",
+          "source_ids": [
+            "p36:s3"
+          ]
+        },
+        {
+          "id": "F32",
+          "source_id": "p37:s2",
+          "severity": "minor",
+          "issue": "Lost image: 'vom Mutterschoosse in jedes fremde versetzt' becomes 'taken from birth and placed among any foreign people'.",
+          "proposed_english": "... children of any people, transplanted from the mother's lap into any foreign people, ...",
+          "reason": "The German has a spatial image of removal from the mother's lap, not a time expression.",
+          "source_ids": [
+            "p37:s2"
+          ]
+        },
+        {
+          "id": "F33",
+          "source_id": "p37:s4",
+          "severity": "minor",
+          "issue": "Unclear English: 'the even predominant power of the surrounding sounds'.",
+          "proposed_english": "But however much one must attribute to the power, indeed the predominant power, of the surrounding sounds, ...",
+          "reason": "'Der sogar vorherrschenden Gewalt' concedes that this power may even predominate; the current word order obscures the concession.",
+          "source_ids": [
+            "p37:s4"
+          ]
+        },
+        {
+          "id": "F34",
+          "source_id": "p37:s9",
+          "severity": "moderate",
+          "issue": "'ihre ursprüngliche Bestimmung zu einer andren Sprache ... verrückt' is rendered 'their original determination for another language had been ... displaced'. 'Bestimmung' here means vocation or destination, not 'determination'. The attachment of 'zu einer andren Sprache' is ambiguous: 'destined for another language' or 'shifted onto another language'. The English is hard to understand on either reading. 'Geistigsten' as 'most intellectual' is covered in F19.",
+          "proposed_english": "... something which showed that their original vocation had been accidentally shifted to another language, against the nature of their being.",
+          "reason": "The attachment is a source ambiguity. On the alternative construal the wording would be 'their original vocation for another language had been accidentally displaced'. Either way 'determination' misleads.",
+          "source_ids": [
+            "p37:s9"
+          ]
+        },
+        {
+          "id": "F35",
+          "source_id": "p39:s7",
+          "severity": "moderate",
+          "issue": "'Object' and 'Gegenstand' both become 'object' in one sentence: 'the word ... makes itself an object confronting the soul' and 'the impression of the object'. The reader cannot tell that the first is the word as Object and the second the external thing.",
+          "proposed_english": "... since the word in turn makes itself an object confronting the soul ... The concept now therefore contains three things: the impression of the thing, the manner in which the subject receives it, and the effect of the word as a speech sound.",
+          "reason": "See F24. The threefold analysis depends on keeping the external Gegenstand apart from the word become Object.",
+          "source_ids": [
+            "p39:s7"
+          ]
+        },
+        {
+          "id": "F36",
+          "source_id": "p40:s2",
+          "severity": "moderate",
+          "issue": "Misplaced apposition. In 'But language is produced from speaking—a stock of words and a system of rules—' the gloss attaches to 'speaking' in English, though in German it defines 'die Sprache'. The reflexive 'erzeugt sich' is also flattened to a passive.",
+          "proposed_english": "But out of speaking language produces itself, a stock of words and a system of rules, and, winding its way through the succession of millennia, grows into a power ...",
+          "reason": "This sentence turns the argument from speaking to language as product; its defining apposition must sit next to 'language'.",
+          "source_ids": [
+            "p40:s2"
+          ]
+        },
+        {
+          "id": "F37",
+          "source_id": "p40:s10",
+          "severity": "minor",
+          "issue": "'sie gerade ebenso zum Object zu machen' is rendered 'making it an object in precisely the same way'.",
+          "proposed_english": "...; yet it lies in the act of this production to make it just as much an object; ...",
+          "reason": "'Gerade ebenso' marks equal degree against 'ganz in das Subject übergehen', not sameness of manner. The translator's reading of 'sie' in 'was sie wirkt und gewirkt hat' as language is defensible, though grammatically it could also be 'Einwirkung'.",
+          "source_ids": [
+            "p40:s10"
+          ]
+        },
+        {
+          "id": "F38",
+          "source_id": "p42:s1",
+          "severity": "minor",
+          "issue": "'die Kraft des Einzelnen gegen die Macht der Sprache' gives 'power' for both nouns.",
+          "proposed_english": "... how slight the force of the individual really is against the might of language.",
+          "reason": "See F53. The contrast of 'Kraft' and 'Macht' is deliberate and is taken up again in 51.",
+          "source_ids": [
+            "p42:s1"
+          ]
+        },
+        {
+          "id": "F39",
+          "source_id": "p42:s4",
+          "severity": "minor",
+          "issue": "'die sich nur in vielen der Beobachtung entzieht' is elliptical: 'in vielen' has no noun. The English supplies 'cases'; given the next sentence, 'languages' is also possible.",
+          "proposed_english": "... each generation produces a change in it, which only, in many [cases], escapes observation.",
+          "reason": "Source ellipsis. The supplied noun should be recognised as editorial. Reading initial 'Nur' as adversative ('Nevertheless') is, in my judgement, correct.",
+          "source_ids": [
+            "p42:s4"
+          ]
+        },
+        {
+          "id": "F40",
+          "source_id": "p42:s5",
+          "severity": "minor",
+          "issue": "'theils geringer, theils schwieriger wahrzunehmen' is rendered 'both smaller and harder to perceive'.",
+          "proposed_english": "... this latter change is in part smaller, in part harder to perceive.",
+          "reason": "'Theils ... theils' divides the cases; 'both ... and' asserts the two together.",
+          "source_ids": [
+            "p42:s5"
+          ]
+        },
+        {
+          "id": "F41",
+          "source_id": "p43:s3",
+          "severity": "minor",
+          "issue": "'Stamm' is 'tribe' here but 'stock' in p29:s6 ('Stämme'), in 'Stammartiges' (p29:s5, p37:s6) and in 'Völkerstamm' (p33:s6, p46:s6).",
+          "proposed_english": "A band branches off from a stock and settles ...",
+          "reason": "One concept, two English words within the unit. If 'tribe' is preferred here, p29:s6 needs the same treatment.",
+          "source_ids": [
+            "p43:s3"
+          ]
+        },
+        {
+          "id": "F42",
+          "source_id": "p43:s6",
+          "severity": "minor",
+          "issue": "'nach einer Stammsprache suchen lässt' is rendered 'a search for a single ancestral language'. 'Single' is an interpretive addition.",
+          "proposed_english": "... it prompts a search for an ancestral language, whereas all the different materials of the language under investigation should be separated out.",
+          "reason": "Humboldt capitalizes the numeral when he means 'one' ('Eine', 'Einen' in 44–47); the checked text has lower-case 'einer' here. 'Single' is a plausible gloss given 'mehrere Sprachen', but it is not in the text.",
+          "source_ids": [
+            "p43:s6"
+          ]
+        },
+        {
+          "id": "F43",
+          "source_id": "p43:s7",
+          "severity": "minor",
+          "issue": "Scope of 'nur ... erst'. The English 'only at a certain point, after formation is complete' ties 'only' to the point; the German has adversative 'nur' plus 'erst nach vollendeter Bildung'.",
+          "proposed_english": "...; only, the distinctive character arising in this way becomes visible only after formation is complete, at a certain point.",
+          "reason": "The restriction falls on 'after completed formation'. 'In einem gewissen Punkte' may also mean 'in a certain respect', a source ambiguity worth keeping open.",
+          "source_ids": [
+            "p43:s7"
+          ]
+        },
+        {
+          "id": "F44",
+          "source_id": "note:klaproth",
+          "severity": "minor",
+          "issue": "Note apparatus. (1) Neither the supplied German nor the English of p43:s5 shows the note anchor. In the uncorrected background text the asterisk follows 'auf die Sprachen'; I used this only as background, not as a governing reading. (2) The square brackets in 'S. [43.]' are an editorial supplement in the 1906 edition, and the reader should be told so. (3) The title needs italics, and 'Mr' for 'Herr' is a domestication.",
+          "proposed_english": "Herr Klaproth already makes this observation in the Asia polyglotta, p. [43].",
+          "reason": "The note qualifies the caution about applying 'descent' to languages. Its anchor position should be confirmed against the checked edition and placed after 'the use of the concept of descent for languages' in p43:s5.",
+          "source_ids": [
+            "note:klaproth"
+          ]
+        },
+        {
+          "id": "F45",
+          "source_id": "p44:s3",
+          "severity": "minor",
+          "issue": "'auf welches sie sich vereinigen' is rendered 'upon which they converge'.",
+          "proposed_english": "... transform it into a new speech on which they agree: ...",
+          "reason": "'Sich auf etwas vereinigen' is to come to agreement on something; 'converge' suggests an impersonal drift.",
+          "source_ids": [
+            "p44:s3"
+          ]
+        },
+        {
+          "id": "F46",
+          "source_id": "p45:s2",
+          "severity": "minor",
+          "issue": "(1) 'unzeitiger Gleichnisse' as 'inopportune analogies': 'Gleichniss' is a simile or figurative comparison, and 'analogy' is the rendering of 'Analogie' (p39:s8, p48:s10). (2) 'die übrigens gar nicht die Anmassung der Neuheit mit sich führt' as 'It makes no claim to novelty' drops 'übrigens' and softens 'Anmassung'. (3) The means clause 'mit Abschneidung ...' is turned into a first co-ordinate aim.",
+          "proposed_english": "It carries with it, moreover, no pretension to novelty, but aims only, by cutting away untimely similes, to determine the concepts more firmly and bring them into closer agreement with the facts.",
+          "reason": "The 'untimely' figures are the temporal images of mother and daughter languages just criticized in 43; 'untimely' keeps the play on 'in der Zeit'.",
+          "source_ids": [
+            "p45:s2"
+          ]
+        },
+        {
+          "id": "F47",
+          "source_id": "p47:s5",
+          "severity": "minor",
+          "issue": "Syntax. 'und aller Unterschied der Racen weder ... aufhebt' is verb-final and still depends on 'wie'; the English can be read as a new independent assertion.",
+          "proposed_english": "In this sense there is only one language, just as there is only one human species and all difference of races annuls neither the concept of humanity nor the possibility of regular reproduction.",
+          "reason": "Keeping the clause under the comparison shows that it supports the unity claim rather than adding a separate thesis. This is a fidelity point; it does not endorse the period vocabulary of race.",
+          "source_ids": [
+            "p47:s5"
+          ]
+        },
+        {
+          "id": "F48",
+          "source_id": "p48:s9",
+          "severity": "minor",
+          "issue": "Modality: the conditional 'wenn man ... zerlegt, ... bringt, ... vergleicht, und immer so fortfährt' is rendered as a requirement ('One must divide ... and one must continue').",
+          "proposed_english": "A large part of this interconnectedness can even be demonstrated as a matter of fact in the simplest sentence, if one divides the sentence into its elements ..., places each element ..., compares it ..., and continues in this way through all the determining relations of language, examining how ...",
+          "reason": "The German states a condition under which the demonstration is possible, not an obligation.",
+          "source_ids": [
+            "p48:s9"
+          ]
+        },
+        {
+          "id": "F49",
+          "source_id": "p49:s9",
+          "severity": "minor",
+          "issue": "'is easier to intuit in a foreign one' can be read as 'easier in a foreign language than in one's own'.",
+          "proposed_english": "But what one has felt in one's own language, however deep and subtle it may be, one more readily divines in a foreign one.",
+          "reason": "'Leichter' means more easily than one otherwise would, because one has first felt it in one's own language.",
+          "source_ids": [
+            "p49:s9"
+          ]
+        },
+        {
+          "id": "F50",
+          "source_id": "p50:s4",
+          "severity": "minor",
+          "issue": "Unidiomatic and unclear: 'No one thinks exactly what another does at a word'.",
+          "proposed_english": "No one thinks, in using a word, exactly what another does, ...",
+          "reason": "'Bei dem Wort' means in connection with the word; the present phrasing obscures a sentence that is often quoted.",
+          "source_ids": [
+            "p50:s4"
+          ]
+        },
+        {
+          "id": "F51",
+          "source_id": "p50:s7",
+          "severity": "minor",
+          "issue": "'unter der Allgemeinheit des Begriffs und der Empfindung' is rendered 'generality of concept and feeling', immediately after 'Gedanken und Gefühlen' as 'thoughts and feelings' in p50:s6.",
+          "proposed_english": "... beneath the generality of concept and sensation; ...",
+          "reason": "See F05. Adjacent sentences use two different German nouns; the English should not merge them.",
+          "source_ids": [
+            "p50:s7"
+          ]
+        },
+        {
+          "id": "F52",
+          "source_id": "p50:s9",
+          "severity": "minor",
+          "issue": "Lost restriction: 'nur eben jene Allgemeinheit' drops 'nur', and 'welche gerade ... Raum erlaubt' drops 'gerade'.",
+          "proposed_english": "... that by language one means only just that generality of forms, words and rules which precisely allows room for individuality of differing kinds; ...",
+          "reason": "The objection depends on the restriction that language is nothing but the general element.",
+          "source_ids": [
+            "p50:s9"
+          ]
+        },
+        {
+          "id": "F53",
+          "source_id": "p51:s1",
+          "severity": "moderate",
+          "issue": "'Gewalt des Menschen über die Sprache' and 'ihre Macht über ihn' both become 'power', and 'Kraft' is also 'power' throughout. The next sentence (p51:s2) opposes 'diese' (Macht, a physiological operation) to 'jene' (Gewalt, a purely dynamic one); the English has to paraphrase the referents because it has no terms left to distinguish them.",
+          "proposed_english": "... in order to demonstrate the human being's mastery over language, just as we have presented its might over him above (42, 43).",
+          "reason": "Three German terms carry one of the unit's central oppositions (21, 37, 40, 42, 51). A stable set such as mastery (Gewalt), might (Macht) and power or force (Kraft) would restore it. Affected IDs include p21:s2, p21:s4, p37:s4, p40:s2, p42:s1 and p42:s2.",
+          "source_ids": [
+            "p51:s1"
+          ]
+        },
+        {
+          "id": "F54",
+          "source_id": "p51:s4",
+          "severity": "moderate",
+          "issue": "(1) In 'so lassen sich, nur innerhalb eines gewissen Spielraums, ihre Gränzen erkennen' the scope of 'nur innerhalb ...' is ambiguous: it may limit the recognizability of the limits (the English: 'though only within a certain range') or specify the limits themselves (freedom is confined to a certain latitude). (2) 'Spielraum' is 'range' here and 'scope' in p52:s8.",
+          "proposed_english": "But although freedom cannot be determined or explained, its limits, only within a certain latitude, can be recognized; ...",
+          "reason": "Source ambiguity, resolved one way in the English without notice. The comma-bounded literal order keeps it open. Because 52 picks up 'ein gewisser Spielraum' as the room reserved for the individual, the second reading is at least as likely, and the term should be the same in both places.",
+          "source_ids": [
+            "p51:s4"
+          ]
+        },
+        {
+          "id": "F55",
+          "source_id": "p52:s8",
+          "severity": "minor",
+          "issue": "'Intellectualitaet der Nationen' is rendered 'intellectual orientation', against 'intellectual life' for the same word in p54:s5; 'Spielraum' is 'scope' against 'range' in p51:s4.",
+          "proposed_english": "For although limits are set to the intellectuality of nations, just as to that of the human race, a certain latitude is nevertheless reserved for the individual here too.",
+          "reason": "Limits are set to a capacity, not an orientation. Both terms need one rendering across 51–54.",
+          "source_ids": [
+            "p52:s8"
+          ]
+        },
+        {
+          "id": "F56",
+          "source_id": "p54:s5",
+          "severity": "minor",
+          "issue": "'Intellectualitaet' is rendered 'intellectual life' (see F55).",
+          "proposed_english": "... whether it inclines towards intellectuality at all, and from what side; and whether it inclines precisely towards intellectuality through language.",
+          "reason": "Consistency with p52:s8. 'Von welcher Seite aus' is 'from what side', the angle of approach.",
+          "source_ids": [
+            "p54:s5"
+          ]
+        },
+        {
+          "id": "F57",
+          "source_id": "p55:s1",
+          "severity": "minor",
+          "issue": "'Naturzusammenhang' is rendered 'natural interconnectedness', which hides the opposition to freedom that the sentence states.",
+          "proposed_english": "... and have further separated in it the nexus of nature (40–51) from national and individual freedom (52–54), ...",
+          "reason": "The term names the order of natural determination set against freedom in 51–54. 'Interconnectedness' has already been used for the plain 'Zusammenhang' of languages in p34:s2 and p48:s9.",
+          "source_ids": [
+            "p55:s1"
+          ]
+        }
+      ],
+      "whole_unit_assessment": "Coverage and method. All 281 IDs were read against the checked German blocks as one connected argument (16–55): 277 main-text blocks, three headings and the author footnote. There are 57 findings: none major, 8 moderate, 49 minor. The other 224 IDs are marked checked, meaning I found no reportable issue, not that they are certified. Nothing from 56 onward was translated, and proposed English is limited to the affected phrases.\n\nOverall fidelity. The translation is accurate and readable. I found no block where the main proposition is reversed or materially falsified, and no omitted or invented sentences. Parenthetical cross-references, the editorial '[sie]' in 44, and Humboldt's hedges are generally preserved. Splitting long periods into several English sentences does not, with the exceptions listed, change scope or modality.\n\nMain systematic weakness: terminology across the unit. Several inconsistencies sit on either side of 36–40, which may reflect the two drafting blocks.\n- Gewalt, Macht and Kraft all become 'power', which erases the opposition drawn in 51 (F53, F38).\n- Gegenstand and Object both become 'object', except for a one-off 'thing' in 31 (F24, F35).\n- 'geistig' is sometimes 'intellectual', overlapping with 'intellectuell' (F19).\n- Empfindung alternates between 'sensation' and 'feeling', overlapping with Gefühl (F05, F51).\n- Zusammenwirken is 'interaction' in one place and 'cooperation' in another, the first overlapping with Wechselwirkung (F04, F21).\n- Stufe, Spielraum, Intellectualität, Stamm, Anregung, and Menschengeschlecht/Menschheit each have two renderings (F27, F54–F56, F41, F26, F30).\n- Ton and Laut are both 'sound'. This is defensible, since Humboldt's own usage is fluid, but it blurs the sentence where Ton becomes Laut (F07).\nA short fixed term list applied across both drafting blocks would remove most of the minor findings.\n\nSource ambiguity versus error. The following are ambiguities or irregularities in the German that the English resolves silently; they are not demonstrable mistranslations: the subject of 'begründet' and the scope of the parenthesis in p20:s7; 'abschliesst' in p29:s5; the attachment of 'zu einer andren Sprache' in p37:s9; 'in vielen' in p42:s4; 'nur innerhalb eines gewissen Spielraums' in p51:s4; 'in einem gewissen Punkte' in p43:s7; and the missing 'bloss' in p34:s4. I could not settle these from the supplied material and report them as open. Smaller unflagged cases where the translator's choice seems reasonable include 'irgend einen' in p41:s5, 'sie' in p40:s10 and 'seiner' in p33:s3.\n\nSource status. The checked 1906 blocks were treated as governing; the uncorrected whole-work OCR was used only as background (for example, for the footnote anchor) and never to override a checked reading. Where the two differ, the translation follows the checked text, correctly: 'feiner' in p28:s7, 'Leben' in p50:s6, 'Stätiges' in p24:s2, and the numeral '1.' in heading:i1. The checked block p46:s3 reads 'Verstände', apparently for 'Verstande'; the translation's 'sense' is right, but the transcription should be rechecked. The footnote anchor and the bracketed page number need confirming against the edition (F44).\n\nFidelity is not endorsement. Faithful rendering of Humboldt's assertions is not confirmation that they are true. This applies to his remarks on 'so-called savages', deaf-mutes, 'races', women's dialects in American languages, the Inca language, descent and the vocal organs, a flood, and the possible isolation of America. The period vocabulary ('deaf-mutes', 'savages', 'races') is kept as historical wording; any framing is for the edition's apparatus. The tension between p29:s1 (individuality lies 'allein' in sound) and p49:s1 ('nicht bloss in ihrem Ton') is the author's, and the translation rightly preserves it.\n\nLimits. This is a single-pass audit done without tools, outside research, or delegation, as instructed. It is not a specialist human certification. The German of the moderate findings in particular should be reviewed by a Humboldt specialist before the text is finalized.",
+      "source_status_acknowledged": true,
+      "models": [
+        "claude-fable-5-2"
+      ],
+      "auditor": "claude",
+      "coverage_detail": [
+        {
+          "source_id": "heading:i1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p16:s1",
+          "status": "finding",
+          "finding_ids": [
+            "F01"
+          ]
+        },
+        {
+          "source_id": "p16:s2",
+          "status": "finding",
+          "finding_ids": [
+            "F02"
+          ]
+        },
+        {
+          "source_id": "p16:s3",
+          "status": "finding",
+          "finding_ids": [
+            "F03"
+          ]
+        },
+        {
+          "source_id": "p17:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p17:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p17:s3",
+          "status": "finding",
+          "finding_ids": [
+            "F04"
+          ]
+        },
+        {
+          "source_id": "p17:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p18:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "heading:A",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "heading:a",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p19:s1",
+          "status": "finding",
+          "finding_ids": [
+            "F05"
+          ]
+        },
+        {
+          "source_id": "p19:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p20:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p20:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p20:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p20:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p20:s5",
+          "status": "finding",
+          "finding_ids": [
+            "F06"
+          ]
+        },
+        {
+          "source_id": "p20:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p20:s7",
+          "status": "finding",
+          "finding_ids": [
+            "F07"
+          ]
+        },
+        {
+          "source_id": "p21:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p21:s2",
+          "status": "finding",
+          "finding_ids": [
+            "F08"
+          ]
+        },
+        {
+          "source_id": "p21:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p21:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p21:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p21:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p21:s7",
+          "status": "finding",
+          "finding_ids": [
+            "F09"
+          ]
+        },
+        {
+          "source_id": "p21:s8",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p21:s9",
+          "status": "finding",
+          "finding_ids": [
+            "F10"
+          ]
+        },
+        {
+          "source_id": "p21:s10",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p21:s11",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p22:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p22:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p22:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p22:s4",
+          "status": "finding",
+          "finding_ids": [
+            "F11"
+          ]
+        },
+        {
+          "source_id": "p23:s1",
+          "status": "finding",
+          "finding_ids": [
+            "F12"
+          ]
+        },
+        {
+          "source_id": "p23:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p24:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p24:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p24:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p25:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p25:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p25:s3",
+          "status": "finding",
+          "finding_ids": [
+            "F13"
+          ]
+        },
+        {
+          "source_id": "p25:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p25:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p25:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p25:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p26:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p26:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p26:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p26:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p26:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p27:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p27:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p27:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p27:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p27:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p27:s6",
+          "status": "finding",
+          "finding_ids": [
+            "F14"
+          ]
+        },
+        {
+          "source_id": "p27:s7",
+          "status": "finding",
+          "finding_ids": [
+            "F15"
+          ]
+        },
+        {
+          "source_id": "p28:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p28:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p28:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p28:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p28:s5",
+          "status": "finding",
+          "finding_ids": [
+            "F16"
+          ]
+        },
+        {
+          "source_id": "p28:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p28:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p29:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p29:s2",
+          "status": "finding",
+          "finding_ids": [
+            "F17"
+          ]
+        },
+        {
+          "source_id": "p29:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p29:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p29:s5",
+          "status": "finding",
+          "finding_ids": [
+            "F18"
+          ]
+        },
+        {
+          "source_id": "p29:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p29:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p29:s8",
+          "status": "finding",
+          "finding_ids": [
+            "F19"
+          ]
+        },
+        {
+          "source_id": "p29:s9",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p30:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p30:s2",
+          "status": "finding",
+          "finding_ids": [
+            "F20"
+          ]
+        },
+        {
+          "source_id": "p30:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p30:s4",
+          "status": "finding",
+          "finding_ids": [
+            "F21"
+          ]
+        },
+        {
+          "source_id": "p31:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s5",
+          "status": "finding",
+          "finding_ids": [
+            "F22"
+          ]
+        },
+        {
+          "source_id": "p31:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s8",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s9",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s10",
+          "status": "finding",
+          "finding_ids": [
+            "F23"
+          ]
+        },
+        {
+          "source_id": "p31:s11",
+          "status": "finding",
+          "finding_ids": [
+            "F24"
+          ]
+        },
+        {
+          "source_id": "p31:s12",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s13",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s14",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s15",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s16",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s17",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s18",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s19",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s20",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p32:s1",
+          "status": "finding",
+          "finding_ids": [
+            "F25"
+          ]
+        },
+        {
+          "source_id": "p32:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p32:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p32:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p32:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p33:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p33:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p33:s3",
+          "status": "finding",
+          "finding_ids": [
+            "F26"
+          ]
+        },
+        {
+          "source_id": "p33:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p33:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p33:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p33:s7",
+          "status": "finding",
+          "finding_ids": [
+            "F27"
+          ]
+        },
+        {
+          "source_id": "p33:s8",
+          "status": "finding",
+          "finding_ids": [
+            "F28"
+          ]
+        },
+        {
+          "source_id": "p34:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p34:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p34:s3",
+          "status": "finding",
+          "finding_ids": [
+            "F29"
+          ]
+        },
+        {
+          "source_id": "p34:s4",
+          "status": "finding",
+          "finding_ids": [
+            "F30"
+          ]
+        },
+        {
+          "source_id": "p34:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p35:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p35:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p35:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p35:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p36:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p36:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p36:s3",
+          "status": "finding",
+          "finding_ids": [
+            "F31"
+          ]
+        },
+        {
+          "source_id": "p36:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p36:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p36:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p36:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p36:s8",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p36:s9",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p36:s10",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p36:s11",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p36:s12",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p37:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p37:s2",
+          "status": "finding",
+          "finding_ids": [
+            "F32"
+          ]
+        },
+        {
+          "source_id": "p37:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p37:s4",
+          "status": "finding",
+          "finding_ids": [
+            "F33"
+          ]
+        },
+        {
+          "source_id": "p37:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p37:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p37:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p37:s8",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p37:s9",
+          "status": "finding",
+          "finding_ids": [
+            "F34"
+          ]
+        },
+        {
+          "source_id": "p38:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p38:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p38:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p38:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s7",
+          "status": "finding",
+          "finding_ids": [
+            "F35"
+          ]
+        },
+        {
+          "source_id": "p39:s8",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s9",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s10",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s11",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s12",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s13",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s14",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p40:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p40:s2",
+          "status": "finding",
+          "finding_ids": [
+            "F36"
+          ]
+        },
+        {
+          "source_id": "p40:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p40:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p40:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p40:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p40:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p40:s8",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p40:s9",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p40:s10",
+          "status": "finding",
+          "finding_ids": [
+            "F37"
+          ]
+        },
+        {
+          "source_id": "p40:s11",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p40:s12",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p40:s13",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p40:s14",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p41:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p41:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p41:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p41:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p41:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p42:s1",
+          "status": "finding",
+          "finding_ids": [
+            "F38"
+          ]
+        },
+        {
+          "source_id": "p42:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p42:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p42:s4",
+          "status": "finding",
+          "finding_ids": [
+            "F39"
+          ]
+        },
+        {
+          "source_id": "p42:s5",
+          "status": "finding",
+          "finding_ids": [
+            "F40"
+          ]
+        },
+        {
+          "source_id": "p43:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p43:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p43:s3",
+          "status": "finding",
+          "finding_ids": [
+            "F41"
+          ]
+        },
+        {
+          "source_id": "p43:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p43:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p43:s6",
+          "status": "finding",
+          "finding_ids": [
+            "F42"
+          ]
+        },
+        {
+          "source_id": "p43:s7",
+          "status": "finding",
+          "finding_ids": [
+            "F43"
+          ]
+        },
+        {
+          "source_id": "note:klaproth",
+          "status": "finding",
+          "finding_ids": [
+            "F44"
+          ]
+        },
+        {
+          "source_id": "p44:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p44:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p44:s3",
+          "status": "finding",
+          "finding_ids": [
+            "F45"
+          ]
+        },
+        {
+          "source_id": "p44:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p44:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p44:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p44:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p44:s8",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p45:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p45:s2",
+          "status": "finding",
+          "finding_ids": [
+            "F46"
+          ]
+        },
+        {
+          "source_id": "p45:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p46:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p46:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p46:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p46:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p46:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p46:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p47:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p47:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p47:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p47:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p47:s5",
+          "status": "finding",
+          "finding_ids": [
+            "F47"
+          ]
+        },
+        {
+          "source_id": "p47:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p47:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p47:s8",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p47:s9",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p48:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p48:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p48:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p48:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p48:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p48:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p48:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p48:s8",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p48:s9",
+          "status": "finding",
+          "finding_ids": [
+            "F48"
+          ]
+        },
+        {
+          "source_id": "p48:s10",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p49:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p49:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p49:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p49:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p49:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p49:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p49:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p49:s8",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p49:s9",
+          "status": "finding",
+          "finding_ids": [
+            "F49"
+          ]
+        },
+        {
+          "source_id": "p49:s10",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p49:s11",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s4",
+          "status": "finding",
+          "finding_ids": [
+            "F50"
+          ]
+        },
+        {
+          "source_id": "p50:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s7",
+          "status": "finding",
+          "finding_ids": [
+            "F51"
+          ]
+        },
+        {
+          "source_id": "p50:s8",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s9",
+          "status": "finding",
+          "finding_ids": [
+            "F52"
+          ]
+        },
+        {
+          "source_id": "p50:s10",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s11",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s12",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s13",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s14",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s15",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s16",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p51:s1",
+          "status": "finding",
+          "finding_ids": [
+            "F53"
+          ]
+        },
+        {
+          "source_id": "p51:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p51:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p51:s4",
+          "status": "finding",
+          "finding_ids": [
+            "F54"
+          ]
+        },
+        {
+          "source_id": "p52:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p52:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p52:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p52:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p52:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p52:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p52:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p52:s8",
+          "status": "finding",
+          "finding_ids": [
+            "F55"
+          ]
+        },
+        {
+          "source_id": "p52:s9",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p53:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p53:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p54:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p54:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p54:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p54:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p54:s5",
+          "status": "finding",
+          "finding_ids": [
+            "F56"
+          ]
+        },
+        {
+          "source_id": "p54:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p54:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p55:s1",
+          "status": "finding",
+          "finding_ids": [
+            "F57"
+          ]
+        },
+        {
+          "source_id": "p55:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p55:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p55:s4",
+          "status": "checked",
+          "finding_ids": []
+        }
+      ]
+    },
+    {
+      "coverage": [
+        "heading:i1",
+        "p16:s1",
+        "p16:s2",
+        "p16:s3",
+        "p17:s1",
+        "p17:s2",
+        "p17:s3",
+        "p17:s4",
+        "p18:s1",
+        "heading:A",
+        "heading:a",
+        "p19:s1",
+        "p19:s2",
+        "p20:s1",
+        "p20:s2",
+        "p20:s3",
+        "p20:s4",
+        "p20:s5",
+        "p20:s6",
+        "p20:s7",
+        "p21:s1",
+        "p21:s2",
+        "p21:s3",
+        "p21:s4",
+        "p21:s5",
+        "p21:s6",
+        "p21:s7",
+        "p21:s8",
+        "p21:s9",
+        "p21:s10",
+        "p21:s11",
+        "p22:s1",
+        "p22:s2",
+        "p22:s3",
+        "p22:s4",
+        "p23:s1",
+        "p23:s2",
+        "p24:s1",
+        "p24:s2",
+        "p24:s3",
+        "p25:s1",
+        "p25:s2",
+        "p25:s3",
+        "p25:s4",
+        "p25:s5",
+        "p25:s6",
+        "p25:s7",
+        "p26:s1",
+        "p26:s2",
+        "p26:s3",
+        "p26:s4",
+        "p26:s5",
+        "p27:s1",
+        "p27:s2",
+        "p27:s3",
+        "p27:s4",
+        "p27:s5",
+        "p27:s6",
+        "p27:s7",
+        "p28:s1",
+        "p28:s2",
+        "p28:s3",
+        "p28:s4",
+        "p28:s5",
+        "p28:s6",
+        "p28:s7",
+        "p29:s1",
+        "p29:s2",
+        "p29:s3",
+        "p29:s4",
+        "p29:s5",
+        "p29:s6",
+        "p29:s7",
+        "p29:s8",
+        "p29:s9",
+        "p30:s1",
+        "p30:s2",
+        "p30:s3",
+        "p30:s4",
+        "p31:s1",
+        "p31:s2",
+        "p31:s3",
+        "p31:s4",
+        "p31:s5",
+        "p31:s6",
+        "p31:s7",
+        "p31:s8",
+        "p31:s9",
+        "p31:s10",
+        "p31:s11",
+        "p31:s12",
+        "p31:s13",
+        "p31:s14",
+        "p31:s15",
+        "p31:s16",
+        "p31:s17",
+        "p31:s18",
+        "p31:s19",
+        "p31:s20",
+        "p32:s1",
+        "p32:s2",
+        "p32:s3",
+        "p32:s4",
+        "p32:s5",
+        "p33:s1",
+        "p33:s2",
+        "p33:s3",
+        "p33:s4",
+        "p33:s5",
+        "p33:s6",
+        "p33:s7",
+        "p33:s8",
+        "p34:s1",
+        "p34:s2",
+        "p34:s3",
+        "p34:s4",
+        "p34:s5",
+        "p35:s1",
+        "p35:s2",
+        "p35:s3",
+        "p35:s4",
+        "p36:s1",
+        "p36:s2",
+        "p36:s3",
+        "p36:s4",
+        "p36:s5",
+        "p36:s6",
+        "p36:s7",
+        "p36:s8",
+        "p36:s9",
+        "p36:s10",
+        "p36:s11",
+        "p36:s12",
+        "p37:s1",
+        "p37:s2",
+        "p37:s3",
+        "p37:s4",
+        "p37:s5",
+        "p37:s6",
+        "p37:s7",
+        "p37:s8",
+        "p37:s9",
+        "p38:s1",
+        "p38:s2",
+        "p38:s3",
+        "p38:s4",
+        "p39:s1",
+        "p39:s2",
+        "p39:s3",
+        "p39:s4",
+        "p39:s5",
+        "p39:s6",
+        "p39:s7",
+        "p39:s8",
+        "p39:s9",
+        "p39:s10",
+        "p39:s11",
+        "p39:s12",
+        "p39:s13",
+        "p39:s14",
+        "p40:s1",
+        "p40:s2",
+        "p40:s3",
+        "p40:s4",
+        "p40:s5",
+        "p40:s6",
+        "p40:s7",
+        "p40:s8",
+        "p40:s9",
+        "p40:s10",
+        "p40:s11",
+        "p40:s12",
+        "p40:s13",
+        "p40:s14",
+        "p41:s1",
+        "p41:s2",
+        "p41:s3",
+        "p41:s4",
+        "p41:s5",
+        "p42:s1",
+        "p42:s2",
+        "p42:s3",
+        "p42:s4",
+        "p42:s5",
+        "p43:s1",
+        "p43:s2",
+        "p43:s3",
+        "p43:s4",
+        "p43:s5",
+        "p43:s6",
+        "p43:s7",
+        "note:klaproth",
+        "p44:s1",
+        "p44:s2",
+        "p44:s3",
+        "p44:s4",
+        "p44:s5",
+        "p44:s6",
+        "p44:s7",
+        "p44:s8",
+        "p45:s1",
+        "p45:s2",
+        "p45:s3",
+        "p46:s1",
+        "p46:s2",
+        "p46:s3",
+        "p46:s4",
+        "p46:s5",
+        "p46:s6",
+        "p47:s1",
+        "p47:s2",
+        "p47:s3",
+        "p47:s4",
+        "p47:s5",
+        "p47:s6",
+        "p47:s7",
+        "p47:s8",
+        "p47:s9",
+        "p48:s1",
+        "p48:s2",
+        "p48:s3",
+        "p48:s4",
+        "p48:s5",
+        "p48:s6",
+        "p48:s7",
+        "p48:s8",
+        "p48:s9",
+        "p48:s10",
+        "p49:s1",
+        "p49:s2",
+        "p49:s3",
+        "p49:s4",
+        "p49:s5",
+        "p49:s6",
+        "p49:s7",
+        "p49:s8",
+        "p49:s9",
+        "p49:s10",
+        "p49:s11",
+        "p50:s1",
+        "p50:s2",
+        "p50:s3",
+        "p50:s4",
+        "p50:s5",
+        "p50:s6",
+        "p50:s7",
+        "p50:s8",
+        "p50:s9",
+        "p50:s10",
+        "p50:s11",
+        "p50:s12",
+        "p50:s13",
+        "p50:s14",
+        "p50:s15",
+        "p50:s16",
+        "p51:s1",
+        "p51:s2",
+        "p51:s3",
+        "p51:s4",
+        "p52:s1",
+        "p52:s2",
+        "p52:s3",
+        "p52:s4",
+        "p52:s5",
+        "p52:s6",
+        "p52:s7",
+        "p52:s8",
+        "p52:s9",
+        "p53:s1",
+        "p53:s2",
+        "p54:s1",
+        "p54:s2",
+        "p54:s3",
+        "p54:s4",
+        "p54:s5",
+        "p54:s6",
+        "p54:s7",
+        "p55:s1",
+        "p55:s2",
+        "p55:s3",
+        "p55:s4"
+      ],
+      "findings": [
+        {
+          "id": "F1",
+          "source_id": "p21:s7",
+          "severity": "minor",
+          "issue": "errathen rendered as infer, strengthening a guessing or divining apprehension into a firmer logical inference and losing the tentative modality.",
+          "proposed_english": "This can happen only through the faculty of articulation that they too possess: through the connection between their thinking and their organs of speech, they learn to divine, in another person, one member of this connection—the person's thinking—from the other, the movement of that person's organs of speech.",
+          "reason": "German errathen lernen denotes learning to guess or divine, not securely infer.",
+          "source_ids": [
+            "p21:s7"
+          ]
+        },
+        {
+          "id": "F2",
+          "source_id": "p40:s6",
+          "severity": "minor",
+          "issue": "Geltung erhalten rendered as become effective, shifting validity or currency in thought toward causal efficacy.",
+          "proposed_english": "For language must necessarily belong to two people (31), and in fact belongs to the whole human race; and since writing also preserves slumbering thought so that the mind can awaken it, language forms an existence of its own, which can admittedly acquire validity only in each particular act of thinking, but which in its totality is independent of that act.",
+          "reason": "German Geltung erhalten means obtain validity or currency; effective suggests producing an effect.",
+          "source_ids": [
+            "p40:s6"
+          ]
+        },
+        {
+          "id": "F3",
+          "source_id": "p43:s3",
+          "severity": "minor",
+          "issue": "Terminology inconsistency for Stamm: rendered tribe here, but stock or stocks for the same descent and population concept in p29:s5, p29:s6 and p37:s6, without a corresponding German change of term.",
+          "proposed_english": "A band branches off from a stock and settles where it either encounters no one as yet or mixes with another stock.",
+          "reason": "The connected argument repeatedly opposes and relates Stamm, Nation and Volk; alternating tribe and stock can imply distinct levels not marked in the German.",
+          "source_ids": [
+            "p43:s3"
+          ]
+        },
+        {
+          "id": "F4",
+          "source_id": "p45:s2",
+          "severity": "moderate",
+          "issue": "unzeitiger Gleichnisse rendered as inopportune analogies, conflating Gleichnis with the work's separate technical term Analogie.",
+          "proposed_english": "What distinguishes this assertion is its treatment of the different languages as coexisting parts—dialects—of a language encompassing them all, rather than as having arisen from one another over time. It makes no claim to novelty, but aims only to cut off untimely comparisons, determine the concepts more firmly, and bring them into closer agreement with the facts.",
+          "reason": "Humboldt uses Analogie itself elsewhere, for example p39:s8 and p48:s10; Gleichnis here is a comparison or simile, and analogy imports that separate concept.",
+          "source_ids": [
+            "p45:s2"
+          ]
+        },
+        {
+          "id": "F5",
+          "source_id": "p52:s8",
+          "severity": "minor",
+          "issue": "Intellectualitaet rendered as intellectual orientation here but as intellectual life in p54:s5, resetting the same abstract technical term within the same discussion of national individuality.",
+          "proposed_english": "For although limits are set to the intellectuality of nations, just as to that of humanity, a certain scope is nevertheless reserved for the individual here too.",
+          "reason": "One consistent rendering should be used for Intellectualitaet in p52:s8 and p54:s5 unless a German distinction is present; none is.",
+          "source_ids": [
+            "p52:s8"
+          ]
+        },
+        {
+          "id": "F6",
+          "source_id": "p54:s5",
+          "severity": "minor",
+          "issue": "Intellectualitaet rendered as intellectual life here but as intellectual orientation in p52:s8, resetting the same abstract technical term within the same discussion of national individuality.",
+          "proposed_english": "But for the principal influences upon language, only two points ever matter: whether national individuality inclines towards intellectuality at all, and from what direction; and whether it inclines specifically towards intellectuality through language.",
+          "reason": "One consistent rendering should be used for Intellectualitaet in p52:s8 and p54:s5 unless a German distinction is present; none is.",
+          "source_ids": [
+            "p54:s5"
+          ]
+        }
+      ],
+      "whole_unit_assessment": "Checked as one connected argument in passages 16-55 against the supplied checked 1906 German as the governing text; the whole-work uncorrected OCR was treated only as background and did not override it. The proposed English generally preserves the argument, scope, modality, qualifications, metaphors, headings and the Klaproth note, with no wholesale omission or addition found; the flagged matters are local lexical and cross-passage terminology shifts. Ambiguous German constructions that admit more than one defensible reading were not counted as demonstrable translation errors. Historical and empirical assertions were assessed only for translation fidelity and are not endorsed here. This is an AI fidelity audit, not specialist human certification.",
+      "source_status_acknowledged": true,
+      "models": [
+        "muse-wonder-full-1.0"
+      ],
+      "auditor": "muse",
+      "coverage_detail": [
+        {
+          "source_id": "heading:i1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p16:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p16:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p16:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p17:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p17:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p17:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p17:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p18:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "heading:A",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "heading:a",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p19:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p19:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p20:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p20:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p20:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p20:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p20:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p20:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p20:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p21:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p21:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p21:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p21:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p21:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p21:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p21:s7",
+          "status": "flagged",
+          "finding_ids": [
+            "F1"
+          ]
+        },
+        {
+          "source_id": "p21:s8",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p21:s9",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p21:s10",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p21:s11",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p22:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p22:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p22:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p22:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p23:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p23:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p24:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p24:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p24:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p25:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p25:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p25:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p25:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p25:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p25:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p25:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p26:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p26:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p26:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p26:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p26:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p27:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p27:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p27:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p27:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p27:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p27:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p27:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p28:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p28:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p28:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p28:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p28:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p28:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p28:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p29:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p29:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p29:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p29:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p29:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p29:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p29:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p29:s8",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p29:s9",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p30:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p30:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p30:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p30:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s8",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s9",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s10",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s11",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s12",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s13",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s14",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s15",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s16",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s17",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s18",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s19",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p31:s20",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p32:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p32:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p32:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p32:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p32:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p33:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p33:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p33:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p33:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p33:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p33:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p33:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p33:s8",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p34:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p34:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p34:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p34:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p34:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p35:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p35:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p35:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p35:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p36:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p36:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p36:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p36:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p36:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p36:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p36:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p36:s8",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p36:s9",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p36:s10",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p36:s11",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p36:s12",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p37:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p37:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p37:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p37:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p37:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p37:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p37:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p37:s8",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p37:s9",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p38:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p38:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p38:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p38:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s8",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s9",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s10",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s11",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s12",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s13",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p39:s14",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p40:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p40:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p40:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p40:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p40:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p40:s6",
+          "status": "flagged",
+          "finding_ids": [
+            "F2"
+          ]
+        },
+        {
+          "source_id": "p40:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p40:s8",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p40:s9",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p40:s10",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p40:s11",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p40:s12",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p40:s13",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p40:s14",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p41:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p41:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p41:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p41:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p41:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p42:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p42:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p42:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p42:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p42:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p43:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p43:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p43:s3",
+          "status": "flagged",
+          "finding_ids": [
+            "F3"
+          ]
+        },
+        {
+          "source_id": "p43:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p43:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p43:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p43:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "note:klaproth",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p44:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p44:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p44:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p44:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p44:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p44:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p44:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p44:s8",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p45:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p45:s2",
+          "status": "flagged",
+          "finding_ids": [
+            "F4"
+          ]
+        },
+        {
+          "source_id": "p45:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p46:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p46:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p46:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p46:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p46:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p46:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p47:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p47:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p47:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p47:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p47:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p47:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p47:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p47:s8",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p47:s9",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p48:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p48:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p48:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p48:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p48:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p48:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p48:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p48:s8",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p48:s9",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p48:s10",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p49:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p49:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p49:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p49:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p49:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p49:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p49:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p49:s8",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p49:s9",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p49:s10",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p49:s11",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s8",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s9",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s10",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s11",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s12",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s13",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s14",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s15",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p50:s16",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p51:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p51:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p51:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p51:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p52:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p52:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p52:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p52:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p52:s5",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p52:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p52:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p52:s8",
+          "status": "flagged",
+          "finding_ids": [
+            "F5"
+          ]
+        },
+        {
+          "source_id": "p52:s9",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p53:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p53:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p54:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p54:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p54:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p54:s4",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p54:s5",
+          "status": "flagged",
+          "finding_ids": [
+            "F6"
+          ]
+        },
+        {
+          "source_id": "p54:s6",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p54:s7",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p55:s1",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p55:s2",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p55:s3",
+          "status": "checked",
+          "finding_ids": []
+        },
+        {
+          "source_id": "p55:s4",
+          "status": "checked",
+          "finding_ids": []
+        }
+      ]
+    }
+  ],
+  "dispositions": [
+    {
+      "auditor": "claude",
+      "finding_id": "F01",
+      "source_ids": [
+        "p16:s1"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: remove its and make the comparison from language to language explicit; powers are not being compared with means or results as different categories."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F02",
+      "source_ids": [
+        "p16:s2"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: now replaces therefore, avoiding an unnecessarily explicit deduction."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F03",
+      "source_ids": [
+        "p16:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: conditioned retains the local bedingt/bestimmt difference."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F04",
+      "source_ids": [
+        "p17:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Partly accepted: combined operation as a whole clarifies Zusammenwirken and avoids the Wechselwirkung rendering interaction. A compulsory invariant noun is not imposed:17 concerns the procedure’s combined operation,30 combined social action upon language."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F05",
+      "source_ids": [
+        "p19:s1"
+      ],
+      "severity": "minor",
+      "resolution": "Not adopted as a universal substitution. The checked uses contrast thinking/feeling in19, but animal sensory responsiveness in23/26/36. Sensation in all uses would impose a narrower bodily concept on the former. The conditional termbase permits feeling/sensation; the guide exposes the overlapping Gefühl/Empfindung renderings."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F06",
+      "source_ids": [
+        "p20:s5"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: restore acts back upon the mind, determining it, making the recurring feedback relation explicit."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F07",
+      "source_ids": [
+        "p20:s7"
+      ],
+      "severity": "moderate",
+      "resolution": "Partly accepted: move the hypothetical condition to the establishment clause and remove the dash enclosure that confined it to articulation. Retain intellectual activity as subject of establishes, while a new local note records articulated sound as the alternative subject. Sound/articulated sound carries the contextual Ton/Laut distinction without inventing an invariant tone/speech-sound lexicon."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F08",
+      "source_ids": [
+        "p21:s2"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: identify the mind as possessor of the operation; operation keeps Wirken visible without a rigid distinction from all activity."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F09",
+      "source_ids": [
+        "p21:s7"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted in substance: learn to guess replaces infer. Guess is ordinary English for errathen here; divine could suggest a supernatural faculty not asserted in the passage."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F10",
+      "source_ids": [
+        "p21:s9"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: repeat something before of which to attach the unknown sensory content correctly."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F11",
+      "source_ids": [
+        "p22:s4"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: organs determined by thought restores the locally important determining relation."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F12",
+      "source_ids": [
+        "p23:s1"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: utterance carries the outward expression in this context and preserves the connection with the later utterance discussion."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F13",
+      "source_ids": [
+        "p25:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Not adopted: mere contemplation accurately denies representation as exclusively receptive contemplation in the following contrast. Pure beholding would be less idiomatic and would not establish a new source distinction. The following synthetic activity remains explicit."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F14",
+      "source_ids": [
+        "p27:s6"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: retain an active joining of ideas to tones in the singing comparison. Only one that qualifies the kind of singing creature; it is not an independent assertion that no other species associates anything with sound."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F15",
+      "source_ids": [
+        "p27:s7"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: restore The far more essential cause, retaining the definite contrast with assistance."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F16",
+      "source_ids": [
+        "p28:s5"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted for clarity: a greater or lesser amount of ringing out devoid of ideas avoids attaching more or less to the absence of ideas. No invariant translation of all Schmettern/geräusch combinations is imposed across different grammatical contexts."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F17",
+      "source_ids": [
+        "p29:s2"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: only the language itself, sounding before the ear restores the contrast with descriptive classification."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F18",
+      "source_ids": [
+        "p29:s5"
+      ],
+      "severity": "moderate",
+      "resolution": "Partly accepted: brings much to a close leaves completion/closing off less narrowly decided. The enlarged scan confirms abschliesst; the local note records both senses and rejects silent substitution of a wear-away verb. The source ambiguity remains unresolved."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F19",
+      "source_ids": [
+        "p29:s8"
+      ],
+      "severity": "minor",
+      "resolution": "Not adopted as an invariant mental/intellectual division. The most geistig use in literature and the great/geistig contrast can naturally be intellectual in English. The source itself also uses intellectuell; the guide records overlap rather than inventing two exclusive faculties. Neither occurrence changes the main claim."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F20",
+      "source_ids": [
+        "p30:s2"
+      ],
+      "severity": "minor",
+      "resolution": "Retained as a disclosed syntactic completion in the apparatus: the source expressly announces twofold and Beides follows. Supplying second creates no third element; square brackets are reserved here for actual printed supplementation, with translator interpretation recorded separately."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F21",
+      "source_ids": [
+        "p30:s4"
+      ],
+      "severity": "minor",
+      "resolution": "Partly accepted with F04: greater and more animated combined social action preserves the combined-action relation and bewegter without suggesting that an impersonal process is a consciously planned cooperation."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F22",
+      "source_ids": [
+        "p31:s5"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: Yet makes nur adversative rather than an intensifier of impossibility."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F23",
+      "source_ids": [
+        "p31:s10"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: rests on address and reply preserves the structural basis instead of turning it into an aim."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F24",
+      "source_ids": [
+        "p31:s11"
+      ],
+      "severity": "moderate",
+      "resolution": "Not adopted as a universal thing/object mapping. Gegenstand in31:s14 includes I/he, so it is not invariably an external physical thing, nor does Object alone establish a separate ontological kind. Retain the local distinction in31:s11 and clarify the external referent in39:s7 (F35); a guide entry explains the contextual choice and overlap."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F25",
+      "source_ids": [
+        "p32:s1"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: restore human beings as beneficiaries and the semicolon, avoiding a new explanatory relation."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F26",
+      "source_ids": [
+        "p33:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted in substance: stimulation of the power in its inward receptivity/outward activity avoids saying that receptivity itself is activated. Different inflections of anregen remain readable in their contexts; there is no demonstrated new mechanism requiring one invariant English verb."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F27",
+      "source_ids": [
+        "p33:s7"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: levels in33 and50 keeps the resumed gradation visible."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F28",
+      "source_ids": [
+        "p33:s8"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: each in turn contained within another removes the misleading mutual nesting."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F29",
+      "source_ids": [
+        "p34:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: just as, indeed restores the confirming comparison instead of asserting a new causal proof."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F30",
+      "source_ids": [
+        "p34:s4"
+      ],
+      "severity": "minor",
+      "resolution": "Partly accepted: keep the inclusive reading and disclose the missing only in the existing local note, without adding brackets indistinguishable from1906 supplements. Do not force Menschengeschlecht and Menschheit into an invariant human-race/humanity opposition; the words can overlap, while the local concept of humanity in47 remains explicit."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F31",
+      "source_ids": [
+        "p36:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: it might be keeps the speculative modality rather than an ordinary indicative possibility."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F32",
+      "source_ids": [
+        "p37:s2"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: restore the mother’s-lap image instead of reducing it to a precise temporal expression from birth. The claim remains about placement among another people, without specifying a measured age."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F33",
+      "source_ids": [
+        "p37:s4"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: power—indeed, the predominant power makes the concession readable."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F34",
+      "source_ids": [
+        "p37:s9"
+      ],
+      "severity": "moderate",
+      "resolution": "Accepted for clarity, with an explicit choice of attachment: they had originally been destined for another language, but this destiny had been accidentally altered. The alternative attachment, a destiny shifted onto another language, remains in the linked decision and reader note; neither is claimed uniquely established."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F35",
+      "source_ids": [
+        "p39:s7"
+      ],
+      "severity": "moderate",
+      "resolution": "Partly accepted: the impression of the external object distinguishes it from the word made an object for the soul. A global things/objects partition would overread the varied Gegenstand uses; see F24 and the new guide."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F36",
+      "source_ids": [
+        "p40:s2"
+      ],
+      "severity": "moderate",
+      "resolution": "Accepted: from speaking there arises language—a stock of words and a system of rules—which grows puts the defining apposition next to language. Arises preserves the reflexive emergence without making language a separate self-creating agent."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F37",
+      "source_ids": [
+        "p40:s10"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: just as much an object preserves the equal-degree opposition to passing wholly into the subject."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F38",
+      "source_ids": [
+        "p42:s1"
+      ],
+      "severity": "minor",
+      "resolution": "Not adopted as an invariant force/might scheme. Kraft and Macht describe the two bearers’ powers here; their relation is explicit in the English. The glossary exposes the German nouns and their contextual overlap rather than introducing an unsupported mechanism or category for each."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F39",
+      "source_ids": [
+        "p42:s4"
+      ],
+      "severity": "minor",
+      "resolution": "Retained, with the ellipsis and generations/languages alternatives explicitly recorded in the existing42:s4 choice. Cases supplies the least restrictive English noun. A printed reader bracket would misleadingly resemble a source supplement."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F40",
+      "source_ids": [
+        "p42:s5"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: in part smaller, in part harder to perceive leaves the distribution open instead of asserting that both always hold together."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F41",
+      "source_ids": [
+        "p43:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: stock replaces tribe in43:s3, avoiding a gratuitous change of group label within the descent/contact argument."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F42",
+      "source_ids": [
+        "p43:s6"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: remove single; the preceding several languages and the contrast with different materials already carry the inference."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F43",
+      "source_ids": [
+        "p43:s7"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: however and visible at a certain point only after formation is complete restore the adversative and temporal restriction. Point/respect remains an unresolved local alternative in the audit record; no general chronological threshold is added."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F44",
+      "source_ids": [
+        "note:klaproth"
+      ],
+      "severity": "minor",
+      "resolution": "Anchor confirmed from the checked print, not just OCR: after Sprachen in43:s5. The reader callout follows descent for languages, title is italicized, and the prelude explains that [43.] is printed supplementation. Mr translates Herr normally; retaining Herr adds no information. The complete note is attributed to Humboldt; Klaproth’s page itself is not newly verified."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F45",
+      "source_ids": [
+        "p44:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: on which they agree preserves the reflexive convergence/agreement relation without turning it into impersonal drift."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F46",
+      "source_ids": [
+        "p45:s2"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted in substance: untimely comparisons avoids confusing Gleichnisse with the recurring Analogie; moreover/no pretension and the by-means clause are restored. A deliberate pun on temporal succession is plausible but not established and is not asserted in a reader note."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F47",
+      "source_ids": [
+        "p47:s5"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: remove the comma that could detach racial differences from the comparison. Preserve the historical terminology and the human-unity assertion without modern endorsement."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F48",
+      "source_ids": [
+        "p48:s9"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: replace must by the conditional if-chain. The source describes how a demonstration can be made, not an additional obligation."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F49",
+      "source_ids": [
+        "p49:s9"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: one more readily intuits avoids the mistaken comparison that foreign-language insight is easier than native-language insight."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F50",
+      "source_ids": [
+        "p50:s4"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: in using a word is intelligible English for the contextual bei dem Wort without restricting it solely to hearing."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F51",
+      "source_ids": [
+        "p50:s7"
+      ],
+      "severity": "minor",
+      "resolution": "Not adopted as a mechanical sensation substitution. The contrast in50 concerns the generality and individual differentiation of experienced content; no demonstrated separate Gefühl/Empfindung theory requires changing feeling to a bodily sensation here. The guide exposes both words and the contextual variation (F05)."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F52",
+      "source_ids": [
+        "p50:s9"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: only and precisely restore the objection’s restrictive formulation."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F53",
+      "source_ids": [
+        "p51:s1"
+      ],
+      "severity": "moderate",
+      "resolution": "Not adopted as a universal three-term mechanism. The source opposition is between human power over language and language’s power over humans, explicitly repeated in51:s2, not proved to be three mutually exclusive faculties by Gewalt/Macht/Kraft alone. Mastery could overstate control where51 limits freedom. Preserve power, identify each bearer, and expose the German terms in the guide."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F54",
+      "source_ids": [
+        "p51:s4"
+      ],
+      "severity": "moderate",
+      "resolution": "Partly accepted: latitude is consistent with52. Retain the reading that bounds our recognition of limits, but add a local note giving the alternative that latitude directly bounds freedom. The German comma frame leaves the scope unresolved; a literal English comma frame would hide rather than explain that uncertainty."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F55",
+      "source_ids": [
+        "p52:s8"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted for consistency: intellectual life in52 and54 retains the same underlying concept; latitude is consistent with51. Intellectuality would be possible but unnecessarily opaque for the intended reader. The guide rules out a modern IQ reading."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F56",
+      "source_ids": [
+        "p54:s5"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted with F55: intellectual life consistently in both52 and54, retaining the question about approach and specifically through language."
+    },
+    {
+      "auditor": "claude",
+      "finding_id": "F57",
+      "source_ids": [
+        "p55:s1"
+      ],
+      "severity": "minor",
+      "resolution": "Retained: natural interconnectedness is plain English for the naturally conditioned nexus and its opposition to national/individual freedom is explicit in this very sentence. Nexus of nature would not settle a source ambiguity and is less accessible; no omission of the opposition was demonstrated."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F1",
+      "source_ids": [
+        "p21:s7"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: learn to guess, also addressing ClaudeF09; it does not imply a deductively secure inference or supernatural divination."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F2",
+      "source_ids": [
+        "p40:s6"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: acquire validity replaces become effective, retaining Geltung rather than causal efficacy."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F3",
+      "source_ids": [
+        "p43:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted: stock replaces tribe, also addressing ClaudeF41 and preserving the same grouping label."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F4",
+      "source_ids": [
+        "p45:s2"
+      ],
+      "severity": "moderate",
+      "resolution": "Accepted: untimely comparisons replaces inopportune analogies; the by-means clause and no-pretension framing are also restored against the German."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F5",
+      "source_ids": [
+        "p52:s8"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted for consistency: intellectual life is used in both52 and54 and explained in the guide; intellectuality is possible but less accessible."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "F6",
+      "source_ids": [
+        "p54:s5"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted with F5: intellectual life remains consistent across the two passages, without a claim about measured intelligence."
+    }
+  ]
+}

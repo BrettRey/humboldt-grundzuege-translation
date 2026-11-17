@@ -1,0 +1,14 @@
+{
+  "label": "codex",
+  "command": [
+    "/Users/brettreynolds/projects/LLM-CLI-projects/tools/codex/bin/codex-readonly",
+    "/var/folders/tq/7kfdnyd52zz82t095tvgbljc0000gp/T/humboldt-nature-language-codex-yameq6qj"
+  ],
+  "prompt_sha256": "9156a2a0f5fa7e34c7d396334546ff29d6ec1e134830859a6db26afe44e03a19",
+  "timeout_seconds": 1800,
+  "started_at": "2026-11-16T23:42:26.262042+00:00",
+  "exit_code": 0,
+  "elapsed_seconds": 397.599,
+  "stdout_bytes": 85917,
+  "stderr_bytes": 474732
+}

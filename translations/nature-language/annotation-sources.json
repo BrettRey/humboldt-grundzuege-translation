@@ -1,0 +1,46 @@
+{
+  "format": "humboldt.annotation-source-checks",
+  "date": "2026-11-16",
+  "sources": [
+    {
+      "id": "sign-language",
+      "url": "https://www.nidcd.nih.gov/health/american-sign-language",
+      "title": "NIDCD, American Sign Language",
+      "locator": "What is ASL?; How does ASL compare with spoken language?; How do most children learn ASL?",
+      "access": "Relevant complete sections read through web tool",
+      "support": "ASL is a complete visual natural language with its own grammar; deaf children can acquire it through exposure. This does not establish the details of Humboldt’s historical teaching examples."
+    },
+    {
+      "id": "light",
+      "url": "https://science.nasa.gov/ems/02_anatomy/",
+      "title": "NASA, Anatomy of an Electromagnetic Wave",
+      "locator": "What are electromagnetic and mechanical waves?; Electromagnetic waves",
+      "access": "Relevant complete sections read through web tool",
+      "support": "Sound requires a material medium; electromagnetic radiation, including light, propagates through a vacuum. The historical reach of Humboldt’s image remains an interpretive question."
+    },
+    {
+      "id": "animal-song",
+      "url": "https://hawaiihumpbackwhale.noaa.gov/science/research/whale-behavior.html",
+      "title": "NOAA Hawaiian Islands Humpback Whale National Marine Sanctuary, Whale Behavior",
+      "locator": "Understanding the function of humpback whale song",
+      "access": "Relevant complete section read through web tool",
+      "support": "Male humpback whales produce complex song. No claim about the precisely established function of those songs is needed."
+    },
+    {
+      "id": "panini",
+      "url": "https://sanskritdocuments.org/doc_z_misc_major_works/aShTAdhyAyI.html?lang=iast",
+      "title": "Ashtadhyayi or Sutrapath of Panini",
+      "locator": "Title and opening of the Sanskrit primary text;1.1 and1.3",
+      "access": "Title, opening rule sequence and editorial subject metadata inspected; no complete Sanskrit-text reading or specialist interpretation claimed.",
+      "support": "A Sanskrit grammatical text attributed to Pāṇini is available. No precise date, rule count or claim about Humboldt’s intended grammatical scope is inferred."
+    },
+    {
+      "id": "development",
+      "url": "https://www.nidcd.nih.gov/health/speech-and-language",
+      "title": "NIDCD, Speech and Language Developmental Milestones",
+      "locator": "How do speech and language develop?; What are the milestones for speech and language development?",
+      "access": "Both relevant complete sections read through web tool",
+      "support": "Development varies between children and depends on exposure; developmental timetables do not warrant a universal narrow age under every circumstance. No diagnosis or clinical advice is offered."
+    }
+  ]
+}

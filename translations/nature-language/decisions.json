@@ -1,0 +1,658 @@
+{
+  "section": "Opening of I.1 and nature of language",
+  "decisions": [
+    {
+      "source_id": "heading:i1",
+      "question": "Printed hierarchy and presentation",
+      "resolution": "Retain the checked Arabic1, not the RomanI introduced by Codex. Darstellung is presentation, as in the earlier heading; do not silently change the level."
+    },
+    {
+      "source_id": "heading:A",
+      "question": "Grundzüge and general type",
+      "resolution": "Use Outlines consistently with the work’s title. Typus concerns the general process pattern, not a morphological language class."
+    },
+    {
+      "source_id": "heading:a",
+      "question": "Scope of the printed heading",
+      "resolution": "Keep language in general, not a claim about a single language."
+    },
+    {
+      "source_id": "p17:s3",
+      "question": "Interaction without added constituent ontology",
+      "resolution": "Full interaction preserves Zusammenwirken without adding the base candidate’s explicit parts where the German does not name them."
+    },
+    {
+      "source_id": "p18:s1",
+      "question": "Provisional organizational deduction",
+      "resolution": "Keep might follow, the chapter-wide material and at least in outline; do not turn the proposal into an established classification."
+    },
+    {
+      "source_id": "p19:s1",
+      "question": "Thought and feeling capacity",
+      "resolution": "Render the coordinated Denk- und Empfindungsvermögen without requiring two separately enumerated faculties."
+    },
+    {
+      "source_id": "p21:s11",
+      "question": "Historical evaluation",
+      "resolution": "Mutilated retains verstümmelt rather than silently softening the author’s judgment. The focused sign-language note supplies the modern qualification."
+    },
+    {
+      "source_id": "p23:s1",
+      "question": "Bodily sensation and expressive feeling",
+      "resolution": "Sensation fits the animal-cry context; feeling remains appropriate in the wider thought/feeling contrast. No single English equivalent is imposed on every Empfindung."
+    },
+    {
+      "source_id": "p25:s2",
+      "question": "Wesen in context",
+      "resolution": "Nature states the character of the thinking process, avoiding a new doctrine introduced by stylistic variation."
+    },
+    {
+      "source_id": "p25:s7",
+      "question": "Testing intelligibility",
+      "resolution": "Keep the experimental testing claim without implying a specific chronological experiment before all self-understanding."
+    },
+    {
+      "source_id": "p27:s6",
+      "question": "Qualification of the singing creature",
+      "resolution": "Retain the active qualification only one that joins ideas to its tones, within the singing comparison, alongside the qualified historical label and richness assertion."
+    },
+    {
+      "source_id": "p28:s5",
+      "question": "Ideenlos is not inattentiveness",
+      "resolution": "Ringing devoid of ideas retains the claimed lack of determinate ideational effect, not an ordinary accusation of careless speech; the following allowance for feeling remains."
+    },
+    {
+      "source_id": "p29:s2",
+      "question": "Audible identity and classification",
+      "resolution": "Retain the distinction between increasingly close classification and a language expressing its own singular identity to the ear."
+    },
+    {
+      "source_id": "p29:s5",
+      "question": "Uncertain printed verb and stock",
+      "resolution": "The enlarged print confirms ab-schliesst. Brings much to a close leaves completion/closing-off less narrowly decided; both remain possible. Do not silently emend to a wear-away verb. Stock preserves the grouping metaphor without adding a modern genetic theory."
+    },
+    {
+      "source_id": "p31:s7",
+      "question": "Representing as an activity",
+      "resolution": "The moving mass is of Vorstellen, not merely a collection of already finished representations."
+    },
+    {
+      "source_id": "p31:s17",
+      "question": "Shared action through influence",
+      "resolution": "Keep the compressed causal/shared-action relation; mutual influence is plausible in context but reciprocal direction is not explicit in this phrase."
+    },
+    {
+      "source_id": "p33:s3",
+      "question": "Common active power in comprehension",
+      "resolution": "Power of language keeps Sprachkraft consistent; understanding activates inward receptivity, not a passive store of meanings."
+    },
+    {
+      "source_id": "p33:s6",
+      "question": "Nested determination and inner life",
+      "resolution": "Keep stock, nation, dialect, established sound signs, use and ultimate individuality as nested or successive determinations; inner life is Gemüth, not a new separate cognitive faculty."
+    },
+    {
+      "source_id": "p35:s3",
+      "question": "Printed supplementation and the kinship genitive",
+      "resolution": "Render the printed [zu] as an ordinary English infinitive, recording the supplementation separately. Retain the difficult kinship of human individuality without inventing an independently evidenced metaphysics."
+    },
+    {
+      "source_id": "p36:s1",
+      "question": "Target of the objection",
+      "resolution": "This opposite view refers to the first account in34, not the favoured unity of nature. Keep understanding as active awakening of the hearer’s power of language."
+    },
+    {
+      "source_id": "p36:s4",
+      "question": "Animal sensation and human linguistic power",
+      "resolution": "The activation contrast is not a denial that even the earliest child may already have linguistic power; preserve the parenthetical qualification."
+    },
+    {
+      "source_id": "p36:s8",
+      "question": "Growth rather than memorized deposits",
+      "resolution": "Capacity for language renders Sprachvermögen; the meting-out/deposit/babbling metaphor remains distinct from growth through age and practice."
+    },
+    {
+      "source_id": "p36:s11",
+      "question": "Direction and strength of the developmental inference",
+      "resolution": "The observations are offered as evidence of development rather than mechanical learning, not as conclusions proved by it. Preserve the universal timing assertion and qualify it in a sourced note."
+    },
+    {
+      "source_id": "p37:s2",
+      "question": "Earliest transfer and continued universal capacity",
+      "resolution": "Restore the mother’s-lap image. The German does not specify a precise measured transfer age; the shared human capacity claim and its contrast with diversification remain."
+    },
+    {
+      "source_id": "p37:s6",
+      "question": "Stock-like disposition",
+      "resolution": "Keep the historical claim concerning disposition without translating it into modern genetic terminology."
+    },
+    {
+      "source_id": "p37:s9",
+      "question": "Predisposition is asserted, not established",
+      "resolution": "Use they had originally been destined for another language, but this destiny had been accidentally altered. This takes zu einer andren Sprache with Bestimmung; attachment to verrückt, meaning shifted onto another language, remains possible and is disclosed. No named individual case is supplied."
+    },
+    {
+      "source_id": "p39:s6",
+      "question": "Weltansicht and standpoint",
+      "resolution": "Keep view of the world recoverable rather than replacing it with an unrelated ideological label. It is a standpoint of subjective apprehension."
+    },
+    {
+      "source_id": "p39:s7",
+      "question": "Three components of the concept",
+      "resolution": "Retain impression, subjective reception and the word as speech sound as three contributions. External object clarifies the Gegenstand’s referent here without establishing a global physical-thing/Object ontology."
+    },
+    {
+      "source_id": "p40:s9",
+      "question": "Both opposed predicates belong to language",
+      "resolution": "Language itself is object/independent and subject/dependent in precisely the same respect; do not reduce Subject to an English adjective subjective."
+    },
+    {
+      "source_id": "p42:s4",
+      "question": "Unexpressed noun in many",
+      "resolution": "Many cases leaves open whether generations or languages supply the ellipsis. Remove merely, which could imply that imperceptibility is the only issue everywhere."
+    },
+    {
+      "source_id": "p43:s5",
+      "question": "Descent, transformation and author note",
+      "resolution": "Retain the warning against a language emerging as a separate complete object. The mother language transforms through successive speakers and mixture. Store the original callout after Sprachen and render the full author note separately, not as a raw asterisk in the body."
+    },
+    {
+      "source_id": "p46:s6",
+      "question": "Distributive language",
+      "resolution": "Their languages makes clear the two stocks relate to two primordial languages; it does not turn the singular German into a claim of one shared language."
+    },
+    {
+      "source_id": "p47:s6",
+      "question": "Appositional sounds",
+      "resolution": "Read als Töne as specifying the means, namely sounds, not an added contrast of language using means as sounds."
+    },
+    {
+      "source_id": "p48:s7",
+      "question": "Author’s methodological self-check",
+      "resolution": "Restore the person who risks exaggeration rather than personifying general reasoning as surrendering itself."
+    },
+    {
+      "source_id": "p49:s1",
+      "question": "Avoid separating individuality and similarity into domains",
+      "resolution": "The rejection covers the allocation of individuality solely to sound and similarity solely to the ideal sphere; do not imply the second allocation is independently endorsed."
+    },
+    {
+      "source_id": "p50:s6",
+      "question": "Not-understanding is within understanding",
+      "resolution": "Retain the parallel formulation; failure to understand might suggest total communicative failure, whereas the following argument treats degrees of divergence."
+    },
+    {
+      "source_id": "p52:s8",
+      "question": "Intellectualitaet without modern IQ",
+      "resolution": "Use intellectual life, as in54, for Intellectualitaet; latitude, as in51, for Spielraum. Neither word entails national IQ or a separate measured mechanism."
+    },
+    {
+      "source_id": "p54:s3",
+      "question": "Dead versus living metaphor",
+      "resolution": "Retain dead language as the contrast with the living mind and in55. Here dead is inherited material abstracted from living acts, not necessarily an extinct language."
+    },
+    {
+      "source_id": "p54:s5",
+      "question": "Orientation towards intellectual life",
+      "resolution": "The pronoun refers to national individuality; preserve both whether/which direction and specifically through language. Intellectual life renders the same German family as52 without introducing measured national intelligence."
+    },
+    {
+      "source_id": "p55:s1",
+      "question": "Retrospective duality and references",
+      "resolution": "Keep act/material and natural interconnectedness/freedom distinctions and all printed numeric cross-references, including the overlap at51; no silent correction."
+    },
+    {
+      "source_id": "p55:s2",
+      "question": "Words and combining into discourse",
+      "resolution": "Make Redeverbindung intelligible in English while retaining its stated matter/form relation, not forcing a modern syntactic category on the whole term."
+    },
+    {
+      "source_id": "p55:s3",
+      "question": "Matter/form is not sounds/rules",
+      "resolution": "Preserve both counterexamples and discourse as purpose; word formation also has rules and connected discourse can employ distinctive sounds."
+    },
+    {
+      "source_id": "p20:s7",
+      "question": "Compressed coordination and hypothetical origin",
+      "resolution": "Take intellectual activity as the subject of establishes; articulated sound is the competing grammatical subject. Put the hypothetical beginning with establishment, but disclose the subject and scope alternatives in a local note. Preserve sound becoming articulated sound without a false invariant Ton/Laut equivalence."
+    },
+    {
+      "source_id": "p22:s2",
+      "question": "Essential nature and preceding logical account",
+      "resolution": "Supply nature from the preceding clause, but retain the author’s claim of dependence on vibration; do not reconcile it with21 by a distinction absent from the text."
+    },
+    {
+      "source_id": "p30:s2",
+      "question": "Two announced aspects",
+      "resolution": "Supply second as English coordination for the twofold announcement; the third higher unity is left unexplained, as in the source."
+    },
+    {
+      "source_id": "p31:s12",
+      "question": "Wesenheit and a hearer",
+      "resolution": "Reality, not substantial reality, retains the word’s objective standing through hearing/reply without silently adding material substance."
+    },
+    {
+      "source_id": "p31:s19",
+      "question": "Pronominal form across languages",
+      "resolution": "Retain Humboldt’s structural universality claim without translating it as phonetic identity or genealogical proof. The pronouns are I/you/he, with you representing singular Du."
+    },
+    {
+      "source_id": "p34:s4",
+      "question": "Inclusive origin parenthesis",
+      "resolution": "Read the uneven nicht … sondern auch inclusively as not just … but also, guided by auch. Disclose the supplied scope; retain the modest inner-conviction framing and the unity-of-nature contrast."
+    },
+    {
+      "source_id": "p38:s3",
+      "question": "Inca identification limit",
+      "resolution": "Keep the source’s unspecified language of the Incas and both family/rank associations; do not equate it with a named modern variety without evidence."
+    },
+    {
+      "source_id": "p44:s3",
+      "question": "Printed pronoun and the overpowered party",
+      "resolution": "Retain [they] for print-supplied [sie]; the singular participle describes the one party overpowered physically then mentally, not the newly convergent language."
+    },
+    {
+      "source_id": "p45:s1",
+      "question": "Unity without one primordial language",
+      "resolution": "The unity is mediated sharing among connected languages; retain the explicit denial that this means one original ancestor."
+    },
+    {
+      "source_id": "p47:s3",
+      "question": "Hypothesis rather than migration fact",
+      "resolution": "Preserve the supposition and its consequence: no similarities due to previously formed language under the stipulated absence of contact; do not turn that supposition into established history."
+    },
+    {
+      "source_id": "p49:s2",
+      "question": "Weltvorstellung differs lexically from Weltansicht",
+      "resolution": "Use representation of the world for the changed term without manufacturing a fully separate theory."
+    },
+    {
+      "source_id": "p49:s5",
+      "question": "Admission about demonstration and repeated because",
+      "resolution": "Retain the inability to demonstrate the whole relation empirically in a particular language, followed by the theoretical and practical reasons; preserve the resumed if-clause readably."
+    },
+    {
+      "source_id": "p50:s16",
+      "question": "Sounds, not silently words",
+      "resolution": "The antecedent Laute is retained even though personal dictionary points to word sounds/spoken forms. Record the breadth rather than changing the source noun to words."
+    },
+    {
+      "source_id": "p51:s2",
+      "question": "Reversed demonstratives and physiological analogy",
+      "resolution": "Assign physiological operation to language’s power over humans, dynamic operation to human power over language. Keep freedom’s pronoun open at the level of language/its operative powers; the note explains the analogy."
+    },
+    {
+      "source_id": "p52:s6",
+      "question": "National aggregate referent",
+      "resolution": "Take in demselben as in national influence rather than in the individual; disclose the alternative because it changes the account of aggregation."
+    },
+    {
+      "source_id": "note:klaproth",
+      "question": "Author footnote and printed page brackets",
+      "resolution": "Translate the complete note, retain the source-supplied [43.] and attribution to Humboldt; no claim that Klaproth’s cited page has been independently checked."
+    },
+    {
+      "source_id": "p16:s2",
+      "question": "General type as the comparison point",
+      "resolution": "The type is the general pattern of the mental process to which individual descriptions must return; it is not a preassigned morphological class. Now avoids adding an explicit therefore inference."
+    }
+  ],
+  "term_associations": [
+    [
+      "p16:s2",
+      "Typus",
+      "lex:typus:s01"
+    ],
+    [
+      "p16:s3",
+      "Begriff",
+      "lex:begriff:s02"
+    ],
+    [
+      "p19:s2",
+      "Geiste",
+      "lex:geist:s01"
+    ],
+    [
+      "p20:s1",
+      "Sprache",
+      "lex:sprache:s01"
+    ],
+    [
+      "p20:s2",
+      "Sinne",
+      "lex:sinn:s02"
+    ],
+    [
+      "p20:s4",
+      "Thätigkeit",
+      "lex:thaetigkeit:s01"
+    ],
+    [
+      "p20:s6",
+      "Vorstellung",
+      "lex:vorstellung:s01"
+    ],
+    [
+      "p20:s7",
+      "Ton",
+      "lex:ton:s01"
+    ],
+    [
+      "p21:s2",
+      "Articulation",
+      "lex:articulation:s01"
+    ],
+    [
+      "p21:s2",
+      "Gewalt",
+      "lex:gewalt:s01"
+    ],
+    [
+      "p21:s2",
+      "Form",
+      "lex:form:s02"
+    ],
+    [
+      "p25:s4",
+      "Vorstellung",
+      "lex:vorstellung:s02"
+    ],
+    [
+      "p28:s5",
+      "Sinn",
+      "lex:sinn:s01"
+    ],
+    [
+      "p29:s1",
+      "Individualitaet",
+      "lex:individualitaet:s01"
+    ],
+    [
+      "p29:s3",
+      "Lautsystem",
+      "lex:laut:s01"
+    ],
+    [
+      "p31:s6",
+      "Begriff",
+      "lex:begriff:s01"
+    ],
+    [
+      "p31:s12",
+      "Wesenheit",
+      "lex:wesenheit:s01"
+    ],
+    [
+      "p33:s3",
+      "Seele",
+      "lex:seele:s01"
+    ],
+    [
+      "p33:s5",
+      "jede Gattung",
+      "lex:gattung:s02"
+    ],
+    [
+      "p33:s6",
+      "Gemüth",
+      "lex:gemueth:s01"
+    ],
+    [
+      "p34:s4",
+      "Tone",
+      "lex:ton:s02"
+    ],
+    [
+      "p34:s5",
+      "Wesens",
+      "lex:wesen:s01"
+    ],
+    [
+      "p36:s8",
+      "Sprachvermögens",
+      "lex:vermoegen:s01"
+    ],
+    [
+      "p36:s10",
+      "Stoffs",
+      "lex:stoff:s02"
+    ],
+    [
+      "p39:s8",
+      "Weltansicht",
+      "lex:weltansicht:s01"
+    ],
+    [
+      "p40:s1",
+      "Rede",
+      "lex:rede:s01"
+    ],
+    [
+      "p40:s2",
+      "Sprache",
+      "lex:sprache:s02"
+    ],
+    [
+      "p42:s1",
+      "Macht",
+      "lex:macht:s01"
+    ],
+    [
+      "p43:s5",
+      "Abstammung",
+      "lex:abstammung:s01"
+    ],
+    [
+      "p45:s1",
+      "Ursprache",
+      "lex:ursprache:s01"
+    ],
+    [
+      "p47:s1",
+      "wirklicher Verkehr",
+      "lex:verkehr:s01"
+    ],
+    [
+      "p50:s1",
+      "wahre Individualität",
+      "lex:individualitaet:s02"
+    ],
+    [
+      "p50:s3",
+      "Sprache",
+      "lex:sprache:s03"
+    ],
+    [
+      "p54:s3",
+      "Geiste",
+      "lex:geist:s02"
+    ],
+    [
+      "p55:s2",
+      "Materie",
+      "lex:materie:s01"
+    ],
+    [
+      "p55:s2",
+      "Form",
+      "lex:form:s03"
+    ]
+  ],
+  "span_correspondences": [
+    [
+      "p16:s2",
+      "allgemeinen Typus",
+      "general type",
+      "Common comparison pattern"
+    ],
+    [
+      "p19:s1",
+      "Denk- und Empfindungsvermögen",
+      "capacity for thought and feeling",
+      "Coordinated capacity"
+    ],
+    [
+      "p20:s7",
+      "aus freiem Entschluss",
+      "by a free decision",
+      "Free production"
+    ],
+    [
+      "p21:s11",
+      "verstümmelten",
+      "mutilated",
+      "Historical evaluation"
+    ],
+    [
+      "p22:s2",
+      "In ihrer wesentlichen",
+      "In its essential nature",
+      "Supplied nature"
+    ],
+    [
+      "p25:s7",
+      "versuchend geprüft",
+      "tried and tested",
+      "Testing intelligibility"
+    ],
+    [
+      "p27:s6",
+      "nur Ideen mit den Tönen verbindend",
+      "only one that joins ideas to its tones",
+      "Qualification of singing creature"
+    ],
+    [
+      "p28:s5",
+      "ideenloses Schmettern",
+      "ringing out devoid of ideas",
+      "Not ordinary inattentiveness"
+    ],
+    [
+      "p29:s5",
+      "viel abschliesst",
+      "brings much to a close",
+      "Uncertain printed verb"
+    ],
+    [
+      "p31:s7",
+      "des Vorstellens",
+      "of the activity of representing",
+      "Process rather than finished products"
+    ],
+    [
+      "p31:s12",
+      "Wesenheit",
+      "reality",
+      "No added material substance"
+    ],
+    [
+      "p31:s17",
+      "durch Einwirkung gemeinsamen Handelns",
+      "action shared through influence",
+      "Compressed shared action"
+    ],
+    [
+      "p34:s4",
+      "nicht der an sich, sondern auch der",
+      "not just its emergence as such, but also its emergence",
+      "Inclusive parenthesis"
+    ],
+    [
+      "p35:s3",
+      "[zu] schöpfen",
+      "to derive",
+      "Printed supplementation"
+    ],
+    [
+      "p36:s8",
+      "Wachsen des Sprachvermögens",
+      "growth of the capacity for language",
+      "Growth of capacity"
+    ],
+    [
+      "p36:s11",
+      "beweist auch",
+      "also demonstrated",
+      "Evidential direction"
+    ],
+    [
+      "p37:s2",
+      "vom Mutterschoosse",
+      "from their mother's lap",
+      "Earliest transfer"
+    ],
+    [
+      "p37:s9",
+      "ursprüngliche Bestimmung",
+      "originally been destined",
+      "Strong disposition claim"
+    ],
+    [
+      "p39:s6",
+      "Weltansicht",
+      "view of the world",
+      "View retained"
+    ],
+    [
+      "p40:s9",
+      "Subject und abhängig",
+      "a subject and dependent",
+      "Language as subject"
+    ],
+    [
+      "p42:s4",
+      "in vielen",
+      "in many cases",
+      "Open ellipsis"
+    ],
+    [
+      "p43:s5",
+      "angebliche Muttersprache",
+      "supposed mother language",
+      "Descent metaphor"
+    ],
+    [
+      "p44:s3",
+      "[sie]",
+      "[they]",
+      "Printed supplied pronoun"
+    ],
+    [
+      "p45:s1",
+      "keinesweges die Einheit einer Ursprache",
+      "by no means signifies the unity of a primordial language",
+      "Unity without one ancestor"
+    ],
+    [
+      "p49:s2",
+      "Weltvorstellung",
+      "representation of the world",
+      "Changed German term"
+    ],
+    [
+      "p50:s16",
+      "sein eignes Wörterbuch",
+      "his own dictionary",
+      "Sound and dictionary scope"
+    ],
+    [
+      "p51:s2",
+      "als ein physiologisches Wirken",
+      "as a physiological operation",
+      "Resolved operation"
+    ],
+    [
+      "p52:s6",
+      "in demselben",
+      "in that influence",
+      "National aggregate referent"
+    ],
+    [
+      "p55:s2",
+      "Redeverbindung",
+      "combining of words into discourse",
+      "Discourse connection"
+    ]
+  ]
+}

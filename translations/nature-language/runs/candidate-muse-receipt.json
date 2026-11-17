@@ -1,0 +1,30 @@
+{
+  "label": "muse",
+  "command": [
+    "muse",
+    "exec",
+    "--preset",
+    "empty",
+    "--disable-web-tools",
+    "--disable-write",
+    "--disable-shell",
+    "--disable-reminders",
+    "--disable-request-user-input",
+    "--no-foreign-personal-context",
+    "--no-session-log",
+    "--max-model-steps",
+    "1",
+    "--approval-mode",
+    "never",
+    "--prompt-file",
+    "/var/folders/tq/7kfdnyd52zz82t095tvgbljc0000gp/T/humboldt-nature-language-muse-br0jcc36/input.md",
+    "--json"
+  ],
+  "prompt_sha256": "9156a2a0f5fa7e34c7d396334546ff29d6ec1e134830859a6db26afe44e03a19",
+  "timeout_seconds": 1800,
+  "started_at": "2026-11-16T23:42:26.262019+00:00",
+  "exit_code": 0,
+  "elapsed_seconds": 779.034,
+  "stdout_bytes": 2432344,
+  "stderr_bytes": 266
+}

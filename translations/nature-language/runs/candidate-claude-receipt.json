@@ -1,0 +1,29 @@
+{
+  "label": "claude",
+  "command": [
+    "claude",
+    "-p",
+    "--model",
+    "claude-fable-5-2",
+    "--safe-mode",
+    "--tools",
+    "",
+    "--permission-mode",
+    "plan",
+    "--permission-prompts",
+    "none",
+    "--strict-mcp-config",
+    "--mcp-config",
+    "{\"mcpServers\":{}}",
+    "--no-session-persistence",
+    "--output-format",
+    "json"
+  ],
+  "prompt_sha256": "9156a2a0f5fa7e34c7d396334546ff29d6ec1e134830859a6db26afe44e03a19",
+  "timeout_seconds": 1800,
+  "started_at": "2026-11-16T23:42:26.261898+00:00",
+  "exit_code": 1,
+  "elapsed_seconds": 1.53,
+  "stdout_bytes": 1396,
+  "stderr_bytes": 0
+}

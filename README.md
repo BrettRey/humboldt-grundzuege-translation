@@ -1,6 +1,8 @@
 # Humboldt: Grundzüge des allgemeinen Sprachtypus
 <!-- SUMMARY: Footnoting policy applied to all existing translations · status: annotated reading reviewed; terminology clarification applied; translation provisional · updated: 2026-11-16 -->
 
+The complete [nature-of-language reading, passages16–55](translations/nature-language/reading.md), now includes the opening of I.1 and the entire next printed division. Three isolated candidates, two fresh audits covering281 blocks, and one source-based revision are preserved with all63 finding dispositions in [the comparison](translations/nature-language/comparison.md). The reader has20 attributed footnotes and twelve terminology entries; English and annotation review is pending. All earlier translations and journal events remain preserved. Stop before56. See [the record](translations/nature-language/record.json) and [verification](translations/nature-language/verification.json) for provenance and limits.
+
 Software is available under [MIT](LICENSE); original translation and editorial content use [CC BY 4.0](LICENSE-CONTENT), with [public-domain and third-party exclusions](NOTICE.md). See [CONTRIBUTING.md](CONTRIBUTING.md) for the current contributor workflow. This is an AI-assisted provisional research translation; its source and validation limits remain explicit below.
 
 The [public repository](https://github.com/BrettRey/humboldt-grundzuege-translation) is live on `main`. [GitHub CI](https://github.com/BrettRey/humboldt-grundzuege-translation/actions/workflows/tests.yml) runs the default checks on Python 3.11 and 3.14.

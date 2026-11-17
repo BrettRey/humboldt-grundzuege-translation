@@ -1,5 +1,5 @@
 # Translation workflow by section
-<!-- SUMMARY: Section-level translation, independent audits, linked records and reader-facing notes · status: current under D021 and D029 · updated: 2026-11-16 -->
+<!-- SUMMARY: Section-level translation, independent audits, linked records and reader-facing notes · status: current under D021, D029 and D033 · updated: 2026-11-16 -->
 
 Brett approved work by the printed sections and waived a separate planning review in D021. The earlier 500–1,000-word proposal is superseded. `AGENTS.md` and the original workflow proposal remain historical artifacts.
 
@@ -18,6 +18,8 @@ The [printed contents](../sources/raw/gs-v-1906.pdf#page=484) supply this workin
 | Sound system | 56–71 |
 | Vocabulary | 72–126 |
 | Combination into discourse, surviving text | 127–149 |
+
+Under D033,16–18 and19–55 form one editorial delivery, with internal blocks16–37 and38–55. The following recommended delivery groups are56–71,72–126 and127–149; the larger two can use internal blocks72–83/84–105/106–126 and127–141/142–149. These are processing aids, not new printed divisions or authorization to begin the next delivery.
 
 The opening-material ranges collect everything between printed headings; they are not invented chapter titles. Do not impose a word cap on the larger topic sections. If a tool needs consecutive output parts, keep the full section context, a common coverage ledger and one editorial deliverable.
 
