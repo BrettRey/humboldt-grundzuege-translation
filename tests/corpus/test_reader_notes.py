@@ -44,9 +44,9 @@ class ReaderNotes(unittest.TestCase):
             elif current is not None and line.strip():
                 blocks[current].append(line)
         self.assertEqual(list(blocks), list(range(1, 16)) + [147])
-        defaults = {int(r['section']): r['target_id'] for r in read('edition/manifest.json')['reading_defaults']}
+        defaults = {r['section']: r['target_id'] for r in read('edition/manifest.json')['reading_defaults']}
         for number, paragraphs in blocks.items():
-            self.assertEqual(' '.join(paragraphs), self.versions[defaults[number]]['body'])
+            self.assertEqual(' '.join(paragraphs), self.versions[defaults[str(number)]]['body'])
             self.assertEqual(len(paragraphs), 2 if number == 7 else 1)
         self.assertEqual(self.record['counts']['source_rendering_blocks'], 107)
         for body in self.record['unchanged_bodies']:

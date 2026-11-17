@@ -1,0 +1,260 @@
+{
+  "format": "humboldt.print-source-checks",
+  "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+  "method": "Coordinator directly inspected each complete target image and following boundary, with enlarged400/402 details. OCR correction is not manuscript collation.",
+  "printed_pages": [
+    400,
+    401,
+    402,
+    403,
+    404,
+    405,
+    406,
+    407,
+    408,
+    409,
+    410
+  ],
+  "pdf_pages": [
+    410,
+    411,
+    412,
+    413,
+    414,
+    415,
+    416,
+    417,
+    418,
+    419,
+    420
+  ],
+  "boundary_printed_page": 411,
+  "boundary_pdf_page": 421,
+  "corrections": [
+    {
+      "printed_page": 403,
+      "operation": "complete_manual_transcription",
+      "reason": "OCR line order/word segmentation unusable; coordinator transcribed complete main text directly from image."
+    },
+    {
+      "printed_page": 400,
+      "old": "Lauts3^stem",
+      "new": "Lautsystem",
+      "count": 1
+    },
+    {
+      "printed_page": 400,
+      "old": "Begriif",
+      "new": "Begriff",
+      "count": 1
+    },
+    {
+      "printed_page": 401,
+      "old": "wo ia jedem",
+      "new": "wo in jedem",
+      "count": 1
+    },
+    {
+      "printed_page": 401,
+      "old": "w^eitem",
+      "new": "weitem",
+      "count": 1
+    },
+    {
+      "printed_page": 401,
+      "old": "Gevv^alt",
+      "new": "Gewalt",
+      "count": 1
+    },
+    {
+      "printed_page": 402,
+      "old": "glücldich",
+      "new": "glücklich",
+      "count": 1
+    },
+    {
+      "printed_page": 402,
+      "old": "der^) Töne",
+      "new": "der Töne",
+      "count": 1
+    },
+    {
+      "printed_page": 404,
+      "old": "Eintiuss",
+      "new": "Einfluss",
+      "count": 1
+    },
+    {
+      "printed_page": 404,
+      "old": "s}stematischen",
+      "new": "systematischen",
+      "count": 1
+    },
+    {
+      "printed_page": 404,
+      "old": "Buchstabenven\\''andlung",
+      "new": "Buchstabenverwandlung",
+      "count": 1
+    },
+    {
+      "printed_page": 404,
+      "old": "S3'stematisirung",
+      "new": "Systematisirung",
+      "count": 1
+    },
+    {
+      "printed_page": 404,
+      "old": "wasden",
+      "new": "was den",
+      "count": 1
+    },
+    {
+      "printed_page": 404,
+      "old": "S3'Stemsucht",
+      "new": "Systemsucht",
+      "count": 1
+    },
+    {
+      "printed_page": 405,
+      "old": "in dem ^)",
+      "new": "in dem",
+      "count": 1
+    },
+    {
+      "printed_page": 406,
+      "old": "i^;önnen",
+      "new": "können",
+      "count": 1
+    },
+    {
+      "printed_page": 406,
+      "old": "kurzes c und o",
+      "new": "kurzes e und o",
+      "count": 1
+    },
+    {
+      "printed_page": 406,
+      "old": "Sylbe ^)",
+      "new": "Sylbe",
+      "count": 1
+    },
+    {
+      "printed_page": 407,
+      "old": "FIuss",
+      "new": "Fluss",
+      "count": 1
+    },
+    {
+      "printed_page": 407,
+      "old": "v/erden",
+      "new": "werden",
+      "count": 1
+    },
+    {
+      "printed_page": 407,
+      "old": "^^ocal",
+      "new": "Vocal",
+      "count": 1
+    },
+    {
+      "printed_page": 408,
+      "old": "Vs^'enn",
+      "new": "Wenn",
+      "count": 1
+    },
+    {
+      "printed_page": 408,
+      "old": "w^ahren",
+      "new": "wahren",
+      "count": 1
+    },
+    {
+      "printed_page": 408,
+      "old": "thümUchen",
+      "new": "thümlichen",
+      "count": 1
+    },
+    {
+      "printed_page": 408,
+      "old": "Gehung",
+      "new": "Geltung",
+      "count": 1
+    },
+    {
+      "printed_page": 409,
+      "old": "70-",
+      "new": "70.",
+      "count": 1
+    },
+    {
+      "printed_page": 410,
+      "old": "x4.11em",
+      "new": "Allem",
+      "count": 1
+    },
+    {
+      "printed_page": 410,
+      "old": "Beai'beitung",
+      "new": "Bearbeitung",
+      "count": 1
+    },
+    {
+      "passage": 62,
+      "old": "Polnische /",
+      "new": "Polnische l"
+    },
+    {
+      "passage": 65,
+      "old": "vdchtiger",
+      "new": "wichtiger"
+    },
+    {
+      "passage": 65,
+      "old": "w^eniger",
+      "new": "weniger"
+    },
+    {
+      "passage": 65,
+      "old": "^^ocale",
+      "new": "Vocale"
+    }
+  ],
+  "paragraphs": "One printed paragraph per numbered or lettered passage;18 in all.",
+  "source_notes": {
+    "humboldt": 7,
+    "editor1906": 3
+  },
+  "details": [
+    {
+      "source_id": "p62:s3",
+      "fragment": "l",
+      "style": "italic",
+      "interpretation": "The print glyph is transcribed as italic l, named gestrichene Polnische l; OCR slash corrected. No silent Unicode ł substitution in the German."
+    },
+    {
+      "source_id": "p65:s4",
+      "fragment": "e und o",
+      "style": "italic e and o",
+      "interpretation": "OCR c corrected to the printed e; historical vowel-length question retained."
+    },
+    {
+      "source_id": "heading:sounds",
+      "fragment": "α.",
+      "style": "Greek alpha marker",
+      "interpretation": "Preserve the Greek subheading, not Latin a."
+    },
+    {
+      "source_id": "p62a",
+      "fragment": "62.a.",
+      "style": "superscript a in marginal label",
+      "interpretation": "Normalized stable display62a; source numbering retained."
+    },
+    {
+      "source_id": "p62b",
+      "fragment": "62.b.",
+      "style": "superscript b in marginal label",
+      "interpretation": "Normalized stable display62b; source numbering retained."
+    }
+  ],
+  "limits": "Local deletion reports are the1906 editor’s statements, not independently checked manuscript facts. No correction of Humboldt’s historical or linguistic assertions is made in the German."
+}

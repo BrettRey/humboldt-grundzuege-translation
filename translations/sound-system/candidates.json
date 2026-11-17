@@ -1,0 +1,1747 @@
+{
+  "section": "Sound system,56–71",
+  "frozen_at": "2026-11-17T03:16:49.438537+00:00",
+  "packet_sha256": "024863920470d5252ba74a6fd72d56ebf637dbf769bfd8bb1cebf240c5b2818d",
+  "prompt_sha256": "6cfed3fbc4089290e350b836012bee838e9f0229df59cd5ff72e3f4734f1c1ab",
+  "independence": "Three isolated models across two model families; no candidate saw another candidate or termbase. Failed Claude quota receipt retained; Astra replaced it.",
+  "candidates": [
+    {
+      "sentences": [
+        {
+          "source_id": "heading:procedure",
+          "english": "b. Language’s procedure in forming discourse."
+        },
+        {
+          "source_id": "heading:sounds",
+          "english": "α. Sound system."
+        },
+        {
+          "source_id": "p56:s1",
+          "english": "The influence of the sound system extends throughout language, and a careful study of all its peculiarities is the foundation of every exact investigation of language."
+        },
+        {
+          "source_id": "p56:s2",
+          "english": "Without a complete knowledge of the treatment of sounds and of the relations and affinities of letters, which are subject to different laws and habits in every language, the explanation of grammatical forms and the exploration of the linguistic system as a whole always remain deficient. (29.)"
+        },
+        {
+          "source_id": "p56:s3",
+          "english": "The intelligibility, force and euphony of discourse depend directly on the sound system, but it also affects the pure and refined intellectuality of language, and in this respect its importance has perhaps not yet been adequately appreciated."
+        },
+        {
+          "source_id": "p56:s4",
+          "english": "Yet this importance becomes immediately apparent when we recall that (21.) the whole concept of language lies in that of articulated sound, and that each language’s way of apprehending this concept is manifested in its alphabet, as the system of its articulated sounds."
+        },
+        {
+          "source_id": "p57:s1",
+          "english": "The first step is to separate the tone from all accompanying noise, thereby reducing it to a true speech sound."
+        },
+        {
+          "source_id": "p57:s2",
+          "english": "It should evoke only the concept from which it springs, and must possess no more body than is required for this."
+        },
+        {
+          "source_id": "p57:s3",
+          "english": "It is precisely with the least body that its distinctive character emerges most sharply."
+        },
+        {
+          "source_id": "p57:s4",
+          "english": "As the mind penetrates the animal sound, the latter becomes articulated; but not in every language (28.) does it wholly and purely lose its original nature: instead, it mingles the tones with clicking, blaring, hissing, rasping or breathing, which we encounter in great crudity in some languages, especially African ones, but also in finer traces in highly developed languages."
+        },
+        {
+          "source_id": "p57:s5",
+          "english": "Dullness of the mind’s impulse towards language and physical roughness of the organs may act together in such cases; but mind and organs refine one another through their mutual influence, and the roughness of the tones is therefore often gradually worn away over time as languages develop."
+        },
+        {
+          "source_id": "p58:s1",
+          "english": "But even genuine speech sounds, purified of accompanying noise, must be distinctly separated from one another, rather than letting one shade audibly into another."
+        },
+        {
+          "source_id": "p58:s2",
+          "english": "Letters do not lie, as it were, distinctly separated in the organs of speech."
+        },
+        {
+          "source_id": "p58:s3",
+          "english": "Rather, we must conceive the movement of these organs that brings a particular kind of sound into being as a continuum, at any point in which a sudden fixing would give the sound a slightly different character, according, for example, to whether the lips open more or less, the tongue strikes more quickly or slowly, more firmly or gently, with a narrower or broader surface, and so forth."
+        },
+        {
+          "source_id": "p58:s4",
+          "english": "Every sound thus has a sphere of its own, within which it occupies a definite point, though by no means the only possible one."
+        },
+        {
+          "source_id": "p58:s5",
+          "english": "The developing habit of the nation assigns it this point; this is how the nation’s particular alphabet arises, and good or ill fortune may preside over its emergence."
+        },
+        {
+          "source_id": "p59:s1",
+          "english": "The influence of a lack of clear separation between tones, however, extends far beyond the mere danger of misunderstanding."
+        },
+        {
+          "source_id": "p59:s2",
+          "english": "Articulated sound is too closely akin to the mind for its correct or faulty formation not to exert a corresponding influence on the mind in turn, for this influence not to manifest itself again in the mind’s reaction, and for an interaction continuing to infinity not to arise in this way: into this interaction the mind always brings its purer nature victoriously, yet even in its ascendancy it is repeatedly checked to some degree by the resistant material."
+        },
+        {
+          "source_id": "p59:s3",
+          "english": "The pure definiteness, felicitous clarity and penetrating sharpness of a nation’s concepts therefore depend very greatly on the clear separation of the fundamental sounds of its alphabet."
+        },
+        {
+          "source_id": "p60:s1",
+          "english": "Even in the use of articulated sounds alone, without any musical or poetic reference, there is an aesthetic feeling that impels one nation to allow each sound its full due and let it ring out fully and brightly, whereas another nation, which lacks this feeling or subordinates it to other considerations, as in English to the power of accent, swallows, merges or obscures many sounds."
+        },
+        {
+          "source_id": "p60:s2",
+          "english": "With regard to concepts, the same may be said of this as of the lack of proper separation."
+        },
+        {
+          "source_id": "p60:s3",
+          "english": "The question then is how the calmly shining clarity thereby lost to concepts is made good in other ways."
+        },
+        {
+          "source_id": "p61:s1",
+          "english": "The use of language produces in the mind a sense for fine distinctions of sound and a pleasure in them, and does so to a greater degree the more correctly a language employs a well-chosen sound system."
+        },
+        {
+          "source_id": "p61:s2",
+          "english": "Since discourse also needs many distinctions in order to express and evoke concepts in all their relations and shades, this sense serves that need most happily."
+        },
+        {
+          "source_id": "p61:s3",
+          "english": "For there now arise an inclination and an ability to mark these differences through changes of individual letters and to recognise them by those changes; in this lies the origin of all inflection, whether we regard it as arising simultaneously with language or later within it."
+        },
+        {
+          "source_id": "p61:s4",
+          "english": "Through inflection, however, a double advantage is gained: the idea is given only just as much body as it requires, and the letter, which is entirely meaningless in itself, avoids every misleading subsidiary concept."
+        },
+        {
+          "source_id": "p61:s5",
+          "english": "There is in language a striving towards the purification of intellectuality that runs through all its functions and continually intensifies."
+        },
+        {
+          "source_id": "p61:s6",
+          "english": "Just as language (57.) separates accompanying noise from the speech sound, so too, in what is thought through language, it removes the representation of any material not made necessary by the thought, and wherever such material seeks to appear as a sign of form, it displaces it with meaningless sound."
+        },
+        {
+          "source_id": "p61:s7",
+          "english": "It is therefore a property of all languages more suitably formed for the mind, when compared with others opposed to them in this respect, to evoke a smaller mass of material in expressing the same idea, and thereby to let the idea emerge more freely and in greater purity."
+        },
+        {
+          "source_id": "p62:s1",
+          "english": "It is a natural and almost necessary consequence of the clear separation of tones that the alphabet thereby gains in range."
+        },
+        {
+          "source_id": "p62:s2",
+          "english": "For tones that the ear could easily confuse in obscure, undeveloped pronunciation now stand distinctly apart."
+        },
+        {
+          "source_id": "p62:s3",
+          "english": "Sometimes, however, differences in the range of the alphabet also arise from nations’ particular peculiarities and habits of sound, through which individual letters, such as the Polish l with a stroke, and even whole classes of letters, such as the Indian cerebrals or linguals, are added to it."
+        },
+        {
+          "source_id": "p62:s4",
+          "english": "The position and movement of the organs of speech, and the fact that individual tones fall within the same or different spheres (58.), mean that letters stand in mutual relations and proportions, and that a more or less complete system of tones can be discovered in the alphabet."
+        },
+        {
+          "source_id": "p62:s5",
+          "english": "Once writing has arisen and grammatical treatment is added, an alphabet can acquire in this respect a more firmly determined and more finely developed system than originally existed in the nation’s linguistic usage; this may have happened to the Sanskrit alphabet, whose pattern has spread across the still living languages of a large part of southern Asia."
+        },
+        {
+          "source_id": "p62:s6",
+          "english": "Yet in its totality such a system always lies in nations’ linguistic dispositions and habits, and the definiteness it admittedly gains through well-chosen written signs acts back upon speaking and becomes the nations’ true possession."
+        },
+        {
+          "source_id": "note:bopp-62",
+          "english": "Humboldt’s note: Bopp’s Systematic Account of the Sanskrit Language, p. 14, no. 20. (Bopp’s Grammar.)"
+        },
+        {
+          "source_id": "note:deleted-near",
+          "english": "1906 editor’s note: After ‘the’, deleted: ‘lying close to one another’."
+        },
+        {
+          "source_id": "p62a:s1",
+          "english": "When several letters are combined into a syllable, new peculiarities of the sound system become apparent, according to whether languages favour the coming together of certain letters, avoid that of others, and exclude a number of syllables."
+        },
+        {
+          "source_id": "p62a:s2",
+          "english": "Besides the range of the alphabet, we must therefore also attend to the range of syllables possible through it."
+        },
+        {
+          "source_id": "p62a:s3",
+          "english": "It is remarkable that precisely the languages of savages, which people are apt to accuse of roughness, exclude many syllables tolerated in highly cultivated languages."
+        },
+        {
+          "source_id": "p62a:s4",
+          "english": "This may arise partly from the more readily excited sensitivity of these peoples’ senses, already noted above, and partly from the fact that the more cultivated language often contracts syllables where the more original language lets each follow separately in succession."
+        },
+        {
+          "source_id": "p62b:s1",
+          "english": "Word formation, too, is subject to rules of the sound system, since in many languages words do not begin or end with certain letters, and their internal structure is also determined by linguistic laws, notably in the transformation of consonants that come together."
+        },
+        {
+          "source_id": "p63:s1",
+          "english": "In these systems lie the grounds and conditions of letter change, which likewise is determined only in part by the more general nature of the organs of speech, but otherwise rests on each people’s particular habits of sound."
+        },
+        {
+          "source_id": "p63:s2",
+          "english": "For although the nature of the letters determines the kind of transformation, how sensitive a people is to this mutual influence of sounds upon one another when they come into contact depends on its ear and organs of speech."
+        },
+        {
+          "source_id": "p63:s3",
+          "english": "The closer the tones stand to one another in a highly systematic alphabet of considerable range, and the more clearly and distinctly their relationship is recognised in such an alphabet, the more the inclination towards letter transformation grows; conversely, this transformation contributes very greatly to finer distinctions of sound and to the systematisation of the alphabet."
+        },
+        {
+          "source_id": "p63:s4",
+          "english": "One might think that the ear of uncultivated nations would fail to hear and would neglect these subtleties of tone; yet it is precisely among them that very frequent letter transformations are found, which may be attributed to two causes: the senses of human beings closer to nature possess a keener sensitivity, and the uncultivated person regards discourse, before the understanding intervenes, as a continuum whose parts are everywhere in contact, whereas the cultivated person uses the tongue, even in continuous discourse, to check the running together of tones in accordance with the pauses of the understanding."
+        },
+        {
+          "source_id": "p63:s5",
+          "english": "But the very frequent chaining together of several words through letter transformation and contraction is probably a true national peculiarity of the Indian peoples, for which no further ground can be given; at least, it is not evident whether other nations too have known it to the same extent."
+        },
+        {
+          "source_id": "p63:s6",
+          "english": "At first sight one is tempted to attribute the manifold rules arising from this in Sanskrit, at least in part, to the grammarians’ passion for systems."
+        },
+        {
+          "source_id": "p63:s7",
+          "english": "But this conjecture disappears when one compares the living Indian languages that have emerged from Sanskrit."
+        },
+        {
+          "source_id": "p63:s8",
+          "english": "Of Telinga, in which this chaining is particularly frequent and difficult to recognise, Carey expressly says that a foreigner who chose to neglect it would not be understood by the native inhabitants at all."
+        },
+        {
+          "source_id": "p63:s9",
+          "english": "In Bengali, by contrast, it is not always strictly observed, making it still clearer how this point depends on the individual habits of the tribes."
+        },
+        {
+          "source_id": "note:thiersch",
+          "english": "Humboldt’s note: Thiersch maintains that the Greeks linked words as Sanskrit does."
+        },
+        {
+          "source_id": "note:carey",
+          "english": "Humboldt’s note: Grammar of the Telinga Language, Preface, p. II."
+        },
+        {
+          "source_id": "note:haughton",
+          "english": "Humboldt’s note: Haugthon’s Rudiments of Bengali Grammar, p. 147, § 377."
+        },
+        {
+          "source_id": "p64:s1",
+          "english": "The most immediate influence of this peculiarity is naturally on euphony."
+        },
+        {
+          "source_id": "p64:s2",
+          "english": "It pleases the ear when the harsh collision of resistant and inharmonious sounds is avoided as far as possible."
+        },
+        {
+          "source_id": "p64:s3",
+          "english": "But the effect also extends to language’s efficacy in the realm of ideas and to the proper articulation of discourse for the understanding, though only when letter change confines itself to merging parts of the same word into a whole, rather than joining entire, mutually independent words in a sequence to form a whole for the ear that cannot subsist as such for the understanding."
+        },
+        {
+          "source_id": "p64:s4",
+          "english": "I can regard the latter habit as useful only in so far as, in poetry, it provides one more means of bringing word divisions into an appropriate relationship with rhythmic divisions."
+        },
+        {
+          "source_id": "p64:s5",
+          "english": "For it produces different, and more often larger, wholes of sound than division into words alone provides."
+        },
+        {
+          "source_id": "p64:s6",
+          "english": "By contrast, it disturbs both the understanding and the ear when a final letter prepares itself through change for the letter following it at a point where the understanding logically, and the ear rhythmically, demands a pause."
+        },
+        {
+          "source_id": "p64:s7",
+          "english": "If, however, this sound transformation confines itself within the boundaries of the word, it becomes a phonetic means of dividing discourse into clearly separated wholes, and impresses upon the understanding, through the senses too, that the element of discourse is the word."
+        },
+        {
+          "source_id": "p64:s8",
+          "english": "The logical articulation of discourse suffers no disturbance, but is occasionally given further prominence, namely whenever such a sound change occurs."
+        },
+        {
+          "source_id": "p64:s9",
+          "english": "Sanskrit, too, acknowledges this principle that word wholes must be characterised by a distinct unity of tone, since it has different rules for the interior of words and for the meeting of two words."
+        },
+        {
+          "source_id": "p64:s10",
+          "english": "But since these rules agree in some respects, and those for several words also apply to the parts of compound words, this means does not make word division manifest with clearly differentiated sensory clarity."
+        },
+        {
+          "source_id": "note:bopp-64",
+          "english": "Humboldt’s note: Strictly speaking, the rules for the interior of words are not quite correctly so called. They apply in full only when the root is stamped into a word, and in the inflections of that word. Already with the Taddhita suffixes, which further reshape the word thus stamped, the rules for the initial and final letters of different words come into operation. Bopp’s Grammar, p. 58, § 85."
+        },
+        {
+          "source_id": "p65:s1",
+          "english": "Temporal measure belongs to syllables."
+        },
+        {
+          "source_id": "p65:s2",
+          "english": "But since vowels determine the syllable and can also form one by themselves, the feeling for the syllable also influences the completeness of the alphabet, in which either all vowel sounds occur clearly separated, each in its length or shortness, or they do not."
+        },
+        {
+          "source_id": "p65:s3",
+          "english": "Written signs alone, however, cannot decide this."
+        },
+        {
+          "source_id": "p65:s4",
+          "english": "Thus in Sanskrit it remains uncertain whether the living language did not also possess a short e and o."
+        },
+        {
+          "source_id": "p65:s5",
+          "english": "Temporal measure lies entirely in the nature of pronunciation and is least amenable to arbitrary determination."
+        },
+        {
+          "source_id": "p65:s6",
+          "english": "Even individual dispositions and habits can exert comparatively little influence on it, since, for example, the coming together of several sounds must necessarily require more time in pronunciation."
+        },
+        {
+          "source_id": "p65:s7",
+          "english": "By contrast, disposition, habit and intention in a language can favour or restrict the overall sway of temporal measure in discourse, and from this arises a difference of the greatest importance for the euphony and rhythmic beauty of discourse and of language generally, including its effect on character."
+        },
+        {
+          "source_id": "p65:s8",
+          "english": "The expression of thoughts is less essentially affected by this rhythmic peculiarity of language."
+        },
+        {
+          "source_id": "p65:s9",
+          "english": "Excessive favouring of temporal measure can never harm the expression of thoughts; undue neglect can do so only in so far as failure to distinguish long and short vowels carefully entails the same disadvantage as obscuring the pure sound of letters in general."
+        },
+        {
+          "source_id": "p65:s10",
+          "english": "By contrast, suppressing the natural sway of temporal measure may well give the expression of thought too one-sided a prominence."
+        },
+        {
+          "source_id": "p65:s11",
+          "english": "For rhythm and accent stand in a relationship that can become hostile to the former wherever proper treatment of language does not bring it into beautiful balance, since the calm sway of temporal measure does not always succeed in asserting its rights alongside the vehemence of discourse or the sharply accentuating understanding."
+        },
+        {
+          "source_id": "p65:s12",
+          "english": "The predominance of aesthetic feeling, which may, however, encounter obstacles in one-sidedness as well as in crudity, is decisive here: it preserves its freedom alongside the force of the connection of thoughts, and assigns even the accent within the word its place in accordance with rhythmic euphony."
+        },
+        {
+          "source_id": "note:deleted-signs",
+          "english": "1906 editor’s note: After ‘which’ in ‘in which’, deleted: ‘with or without signs of their own’."
+        },
+        {
+          "source_id": "p66:s1",
+          "english": "Just as temporal measure belongs for the most part to the peculiar nature of tones, so accent belongs exclusively to the speaker’s intention."
+        },
+        {
+          "source_id": "p66:s2",
+          "english": "It is the means through which language links and separates discourse, which without it would consist merely of fundamental parts strung together, into distinct coordinate and subordinate wholes."
+        },
+        {
+          "source_id": "p66:s3",
+          "english": "For by accentuating one syllable, accent makes the following syllables unaccented, thereby drawing them into the domain of the accented syllable and thus joining them to it."
+        },
+        {
+          "source_id": "p66:s4",
+          "english": "The same happens when syllables preceding the accentuation are strung together in such a way that their lack of accentuation alerts the ear to an accentuation to be expected."
+        },
+        {
+          "source_id": "p66:s5",
+          "english": "Conversely, accent creates different domains of tone and separates syllables by allowing a new accentuation to begin."
+        },
+        {
+          "source_id": "p66:s6",
+          "english": "In this it follows the direction of thought immediately, and serves to make the flow of discourse resemble the flow of thoughts; but it is conditioned by the laws of pronunciation and conforms, though to a greater or lesser degree, to those of euphony."
+        },
+        {
+          "source_id": "p66:s7",
+          "english": "Accent in this sense must not, however, be confused with other changes in the sound of vowels, which may likewise be indicated by accent marks and likewise consist in raising or lowering the voice."
+        },
+        {
+          "source_id": "p66:s8",
+          "english": "These are intended only to make possible, through differences of intonation, a greater number of sounds than their character without intonation can provide."
+        },
+        {
+          "source_id": "p66:s9",
+          "english": "This is the case with Chinese accent marks, since in Chinese there are, properly speaking, as many varieties of each vowel as the vowel can assume intonations."
+        },
+        {
+          "source_id": "p66:s10",
+          "english": "For fundamentally the intonation of the syllable always falls on the vowel alone."
+        },
+        {
+          "source_id": "p66:s11",
+          "english": "Through these intonations, therefore, the range of the alphabet increases."
+        },
+        {
+          "source_id": "note:deleted-word",
+          "english": "1906 editor’s note: After ‘syllable’, deleted: ‘or a word’."
+        },
+        {
+          "source_id": "note:chinese",
+          "english": "Humboldt’s note: In Chinese grammars, intonations are admittedly called modifications of words, or, what there amounts to the same thing, of syllables, which is also much more appropriate in those grammars. Yet strictly speaking they rest only on the vowel ending, and it is therefore more natural, speaking in the manner of other languages, to say that each simple and compound vowel ending can have such and such an intonation, and that words then adopt a vowel ending intoned in one way or another according to differences in their meaning. Viewed in this way, the matter is placed on the same footing as the short and long vowels of other languages."
+        },
+        {
+          "source_id": "p67:s1",
+          "english": "The most important kind of true accent, and the one that belongs most fully to language, is word accent."
+        },
+        {
+          "source_id": "p67:s2",
+          "english": "Discourse accent naturally varies with the character of the discourse and cannot adhere to the parts of language outside their connection in discourse."
+        },
+        {
+          "source_id": "p67:s3",
+          "english": "But its treatment as a whole certainly belongs to the nature of the language."
+        },
+        {
+          "source_id": "p67:s4",
+          "english": "This treatment admittedly lies in the nation’s distinctive way of representing things and feeling, but language can never be separated from this either, and, besides its as it were dead elements, always consists also in the distinctive character of living delivery that lies in the souls of its speakers; only, in dead languages this delivery cannot be discerned at all, or at least only imperfectly."
+        },
+        {
+          "source_id": "p67:s5",
+          "english": "For Sanskrit, all information about accentuation is so far lacking; and although Greek accentuation has been preserved in its signs, many doubts remain about the manner of the living, actual delivery of the accents in conjunction with discourse accent on the one hand and temporal measure on the other."
+        },
+        {
+          "source_id": "p68:s1",
+          "english": "The word comes into being only through accent, which breathes into it the unity of the concept."
+        },
+        {
+          "source_id": "p68:s2",
+          "english": "If a simple word contained two entirely equal accentuations, the unity of the concept would not also be presented to the ear through the senses, and the appropriateness of sound’s accompaniment of thought would be disturbed."
+        },
+        {
+          "source_id": "p68:s3",
+          "english": "This would violate the natural feeling for language too greatly for one to conceive the case as possible."
+        },
+        {
+          "source_id": "p68:s4",
+          "english": "Two accents coming together in one word from two different words will therefore be subordinated one to the other in pronunciation, unless the concepts of the individual words fail to combine into one; for when they do combine, one element necessarily predominates."
+        },
+        {
+          "source_id": "p68:s5",
+          "english": "Since accent, through the fixed place it occupies in the word, helps to complete the word’s individuality, different words can arise from the same sequence of syllables through differences of accentuation, and it should occasion no surprise that this is also found in the languages of entirely uncultivated nations."
+        },
+        {
+          "source_id": "p68:s6",
+          "english": "It is a very common observation that nothing makes a foreigner so unintelligible to the lowest classes of the people as incorrect accentuation."
+        },
+        {
+          "source_id": "p68:s7",
+          "english": "It is precisely the uncultivated person, among nations and social ranks alike, who is accustomed to taking each word, unanalysed, as a whole whose physiognomy, if one may put it so, is recognised by its accent."
+        },
+        {
+          "source_id": "p69:s1",
+          "english": "Although several words are properly joined only through discourse accent, in some cases they are also joined through true linguistic accent, except that the connected parts then do not retain their own accents unchanged, as they do in the former case."
+        },
+        {
+          "source_id": "p69:s2",
+          "english": "It is easy to see that I mean here to recall enclitic words, which, however, exist by no means only in Greek, but, if one attends closely, exist and must exist in all languages."
+        },
+        {
+          "source_id": "p69:s3",
+          "english": "For in all languages there are cases in which words that stand independently enter into such a relation to others that their independent force is wholly absorbed in their attachment to them."
+        },
+        {
+          "source_id": "p69:s4",
+          "english": "With this, their own distinctive accentuation also falls away of itself."
+        },
+        {
+          "source_id": "p69:s5",
+          "english": "In the so sharply accentuated English language, this can be heard with extraordinary force, precisely among the common people too, and in such a way that the entire sound value of the enclitic words is thereby altered."
+        },
+        {
+          "source_id": "p69:s6",
+          "english": "How this can also cause the accent of the word that draws the other to itself to occupy a different position, or to acquire beside it a second accent, though probably not an equally strong one, depends on the rules and habits of individual languages; so too does whether the kind of words that can be attached is to have two sound forms, an orthotonic and an enclitic one."
+        },
+        {
+          "source_id": "p69:s7",
+          "english": "Since Sanskrit added to word accent and discourse accent the exact preservation of temporal measure and the chaining of words through letter change, its sound system, with the already very great range of its alphabet, must have been particularly difficult, but also extraordinarily rich and manifold."
+        },
+        {
+          "source_id": "note:sanskrit-pronouns",
+          "english": "Humboldt’s note: For some cases, the Sanskrit pronouns of the first and second persons do admittedly have, beside the full form, which is less usual, a second, abbreviated form that is used more frequently. But it does not seem that this was used only enclitically."
+        },
+        {
+          "source_id": "p70:s1",
+          "english": "Through discourse accent, the speaker can either mark exactly the weight each word and each sentence has in the meaning of the discourse, or distribute the raisings and lowerings of the voice according to a method independent of that meaning that has become habitual in the language, to which regard for the sense is admittedly not entirely sacrificed, but is nevertheless completely subordinated."
+        },
+        {
+          "source_id": "p70:s2",
+          "english": "This difference appears most clearly in German and French reading and declamation, since the French accuse a German who accentuates their language in speaking as he does his own of singing."
+        },
+        {
+          "source_id": "p70:s3",
+          "english": "Besides these two strongly opposed kinds, however, there are many with less sharply defined nuances, all differing in how strongly they bring out the force of words and syllables for the understanding, since each people probably follows a feeling of its own in this."
+        },
+        {
+          "source_id": "p70:s4",
+          "english": "But precisely because the manner in which the sequence of thoughts appears in living delivery has the most important influence, this point is of the greatest significance for intellectual cultivation, especially that of the common people, who are most confined to living communication."
+        },
+        {
+          "source_id": "p71:s1",
+          "english": "The introduction of alphabetic writing has consequences of the greatest and most visible kind for the development of the sound system."
+        },
+        {
+          "source_id": "p71:s2",
+          "english": "Although it never removes articulated tone from the realm of sound that is forever passing away, and gives it nothing but a sign recalling that sound, these signs and their comparison nevertheless act upon the understanding and the imagination in such a way that speech tones attach themselves more definitely to their assigned points and appear before the soul much more clearly in their character as elements."
+        },
+        {
+          "source_id": "p71:s3",
+          "english": "Through the signs, the pronunciation of one generation passes to that of another; deviations can be recognised in spelling, and speech sounds, with everything belonging to them, can become objects of reflection and scholarly treatment."
+        },
+        {
+          "source_id": "p71:s4",
+          "english": "Alphabetic writing therefore brings with it two great advantages, from which many particular consequences subsequently extend throughout the language: first, all the sound relations of the language are set against one another and ordered more purely and definitely, and are developed more completely and systematically; second, as the understanding separates the fundamental parts of language more exactly and holds them more definitely, the idea of its articulation becomes more vivid within it, and the representation of its structure, rising from the fundamental parts upwards, gains in intuitive clarity and completeness."
+        },
+        {
+          "source_id": "p71:s5",
+          "english": "On the other hand, scholarly work on the signs for sounds can also give rise to an excessively artificial and systematic treatment of them, especially where languages begin to pass from living intercourse among the people into exclusively learned use."
+        }
+      ],
+      "notes": [
+        {
+          "source_id": "p58:s2",
+          "issue": "‘Letters’ retains the historical use of Buchstaben for elements of spoken sound as well as written letters; the distinction is not silently recast in modern terminology.",
+          "alternatives": []
+        },
+        {
+          "source_id": "p63:s4",
+          "issue": "‘Before the understanding intervenes’ interprets vor dem Verstände here as discourse apprehended prior to intellectual division; the wording also permits a presentation-to-the-understanding reading.",
+          "alternatives": [
+            "the uncultivated person regards discourse as presented to the understanding as a continuum whose parts are everywhere in contact"
+          ]
+        },
+        {
+          "source_id": "p65:s2",
+          "issue": "The feminine dieselbe grammatically refers to the syllable, not directly to the neuter Zeitmass; this referent is retained.",
+          "alternatives": []
+        },
+        {
+          "source_id": "p65:s9",
+          "issue": "The first desselben is read as temporal measure and ihm as the expression of thoughts, in keeping with the surrounding argument.",
+          "alternatives": []
+        },
+        {
+          "source_id": "p65:s12",
+          "issue": "‘Its freedom’ is taken to refer to aesthetic feeling; the compressed German construction leaves its grammatical relation somewhat loose.",
+          "alternatives": [
+            "The predominance of aesthetic feeling ... is decisive here, preserving that feeling’s freedom alongside the force of the connection of thoughts"
+          ]
+        },
+        {
+          "source_id": "p66:s3",
+          "issue": "Tonlos is rendered ‘unaccented’ in the stated contrast with the accented syllable, without implying absence of voicing or imposing a modern account of stress and pitch.",
+          "alternatives": [
+            "without accent"
+          ]
+        },
+        {
+          "source_id": "p68:s4",
+          "issue": "‘When they do combine’ makes explicit the referent of alsdann: the combination of the component concepts into one, rather than the intervening exception.",
+          "alternatives": []
+        },
+        {
+          "source_id": "note:haughton",
+          "issue": "The supplied citation spells the name Haugthon; that spelling is retained.",
+          "alternatives": []
+        },
+        {
+          "source_id": "note:sanskrit-pronouns",
+          "issue": "The unusual causal wording weil weniger üblichen is preserved as making lesser frequency explain the full form, rather than silently replacing ‘because’ with ‘although’.",
+          "alternatives": [
+            "beside the form that remains full because it is less usual"
+          ]
+        }
+      ],
+      "source_status_acknowledged": true,
+      "models": [
+        "gpt-6.1-sol"
+      ],
+      "id": "codex"
+    },
+    {
+      "sentences": [
+        {
+          "source_id": "heading:procedure",
+          "english": "b. The procedure of language in the formation of speech."
+        },
+        {
+          "source_id": "heading:sounds",
+          "english": "α. The sound system."
+        },
+        {
+          "source_id": "p56:s1",
+          "english": "The influence of the sound system extends over the whole of language, and a careful study of all its peculiarities is the foundation of every exact investigation of language."
+        },
+        {
+          "source_id": "p56:s2",
+          "english": "Without complete knowledge of the treatment of sounds, of the relations and kinship of the letters, which in every language are subject to other laws and habits, the explanation of grammatical forms and entry into the whole of the language system remain at all times defective. (29.)"
+        },
+        {
+          "source_id": "p56:s3",
+          "english": "Intelligibility, emphasis, and euphony of speech rest immediately on the sound system, but it also acts at the same time on the pure and refined intellectuality of language, and in this respect its importance has hitherto perhaps not been sufficiently appreciated."
+        },
+        {
+          "source_id": "p56:s4",
+          "english": "It becomes evident at once, however, as soon as one recalls that (21.) the whole concept of language lies in that of articulated sound, and that the way in which each language apprehends this concept presents itself in its alphabet, as the system of its articulated sounds."
+        },
+        {
+          "source_id": "p57:s1",
+          "english": "The first thing is the separation of the tone from all accompanying noise, which reduces it to a true speech sound."
+        },
+        {
+          "source_id": "p57:s2",
+          "english": "It is to arouse only the concept from which it springs, and must possess no more body than is required for that."
+        },
+        {
+          "source_id": "p57:s3",
+          "english": "It is precisely with the least that what is characteristic comes out most sharply."
+        },
+        {
+          "source_id": "p57:s4",
+          "english": "As the mind permeates the animal sound, the latter becomes articulated sound, but in not all languages (28.) does it lose its original nature wholly and purely; rather, it mixes into the tones a clicking, blaring, hissing, snarling, or breathing, which is met with in great crudity in some, especially African, languages, but in finer traces also in highly developed ones."
+        },
+        {
+          "source_id": "p57:s5",
+          "english": "Dulness of the mental impulse towards language and physical roughness of the organs may co-operate in such cases, but mind and organs refine themselves through reciprocal action on each other, and the roughness of the tones therefore often wears away gradually, in the course of time, in the further development of languages."
+        },
+        {
+          "source_id": "p58:s1",
+          "english": "But even the real speech sounds, purified of accompanying noise, must be definitely separated from one another; one must not sound over into another."
+        },
+        {
+          "source_id": "p58:s2",
+          "english": "The letters do not lie, as it were, definitely separated in the organs of speech."
+        },
+        {
+          "source_id": "p58:s3",
+          "english": "Rather, one must think of their movement, which gives existence to a definite kind, as a continuum in which at every point, by sudden fixation, the sound would receive a character differing by a little, according as, for example, the lips open more or less, the tongue strikes more quickly or more slowly, more firmly or more softly, with a narrower or broader surface, and so on."
+        },
+        {
+          "source_id": "p58:s4",
+          "english": "Every sound thus has its own sphere, in which it occupies a definite point, but by far not the only possible one."
+        },
+        {
+          "source_id": "p58:s5",
+          "english": "The nation's habit, as it forms itself, assigns this point to it; in this way its particular alphabet arises, and fortune and misfortune can hold sway over this arising."
+        },
+        {
+          "source_id": "p59:s1",
+          "english": "But the influence of a lack of pure separateness of the tones acts far beyond the mere danger of misunderstanding."
+        },
+        {
+          "source_id": "p59:s2",
+          "english": "Articulated sound is too intimately akin, as a sister, to the mind for its correct and faulty formation not always in turn to exert a corresponding influence on the mind, for this influence not in turn also to show itself in the mind's reaction, and for there not in this way to arise a reciprocal action proceeding to infinity, into which the mind indeed always carries its purer nature victoriously, but in this preponderance is always again to some extent impeded by the resistant material."
+        },
+        {
+          "source_id": "p59:s3",
+          "english": "Pure definiteness, happy clarity, and penetrating sharpness of concepts in a nation therefore depend very much on the pure separateness of the fundamental sounds of its alphabet."
+        },
+        {
+          "source_id": "p60:s1",
+          "english": "Even in the use of mere articulated sounds, without any musical or poetic relation, there is an aesthetic feeling by which one nation is driven, granting each sound its full right, to let it sound out fully and brightly, whereas another, which lacks this feeling or subordinates it to other considerations, as in English to the force of the accent, swallows, fuses, or obscures many of them."
+        },
+        {
+          "source_id": "p60:s2",
+          "english": "Of this, with regard to concepts, the same may be said as of the lack of correct separateness."
+        },
+        {
+          "source_id": "p60:s3",
+          "english": "It then depends on how what concepts thereby lose in calmly luminous clarity is replaced in another way."
+        },
+        {
+          "source_id": "p61:s1",
+          "english": "Through the use of language there arises in the mind, and indeed to a greater degree in proportion as any language rightly applies a happily chosen sound system, a sense for fine discrimination of sounds and pleasure in it."
+        },
+        {
+          "source_id": "p61:s2",
+          "english": "Now, since speech also needs many distinctions in order to express and arouse concepts in all their relations and shadings, that sense comes very happily to the aid of this need."
+        },
+        {
+          "source_id": "p61:s3",
+          "english": "For there now proceeds from it an inclination and ability to designate these differences by change of a single letter and to recognize them by it, in which lies the origin of all inflexion, whether one regards it as simultaneous with language or as having arisen later in it."
+        },
+        {
+          "source_id": "p61:s4",
+          "english": "But through it the double advantage is gained of giving the idea only just as much body as it needs, and, through the letter, in itself quite meaningless, of avoiding every misleading subsidiary concept."
+        },
+        {
+          "source_id": "p61:s5",
+          "english": "There lies in language a striving after purification of intellectuality, proceeding through all its functions and ever increasing."
+        },
+        {
+          "source_id": "p61:s6",
+          "english": "Just as it (57.) separates the accompanying noise from the speech sound, so also in what is thought through language it removes the representation of every material not made necessary by the thought, and displaces it, where it wants to appear as a sign of form, by the meaningless sound."
+        },
+        {
+          "source_id": "p61:s7",
+          "english": "It is therefore a property of all languages formed more appropriately for the mind, when one compares them with others opposite to them in this respect, to arouse a smaller mass of material in the expression of the same idea, and thereby to let the latter emerge more freely and in a more purified form."
+        },
+        {
+          "source_id": "p62:s1",
+          "english": "It is a natural and almost necessary consequence of the pure separation of the tones that the alphabet thereby receives greater extent."
+        },
+        {
+          "source_id": "p62:s2",
+          "english": "For the tones which the ear could easily confuse in obscure, undeveloped pronunciation now step definitely apart from one another."
+        },
+        {
+          "source_id": "p62:s3",
+          "english": "Sometimes, however, the difference in the extent of the alphabet also arises from particular sound peculiarities and habits of nations, by which single letters, such as the barred Polish l, and even whole classes of them, such as the Indian cerebrals or linguals, accrue to it."
+        },
+        {
+          "source_id": "p62:s4",
+          "english": "The position and movement of the organs of speech, and the falling of the individual tones into the same or different spheres (58.), cause the letters to stand in reciprocal connections and relations to one another, and allow a more or less complete system of tones to be discovered in the alphabet."
+        },
+        {
+          "source_id": "p62:s5",
+          "english": "After writing has once arisen, and with grammatical treatment added, an alphabet can in this respect receive a more firmly definite and more finely developed system than originally lay in the nation's linguistic usage, and this may have been the case with the Sanskrit alphabet, whose type has spread over the still living languages of a great part of southern Asia."
+        },
+        {
+          "source_id": "p62:s6",
+          "english": "But as a totality such a system always lies in the nations' dispositions and habits for language, and the definiteness which it admittedly gains through happily chosen written characters reacts in turn upon speaking and is transformed into their true property."
+        },
+        {
+          "source_id": "note:bopp-62",
+          "english": "[Humboldt:] Bopp's Lehrgebäude der Sanskrita Sprache [System of the Sanskrit language], p. 14, no. 20. (Bopp's Grammar.)"
+        },
+        {
+          "source_id": "note:deleted-near",
+          "english": "[1906 editor:] After 'der', deleted: 'einander nahe liegenden' ['lying close to one another']."
+        },
+        {
+          "source_id": "p62a:s1",
+          "english": "In the combination of several letters into a syllable, new peculiarities of the sound system show themselves, according as languages favour the meeting of some letters, avoid that of others, and reject a number of syllables."
+        },
+        {
+          "source_id": "p62a:s2",
+          "english": "Apart from the extent of the alphabet, one must therefore also attend to that of the syllables possible through it."
+        },
+        {
+          "source_id": "p62a:s3",
+          "english": "It is remarkable that precisely the languages of savages, which one is wont to accuse of roughness, reject many syllables that are tolerated in highly cultivated languages."
+        },
+        {
+          "source_id": "p62a:s4",
+          "english": "This may stem partly from the more irritable sensibility of the senses of these peoples, already remarked on earlier, and partly from the fact that the more cultivated language often contracts syllables where the more original one lets each follow another separately."
+        },
+        {
+          "source_id": "p62b:s1",
+          "english": "Word-formation also is subject to rules of the sound system, since in many languages words do not begin or end with certain letters, and their internal structure too is determined by laws of language, namely in the transformation of consonants that come together."
+        },
+        {
+          "source_id": "p63:s1",
+          "english": "In these systems lie the grounds and conditions of letter-change, which likewise is given only in part by the more general nature of the organs of speech, but otherwise rests on the particular sound habits of each people."
+        },
+        {
+          "source_id": "p63:s2",
+          "english": "For even if the nature of the letters determines the kind of transformation, it depends on the ear and the organs of speech of each people how sensitive it is to this reciprocal influence of sounds on one another at their contact."
+        },
+        {
+          "source_id": "p63:s3",
+          "english": "The closer the tones stand to one another in a very systematic alphabet of considerable extent, and the more clearly and definitely their relation is recognized in such an alphabet, the more the inclination to letter-transformation grows, just as, conversely, it contributes very much to finer discrimination of sounds and to the systematization of the alphabet."
+        },
+        {
+          "source_id": "p63:s4",
+          "english": "One might believe that the ear of uncultivated nations failed to hear and neglected these refinements of the tones, but one finds precisely among them very frequent letter-transformations, which may be ascribed to the two causes that precisely the senses of human beings standing closer to nature possess a sharper sensibility, and that the uncultivated person regards speech before the understanding as a continuum touching itself everywhere, whereas the cultivated person, even in continuous speech, checks with the tongue the blurring together of the tones in accordance with the pauses of the understanding."
+        },
+        {
+          "source_id": "p63:s5",
+          "english": "But a true national peculiarity of the Indian peoples, for which no further ground can be adduced, is probably the so frequent chaining together of several words by letter-transformation and contraction, of which it is at least not visible whether other nations also have known it to the same degree."
+        },
+        {
+          "source_id": "p63:s6",
+          "english": "At first sight one is tempted to ascribe the manifold rules arising from this in Sanskrit at least in part to the grammarians' mania for system."
+        },
+        {
+          "source_id": "p63:s7",
+          "english": "But this supposition disappears on comparison of the living Indian languages that have descended from Sanskrit."
+        },
+        {
+          "source_id": "p63:s8",
+          "english": "Of Telinga, in which this chaining together is precisely especially frequent and difficult to recognize, Carey says expressly that a foreigner who wished to neglect it would not be understood by the natives at all."
+        },
+        {
+          "source_id": "p63:s9",
+          "english": "In Bengali, on the other hand, it is not always strictly observed, so that one sees from this still more clearly how this point depends on the individual habits of the tribes."
+        },
+        {
+          "source_id": "note:thiersch",
+          "english": "[Humboldt:] Thiersch maintains that the Greeks, like Sanskrit, joined words together."
+        },
+        {
+          "source_id": "note:carey",
+          "english": "[Humboldt:] Grammar of the Telinga language, Preface, p. II."
+        },
+        {
+          "source_id": "note:haughton",
+          "english": "[Humboldt:] Haugthon's Rudiments of Bengali Grammar, p. 147, § 377."
+        },
+        {
+          "source_id": "p64:s1",
+          "english": "Naturally, this peculiarity has its nearest influence on euphony."
+        },
+        {
+          "source_id": "p64:s2",
+          "english": "It flatters the ear when the harsh meeting of resistant and unharmonious sounds is avoided as far as possible."
+        },
+        {
+          "source_id": "p64:s3",
+          "english": "But the effect also extends to the ideal validity of language and the correct articulation of speech before the understanding, though only when letter-change contents itself with fusing parts of the same word into a whole, and does not, by stringing together whole words independent of one another, form before the ear a whole that cannot, as such, subsist before the understanding."
+        },
+        {
+          "source_id": "p64:s4",
+          "english": "The latter habit I can regard as useful only in so far as it affords in poetry one means more of bringing the word-breaks into a fitting relation with the rhythmical breaks."
+        },
+        {
+          "source_id": "p64:s5",
+          "english": "For thereby other, and more often larger, wholes of sound arise than mere division into words affords."
+        },
+        {
+          "source_id": "p64:s6",
+          "english": "On the other hand, it is disturbing for the understanding and the ear when the final letter, by change, prepares itself for the one following it at a place where the understanding logically and the ear rhythmically demand a pause."
+        },
+        {
+          "source_id": "p64:s7",
+          "english": "If, by contrast, this sound-transformation is restricted to the limits of the word, it becomes a phonetic means of dividing speech into purely separated wholes, and impresses also sensibly on the understanding that the element of speech is the word."
+        },
+        {
+          "source_id": "p64:s8",
+          "english": "The logical articulation of speech suffers no disturbance, but on occasion, namely as often as such a sound-change occurs, is even thrown into relief."
+        },
+        {
+          "source_id": "p64:s9",
+          "english": "The Sanskrit language, it is true, does not fail to recognize this principle of the necessity of characterizing word-wholes by a special unity of tone either, since in it other rules hold for the middle of words than for the coming together of two words."
+        },
+        {
+          "source_id": "p64:s10",
+          "english": "But since these rules agree in some respects, and those for several words also hold for the parts of compound words, division into words does not appear by this means in purely separated sensible clarity."
+        },
+        {
+          "source_id": "note:bopp-64",
+          "english": "[Humboldt:] Strictly taken, the rules for the middle of words are not quite correctly so called. They hold completely only in the re-stamping of the root into a word, and in the inflexions from it. Already with the Taddhita suffixes, which further transform the word so stamped, the rules for the initial and final letters of different words come in. Bopp's Grammar, p. 58, § 85."
+        },
+        {
+          "source_id": "p65:s1",
+          "english": "Time-measure belongs to syllables."
+        },
+        {
+          "source_id": "p65:s2",
+          "english": "But since vowels determine the syllable and can also form it by themselves alone, the feeling for it also acts on the completeness of the alphabet, in that either all vowel sounds, each in its length or shortness, occur purely separated, or they do not."
+        },
+        {
+          "source_id": "p65:s3",
+          "english": "Yet the written signs cannot alone decide on this."
+        },
+        {
+          "source_id": "p65:s4",
+          "english": "Thus in Sanskrit it always remains doubtful whether the living language did not also possess a short e and o."
+        },
+        {
+          "source_id": "p65:s5",
+          "english": "Time-measure lies wholly in the nature of pronunciation, and withdraws itself most of all from arbitrary determination."
+        },
+        {
+          "source_id": "p65:s6",
+          "english": "Even individual dispositions and habits can exert only a lesser influence on it, since, for example, the coming together of several sounds must necessarily require more time in pronunciation."
+        },
+        {
+          "source_id": "p65:s7",
+          "english": "On the other hand, disposition, habit, and intention in a language can favour or restrict the whole validity of time-measure in speech, and from this there arises, for euphony and the rhythmical beauty of speech and of language in general, also in their effect on character, a most important difference."
+        },
+        {
+          "source_id": "p65:s8",
+          "english": "The expression of thoughts is less essentially affected by this rhythmical peculiarity of language."
+        },
+        {
+          "source_id": "p65:s9",
+          "english": "Too great favouring of it can never become detrimental to it; unjust neglect only in so far as the failure carefully to separate the long and short vowels brings with it the same disadvantage as the obscuring of the pure sound of the letters in general."
+        },
+        {
+          "source_id": "p65:s10",
+          "english": "On the other hand, suppression of the natural validity of time-measure may well throw the expression of thought into relief in too one-sided a way."
+        },
+        {
+          "source_id": "p65:s11",
+          "english": "For rhythm and accent stand in a relation to one another which, where correct treatment of language does not balance it into beautiful proportion, can become hostile to rhythm, in that the calm prevalence of time-measure does not always succeed in maintaining its right beside the vehemence of speech or the sharply accentuating understanding."
+        },
+        {
+          "source_id": "p65:s12",
+          "english": "The predominance of aesthetic feeling, which can however find obstacles in one-sidedness as well as in crudity, is decisive here; it preserves its freedom beside the emphasis of the combination of thoughts, and assigns to accent, even in the word, its place fitting for rhythmical euphony."
+        },
+        {
+          "source_id": "note:deleted-signs",
+          "english": "[1906 editor:] After 'dem', deleted: 'mit oder ohne eigene Zeichen' ['with or without signs of their own']."
+        },
+        {
+          "source_id": "p66:s1",
+          "english": "Just as time-measure belongs for the most part to the peculiar nature of the tones, so accent belongs exclusively to the speaker's intention."
+        },
+        {
+          "source_id": "p66:s2",
+          "english": "It is the means by which language connects and separates speech, which without it would consist of fundamental parts merely strung together, into different co-ordinate and subordinate wholes."
+        },
+        {
+          "source_id": "p66:s3",
+          "english": "For by accentuating a syllable, accent makes the following syllables toneless, thus draws them into the domain of the accentuated one, and consequently connects them with it."
+        },
+        {
+          "source_id": "p66:s4",
+          "english": "The same happens when one strings together syllables preceding the accentuation in such a way that the ear, through the accentuation they lack, is made attentive to one to be expected."
+        },
+        {
+          "source_id": "p66:s5",
+          "english": "On the other hand, accent creates different tone-domains and separates the syllables by letting a new accentuation begin."
+        },
+        {
+          "source_id": "p66:s6",
+          "english": "In this it follows immediately the direction of thought and serves to make the flow of speech like the flow of thoughts, but it is conditioned by the laws of pronunciation and submits, though more or less, to those of euphony."
+        },
+        {
+          "source_id": "p66:s7",
+          "english": "But accent in this sense must not be confused with other sound-changes of the vowels, which may indeed also be indicated by accent signs and also consist in raising or lowering of the voice."
+        },
+        {
+          "source_id": "p66:s8",
+          "english": "These are intended only to make possible, through difference of intonation, a greater number of sounds than the character of those sounds, free of intonation, can yield."
+        },
+        {
+          "source_id": "p66:s9",
+          "english": "This is the case with the Chinese accent signs, since in Chinese there are properly as many varieties of each vowel as the vowel can assume intonations."
+        },
+        {
+          "source_id": "p66:s10",
+          "english": "For fundamentally the intonation of the syllable always falls only on the vowel after all."
+        },
+        {
+          "source_id": "p66:s11",
+          "english": "Through these intonations, consequently, the extent of the alphabet increases."
+        },
+        {
+          "source_id": "note:deleted-word",
+          "english": "[1906 editor:] After 'Sylbe' ['syllable'], deleted: 'oder ein Wort' ['or a word']."
+        },
+        {
+          "source_id": "note:chinese",
+          "english": "[Humboldt:] In Chinese grammars the intonations are indeed called modifications of the words, or, what there amounts to the same thing, of the syllables, which in them is also much more expedient. But properly they rest only on the vowel ending, and hence, to speak after the manner of other languages, it is more natural to say that every simple and compound vowel ending can have this or that intonation, and that the words then, according to the difference of their meaning, assume the vowel ending intoned in one way or the other. In this way the matter puts itself on a level with the short and long vowels of other languages."
+        },
+        {
+          "source_id": "p67:s1",
+          "english": "The most important kind of true accent, and the one that belongs most to language, is word-accent."
+        },
+        {
+          "source_id": "p67:s2",
+          "english": "Speech-accent naturally changes according to the character of the speech and cannot adhere to the parts of unconnected language."
+        },
+        {
+          "source_id": "p67:s3",
+          "english": "But its treatment as a whole does belong to the nature of language."
+        },
+        {
+          "source_id": "p67:s4",
+          "english": "It lies, indeed, in the nation's peculiar manner of representation and feeling, but language can also never be separated from this, and, apart from the as it were dead elements, always consists at the same time of the peculiarity of living delivery lying in the soul of the speakers, except that in dead languages this cannot be recognized at all, or at least only imperfectly."
+        },
+        {
+          "source_id": "p67:s5",
+          "english": "In the Sanskrit language all information about accentuation is so far lacking, and even if that of Greek has been preserved in its signs, many doubts still remain about the manner of the living, actual delivery of the accents in combination on the one hand with speech-accent, on the other with time-measure."
+        },
+        {
+          "source_id": "p68:s1",
+          "english": "The word arises only through accent, which breathes the unity of the concept into it."
+        },
+        {
+          "source_id": "p68:s2",
+          "english": "If two quite equal accentuations were found in a simple word, the unity of the concept would not also present itself sensibly before the ear, and the appropriateness of the accompaniment of thought by sound would be disturbed."
+        },
+        {
+          "source_id": "p68:s3",
+          "english": "The natural feeling for language would be too much violated by this for one to be able to think the case possible."
+        },
+        {
+          "source_id": "p68:s4",
+          "english": "Two accents coming together in one word from two different words will therefore in pronunciation subordinate themselves, one to the other, unless the concepts of the individual words are not to combine into one; for then one element necessarily prevails."
+        },
+        {
+          "source_id": "p68:s5",
+          "english": "Since accent, through the fixed place it occupies in the word, helps to complete the word's individuality, different words can arise from the same sequence of syllables through difference of accentuation, and it must not cause surprise that this is also met with in languages of quite uncultivated nations."
+        },
+        {
+          "source_id": "p68:s6",
+          "english": "It is a very common observation that nothing makes the foreigner so unintelligible among the commonest classes of the people as incorrect accentuation."
+        },
+        {
+          "source_id": "p68:s7",
+          "english": "Precisely the uneducated person, in nations and in social estates, is accustomed to take each word unanalysed as a whole whose physiognomy, if one may so say, he recognizes by the accent."
+        },
+        {
+          "source_id": "p69:s1",
+          "english": "Although several words are properly connected only by speech-accent, in some cases this does also happen through true language-accent, except that then the connected parts do not, as in the former case, retain unchanged the accents peculiar to them."
+        },
+        {
+          "source_id": "p69:s2",
+          "english": "One sees easily that I wish here to recall enclitic words, which however exist very far from only in Greek; rather, if one attends closely to it, they exist and must exist in all languages."
+        },
+        {
+          "source_id": "p69:s3",
+          "english": "For in all of them the case occurs that words existing by themselves enter into such a position in relation to others that their independent validity is wholly absorbed in their attaching themselves to these."
+        },
+        {
+          "source_id": "p69:s4",
+          "english": "But with that their peculiar accentuation also falls away of itself."
+        },
+        {
+          "source_id": "p69:s5",
+          "english": "In English, accentuated so sharply, one hears this extremely strongly, and precisely also among the common people, and in such a way that the whole sound-validity of the enclitic words is thereby changed."
+        },
+        {
+          "source_id": "p69:s6",
+          "english": "How the accent of the word that pulls the other to itself can thereby also receive another place, or beside itself a second, though probably not equally strong, accent, rests on rules and habits of individual languages, as does also whether there are to be, for the class of words that can be attached, double sound-forms, an orthotonic and an enclitic one."
+        },
+        {
+          "source_id": "p69:s7",
+          "english": "Since in the Sanskrit language, in addition to word-accent and speech-accent, there were also exact preservation of time-measure and word-chaining through letter-change, its sound system, with the otherwise so great extent of the alphabet, must have been especially difficult but also extremely rich and manifold."
+        },
+        {
+          "source_id": "note:sanskrit-pronouns",
+          "english": "[Humboldt:] The Sanskrit pronouns of the 1st and 2nd person do indeed have for some cases, beside the fuller form, because it is less usual, a second, more frequently used, shortened one. But it does not seem that the latter was used merely enclitically."
+        },
+        {
+          "source_id": "p70:s1",
+          "english": "Through speech-accent the speaker can either designate exactly the weight which each word and each sentence is to have in the meaning of the speech, or distribute the risings and fallings of the voice according to a method, independent of that, that has become habitual in the language, to which regard for sense is indeed not wholly sacrificed but yet completely subordinated."
+        },
+        {
+          "source_id": "p70:s2",
+          "english": "This difference shows itself most clearly in German and French reading and declaiming, since the French accuse a German who accentuates their language in speaking as he does his own of singing."
+        },
+        {
+          "source_id": "p70:s3",
+          "english": "Besides these two very opposite kinds, however, there are many less definitely nuanced ones, all of which are distinguished by the more or less strong bringing out of the validity of words and syllables for the understanding, since probably every people follows its own feeling in this."
+        },
+        {
+          "source_id": "p70:s4",
+          "english": "But precisely because it is of the most important influence in what way the sequence of thoughts appears in living delivery, this point is of the greatest moment for intellectual cultivation, especially of the people most restricted to living communication."
+        },
+        {
+          "source_id": "p71:s1",
+          "english": "Of the greatest and most visible consequences for the development of the sound system is the introduction of alphabetic writing."
+        },
+        {
+          "source_id": "p71:s2",
+          "english": "Although articulated tone is never thereby withdrawn from the domain of ever-passing sound, and receives nothing but a sign recalling this sound, these signs and their comparison nevertheless act on the understanding and the imagination in such a way that the tones of language attach themselves more definitely to the points assigned to them, and step before the soul much more clearly in their elementary character."
+        },
+        {
+          "source_id": "p71:s3",
+          "english": "By means of the signs, the pronunciation of one generation passes over to that of another, deviations can be recognized in the spelling, and speech sounds, with all that belongs to them, can become an object of contemplation and of scientific treatment."
+        },
+        {
+          "source_id": "p71:s4",
+          "english": "Alphabetic writing therefore brings with it the two great advantages from which afterwards many individual consequences extend through the whole language: first, that all sound relations of language place and arrange themselves more purely and definitely in relation to one another and are developed more completely and systematically; then, that, as the understanding separates the fundamental parts of language more exactly and holds them more definitely fast, the idea of their articulation becomes more living in it, and the representation of their structure, ascending from the fundamental parts, gains in intuitive vividness and completeness."
+        },
+        {
+          "source_id": "p71:s5",
+          "english": "On the other hand, through scientific working on the sound designations, an excessively artificial and systematic treatment of them can also arise, especially where languages begin to pass from living intercourse among the people into merely learned use."
+        }
+      ],
+      "notes": [
+        {
+          "source_id": "p56:s2",
+          "issue": "Buchstabe is rendered 'letter' throughout, preserving the author's historical use for an elementary speech sound and its written sign; it is not modernized to 'phoneme' or 'speech sound' where the German has Buchstabe.",
+          "alternatives": [
+            "elementary sound",
+            "speech sound",
+            "letter/sound"
+          ]
+        },
+        {
+          "source_id": "p57:s1",
+          "issue": "Ton and Laut are distinguished as 'tone' and 'sound' where the German distinguishes them, although the author sometimes uses them closely; Sprachlaut is 'speech sound'.",
+          "alternatives": [
+            "sound for both Ton and Laut",
+            "tone/sound undifferentiated"
+          ]
+        },
+        {
+          "source_id": "p57:s4",
+          "issue": "Geist is rendered 'mind'; the German also carries the sense of spirit. Seele, by contrast, is rendered 'soul'.",
+          "alternatives": [
+            "spirit",
+            "intellect"
+          ]
+        },
+        {
+          "source_id": "p57:s4",
+          "issue": "Schnalzen, Schmettern, Zischen, Schnarren, Hauchen are the author's impressionistic labels for accompanying noises, not modern phonetic categories.",
+          "alternatives": [
+            "clicking/sucking, blaring, hissing, rasping, aspiration"
+          ]
+        },
+        {
+          "source_id": "p59:s2",
+          "issue": "verschwistert is a sister metaphor: sound is intimately kindred to the mind; Stoff is rendered 'material'.",
+          "alternatives": [
+            "closely bound up as a sibling",
+            "stuff",
+            "matter"
+          ]
+        },
+        {
+          "source_id": "p62:s3",
+          "issue": "Cerebralen oder Lingualen is the author's period terminology for the Indian retroflex series; it is not replaced by the modern term.",
+          "alternatives": [
+            "retroflexes"
+          ]
+        },
+        {
+          "source_id": "p62a:s3",
+          "issue": "Wilden and related period terms (uncultivated, natives, tribes) are translated as the author's classifications, not as present-day descriptions.",
+          "alternatives": [
+            "savages [period term]",
+            "peoples so designated in the source"
+          ]
+        },
+        {
+          "source_id": "p63:s1",
+          "issue": "Veränderung is rendered 'change' and Verwandlung 'transformation' to preserve the author's alternation between Buchstabenveränderung, Buchstabenverwandlung, Lautveränderung, and Lautverwandlung.",
+          "alternatives": [
+            "alteration for both",
+            "mutation"
+          ]
+        },
+        {
+          "source_id": "p64:s3",
+          "issue": "Geltung is generally 'validity', but in compounds such as Lautgeltung its sense approaches the effective value or force of a sound; the translation uses 'sound-validity' there rather than forcing a modern notion of phonetic value.",
+          "alternatives": [
+            "value",
+            "force",
+            "standing",
+            "currency"
+          ]
+        },
+        {
+          "source_id": "p65:s1",
+          "issue": "Zeitmaß is rendered literally as 'time-measure', covering the author's discussion of syllable length/shortness, rhythm, and accent; it is not narrowed to modern 'quantity' or 'duration'.",
+          "alternatives": [
+            "quantity",
+            "temporal measure",
+            "duration"
+          ]
+        },
+        {
+          "source_id": "p65:s2",
+          "issue": "The pronoun in 'das Gefühl für dieselbe' can refer grammatically to 'Sylbe'; in sense the feeling for time-measure/syllabic quantity is also in play. English 'it' preserves that ambiguity.",
+          "alternatives": [
+            "feeling for the syllable",
+            "feeling for time-measure"
+          ]
+        },
+        {
+          "source_id": "p66:s3",
+          "issue": "tonlos is translated 'toneless', not modern 'unstressed', because the author defines accent in terms of having or lacking tone/accentuation; Betonung is 'accentuation'.",
+          "alternatives": [
+            "unaccentuated",
+            "unstressed"
+          ]
+        },
+        {
+          "source_id": "p66:s8",
+          "issue": "Intonation is the author's term for the raising/lowering modifications exemplified by Chinese; it is not rendered as modern lexical 'tone', which would modernize his account.",
+          "alternatives": [
+            "tone (in the modern sense)",
+            "tonal modification"
+          ]
+        },
+        {
+          "source_id": "p68:s4",
+          "issue": "The compressed 'oder ... müssten sich denn nicht' and the following 'alsdann' leave the precise conditional articulation compressed; the translation keeps the alternatives close to the German rather than resolving them into a smoother rule.",
+          "alternatives": [
+            "unless the concepts are not meant to combine into one",
+            "otherwise the concepts would not combine into one"
+          ]
+        },
+        {
+          "source_id": "note:haughton",
+          "issue": "The checked source spells the name 'Haugthon'; that spelling is preserved in the translation.",
+          "alternatives": [
+            "Haughton"
+          ]
+        },
+        {
+          "source_id": "p70:s4",
+          "issue": "Bildung and gebildet range between cultivation, education, and formation; 'cultivation/cultivated' and 'uneducated' are chosen according to whether nations/languages or individuals are in view.",
+          "alternatives": [
+            "education",
+            "formation",
+            "development"
+          ]
+        },
+        {
+          "source_id": "p71:s1",
+          "issue": "Buchstabenschrift is 'alphabetic writing', literally letter-writing; wissenschaftlich is rendered 'scientific' in its older broad sense including scholarly treatment.",
+          "alternatives": [
+            "letter script",
+            "scholarly"
+          ]
+        }
+      ],
+      "source_status_acknowledged": true,
+      "models": [
+        "muse-wonder-full-1.0"
+      ],
+      "id": "muse"
+    },
+    {
+      "sentences": [
+        {
+          "source_id": "heading:procedure",
+          "english": "b. The procedure of language in forming speech."
+        },
+        {
+          "source_id": "heading:sounds",
+          "english": "α. Sound system."
+        },
+        {
+          "source_id": "p56:s1",
+          "english": "The influence of the sound system extends throughout language, and a careful study of all its peculiarities is the foundation of every precise investigation of language."
+        },
+        {
+          "source_id": "p56:s2",
+          "english": "Without complete knowledge of the treatment of sounds and of the relations and affinities of the letters, which in each language are subject to different laws and habits, the explanation of grammatical forms and the investigation of the language system as a whole always remain deficient. (29.)"
+        },
+        {
+          "source_id": "p56:s3",
+          "english": "The intelligibility, emphasis and euphony of speech rest directly on the sound system, but it also affects the pure and refined intellectual character of language; in this respect, its importance has perhaps not yet been sufficiently appreciated."
+        },
+        {
+          "source_id": "p56:s4",
+          "english": "Yet this importance becomes evident as soon as one recalls that (21.) the whole concept of language lies in that of articulated sound, and that the way each language grasps this concept is expressed in its alphabet, as the system of its articulated sounds."
+        },
+        {
+          "source_id": "p57:s1",
+          "english": "The first step is to separate sound from all accompanying noise, thereby reducing it to a true speech sound."
+        },
+        {
+          "source_id": "p57:s2",
+          "english": "It should evoke only the concept from which it springs, and must possess no more body than is required for that purpose."
+        },
+        {
+          "source_id": "p57:s3",
+          "english": "It is precisely with the least body that its distinctive character emerges most sharply."
+        },
+        {
+          "source_id": "p57:s4",
+          "english": "As the mind penetrates animal sound, the latter becomes articulated; yet it does not in every language (28.) wholly and cleanly shed its original nature, but mixes clicking, blaring, hissing, rasping or breathing into the sounds. This is found in great crudity in some languages, particularly African ones, but in finer traces even in highly developed languages."
+        },
+        {
+          "source_id": "p57:s5",
+          "english": "Dullness of the mental impulse towards language and physical roughness of the organs may work together in such cases; but mind and organs refine themselves through their reciprocal influence, and the roughness of the sounds is therefore often gradually worn smooth as languages develop over time."
+        },
+        {
+          "source_id": "p58:s1",
+          "english": "But even actual speech sounds, purified of accompanying noise, must be distinctly separated from one another, without one running into another."
+        },
+        {
+          "source_id": "p58:s2",
+          "english": "The letters do not lie, as it were, distinctly separated in the speech organs."
+        },
+        {
+          "source_id": "p58:s3",
+          "english": "Rather, we must conceive of the movement of those organs that brings a particular kind of sound into being as a continuum: at any point in it, suddenly fixing the movement would give the sound a slightly different character, depending, for example, on whether the lips open more or less, the tongue strikes more quickly or slowly, more firmly or lightly, with a narrower or broader surface, and so forth."
+        },
+        {
+          "source_id": "p58:s4",
+          "english": "Each sound thus has a sphere of its own, within which it occupies a definite point, but by no means the only possible one."
+        },
+        {
+          "source_id": "p58:s5",
+          "english": "The habit taking shape within the nation assigns this point to it; this is how the nation’s particular alphabet comes into being, and good or ill fortune may preside over its emergence."
+        },
+        {
+          "source_id": "p59:s1",
+          "english": "The influence of a lack of clean separation between sounds, however, extends far beyond the mere danger of misunderstanding."
+        },
+        {
+          "source_id": "p59:s2",
+          "english": "Articulated sound is too closely akin to the mind for its correct or faulty formation not to exert a corresponding influence on it time and again. This influence must in turn show itself in the mind’s reaction, giving rise to an interaction that continues to infinity: the mind always brings its purer nature into it victoriously, yet its ascendancy is repeatedly checked to some extent by the resisting matter."
+        },
+        {
+          "source_id": "p59:s3",
+          "english": "The pure definiteness, felicitous clarity and penetrating sharpness of a nation’s concepts thus depend very greatly on the clean separation of the basic sounds of its alphabet."
+        },
+        {
+          "source_id": "p60:s1",
+          "english": "Even in the use of articulated sounds alone, without any musical or poetic connection, there is an aesthetic feeling that impels one nation to let each sound ring out fully and brightly, giving it its full due, while another nation, lacking this feeling or subordinating it to other considerations, such as the force of accent in English, swallows, fuses or obscures many sounds."
+        },
+        {
+          "source_id": "p60:s2",
+          "english": "With regard to concepts, the same can be said of this as of the lack of proper separation."
+        },
+        {
+          "source_id": "p60:s3",
+          "english": "What then matters is how the quietly shining clarity that concepts lose in this way is made up for by other means."
+        },
+        {
+          "source_id": "p61:s1",
+          "english": "The use of language develops in the mind a sense for fine distinctions of sound and a delight in them, all the more so to the extent that a particular language correctly employs a well-chosen sound system."
+        },
+        {
+          "source_id": "p61:s2",
+          "english": "Since speech also needs many distinctions in order to express and evoke concepts in all their relations and shades, this sense serves that need very well."
+        },
+        {
+          "source_id": "p61:s3",
+          "english": "For an inclination and an ability now emerge to mark these differences by changing individual letters, and to recognize them by those changes. In this lies the origin of all inflection, whether one holds it to have arisen at the same time as language or later within it."
+        },
+        {
+          "source_id": "p61:s4",
+          "english": "Inflection thus brings a double advantage: it gives the idea only as much body as it needs, and, by means of the letter, which is entirely meaningless in itself, avoids every misleading subsidiary concept."
+        },
+        {
+          "source_id": "p61:s5",
+          "english": "Language contains a striving towards the purification of its intellectual character, a striving that runs through all its functions and continually intensifies."
+        },
+        {
+          "source_id": "p61:s6",
+          "english": "Just as it separates accompanying noise from speech sound (57.), so it excludes from what is thought through language the representation of any matter that the thought does not require, and displaces that matter with meaningless sound wherever it seeks to appear as a sign of form."
+        },
+        {
+          "source_id": "p61:s7",
+          "english": "Thus all languages formed in a way more appropriate to the mind, when compared with others that are their opposites in this respect, have the property of evoking a smaller mass of matter in expressing the same idea, thereby allowing that idea to emerge more freely and in a more purified form."
+        },
+        {
+          "source_id": "p62:s1",
+          "english": "A natural and almost necessary consequence of the clean separation of sounds is that it increases the range of the alphabet."
+        },
+        {
+          "source_id": "p62:s2",
+          "english": "For sounds that the ear could easily confuse in indistinct, undeveloped pronunciation now stand distinctly apart."
+        },
+        {
+          "source_id": "p62:s3",
+          "english": "Sometimes, however, differences in the range of the alphabet also arise from particular sound peculiarities and habits of nations, through which individual letters, such as the Polish l with a stroke, and even whole classes of letters, such as the Indian cerebrals or linguals, are added to it."
+        },
+        {
+          "source_id": "p62:s4",
+          "english": "The position and movement of the speech organs, and the fact that individual sounds fall within the same or different spheres (58.), mean that the letters have mutual connections and relations, and that a more or less complete system of sounds can be discovered in the alphabet."
+        },
+        {
+          "source_id": "p62:s5",
+          "english": "Once writing has come into being, and grammatical study has been added to it, an alphabet can acquire in this respect a more firmly defined and finely developed system than was originally present in the nation’s language use. This may have happened to the Sanskrit alphabet, whose pattern has spread to the languages still living in a large part of South Asia."
+        },
+        {
+          "source_id": "p62:s6",
+          "english": "Yet in its totality such a system always lies within nations’ capacities for language and habits of language use; and the definiteness that it admittedly gains through well-chosen written signs acts back upon speaking and becomes truly the nations’ own."
+        },
+        {
+          "source_id": "note:bopp-62",
+          "english": "Humboldt’s note: Bopp’s Systematic Account of the Sanskrit Language, p. 14, no. 20. (Bopp’s Grammar.)"
+        },
+        {
+          "source_id": "note:deleted-near",
+          "english": "1906 editor’s note: Deleted after ‘der’ (‘the’): ‘lying close to one another’."
+        },
+        {
+          "source_id": "p62a:s1",
+          "english": "When several letters are combined into a syllable, new peculiarities of the sound system become apparent in the way languages favour the meeting of some letters, avoid that of others, and exclude a number of syllables."
+        },
+        {
+          "source_id": "p62a:s2",
+          "english": "One must therefore attend not only to the range of the alphabet, but also to the range of syllables possible through it."
+        },
+        {
+          "source_id": "p62a:s3",
+          "english": "It is noteworthy that it is precisely the languages of savages, which are commonly accused of roughness, that exclude many syllables tolerated in highly developed languages."
+        },
+        {
+          "source_id": "p62a:s4",
+          "english": "This may derive in part from the more readily excited sensitivity of these peoples’ senses, already noted above, and in part from the fact that a more developed language often contracts syllables where a language in a more original state lets them follow one another separately."
+        },
+        {
+          "source_id": "p62b:s1",
+          "english": "Word formation too is subject to the rules of the sound system, since in many languages words do not begin or end with certain letters, and their internal structure is also determined by laws of language, particularly in the changing of consonants that meet."
+        },
+        {
+          "source_id": "p63:s1",
+          "english": "In these systems lie the grounds and conditions of letter change, which is likewise only partly given by the more general nature of the speech organs and otherwise rests on the particular sound habits of each people."
+        },
+        {
+          "source_id": "p63:s2",
+          "english": "For although the nature of the letters determines the kind of change, a people’s sensitivity to this reciprocal influence of sounds upon contact depends on its ear and speech organs."
+        },
+        {
+          "source_id": "p63:s3",
+          "english": "The closer the sounds stand to one another in a highly systematic alphabet of considerable range, and the more clearly and distinctly their relation is recognized in such an alphabet, the more the inclination towards letter change grows; letter change in turn contributes greatly to finer distinctions of sound and to the systematization of the alphabet."
+        },
+        {
+          "source_id": "p63:s4",
+          "english": "One might suppose that the ear of uncultivated nations would fail to hear and would neglect these subtleties of sound. Yet it is precisely among them that one finds very frequent letter changes; this may be attributable to two causes: the senses of people closer to nature possess a keener sensitivity, and the uncultivated person views speech, as it appears to the understanding, as a continuum whose parts are everywhere in contact, whereas the cultivated person, even in continuous speech, uses the tongue to check the slurring of sounds in accordance with the pauses of the understanding."
+        },
+        {
+          "source_id": "p63:s5",
+          "english": "Yet the very frequent chaining together of several words by letter change and contraction is probably a true national peculiarity of the Indian peoples, for which no further reason can be given; at least, it is not evident whether other nations have known it to the same extent."
+        },
+        {
+          "source_id": "p63:s6",
+          "english": "At first sight, one is tempted to attribute the many rules that arise from this in Sanskrit, at least in part, to the grammarians’ mania for systematization."
+        },
+        {
+          "source_id": "p63:s7",
+          "english": "But this conjecture disappears when one compares the living Indian languages that have arisen from Sanskrit."
+        },
+        {
+          "source_id": "p63:s8",
+          "english": "Carey expressly states of Telinga, in which this chaining is especially frequent and difficult to recognize, that a foreigner who tried to disregard it would not be understood at all by the natives."
+        },
+        {
+          "source_id": "p63:s9",
+          "english": "In Bengali, by contrast, it is not always strictly observed, making it still clearer how this point depends on the particular habits of individual tribes."
+        },
+        {
+          "source_id": "note:thiersch",
+          "english": "Humboldt’s note: Thiersch maintains that the Greeks joined words as Sanskrit does."
+        },
+        {
+          "source_id": "note:carey",
+          "english": "Humboldt’s note: Grammar of the Telinga Language, Preface, p. II."
+        },
+        {
+          "source_id": "note:haughton",
+          "english": "Humboldt’s note: Haugthon’s Rudiments of Bengali Grammar, p. 147, § 377."
+        },
+        {
+          "source_id": "p64:s1",
+          "english": "The most immediate influence of this peculiarity is naturally on euphony."
+        },
+        {
+          "source_id": "p64:s2",
+          "english": "It flatters the ear when the harsh meeting of mutually resistant and inharmonious sounds is avoided as far as possible."
+        },
+        {
+          "source_id": "p64:s3",
+          "english": "But the effect also extends to the conceptual force of language and to the proper division of speech for the understanding. This happens, however, only when letter change confines itself to fusing parts of the same word into a whole, and does not, by stringing together whole words that are independent of one another, form a whole for the ear that cannot exist as such for the understanding."
+        },
+        {
+          "source_id": "p64:s4",
+          "english": "I can regard the latter habit as useful only insofar as it provides poetry with one more means of bringing divisions between words into an appropriate relation with rhythmic divisions."
+        },
+        {
+          "source_id": "p64:s5",
+          "english": "For it produces wholes of sound different from, and more frequently larger than, those provided by word division alone."
+        },
+        {
+          "source_id": "p64:s6",
+          "english": "By contrast, it disturbs both the understanding and the ear when a final letter changes in preparation for the one that follows it at a point where the understanding requires a logical pause and the ear a rhythmic one."
+        },
+        {
+          "source_id": "p64:s7",
+          "english": "If, however, this sound change remains within the bounds of the word, it becomes a phonetic means of dividing speech into cleanly separated wholes, and impresses upon the understanding, through the senses as well, that the element of speech is the word."
+        },
+        {
+          "source_id": "p64:s8",
+          "english": "The logical division of speech suffers no disruption; on occasion, namely whenever such a sound change occurs, it is made still more evident."
+        },
+        {
+          "source_id": "p64:s9",
+          "english": "Nor does Sanskrit fail to recognize this principle of the need to characterize words as wholes through a distinct unity of sound, since different rules apply within words from those that apply when two words meet."
+        },
+        {
+          "source_id": "p64:s10",
+          "english": "But since these rules agree in some respects, and those for several words also apply to the parts of compound words, word division is not made cleanly distinct and clear to the senses by this means."
+        },
+        {
+          "source_id": "note:bopp-64",
+          "english": "Humboldt’s note: Strictly speaking, the rules for the interior of words are not quite correctly so called. They apply in full only when the root is stamped anew as a word, and in that word’s inflections. Already with the Taddhita suffixes, which further reshape the word thus stamped, the rules for the initial and final letters of different words come into play. Bopp’s Grammar, p. 58, § 85."
+        },
+        {
+          "source_id": "p65:s1",
+          "english": "Quantity belongs to syllables."
+        },
+        {
+          "source_id": "p65:s2",
+          "english": "But since vowels determine the syllable, and can also form one on their own, the feeling for the syllable also affects the completeness of the alphabet, in which either all vowel sounds occur cleanly distinguished, each in its long or short form, or they do not."
+        },
+        {
+          "source_id": "p65:s3",
+          "english": "Written signs alone, however, cannot decide this."
+        },
+        {
+          "source_id": "p65:s4",
+          "english": "Thus, in the case of Sanskrit, it remains uncertain whether the living language also possessed a short e and o."
+        },
+        {
+          "source_id": "p65:s5",
+          "english": "Quantity lies wholly in the nature of pronunciation and is least amenable to arbitrary determination."
+        },
+        {
+          "source_id": "p65:s6",
+          "english": "Even individual dispositions and habits can exert only a lesser influence on it, since, for example, the meeting of several sounds must necessarily require more time in pronunciation."
+        },
+        {
+          "source_id": "p65:s7",
+          "english": "By contrast, disposition, habit and intention can favour or restrict the full effect of quantity in a language’s speech; from this arises a difference of the greatest importance for the euphony and rhythmic beauty of speech and of language generally, including their effect on character."
+        },
+        {
+          "source_id": "p65:s8",
+          "english": "The expression of thoughts is less fundamentally affected by this rhythmic peculiarity of language."
+        },
+        {
+          "source_id": "p65:s9",
+          "english": "Even excessive favour shown to quantity can never harm the expression of thoughts; unwarranted neglect can do so only insofar as a failure to distinguish long and short vowels carefully brings with it the same disadvantage as obscuring the pure sound of letters in general."
+        },
+        {
+          "source_id": "p65:s10",
+          "english": "On the other hand, suppressing the natural effect of quantity may well give the expression of thought an excessively one-sided prominence."
+        },
+        {
+          "source_id": "p65:s11",
+          "english": "For rhythm and accent stand in a relation that can become hostile to the former wherever proper handling of language fails to bring it into a beautiful balance, since quantity, in its quiet sway, does not always manage to assert its right alongside the vehemence of speech or the sharply accentuating understanding."
+        },
+        {
+          "source_id": "p65:s12",
+          "english": "The predominance of aesthetic feeling, which can meet with obstacles in one-sidedness just as much as in crudity, is decisive here: it preserves the freedom of rhythm alongside the emphasis of the connection of thoughts, and assigns accent, even within the word, its place in keeping with rhythmic euphony."
+        },
+        {
+          "source_id": "note:deleted-signs",
+          "english": "1906 editor’s note: Deleted after ‘dem’ in ‘in dem’ (‘in which’): ‘with or without signs of their own’."
+        },
+        {
+          "source_id": "p66:s1",
+          "english": "Just as quantity belongs for the most part to the particular nature of sounds, so accent belongs exclusively to the speaker’s intention."
+        },
+        {
+          "source_id": "p66:s2",
+          "english": "It is the means by which language joins and divides speech into different coordinate and subordinate wholes; without it, speech would consist merely of basic parts strung together."
+        },
+        {
+          "source_id": "p66:s3",
+          "english": "For by accenting one syllable, accent makes those that follow unaccented, thereby drawing them into the domain of the accented syllable and thus joining them to it."
+        },
+        {
+          "source_id": "p66:s4",
+          "english": "The same thing happens when syllables preceding the accent are strung together in such a way that their lack of accent alerts the ear to an accent still to come."
+        },
+        {
+          "source_id": "p66:s5",
+          "english": "Conversely, accent creates different domains of sound and separates the syllables by initiating a new accentuation."
+        },
+        {
+          "source_id": "p66:s6",
+          "english": "Here it follows the direction of thought immediately and serves to make the flow of speech resemble the flow of thoughts; but it is conditioned by the laws of pronunciation and submits, though to a greater or lesser degree, to those of euphony."
+        },
+        {
+          "source_id": "p66:s7",
+          "english": "Accent in this sense must not, however, be confused with other changes in vowel sounds that are likewise indicated by accent marks and likewise consist in raising or lowering the voice."
+        },
+        {
+          "source_id": "p66:s8",
+          "english": "These are intended only to make possible, through differences of intonation, a greater number of sounds than the nature of those sounds without intonation can yield."
+        },
+        {
+          "source_id": "p66:s9",
+          "english": "This is the case with Chinese accent marks, since in Chinese there are, properly speaking, as many varieties of each vowel as there are intonations the vowel can take."
+        },
+        {
+          "source_id": "p66:s10",
+          "english": "For at bottom, the intonation of a syllable always falls only on its vowel."
+        },
+        {
+          "source_id": "p66:s11",
+          "english": "These intonations thus increase the range of the alphabet."
+        },
+        {
+          "source_id": "note:deleted-word",
+          "english": "1906 editor’s note: Deleted after ‘syllable’: ‘or a word’."
+        },
+        {
+          "source_id": "note:chinese",
+          "english": "Humboldt’s note: In Chinese grammars, the intonations are admittedly called modifications of the words, or, what there amounts to the same thing, of the syllables, which is indeed much more appropriate in those grammars. Yet, properly speaking, they rest only on the vowel ending; hence, speaking in the manner of other languages, it is more natural to say that each simple and compound vowel ending can have such and such an intonation, and that the words then take the vowel ending intoned in this or that way according to differences in their meaning. In this way the matter is put on the same footing as the short and long vowels of other languages."
+        },
+        {
+          "source_id": "p67:s1",
+          "english": "The most important kind of true accent, and the one that belongs most to language, is word accent."
+        },
+        {
+          "source_id": "p67:s2",
+          "english": "Speech accent naturally varies with the character of the speech and cannot attach to the parts of language taken in isolation."
+        },
+        {
+          "source_id": "p67:s3",
+          "english": "But its treatment as a whole certainly belongs to the nature of the language."
+        },
+        {
+          "source_id": "p67:s4",
+          "english": "This treatment does lie in the nation’s characteristic way of forming representations and of feeling, but language can never be separated from that way either. In addition to its, as it were, dead elements, it always also consists in the distinctive character of living delivery that lies in the speakers’ souls; it is only that, in dead languages, this delivery cannot be recognized at all, or at least only imperfectly."
+        },
+        {
+          "source_id": "p67:s5",
+          "english": "In Sanskrit, all information about accentuation is still lacking; and although Greek accentuation has been preserved in its signs, many doubts remain about how the accents were actually delivered in living speech, in connection with speech accent on the one hand and quantity on the other."
+        },
+        {
+          "source_id": "p68:s1",
+          "english": "The word comes into being only through accent, which breathes the unity of the concept into it."
+        },
+        {
+          "source_id": "p68:s2",
+          "english": "If two entirely equal accents occurred in a simple word, the unity of the concept would not be made perceptible to the ear as well, and the aptness of sound as an accompaniment to thought would be impaired."
+        },
+        {
+          "source_id": "p68:s3",
+          "english": "This would so offend the natural feeling for language that one could not conceive of such a case as possible."
+        },
+        {
+          "source_id": "p68:s4",
+          "english": "Thus, when two accents come together in a single word from two different words, one will be subordinated to the other in pronunciation, unless the concepts of the individual words fail to combine into one; for when they do combine, one element necessarily predominates."
+        },
+        {
+          "source_id": "p68:s5",
+          "english": "Since accent, through its fixed position within the word, helps to complete the word’s individuality, different words can arise from the same sequence of syllables through differences of accentuation; nor should it cause surprise that this is found even in the languages of wholly uncultivated nations."
+        },
+        {
+          "source_id": "p68:s6",
+          "english": "It is a very common observation that nothing makes a foreigner so unintelligible to the lowest social classes as incorrect accentuation."
+        },
+        {
+          "source_id": "p68:s7",
+          "english": "It is precisely the uncultivated person, in nations and social ranks alike, who is accustomed to taking each word unanalyzed as a whole and recognizing its physiognomy, if one may put it so, by its accent."
+        },
+        {
+          "source_id": "p69:s1",
+          "english": "Although several words are, properly speaking, joined together only by speech accent, in some cases this also happens through true language accent; in that case, however, the joined parts do not retain their own accents unchanged, as they do in the former case."
+        },
+        {
+          "source_id": "p69:s2",
+          "english": "It is easy to see that I am referring here to enclitic words, which, however, are by no means confined to Greek: if one pays close attention, they exist, and must exist, in all languages."
+        },
+        {
+          "source_id": "p69:s3",
+          "english": "For in all languages there are cases in which words that stand on their own enter into such a relation to others that their independent standing is wholly absorbed in their attachment to those others."
+        },
+        {
+          "source_id": "p69:s4",
+          "english": "With this, their own accentuation also falls away of itself."
+        },
+        {
+          "source_id": "p69:s5",
+          "english": "In the sharply accented English language this can be heard with extraordinary force, indeed among the common people too, and in such a way that the entire sound value of the enclitic words is changed by it."
+        },
+        {
+          "source_id": "p69:s6",
+          "english": "How this may also cause the accent of the word that pulls the other to itself to shift position, or to acquire a second accent beside it, though probably not one of equal strength, depends on the rules and habits of individual languages; so too does whether the kind of words that can be attached is to have two sound forms, one orthotonic and one enclitic."
+        },
+        {
+          "source_id": "p69:s7",
+          "english": "Since Sanskrit added to word accent and speech accent the exact preservation of quantity and the chaining of words through letter change, its sound system, given the already very great range of its alphabet, must have been especially difficult, but also extraordinarily rich and varied."
+        },
+        {
+          "source_id": "note:sanskrit-pronouns",
+          "english": "Humboldt’s note: The Sanskrit pronouns of the first and second persons do have, for certain cases, a second, more frequently used, abbreviated form alongside the full form, whose fullness is due to its less frequent use. But it does not appear that this second form was used exclusively as an enclitic."
+        },
+        {
+          "source_id": "p70:s1",
+          "english": "Through speech accent, the speaker can either mark precisely the weight that each word and each sentence has in the meaning of the speech, or distribute the rises and falls of the voice according to a method that has become habitual in the language and is independent of this weighting; consideration for the sense is not wholly sacrificed to this method, but is nevertheless completely subordinated to it."
+        },
+        {
+          "source_id": "p70:s2",
+          "english": "This difference is most evident in German and French reading aloud and declamation, since the French accuse Germans of singing when they accent French in speech as they would their own language."
+        },
+        {
+          "source_id": "p70:s3",
+          "english": "Besides these two sharply opposed modes, however, there are many less distinctly differentiated ones, all distinguished by the greater or lesser prominence they give to the significance of words and syllables for the understanding, since each people presumably follows a feeling of its own in this."
+        },
+        {
+          "source_id": "p70:s4",
+          "english": "But precisely because the way the sequence of thoughts appears in living delivery has the most important influence, this point is of the greatest significance for intellectual cultivation, especially that of the common people, who are most restricted to living communication."
+        },
+        {
+          "source_id": "p71:s1",
+          "english": "The introduction of alphabetic writing has some of the greatest and most visible consequences for the development of the sound system."
+        },
+        {
+          "source_id": "p71:s2",
+          "english": "Although alphabetic writing never removes articulated sound from the realm of ever-vanishing audible sound, and gives it nothing but a sign that calls that audible sound to mind, these signs and their comparison nevertheless act upon the understanding and imagination in such a way that speech sounds attach themselves more definitely to their assigned points and present themselves to the soul much more clearly in their character as elements."
+        },
+        {
+          "source_id": "p71:s3",
+          "english": "Through the signs, the pronunciation of one generation passes into that of the next; deviations can be recognized in spelling, and speech sounds, together with everything that belongs to them, can become objects of reflection and scholarly study."
+        },
+        {
+          "source_id": "p71:s4",
+          "english": "Alphabetic writing thus brings two great advantages, from which many particular consequences subsequently extend throughout the language. First, all the sound relations of the language are set against one another and ordered more cleanly and distinctly, and are developed more completely and systematically. Second, as the understanding separates the basic parts of language more precisely and retains them more distinctly, the idea of language’s organization into parts gains greater life within it, and the representation of its structure, rising from the basic parts upwards, gains in vividness and completeness."
+        },
+        {
+          "source_id": "p71:s5",
+          "english": "On the other hand, scholarly work on the signs for sounds can also lead to an excessively contrived and systematic treatment of them, especially where languages begin to pass from living interaction among the people into exclusively learned use."
+        }
+      ],
+      "notes": [
+        {
+          "source_id": "p56:s2",
+          "issue": "‘Letters’ and ‘alphabet’ retain the author’s terminology, including its application to spoken elements before writing is introduced. They are not silently replaced with modern phonological categories.",
+          "alternatives": []
+        },
+        {
+          "source_id": "p57:s4",
+          "issue": "‘Schmettern’ and ‘Schnarren’ describe audible qualities without specifying modern phonetic categories. ‘Blaring’ and ‘rasping’ are approximate renderings.",
+          "alternatives": [
+            "Schmettern: resounding blasts",
+            "Schnarren: rattling"
+          ]
+        },
+        {
+          "source_id": "p62a:s1",
+          "issue": "‘Ausstossen’ is understood as excluding syllables from the language’s possibilities, rather than eliding syllables during an utterance, in light of the following discussion of permitted combinations.",
+          "alternatives": [
+            "reject a number of syllables"
+          ]
+        },
+        {
+          "source_id": "note:haughton",
+          "issue": "The supplied note spells the surname ‘Haugthon’; that spelling is retained.",
+          "alternatives": []
+        },
+        {
+          "source_id": "p65:s1",
+          "issue": "‘Zeitmass’ is rendered consistently as ‘quantity’, encompassing the duration of sounds and syllables and its rhythmic operation, rather than a fixed metrical pattern.",
+          "alternatives": [
+            "temporal measure"
+          ]
+        },
+        {
+          "source_id": "p65:s2",
+          "issue": "The feminine ‘dieselbe’ grammatically refers to ‘Sylbe’, not the neuter ‘Zeitmass’; hence ‘the feeling for the syllable’.",
+          "alternatives": []
+        },
+        {
+          "source_id": "p65:s9",
+          "issue": "‘Desselben’ is taken to refer to quantity, and ‘ihm’ to the expression of thoughts. The former pronoun is grammatically compatible with either antecedent, but the contrast with neglect of vowel quantity supports the adopted reading.",
+          "alternatives": [
+            "Even excessive favour shown to the expression of thoughts can never harm it."
+          ]
+        },
+        {
+          "source_id": "p65:s12",
+          "issue": "The antecedent of ‘seine Freiheit’ is not explicit. The translation takes it as rhythm, whose position relative to accent is at issue in the preceding sentence.",
+          "alternatives": [
+            "preserves the freedom of quantity",
+            "preserves the freedom of aesthetic feeling"
+          ]
+        },
+        {
+          "source_id": "p66:s3",
+          "issue": "‘Tonlos’ is rendered ‘unaccented’ in the local explanation of accentual grouping. This does not assert that the following syllables are silent or voiceless.",
+          "alternatives": [
+            "without tone"
+          ]
+        },
+        {
+          "source_id": "p68:s4",
+          "issue": "The final ‘alsdann’ is understood as referring back to the concepts combining into one, rather than to their failure to combine. The English makes that reference explicit.",
+          "alternatives": [
+            "for in that case one element necessarily predominates"
+          ]
+        },
+        {
+          "source_id": "p68:s7",
+          "issue": "For Oxford spelling, ‘unanalyzed’ in the rendering should read ‘unanalysed’.",
+          "alternatives": [
+            "It is precisely the uncultivated person, in nations and social ranks alike, who is accustomed to taking each word unanalysed as a whole and recognizing its physiognomy, if one may put it so, by its accent."
+          ]
+        }
+      ],
+      "source_status_acknowledged": true,
+      "models": [
+        "gpt-6-astra"
+      ],
+      "id": "astra"
+    }
+  ]
+}

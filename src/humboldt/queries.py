@@ -392,9 +392,9 @@ def search(db, text, limit=30):
 
 def _section_numbers(db):
     versions = _rows(db, "SELECT id,title,language,locator,transcription_status FROM text_version ORDER BY id")
-    by_id = {v["id"]: set(re.findall(r"§\s*(\d+)\b", v["title"])) for v in versions}
+    by_id = {v["id"]: set(re.findall(r"§\s*(\d+[a-z]?)\b", v["title"])) for v in versions}
     for row in _rows(db, "SELECT DISTINCT version_id,label FROM unit WHERE kind='paragraph'"):
-        number = re.fullmatch(r"\s*§\s*(\d+)\s*", row["label"])
+        number = re.fullmatch(r"\s*§\s*(\d+[a-z]?)\s*", row["label"])
         if number and not by_id.get(row['version_id']):
             by_id.setdefault(row["version_id"], set()).add(number[1])
     declared = metadata(db).get("passages", [])
@@ -403,11 +403,16 @@ def _section_numbers(db):
             continue
         section = str(passage_info.get("section", "")).strip().removeprefix("§").strip()
         version_ids = passage_info.get("version_ids", [])
-        if re.fullmatch(r"\d{1,6}", section) and isinstance(version_ids, list):
+        if re.fullmatch(r"\d{1,6}[a-z]?", section) and isinstance(version_ids, list):
             for version_id in version_ids:
                 if isinstance(version_id, str) and version_id in by_id:
                     by_id[version_id].add(section)
     return versions, by_id
+
+
+def _section_sort_key(value):
+    number = re.match(r"\d+", value)[0]
+    return int(number), value[len(number):]
 
 
 def sections(db):
@@ -417,7 +422,7 @@ def sections(db):
     for version in versions:
         for number in numbers[version["id"]]:
             groups[number].append(version)
-    return [{"section": number, "label": "§" + number, "versions": groups[number]} for number in sorted(groups, key=int)]
+    return [{"section": number, "label": "§" + number, "versions": groups[number]} for number in sorted(groups, key=_section_sort_key)]
 
 
 def _blocks(db, version_id):
@@ -443,8 +448,8 @@ def _blocks(db, version_id):
 
 def passage(db, section):
     value = str(section).strip().removeprefix("§").strip()
-    if not re.fullmatch(r"\d{1,6}", value):
-        raise ValueError("Section must be a number, for example 147 or §147")
+    if not re.fullmatch(r"\d{1,6}[a-z]?", value):
+        raise ValueError("Section must be a number with an optional lowercase letter, for example 62a or §147")
     versions, numbers = _section_numbers(db)
     selected = [v for v in versions if value in numbers[v["id"]]]
     if not selected:

@@ -1,0 +1,295 @@
+{
+  "format": "humboldt.section-verification",
+  "date": "2026-11-17",
+  "checks": {
+    "unit": 60,
+    "integration": 19,
+    "corpus": 20,
+    "historical": 43,
+    "total": 142,
+    "all_pass": true,
+    "validation_note": "The initial full run passed60 unit,19 integration and43 historical checks, but one of20 corpus checks failed because the earlier annotated-reader test converted every default passage label to int. Its lookup now keeps string labels, preserving all earlier body comparisons and accepting the newly represented62a/b. The complete20-test corpus rerun passed; the other suites were not unnecessarily repeated.",
+    "runs": [
+      {
+        "path": "tmp/sound-system/tests.log",
+        "sha256": "b1fc8138f9cac39e797473cfacb9957fba7a1263e91a361709409c205c6910a5",
+        "status": "Initial full run, one corpus test assumption failure; other suites passed"
+      },
+      {
+        "path": "tmp/sound-system/corpus-tests.log",
+        "sha256": "87a5104147c77739dcf5558c426efb471ba96b46a69d2f2b6a9e9d5ce61fee95",
+        "status": "Complete corrected corpus rerun passed"
+      }
+    ]
+  },
+  "database": {
+    "integrity": "ok",
+    "foreign_key_errors": [],
+    "counts": {
+      "alignment": 2724,
+      "alignment_member": 5461,
+      "analysis": 553,
+      "build_metadata": 9,
+      "change_impact": 1705,
+      "composite_attestation": 1,
+      "composite_member": 2,
+      "decision": 2020,
+      "decision_evidence": 2737,
+      "evidence": 2412,
+      "evidence_detail": 155,
+      "lexeme": 1048,
+      "lexeme_control": 149,
+      "lexeme_form": 1712,
+      "preparation_input": 9,
+      "register_carry_forward": 119,
+      "revision_history": 9,
+      "schema_migration": 2,
+      "sense_attestation": 1566,
+      "sense_rendering": 2167,
+      "term_entry": 34,
+      "term_entry_evidence": 202,
+      "term_entry_family": 46,
+      "term_expression_part": 1565,
+      "term_family": 18,
+      "term_occurrence": 4740,
+      "term_relation": 122,
+      "term_sense": 1518,
+      "term_use": 1531,
+      "terminology_candidate": 3515,
+      "terminology_control": 87,
+      "terminology_page_review": 110,
+      "text_version": 545,
+      "unit": 193352,
+      "unit_decision": 3493,
+      "unit_evidence": 4666,
+      "word_index": 39132
+    },
+    "logical_digest": "6c67634379c7142fb022fb650376303d0a1baf2c58e4a631a840bcfdc8d34f62",
+    "immutable_baseline": {
+      "matches": true,
+      "logical_digest": "53334ec49b583ad5538bb21d17249eb8416c38adb14b44874d6ac5027a83a962",
+      "reference": "edition/baselines/initial.json",
+      "scope": "immutable base records named in the baseline manifest; current journal and added datasets are separate"
+    }
+  },
+  "preservation": {
+    "scholarly_tables": {
+      "alignment": {
+        "before": 2089,
+        "after": 2724,
+        "all_previous_rows_preserved": true
+      },
+      "alignment_member": {
+        "before": 4191,
+        "after": 5461,
+        "all_previous_rows_preserved": true
+      },
+      "analysis": {
+        "before": 373,
+        "after": 553,
+        "all_previous_rows_preserved": true
+      },
+      "composite_attestation": {
+        "before": 1,
+        "after": 1,
+        "all_previous_rows_preserved": true
+      },
+      "composite_member": {
+        "before": 2,
+        "after": 2,
+        "all_previous_rows_preserved": true
+      },
+      "decision": {
+        "before": 1914,
+        "after": 2020,
+        "all_previous_rows_preserved": true
+      },
+      "decision_evidence": {
+        "before": 2493,
+        "after": 2737,
+        "all_previous_rows_preserved": true
+      },
+      "evidence": {
+        "before": 2250,
+        "after": 2412,
+        "all_previous_rows_preserved": true
+      },
+      "evidence_detail": {
+        "before": 155,
+        "after": 155,
+        "all_previous_rows_preserved": true
+      },
+      "lexeme": {
+        "before": 1048,
+        "after": 1048,
+        "all_previous_rows_preserved": true
+      },
+      "lexeme_control": {
+        "before": 149,
+        "after": 149,
+        "all_previous_rows_preserved": true
+      },
+      "lexeme_form": {
+        "before": 1712,
+        "after": 1712,
+        "all_previous_rows_preserved": true
+      },
+      "preparation_input": {
+        "before": 9,
+        "after": 9,
+        "all_previous_rows_preserved": true
+      },
+      "register_carry_forward": {
+        "before": 119,
+        "after": 119,
+        "all_previous_rows_preserved": true
+      },
+      "sense_attestation": {
+        "before": 1566,
+        "after": 1566,
+        "all_previous_rows_preserved": true
+      },
+      "sense_rendering": {
+        "before": 2167,
+        "after": 2167,
+        "all_previous_rows_preserved": true
+      },
+      "term_entry": {
+        "before": 34,
+        "after": 34,
+        "all_previous_rows_preserved": true
+      },
+      "term_entry_evidence": {
+        "before": 202,
+        "after": 202,
+        "all_previous_rows_preserved": true
+      },
+      "term_entry_family": {
+        "before": 46,
+        "after": 46,
+        "all_previous_rows_preserved": true
+      },
+      "term_expression_part": {
+        "before": 1565,
+        "after": 1565,
+        "all_previous_rows_preserved": true
+      },
+      "term_family": {
+        "before": 18,
+        "after": 18,
+        "all_previous_rows_preserved": true
+      },
+      "term_occurrence": {
+        "before": 4740,
+        "after": 4740,
+        "all_previous_rows_preserved": true
+      },
+      "term_relation": {
+        "before": 122,
+        "after": 122,
+        "all_previous_rows_preserved": true
+      },
+      "term_sense": {
+        "before": 1518,
+        "after": 1518,
+        "all_previous_rows_preserved": true
+      },
+      "term_use": {
+        "before": 1531,
+        "after": 1531,
+        "all_previous_rows_preserved": true
+      },
+      "terminology_candidate": {
+        "before": 3515,
+        "after": 3515,
+        "all_previous_rows_preserved": true
+      },
+      "terminology_control": {
+        "before": 87,
+        "after": 87,
+        "all_previous_rows_preserved": true
+      },
+      "terminology_page_review": {
+        "before": 110,
+        "after": 110,
+        "all_previous_rows_preserved": true
+      },
+      "text_version": {
+        "before": 365,
+        "after": 545,
+        "all_previous_rows_preserved": true
+      },
+      "unit": {
+        "before": 168091,
+        "after": 193352,
+        "all_previous_rows_preserved": true
+      },
+      "unit_decision": {
+        "before": 2984,
+        "after": 3493,
+        "all_previous_rows_preserved": true
+      },
+      "unit_evidence": {
+        "before": 4245,
+        "after": 4666,
+        "all_previous_rows_preserved": true
+      },
+      "word_index": {
+        "before": 39132,
+        "after": 39132,
+        "all_previous_rows_preserved": true
+      }
+    },
+    "protected_files": 118,
+    "earlier_translation_files": 164,
+    "all_previous_rows_preserved": true,
+    "all_protected_hashes_match": true,
+    "all_earlier_translation_hashes_match": true,
+    "journal_and_impact_rows_unchanged": true,
+    "frozen_agents_unchanged": true,
+    "journal_events": 18
+  },
+  "reader": {
+    "file": "build/sound-system-reading.html",
+    "arabic_sequence": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "unique_ids": true,
+    "all_fragment_targets_resolve": true,
+    "footnotes": 23,
+    "authorship": {
+      "Humboldt": 7,
+      "1906 Ed.": 3,
+      "Trans.": 13
+    },
+    "review": "HTML structural checks; visible browser handoff is a separate check, not established by this script."
+  },
+  "engine": {
+    "version": "0.2.2",
+    "changes": "Lettered passage query/discovery/sort and matching manifest-label validation; no database schema change",
+    "generic_section_renderer_unchanged": true
+  },
+  "limits": "Checks establish declared coverage, links, attachment, preservation and reproducibility. They do not certify German fidelity, all historical assertions, final-revision independence or human review approval. Working scripts, raw CLI streams and the pre-section database are ignored local evidence, not clean-build dependencies. Browser visibility and actual Roughdraft completion are separate handoff checks."
+}

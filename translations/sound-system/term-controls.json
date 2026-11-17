@@ -1,0 +1,2723 @@
+[
+  {
+    "id": "lex:accent",
+    "headword": "Accent",
+    "senses": [
+      {
+        "id": "lex:accent:s01",
+        "lexeme_id": "lex:accent",
+        "label": "Speaker-directed prominence that joins and separates subordinate and coordinate sound wholes",
+        "definition": "Speaker-directed prominence that joins and separates subordinate and coordinate sound wholes.",
+        "rule": "Distinguish this organizing accent from the intonations discussed on p407.",
+        "caution": "",
+        "decision_id": "D009.lex:accent:s01",
+        "renderings": [
+          "accent",
+          "stress"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:accentuation",
+    "headword": "Accentuation",
+    "senses": [
+      {
+        "id": "lex:accentuation:s01",
+        "lexeme_id": "lex:accentuation",
+        "label": "The system or practice of accentuation whose living realization may not be recoverable from surviving marks",
+        "definition": "The system or practice of accentuation whose living realization may not be recoverable from surviving marks.",
+        "rule": "Preserve the time-bound claim bis jetzt rather than treating it as present-day absence.",
+        "caution": "",
+        "decision_id": "D009.lex:accentuation:s01",
+        "renderings": [
+          "accentuation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:accentzeichen",
+    "headword": "Accentzeichen",
+    "senses": [
+      {
+        "id": "lex:accentzeichen:s01",
+        "lexeme_id": "lex:accentzeichen",
+        "label": "Graphic marks which can indicate vowel intonation as well as phenomena called accent",
+        "definition": "Graphic marks which can indicate vowel intonation as well as phenomena called accent.",
+        "rule": "A common written mark does not establish identity of the indicated sound phenomena.",
+        "caution": "",
+        "decision_id": "D009.lex:accentzeichen:s01",
+        "renderings": [
+          "accent mark"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:alphabet",
+    "headword": "Alphabet",
+    "senses": [
+      {
+        "id": "lex:alphabet:s02",
+        "lexeme_id": "lex:alphabet",
+        "label": "The system of articulated sounds characteristic of a language; it is not necessarily a set of written signs",
+        "definition": "The system of articulated sounds characteristic of a language; it is not necessarily a set of written signs.",
+        "rule": "Make its spoken bearer explicit when alphabet would imply script.",
+        "caution": "",
+        "decision_id": "D009.lex:alphabet:s02",
+        "renderings": [
+          "alphabet",
+          "inventory of speech sounds"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:anfangsbuchstabe",
+    "headword": "Anfangsbuchstabe",
+    "senses": [
+      {
+        "id": "lex:anfangsbuchstabe:s01",
+        "lexeme_id": "lex:anfangsbuchstabe",
+        "label": "Initial speech element in the authorial note contrasting word-internal and cross-word contact rules",
+        "definition": "Initial speech element in the authorial note contrasting word-internal and cross-word contact rules.",
+        "rule": "Not merely the first written character; authorial explanatory footnote, distinct from editorial deletion.",
+        "caution": "",
+        "decision_id": "D009.lex:anfangsbuchstabe:s01",
+        "renderings": [
+          "initial sound-element",
+          "initial letter"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:anschaulichkeit",
+    "headword": "Anschaulichkeit",
+    "senses": [
+      {
+        "id": "lex:anschaulichkeit:s01",
+        "lexeme_id": "lex:anschaulichkeit",
+        "label": "The vivid or intuitive presentability of language’s rising construction from basic elements",
+        "definition": "The vivid or intuitive presentability of language’s rising construction from basic elements.",
+        "rule": "Do not reduce to empirical visual inspection alone.",
+        "caution": "",
+        "decision_id": "D009.lex:anschaulichkeit:s01",
+        "renderings": [
+          "intuitive clarity",
+          "vividness"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:aussprache",
+    "headword": "Aussprache",
+    "senses": [
+      {
+        "id": "lex:aussprache:s01",
+        "lexeme_id": "lex:aussprache",
+        "label": "Actual pronunciation, in which sound quantity is grounded and by whose laws accent is constrained",
+        "definition": "Actual pronunciation, in which sound quantity is grounded and by whose laws accent is constrained.",
+        "rule": "Distinguish realized speech from written indication.",
+        "caution": "",
+        "decision_id": "D009.lex:aussprache:s01",
+        "renderings": [
+          "pronunciation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:bau",
+    "headword": "Bau",
+    "senses": [
+      {
+        "id": "lex:bau:s02",
+        "lexeme_id": "lex:bau",
+        "label": "Construction of language viewed as rising from its basic parts",
+        "definition": "Construction of language viewed as rising from its basic parts.",
+        "rule": "The architectural metaphor does not establish a fixed modern modular architecture.",
+        "caution": "",
+        "decision_id": "D009.lex:bau:s02",
+        "renderings": [
+          "structure",
+          "construction"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:bearbeitung",
+    "headword": "Bearbeitung",
+    "senses": [
+      {
+        "id": "lex:bearbeitung:s01",
+        "lexeme_id": "lex:bearbeitung",
+        "label": "Scholarly treatment or further working of linguistic material, which may systematize as well as over-artificialize it",
+        "definition": "Scholarly treatment or further working of linguistic material, which may systematize as well as over-artificialize it.",
+        "rule": "Keep scholarly treatment distinct from spontaneous living usage.",
+        "caution": "",
+        "decision_id": "D009.lex:bearbeitung:s01",
+        "renderings": [
+          "treatment",
+          "working",
+          "development"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:begriff",
+    "headword": "Begriff",
+    "senses": [
+      {
+        "id": "lex:begriff:s03",
+        "lexeme_id": "lex:begriff",
+        "label": "conceptual unity designated by the word",
+        "definition": "Concept receiving linguistic designation in the word, not a physical thing or the sound alone.",
+        "rule": "The later text further qualifies completion and individual realization.",
+        "caution": "Tesseract Begriii' is corrected from the image.",
+        "decision_id": "D009.lex:begriff:s03",
+        "renderings": [
+          "concept"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:betonung",
+    "headword": "Betonung",
+    "senses": [
+      {
+        "id": "lex:betonung:s01",
+        "lexeme_id": "lex:betonung",
+        "label": "Act or placement of prominence which groups adjacent syllables",
+        "definition": "Act or placement of prominence which groups adjacent syllables.",
+        "rule": "Distinguish the realizing emphasis from written Accentzeichen.",
+        "caution": "",
+        "decision_id": "D009.lex:betonung:s01",
+        "renderings": [
+          "accentuation",
+          "stress"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:bildung",
+    "headword": "Bildung",
+    "senses": [
+      {
+        "id": "lex:bildung:s04",
+        "lexeme_id": "lex:bildung",
+        "label": "intellectual cultivation",
+        "definition": "Intellectual cultivation affected by how the sequence of thoughts appears in living delivery.",
+        "rule": "Distinguish human cultivation from forming a word.",
+        "caution": "",
+        "decision_id": "D009.lex:bildung:s04",
+        "renderings": [
+          "cultivation",
+          "education"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:buchstabe",
+    "headword": "Buchstabe",
+    "senses": [
+      {
+        "id": "lex:buchstabe:s01",
+        "lexeme_id": "lex:buchstabe",
+        "label": "Speech element situated by habitual fixation within a continuum of possible articulatory positions",
+        "definition": "Speech element situated by habitual fixation within a continuum of possible articulatory positions.",
+        "rule": "Explain its spoken bearer; the claim is not that written characters lie in the organs.",
+        "caution": "",
+        "decision_id": "D009.lex:buchstabe:s01",
+        "renderings": [
+          "letter",
+          "speech sound-element"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:buchstabenschrift",
+    "headword": "Buchstabenschrift",
+    "senses": [
+      {
+        "id": "lex:buchstabenschrift:s01",
+        "lexeme_id": "lex:buchstabenschrift",
+        "label": "Alphabetic writing which stabilizes analysis and transmission of sound relations without preserving the sound event itself",
+        "definition": "Alphabetic writing which stabilizes analysis and transmission of sound relations without preserving the sound event itself.",
+        "rule": "Keep the written reminder distinct from living sound.",
+        "caution": "",
+        "decision_id": "D009.lex:buchstabenschrift:s01",
+        "renderings": [
+          "alphabetic writing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:buchstabenverwandlung",
+    "headword": "Buchstabenverwandlung",
+    "senses": [
+      {
+        "id": "lex:buchstabenverwandlung:s01",
+        "lexeme_id": "lex:buchstabenverwandlung",
+        "label": "Alteration of adjacent speech elements under mutual influence, with a language-specific frequency and treatment",
+        "definition": "Alteration of adjacent speech elements under mutual influence, with a language-specific frequency and treatment.",
+        "rule": "Do not read as replacement of written characters.",
+        "caution": "",
+        "decision_id": "D009.lex:buchstabenverwandlung:s01",
+        "renderings": [
+          "sound alteration",
+          "letter change"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:buchstabenveraenderung",
+    "headword": "Buchstabenveränderung",
+    "senses": [
+      {
+        "id": "lex:buchstabenveraenderung:s01",
+        "lexeme_id": "lex:buchstabenveraenderung",
+        "label": "Change of individual speech elements used to signal conceptual distinctions",
+        "definition": "Change of individual speech elements used to signal conceptual distinctions.",
+        "rule": "The operation may serve inflection here without being synonymous with every inflection.",
+        "caution": "",
+        "decision_id": "D009.lex:buchstabenveraenderung:s01",
+        "renderings": [
+          "change of sound-elements",
+          "letter change"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:casus",
+    "headword": "Casus",
+    "senses": [
+      {
+        "id": "lex:casus:s01",
+        "lexeme_id": "lex:casus",
+        "label": "Case category in the author’s note on alternate pronoun forms",
+        "definition": "Case category in the author’s note on alternate pronoun forms.",
+        "rule": "Authorial example note; no new paradigm is inferred.",
+        "caution": "",
+        "decision_id": "D009.lex:casus:s01",
+        "renderings": [
+          "case"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:cerebrale",
+    "headword": "Cerebrale",
+    "senses": [
+      {
+        "id": "lex:cerebrale:s01",
+        "lexeme_id": "lex:cerebrale",
+        "label": "A named class of Indian speech sounds used to illustrate enlargement of an alphabet",
+        "definition": "A named class of Indian speech sounds used to illustrate enlargement of an alphabet.",
+        "rule": "Retain the historical label or explain it cautiously; no automatic modern phonetic equation.",
+        "caution": "",
+        "decision_id": "D009.lex:cerebrale:s01",
+        "renderings": [
+          "cerebral sounds"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:consonant",
+    "headword": "Consonant",
+    "senses": [
+      {
+        "id": "lex:consonant:s01",
+        "lexeme_id": "lex:consonant",
+        "label": "Consonantal speech elements whose contact can trigger changes and constrain word structure",
+        "definition": "Consonantal speech elements whose contact can trigger changes and constrain word structure.",
+        "rule": "This record preserves the source’s category without adding a modern articulatory inventory.",
+        "caution": "",
+        "decision_id": "D009.lex:consonant:s01",
+        "renderings": [
+          "consonant"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:continuum",
+    "headword": "Continuum",
+    "senses": [
+      {
+        "id": "lex:continuum:s01",
+        "lexeme_id": "lex:continuum",
+        "label": "Continuous range of articulatory movements out of which particular sound positions are fixed",
+        "definition": "Continuous range of articulatory movements out of which particular sound positions are fixed.",
+        "rule": "Different from a claim that a language has no sound distinctions.",
+        "caution": "",
+        "decision_id": "D009.lex:continuum:s01",
+        "renderings": [
+          "continuum"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:ebenmass",
+    "headword": "Ebenmass",
+    "senses": [
+      {
+        "id": "lex:ebenmass:s01",
+        "lexeme_id": "lex:ebenmass",
+        "label": "Balanced proportion of rhythm and accent",
+        "definition": "Balanced proportion of rhythm and accent.",
+        "rule": "Preserve the aesthetic evaluation.",
+        "caution": "",
+        "decision_id": "D009.lex:ebenmass:s01",
+        "renderings": [
+          "balance",
+          "proportion"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:einbildungskraft",
+    "headword": "Einbildungskraft",
+    "senses": [
+      {
+        "id": "lex:einbildungskraft:s01",
+        "lexeme_id": "lex:einbildungskraft",
+        "label": "imaginative apprehension of speech elements",
+        "definition": "Imaginative faculty affected by the comparison of written signs, making speech elements clearer to the soul.",
+        "rule": "Do not reduce it to fanciful invention.",
+        "caution": "",
+        "decision_id": "D009.lex:einbildungskraft:s01",
+        "renderings": [
+          "imagination"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:einheit",
+    "headword": "Einheit",
+    "senses": [
+      {
+        "id": "lex:einheit:s03",
+        "lexeme_id": "lex:einheit",
+        "label": "Unity required on both sound and conceptual sides of a word",
+        "definition": "Unity required on both sound and conceptual sides of a word.",
+        "rule": "Keep sound-unity and concept-unity analytically distinct.",
+        "caution": "",
+        "decision_id": "D009.lex:einheit:s03",
+        "renderings": [
+          "unity"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:elementareigenschaft",
+    "headword": "Elementareigenschaft",
+    "senses": [
+      {
+        "id": "lex:elementareigenschaft:s01",
+        "lexeme_id": "lex:elementareigenschaft",
+        "label": "The character of speech sounds as elements, made clearer by written signs",
+        "definition": "The character of speech sounds as elements, made clearer by written signs.",
+        "rule": "OCR Flementareigenschaft is noise, not an authorial spelling.",
+        "caution": "",
+        "decision_id": "D009.lex:elementareigenschaft:s01",
+        "renderings": [
+          "character as elements",
+          "elementary character"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:empfindlichkeit",
+    "headword": "Empfindlichkeit",
+    "senses": [
+      {
+        "id": "lex:empfindlichkeit:s01",
+        "lexeme_id": "lex:empfindlichkeit",
+        "label": "Sensitivity of the senses to fine sound distinctions and contact effects",
+        "definition": "Sensitivity of the senses to fine sound distinctions and contact effects.",
+        "rule": "Distinct from an affective mood or a semantic sense.",
+        "caution": "",
+        "decision_id": "D009.lex:empfindlichkeit:s01",
+        "renderings": [
+          "sensitivity"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:empfindungsweise",
+    "headword": "Empfindungsweise",
+    "senses": [
+      {
+        "id": "lex:empfindungsweise:s01",
+        "lexeme_id": "lex:empfindungsweise",
+        "label": "Characteristic manner of feeling, paired with representation as a source of living delivery",
+        "definition": "Characteristic manner of feeling, paired with representation as a source of living delivery.",
+        "rule": "Do not reduce to one momentary emotion.",
+        "caution": "",
+        "decision_id": "D009.lex:empfindungsweise:s01",
+        "renderings": [
+          "manner of feeling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:endbuchstabe",
+    "headword": "Endbuchstabe",
+    "senses": [
+      {
+        "id": "lex:endbuchstabe:s01",
+        "lexeme_id": "lex:endbuchstabe",
+        "label": "Final sound-element that may alter in anticipation of the following one",
+        "definition": "Final sound-element that may alter in anticipation of the following one.",
+        "rule": "Keep spoken contact distinct from orthographic rewriting.",
+        "caution": "",
+        "decision_id": "D009.lex:endbuchstabe:s01",
+        "renderings": [
+          "final sound-element",
+          "final letter"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:erhebung",
+    "headword": "Erhebung",
+    "senses": [
+      {
+        "id": "lex:erhebung:s01",
+        "lexeme_id": "lex:erhebung",
+        "label": "Raising of the voice in distributing discourse accent",
+        "definition": "Raising of the voice in distributing discourse accent.",
+        "rule": "Distinct lexeme from Hebung, though closely related in this context.",
+        "caution": "",
+        "decision_id": "D009.lex:erhebung:s01",
+        "renderings": [
+          "rise",
+          "raising"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:fixirung",
+    "headword": "Fixirung",
+    "senses": [
+      {
+        "id": "lex:fixirung:s01",
+        "lexeme_id": "lex:fixirung",
+        "label": "Fixing/determining meanings in the language’s more inward further development",
+        "definition": "Fixing or determining something in a field of possibilities, here meanings; earlier a particular sound position.",
+        "rule": "Different bearer from physical fixation of an articulatory point.",
+        "caution": "",
+        "decision_id": "D009.lex:fixirung:s01",
+        "renderings": [
+          "fixing",
+          "determination"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:flexion",
+    "headword": "Flexion",
+    "senses": [
+      {
+        "id": "lex:flexion:s02",
+        "lexeme_id": "lex:flexion",
+        "label": "Inflected modifications of the root-formed word distinguished from later suffixal reshaping",
+        "definition": "Inflected modifications of the root-formed word distinguished from later suffixal reshaping.",
+        "rule": "Related to Inflexion; keep this authorial-footnote contrast visible.",
+        "caution": "",
+        "decision_id": "D009.lex:flexion:s02",
+        "renderings": [
+          "inflection"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:fluss",
+    "headword": "Fluss",
+    "senses": [
+      {
+        "id": "lex:fluss:s01",
+        "lexeme_id": "lex:fluss",
+        "label": "Flow metaphor connecting spoken sequencing with the movement of thought",
+        "definition": "Flow metaphor connecting spoken sequencing with the movement of thought.",
+        "rule": "Analogy does not establish identical sound and conceptual segmentation.",
+        "caution": "",
+        "decision_id": "D009.lex:fluss:s01",
+        "renderings": [
+          "flow"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:form",
+    "headword": "Form",
+    "senses": [
+      {
+        "id": "lex:form:s01",
+        "lexeme_id": "lex:form",
+        "label": "grammatical or purely formal determination",
+        "definition": "Form used for grammatical means or formal determination, with the local contrast between a device and its effect or between formal indication and unnecessary substantive content.",
+        "rule": "Preserve the particular formal/material or means/effect contrast; do not identify all such uses with one later strict criterion for genuine grammatical form.",
+        "caution": "This is a working grouping of related uses. The source’s rankings and causal claims remain attributed, not endorsed.",
+        "decision_id": "D009.lex:form:s01",
+        "renderings": [
+          "form"
+        ]
+      },
+      {
+        "id": "lex:form:s02",
+        "lexeme_id": "lex:form",
+        "label": "form or mode of formative activity",
+        "definition": "Form used for the mode or organization of mental/linguistic activity, including determinate thought and its externalization. The explicit law/direction/procedure stipulation belongs to§136.",
+        "rule": "Identify the operation and bearer in the local use. Keep§136’s stipulation visible without retroactively making it the exhaustive definition of every earlier Form.",
+        "caution": "These are grouped contextual uses of a broad form vocabulary, not a single unchanging technical doctrine. The individual source uses and their conditions remain below.",
+        "decision_id": "D009.lex:form:s02",
+        "renderings": [
+          "form"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:fortbildung",
+    "headword": "Fortbildung",
+    "senses": [
+      {
+        "id": "lex:fortbildung:s02",
+        "lexeme_id": "lex:fortbildung",
+        "label": "Gradual development of languages through time, here associated with smoothing rough sounds",
+        "definition": "Gradual development of languages through time, here associated with smoothing rough sounds.",
+        "rule": "Do not turn this evaluative development into demonstrated biological evolution.",
+        "caution": "",
+        "decision_id": "D009.lex:fortbildung:s02",
+        "renderings": [
+          "further development",
+          "development"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:function",
+    "headword": "Function",
+    "senses": [
+      {
+        "id": "lex:function:s01",
+        "lexeme_id": "lex:function",
+        "label": "Operation or function of language traversed by the proposed drive toward purified intellectuality",
+        "definition": "Operation or function of language traversed by the proposed drive toward purified intellectuality.",
+        "rule": "Not automatically a syntactic function label.",
+        "caution": "",
+        "decision_id": "D009.lex:function:s01",
+        "renderings": [
+          "function",
+          "operation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:gedanke",
+    "headword": "Gedanke",
+    "senses": [
+      {
+        "id": "lex:gedanke:s02",
+        "lexeme_id": "lex:gedanke",
+        "label": "Thought as a moving connected activity whose course spoken accent follows",
+        "definition": "Thought as a moving connected activity whose course spoken accent follows.",
+        "rule": "Distinguish thought/concept from the articulated sounds accompanying it.",
+        "caution": "",
+        "decision_id": "D009.lex:gedanke:s02",
+        "renderings": [
+          "thought"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:gedankenausdruck",
+    "headword": "Gedankenausdruck",
+    "senses": [
+      {
+        "id": "lex:gedankenausdruck:s01",
+        "lexeme_id": "lex:gedankenausdruck",
+        "label": "Expression of thought whose prominence may be affected by suppressing rhythmic quantity",
+        "definition": "Expression of thought whose prominence may be affected by suppressing rhythmic quantity.",
+        "rule": "Keep immediate conceptual emphasis separate from the full aesthetic and intellectual effects of language.",
+        "caution": "",
+        "decision_id": "D009.lex:gedankenausdruck:s01",
+        "renderings": [
+          "expression of thought"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:gedankenverbindung",
+    "headword": "Gedankenverbindung",
+    "senses": [
+      {
+        "id": "lex:gedankenverbindung:s01",
+        "lexeme_id": "lex:gedankenverbindung",
+        "label": "Connection of thoughts with an emphatic contribution in delivery",
+        "definition": "Connection of thoughts with an emphatic contribution in delivery.",
+        "rule": "Distinct from sound linking by contact changes.",
+        "caution": "",
+        "decision_id": "D009.lex:gedankenverbindung:s01",
+        "renderings": [
+          "connection of thoughts"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:geist",
+    "headword": "Geist",
+    "senses": [
+      {
+        "id": "lex:geist:s03",
+        "lexeme_id": "lex:geist",
+        "label": "intellectual agency transforming vocal sound",
+        "definition": "Active intellectual agency which forms and renews language; here it penetrates vocal sound and makes it articulated.",
+        "rule": "Do not impose a substance or blanket spiritual sense.",
+        "caution": "",
+        "decision_id": "D009.lex:geist:s03",
+        "renderings": [
+          "mind",
+          "intellect"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:geltung",
+    "headword": "Geltung",
+    "senses": [
+      {
+        "id": "lex:geltung:s03",
+        "lexeme_id": "lex:geltung",
+        "label": "independent standing in discourse",
+        "definition": "Independent force or standing of a word, absorbed by attachment in enclitic use.",
+        "rule": "Different from sensory presence or truth-validity.",
+        "caution": "OCR Gehung corrected from the image.",
+        "decision_id": "D009.lex:geltung:s03",
+        "renderings": [
+          "independent force",
+          "standing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:geraeusch",
+    "headword": "Geräusch",
+    "senses": [
+      {
+        "id": "lex:geraeusch:s02",
+        "lexeme_id": "lex:geraeusch",
+        "label": "Accompanying noise contrasted with the sound’s clear conceptual office",
+        "definition": "Accompanying noise contrasted with the sound’s clear conceptual office.",
+        "rule": "Preserve the author’s evaluative opposition; not a modern phonetic classification.",
+        "caution": "",
+        "decision_id": "D009.lex:geraeusch:s02",
+        "renderings": [
+          "noise"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:geschiedenheit",
+    "headword": "Geschiedenheit",
+    "senses": [
+      {
+        "id": "lex:geschiedenheit:s01",
+        "lexeme_id": "lex:geschiedenheit",
+        "label": "Clear distinctness of sounds from one another, argued to affect conceptual clarity beyond preventing misunderstanding",
+        "definition": "Clear distinctness of sounds from one another, argued to affect conceptual clarity beyond preventing misunderstanding.",
+        "rule": "Distinguish a relation among sounds from their mere number.",
+        "caution": "",
+        "decision_id": "D009.lex:geschiedenheit:s01",
+        "renderings": [
+          "distinctness",
+          "clear separation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:gewohnheit",
+    "headword": "Gewohnheit",
+    "senses": [
+      {
+        "id": "lex:gewohnheit:s01",
+        "lexeme_id": "lex:gewohnheit",
+        "label": "Nationally forming habit that assigns sounds particular positions and produces a distinctive inventory",
+        "definition": "Nationally forming habit that assigns sounds particular positions and produces a distinctive inventory.",
+        "rule": "Do not make the fixation a purely anatomical necessity.",
+        "caution": "",
+        "decision_id": "D009.lex:gewohnheit:s01",
+        "renderings": [
+          "habit",
+          "custom"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:gliederung",
+    "headword": "Gliederung",
+    "senses": [
+      {
+        "id": "lex:gliederung:s01",
+        "lexeme_id": "lex:gliederung",
+        "label": "Division and connection of discourse into intellectual wholes, which sound alteration may clarify or obscure",
+        "definition": "Division and connection of discourse into intellectual wholes, which sound alteration may clarify or obscure.",
+        "rule": "Do not equate all Gliederung with modern syntax.",
+        "caution": "",
+        "decision_id": "D009.lex:gliederung:s01",
+        "renderings": [
+          "articulation",
+          "organization"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:grundtheil",
+    "headword": "Grundtheil",
+    "senses": [
+      {
+        "id": "lex:grundtheil:s02",
+        "lexeme_id": "lex:grundtheil",
+        "label": "Basic constituents distinguished in analyzing the language’s construction",
+        "definition": "Basic constituents distinguished in analyzing the language’s construction.",
+        "rule": "Do not infer a modern inventory of linguistic levels.",
+        "caution": "",
+        "decision_id": "D009.lex:grundtheil:s02",
+        "renderings": [
+          "basic element",
+          "basic part"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:hauchen",
+    "headword": "Hauchen",
+    "senses": [
+      {
+        "id": "lex:hauchen:s01",
+        "lexeme_id": "lex:hauchen",
+        "label": "Breathing or breathy vocal noise among accompanying sounds",
+        "definition": "Breathing or breathy vocal noise among accompanying sounds.",
+        "rule": "Distinct lexeme from Hauch and not evidence for one universal physiological mechanism.",
+        "caution": "",
+        "decision_id": "D009.lex:hauchen:s01",
+        "renderings": [
+          "breathing",
+          "breathy sound"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:hebung",
+    "headword": "Hebung",
+    "senses": [
+      {
+        "id": "lex:hebung:s01",
+        "lexeme_id": "lex:hebung",
+        "label": "Raising of the voice in the discussion of intonation",
+        "definition": "Raising of the voice in the discussion of intonation.",
+        "rule": "Keep rise of voice distinct from the whole grammatical or conceptual role of accent.",
+        "caution": "",
+        "decision_id": "D009.lex:hebung:s01",
+        "renderings": [
+          "rise",
+          "raising"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:individuum",
+    "headword": "Individuum",
+    "senses": [
+      {
+        "id": "lex:individuum:s02",
+        "lexeme_id": "lex:individuum",
+        "label": "A word as the complete individual unit of language, contrasted with syllable and letter as elements",
+        "definition": "A word as the complete individual unit of language, contrasted with syllable and letter as elements.",
+        "rule": "Do not read as a biological organism.",
+        "caution": "",
+        "decision_id": "D009.lex:individuum:s02",
+        "renderings": [
+          "individual",
+          "individual unit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:inflexion",
+    "headword": "Inflexion",
+    "senses": [
+      {
+        "id": "lex:inflexion:s01",
+        "lexeme_id": "lex:inflexion",
+        "label": "Expression of conceptual distinctions by changes of sound-elements without importing an additional material concept",
+        "definition": "Expression of conceptual distinctions by changes of sound-elements without importing an additional material concept.",
+        "rule": "Keep distinct from agglutination and composition when later enumerated.",
+        "caution": "",
+        "decision_id": "D009.lex:inflexion:s01",
+        "renderings": [
+          "inflection"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:intellectualitaet",
+    "headword": "Intellectualitaet",
+    "senses": [
+      {
+        "id": "lex:intellectualitaet:s02",
+        "lexeme_id": "lex:intellectualitaet",
+        "label": "The intellectual character or purity of linguistic expression, affected by sound without being identical with it",
+        "definition": "The intellectual character or purity of linguistic expression, affected by sound without being identical with it.",
+        "rule": "Avoid a psychometric intelligence reading.",
+        "caution": "",
+        "decision_id": "D009.lex:intellectualitaet:s02",
+        "renderings": [
+          "intellectual character",
+          "intellectuality"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:intonation",
+    "headword": "Intonation",
+    "senses": [
+      {
+        "id": "lex:intonation:s01",
+        "lexeme_id": "lex:intonation",
+        "label": "Pitch variation of vowels that multiplies available sound varieties, contrasted with organizing accent",
+        "definition": "Pitch variation of vowels that multiplies available sound varieties, contrasted with organizing accent.",
+        "rule": "Do not silently identify Humboldt’s account with a modern analysis of Chinese tones.",
+        "caution": "",
+        "decision_id": "D009.lex:intonation:s01",
+        "renderings": [
+          "intonation",
+          "tone"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:kuerze",
+    "headword": "Kürze",
+    "senses": [
+      {
+        "id": "lex:kuerze:s01",
+        "lexeme_id": "lex:kuerze",
+        "label": "Short vowel quantity, completing the preceding page’s contrast with length",
+        "definition": "Short vowel quantity, completing the preceding page’s contrast with length.",
+        "rule": "Not brevity of a sentence in this occurrence.",
+        "caution": "",
+        "decision_id": "D009.lex:kuerze:s01",
+        "renderings": [
+          "shortness",
+          "short quantity"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:lautbehandlung",
+    "headword": "Lautbehandlung",
+    "senses": [
+      {
+        "id": "lex:lautbehandlung:s01",
+        "lexeme_id": "lex:lautbehandlung",
+        "label": "The language-specific handling of sounds whose relations and alterations must be understood before forms are explained",
+        "definition": "The language-specific handling of sounds whose relations and alterations must be understood before forms are explained.",
+        "rule": "Use the local sound contribution; preserve the stated contrast.",
+        "caution": "",
+        "decision_id": "D009.lex:lautbehandlung:s01",
+        "renderings": [
+          "treatment of sounds",
+          "handling of sounds"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:lautbezeichnung",
+    "headword": "Lautbezeichnung",
+    "senses": [
+      {
+        "id": "lex:lautbezeichnung:s02",
+        "lexeme_id": "lex:lautbezeichnung",
+        "label": "Written designation of speech sounds as an object of scholarly treatment",
+        "definition": "Written designation of speech sounds as an object of scholarly treatment.",
+        "rule": "Distinct from choosing a concept’s lexical designation.",
+        "caution": "OCR l.autbezeichnungen is corrected from the image.",
+        "decision_id": "D009.lex:lautbezeichnung:s02",
+        "renderings": [
+          "sound notation",
+          "designation of sounds"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:lauteigenthuemlichkeit",
+    "headword": "Lauteigenthümlichkeit",
+    "senses": [
+      {
+        "id": "lex:lauteigenthuemlichkeit:s01",
+        "lexeme_id": "lex:lauteigenthuemlichkeit",
+        "label": "Particular sound-characteristics of a language/nation contributing to differences in inventory",
+        "definition": "Particular sound-characteristics of a language/nation contributing to differences in inventory.",
+        "rule": "Do not make nationality itself a physiological explanation.",
+        "caution": "",
+        "decision_id": "D009.lex:lauteigenthuemlichkeit:s01",
+        "renderings": [
+          "sound peculiarity",
+          "particular sound-characteristic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:lautform",
+    "headword": "Lautform",
+    "senses": [
+      {
+        "id": "lex:lautform:s01",
+        "lexeme_id": "lex:lautform",
+        "label": "Distinct sound realizations for a word depending on independent accent or enclitic use",
+        "definition": "Distinct sound realizations for a word depending on independent accent or enclitic use.",
+        "rule": "Keep one lexical word distinct from its different sound forms.",
+        "caution": "",
+        "decision_id": "D009.lex:lautform:s01",
+        "renderings": [
+          "sound form"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:lautganze",
+    "headword": "Lautganze",
+    "senses": [
+      {
+        "id": "lex:lautganze:s01",
+        "lexeme_id": "lex:lautganze",
+        "label": "Auditory wholes which may exceed the units provided by word division",
+        "definition": "Auditory wholes which may exceed the units provided by word division.",
+        "rule": "Distinguish audible grouping from word and conceptual unity.",
+        "caution": "",
+        "decision_id": "D009.lex:lautganze:s01",
+        "renderings": [
+          "sound wholes"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:lautgeltung",
+    "headword": "Lautgeltung",
+    "senses": [
+      {
+        "id": "lex:lautgeltung:s01",
+        "lexeme_id": "lex:lautgeltung",
+        "label": "The audible force or realization of enclitic words altered through loss of their independent accent",
+        "definition": "The audible force or realization of enclitic words altered through loss of their independent accent.",
+        "rule": "Not logical validity.",
+        "caution": "",
+        "decision_id": "D009.lex:lautgeltung:s01",
+        "renderings": [
+          "sound value",
+          "audible realization"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:lautgewohnheit",
+    "headword": "Lautgewohnheit",
+    "senses": [
+      {
+        "id": "lex:lautgewohnheit:s01",
+        "lexeme_id": "lex:lautgewohnheit",
+        "label": "People-specific sound habits which govern alteration in addition to general properties of the organs",
+        "definition": "People-specific sound habits which govern alteration in addition to general properties of the organs.",
+        "rule": "Keep particular habit distinct from universally shared physiology.",
+        "caution": "",
+        "decision_id": "D009.lex:lautgewohnheit:s01",
+        "renderings": [
+          "sound habit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:lautsystem",
+    "headword": "Lautsystem",
+    "senses": [
+      {
+        "id": "lex:lautsystem:s02",
+        "lexeme_id": "lex:lautsystem",
+        "label": "A language’s organized treatment and relations of articulated sounds, foundational for grammatical explanation and intellectual effects",
+        "definition": "A language’s organized treatment and relations of articulated sounds, foundational for grammatical explanation and intellectual effects.",
+        "rule": "Do not reduce it to written alphabet.",
+        "caution": "The proposed effects on intellect are Humboldt’s claims.",
+        "decision_id": "D009.lex:lautsystem:s02",
+        "renderings": [
+          "sound system"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:lautunterscheidung",
+    "headword": "Lautunterscheidung",
+    "senses": [
+      {
+        "id": "lex:lautunterscheidung:s01",
+        "lexeme_id": "lex:lautunterscheidung",
+        "label": "Fine discrimination of sounds cultivated by language use and available for expressing conceptual distinctions",
+        "definition": "Fine discrimination of sounds cultivated by language use and available for expressing conceptual distinctions.",
+        "rule": "Keep perceptual discrimination separate from its use as a grammatical marker.",
+        "caution": "",
+        "decision_id": "D009.lex:lautunterscheidung:s01",
+        "renderings": [
+          "sound discrimination"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:lautverwandlung",
+    "headword": "Lautverwandlung",
+    "senses": [
+      {
+        "id": "lex:lautverwandlung:s01",
+        "lexeme_id": "lex:lautverwandlung",
+        "label": "Sound alteration which, if restricted within a word, reinforces word boundaries",
+        "definition": "Sound alteration which, if restricted within a word, reinforces word boundaries.",
+        "rule": "Do not identify cross-word alteration with intellectual combination.",
+        "caution": "",
+        "decision_id": "D009.lex:lautverwandlung:s01",
+        "renderings": [
+          "sound alteration"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:lautveraenderung",
+    "headword": "Lautveränderung",
+    "senses": [
+      {
+        "id": "lex:lautveraenderung:s01",
+        "lexeme_id": "lex:lautveraenderung",
+        "label": "Alteration of vowel sound, including intonation changes distinguished from organizing accent",
+        "definition": "Alteration of vowel sound, including intonation changes distinguished from organizing accent.",
+        "rule": "Not necessarily historical sound change in this occurrence.",
+        "caution": "",
+        "decision_id": "D009.lex:lautveraenderung:s01",
+        "renderings": [
+          "sound change",
+          "sound alteration"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:linguale",
+    "headword": "Linguale",
+    "senses": [
+      {
+        "id": "lex:linguale:s01",
+        "lexeme_id": "lex:linguale",
+        "label": "The alternative historical label paired here with Cerebralen for an Indian sound class",
+        "definition": "The alternative historical label paired here with Cerebralen for an Indian sound class.",
+        "rule": "Keep its pairing with Cerebralen; do not infer a separate newly established class.",
+        "caution": "",
+        "decision_id": "D009.lex:linguale:s01",
+        "renderings": [
+          "lingual sounds"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:laenge",
+    "headword": "Länge",
+    "senses": [
+      {
+        "id": "lex:laenge:s01",
+        "lexeme_id": "lex:laenge",
+        "label": "Length of a vowel in the contrast with shortness, completed at the beginning of p406",
+        "definition": "Length of a vowel in the contrast with shortness, completed at the beginning of p406.",
+        "rule": "The printed page boundary interrupts the contrast; preserve the evidence boundary.",
+        "caution": "",
+        "decision_id": "D009.lex:laenge:s01",
+        "renderings": [
+          "length",
+          "long quantity"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:laeuterung",
+    "headword": "Läuterung",
+    "senses": [
+      {
+        "id": "lex:laeuterung:s01",
+        "lexeme_id": "lex:laeuterung",
+        "label": "Purification of intellectual expression by removing unnecessary sound/noise or conceptual material",
+        "definition": "Purification of intellectual expression by removing unnecessary sound/noise or conceptual material.",
+        "rule": "Retain the evaluative process; do not imply empirical improvement is established.",
+        "caution": "",
+        "decision_id": "D009.lex:laeuterung:s01",
+        "renderings": [
+          "purification",
+          "refinement"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:nachdruck",
+    "headword": "Nachdruck",
+    "senses": [
+      {
+        "id": "lex:nachdruck:s01",
+        "lexeme_id": "lex:nachdruck",
+        "label": "Force or emphasis of spoken discourse as a result of its sound treatment",
+        "definition": "Force or emphasis of spoken discourse as a result of its sound treatment.",
+        "rule": "Do not replace by word accent in every context.",
+        "caution": "",
+        "decision_id": "D009.lex:nachdruck:s01",
+        "renderings": [
+          "emphasis",
+          "force"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:nationaleigenheit",
+    "headword": "Nationaleigenheit",
+    "senses": [
+      {
+        "id": "lex:nationaleigenheit:s01",
+        "lexeme_id": "lex:nationaleigenheit",
+        "label": "National peculiarity invoked where the author can offer no further explanation of a habitual sound-linking practice",
+        "definition": "National peculiarity invoked where the author can offer no further explanation of a habitual sound-linking practice.",
+        "rule": "Naming it a peculiarity does not supply an independent causal mechanism.",
+        "caution": "",
+        "decision_id": "D009.lex:nationaleigenheit:s01",
+        "renderings": [
+          "national peculiarity"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:natur",
+    "headword": "Natur",
+    "senses": [
+      {
+        "id": "lex:natur:s03",
+        "lexeme_id": "lex:natur",
+        "label": "constitution or character",
+        "definition": "Constitution or character of something, here the vocal sound before intellectual articulation purifies it.",
+        "rule": "Distinct from Nature as a domain of objects.",
+        "caution": "",
+        "decision_id": "D009.lex:natur:s03",
+        "renderings": [
+          "nature",
+          "constitution"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:nebenbegriff",
+    "headword": "Nebenbegriff",
+    "senses": [
+      {
+        "id": "lex:nebenbegriff:s01",
+        "lexeme_id": "lex:nebenbegriff",
+        "label": "Associated concept that may mislead when unnecessary material accompanies a formal indication",
+        "definition": "Associated concept that may mislead when unnecessary material accompanies a formal indication.",
+        "rule": "Do not automatically render it connotation in every case.",
+        "caution": "",
+        "decision_id": "D009.lex:nebenbegriff:s01",
+        "renderings": [
+          "associated concept",
+          "subsidiary concept"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:object",
+    "headword": "Object",
+    "senses": [
+      {
+        "id": "lex:object:s02",
+        "lexeme_id": "lex:object",
+        "label": "Object transformed into the speaker’s subjectivity and re-presented outwardly through the word",
+        "definition": "Object transformed into the speaker’s subjectivity and re-presented outwardly through the word.",
+        "rule": "Do not automatically equate with a mind-independent physical referent.",
+        "caution": "",
+        "decision_id": "D009.lex:object:s02",
+        "renderings": [
+          "object"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:ohr",
+    "headword": "Ohr",
+    "senses": [
+      {
+        "id": "lex:ohr:s02",
+        "lexeme_id": "lex:ohr",
+        "label": "Ear/hearing side of perception, paired with understanding but sensitive to rhythmic divisions",
+        "definition": "Ear/hearing side of perception, paired with understanding but sensitive to rhythmic divisions.",
+        "rule": "Do not collapse auditory requirement into a logical one.",
+        "caution": "",
+        "decision_id": "D009.lex:ohr:s02",
+        "renderings": [
+          "ear"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:organ",
+    "headword": "Organ",
+    "senses": [
+      {
+        "id": "lex:organ:s03",
+        "lexeme_id": "lex:organ",
+        "label": "The bodily speech organs interacting with intellectual activity in the refinement of sound",
+        "definition": "The bodily speech organs interacting with intellectual activity in the refinement of sound.",
+        "rule": "Keep physical organs distinct from mental powers.",
+        "caution": "",
+        "decision_id": "D009.lex:organ:s03",
+        "renderings": [
+          "organs",
+          "speech organs"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:pause",
+    "headword": "Pause",
+    "senses": [
+      {
+        "id": "lex:pause:s01",
+        "lexeme_id": "lex:pause",
+        "label": "Break required in intellectual or rhythmic articulation, contrasted with sound alteration running across it",
+        "definition": "Break required in intellectual or rhythmic articulation, contrasted with sound alteration running across it.",
+        "rule": "Distinguish the intellectual and auditory reasons for a break.",
+        "caution": "",
+        "decision_id": "D009.lex:pause:s01",
+        "renderings": [
+          "pause",
+          "break"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:person",
+    "headword": "Person",
+    "senses": [
+      {
+        "id": "lex:person:s02",
+        "lexeme_id": "lex:person",
+        "label": "Grammatical person in the explicit first-/second-person pronoun classification",
+        "definition": "Grammatical person in the explicit first-/second-person pronoun classification.",
+        "rule": "Distinct from an individual human as participant.",
+        "caution": "",
+        "decision_id": "D009.lex:person:s02",
+        "renderings": [
+          "person"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:physiognomie",
+    "headword": "Physiognomie",
+    "senses": [
+      {
+        "id": "lex:physiognomie:s01",
+        "lexeme_id": "lex:physiognomie",
+        "label": "Recognizable overall aspect of a word, metaphorically identified through accent",
+        "definition": "Recognizable overall aspect of a word, metaphorically identified through accent.",
+        "rule": "Keep the explicitly qualified facial metaphor.",
+        "caution": "",
+        "decision_id": "D009.lex:physiognomie:s01",
+        "renderings": [
+          "physiognomy",
+          "recognizable character"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:pronomen",
+    "headword": "Pronomen",
+    "senses": [
+      {
+        "id": "lex:pronomen:s02",
+        "lexeme_id": "lex:pronomen",
+        "label": "Pronoun category in the discussion of abbreviated versus full forms",
+        "definition": "Pronoun category in the discussion of abbreviated versus full forms.",
+        "rule": "Do not infer that the abbreviated forms are proved exclusively enclitic; the note denies that certainty.",
+        "caution": "",
+        "decision_id": "D009.lex:pronomen:s02",
+        "renderings": [
+          "pronoun"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:rauhigkeit",
+    "headword": "Rauhigkeit",
+    "senses": [
+      {
+        "id": "lex:rauhigkeit:s01",
+        "lexeme_id": "lex:rauhigkeit",
+        "label": "Physical roughness of speech organs or their sounds, distinguished from an intellectual impulse",
+        "definition": "Physical roughness of speech organs or their sounds, distinguished from an intellectual impulse.",
+        "rule": "Historical physiological speculation, not a verified biological judgement.",
+        "caution": "",
+        "decision_id": "D009.lex:rauhigkeit:s01",
+        "renderings": [
+          "roughness"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:rechtschreibung",
+    "headword": "Rechtschreibung",
+    "senses": [
+      {
+        "id": "lex:rechtschreibung:s01",
+        "lexeme_id": "lex:rechtschreibung",
+        "label": "Orthography as evidence by which deviations in transmitted pronunciation may be recognized",
+        "definition": "Orthography as evidence by which deviations in transmitted pronunciation may be recognized.",
+        "rule": "Orthographic evidence is not identical with living pronunciation.",
+        "caution": "",
+        "decision_id": "D009.lex:rechtschreibung:s01",
+        "renderings": [
+          "orthography",
+          "spelling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:redeaccent",
+    "headword": "Redeaccent",
+    "senses": [
+      {
+        "id": "lex:redeaccent:s01",
+        "lexeme_id": "lex:redeaccent",
+        "label": "Accent varying with the nature of the discourse; its habitual treatment remains characteristic of a language",
+        "definition": "Accent varying with the nature of the discourse; its habitual treatment remains characteristic of a language.",
+        "rule": "Keep its variation in use distinct from fixed word accent.",
+        "caution": "",
+        "decision_id": "D009.lex:redeaccent:s01",
+        "renderings": [
+          "discourse accent",
+          "utterance accent"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:redender",
+    "headword": "Redender",
+    "senses": [
+      {
+        "id": "lex:redender:s02",
+        "lexeme_id": "lex:redender",
+        "label": "Speaking participant to whose intention accent belongs",
+        "definition": "Speaking participant to whose intention accent belongs.",
+        "rule": "Do not merge the lexeme with Sprechender; the roles can coincide.",
+        "caution": "",
+        "decision_id": "D009.lex:redender:s02",
+        "renderings": [
+          "speaker"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:rhythmus",
+    "headword": "Rhythmus",
+    "senses": [
+      {
+        "id": "lex:rhythmus:s01",
+        "lexeme_id": "lex:rhythmus",
+        "label": "Rhythmic temporal ordering whose balance with accent may be disturbed by emphatic intellectual speech",
+        "definition": "Rhythmic temporal ordering whose balance with accent may be disturbed by emphatic intellectual speech.",
+        "rule": "Keep distinct from accent, though their treatment interacts.",
+        "caution": "",
+        "decision_id": "D009.lex:rhythmus:s01",
+        "renderings": [
+          "rhythm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:rohheit",
+    "headword": "Rohheit",
+    "senses": [
+      {
+        "id": "lex:rohheit:s01",
+        "lexeme_id": "lex:rohheit",
+        "label": "Unrefined or uncultivated condition proposed as one possible obstacle to aesthetic treatment of speech",
+        "definition": "Unrefined or uncultivated condition proposed as one possible obstacle to aesthetic treatment of speech.",
+        "rule": "Keep separate from physical Rauhigkeit and retain attribution.",
+        "caution": "",
+        "decision_id": "D009.lex:rohheit:s01",
+        "renderings": [
+          "crudity",
+          "unrefinement"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:satz",
+    "headword": "Satz",
+    "senses": [
+      {
+        "id": "lex:satz:s02",
+        "lexeme_id": "lex:satz",
+        "label": "unit within discourse",
+        "definition": "Sentence or clause as a unit contributing weight to the meaning of discourse.",
+        "rule": "Choose the syntactic/discourse unit by context, not an isolated word.",
+        "caution": "",
+        "decision_id": "D009.lex:satz:s02",
+        "renderings": [
+          "sentence",
+          "clause"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:schall",
+    "headword": "Schall",
+    "senses": [
+      {
+        "id": "lex:schall:s01",
+        "lexeme_id": "lex:schall",
+        "label": "The transient acoustic occurrence to which a written sign refers",
+        "definition": "The transient acoustic occurrence to which a written sign refers.",
+        "rule": "Do not imply that writing makes the acoustic event permanent.",
+        "caution": "",
+        "decision_id": "D009.lex:schall:s01",
+        "renderings": [
+          "sound",
+          "acoustic sound"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:schmettern",
+    "headword": "Schmettern",
+    "senses": [
+      {
+        "id": "lex:schmettern:s02",
+        "lexeme_id": "lex:schmettern",
+        "label": "Ringing/blaring vocal noise in the author’s list of sounds accompanying speech tones",
+        "definition": "Ringing/blaring vocal noise in the author’s list of sounds accompanying speech tones.",
+        "rule": "Retain as a historical perceptual label, not an exact modern segment class.",
+        "caution": "",
+        "decision_id": "D009.lex:schmettern:s02",
+        "renderings": [
+          "blaring",
+          "ringing sound"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:schnalzen",
+    "headword": "Schnalzen",
+    "senses": [
+      {
+        "id": "lex:schnalzen:s01",
+        "lexeme_id": "lex:schnalzen",
+        "label": "Clicking/smacking noise named among accompanying vocal sounds",
+        "definition": "Clicking/smacking noise named among accompanying vocal sounds.",
+        "rule": "Do not silently infer a full modern account of click consonants.",
+        "caution": "",
+        "decision_id": "D009.lex:schnalzen:s01",
+        "renderings": [
+          "clicking",
+          "smacking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:schnarren",
+    "headword": "Schnarren",
+    "senses": [
+      {
+        "id": "lex:schnarren:s01",
+        "lexeme_id": "lex:schnarren",
+        "label": "Rasping or rattling vocal noise named among accompaniments",
+        "definition": "Rasping or rattling vocal noise named among accompaniments.",
+        "rule": "No modern phonetic equivalence is established here.",
+        "caution": "",
+        "decision_id": "D009.lex:schnarren:s01",
+        "renderings": [
+          "rasping",
+          "rattling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:schrift",
+    "headword": "Schrift",
+    "senses": [
+      {
+        "id": "lex:schrift:s02",
+        "lexeme_id": "lex:schrift",
+        "label": "Writing introduced as a condition of further systematization of an already spoken sound inventory",
+        "definition": "Writing introduced as a condition of further systematization of an already spoken sound inventory.",
+        "rule": "Distinguish the written system from the prior sound relations.",
+        "caution": "",
+        "decision_id": "D009.lex:schrift:s02",
+        "renderings": [
+          "writing",
+          "script"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:schriftzeichen",
+    "headword": "Schriftzeichen",
+    "senses": [
+      {
+        "id": "lex:schriftzeichen:s01",
+        "lexeme_id": "lex:schriftzeichen",
+        "label": "Written signs whose chosen precision can act back upon pronunciation and become a real possession of the speaking community",
+        "definition": "Written signs whose chosen precision can act back upon pronunciation and become a real possession of the speaking community.",
+        "rule": "A written sign is distinct from the sound whose articulation it helps fix.",
+        "caution": "",
+        "decision_id": "D009.lex:schriftzeichen:s01",
+        "renderings": [
+          "written sign"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:senkung",
+    "headword": "Senkung",
+    "senses": [
+      {
+        "id": "lex:senkung:s01",
+        "lexeme_id": "lex:senkung",
+        "label": "Lowering of the voice, paired with raising",
+        "definition": "Lowering of the voice, paired with raising.",
+        "rule": "Use the local prosody contribution; preserve the stated contrast.",
+        "caution": "",
+        "decision_id": "D009.lex:senkung:s01",
+        "renderings": [
+          "fall",
+          "lowering"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:sinn",
+    "headword": "Sinn",
+    "senses": [
+      {
+        "id": "lex:sinn:s04",
+        "lexeme_id": "lex:sinn",
+        "label": "discriminating aptitude",
+        "definition": "Discriminating aptitude or sense, here for subtle sound differences.",
+        "rule": "Distinct from the semantic sense of a word.",
+        "caution": "",
+        "decision_id": "D009.lex:sinn:s04",
+        "renderings": [
+          "sense",
+          "discernment"
+        ]
+      },
+      {
+        "id": "lex:sinn:s05",
+        "lexeme_id": "lex:sinn",
+        "label": "bodily sensory faculty",
+        "definition": "Sensory faculty of bodily perception, invoked in explaining finer sound sensitivity.",
+        "rule": "The associated comparison of peoples is a historical authorial claim.",
+        "caution": "",
+        "decision_id": "D009.lex:sinn:s05",
+        "renderings": [
+          "sense",
+          "sensory faculty"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:sphaere",
+    "headword": "Sphäre",
+    "senses": [
+      {
+        "id": "lex:sphaere:s02",
+        "lexeme_id": "lex:sphaere",
+        "label": "range of possible sound positions",
+        "definition": "Range or domain in which related positions or contents stand: a sound’s possible positions here, and a conceptual field in later use.",
+        "rule": "Keep range distinct from the sound fixed at one point.",
+        "caution": "",
+        "decision_id": "D009.lex:sphaere:s02",
+        "renderings": [
+          "sphere",
+          "range"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:sprachaccent",
+    "headword": "Sprachaccent",
+    "senses": [
+      {
+        "id": "lex:sprachaccent:s01",
+        "lexeme_id": "lex:sprachaccent",
+        "label": "The word-level linguistic accent that can bind enclitic words rather than merely juxtaposing words through discourse accent",
+        "definition": "The word-level linguistic accent that can bind enclitic words rather than merely juxtaposing words through discourse accent.",
+        "rule": "Check its local opposition to Redeaccent rather than invent a new independent accent system.",
+        "caution": "",
+        "decision_id": "D009.lex:sprachaccent:s01",
+        "renderings": [
+          "linguistic accent",
+          "word accent"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:sprachanlage",
+    "headword": "Sprachanlage",
+    "senses": [
+      {
+        "id": "lex:sprachanlage:s02",
+        "lexeme_id": "lex:sprachanlage",
+        "label": "National dispositions in which the total sound system is said already to lie before writing refines its explicit arrangement",
+        "definition": "National dispositions in which the total sound system is said already to lie before writing refines its explicit arrangement.",
+        "rule": "Do not equate with a modern biological mechanism.",
+        "caution": "",
+        "decision_id": "D009.lex:sprachanlage:s02",
+        "renderings": [
+          "linguistic disposition"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:sprachbehandlung",
+    "headword": "Sprachbehandlung",
+    "senses": [
+      {
+        "id": "lex:sprachbehandlung:s02",
+        "lexeme_id": "lex:sprachbehandlung",
+        "label": "Handling of language that can balance quantity/rhythm with accent",
+        "definition": "Handling of language that can balance quantity/rhythm with accent.",
+        "rule": "Not a named grammar method or a writing convention.",
+        "caution": "",
+        "decision_id": "D009.lex:sprachbehandlung:s02",
+        "renderings": [
+          "handling of language",
+          "linguistic treatment"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:sprachdrang",
+    "headword": "Sprachdrang",
+    "senses": [
+      {
+        "id": "lex:sprachdrang:s01",
+        "lexeme_id": "lex:sprachdrang",
+        "label": "The inward impulse toward linguistic expression whose weakness is proposed as one cause of rough sounds",
+        "definition": "The inward impulse toward linguistic expression whose weakness is proposed as one cause of rough sounds.",
+        "rule": "The causal speculation is qualified by mögen.",
+        "caution": "Historical evaluative speculation, not a verified physiological claim.",
+        "decision_id": "D009.lex:sprachdrang:s01",
+        "renderings": [
+          "impulse to speech",
+          "linguistic impulse"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:sprachgefuehl",
+    "headword": "Sprachgefühl",
+    "senses": [
+      {
+        "id": "lex:sprachgefuehl:s02",
+        "lexeme_id": "lex:sprachgefuehl",
+        "label": "Unreflective feeling for language invoked in the claim that a word’s sound should display conceptual unity",
+        "definition": "Unreflective feeling for language invoked in the claim that a word’s sound should display conceptual unity.",
+        "rule": "Do not equate with experimentally measured grammaticality judgement.",
+        "caution": "",
+        "decision_id": "D009.lex:sprachgefuehl:s02",
+        "renderings": [
+          "feeling for language",
+          "linguistic sense"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:sprachgewoehnheit",
+    "headword": "Sprachgewöhnheit",
+    "senses": [
+      {
+        "id": "lex:sprachgewoehnheit:s01",
+        "lexeme_id": "lex:sprachgewoehnheit",
+        "label": "Habitual national ways of sounding speech, distinguished from later scholarly refinement of the system",
+        "definition": "Habitual national ways of sounding speech, distinguished from later scholarly refinement of the system.",
+        "rule": "Keep distinct from the writing system.",
+        "caution": "",
+        "decision_id": "D009.lex:sprachgewoehnheit:s01",
+        "renderings": [
+          "linguistic habit"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:sprachlaut",
+    "headword": "Sprachlaut",
+    "senses": [
+      {
+        "id": "lex:sprachlaut:s02",
+        "lexeme_id": "lex:sprachlaut",
+        "label": "A true speech sound returned from noisy vocal production to its concept-stimulating role",
+        "definition": "A true speech sound returned from noisy vocal production to its concept-stimulating role.",
+        "rule": "Use the local sound contribution; preserve the stated contrast.",
+        "caution": "",
+        "decision_id": "D009.lex:sprachlaut:s02",
+        "renderings": [
+          "speech sound"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:sprachsystem",
+    "headword": "Sprachsystem",
+    "senses": [
+      {
+        "id": "lex:sprachsystem:s02",
+        "lexeme_id": "lex:sprachsystem",
+        "label": "The interconnected whole into which explanations of particular grammatical forms enter",
+        "definition": "The interconnected whole into which explanations of particular grammatical forms enter.",
+        "rule": "Use the local organization contribution; preserve the stated contrast.",
+        "caution": "",
+        "decision_id": "D009.lex:sprachsystem:s02",
+        "renderings": [
+          "linguistic system",
+          "system of the language"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:sprachton",
+    "headword": "Sprachton",
+    "senses": [
+      {
+        "id": "lex:sprachton:s01",
+        "lexeme_id": "lex:sprachton",
+        "label": "Speech sound whose assigned position becomes more determinate through written comparison",
+        "definition": "Speech sound whose assigned position becomes more determinate through written comparison.",
+        "rule": "Not a written sign or a mandatory musical tone.",
+        "caution": "",
+        "decision_id": "D009.lex:sprachton:s01",
+        "renderings": [
+          "speech sound"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:sprachuntersuchung",
+    "headword": "Sprachuntersuchung",
+    "senses": [
+      {
+        "id": "lex:sprachuntersuchung:s02",
+        "lexeme_id": "lex:sprachuntersuchung",
+        "label": "Investigation of language requiring complete attention to sound and the connected linguistic system",
+        "definition": "Investigation of language requiring complete attention to sound and the connected linguistic system.",
+        "rule": "A method’s evidential limits are part of the inquiry.",
+        "caution": "",
+        "decision_id": "D009.lex:sprachuntersuchung:s02",
+        "renderings": [
+          "investigation of language",
+          "linguistic inquiry"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:sprachwerkzeug",
+    "headword": "Sprachwerkzeug",
+    "senses": [
+      {
+        "id": "lex:sprachwerkzeug:s02",
+        "lexeme_id": "lex:sprachwerkzeug",
+        "label": "The moving organs of speech which allow continuous variation in sound production",
+        "definition": "The moving organs of speech which allow continuous variation in sound production.",
+        "rule": "Preserve physical production, not an abstract communicative instrument.",
+        "caution": "",
+        "decision_id": "D009.lex:sprachwerkzeug:s02",
+        "renderings": [
+          "speech organ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:stimme",
+    "headword": "Stimme",
+    "senses": [
+      {
+        "id": "lex:stimme:s01",
+        "lexeme_id": "lex:stimme",
+        "label": "Voice as the sounded production whose rises and falls realize accentual patterns",
+        "definition": "Voice as the sounded production whose rises and falls realize accentual patterns.",
+        "rule": "Distinct from a written accent sign or conceptual weight.",
+        "caution": "",
+        "decision_id": "D009.lex:stimme:s01",
+        "renderings": [
+          "voice"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:stoff",
+    "headword": "Stoff",
+    "senses": [
+      {
+        "id": "lex:stoff:s03",
+        "lexeme_id": "lex:stoff",
+        "label": "resistant material of sound formation",
+        "definition": "Resistant material that limits the spirit’s forming activity, here embodied sound.",
+        "rule": "State the local bearer rather than assuming all Stoff is acoustic.",
+        "caution": "",
+        "decision_id": "D009.lex:stoff:s03",
+        "renderings": [
+          "material",
+          "matter"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:subjectivitaet",
+    "headword": "Subjectivitaet",
+    "senses": [
+      {
+        "id": "lex:subjectivitaet:s02",
+        "lexeme_id": "lex:subjectivitaet",
+        "label": "The subject’s inward transformation of the object, expressed outwardly by the word",
+        "definition": "The subject’s inward transformation of the object, expressed outwardly by the word.",
+        "rule": "Not mere personal bias; distinguish from objective presentation.",
+        "caution": "OCR Subiectivitaet corrected from the image.",
+        "decision_id": "D009.lex:subjectivitaet:s02",
+        "renderings": [
+          "subjectivity"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:sylbe",
+    "headword": "Sylbe",
+    "senses": [
+      {
+        "id": "lex:sylbe:s02",
+        "lexeme_id": "lex:sylbe",
+        "label": "Combination of sound-elements whose permissible extent depends on a language’s restrictions",
+        "definition": "Combination of sound-elements whose permissible extent depends on a language’s restrictions.",
+        "rule": "Do not equate a syllable with a word.",
+        "caution": "",
+        "decision_id": "D009.lex:sylbe:s02",
+        "renderings": [
+          "syllable"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:taddhita-suffix",
+    "headword": "Taddhita-Suffix",
+    "senses": [
+      {
+        "id": "lex:taddhita-suffix:s01",
+        "lexeme_id": "lex:taddhita-suffix",
+        "label": "Named Sanskrit suffix class which further reshapes an already stamped word, affecting the applicable contact rules",
+        "definition": "Named Sanskrit suffix class which further reshapes an already stamped word, affecting the applicable contact rules.",
+        "rule": "Retain the historical grammatical label.",
+        "caution": "OCR TaddhitaSnffixen is not a spelling variant; image reads Taddhita-Suffixen.",
+        "decision_id": "D009.lex:taddhita-suffix:s01",
+        "renderings": [
+          "Taddhita suffix"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:ton",
+    "headword": "Ton",
+    "senses": [
+      {
+        "id": "lex:ton:s03",
+        "lexeme_id": "lex:ton",
+        "label": "audible sound purified for speech",
+        "definition": "Audible sound which is to be separated from accompanying noise and made a true speech sound.",
+        "rule": "Do not assume musical pitch or lexical tone here.",
+        "caution": "",
+        "decision_id": "D009.lex:ton:s03",
+        "renderings": [
+          "sound",
+          "tone"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:toneinheit",
+    "headword": "Toneinheit",
+    "senses": [
+      {
+        "id": "lex:toneinheit:s01",
+        "lexeme_id": "lex:toneinheit",
+        "label": "Distinct unity of sound that identifies a word whole",
+        "definition": "Distinct unity of sound that identifies a word whole.",
+        "rule": "This unity realizes rather than replaces conceptual unity.",
+        "caution": "",
+        "decision_id": "D009.lex:toneinheit:s01",
+        "renderings": [
+          "unity of sound"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:tongebiet",
+    "headword": "Tongebiet",
+    "senses": [
+      {
+        "id": "lex:tongebiet:s01",
+        "lexeme_id": "lex:tongebiet",
+        "label": "Accentually organized sound-domain created by beginning a new prominence",
+        "definition": "Accentually organized sound-domain created by beginning a new prominence.",
+        "rule": "Do not import a modern prosodic constituency model as an exact equivalence.",
+        "caution": "",
+        "decision_id": "D009.lex:tongebiet:s01",
+        "renderings": [
+          "accentual domain",
+          "sound-domain"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:typus",
+    "headword": "Typus",
+    "senses": [
+      {
+        "id": "lex:typus:s02",
+        "lexeme_id": "lex:typus",
+        "label": "Pattern or model of the Sanskrit sound inventory said to spread across other languages",
+        "definition": "Pattern or model of the Sanskrit sound inventory said to spread across other languages.",
+        "rule": "Not automatically an entire language’s typological class.",
+        "caution": "",
+        "decision_id": "D009.lex:typus:s02",
+        "renderings": [
+          "type",
+          "pattern",
+          "model"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:umstempelung",
+    "headword": "Umstempelung",
+    "senses": [
+      {
+        "id": "lex:umstempelung:s01",
+        "lexeme_id": "lex:umstempelung",
+        "label": "Giving a root the formal status of a word; an impression/metaphor of stamping",
+        "definition": "Giving a root the formal status of a word; an impression/metaphor of stamping.",
+        "rule": "Preserve the distinction between root and formed word.",
+        "caution": "Authorial explanatory footnote citing Bopp; separate from the editor’s deletion note below.",
+        "decision_id": "D009.lex:umstempelung:s01",
+        "renderings": [
+          "stamping into a word",
+          "formation into a word"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:verkettung",
+    "headword": "Verkettung",
+    "senses": [
+      {
+        "id": "lex:verkettung:s01",
+        "lexeme_id": "lex:verkettung",
+        "label": "Linking several words by sound alteration and contraction across their contact",
+        "definition": "Linking several words by sound alteration and contraction across their contact.",
+        "rule": "Keep audible linking distinct from grammatical or conceptual unity.",
+        "caution": "",
+        "decision_id": "D009.lex:verkettung:s01",
+        "renderings": [
+          "linking",
+          "concatenation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:verschleifen",
+    "headword": "Verschleifen",
+    "senses": [
+      {
+        "id": "lex:verschleifen:s01",
+        "lexeme_id": "lex:verschleifen",
+        "label": "Running together or slurring sounds in continuous discourse, checked at pauses required by understanding",
+        "definition": "Running together or slurring sounds in continuous discourse, checked at pauses required by understanding.",
+        "rule": "Preserve the contrast between sound continuity and intellectual segmentation.",
+        "caution": "",
+        "decision_id": "D009.lex:verschleifen:s01",
+        "renderings": [
+          "slurring",
+          "running together"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:verstand",
+    "headword": "Verstand",
+    "senses": [
+      {
+        "id": "lex:verstand:s01",
+        "lexeme_id": "lex:verstand",
+        "label": "faculty of understanding",
+        "definition": "Understanding as an intellectual faculty engaged in analysis, distinctions and thought, locally contrasted with other faculties such as creative imagination or synthesizing reason.",
+        "rule": "Prefer understanding where faculty contrasts matter. In im Verstande des Redenden the possessor identifies the speaker’s faculty; it is not the idiom in the sense.",
+        "caution": "Different activities of this faculty are retained as contextual uses, not counted as new lexical senses. The separate sense-of-expression idiom requires its own construction and context.",
+        "decision_id": "D009.lex:verstand:s01",
+        "renderings": [
+          "understanding",
+          "intellect"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:verstandesgeltung",
+    "headword": "Verstandesgeltung",
+    "senses": [
+      {
+        "id": "lex:verstandesgeltung:s01",
+        "lexeme_id": "lex:verstandesgeltung",
+        "label": "The intellectual weight or contribution of words and syllables made more or less prominent in delivery",
+        "definition": "The intellectual weight or contribution of words and syllables made more or less prominent in delivery.",
+        "rule": "Do not conflate the compound with the faculty Verstand or with acoustic volume alone.",
+        "caution": "",
+        "decision_id": "D009.lex:verstandesgeltung:s01",
+        "renderings": [
+          "intellectual weight",
+          "significance for understanding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:verstandeshandlung",
+    "headword": "Verstandeshandlung",
+    "senses": [
+      {
+        "id": "lex:verstandeshandlung:s01",
+        "lexeme_id": "lex:verstandeshandlung",
+        "label": "The complete intellectual act of language contained in the word",
+        "definition": "The complete intellectual act of language contained in the word.",
+        "rule": "Distinct from a static sound or written object.",
+        "caution": "",
+        "decision_id": "D009.lex:verstandeshandlung:s01",
+        "renderings": [
+          "act of understanding",
+          "intellectual act"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:verstaendlichkeit",
+    "headword": "Verständlichkeit",
+    "senses": [
+      {
+        "id": "lex:verstaendlichkeit:s01",
+        "lexeme_id": "lex:verstaendlichkeit",
+        "label": "Intelligibility of discourse, immediately affected by the sound system",
+        "definition": "Intelligibility of discourse, immediately affected by the sound system.",
+        "rule": "Distinguish comprehensibility from complete identity of thought.",
+        "caution": "",
+        "decision_id": "D009.lex:verstaendlichkeit:s01",
+        "renderings": [
+          "intelligibility"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:vocal",
+    "headword": "Vocal",
+    "senses": [
+      {
+        "id": "lex:vocal:s01",
+        "lexeme_id": "lex:vocal",
+        "label": "Vocalic sound that determines and can itself constitute a syllable",
+        "definition": "Vocalic sound that determines and can itself constitute a syllable.",
+        "rule": "Do not read as a written vowel-letter only.",
+        "caution": "",
+        "decision_id": "D009.lex:vocal:s01",
+        "renderings": [
+          "vowel"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:vocalendung",
+    "headword": "Vocalendung",
+    "senses": [
+      {
+        "id": "lex:vocalendung:s01",
+        "lexeme_id": "lex:vocalendung",
+        "label": "Vocalic ending bearing the Chinese intonation in the author’s explanatory note",
+        "definition": "Vocalic ending bearing the Chinese intonation in the author’s explanatory note.",
+        "rule": "This is Humboldt’s historical analysis, not newly verified Chinese phonology.",
+        "caution": "",
+        "decision_id": "D009.lex:vocalendung:s01",
+        "renderings": [
+          "vocalic ending",
+          "vowel ending"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:vocallaut",
+    "headword": "Vocallaut",
+    "senses": [
+      {
+        "id": "lex:vocallaut:s01",
+        "lexeme_id": "lex:vocallaut",
+        "label": "Vowel sound considered with respect to its quantity and the inventory’s completeness",
+        "definition": "Vowel sound considered with respect to its quantity and the inventory’s completeness.",
+        "rule": "The quantity contrast continues on p406; do not complete the quotation silently.",
+        "caution": "",
+        "decision_id": "D009.lex:vocallaut:s01",
+        "renderings": [
+          "vowel sound"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:vortrag",
+    "headword": "Vortrag",
+    "senses": [
+      {
+        "id": "lex:vortrag:s01",
+        "lexeme_id": "lex:vortrag",
+        "label": "Living manner of spoken delivery, an element of language beyond its detached dead constituents",
+        "definition": "Living manner of spoken delivery, an element of language beyond its detached dead constituents.",
+        "rule": "Not necessarily a lecture as an institutional event.",
+        "caution": "",
+        "decision_id": "D009.lex:vortrag:s01",
+        "renderings": [
+          "delivery",
+          "spoken presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:wechselwirkung",
+    "headword": "Wechselwirkung",
+    "senses": [
+      {
+        "id": "lex:wechselwirkung:s02",
+        "lexeme_id": "lex:wechselwirkung",
+        "label": "Reciprocal influence between the spirit’s sound formation and sound’s effects on intellectual activity",
+        "definition": "Reciprocal influence between the spirit’s sound formation and sound’s effects on intellectual activity.",
+        "rule": "Preserve both directions rather than a one-way determinism.",
+        "caution": "",
+        "decision_id": "D009.lex:wechselwirkung:s02",
+        "renderings": [
+          "reciprocal influence",
+          "interaction"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:wohllaut",
+    "headword": "Wohllaut",
+    "senses": [
+      {
+        "id": "lex:wohllaut:s01",
+        "lexeme_id": "lex:wohllaut",
+        "label": "Pleasing audible quality of discourse, distinguished from its intelligibility and intellectual contribution",
+        "definition": "Pleasing audible quality of discourse, distinguished from its intelligibility and intellectual contribution.",
+        "rule": "Retain its aesthetic contribution rather than treating it as mere ease of articulation.",
+        "caution": "",
+        "decision_id": "D009.lex:wohllaut:s01",
+        "renderings": [
+          "euphony"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:wort",
+    "headword": "Wort",
+    "senses": [
+      {
+        "id": "lex:wort:s03",
+        "lexeme_id": "lex:wort",
+        "label": "sound-concept linguistic individual",
+        "definition": "A linguistic individual uniting sound and concept; the simple word contains the complete intellectual action attributed to language.",
+        "rule": "Retain Worte/Wörter as observed forms without importing a dictionary-only distribution.",
+        "caution": "",
+        "decision_id": "D009.lex:wort:s03",
+        "renderings": [
+          "word"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:wortabtheilung",
+    "headword": "Wortabtheilung",
+    "senses": [
+      {
+        "id": "lex:wortabtheilung:s01",
+        "lexeme_id": "lex:wortabtheilung",
+        "label": "Division of discourse into words as perceptible units",
+        "definition": "Division of discourse into words as perceptible units.",
+        "rule": "Not necessarily written word spacing.",
+        "caution": "",
+        "decision_id": "D009.lex:wortabtheilung:s01",
+        "renderings": [
+          "word division"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:wortaccent",
+    "headword": "Wortaccent",
+    "senses": [
+      {
+        "id": "lex:wortaccent:s01",
+        "lexeme_id": "lex:wortaccent",
+        "label": "Accent belonging to the word and helping constitute it as a unit, rather than changing with the particular discourse",
+        "definition": "Accent belonging to the word and helping constitute it as a unit, rather than changing with the particular discourse.",
+        "rule": "Use the local prosody contribution; preserve the stated contrast.",
+        "caution": "",
+        "decision_id": "D009.lex:wortaccent:s01",
+        "renderings": [
+          "word accent",
+          "word stress"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:worteinschnitt",
+    "headword": "Worteinschnitt",
+    "senses": [
+      {
+        "id": "lex:worteinschnitt:s01",
+        "lexeme_id": "lex:worteinschnitt",
+        "label": "Breaks defined by words, compared with the breaks of rhythm",
+        "definition": "Breaks defined by words, compared with the breaks of rhythm.",
+        "rule": "Distinguish word boundary from metrical boundary.",
+        "caution": "",
+        "decision_id": "D009.lex:worteinschnitt:s01",
+        "renderings": [
+          "word break",
+          "word division"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:worteintheilung",
+    "headword": "Worteintheilung",
+    "senses": [
+      {
+        "id": "lex:worteintheilung:s01",
+        "lexeme_id": "lex:worteintheilung",
+        "label": "Division into words, contrasted with larger auditory grouping",
+        "definition": "Division into words, contrasted with larger auditory grouping.",
+        "rule": "Use the local segmentation contribution; preserve the stated contrast.",
+        "caution": "",
+        "decision_id": "D009.lex:worteintheilung:s01",
+        "renderings": [
+          "division into words"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:wortganze",
+    "headword": "Wortganze",
+    "senses": [
+      {
+        "id": "lex:wortganze:s01",
+        "lexeme_id": "lex:wortganze",
+        "label": "Whole words regarded as units requiring their own audible unity",
+        "definition": "Whole words regarded as units requiring their own audible unity.",
+        "rule": "Preserve the unity of each word rather than a loose collection of words.",
+        "caution": "",
+        "decision_id": "D009.lex:wortganze:s01",
+        "renderings": [
+          "word wholes",
+          "whole words"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:wortverkettung",
+    "headword": "Wortverkettung",
+    "senses": [
+      {
+        "id": "lex:wortverkettung:s01",
+        "lexeme_id": "lex:wortverkettung",
+        "label": "Linking words through changes of speech elements, adding to Sanskrit’s complex sound system",
+        "definition": "Linking words through changes of speech elements, adding to Sanskrit’s complex sound system.",
+        "rule": "Use the local sound operation contribution; preserve the stated contrast.",
+        "caution": "",
+        "decision_id": "D009.lex:wortverkettung:s01",
+        "renderings": [
+          "word linking",
+          "concatenation of words"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:zeichen",
+    "headword": "Zeichen",
+    "senses": [
+      {
+        "id": "lex:zeichen:s02",
+        "lexeme_id": "lex:zeichen",
+        "label": "written reminder-sign",
+        "definition": "Written reminder of a speech sound.",
+        "rule": "Differentiate this ordinary reminder-sign from the later argument about words as signs.",
+        "caution": "",
+        "decision_id": "D009.lex:zeichen:s02",
+        "renderings": [
+          "sign"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:zeitmass",
+    "headword": "Zeitmass",
+    "senses": [
+      {
+        "id": "lex:zeitmass:s01",
+        "lexeme_id": "lex:zeitmass",
+        "label": "Syllabic temporal quantity, subsequently grounded in pronunciation rather than arbitrary assignment",
+        "definition": "Syllabic temporal quantity, subsequently grounded in pronunciation rather than arbitrary assignment.",
+        "rule": "Keep distinct from accent and from calendar time.",
+        "caution": "",
+        "decision_id": "D009.lex:zeitmass:s01",
+        "renderings": [
+          "quantity",
+          "temporal measure"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:zischen",
+    "headword": "Zischen",
+    "senses": [
+      {
+        "id": "lex:zischen:s01",
+        "lexeme_id": "lex:zischen",
+        "label": "Hissing noise named in the author’s account of accompanying sound",
+        "definition": "Hissing noise named in the author’s account of accompanying sound.",
+        "rule": "Retain the evaluative account as the author’s, not present-day acoustic classification.",
+        "caution": "",
+        "decision_id": "D009.lex:zischen:s01",
+        "renderings": [
+          "hissing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:zusammenziehung",
+    "headword": "Zusammenziehung",
+    "senses": [
+      {
+        "id": "lex:zusammenziehung:s01",
+        "lexeme_id": "lex:zusammenziehung",
+        "label": "Contraction accompanying sound alteration in the linking of words",
+        "definition": "Contraction accompanying sound alteration in the linking of words.",
+        "rule": "Do not assume it produces one conceptual word.",
+        "caution": "",
+        "decision_id": "D009.lex:zusammenziehung:s01",
+        "renderings": [
+          "contraction"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:aesthetisches-gefuehl",
+    "headword": "aesthetisches Gefühl",
+    "senses": [
+      {
+        "id": "lex:aesthetisches-gefuehl:s01",
+        "lexeme_id": "lex:aesthetisches-gefuehl",
+        "label": "Non-musical, non-poetic feeling that urges complete and clear sounding of speech elements",
+        "definition": "Non-musical, non-poetic feeling that urges complete and clear sounding of speech elements.",
+        "rule": "Do not confine the aesthetic to music or verse.",
+        "caution": "",
+        "decision_id": "D009.lex:aesthetisches-gefuehl:s01",
+        "renderings": [
+          "aesthetic feeling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:articulirter-laut",
+    "headword": "articulirter Laut",
+    "senses": [
+      {
+        "id": "lex:articulirter-laut:s01",
+        "lexeme_id": "lex:articulirter-laut",
+        "label": "Speech sound as articulated for conceptual expression, presented as essential to language",
+        "definition": "Speech sound as articulated for conceptual expression, presented as essential to language.",
+        "rule": "Do not silently substitute phoneme or modern articulation theory.",
+        "caution": "",
+        "decision_id": "D009.lex:articulirter-laut:s01",
+        "renderings": [
+          "articulated sound"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:bezeichnen",
+    "headword": "bezeichnen",
+    "senses": [
+      {
+        "id": "lex:bezeichnen:s01",
+        "lexeme_id": "lex:bezeichnen",
+        "label": "To designate or indicate conceptual content through a word",
+        "definition": "To designate or indicate conceptual content through a word.",
+        "rule": "Nominal Bezeichnung is a related but separate lexeme. The later text differentiates conceptual manner from sound choice.",
+        "caution": "",
+        "decision_id": "D009.lex:bezeichnen:s01",
+        "renderings": [
+          "designate",
+          "indicate"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:enklitisch",
+    "headword": "enklitisch",
+    "senses": [
+      {
+        "id": "lex:enklitisch:s01",
+        "lexeme_id": "lex:enklitisch",
+        "label": "Attached realization opposed here to independent accent",
+        "definition": "Attached realization opposed here to independent accent.",
+        "rule": "Do not treat it merely as a writing convention.",
+        "caution": "",
+        "decision_id": "D009.lex:enklitisch:s01",
+        "renderings": [
+          "enclitic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:enklitisches-wort",
+    "headword": "enklitisches Wort",
+    "senses": [
+      {
+        "id": "lex:enklitisches-wort:s01",
+        "lexeme_id": "lex:enklitisches-wort",
+        "label": "A separately existing word whose independent force and accent can be absorbed through attachment to another",
+        "definition": "A separately existing word whose independent force and accent can be absorbed through attachment to another.",
+        "rule": "Preserve the word’s changing sound realization and dependent use.",
+        "caution": "",
+        "decision_id": "D009.lex:enklitisches-wort:s01",
+        "renderings": [
+          "enclitic word"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:grammatische-form",
+    "headword": "grammatische Form",
+    "senses": [
+      {
+        "id": "lex:grammatische-form:s01",
+        "lexeme_id": "lex:grammatische-form",
+        "label": "Linguistic forms whose explanation depends on the language’s handling of sound",
+        "definition": "Linguistic forms whose explanation depends on the language’s handling of sound.",
+        "rule": "Keep grammatical function distinct from the sounds realizing it.",
+        "caution": "",
+        "decision_id": "D009.lex:grammatische-form:s01",
+        "renderings": [
+          "grammatical form"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:orthotonisch",
+    "headword": "orthotonisch",
+    "senses": [
+      {
+        "id": "lex:orthotonisch:s01",
+        "lexeme_id": "lex:orthotonisch",
+        "label": "Independently accented realization, contrasted with the enclitic realization",
+        "definition": "Independently accented realization, contrasted with the enclitic realization.",
+        "rule": "Retain the paired contrast.",
+        "caution": "",
+        "decision_id": "D009.lex:orthotonisch:s01",
+        "renderings": [
+          "orthotonic",
+          "independently accented"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:phonetisch",
+    "headword": "phonetisch",
+    "senses": [
+      {
+        "id": "lex:phonetisch:s01",
+        "lexeme_id": "lex:phonetisch",
+        "label": "Sound-based means of making discourse units perceptibly distinct",
+        "definition": "Sound-based means of making discourse units perceptibly distinct.",
+        "rule": "The text’s adjective does not specify a modern phonetic theory.",
+        "caution": "",
+        "decision_id": "D009.lex:phonetisch:s01",
+        "renderings": [
+          "phonetic",
+          "sound-based"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lex:willkuehrlich",
+    "headword": "willkührlich",
+    "senses": [
+      {
+        "id": "lex:willkuehrlich:s01",
+        "lexeme_id": "lex:willkuehrlich",
+        "label": "Dependent on choice or discretionary determination, contrasted here with quantity grounded in pronunciation",
+        "definition": "Dependent on choice or discretionary determination, contrasted here with quantity grounded in pronunciation.",
+        "rule": "Choose by context; not every occurrence means random or careless.",
+        "caution": "",
+        "decision_id": "D009.lex:willkuehrlich:s01",
+        "renderings": [
+          "arbitrary",
+          "voluntary",
+          "discretionary"
+        ]
+      }
+    ]
+  }
+]

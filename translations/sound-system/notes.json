@@ -1,0 +1,843 @@
+{
+  "notes": [
+    {
+      "id": "sound-letters",
+      "source_id": "p56:s2",
+      "source_ids": [
+        "p56:s2"
+      ],
+      "text": "“Letters” here are speech-sound elements, not marks on a page; see the terminology guide. Writing is introduced separately in 71.",
+      "reason": "Prevent written characters from replacing speech sounds in the argument.",
+      "evidence": [],
+      "attribution": "Trans.",
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p56:de:s2",
+      "target_unit": "p56:revised:s2",
+      "source_version": "grundzuege-056-v1",
+      "target_version": "en56-revised-v2",
+      "source_body_sha256": "a64988306ff781ada25866f7c843aceb8c9fa99007d13aa8badfb55da6b1b41d",
+      "target_body_sha256": "3c0e48b241218f1188dd3798d77bc62cd57501436f93a16fab239b7c02dd6b5c",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 293
+      },
+      "authorship": "translator",
+      "display_number": 1
+    },
+    {
+      "id": "sound-clicks",
+      "source_id": "p57:s4",
+      "source_ids": [
+        "p57:s4"
+      ],
+      "text": "Modern phonetics classifies clicks as consonants, not as an animal residue added to articulated speech. See the [International Phonetic Association’s chart](https://www.internationalphoneticassociation.org/IPAcharts/common_files/pdfs/pdfs_IPA_charts_archive/IPA_unitipa_2020.pdf), “Consonants (non-pulmonic)”. This classification does not support Humboldt’s scale of intellectual refinement.",
+      "reason": "Qualify the explicit assimilation of legitimate speech sounds to animal noise.",
+      "evidence": [
+        "ipa"
+      ],
+      "attribution": "Trans.",
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p57:de:s4",
+      "target_unit": "p57:revised:s4",
+      "source_version": "grundzuege-057-v1",
+      "target_version": "en57-revised-v2",
+      "source_body_sha256": "07a245d1234fb6425641b81ee14a3abab52e7a658c1d917226aeaeb37af00efb",
+      "target_body_sha256": "335b670eb9ddd7d17589a1c62523d3d62de0de6b63437f86203f49ff792512ba",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 361
+      },
+      "authorship": "translator",
+      "display_number": 2
+    },
+    {
+      "id": "sound-conceptual-inference",
+      "source_id": "p59:s3",
+      "source_ids": [
+        "p59:s3",
+        "p59:s2",
+        "p60:s2",
+        "p61:s7"
+      ],
+      "text": "This moves from the differentiation of sounds to a judgment about concepts. Humboldt offers it as part of his theory; no comparative demonstration is given in this division.",
+      "reason": "Mark the inference rather than making a measurement of conceptual clarity out of a sound inventory.",
+      "evidence": [],
+      "attribution": "Trans.",
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p59:de:s3",
+      "target_unit": "p59:revised:s3",
+      "source_version": "grundzuege-059-v1",
+      "target_version": "en59-revised-v2",
+      "source_body_sha256": "3ad21e084c09fee4d827ee50a5596f4dfccc7bf837159403159ebe4a79d21c25",
+      "target_body_sha256": "211f0b3ce1820581ea81a3a476c241e656153750749ea5754c0c4bda939d55a1",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 176
+      },
+      "authorship": "translator",
+      "display_number": 3
+    },
+    {
+      "id": "sound-meaningless",
+      "source_id": "p61:s4",
+      "source_ids": [
+        "p61:s4",
+        "p61:s3",
+        "p61:s6"
+      ],
+      "text": "“Meaningless” here contrasts with an associated concept carried by the sound. It does not mean that an inflection has no grammatical role: the point is to express the relation without adding unrelated lexical content.",
+      "reason": "Prevent absence of substantive content from becoming absence of grammatical function.",
+      "evidence": [],
+      "attribution": "Trans.",
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p61:de:s4",
+      "target_unit": "p61:revised:s4",
+      "source_version": "grundzuege-061-v1",
+      "target_version": "en61-revised-v2",
+      "source_body_sha256": "6d287760a589fb6784f05475878fd5791c2bff1309bb182b9dcab02c09c003cb",
+      "target_body_sha256": "a132f8099e92530f4cdc52a009e63baa0781d1fb20a932471038e3f38d49d255",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 194
+      },
+      "authorship": "translator",
+      "display_number": 4
+    },
+    {
+      "id": "sound-source-deleted-near",
+      "source_id": "p62:s1",
+      "source_ids": [
+        "p62:s1",
+        "note:deleted-near"
+      ],
+      "source_note_id": "note:deleted-near",
+      "text": "Deleted after ‘der’: ‘lying close to one another’.",
+      "reason": "Translate the complete printed source note, retaining authorship and original callout metadata. The English callout is at the corresponding phrase or nearest readable boundary; it does not restore a reported deletion into the text.",
+      "evidence": [],
+      "attribution": "1906 Ed.",
+      "status": "provisional source-note translation; English and annotation review pending",
+      "source_unit": "p62:de:s1",
+      "target_unit": "p62:revised:s1",
+      "source_version": "grundzuege-062-v1",
+      "target_version": "en62-revised-v2",
+      "source_body_sha256": "2c557396315b08683a2637c9b2222346c9a096b5f700965f92cf496ad9027c30",
+      "target_body_sha256": "c9c3cb9187bde4fdabdf7dbfe4bc05634968c7dc9e87919ae7ddfcf41aae4f58",
+      "anchor": {
+        "after": "clear separation of sounds",
+        "offset_in_rendering": 76
+      },
+      "authorship": "editor1906",
+      "original_marker": "1)",
+      "original_anchor": "After der in the first sentence of62",
+      "source_text": "Nach „der“ gestrichen: „einander nahe liegenden“.",
+      "source_note_target_unit": "sound:note:deleted-near:revised:s1",
+      "display_number": 5
+    },
+    {
+      "id": "sound-source-bopp-62",
+      "source_id": "p62:s3",
+      "source_ids": [
+        "p62:s3",
+        "note:bopp-62"
+      ],
+      "source_note_id": "note:bopp-62",
+      "text": "Bopp’s Lehrgebäude der Sanskrita Sprache, p. 14, no. 20. (Bopp’s Grammar.)",
+      "reason": "Translate the complete printed source note, retaining authorship and original callout metadata. The English callout is at the corresponding phrase or nearest readable boundary; it does not restore a reported deletion into the text.",
+      "evidence": [],
+      "attribution": "Humboldt",
+      "status": "provisional source-note translation; English and annotation review pending",
+      "source_unit": "p62:de:s3",
+      "target_unit": "p62:revised:s3",
+      "source_version": "grundzuege-062-v1",
+      "target_version": "en62-revised-v2",
+      "source_body_sha256": "2c557396315b08683a2637c9b2222346c9a096b5f700965f92cf496ad9027c30",
+      "target_body_sha256": "c9c3cb9187bde4fdabdf7dbfe4bc05634968c7dc9e87919ae7ddfcf41aae4f58",
+      "anchor": {
+        "after": "Indian cerebrals or linguals",
+        "offset_in_rendering": 276
+      },
+      "authorship": "humboldt",
+      "original_marker": "*)",
+      "original_anchor": "After Lingualen in62",
+      "source_text": "Bopp's Lehrgebäude der Sanskrita Sprache. S. 14. nr. 20. (Bopp's Grammatik.)",
+      "source_note_target_unit": "sound:note:bopp-62:revised:s1",
+      "display_number": 6
+    },
+    {
+      "id": "sound-cerebral",
+      "source_id": "p62:s3",
+      "source_ids": [
+        "p62:s3"
+      ],
+      "text": "“Cerebral” and “lingual” are historical names for consonants made with the tongue tip drawn back, usually called retroflex consonants today. They concern articulation, not a class of mental abilities; see [Whitney, Sanskrit Grammar, §45](https://en.wikisource.org/wiki/Sanskrit_Grammar_(Whitney)/Chapter_II).",
+      "reason": "Explain an unfamiliar historical sound-class label.",
+      "evidence": [
+        "whitney"
+      ],
+      "attribution": "Trans.",
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p62:de:s3",
+      "target_unit": "p62:revised:s3",
+      "source_version": "grundzuege-062-v1",
+      "target_version": "en62-revised-v2",
+      "source_body_sha256": "2c557396315b08683a2637c9b2222346c9a096b5f700965f92cf496ad9027c30",
+      "target_body_sha256": "c9c3cb9187bde4fdabdf7dbfe4bc05634968c7dc9e87919ae7ddfcf41aae4f58",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 294
+      },
+      "authorship": "translator",
+      "display_number": 7
+    },
+    {
+      "id": "sound-understanding",
+      "source_id": "p63:s4",
+      "source_ids": [
+        "p63:s4",
+        "p64:s3"
+      ],
+      "text": "The phrase “before the understanding” is read here as “as it appears to the understanding”, in line with the parallel contrast between ear and understanding in 64. A temporal reading, “before understanding intervenes”, is also possible, but is less well supported by that parallel.",
+      "reason": "Expose a consequential reading of a compressed construction.",
+      "evidence": [],
+      "attribution": "Trans.",
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p63:de:s4",
+      "target_unit": "p63:revised:s4",
+      "source_version": "grundzuege-063-v1",
+      "target_version": "en63-revised-v2",
+      "source_body_sha256": "aaa62b11810c207a6ffb3b463ba943559336978e2325190b38a4a65250d4fc66",
+      "target_body_sha256": "c5cfe7da99b95c17c18119d3af6dafd5affb287a36e75157d85f0d654cd84da2",
+      "anchor": {
+        "after": "as it appears to the understanding",
+        "offset_in_rendering": 382
+      },
+      "authorship": "translator",
+      "display_number": 8
+    },
+    {
+      "id": "sound-source-thiersch",
+      "source_id": "p63:s5",
+      "source_ids": [
+        "p63:s5",
+        "note:thiersch"
+      ],
+      "source_note_id": "note:thiersch",
+      "text": "Thiersch maintains that the Greeks joined words, as in Sanskrit.",
+      "reason": "Translate the complete printed source note, retaining authorship and original callout metadata. The English callout is at the corresponding phrase or nearest readable boundary; it does not restore a reported deletion into the text.",
+      "evidence": [],
+      "attribution": "Humboldt",
+      "status": "provisional source-note translation; English and annotation review pending",
+      "source_unit": "p63:de:s5",
+      "target_unit": "p63:revised:s5",
+      "source_version": "grundzuege-063-v1",
+      "target_version": "en63-revised-v2",
+      "source_body_sha256": "aaa62b11810c207a6ffb3b463ba943559336978e2325190b38a4a65250d4fc66",
+      "target_body_sha256": "c5cfe7da99b95c17c18119d3af6dafd5affb287a36e75157d85f0d654cd84da2",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 278
+      },
+      "authorship": "humboldt",
+      "original_marker": "*)",
+      "original_anchor": "After gekannt haben in63",
+      "source_text": "Thiersch behauptet, dass die Griechen, wie das Sanskrit, die Wörter verbanden.",
+      "source_note_target_unit": "sound:note:thiersch:revised:s1",
+      "display_number": 9
+    },
+    {
+      "id": "sound-source-carey",
+      "source_id": "p63:s8",
+      "source_ids": [
+        "p63:s8",
+        "note:carey"
+      ],
+      "source_note_id": "note:carey",
+      "text": "Grammar of the Telinga Language, Preface, p. II.",
+      "reason": "Translate the complete printed source note, retaining authorship and original callout metadata. The English callout is at the corresponding phrase or nearest readable boundary; it does not restore a reported deletion into the text.",
+      "evidence": [],
+      "attribution": "Humboldt",
+      "status": "provisional source-note translation; English and annotation review pending",
+      "source_unit": "p63:de:s8",
+      "target_unit": "p63:revised:s8",
+      "source_version": "grundzuege-063-v1",
+      "target_version": "en63-revised-v2",
+      "source_body_sha256": "aaa62b11810c207a6ffb3b463ba943559336978e2325190b38a4a65250d4fc66",
+      "target_body_sha256": "c5cfe7da99b95c17c18119d3af6dafd5affb287a36e75157d85f0d654cd84da2",
+      "anchor": {
+        "after": "Carey",
+        "offset_in_rendering": 5
+      },
+      "authorship": "humboldt",
+      "original_marker": "**)",
+      "original_anchor": "After Carey in63",
+      "source_text": "Grammar of the Telinga language. Vorr. p. II.",
+      "source_note_target_unit": "sound:note:carey:revised:s1",
+      "display_number": 10
+    },
+    {
+      "id": "sound-telugu",
+      "source_id": "p63:s8",
+      "source_ids": [
+        "p63:s8",
+        "p63:s7"
+      ],
+      "text": "“Telinga” is Telugu, a Dravidian language, not a descendant of Sanskrit. The transition from Sanskrit-derived languages to this example therefore needs qualification: compare [Carey’s catalogue record](https://openlibrary.org/books/OL27882132M/A_grammar_of_the_Telinga_language) with [Glottolog’s classification](https://glottolog.org/glottolog?iso=tel). Carey’s cited preface has not been independently checked here.",
+      "reason": "Identify the historical name and qualify the apparent genealogical inclusion, without claiming to have checked the cited preface.",
+      "evidence": [
+        "telugu",
+        "carey-catalogue"
+      ],
+      "attribution": "Trans.",
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p63:de:s8",
+      "target_unit": "p63:revised:s8",
+      "source_version": "grundzuege-063-v1",
+      "target_version": "en63-revised-v2",
+      "source_body_sha256": "aaa62b11810c207a6ffb3b463ba943559336978e2325190b38a4a65250d4fc66",
+      "target_body_sha256": "c5cfe7da99b95c17c18119d3af6dafd5affb287a36e75157d85f0d654cd84da2",
+      "anchor": {
+        "after": "Telinga",
+        "offset_in_rendering": 33
+      },
+      "authorship": "translator",
+      "display_number": 11
+    },
+    {
+      "id": "sound-source-haughton",
+      "source_id": "p63:s9",
+      "source_ids": [
+        "p63:s9",
+        "note:haughton"
+      ],
+      "source_note_id": "note:haughton",
+      "text": "Haugthon’s Rudiments of Bengali Grammar, p. 147, § 377.",
+      "reason": "Translate the complete printed source note, retaining authorship and original callout metadata. The English callout is at the corresponding phrase or nearest readable boundary; it does not restore a reported deletion into the text.",
+      "evidence": [],
+      "attribution": "Humboldt",
+      "status": "provisional source-note translation; English and annotation review pending",
+      "source_unit": "p63:de:s9",
+      "target_unit": "p63:revised:s9",
+      "source_version": "grundzuege-063-v1",
+      "target_version": "en63-revised-v2",
+      "source_body_sha256": "aaa62b11810c207a6ffb3b463ba943559336978e2325190b38a4a65250d4fc66",
+      "target_body_sha256": "c5cfe7da99b95c17c18119d3af6dafd5affb287a36e75157d85f0d654cd84da2",
+      "anchor": {
+        "after": "strictly observed",
+        "offset_in_rendering": 59
+      },
+      "authorship": "humboldt",
+      "original_marker": "***)",
+      "original_anchor": "After beobachtet in63",
+      "source_text": "Haugthon's Rudiments of Bengali Grammar. p. 147. §. 377.",
+      "source_note_target_unit": "sound:note:haughton:revised:s1",
+      "display_number": 12
+    },
+    {
+      "id": "sound-source-bopp-64",
+      "source_id": "p64:s10",
+      "source_ids": [
+        "p64:s10",
+        "note:bopp-64"
+      ],
+      "source_note_id": "note:bopp-64",
+      "text": "Strictly speaking, the rules for the interior of words are not quite correctly so called. They apply in full only when the root is stamped anew as a word, and in that word’s inflections. Already with the Taddhita suffixes, which further reshape the word thus stamped, the rules for the initial and final letters of different words come into play. Bopp’s Grammar, p. 58, § 85.",
+      "reason": "Translate the complete printed source note, retaining authorship and original callout metadata. The English callout is at the corresponding phrase or nearest readable boundary; it does not restore a reported deletion into the text.",
+      "evidence": [],
+      "attribution": "Humboldt",
+      "status": "provisional source-note translation; English and annotation review pending",
+      "source_unit": "p64:de:s10",
+      "target_unit": "p64:revised:s10",
+      "source_version": "grundzuege-064-v1",
+      "target_version": "en64-revised-v2",
+      "source_body_sha256": "de55e0b1cfd5f3f9339814bbfa45b2f74d25266aef711b70719b5f74e78a6198",
+      "target_body_sha256": "5f7227341e5299b1b82a424bae177ee43debcf13ee10e3a2625d115f5e2da0d4",
+      "anchor": {
+        "after": "parts of compound words",
+        "offset_in_rendering": 115
+      },
+      "authorship": "humboldt",
+      "original_marker": "*)",
+      "original_anchor": "After gelten in the final sentence of64",
+      "source_text": "Die Regeln für die Mitte der Wörter werden genau genommen nicht ganz richtig so genannt. Vollständig gelten sie nur bei der Umstempelung der Wurzel zum Wort, und bei den Flexionen von diesem. Schon bei den, das so gestempelte Wort weiter umformenden Taddhita-Suffixen, treten die Regeln der Anfangs- und Endbuchstaben verschiedener Worte ein. Bopp's Gramm. S. 58. §. 85.",
+      "source_note_target_unit": "sound:note:bopp-64:revised:s1",
+      "display_number": 13
+    },
+    {
+      "id": "sound-source-deleted-signs",
+      "source_id": "p65:s2",
+      "source_ids": [
+        "p65:s2",
+        "note:deleted-signs"
+      ],
+      "source_note_id": "note:deleted-signs",
+      "text": "Deleted after ‘dem’ in ‘in dem’ (‘in which’): ‘with or without signs of their own’.",
+      "reason": "Translate the complete printed source note, retaining authorship and original callout metadata. The English callout is at the corresponding phrase or nearest readable boundary; it does not restore a reported deletion into the text.",
+      "evidence": [],
+      "attribution": "1906 Ed.",
+      "status": "provisional source-note translation; English and annotation review pending",
+      "source_unit": "p65:de:s2",
+      "target_unit": "p65:revised:s2",
+      "source_version": "grundzuege-065-v1",
+      "target_version": "en65-revised-v2",
+      "source_body_sha256": "eef3185a91b56f1941a1f0f6ff2f67a1833dac7a89c0f3c39632258a262a710d",
+      "target_body_sha256": "6d774199348e05a19a82bce66cebb8cb8c6297cf47b9fd88add6a1ec40ce7763",
+      "anchor": {
+        "after": "in which",
+        "offset_in_rendering": 161
+      },
+      "authorship": "editor1906",
+      "original_marker": "1)",
+      "original_anchor": "After dem in in dem in65",
+      "source_text": "Nach „dem“ gestrichen: „mit oder ohne eigene Zeichen“.",
+      "source_note_target_unit": "sound:note:deleted-signs:revised:s1",
+      "display_number": 14
+    },
+    {
+      "id": "sound-freedom",
+      "source_id": "p65:s12",
+      "source_ids": [
+        "p65:s11",
+        "p65:s12"
+      ],
+      "text": "The referent of “its freedom” is compressed. It may be aesthetic feeling, rhythm or quantity; the English leaves the reference open rather than assigning it uniquely.",
+      "reason": "Preserve an unresolved antecedent while keeping the whole contrast visible.",
+      "evidence": [],
+      "attribution": "Trans.",
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p65:de:s12",
+      "target_unit": "p65:revised:s12",
+      "source_version": "grundzuege-065-v1",
+      "target_version": "en65-revised-v2",
+      "source_body_sha256": "eef3185a91b56f1941a1f0f6ff2f67a1833dac7a89c0f3c39632258a262a710d",
+      "target_body_sha256": "6d774199348e05a19a82bce66cebb8cb8c6297cf47b9fd88add6a1ec40ce7763",
+      "anchor": {
+        "after": "its freedom",
+        "offset_in_rendering": 156
+      },
+      "authorship": "translator",
+      "display_number": 15
+    },
+    {
+      "id": "sound-intention",
+      "source_id": "p66:s1",
+      "source_ids": [
+        "p66:s1",
+        "p66:s6",
+        "p67:s1"
+      ],
+      "text": "The claim of exclusive dependence on intention is Humboldt’s. He immediately adds constraints from pronunciation and euphony, and in 67 treats word accent as belonging to the language; it should not be paraphrased as free choice of the accent on each word.",
+      "reason": "Keep the absolute assertion and its later constraints visible.",
+      "evidence": [],
+      "attribution": "Trans.",
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p66:de:s1",
+      "target_unit": "p66:revised:s1",
+      "source_version": "grundzuege-066-v1",
+      "target_version": "en66-revised-v2",
+      "source_body_sha256": "f556795d227449523b74e45f248bc8c3b8802760e1a36d476055c7c04453e44e",
+      "target_body_sha256": "469e11ec535dcd39cf219d4d9032da83ab54fb1b184259c55e0025689ba9894e",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 136
+      },
+      "authorship": "translator",
+      "display_number": 16
+    },
+    {
+      "id": "sound-source-deleted-word",
+      "source_id": "p66:s3",
+      "source_ids": [
+        "p66:s3",
+        "note:deleted-word"
+      ],
+      "source_note_id": "note:deleted-word",
+      "text": "Deleted after ‘syllable’: ‘or a word’.",
+      "reason": "Translate the complete printed source note, retaining authorship and original callout metadata. The English callout is at the corresponding phrase or nearest readable boundary; it does not restore a reported deletion into the text.",
+      "evidence": [],
+      "attribution": "1906 Ed.",
+      "status": "provisional source-note translation; English and annotation review pending",
+      "source_unit": "p66:de:s3",
+      "target_unit": "p66:revised:s3",
+      "source_version": "grundzuege-066-v1",
+      "target_version": "en66-revised-v2",
+      "source_body_sha256": "f556795d227449523b74e45f248bc8c3b8802760e1a36d476055c7c04453e44e",
+      "target_body_sha256": "469e11ec535dcd39cf219d4d9032da83ab54fb1b184259c55e0025689ba9894e",
+      "anchor": {
+        "after": "one syllable",
+        "offset_in_rendering": 29
+      },
+      "authorship": "editor1906",
+      "original_marker": "1)",
+      "original_anchor": "After Sylbe at the start of66’s accent explanation",
+      "source_text": "Nach „Sylbe“ gestrichen: „oder ein Wort“.",
+      "source_note_target_unit": "sound:note:deleted-word:revised:s1",
+      "display_number": 17
+    },
+    {
+      "id": "sound-vowel-tone",
+      "source_id": "p66:s10",
+      "source_ids": [
+        "p66:s10",
+        "note:chinese"
+      ],
+      "text": "Tone is not confined to vowels in all Chinese varieties. Cantonese has tone-bearing syllabic nasals, such as *m4* “no” and *ng5* “five”, with no vowel; see [Hong Kong Polytechnic University, “Understanding Finals”](https://www.polyu.edu.hk/clc/cantonese/phoneticKnowledge/vowel/recognizingVowel/?lang=en), the syllabic-nasals table. This does not identify the exact varieties covered by Humboldt’s sources.",
+      "reason": "Qualify the vowel-only generalization with copied, source-checked examples.",
+      "evidence": [
+        "cantonese"
+      ],
+      "attribution": "Trans.",
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p66:de:s10",
+      "target_unit": "p66:revised:s10",
+      "source_version": "grundzuege-066-v1",
+      "target_version": "en66-revised-v2",
+      "source_body_sha256": "f556795d227449523b74e45f248bc8c3b8802760e1a36d476055c7c04453e44e",
+      "target_body_sha256": "469e11ec535dcd39cf219d4d9032da83ab54fb1b184259c55e0025689ba9894e",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 75
+      },
+      "authorship": "translator",
+      "display_number": 18
+    },
+    {
+      "id": "sound-source-chinese",
+      "source_id": "p66:s11",
+      "source_ids": [
+        "p66:s11",
+        "note:chinese"
+      ],
+      "source_note_id": "note:chinese",
+      "text": "In Chinese grammars, the intonations are admittedly called modifications of the words, or, what there amounts to the same thing, of the syllables, which is indeed much more appropriate in those grammars. Yet, properly speaking, they rest only on the vowel ending; hence, speaking in the manner of other languages, it is more natural to say that each simple and compound vowel ending can have such and such an intonation, and that the words then take the vowel ending intoned in this or that way according to differences in their meaning. In this way the matter is put on the same footing as the short and long vowels of other languages.",
+      "reason": "Translate the complete printed source note, retaining authorship and original callout metadata. The English callout is at the corresponding phrase or nearest readable boundary; it does not restore a reported deletion into the text.",
+      "evidence": [],
+      "attribution": "Humboldt",
+      "status": "provisional source-note translation; English and annotation review pending",
+      "source_unit": "p66:de:s11",
+      "target_unit": "p66:revised:s11",
+      "source_version": "grundzuege-066-v1",
+      "target_version": "en66-revised-v2",
+      "source_body_sha256": "f556795d227449523b74e45f248bc8c3b8802760e1a36d476055c7c04453e44e",
+      "target_body_sha256": "469e11ec535dcd39cf219d4d9032da83ab54fb1b184259c55e0025689ba9894e",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 58
+      },
+      "authorship": "humboldt",
+      "original_marker": "*)",
+      "original_anchor": "After Alphabets at the end of66",
+      "source_text": "In den Chinesischen Grammatiken werden die Intonationen zwar Modificationen der Wörter, oder was dort auf Eins hinausläuft, der Sylben genannt, was auch in ihnen viel zweckmässiger ist. Allein eigentlich ruhen sie doch nur auf der Vocalendung, und daher ist es, nach Art andrer Sprachen zu reden, natürlicher zu sagen, dass jede einfache und zusammengesetzte Vocalendung diese und diese Intonation haben kann, und nun die Wörter, nach Verschiedenheit ihrer Bedeutung, die so oder so intonirte Vocalendung annehmen. Auf diese Weise stellt sich die Sache den kurzen und langen Vocalen anderer Sprachen gleich.",
+      "source_note_target_unit": "sound:note:chinese:revised:s1",
+      "display_number": 19
+    },
+    {
+      "id": "sound-sanskrit-accent",
+      "source_id": "p67:s5",
+      "source_ids": [
+        "p67:s5"
+      ],
+      "text": "This records the limits of Humboldt’s information, not a present absence of evidence. Later descriptions document accent marks in Vedic texts; see [Whitney, Sanskrit Grammar, §87](https://en.wikisource.org/wiki/Sanskrit_Grammar_(Whitney)/Chapter_II). Written notation does not by itself recover every detail of spoken delivery.",
+      "reason": "Distinguish historical knowledge and the evidential limits of notation.",
+      "evidence": [
+        "whitney"
+      ],
+      "attribution": "Trans.",
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p67:de:s5",
+      "target_unit": "p67:revised:s5",
+      "source_version": "grundzuege-067-v1",
+      "target_version": "en67-revised-v2",
+      "source_body_sha256": "db808b9102fb251bfd8bd549100fc53bc55ac5de82e371d5043fb9c31b6b5a21",
+      "target_body_sha256": "cbaed1172befeceff9780cd71903ed76e688ee0415a5e31167c792e0421c4b88",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 300
+      },
+      "authorship": "translator",
+      "display_number": 20
+    },
+    {
+      "id": "sound-word-unity",
+      "source_id": "p68:s1",
+      "source_ids": [
+        "p68:s1",
+        "p69:s1",
+        "p69:s3",
+        "p69:s4"
+      ],
+      "text": "The argument links unity of concept with unity of accent. Compare 69, where Humboldt considers several words joining as one accentual group; a group heard as one whole need not simply be one independent word.",
+      "reason": "Expose the relation between the ideal word-unity argument and the later enclitic qualification.",
+      "evidence": [],
+      "attribution": "Trans.",
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p68:de:s1",
+      "target_unit": "p68:revised:s1",
+      "source_version": "grundzuege-068-v1",
+      "target_version": "en68-revised-v2",
+      "source_body_sha256": "63ac1ceec348a8c0b12c6af2305096b836a65b6fd70a016602f8dc8a3151f432",
+      "target_body_sha256": "126e98c99ad0e8f08874f79c214c92d6b5d9904b6c2dd4672c4a00b5f18f0994",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 95
+      },
+      "authorship": "translator",
+      "display_number": 21
+    },
+    {
+      "id": "sound-combined-accent",
+      "source_id": "p68:s4",
+      "source_ids": [
+        "p68:s4"
+      ],
+      "text": "“When they do combine” makes explicit the reading that conceptual union requires one element to predominate. The final “in that case” in the German could instead be attached to the preceding negative alternative; its reference is not explicit.",
+      "reason": "Expose the interpretive scope of alsdann rather than hide it in the apparatus.",
+      "evidence": [],
+      "attribution": "Trans.",
+      "status": "provisional; English and annotation review pending",
+      "source_unit": "p68:de:s4",
+      "target_unit": "p68:revised:s4",
+      "source_version": "grundzuege-068-v1",
+      "target_version": "en68-revised-v2",
+      "source_body_sha256": "63ac1ceec348a8c0b12c6af2305096b836a65b6fd70a016602f8dc8a3151f432",
+      "target_body_sha256": "126e98c99ad0e8f08874f79c214c92d6b5d9904b6c2dd4672c4a00b5f18f0994",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 269
+      },
+      "authorship": "translator",
+      "display_number": 22
+    },
+    {
+      "id": "sound-source-sanskrit-pronouns",
+      "source_id": "p69:s6",
+      "source_ids": [
+        "p69:s6",
+        "note:sanskrit-pronouns"
+      ],
+      "source_note_id": "note:sanskrit-pronouns",
+      "text": "The Sanskrit pronouns of the first and second persons do have, for certain cases, a second, more frequently used, abbreviated form alongside the full form, whose fullness is due to its less frequent use. But it does not appear that this second form was used exclusively as an enclitic.",
+      "reason": "Translate the complete printed source note, retaining authorship and original callout metadata. The English callout is at the corresponding phrase or nearest readable boundary; it does not restore a reported deletion into the text.",
+      "evidence": [],
+      "attribution": "Humboldt",
+      "status": "provisional source-note translation; English and annotation review pending",
+      "source_unit": "p69:de:s6",
+      "target_unit": "p69:revised:s6",
+      "source_version": "grundzuege-069-v1",
+      "target_version": "en69-revised-v2",
+      "source_body_sha256": "44a34011c0dc4f9c8902125f57b4686b5401bab6e4bb85922c84a43e8494936a",
+      "target_body_sha256": "8a996e150fad2e68c5cd94195564487a4f0ee3f4249874d33fc7c3c32348e9db",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 357
+      },
+      "authorship": "humboldt",
+      "original_marker": "*)",
+      "original_anchor": "After geben soll in69",
+      "source_text": "Die Sanskritischen Pronomina der 1. und 2. Person haben zwar für einige Casus, neben der ausführlichen, weil weniger üblichen Form, eine zweite häufiger gebrauchte, abgekürzte. Aber es scheint nicht, dass dieselbe bloss enklitisch gebraucht worden sey.",
+      "source_note_target_unit": "sound:note:sanskrit-pronouns:revised:s1",
+      "display_number": 23
+    }
+  ],
+  "term_guide": [
+    {
+      "id": "sound-letters-alphabet",
+      "term": "Letters and alphabet",
+      "German": [
+        "Buchstabe",
+        "Alphabet",
+        "Buchstabenschrift"
+      ],
+      "text": "A “letter” often means a speech-sound element, and “alphabet” the inventory or system of such sounds. They are not automatically written characters or a modern phoneme inventory. Where writing enters in 62 and 71, written signs are identified separately; Buchstabenschrift is alphabetic writing.",
+      "source_ids": [
+        "p56:s2",
+        "p56:s4",
+        "p58:s2",
+        "p62:s5",
+        "p71:s1"
+      ]
+    },
+    {
+      "id": "sound-sound-articulation",
+      "term": "Sound, articulation and noise",
+      "German": [
+        "Ton",
+        "Laut",
+        "Sprachlaut",
+        "Geräusch",
+        "Schall"
+      ],
+      "text": "Ton and Laut overlap as “sound”; articulated sound is shaped to carry thought. Geräusch is the accompanying noise Humboldt wants removed, though his evaluation of particular consonants is qualified in the note on 57. Schall in 71 is the transient acoustic occurrence to which the written sign recalls us.",
+      "source_ids": [
+        "p57:s1",
+        "p57:s4",
+        "p66:s7",
+        "p71:s2"
+      ]
+    },
+    {
+      "id": "sound-mental-agency",
+      "term": "Mind, understanding and soul",
+      "German": [
+        "Geist",
+        "Verstand",
+        "Seele"
+      ],
+      "text": "These are “mind”, “understanding” and “soul” in this unit. The English keeps the recurring German terms recoverable without turning every lexical difference into a separate modern psychological mechanism. Understanding here names an intellectual capacity, not just successful comprehension of an utterance.",
+      "source_ids": [
+        "p57:s4",
+        "p64:s3",
+        "p67:s4",
+        "p71:s2"
+      ]
+    },
+    {
+      "id": "sound-intellectual-character",
+      "term": "Intellectual character",
+      "German": [
+        "Intellectualitaet",
+        "Intellectualität"
+      ],
+      "text": "Here the term concerns language’s intellectual character and its relation to thought. The earlier division used “intellectual life” where the bearer was a nation and its orientation; that contextual change does not establish different faculties. “Intellectual cultivation” in 70 renders a different expression, intellectuelle Bildung.",
+      "source_ids": [
+        "p56:s3",
+        "p61:s5",
+        "p70:s4"
+      ]
+    },
+    {
+      "id": "sound-changes",
+      "term": "Changes of sounds",
+      "German": [
+        "Buchstabenveränderung",
+        "Buchstabenverwandlung",
+        "Lautveränderung",
+        "Lautverwandlung"
+      ],
+      "text": "The German uses several overlapping expressions for alterations of speech sounds. The contexts include inflection, changes inside words and changes when words meet; these are not automatically historical sound laws or merely spelling changes. The German forms remain available in the linked record.",
+      "source_ids": [
+        "p61:s3",
+        "p63:s1",
+        "p63:s3",
+        "p64:s7"
+      ]
+    },
+    {
+      "id": "sound-linking",
+      "term": "Word linking and contraction",
+      "German": [
+        "Verkettung",
+        "Wortverkettung",
+        "Zusammenziehung"
+      ],
+      "text": "Words can be linked by changes at their boundaries and by contraction. Humboldt distinguishes changes joining parts of one word from those joining otherwise independent words, criticizes the latter for obscuring conceptual divisions, and allows a poetic advantage. This is his argument, not a modern rule for counting words.",
+      "source_ids": [
+        "p63:s5",
+        "p64:s3",
+        "p64:s4",
+        "p69:s7"
+      ]
+    },
+    {
+      "id": "sound-quantity",
+      "term": "Quantity and rhythm",
+      "German": [
+        "Zeitmass",
+        "Länge",
+        "Kürze",
+        "Rhythmus"
+      ],
+      "text": "Quantity concerns timing, including long and short vowels and syllabic duration; it is distinct from accent. Consonants also enter the argument in 65, so syllabic timing should not be reduced to vowel length alone. Rhythm and accent can support or oppose one another in Humboldt’s account.",
+      "source_ids": [
+        "p65:s1",
+        "p65:s2",
+        "p65:s6",
+        "p65:s11"
+      ]
+    },
+    {
+      "id": "sound-accent",
+      "term": "Word accent, discourse accent and tone",
+      "German": [
+        "Accent",
+        "Wortaccent",
+        "Redeaccent",
+        "Sprachaccent",
+        "Intonation"
+      ],
+      "text": "Accent organizes prominence and groups in speech; word accent belongs to the word, discourse accent varies with delivery. Intonation in the Chinese discussion concerns tone distinctions, not simply sentence melody. These historical categories overlap with modern stress, pitch accent and tone without being identical to them.",
+      "source_ids": [
+        "p66:s1",
+        "p66:s7",
+        "p66:s9",
+        "p67:s1",
+        "p67:s2",
+        "p69:s1"
+      ]
+    },
+    {
+      "id": "sound-clitics",
+      "term": "Enclitic and orthotonic",
+      "German": [
+        "enklitisch",
+        "orthotonisch"
+      ],
+      "text": "Here an enclitic word loses its independent accent and attaches to another word; an orthotonic form has its own accent. Humboldt’s point is that an independent word’s pronunciation and accent can change through attachment, which complicates the picture of one word as one audible whole.",
+      "source_ids": [
+        "p69:s2",
+        "p69:s3",
+        "p69:s6",
+        "note:sanskrit-pronouns"
+      ]
+    },
+    {
+      "id": "sound-derivation",
+      "term": "Root, word and Taddhita suffix",
+      "German": [
+        "Wurzel",
+        "Umstempelung",
+        "Taddhita-Suffix"
+      ],
+      "text": "In the note on 64, a root is first “stamped” into a word and the word is then reshaped further by Taddhita suffixes. The metaphor distinguishes stages of formation; the note warns that the rules loosely called “internal” do not apply uniformly at every stage.",
+      "source_ids": [
+        "note:bopp-64"
+      ]
+    },
+    {
+      "id": "sound-euphony",
+      "term": "Euphony and aesthetic feeling",
+      "German": [
+        "Wohllaut",
+        "aesthetisches Gefühl"
+      ],
+      "text": "Euphony means pleasing sound as assessed in the argument. Roughness, purity and refinement are Humboldt’s aesthetic and developmental evaluations; they are not measurements of a people’s intellectual capacities. Keep the sensory description distinct from the value attached to it.",
+      "source_ids": [
+        "p57:s4",
+        "p60:s1",
+        "p65:s12"
+      ]
+    },
+    {
+      "id": "sound-geltung",
+      "term": "Force, standing and sound value",
+      "German": [
+        "Geltung",
+        "Lautgeltung",
+        "Verstandesgeltung"
+      ],
+      "text": "Geltung varies with its bearer: the conceptual force of language, the sway of quantity, a word’s independent standing, or its significance for the understanding. Lautgeltung concerns audible realization. These are related contributions or kinds of standing, not uniformly logical validity.",
+      "source_ids": [
+        "p64:s3",
+        "p65:s7",
+        "p69:s3",
+        "p69:s5",
+        "p70:s3"
+      ]
+    }
+  ],
+  "format": "humboldt.reader-notes",
+  "version": 1,
+  "status": "provisional; English and annotation review pending",
+  "policy": "docs/footnoting-policy.md",
+  "policy_sha256": "f31503d00281d2c18aaf29fa52ebe1e6a41713ffd07dab128c08254378ffe89f",
+  "source_checks": "translations/sound-system/annotation-sources.json"
+}

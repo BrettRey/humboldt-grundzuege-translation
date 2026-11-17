@@ -1,0 +1,14 @@
+{
+  "label": "codex",
+  "command": [
+    "/Users/brettreynolds/projects/LLM-CLI-projects/tools/codex/bin/codex-readonly",
+    "/var/folders/tq/7kfdnyd52zz82t095tvgbljc0000gp/T/humboldt-sound-system-codex-f6_r3m1z"
+  ],
+  "prompt_sha256": "6cfed3fbc4089290e350b836012bee838e9f0229df59cd5ff72e3f4734f1c1ab",
+  "timeout_seconds": 1800,
+  "started_at": "2026-11-17T02:53:46.231676+00:00",
+  "exit_code": 0,
+  "elapsed_seconds": 138.57,
+  "stdout_bytes": 31877,
+  "stderr_bytes": 374910
+}

@@ -1,0 +1,973 @@
+{
+  "section": "Sound system",
+  "range": [
+    56,
+    71
+  ],
+  "passage_order": [
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    "62a",
+    "62b",
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71
+  ],
+  "source_path": "sources/raw/gs-v-1906.pdf",
+  "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+  "source_status": "Provisional1906 printed base. Coordinator compared all11 complete target page images400–410 and boundary411. No manuscript collation or German-specialist human certification. D001’s cancellation report about1–7 is not extended to56–71; local1906 deletion reports are attributed to the editor.",
+  "headings": [
+    {
+      "before": 56,
+      "marker": "b.",
+      "German": "Verfahren der Sprache bei Bildung der Rede.",
+      "id": "heading:procedure"
+    },
+    {
+      "before": 56,
+      "marker": "α.",
+      "German": "Lautsystem.",
+      "id": "heading:sounds"
+    }
+  ],
+  "paragraphs": [
+    {
+      "number": 56,
+      "version_id": "grundzuege-056-v1",
+      "sentences": [
+        {
+          "id": "p56:s1",
+          "text": "Der Einfluss des Lautsystems erstreckt sich über die ganze Sprache, und ein sorgfältiges Studium aller Eigenthümlichkeiten desselben ist die Grundlage jeder genauen Sprachuntersuchung."
+        },
+        {
+          "text": "Ohne die vollständige Kenntniss der Lautbehandlung, der Verhältnisse und Verwandtschaft der Buchstaben, die in jeder Sprache andren Gesetzen und Gewohnheiten unterliegen, bleibt die Erklärung der grammatischen Formen und das Eingehen in das Ganze des Sprachsystems allemal mangelhaft. (29.)",
+          "id": "p56:s2"
+        },
+        {
+          "text": "Unmittelbar beruht auf dem Lautsystem die Verständlichkeit, der Nachdruck und der Wohllaut der Rede, es wirkt aber zugleich auf die reine und feine Intellectualitaet der Sprache, und hierin ist seine Wichtigkeit bisher vielleicht nicht hinlänglich gewürdigt worden.",
+          "id": "p56:s3"
+        },
+        {
+          "id": "p56:s4",
+          "text": "Sie leuchtet aber sogleich ein, als man sich daran erinnert, dass (21.) der ganze Begriff der Sprache in dem des articulirten Lautes liegt, und dass die Art, wie jede Sprache diesen Begriff auffasst, sich in ihrem Alphabet, als dem System ihrer articulirten Laute darstellt."
+        }
+      ],
+      "body": "Der Einfluss des Lautsystems erstreckt sich über die ganze Sprache, und ein sorgfältiges Studium aller Eigenthümlichkeiten desselben ist die Grundlage jeder genauen Sprachuntersuchung. Ohne die vollständige Kenntniss der Lautbehandlung, der Verhältnisse und Verwandtschaft der Buchstaben, die in jeder Sprache andren Gesetzen und Gewohnheiten unterliegen, bleibt die Erklärung der grammatischen Formen und das Eingehen in das Ganze des Sprachsystems allemal mangelhaft. (29.) Unmittelbar beruht auf dem Lautsystem die Verständlichkeit, der Nachdruck und der Wohllaut der Rede, es wirkt aber zugleich auf die reine und feine Intellectualitaet der Sprache, und hierin ist seine Wichtigkeit bisher vielleicht nicht hinlänglich gewürdigt worden. Sie leuchtet aber sogleich ein, als man sich daran erinnert, dass (21.) der ganze Begriff der Sprache in dem des articulirten Lautes liegt, und dass die Art, wie jede Sprache diesen Begriff auffasst, sich in ihrem Alphabet, als dem System ihrer articulirten Laute darstellt.",
+      "body_sha256": "a64988306ff781ada25866f7c843aceb8c9fa99007d13aa8badfb55da6b1b41d",
+      "locator": "printed400 / PDF410 / scan leaves414",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ]
+      ]
+    },
+    {
+      "number": 57,
+      "version_id": "grundzuege-057-v1",
+      "sentences": [
+        {
+          "id": "p57:s1",
+          "text": "Das erste ist die Absonderung des Tones von allem mitschallendem Geräusch, welche ihn auf einen wahren Sprachlaut zurückführt."
+        },
+        {
+          "id": "p57:s2",
+          "text": "Er soll nur den Begriff anregen, aus dem er entspringt, und darf nicht mehr Körper besitzen, als dazu erforderlich ist."
+        },
+        {
+          "id": "p57:s3",
+          "text": "Gerade mit dem wenigsten tritt das Charakteristische am schärfsten hervor."
+        },
+        {
+          "id": "p57:s4",
+          "text": "Indem der Geist den thierischen Laut durchdringt, wird dieser zum articulirten, verliert aber nicht in allen Sprachen (28.) seine ursprüngliche Natur ganz und rein, sondern mischt den Tönen ein Schnalzen, Schmettern, Zischen, Schnarren oder Hauchen bei, was man in einigen, vorzüglich Afrikanischen Sprachen in grosser Rohheit, aber in feineren Spuren auch in hoch ausgebildeten antrifft."
+        },
+        {
+          "id": "p57:s5",
+          "text": "Stumpfheit des geistigen Sprachdranges und physische Rauhigkeit der Organe mögen in solchen Fällen zusammenwirken, aber Geist und Organe verfeinern sich durch gegenseitige Einwirkung auf einander, und die Rauhigkeit der Töne schleift sich daher oft in der Fortbildung der Sprachen durch die Zeit allmählich ab."
+        }
+      ],
+      "body": "Das erste ist die Absonderung des Tones von allem mitschallendem Geräusch, welche ihn auf einen wahren Sprachlaut zurückführt. Er soll nur den Begriff anregen, aus dem er entspringt, und darf nicht mehr Körper besitzen, als dazu erforderlich ist. Gerade mit dem wenigsten tritt das Charakteristische am schärfsten hervor. Indem der Geist den thierischen Laut durchdringt, wird dieser zum articulirten, verliert aber nicht in allen Sprachen (28.) seine ursprüngliche Natur ganz und rein, sondern mischt den Tönen ein Schnalzen, Schmettern, Zischen, Schnarren oder Hauchen bei, was man in einigen, vorzüglich Afrikanischen Sprachen in grosser Rohheit, aber in feineren Spuren auch in hoch ausgebildeten antrifft. Stumpfheit des geistigen Sprachdranges und physische Rauhigkeit der Organe mögen in solchen Fällen zusammenwirken, aber Geist und Organe verfeinern sich durch gegenseitige Einwirkung auf einander, und die Rauhigkeit der Töne schleift sich daher oft in der Fortbildung der Sprachen durch die Zeit allmählich ab.",
+      "body_sha256": "07a245d1234fb6425641b81ee14a3abab52e7a658c1d917226aeaeb37af00efb",
+      "locator": "printed400 / PDF410 / scan leaves414",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      ]
+    },
+    {
+      "number": 58,
+      "version_id": "grundzuege-058-v1",
+      "sentences": [
+        {
+          "id": "p58:s1",
+          "text": "Allein auch die wirklichen, von mitschallendem Geräusch gereinigten Sprachlaute müssen bestimmt von einander geschieden seyn, nicht einer in den andren hinübertönen."
+        },
+        {
+          "id": "p58:s2",
+          "text": "Die Buchstaben liegen nicht gleichsam bestimmt geschieden in den Sprachwerkzeugen."
+        },
+        {
+          "id": "p58:s3",
+          "text": "Man muss sich vielmehr die Bewegung derselben, welche einer bestimmten Gattung das Daseyn giebt, als ein Continuum denken, wo in jedem Punkte durch plötzliche Fixirung der Laut eine um ein wenig verschiedene Beschaffenheit erhalten würde, je nachdem z. B. die Lippen sich mehr oder weniger öffnen, die Zunge schneller oder langsamer, fester oder leiser, mit schmalerer oder breiterer Fläche anschlägt u. s. f."
+        },
+        {
+          "id": "p58:s4",
+          "text": "Jeder Laut hat mithin eine eigne Sphäre, in welcher er einen bestimmten, aber bei weitem nicht den einzig möglichen Punkt einnimmt."
+        },
+        {
+          "id": "p58:s5",
+          "text": "Diesen Punkt weist ihm die sich bildende Gewohnheit der Nation an, so entsteht ihr besondres Alphabet, und über dieser Entstehung kann Glück und Misgeschick walten."
+        }
+      ],
+      "body": "Allein auch die wirklichen, von mitschallendem Geräusch gereinigten Sprachlaute müssen bestimmt von einander geschieden seyn, nicht einer in den andren hinübertönen. Die Buchstaben liegen nicht gleichsam bestimmt geschieden in den Sprachwerkzeugen. Man muss sich vielmehr die Bewegung derselben, welche einer bestimmten Gattung das Daseyn giebt, als ein Continuum denken, wo in jedem Punkte durch plötzliche Fixirung der Laut eine um ein wenig verschiedene Beschaffenheit erhalten würde, je nachdem z. B. die Lippen sich mehr oder weniger öffnen, die Zunge schneller oder langsamer, fester oder leiser, mit schmalerer oder breiterer Fläche anschlägt u. s. f. Jeder Laut hat mithin eine eigne Sphäre, in welcher er einen bestimmten, aber bei weitem nicht den einzig möglichen Punkt einnimmt. Diesen Punkt weist ihm die sich bildende Gewohnheit der Nation an, so entsteht ihr besondres Alphabet, und über dieser Entstehung kann Glück und Misgeschick walten.",
+      "body_sha256": "b6507b9b230cfcaf5ba078917a98734dcb7cb2926d5ff561a57f9107be4837c0",
+      "locator": "printed401 / PDF411 / scan leaves415",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      ]
+    },
+    {
+      "number": 59,
+      "version_id": "grundzuege-059-v1",
+      "sentences": [
+        {
+          "id": "p59:s1",
+          "text": "Der Einfluss mangelnder reiner Geschiedenheit der Töne wirkt aber noch weit über die blosse Gefahr des Misverständnisses hinaus."
+        },
+        {
+          "id": "p59:s2",
+          "text": "Der articulirte Laut ist zu enge mit dem Geiste verschwistert, als dass nicht seine richtige und fehlerhafte Bildung immer wieder einen entsprechenden Einfluss auf denselben ausüben, dass dieser sich nicht wieder auch in der Rückwirkung des Geistes zeigen, und auf diese Weise nicht eine bis ins Unendliche fortgehende Wechselwirkung entstehen sollte, in welche der Geist zwar seine reinere Natur immer siegend hineinträgt, aber in diesem Uebergewicht immer wieder in etwas durch den widerstrebenden Stoff gehemmt wird."
+        },
+        {
+          "id": "p59:s3",
+          "text": "Reine Bestimmtheit, glückliche Klarheit, eindringende Schärfe der Begriffe in einer Nation hängen daher gar sehr von der reinen Geschiedenheit der Grundlaute ihres Alphabetes ab."
+        }
+      ],
+      "body": "Der Einfluss mangelnder reiner Geschiedenheit der Töne wirkt aber noch weit über die blosse Gefahr des Misverständnisses hinaus. Der articulirte Laut ist zu enge mit dem Geiste verschwistert, als dass nicht seine richtige und fehlerhafte Bildung immer wieder einen entsprechenden Einfluss auf denselben ausüben, dass dieser sich nicht wieder auch in der Rückwirkung des Geistes zeigen, und auf diese Weise nicht eine bis ins Unendliche fortgehende Wechselwirkung entstehen sollte, in welche der Geist zwar seine reinere Natur immer siegend hineinträgt, aber in diesem Uebergewicht immer wieder in etwas durch den widerstrebenden Stoff gehemmt wird. Reine Bestimmtheit, glückliche Klarheit, eindringende Schärfe der Begriffe in einer Nation hängen daher gar sehr von der reinen Geschiedenheit der Grundlaute ihres Alphabetes ab.",
+      "body_sha256": "3ad21e084c09fee4d827ee50a5596f4dfccc7bf837159403159ebe4a79d21c25",
+      "locator": "printed401 / PDF411 / scan leaves415",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3
+        ]
+      ]
+    },
+    {
+      "number": 60,
+      "version_id": "grundzuege-060-v1",
+      "sentences": [
+        {
+          "id": "p60:s1",
+          "text": "Es giebt, auch im Gebrauche der blossen articulirten Laute, ohne alle musikalische oder dichterische Beziehung, ein aesthetisches Gefühl, durch das eine Nation getrieben wird, jeden, ihm sein volles Recht einräumend, ganz und hell austönen zu lassen, indem eine andre, welcher dies Gefühl mangelt, oder die dasselbe andren Rücksichten, wie im Englischen der Gewalt des Accents, unterordnet, viele verschluckt, verschmilzt oder verdunkelt."
+        },
+        {
+          "id": "p60:s2",
+          "text": "Hiervon lässt sich in Rücksicht auf die Begriffe dasselbe, als von dem Mangel an richtiger Geschiedenheit sagen."
+        },
+        {
+          "id": "p60:s3",
+          "text": "Es kommt alsdann darauf an, wie dasjenige, was den Begriffen dadurch an ruhig leuchtender Klarheit entgeht, auf andre Weise ersetzt wird."
+        }
+      ],
+      "body": "Es giebt, auch im Gebrauche der blossen articulirten Laute, ohne alle musikalische oder dichterische Beziehung, ein aesthetisches Gefühl, durch das eine Nation getrieben wird, jeden, ihm sein volles Recht einräumend, ganz und hell austönen zu lassen, indem eine andre, welcher dies Gefühl mangelt, oder die dasselbe andren Rücksichten, wie im Englischen der Gewalt des Accents, unterordnet, viele verschluckt, verschmilzt oder verdunkelt. Hiervon lässt sich in Rücksicht auf die Begriffe dasselbe, als von dem Mangel an richtiger Geschiedenheit sagen. Es kommt alsdann darauf an, wie dasjenige, was den Begriffen dadurch an ruhig leuchtender Klarheit entgeht, auf andre Weise ersetzt wird.",
+      "body_sha256": "a0636eaa1671a363bb43cd04dec2ac4cd80e256f08d17c8e10f9d37bb0a988f4",
+      "locator": "printed401 / PDF411 / scan leaves415",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3
+        ]
+      ]
+    },
+    {
+      "number": 61,
+      "version_id": "grundzuege-061-v1",
+      "sentences": [
+        {
+          "id": "p61:s1",
+          "text": "Durch den Gebrauch der Sprache entsteht, und zwar in dem Grade mehr, in welchem irgend eine ein glücklich gewähltes Lautsystem richtig anwendet, im Geiste Sinn für feine Lautunterscheidung und Wohlgefallen daran."
+        },
+        {
+          "id": "p61:s2",
+          "text": "Da nun die Rede auch vieler Unterscheidungen bedarf, um die Begriffe in allen ihren Verhältnissen und Schattirungen auszudrücken und anzuregen, so kommt jener Sinn diesem Bedürfniss sehr glücklich zu Statten."
+        },
+        {
+          "id": "p61:s3",
+          "text": "Denn es geht nun Neigung und Fähigkeit hervor, diese Unterschiede durch einzelne Buchstabenveränderung zu bezeichnen, und an ihr zu erkennen, worin der Ursprung aller Inflexion liegt, man mag sie nun für gleichzeitig mit der Sprache, oder für später in ihr entstanden halten."
+        },
+        {
+          "id": "p61:s4",
+          "text": "Es wird aber durch sie der doppelte Vorzug gewonnen, der Idee nur gerade soviel Körper zu geben, als sie bedarf, und durch den in sich selbst ganz bedeutungslosen Buchstaben, jeden irre leitenden Nebenbegriff zu vermeiden."
+        },
+        {
+          "id": "p61:s5",
+          "text": "Es liegt in der Sprache ein durch alle ihre Functionen gehendes und sich immer steigerndes Streben nach Läuterung der Intellectualität."
+        },
+        {
+          "id": "p61:s6",
+          "text": "So wie sie (57.) von dem Sprachlaut das mitschallende Geräusch absondert, so entfernt sie auch in dem durch Sprache Gedachten die Vorstellung jedes nicht durch den Gedanken nothwendig werdenden Stoffs, und verdrängt ihn da, wo er als Zeichen der Form auftreten will, durch den bedeutungslosen Laut."
+        },
+        {
+          "id": "p61:s7",
+          "text": "Es ist daher eine Eigenschaft aller für den Geist angemessner gebildeten Sprachen, wenn man sie mit andren, ihnen darin entgegengesetzten vergleicht, eine geringere Masse des Stoffes bei dem Ausdruck derselben Idee anzuregen, und diese dadurch freier und geläuterter hervortreten zu lassen."
+        }
+      ],
+      "body": "Durch den Gebrauch der Sprache entsteht, und zwar in dem Grade mehr, in welchem irgend eine ein glücklich gewähltes Lautsystem richtig anwendet, im Geiste Sinn für feine Lautunterscheidung und Wohlgefallen daran. Da nun die Rede auch vieler Unterscheidungen bedarf, um die Begriffe in allen ihren Verhältnissen und Schattirungen auszudrücken und anzuregen, so kommt jener Sinn diesem Bedürfniss sehr glücklich zu Statten. Denn es geht nun Neigung und Fähigkeit hervor, diese Unterschiede durch einzelne Buchstabenveränderung zu bezeichnen, und an ihr zu erkennen, worin der Ursprung aller Inflexion liegt, man mag sie nun für gleichzeitig mit der Sprache, oder für später in ihr entstanden halten. Es wird aber durch sie der doppelte Vorzug gewonnen, der Idee nur gerade soviel Körper zu geben, als sie bedarf, und durch den in sich selbst ganz bedeutungslosen Buchstaben, jeden irre leitenden Nebenbegriff zu vermeiden. Es liegt in der Sprache ein durch alle ihre Functionen gehendes und sich immer steigerndes Streben nach Läuterung der Intellectualität. So wie sie (57.) von dem Sprachlaut das mitschallende Geräusch absondert, so entfernt sie auch in dem durch Sprache Gedachten die Vorstellung jedes nicht durch den Gedanken nothwendig werdenden Stoffs, und verdrängt ihn da, wo er als Zeichen der Form auftreten will, durch den bedeutungslosen Laut. Es ist daher eine Eigenschaft aller für den Geist angemessner gebildeten Sprachen, wenn man sie mit andren, ihnen darin entgegengesetzten vergleicht, eine geringere Masse des Stoffes bei dem Ausdruck derselben Idee anzuregen, und diese dadurch freier und geläuterter hervortreten zu lassen.",
+      "body_sha256": "6d287760a589fb6784f05475878fd5791c2bff1309bb182b9dcab02c09c003cb",
+      "locator": "printed402 / PDF412 / scan leaves416",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      ]
+    },
+    {
+      "number": 62,
+      "version_id": "grundzuege-062-v1",
+      "sentences": [
+        {
+          "id": "p62:s1",
+          "text": "Es ist eine natürliche und fast nothwendige Folge der reinen Scheidung der Töne, dass das Alphabet dadurch mehr Umfang erhält."
+        },
+        {
+          "id": "p62:s2",
+          "text": "Denn die Töne, welche das Ohr bei dunkler, unausgebildeter Aussprache leicht verwechseln konnte, treten nun bestimmt aus einander."
+        },
+        {
+          "id": "p62:s3",
+          "text": "Bisweilen entsteht aber auch die Verschiedenheit des Umfanges des Alphabets aus besondren Lauteigenthümlichkeiten und Gewohnheiten der Nationen, durch welche demselben einzelne Buchstaben, wie das gestrichene Polnische l, und sogar ganze Classen derselben, wie die Indischen Cerebralen oder Lingualen zuwachsen."
+        },
+        {
+          "id": "p62:s4",
+          "text": "Die Lage und Bewegung der Sprachwerkzeuge, und das Fallen der einzelnen Töne in dieselben oder verschiedene Sphären (58.) macht, dass die Buchstaben in gegenseitigen Beziehungen und Verhältnissen zu einander stehn, und in dem Alphabet ein mehr oder minder vollständiges System von Tönen entdeckt werden kann."
+        },
+        {
+          "id": "p62:s5",
+          "text": "Nach einmal entstandener Schrift und bei hinzutretender grammatischer Behandlung kann ein Alphabet in dieser Beziehung ein fester bestimmtes und feiner ausgebildetes System erhalten, als ursprünglich in dem Sprachgebrauch der Nation lag, und so mag es dem Sanskrita Alphabet, dessen Typus sich über die noch lebenden Sprachen eines grossen Theils von Süd-Asien verbreitet hat, ergangen seyn."
+        },
+        {
+          "id": "p62:s6",
+          "text": "Allein der Totalitaet nach liegt ein solches System immer in den Sprachanlagen und Sprachgewohnheiten der Nationen, und die Bestimmtheit, welche es allerdings durch glücklich gewählte Schriftzeichen gewinnt, wirkt wieder auf das Sprechen zurück, und verwandelt sich in ihr wahres Eigenthum."
+        }
+      ],
+      "body": "Es ist eine natürliche und fast nothwendige Folge der reinen Scheidung der Töne, dass das Alphabet dadurch mehr Umfang erhält. Denn die Töne, welche das Ohr bei dunkler, unausgebildeter Aussprache leicht verwechseln konnte, treten nun bestimmt aus einander. Bisweilen entsteht aber auch die Verschiedenheit des Umfanges des Alphabets aus besondren Lauteigenthümlichkeiten und Gewohnheiten der Nationen, durch welche demselben einzelne Buchstaben, wie das gestrichene Polnische l, und sogar ganze Classen derselben, wie die Indischen Cerebralen oder Lingualen zuwachsen. Die Lage und Bewegung der Sprachwerkzeuge, und das Fallen der einzelnen Töne in dieselben oder verschiedene Sphären (58.) macht, dass die Buchstaben in gegenseitigen Beziehungen und Verhältnissen zu einander stehn, und in dem Alphabet ein mehr oder minder vollständiges System von Tönen entdeckt werden kann. Nach einmal entstandener Schrift und bei hinzutretender grammatischer Behandlung kann ein Alphabet in dieser Beziehung ein fester bestimmtes und feiner ausgebildetes System erhalten, als ursprünglich in dem Sprachgebrauch der Nation lag, und so mag es dem Sanskrita Alphabet, dessen Typus sich über die noch lebenden Sprachen eines grossen Theils von Süd-Asien verbreitet hat, ergangen seyn. Allein der Totalitaet nach liegt ein solches System immer in den Sprachanlagen und Sprachgewohnheiten der Nationen, und die Bestimmtheit, welche es allerdings durch glücklich gewählte Schriftzeichen gewinnt, wirkt wieder auf das Sprechen zurück, und verwandelt sich in ihr wahres Eigenthum.",
+      "body_sha256": "2c557396315b08683a2637c9b2222346c9a096b5f700965f92cf496ad9027c30",
+      "locator": "printed402–403 / PDF412–413 / scan leaves416–417",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      ]
+    },
+    {
+      "number": "62a",
+      "version_id": "grundzuege-062a-v1",
+      "sentences": [
+        {
+          "id": "p62a:s1",
+          "text": "Bei der Verbindung mehrerer Buchstaben zur Sylbe zeigen sich neue Eigenthümlichkeiten des Lautsystems, je nachdem die Sprachen das Zusammentreffen einiger Buchstaben begünstigen, andrer vermeiden, und eine Anzahl von Sylben ausstossen."
+        },
+        {
+          "id": "p62a:s2",
+          "text": "Man hat daher, ausser dem Umfange des Alphabets, auch auf den der durch dasselbe möglichen Sylben zu achten."
+        },
+        {
+          "id": "p62a:s3",
+          "text": "Es ist bemerkenswerth, dass gerade die Sprachen der Wilden, die man wohl der Rauhigkeit zu beschuldigen pflegt, viele Sylben ausstossen, die in hochgebildeten Sprachen geduldet werden."
+        },
+        {
+          "id": "p62a:s4",
+          "text": "Es mag dies zum Theil aus der schon im Vorigen bemerkten reizbareren Empfindlichkeit der Sinne dieser Völker, und zum Theil daraus herrühren, dass die gebildetere Sprache oft Sylben zusammenzieht, wo die ursprünglichere jede für sich auf einander folgen lässt."
+        }
+      ],
+      "body": "Bei der Verbindung mehrerer Buchstaben zur Sylbe zeigen sich neue Eigenthümlichkeiten des Lautsystems, je nachdem die Sprachen das Zusammentreffen einiger Buchstaben begünstigen, andrer vermeiden, und eine Anzahl von Sylben ausstossen. Man hat daher, ausser dem Umfange des Alphabets, auch auf den der durch dasselbe möglichen Sylben zu achten. Es ist bemerkenswerth, dass gerade die Sprachen der Wilden, die man wohl der Rauhigkeit zu beschuldigen pflegt, viele Sylben ausstossen, die in hochgebildeten Sprachen geduldet werden. Es mag dies zum Theil aus der schon im Vorigen bemerkten reizbareren Empfindlichkeit der Sinne dieser Völker, und zum Theil daraus herrühren, dass die gebildetere Sprache oft Sylben zusammenzieht, wo die ursprünglichere jede für sich auf einander folgen lässt.",
+      "body_sha256": "85e9932b61db04ac56ee1d61e41f9e1fedcb13087ab53f348c1fa209a2e40459",
+      "locator": "printed403 / PDF413 / scan leaves417",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ]
+      ]
+    },
+    {
+      "number": "62b",
+      "version_id": "grundzuege-062b-v1",
+      "sentences": [
+        {
+          "id": "p62b:s1",
+          "text": "Auch die Wortbildung unterliegt Regeln des Lautsystems, da in vielen Sprachen die Wörter mit gewissen Buchstaben nicht anfangen oder enden, und auch ihr innerer Bau durch Sprachgesetze, namentlich in der Verwandlung zusammenstossender Consonanten, bestimmt wird."
+        }
+      ],
+      "body": "Auch die Wortbildung unterliegt Regeln des Lautsystems, da in vielen Sprachen die Wörter mit gewissen Buchstaben nicht anfangen oder enden, und auch ihr innerer Bau durch Sprachgesetze, namentlich in der Verwandlung zusammenstossender Consonanten, bestimmt wird.",
+      "body_sha256": "170d8f2ed7be87db10333846d9af67f0864ab2a77bfeee770166337eda0d122c",
+      "locator": "printed403 / PDF413 / scan leaves417",
+      "typographic_groups": [
+        [
+          1
+        ]
+      ]
+    },
+    {
+      "number": 63,
+      "version_id": "grundzuege-063-v1",
+      "sentences": [
+        {
+          "id": "p63:s1",
+          "text": "In diesen Systemen liegen die Gründe und die Bedingungen der Buchstabenveränderung, die gleichfalls nur zum Theil durch die allgemeinere Natur der Sprachwerkzeuge gegeben ist, ausserdem aber auf den besondren Lautgewohnheiten jedes Volkes beruht."
+        },
+        {
+          "id": "p63:s2",
+          "text": "Denn wenn die Natur der Buchstaben auch die Art der Verwandlung bestimmt, so hängt es von dem Ohr und den Sprachwerkzeugen jedes Volkes ab, wie empfindlich es für diesen gegenseitigen Einfluss der Laute auf einander bei ihrer Berührung ist."
+        },
+        {
+          "id": "p63:s3",
+          "text": "Je näher sich in einem sehr systematischen Alphabet von bedeutendem Umfange die Töne stehen, und je klarer und bestimmter in einem solchen ihr Verhältniss erkannt wird, desto mehr wächst die Neigung zur Buchstabenverwandlung, so wie hinwiederum sie gar sehr zur feineren Lautunterscheidung und zur Systematisirung des Alphabets beiträgt."
+        },
+        {
+          "id": "p63:s4",
+          "text": "Man könnte glauben, dass das Ohr uncultivirter Nationen diese Feinheiten der Töne überhörte und vernachlässigte, man findet aber gerade bei ihnen sehr häufige Buchstabenverwandlungen, was den beiden Ursachen zuzuschreiben seyn mag, dass gerade die Sinne des der Natur näher stehenden Menschen eine schärfere Empfindlichkeit besitzen, und dass der Uncultivirte die Rede vor dem Verstände wie ein sich überall berührendes Continuum ansieht, indess der Gebildete auch in der fortlaufenden Rede das Verschleifen der Töne nach den Pausen des Verstandes durch die Zunge hemmt."
+        },
+        {
+          "id": "p63:s5",
+          "text": "Aber eine wahre Nationaleigenheit der Indischen Völker, für die sich kein weiterer Grund anführen lässt, ist wohl die so häufige Verkettung mehrerer Worte durch Buchstabenverwandlung und Zusammenziehung, von der es wenigstens nicht sichtbar ist, ob auch andre Nationen sie in dem Masse gekannt haben."
+        },
+        {
+          "id": "p63:s6",
+          "text": "Auf den ersten Anblick geräth man in Versuchung die mannigfaltigen im Sanskrit hieraus entstehenden Regeln wenigstens zum Theil der Systemsucht der Grammatiker zuzuschreiben."
+        },
+        {
+          "id": "p63:s7",
+          "text": "Allein diese Vermuthung verschwindet bei der Vergleichung der lebenden, aus dem Sanskrit hervorgegangenen Indischen Sprachen."
+        },
+        {
+          "id": "p63:s8",
+          "text": "Von der Telinga, in welcher diese Verkettung gerade vorzüglich häufig und schwierig zu erkennen ist, sagt Carey ausdrücklich, dass der Fremde, welcher dieselbe vernachlässigen wollte, gar nicht würde von den Eingebornen verstanden werden."
+        },
+        {
+          "id": "p63:s9",
+          "text": "Im Bengalischen dagegen wird sie nicht immer streng beobachtet, so dass man daraus noch deutlicher sieht, wie dieser Punkt von den individuellen Gewohnheiten der Stämme abhängt."
+        }
+      ],
+      "body": "In diesen Systemen liegen die Gründe und die Bedingungen der Buchstabenveränderung, die gleichfalls nur zum Theil durch die allgemeinere Natur der Sprachwerkzeuge gegeben ist, ausserdem aber auf den besondren Lautgewohnheiten jedes Volkes beruht. Denn wenn die Natur der Buchstaben auch die Art der Verwandlung bestimmt, so hängt es von dem Ohr und den Sprachwerkzeugen jedes Volkes ab, wie empfindlich es für diesen gegenseitigen Einfluss der Laute auf einander bei ihrer Berührung ist. Je näher sich in einem sehr systematischen Alphabet von bedeutendem Umfange die Töne stehen, und je klarer und bestimmter in einem solchen ihr Verhältniss erkannt wird, desto mehr wächst die Neigung zur Buchstabenverwandlung, so wie hinwiederum sie gar sehr zur feineren Lautunterscheidung und zur Systematisirung des Alphabets beiträgt. Man könnte glauben, dass das Ohr uncultivirter Nationen diese Feinheiten der Töne überhörte und vernachlässigte, man findet aber gerade bei ihnen sehr häufige Buchstabenverwandlungen, was den beiden Ursachen zuzuschreiben seyn mag, dass gerade die Sinne des der Natur näher stehenden Menschen eine schärfere Empfindlichkeit besitzen, und dass der Uncultivirte die Rede vor dem Verstände wie ein sich überall berührendes Continuum ansieht, indess der Gebildete auch in der fortlaufenden Rede das Verschleifen der Töne nach den Pausen des Verstandes durch die Zunge hemmt. Aber eine wahre Nationaleigenheit der Indischen Völker, für die sich kein weiterer Grund anführen lässt, ist wohl die so häufige Verkettung mehrerer Worte durch Buchstabenverwandlung und Zusammenziehung, von der es wenigstens nicht sichtbar ist, ob auch andre Nationen sie in dem Masse gekannt haben. Auf den ersten Anblick geräth man in Versuchung die mannigfaltigen im Sanskrit hieraus entstehenden Regeln wenigstens zum Theil der Systemsucht der Grammatiker zuzuschreiben. Allein diese Vermuthung verschwindet bei der Vergleichung der lebenden, aus dem Sanskrit hervorgegangenen Indischen Sprachen. Von der Telinga, in welcher diese Verkettung gerade vorzüglich häufig und schwierig zu erkennen ist, sagt Carey ausdrücklich, dass der Fremde, welcher dieselbe vernachlässigen wollte, gar nicht würde von den Eingebornen verstanden werden. Im Bengalischen dagegen wird sie nicht immer streng beobachtet, so dass man daraus noch deutlicher sieht, wie dieser Punkt von den individuellen Gewohnheiten der Stämme abhängt.",
+      "body_sha256": "aaa62b11810c207a6ffb3b463ba943559336978e2325190b38a4a65250d4fc66",
+      "locator": "printed403–404 / PDF413–414 / scan leaves417–418",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      ]
+    },
+    {
+      "number": 64,
+      "version_id": "grundzuege-064-v1",
+      "sentences": [
+        {
+          "id": "p64:s1",
+          "text": "Den nächsten Einfluss hat diese Eigenthümlichkeit natürlich auf den Wohllaut."
+        },
+        {
+          "id": "p64:s2",
+          "text": "Es schmeichelt dem Ohre, wenn das harte Zusammentreffen widerstrebender und unharmonischer Laute möglichst vermieden wird."
+        },
+        {
+          "id": "p64:s3",
+          "text": "Aber die Wirkung erstreckt sich auch auf die ideale Geltung der Sprache, und die richtige Gliederung der Rede vor dem Verstände, dies jedoch nur dann, wenn die Buchstabenveränderung sich begnügt, Theile desselben Worts zu einem Ganzen zu verschmelzen, und nicht durch das Aneinanderreihen ganzer von einander unabhängiger Worte ein Ganzes vor dem Ohre bildet, das vor dem Verstände nicht, als solches, bestehen kann."
+        },
+        {
+          "id": "p64:s4",
+          "text": "Die letztere Gewohnheit kann ich nur insofern für nützlich halten, als sie in der Poesie ein Mittel mehr gewährt, die Worteinschnitte mit den rhythmischen in ein angemessenes Verhältniss zu bringen."
+        },
+        {
+          "id": "p64:s5",
+          "text": "Es entstehen nemlich dadurch andre, und häufiger grössere Lautganze, als die blosse Worteintheilung gewährt."
+        },
+        {
+          "id": "p64:s6",
+          "text": "Dagegen ist es für den Verstand und das Ohr störend, wenn sich der Endbuchstabe durch Veränderung da auf den ihm nachfolgenden vorbereitet, wo der Verstand logisch und das Ohr rhythmisch eine Pause verlangt."
+        },
+        {
+          "id": "p64:s7",
+          "text": "Beschränkt sich hingegen diese Lautverwandlung auf die Gränzen des Wortes, so wird sie zu einem phonetischen Mittel, die Rede in rein geschiedene Ganze zu zertheilen, und prägt dem Verstände auch sinnlich ein, dass das Element der Rede das Wort ist."
+        },
+        {
+          "id": "p64:s8",
+          "text": "Die logische Gliederung derselben erfährt keine Störung, sondern wird gelegentlich, so oft nemlich eine solche Lautveränderung eintritt, noch herausgehoben."
+        },
+        {
+          "id": "p64:s9",
+          "text": "Diesen Grundsatz der Nothwendigkeit, die Wortganze durch besondre Toneinheit zu charakterisiren, verkennt zwar auch die Sanskrita Sprache nicht, da in ihr andre Regeln für die Mitte der Wörter, als für das Zusammenstossen zweier gelten."
+        },
+        {
+          "id": "p64:s10",
+          "text": "Da aber diese Regeln in Einigem übereinkommen, und die für mehrere Worte auch für die Theile zusammengesetzter Wörter gelten, so erscheint die Wortabtheilung durch dies Mittel nicht in rein geschiedener sinnlicher Klarheit."
+        }
+      ],
+      "body": "Den nächsten Einfluss hat diese Eigenthümlichkeit natürlich auf den Wohllaut. Es schmeichelt dem Ohre, wenn das harte Zusammentreffen widerstrebender und unharmonischer Laute möglichst vermieden wird. Aber die Wirkung erstreckt sich auch auf die ideale Geltung der Sprache, und die richtige Gliederung der Rede vor dem Verstände, dies jedoch nur dann, wenn die Buchstabenveränderung sich begnügt, Theile desselben Worts zu einem Ganzen zu verschmelzen, und nicht durch das Aneinanderreihen ganzer von einander unabhängiger Worte ein Ganzes vor dem Ohre bildet, das vor dem Verstände nicht, als solches, bestehen kann. Die letztere Gewohnheit kann ich nur insofern für nützlich halten, als sie in der Poesie ein Mittel mehr gewährt, die Worteinschnitte mit den rhythmischen in ein angemessenes Verhältniss zu bringen. Es entstehen nemlich dadurch andre, und häufiger grössere Lautganze, als die blosse Worteintheilung gewährt. Dagegen ist es für den Verstand und das Ohr störend, wenn sich der Endbuchstabe durch Veränderung da auf den ihm nachfolgenden vorbereitet, wo der Verstand logisch und das Ohr rhythmisch eine Pause verlangt. Beschränkt sich hingegen diese Lautverwandlung auf die Gränzen des Wortes, so wird sie zu einem phonetischen Mittel, die Rede in rein geschiedene Ganze zu zertheilen, und prägt dem Verstände auch sinnlich ein, dass das Element der Rede das Wort ist. Die logische Gliederung derselben erfährt keine Störung, sondern wird gelegentlich, so oft nemlich eine solche Lautveränderung eintritt, noch herausgehoben. Diesen Grundsatz der Nothwendigkeit, die Wortganze durch besondre Toneinheit zu charakterisiren, verkennt zwar auch die Sanskrita Sprache nicht, da in ihr andre Regeln für die Mitte der Wörter, als für das Zusammenstossen zweier gelten. Da aber diese Regeln in Einigem übereinkommen, und die für mehrere Worte auch für die Theile zusammengesetzter Wörter gelten, so erscheint die Wortabtheilung durch dies Mittel nicht in rein geschiedener sinnlicher Klarheit.",
+      "body_sha256": "de55e0b1cfd5f3f9339814bbfa45b2f74d25266aef711b70719b5f74e78a6198",
+      "locator": "printed404–405 / PDF414–415 / scan leaves418–419",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      ]
+    },
+    {
+      "number": 65,
+      "version_id": "grundzuege-065-v1",
+      "sentences": [
+        {
+          "id": "p65:s1",
+          "text": "Das Zeitmass gehört den Sylben an."
+        },
+        {
+          "id": "p65:s2",
+          "text": "Da aber die Vocale die Sylbe bestimmen, und auch für sich allein bilden können, so wirkt das Gefühl für dieselbe auch auf die Vollständigkeit des Alphabets ein, in dem entweder alle Vocallaute, jeder in seiner Länge oder Kürze, rein geschieden vorkommen, oder nicht."
+        },
+        {
+          "id": "p65:s3",
+          "text": "Doch können die geschriebenen Zeichen nicht allein hierüber entscheiden."
+        },
+        {
+          "id": "p65:s4",
+          "text": "So bleibt es im Sanskrit immer zweifelhaft, ob die lebende Sprache nicht auch ein kurzes e und o besass."
+        },
+        {
+          "id": "p65:s5",
+          "text": "Das Zeitmass liegt ganz und gar in der Natur der Aussprache, und entzieht sich am meisten der willkührlichen Bestimmung."
+        },
+        {
+          "id": "p65:s6",
+          "text": "Selbst individuelle Anlagen und Gewohnheiten können einen geringeren Einfluss darauf ausüben, da z. B. das Zusammenstossen mehrerer Laute nothwendig mehr Zeit in der Aussprache erfordern muss."
+        },
+        {
+          "id": "p65:s7",
+          "text": "Dagegen kann Anlage, Gewohnheit und Absicht in einer Sprache die ganze Geltung des Zeitmasses in der Rede begünstigen, oder beschränken, und hieraus entspringt für den Wohllaut und die rhythmische Schönheit der Rede und der Sprache überhaupt, auch in ihrer Wirkung auf den Charakter, ein höchst wichtiger Unterschied."
+        },
+        {
+          "id": "p65:s8",
+          "text": "Der Ausdruck der Gedanken wird durch diese rhythmische Eigenthümlichkeit der Sprache weniger wesentlich betroffen."
+        },
+        {
+          "id": "p65:s9",
+          "text": "Zu grosse Begünstigung desselben kann ihm niemals nachtheilig werden, ungerechte Vernachlässigung nur insofern, als die nicht sorgfältige Scheidung der langen und kurzen Vocale denselben Nachtheil, als die Verdunkelung des reinen Lauts der Buchstaben überhaupt mit sich führt."
+        },
+        {
+          "id": "p65:s10",
+          "text": "Dagegen kann die Unterdrückung der natürlichen Geltung des Zeitmasses wohl den Gedankenausdruck zu einseitig herausheben."
+        },
+        {
+          "id": "p65:s11",
+          "text": "Denn Rhythmus und Accent stehen in einem Verhältniss zu einander, das da, wo nicht richtige Sprachbehandlung es in schönes Ebenmass ausgleicht, dem ersteren feindselig werden kann, indem es dem ruhigen Walten des Zeitmasses nicht immer gelingt, neben der Heftigkeit der Rede, oder dem scharf accentuirenden Verstände sein Recht zu behaupten."
+        },
+        {
+          "id": "p65:s12",
+          "text": "Das Vorherrschen des aesthetischen Gefühls, das aber ebensowohl in der Einseitigkeit, als der Rohheit Hindernisse finden kann, ist hier entscheidend, erhält seine Freiheit neben dem Nachdruck der Gedankenverbindung, und weist dem Accent selbst im Wort seine dem rhythmischen Wohllaut angemessene Stelle an."
+        }
+      ],
+      "body": "Das Zeitmass gehört den Sylben an. Da aber die Vocale die Sylbe bestimmen, und auch für sich allein bilden können, so wirkt das Gefühl für dieselbe auch auf die Vollständigkeit des Alphabets ein, in dem entweder alle Vocallaute, jeder in seiner Länge oder Kürze, rein geschieden vorkommen, oder nicht. Doch können die geschriebenen Zeichen nicht allein hierüber entscheiden. So bleibt es im Sanskrit immer zweifelhaft, ob die lebende Sprache nicht auch ein kurzes e und o besass. Das Zeitmass liegt ganz und gar in der Natur der Aussprache, und entzieht sich am meisten der willkührlichen Bestimmung. Selbst individuelle Anlagen und Gewohnheiten können einen geringeren Einfluss darauf ausüben, da z. B. das Zusammenstossen mehrerer Laute nothwendig mehr Zeit in der Aussprache erfordern muss. Dagegen kann Anlage, Gewohnheit und Absicht in einer Sprache die ganze Geltung des Zeitmasses in der Rede begünstigen, oder beschränken, und hieraus entspringt für den Wohllaut und die rhythmische Schönheit der Rede und der Sprache überhaupt, auch in ihrer Wirkung auf den Charakter, ein höchst wichtiger Unterschied. Der Ausdruck der Gedanken wird durch diese rhythmische Eigenthümlichkeit der Sprache weniger wesentlich betroffen. Zu grosse Begünstigung desselben kann ihm niemals nachtheilig werden, ungerechte Vernachlässigung nur insofern, als die nicht sorgfältige Scheidung der langen und kurzen Vocale denselben Nachtheil, als die Verdunkelung des reinen Lauts der Buchstaben überhaupt mit sich führt. Dagegen kann die Unterdrückung der natürlichen Geltung des Zeitmasses wohl den Gedankenausdruck zu einseitig herausheben. Denn Rhythmus und Accent stehen in einem Verhältniss zu einander, das da, wo nicht richtige Sprachbehandlung es in schönes Ebenmass ausgleicht, dem ersteren feindselig werden kann, indem es dem ruhigen Walten des Zeitmasses nicht immer gelingt, neben der Heftigkeit der Rede, oder dem scharf accentuirenden Verstände sein Recht zu behaupten. Das Vorherrschen des aesthetischen Gefühls, das aber ebensowohl in der Einseitigkeit, als der Rohheit Hindernisse finden kann, ist hier entscheidend, erhält seine Freiheit neben dem Nachdruck der Gedankenverbindung, und weist dem Accent selbst im Wort seine dem rhythmischen Wohllaut angemessene Stelle an.",
+      "body_sha256": "eef3185a91b56f1941a1f0f6ff2f67a1833dac7a89c0f3c39632258a262a710d",
+      "locator": "printed405–406 / PDF415–416 / scan leaves419–420",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      ]
+    },
+    {
+      "number": 66,
+      "version_id": "grundzuege-066-v1",
+      "sentences": [
+        {
+          "id": "p66:s1",
+          "text": "So wie das Zeitmass grösstentheils der eigenthümlichen Natur der Töne, so gehört der Accent ausschliesslich der Absicht des Redenden an."
+        },
+        {
+          "id": "p66:s2",
+          "text": "Er ist das Mittel, durch welches die Sprache die Rede, welche, ohne ihn, aus bloss an einander gereihten Grundtheilen bestehen würde, in verschiedene neben- und untergeordnete Ganze verknüpft und absondert."
+        },
+        {
+          "id": "p66:s3",
+          "text": "Denn indem der Accent eine Sylbe betont, macht er die folgenden tonlos, zieht sie daher in das Gebiet der betonten, und verbindet sie mithin mit derselben."
+        },
+        {
+          "id": "p66:s4",
+          "text": "Ebendies geschieht, wenn man Sylben, welche der Betonung vorausgehen, so an einander reihet, dass das Ohr durch die ihnen mangelnde Betonung auf eine zu erwartende aufmerksam wird."
+        },
+        {
+          "id": "p66:s5",
+          "text": "Dagegen schafft der Accent verschiedene Tongebiete und trennt die Sylben, indem er eine neue Betonung anheben lässt."
+        },
+        {
+          "id": "p66:s6",
+          "text": "Er folgt hierin unmittelbar der Richtung des Gedanken, und dient, den Fluss der Rede dem Fluss der Gedanken ähnlich zu machen, aber er wird bedingt durch die Gesetze der Aussprache, und fügt sich, jedoch mehr oder weniger, denen des Wohllauts."
+        },
+        {
+          "id": "p66:s7",
+          "text": "Man darf aber den Accent in diesem Sinne nicht mit andren Lautveränderungen der Vocale verwechseln, die wohl auch durch Accentzeichen angedeutet werden, und auch in Hebung oder Senkung der Stimme bestehen."
+        },
+        {
+          "id": "p66:s8",
+          "text": "Diese sind nur bestimmt durch Verschiedenheit der Intonation eine grössere Anzahl von Lauten möglich zu machen, als die intonationfreie Beschaffenheit derselben herzugeben vermag."
+        },
+        {
+          "id": "p66:s9",
+          "text": "Dies ist der Fall mit den Chinesischen Accentzeichen, da es im Chinesischen eigentlich so viele Abarten jedes Vocals giebt, als der Vocal Intonationen annehmen kann."
+        },
+        {
+          "id": "p66:s10",
+          "text": "Denn im Grunde fällt die Intonation der Sylbe doch immer nur auf den Vocal."
+        },
+        {
+          "id": "p66:s11",
+          "text": "Durch diese Intonationen vermehrt sich mithin der Umfang des Alphabets."
+        }
+      ],
+      "body": "So wie das Zeitmass grösstentheils der eigenthümlichen Natur der Töne, so gehört der Accent ausschliesslich der Absicht des Redenden an. Er ist das Mittel, durch welches die Sprache die Rede, welche, ohne ihn, aus bloss an einander gereihten Grundtheilen bestehen würde, in verschiedene neben- und untergeordnete Ganze verknüpft und absondert. Denn indem der Accent eine Sylbe betont, macht er die folgenden tonlos, zieht sie daher in das Gebiet der betonten, und verbindet sie mithin mit derselben. Ebendies geschieht, wenn man Sylben, welche der Betonung vorausgehen, so an einander reihet, dass das Ohr durch die ihnen mangelnde Betonung auf eine zu erwartende aufmerksam wird. Dagegen schafft der Accent verschiedene Tongebiete und trennt die Sylben, indem er eine neue Betonung anheben lässt. Er folgt hierin unmittelbar der Richtung des Gedanken, und dient, den Fluss der Rede dem Fluss der Gedanken ähnlich zu machen, aber er wird bedingt durch die Gesetze der Aussprache, und fügt sich, jedoch mehr oder weniger, denen des Wohllauts. Man darf aber den Accent in diesem Sinne nicht mit andren Lautveränderungen der Vocale verwechseln, die wohl auch durch Accentzeichen angedeutet werden, und auch in Hebung oder Senkung der Stimme bestehen. Diese sind nur bestimmt durch Verschiedenheit der Intonation eine grössere Anzahl von Lauten möglich zu machen, als die intonationfreie Beschaffenheit derselben herzugeben vermag. Dies ist der Fall mit den Chinesischen Accentzeichen, da es im Chinesischen eigentlich so viele Abarten jedes Vocals giebt, als der Vocal Intonationen annehmen kann. Denn im Grunde fällt die Intonation der Sylbe doch immer nur auf den Vocal. Durch diese Intonationen vermehrt sich mithin der Umfang des Alphabets.",
+      "body_sha256": "f556795d227449523b74e45f248bc8c3b8802760e1a36d476055c7c04453e44e",
+      "locator": "printed406–407 / PDF416–417 / scan leaves420–421",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      ]
+    },
+    {
+      "number": 67,
+      "version_id": "grundzuege-067-v1",
+      "sentences": [
+        {
+          "id": "p67:s1",
+          "text": "Die wichtigste Art des wahren Accents und diejenige, welche am meisten der Sprache angehört, ist der Wortaccent."
+        },
+        {
+          "id": "p67:s2",
+          "text": "Der Redeaccent wechselt natürlich nach der Beschaffenheit der Rede und kann nicht an den Theilen der unverbundenen Sprache haften."
+        },
+        {
+          "id": "p67:s3",
+          "text": "Aber seine Behandlung im Ganzen gehört allerdings zu der Natur der Sprache."
+        },
+        {
+          "id": "p67:s4",
+          "text": "Sie liegt zwar in der der Nation eigenthümlichen Vorstellungs- und Empfindungsweise, allein die Sprache kann von dieser auch niemals getrennt werden, und besteht, ausser den gleichsam todten Elementen, immer zugleich aus der in der Seele der Redenden liegenden Eigenthümlichkeit des lebendigen Vortrags, nur dass sich dieser an todten Sprachen gar nicht, oder wenigstens nur unvollkommen erkennen lässt."
+        },
+        {
+          "id": "p67:s5",
+          "text": "In der Sanskrita Sprache fehlen bis jetzt alle Nachrichten über die Accentuation, und wenn die der Griechischen sich auch in ihren Zeichen erhalten hat, so bleiben über die Art des lebendigen wirklichen Vortrags der Accente in Verbindung einerseits mit dem Redeaccent, andrerseits mit dem Zeitmass noch viele Zweifel übrig."
+        }
+      ],
+      "body": "Die wichtigste Art des wahren Accents und diejenige, welche am meisten der Sprache angehört, ist der Wortaccent. Der Redeaccent wechselt natürlich nach der Beschaffenheit der Rede und kann nicht an den Theilen der unverbundenen Sprache haften. Aber seine Behandlung im Ganzen gehört allerdings zu der Natur der Sprache. Sie liegt zwar in der der Nation eigenthümlichen Vorstellungs- und Empfindungsweise, allein die Sprache kann von dieser auch niemals getrennt werden, und besteht, ausser den gleichsam todten Elementen, immer zugleich aus der in der Seele der Redenden liegenden Eigenthümlichkeit des lebendigen Vortrags, nur dass sich dieser an todten Sprachen gar nicht, oder wenigstens nur unvollkommen erkennen lässt. In der Sanskrita Sprache fehlen bis jetzt alle Nachrichten über die Accentuation, und wenn die der Griechischen sich auch in ihren Zeichen erhalten hat, so bleiben über die Art des lebendigen wirklichen Vortrags der Accente in Verbindung einerseits mit dem Redeaccent, andrerseits mit dem Zeitmass noch viele Zweifel übrig.",
+      "body_sha256": "db808b9102fb251bfd8bd549100fc53bc55ac5de82e371d5043fb9c31b6b5a21",
+      "locator": "printed407–408 / PDF417–418 / scan leaves421–422",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      ]
+    },
+    {
+      "number": 68,
+      "version_id": "grundzuege-068-v1",
+      "sentences": [
+        {
+          "id": "p68:s1",
+          "text": "Das Wort entsteht erst durch den Accent, der ihm die Einheit des Begriffes einhaucht."
+        },
+        {
+          "id": "p68:s2",
+          "text": "Wenn sich in einem einfachen Worte zwei ganz gleiche Betonungen fänden, so stellte sich die Einheit des Begriffs nicht sinnlich auch vor dem Ohre dar, und die Angemessenheit der Begleitung des Gedanken durch den Laut wäre gestört."
+        },
+        {
+          "id": "p68:s3",
+          "text": "Das natürliche Sprachgefühl würde dadurch zu sehr verletzt, als dass man sich den Fall möglich denken könnte."
+        },
+        {
+          "id": "p68:s4",
+          "text": "Zwei in einem Worte aus zwei verschiedenen zusammenkommende Accente werden sich daher in der Aussprache einer dem andren unterordnen, oder die Begriffe der einzelnen Wörter müssten sich denn nicht in Einen verbinden; denn alsdann waltet nothwendig ein Element vor."
+        },
+        {
+          "id": "p68:s5",
+          "text": "Da der Accent durch die feste Stelle, die er im Worte einnimmt, dessen Individualität vollenden hilft, so können durch Verschiedenheit der Betonung aus der gleichen Sylbenfolge verschiedene Wörter entstehen, und es darf nicht in Verwunderung setzen, dass dies auch in Sprachen ganz ungebildeter Nationen angetroffen wird."
+        },
+        {
+          "id": "p68:s6",
+          "text": "Es ist eine sehr gewöhnliche Bemerkung, dass den Fremden bei den gemeinsten Volksklassen nichts so unverständlich macht, als unrichtige Betonung."
+        },
+        {
+          "id": "p68:s7",
+          "text": "Gerade der Ungebildete in Nationen und Ständen ist gewohnt, jedes Wort unzergliedert als ein Ganzes zu nehmen, dessen Physiognomie, wenn man so sagen darf, er an dem Accente erkennt."
+        }
+      ],
+      "body": "Das Wort entsteht erst durch den Accent, der ihm die Einheit des Begriffes einhaucht. Wenn sich in einem einfachen Worte zwei ganz gleiche Betonungen fänden, so stellte sich die Einheit des Begriffs nicht sinnlich auch vor dem Ohre dar, und die Angemessenheit der Begleitung des Gedanken durch den Laut wäre gestört. Das natürliche Sprachgefühl würde dadurch zu sehr verletzt, als dass man sich den Fall möglich denken könnte. Zwei in einem Worte aus zwei verschiedenen zusammenkommende Accente werden sich daher in der Aussprache einer dem andren unterordnen, oder die Begriffe der einzelnen Wörter müssten sich denn nicht in Einen verbinden; denn alsdann waltet nothwendig ein Element vor. Da der Accent durch die feste Stelle, die er im Worte einnimmt, dessen Individualität vollenden hilft, so können durch Verschiedenheit der Betonung aus der gleichen Sylbenfolge verschiedene Wörter entstehen, und es darf nicht in Verwunderung setzen, dass dies auch in Sprachen ganz ungebildeter Nationen angetroffen wird. Es ist eine sehr gewöhnliche Bemerkung, dass den Fremden bei den gemeinsten Volksklassen nichts so unverständlich macht, als unrichtige Betonung. Gerade der Ungebildete in Nationen und Ständen ist gewohnt, jedes Wort unzergliedert als ein Ganzes zu nehmen, dessen Physiognomie, wenn man so sagen darf, er an dem Accente erkennt.",
+      "body_sha256": "63ac1ceec348a8c0b12c6af2305096b836a65b6fd70a016602f8dc8a3151f432",
+      "locator": "printed408 / PDF418 / scan leaves422",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      ]
+    },
+    {
+      "number": 69,
+      "version_id": "grundzuege-069-v1",
+      "sentences": [
+        {
+          "id": "p69:s1",
+          "text": "Obgleich mehrere Worte eigentlich bloss durch den Redeaccent verbunden werden, so geschieht dies in einigen Fällen doch auch durch den wahren Sprachaccent, nur dass alsdann die verbundenen Theile nicht, wie in jenem Fall, ihre ihnen eigenthümlichen Accente unverändert erhalten."
+        },
+        {
+          "id": "p69:s2",
+          "text": "Man sieht leicht, dass ich hier an die enklitischen Wörter erinnern will, die es aber bei weitem nicht bloss im Griechischen, sondern wenn man genau darauf achtet, in allen Sprachen giebt und geben muss."
+        },
+        {
+          "id": "p69:s3",
+          "text": "Denn in allen ist der Fall vorhanden, dass für sich bestehende Wörter in eine solche Lage gegen andre treten, dass ihre selbständige Geltung ganz in der Anschliessung an diese aufgeht."
+        },
+        {
+          "id": "p69:s4",
+          "text": "Damit aber fällt von selbst auch ihre eigenthümliche Betonung dahin."
+        },
+        {
+          "id": "p69:s5",
+          "text": "In der so scharf accentuirten Englischen Sprache hört man dies, und zwar gerade auch im Volk, ungemein stark, und so dass die ganze Lautgeltung der enklitischen Wörter dadurch verändert wird."
+        },
+        {
+          "id": "p69:s6",
+          "text": "Wie dadurch auch der Accent des an sich reissenden Worts eine andre Stelle oder einen zweiten, jedoch wohl nicht gleich starken Accent neben sich erhalten kann, beruht auf Regeln und Gewohnheiten einzelner Sprachen, so wie auch, ob es für die Gattung von Wörtern, die angehängt werden können, doppelte Lautformen, eine orthotonische und enklitische, geben soll."
+        },
+        {
+          "id": "p69:s7",
+          "text": "Da in der Sanskrita Sprache zu dem Wort- und Redeaccent noch die genaue Bewahrung des Zeitmasses und die Wortverkettung durch Buchstabenveränderung hinzukam, so muss, bei dem ausserdem so grossen Umfange des Alphabets, ihr Lautsystem vorzüglich schwierig, aber auch ungemein reich und mannigfaltig gewesen seyn."
+        }
+      ],
+      "body": "Obgleich mehrere Worte eigentlich bloss durch den Redeaccent verbunden werden, so geschieht dies in einigen Fällen doch auch durch den wahren Sprachaccent, nur dass alsdann die verbundenen Theile nicht, wie in jenem Fall, ihre ihnen eigenthümlichen Accente unverändert erhalten. Man sieht leicht, dass ich hier an die enklitischen Wörter erinnern will, die es aber bei weitem nicht bloss im Griechischen, sondern wenn man genau darauf achtet, in allen Sprachen giebt und geben muss. Denn in allen ist der Fall vorhanden, dass für sich bestehende Wörter in eine solche Lage gegen andre treten, dass ihre selbständige Geltung ganz in der Anschliessung an diese aufgeht. Damit aber fällt von selbst auch ihre eigenthümliche Betonung dahin. In der so scharf accentuirten Englischen Sprache hört man dies, und zwar gerade auch im Volk, ungemein stark, und so dass die ganze Lautgeltung der enklitischen Wörter dadurch verändert wird. Wie dadurch auch der Accent des an sich reissenden Worts eine andre Stelle oder einen zweiten, jedoch wohl nicht gleich starken Accent neben sich erhalten kann, beruht auf Regeln und Gewohnheiten einzelner Sprachen, so wie auch, ob es für die Gattung von Wörtern, die angehängt werden können, doppelte Lautformen, eine orthotonische und enklitische, geben soll. Da in der Sanskrita Sprache zu dem Wort- und Redeaccent noch die genaue Bewahrung des Zeitmasses und die Wortverkettung durch Buchstabenveränderung hinzukam, so muss, bei dem ausserdem so grossen Umfange des Alphabets, ihr Lautsystem vorzüglich schwierig, aber auch ungemein reich und mannigfaltig gewesen seyn.",
+      "body_sha256": "44a34011c0dc4f9c8902125f57b4686b5401bab6e4bb85922c84a43e8494936a",
+      "locator": "printed408–409 / PDF418–419 / scan leaves422–423",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      ]
+    },
+    {
+      "number": 70,
+      "version_id": "grundzuege-070-v1",
+      "sentences": [
+        {
+          "id": "p70:s1",
+          "text": "Durch den Redeaccent kann der Sprechende entweder genau das Gewicht bezeichnen, welches jedes Wort und jeder Satz in der Bedeutung der Rede haben, oder die Erhebungen und Senkungen der Stimme nach einer davon unabhängigen in der Sprache zur Gewohnheit gewordenen Methode vertheilen, welcher die Rücksicht auf den Sinn zwar nicht ganz aufgeopfert, aber doch vollkommen untergeordnet wird."
+        },
+        {
+          "id": "p70:s2",
+          "text": "Dieser Unterschied zeigt sich am deutlichsten im Deutschen und Französischen Lesen und Declamiren, da die Franzosen den Deutschen, welcher ihre Sprache, wie die seinige, im Reden accentuirt, des Singens beschuldigen."
+        },
+        {
+          "id": "p70:s3",
+          "text": "Ausser diesen beiden sehr entgegengesetzten Arten giebt es indess viele minder bestimmt nuancirte, die sich alle durch das mehr, oder minder starke Herausheben der Verstandesgeltung der Wörter und Sylben unterscheiden, da wohl jedes Volk hierin einem eignen Gefühl folgt."
+        },
+        {
+          "id": "p70:s4",
+          "text": "Gerade aber weil es von dem wichtigsten Einfluss ist, auf welche Weise die Gedankenfolge in dem lebendigen Vortrage erscheint; so ist dieser Punkt von der grossesten Erheblichkeit für die intellectuelle Bildung, vorzüglich des am meisten auf die lebendige Mittheilung beschränkten Volks."
+        }
+      ],
+      "body": "Durch den Redeaccent kann der Sprechende entweder genau das Gewicht bezeichnen, welches jedes Wort und jeder Satz in der Bedeutung der Rede haben, oder die Erhebungen und Senkungen der Stimme nach einer davon unabhängigen in der Sprache zur Gewohnheit gewordenen Methode vertheilen, welcher die Rücksicht auf den Sinn zwar nicht ganz aufgeopfert, aber doch vollkommen untergeordnet wird. Dieser Unterschied zeigt sich am deutlichsten im Deutschen und Französischen Lesen und Declamiren, da die Franzosen den Deutschen, welcher ihre Sprache, wie die seinige, im Reden accentuirt, des Singens beschuldigen. Ausser diesen beiden sehr entgegengesetzten Arten giebt es indess viele minder bestimmt nuancirte, die sich alle durch das mehr, oder minder starke Herausheben der Verstandesgeltung der Wörter und Sylben unterscheiden, da wohl jedes Volk hierin einem eignen Gefühl folgt. Gerade aber weil es von dem wichtigsten Einfluss ist, auf welche Weise die Gedankenfolge in dem lebendigen Vortrage erscheint; so ist dieser Punkt von der grossesten Erheblichkeit für die intellectuelle Bildung, vorzüglich des am meisten auf die lebendige Mittheilung beschränkten Volks.",
+      "body_sha256": "12a94c3e1bb86d5e38a85a7cc03ed0b1db20098412b5e426fe6f91df3c6ad593",
+      "locator": "printed409 / PDF419 / scan leaves423",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4
+        ]
+      ]
+    },
+    {
+      "number": 71,
+      "version_id": "grundzuege-071-v1",
+      "sentences": [
+        {
+          "id": "p71:s1",
+          "text": "Von den grossesten und sichtbarsten Folgen für die Ausbildung des Lautsystems ist die Einführung der Buchstabenschrift."
+        },
+        {
+          "id": "p71:s2",
+          "text": "Obgleich der articulirte Ton durch dieselbe niemals dem Gebiete des immer vergehenden Schalles entzogen wird, und nichts, als ein an diesen Schall erinnerndes Zeichen erhält, so wirken diese Zeichen und ihre Vergleichung doch dergestalt auf den Verstand und die Einbildungskraft, dass die Sprachtöne sich bestimmter an die ihnen angewiesenen Punkte heften, und viel klarer in ihrer Elementareigenschaft vor die Seele treten."
+        },
+        {
+          "id": "p71:s3",
+          "text": "An den Zeichen geht die Aussprache einer Generation auf die der andren über, und Abweichungen lassen sich an der Rechtschreibung erkennen, und die Sprachlaute können mit Allem, was zu ihnen gehört, Gegenstand der Betrachtung und der wissenschaftlichen Behandlung werden."
+        },
+        {
+          "id": "p71:s4",
+          "text": "Die Buchstabenschrift führt daher die beiden grossen Vorzüge mit sich, aus welchen sich hernach viele einzelne Folgen durch die ganze Sprache erstrecken : einmal dass alle Lautverhältnisse der Sprache sich reiner und bestimmter gegen einander stellen und ordnen, und vollständiger und systematischer ausgebildet werden, dann dass, indem der Verstand die Grundtheile der Sprache genauer trennt und bestimmter festhält, die Idee ihrer Gliederung lebendiger in ihm wird, und die Vorstellung ihres von den Grundtheilen an aufsteigenden Baues an Anschaulichkeit und Vollständigkeit gewinnt."
+        },
+        {
+          "id": "p71:s5",
+          "text": "Dagegen kann auch durch die wissenschaftliche Bearbeitung der Lautbezeichnungen zu gekünstelte und systematische Behandlung derselben vorzüglich da entstehen, wo Sprachen aus dem lebendigen Volksverkehr in bloss gelehrten Gebrauch überzugehen anfangen."
+        }
+      ],
+      "body": "Von den grossesten und sichtbarsten Folgen für die Ausbildung des Lautsystems ist die Einführung der Buchstabenschrift. Obgleich der articulirte Ton durch dieselbe niemals dem Gebiete des immer vergehenden Schalles entzogen wird, und nichts, als ein an diesen Schall erinnerndes Zeichen erhält, so wirken diese Zeichen und ihre Vergleichung doch dergestalt auf den Verstand und die Einbildungskraft, dass die Sprachtöne sich bestimmter an die ihnen angewiesenen Punkte heften, und viel klarer in ihrer Elementareigenschaft vor die Seele treten. An den Zeichen geht die Aussprache einer Generation auf die der andren über, und Abweichungen lassen sich an der Rechtschreibung erkennen, und die Sprachlaute können mit Allem, was zu ihnen gehört, Gegenstand der Betrachtung und der wissenschaftlichen Behandlung werden. Die Buchstabenschrift führt daher die beiden grossen Vorzüge mit sich, aus welchen sich hernach viele einzelne Folgen durch die ganze Sprache erstrecken : einmal dass alle Lautverhältnisse der Sprache sich reiner und bestimmter gegen einander stellen und ordnen, und vollständiger und systematischer ausgebildet werden, dann dass, indem der Verstand die Grundtheile der Sprache genauer trennt und bestimmter festhält, die Idee ihrer Gliederung lebendiger in ihm wird, und die Vorstellung ihres von den Grundtheilen an aufsteigenden Baues an Anschaulichkeit und Vollständigkeit gewinnt. Dagegen kann auch durch die wissenschaftliche Bearbeitung der Lautbezeichnungen zu gekünstelte und systematische Behandlung derselben vorzüglich da entstehen, wo Sprachen aus dem lebendigen Volksverkehr in bloss gelehrten Gebrauch überzugehen anfangen.",
+      "body_sha256": "8847ed8afd8f40c011166ef80939fcf84e78e7843b09b500e3e1328b97880bce",
+      "locator": "printed409–410 / PDF419–420 / scan leaves423–424",
+      "typographic_groups": [
+        [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      ]
+    }
+  ],
+  "source_notes": [
+    {
+      "id": "note:bopp-62",
+      "number": 62,
+      "printed_page": 402,
+      "marker": "*)",
+      "authorship": "humboldt",
+      "German": "Bopp's Lehrgebäude der Sanskrita Sprache. S. 14. nr. 20. (Bopp's Grammatik.)",
+      "original_anchor": "After Lingualen in62",
+      "source_id": "p62:s3",
+      "source_anchor_after": "Lingualen"
+    },
+    {
+      "id": "note:deleted-near",
+      "number": 62,
+      "printed_page": 402,
+      "marker": "1)",
+      "authorship": "editor1906",
+      "German": "Nach „der“ gestrichen: „einander nahe liegenden“.",
+      "original_anchor": "After der in the first sentence of62",
+      "source_id": "p62:s1",
+      "source_anchor_after": "Scheidung der"
+    },
+    {
+      "id": "note:thiersch",
+      "number": 63,
+      "printed_page": 404,
+      "marker": "*)",
+      "authorship": "humboldt",
+      "German": "Thiersch behauptet, dass die Griechen, wie das Sanskrit, die Wörter verbanden.",
+      "original_anchor": "After gekannt haben in63",
+      "source_id": "p63:s5",
+      "source_anchor_after": "gekannt haben."
+    },
+    {
+      "id": "note:carey",
+      "number": 63,
+      "printed_page": 404,
+      "marker": "**)",
+      "authorship": "humboldt",
+      "German": "Grammar of the Telinga language. Vorr. p. II.",
+      "original_anchor": "After Carey in63",
+      "source_id": "p63:s8",
+      "source_anchor_after": "Carey"
+    },
+    {
+      "id": "note:haughton",
+      "number": 63,
+      "printed_page": 404,
+      "marker": "***)",
+      "authorship": "humboldt",
+      "German": "Haugthon's Rudiments of Bengali Grammar. p. 147. §. 377.",
+      "original_anchor": "After beobachtet in63",
+      "source_id": "p63:s9",
+      "source_anchor_after": "beobachtet,"
+    },
+    {
+      "id": "note:bopp-64",
+      "number": 64,
+      "printed_page": 405,
+      "marker": "*)",
+      "authorship": "humboldt",
+      "German": "Die Regeln für die Mitte der Wörter werden genau genommen nicht ganz richtig so genannt. Vollständig gelten sie nur bei der Umstempelung der Wurzel zum Wort, und bei den Flexionen von diesem. Schon bei den, das so gestempelte Wort weiter umformenden Taddhita-Suffixen, treten die Regeln der Anfangs- und Endbuchstaben verschiedener Worte ein. Bopp's Gramm. S. 58. §. 85.",
+      "original_anchor": "After gelten in the final sentence of64",
+      "source_id": "p64:s10",
+      "source_anchor_after": "gelten,"
+    },
+    {
+      "id": "note:deleted-signs",
+      "number": 65,
+      "printed_page": 405,
+      "marker": "1)",
+      "authorship": "editor1906",
+      "German": "Nach „dem“ gestrichen: „mit oder ohne eigene Zeichen“.",
+      "original_anchor": "After dem in in dem in65",
+      "source_id": "p65:s2",
+      "source_anchor_after": "in dem"
+    },
+    {
+      "id": "note:deleted-word",
+      "number": 66,
+      "printed_page": 406,
+      "marker": "1)",
+      "authorship": "editor1906",
+      "German": "Nach „Sylbe“ gestrichen: „oder ein Wort“.",
+      "original_anchor": "After Sylbe at the start of66’s accent explanation",
+      "source_id": "p66:s3",
+      "source_anchor_after": "Sylbe"
+    },
+    {
+      "id": "note:chinese",
+      "number": 66,
+      "printed_page": 407,
+      "marker": "*)",
+      "authorship": "humboldt",
+      "German": "In den Chinesischen Grammatiken werden die Intonationen zwar Modificationen der Wörter, oder was dort auf Eins hinausläuft, der Sylben genannt, was auch in ihnen viel zweckmässiger ist. Allein eigentlich ruhen sie doch nur auf der Vocalendung, und daher ist es, nach Art andrer Sprachen zu reden, natürlicher zu sagen, dass jede einfache und zusammengesetzte Vocalendung diese und diese Intonation haben kann, und nun die Wörter, nach Verschiedenheit ihrer Bedeutung, die so oder so intonirte Vocalendung annehmen. Auf diese Weise stellt sich die Sache den kurzen und langen Vocalen anderer Sprachen gleich.",
+      "original_anchor": "After Alphabets at the end of66",
+      "source_id": "p66:s11",
+      "source_anchor_after": "Alphabets."
+    },
+    {
+      "id": "note:sanskrit-pronouns",
+      "number": 69,
+      "printed_page": 409,
+      "marker": "*)",
+      "authorship": "humboldt",
+      "German": "Die Sanskritischen Pronomina der 1. und 2. Person haben zwar für einige Casus, neben der ausführlichen, weil weniger üblichen Form, eine zweite häufiger gebrauchte, abgekürzte. Aber es scheint nicht, dass dieselbe bloss enklitisch gebraucht worden sey.",
+      "original_anchor": "After geben soll in69",
+      "source_id": "p69:s6",
+      "source_anchor_after": "geben soll."
+    }
+  ],
+  "segmentation": "One printed paragraph for each numbered or lettered passage, including62a and62b. Source-sentence/rendering blocks are conservative full-stop divisions, not certified syntactic parses. Bodies join blocks with one space; line-end word splits are rejoined.",
+  "checked_at": "2026-11-17T02:50:33.682571+00:00",
+  "typographic_details": [
+    {
+      "source_id": "p62:s3",
+      "fragment": "l",
+      "style": "italic",
+      "interpretation": "The print glyph is transcribed as italic l, named gestrichene Polnische l; OCR slash corrected. No silent Unicode ł substitution in the German."
+    },
+    {
+      "source_id": "p65:s4",
+      "fragment": "e und o",
+      "style": "italic e and o",
+      "interpretation": "OCR c corrected to the printed e; historical vowel-length question retained."
+    },
+    {
+      "source_id": "heading:sounds",
+      "fragment": "α.",
+      "style": "Greek alpha marker",
+      "interpretation": "Preserve the Greek subheading, not Latin a."
+    },
+    {
+      "source_id": "p62a",
+      "fragment": "62.a.",
+      "style": "superscript a in marginal label",
+      "interpretation": "Normalized stable display62a; source numbering retained."
+    },
+    {
+      "source_id": "p62b",
+      "fragment": "62.b.",
+      "style": "superscript b in marginal label",
+      "interpretation": "Normalized stable display62b; source numbering retained."
+    }
+  ],
+  "excluded_boundary": {
+    "printed_page": 410,
+    "heading": "β. Wörtervorrath.",
+    "passage": 72,
+    "editor_note": "Erster Druck dieses Kapitels: Internationale Zeitschrift für allgemeine Sprachwissenschaft1,385–411(1884).",
+    "reason": "The next heading, its source note and passage72 are outside this target;411 checked only for the continuing boundary."
+  }
+}

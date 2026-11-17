@@ -67,6 +67,10 @@
     {
       "path": "passages/nature-language-016-055/records.json",
       "sha256": "3c8dd2ad6e9b0fc6875f067988b3073819737e0f6824d00f490ce7a76838d497"
+    },
+    {
+      "path": "passages/sound-system-056-071/records.json",
+      "sha256": "18a7d39959fc112f33f41224f65588797af79bca70c3b79c277b302a7e6c97bd"
     }
   ],
   "format": "humboldt.edition",
@@ -351,6 +355,96 @@
       "section": "55",
       "source_id": "grundzuege-055-v1",
       "target_id": "en55-revised-v2"
+    },
+    {
+      "section": "56",
+      "source_id": "grundzuege-056-v1",
+      "target_id": "en56-revised-v2"
+    },
+    {
+      "section": "57",
+      "source_id": "grundzuege-057-v1",
+      "target_id": "en57-revised-v2"
+    },
+    {
+      "section": "58",
+      "source_id": "grundzuege-058-v1",
+      "target_id": "en58-revised-v2"
+    },
+    {
+      "section": "59",
+      "source_id": "grundzuege-059-v1",
+      "target_id": "en59-revised-v2"
+    },
+    {
+      "section": "60",
+      "source_id": "grundzuege-060-v1",
+      "target_id": "en60-revised-v2"
+    },
+    {
+      "section": "61",
+      "source_id": "grundzuege-061-v1",
+      "target_id": "en61-revised-v2"
+    },
+    {
+      "section": "62",
+      "source_id": "grundzuege-062-v1",
+      "target_id": "en62-revised-v2"
+    },
+    {
+      "section": "62a",
+      "source_id": "grundzuege-062a-v1",
+      "target_id": "en62a-revised-v2"
+    },
+    {
+      "section": "62b",
+      "source_id": "grundzuege-062b-v1",
+      "target_id": "en62b-revised-v2"
+    },
+    {
+      "section": "63",
+      "source_id": "grundzuege-063-v1",
+      "target_id": "en63-revised-v2"
+    },
+    {
+      "section": "64",
+      "source_id": "grundzuege-064-v1",
+      "target_id": "en64-revised-v2"
+    },
+    {
+      "section": "65",
+      "source_id": "grundzuege-065-v1",
+      "target_id": "en65-revised-v2"
+    },
+    {
+      "section": "66",
+      "source_id": "grundzuege-066-v1",
+      "target_id": "en66-revised-v2"
+    },
+    {
+      "section": "67",
+      "source_id": "grundzuege-067-v1",
+      "target_id": "en67-revised-v2"
+    },
+    {
+      "section": "68",
+      "source_id": "grundzuege-068-v1",
+      "target_id": "en68-revised-v2"
+    },
+    {
+      "section": "69",
+      "source_id": "grundzuege-069-v1",
+      "target_id": "en69-revised-v2"
+    },
+    {
+      "section": "70",
+      "source_id": "grundzuege-070-v1",
+      "target_id": "en70-revised-v2"
+    },
+    {
+      "section": "71",
+      "source_id": "grundzuege-071-v1",
+      "target_id": "en71-revised-v2"
     }
   ],
   "resources": [

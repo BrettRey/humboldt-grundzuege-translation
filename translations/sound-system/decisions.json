@@ -1,0 +1,669 @@
+{
+  "section": "Sound system",
+  "decisions": [
+    {
+      "source_id": "p56:s2",
+      "question": "What are letters in this division",
+      "resolution": "Retain letters and alphabet, with the spoken bearer explained in the note and guide. They are not silently replaced with phonemes; writing is introduced separately."
+    },
+    {
+      "source_id": "p56:s3",
+      "question": "Intellectualitaet and the bearer of the quality",
+      "resolution": "Use intellectual character of language here, in accordance with the local conditional term rule. Earlier intellectual life of a nation remains unchanged; neither is a psychometric score."
+    },
+    {
+      "source_id": "p57:s1",
+      "question": "Ton against accompanying noise",
+      "resolution": "Use sound rather than forcing tone where musical pitch is not the point. Preserve the normative purification claim as Humboldt’s; the guide distinguishes overlapping German words."
+    },
+    {
+      "source_id": "p57:s4",
+      "question": "Sound impressions and historical evaluation",
+      "resolution": "Retain clicking, blaring, hissing, rasping and breathing as approximate auditory descriptions, not certified modern classes. Preserve the author’s developmental evaluation; the focused IPA note qualifies the assimilation of clicks to animal residue."
+    },
+    {
+      "source_id": "p58:s3",
+      "question": "Continuum and fixing",
+      "resolution": "The continuous range belongs to articulatory movement; a particular sound occupies a habitual point in it. Do not turn this into an assertion that a language has no discrete sound distinctions."
+    },
+    {
+      "source_id": "p59:s2",
+      "question": "Matter and reciprocal action",
+      "resolution": "Use material for resistant Stoff and preserve influence in both directions, the mind’s asserted ascendancy and its repeated limitation. The causal theory remains attributed."
+    },
+    {
+      "source_id": "p59:s3",
+      "question": "Sound differentiation and conceptual clarity",
+      "resolution": "Retain the strong dependence asserted in the German. The note identifies this as a theoretical inference without a comparative demonstration in this division."
+    },
+    {
+      "source_id": "p61:s3",
+      "question": "Inflection and chronology",
+      "resolution": "Letter changes mark distinctions; all inflection is said to originate here, whether simultaneous with language or later. Preserve the chronological alternatives and avoid treating every sound change as inflection."
+    },
+    {
+      "source_id": "p61:s4",
+      "question": "Meaningless sound and a subsidiary concept",
+      "resolution": "Keep meaningless in itself and subsidiary concept; this contrasts unnecessary lexical content with formal indication, not grammatical function with its absence."
+    },
+    {
+      "source_id": "p61:s6",
+      "question": "Material in thought and the sign of form",
+      "resolution": "Use material rather than physical sound alone; the bearer has shifted to represented content. Preserve the condition wherever that material seeks to serve as a sign of form."
+    },
+    {
+      "source_id": "p62:s3",
+      "question": "Polish l and paired Indian historical labels",
+      "resolution": "The checked print has italic l described as having a stroke, not a literal slash. Keep l with a stroke in English; cerebral or lingual names one paired historical class. The note explains articulation cautiously, without importing modern terminology into Humboldt’s text."
+    },
+    {
+      "source_id": "p62:s6",
+      "question": "Dispositions, habits and the effect of writing",
+      "resolution": "Use linguistic dispositions and habits, retaining both general capacities and acquired use. The precision gained through written signs acts back upon speaking and becomes the nations’ possession."
+    },
+    {
+      "source_id": "p62a:s1",
+      "question": "Exclude syllables or delete them in an utterance",
+      "resolution": "Use exclude: the following sentence concerns the inventory of possible syllables. Elision in a particular utterance is not established by ausstossen here."
+    },
+    {
+      "source_id": "p62a:s4",
+      "question": "Originally separate syllables and later contraction",
+      "resolution": "Keep the contrast between more developed and more original language as the author’s comparison. Do not infer a reconstructed historical sequence from the comparison alone."
+    },
+    {
+      "source_id": "p62b:s1",
+      "question": "Internal structure and meeting consonants",
+      "resolution": "Retain the scope over word beginnings, endings and internal structure; consonant changes on contact are a particular illustration, not the only rule."
+    },
+    {
+      "source_id": "p63:s3",
+      "question": "Overlapping names for sound alteration",
+      "resolution": "Letter change renders Buchstabenverwandlung here; the different German compounds remain recoverable. No fixed distinction between Veränderung and Verwandlung is invented."
+    },
+    {
+      "source_id": "p63:s4",
+      "question": "Vor dem Verstände: presentation or temporal precedence",
+      "resolution": "Use as it appears to the understanding, supported by the parallel contrast before the ear/understanding in64. The rejected before understanding intervenes temporal reading remains available in the Codex candidate. This is an interpretation of a compressed construction, not a textual emendation."
+    },
+    {
+      "source_id": "p63:s7",
+      "question": "Indian languages arising from Sanskrit",
+      "resolution": "Retain the printed historical claim. The next Telinga example is identified as Dravidian Telugu in an attributed translator note; Carey’s cited preface has not been independently checked."
+    },
+    {
+      "source_id": "p64:s3",
+      "question": "Ideal force and correct articulation",
+      "resolution": "Use conceptual force and proper articulation of discourse for the understanding, preserving the restriction to parts of one word and the contrast with an apparent auditory whole made from independent words."
+    },
+    {
+      "source_id": "p64:s4",
+      "question": "The limited poetic concession",
+      "resolution": "Preserve the first-person judgment and only insofar as. The advantage is aligning divisions between words and rhythmic divisions, not a general endorsement of cross-word contraction."
+    },
+    {
+      "source_id": "p64:s7",
+      "question": "Within word boundaries",
+      "resolution": "Within the bounds of the word means internal restriction, not a change taking place across the word boundary. Preserve the sensory reinforcement of conceptual articulation."
+    },
+    {
+      "source_id": "p64:s9",
+      "question": "Word-whole and distinct sound unity",
+      "resolution": "Use words as wholes and unity of sound; no independent modern phonological definition of word is supplied. The following qualification about partly shared Sanskrit rules remains in full."
+    },
+    {
+      "source_id": "p65:s1",
+      "question": "Zeitmass as quantity",
+      "resolution": "Use quantity throughout this division, with syllabic duration and vowel length explained in the guide. Do not reduce it to vowel length alone or confuse it with accent."
+    },
+    {
+      "source_id": "p65:s2",
+      "question": "Antecedent of dieselbe",
+      "resolution": "The feminine pronoun agrees with Sylbe, whereas Zeitmass is neuter. Make the feeling for the syllable explicit; retain the distinction between the sound inventory and its written signs."
+    },
+    {
+      "source_id": "p65:s9",
+      "question": "Desselben and ihm in the quantity comparison",
+      "resolution": "Read desselben as quantity and ihm as expression of thoughts, in the contrast with neglect of vowel length. State the referents explicitly and preserve the strong never; the pronoun alternatives remain in candidate notes."
+    },
+    {
+      "source_id": "p65:s11",
+      "question": "Former refers to rhythm",
+      "resolution": "Make rhythm, rather than accent, the party potentially harmed by the relationship; quantity’s calm sway is contrasted with forceful discourse and the sharply accentuating understanding."
+    },
+    {
+      "source_id": "p65:s12",
+      "question": "Whose freedom is preserved",
+      "resolution": "Retain its freedom provisionally. A local translator note names aesthetic feeling, rhythm and quantity as possible antecedents. The compressed pronoun is not treated as settled by agreement or editorial preference."
+    },
+    {
+      "source_id": "p66:s1",
+      "question": "Exclusive intention versus later constraints",
+      "resolution": "Keep exclusively. The note points forward to pronunciation, euphony and the language-specific placement of word accent; do not rewrite the first claim into a weaker modern account."
+    },
+    {
+      "source_id": "p66:s3",
+      "question": "Tonlos in accentual grouping",
+      "resolution": "Use unaccented, not silent, voiceless or without lexical tone. The following syllables are drawn into the accented syllable’s domain; the deleted or a word remains solely in the attributed1906 note."
+    },
+    {
+      "source_id": "p66:s5",
+      "question": "Tongebiete in the local accent account",
+      "resolution": "Use accentual domains here, because the passage describes grouping around prominence rather than sound inventories or musical pitch regions; the German remains available."
+    },
+    {
+      "source_id": "p66:s9",
+      "question": "Chinese intonation and organizing accent",
+      "resolution": "Retain intonation in the historical text and explain the local tone contrast in the guide. The vowel-only assertion remains as printed and receives a sourced, explicitly limited Cantonese qualification."
+    },
+    {
+      "source_id": "p67:s2",
+      "question": "Discourse accent and isolated language parts",
+      "resolution": "Use discourse accent consistently for Redeaccent. Its variation with discourse is distinct from the claim that its habitual treatment belongs to the language."
+    },
+    {
+      "source_id": "p67:s5",
+      "question": "Bis jetzt and surviving accent evidence",
+      "resolution": "Make the time-bound limit so far explicit. A translator note points to later Vedic descriptions while retaining the separate question of recovering actual delivery from notation."
+    },
+    {
+      "source_id": "p68:s1",
+      "question": "Conceptual unity is not a modern word test",
+      "resolution": "Keep breathes the unity of the concept and only through accent. Cross-reference the later enclitic grouping rather than assert that audible unity always identifies an independent word."
+    },
+    {
+      "source_id": "p68:s4",
+      "question": "Exception and the final alsdann",
+      "resolution": "The exception concerns concepts failing to combine; the causal explanation one element predominates is read as applying when they do combine. Make that scope explicit; the compressed German and Muse’s less explicit alternative remain available."
+    },
+    {
+      "source_id": "p68:s7",
+      "question": "Word physiognomy and Oxford spelling",
+      "resolution": "Keep the physiognomy metaphor and its qualification. Use unanalysed, correcting the candidate’s mixed spelling without changing the conceptual claim."
+    },
+    {
+      "source_id": "p69:s3",
+      "question": "Geltung is standing rather than truth",
+      "resolution": "Use independent standing, contrasted with attachment, not validity or truth. The account concerns words’ realization and contribution."
+    },
+    {
+      "source_id": "p69:s5",
+      "question": "Lautgeltung and reduction",
+      "resolution": "Use sound value for the audible realization altered in enclitic use, not logical force. Preserve the reference to common speakers as Humboldt’s."
+    },
+    {
+      "source_id": "p69:s6",
+      "question": "Host accent and the second weaker accent",
+      "resolution": "Retain both possible relocation and acquisition of a second, probably not equally strong, accent, and the dependence of both on particular languages. Orthotonic and enclitic forms remain distinct."
+    },
+    {
+      "source_id": "p70:s1",
+      "question": "Weighting versus a habitual delivery pattern",
+      "resolution": "The second delivery method is independent of the first weighting; sense is not wholly sacrificed but is completely subordinated. Preserve both qualifications rather than making the method wholly meaningless."
+    },
+    {
+      "source_id": "p70:s3",
+      "question": "Verstandesgeltung and contribution",
+      "resolution": "Use significance for the understanding, not sound volume or truth-validity. Differences concern the degree of prominence given to words and syllables."
+    },
+    {
+      "source_id": "p71:s2",
+      "question": "Writing recalls rather than preserves sound",
+      "resolution": "Keep the passing acoustic occurrence distinct from its written reminder and the resulting intellectual analysis. Character as elements renders Elementareigenschaft."
+    },
+    {
+      "source_id": "p71:s4",
+      "question": "Gliederung and the two benefits",
+      "resolution": "Keep organization into parts and structure rising from basic parts, preserving both auditory ordering and the understanding’s more vivid analysis. Do not collapse Anschaulichkeit and Vollständigkeit."
+    },
+    {
+      "source_id": "p71:s5",
+      "question": "Scholarly systematization has a stated downside",
+      "resolution": "Preserve the warning about excessively contrived and systematic treatment and its particular setting: a shift from living popular use to learned use."
+    },
+    {
+      "source_id": "note:bopp-64",
+      "question": "Stamping and stages of derivation",
+      "resolution": "Retain the root-to-word stamping metaphor, followed by inflection and further Taddhita reshaping. Do not turn the loose internal-rule label into a uniform rule across all stages."
+    },
+    {
+      "source_id": "note:sanskrit-pronouns",
+      "question": "The causal force of weil weniger üblichen",
+      "resolution": "Preserve fuller because less usual, not less usual because fuller. The printed claim links frequency to fullness; neither a silent omission of weil nor a modern frequency theory is supplied."
+    },
+    {
+      "source_id": "note:haughton",
+      "question": "Printed Haugthon spelling",
+      "resolution": "Retain Haugthon as supplied in the1906 citation and record the spelling issue; no independently checked bibliographic emendation is claimed."
+    }
+  ],
+  "term_associations": [
+    [
+      "p56:s1",
+      "Lautsystems",
+      "lex:lautsystem:s02"
+    ],
+    [
+      "p56:s2",
+      "Buchstaben",
+      "lex:buchstabe:s01"
+    ],
+    [
+      "p56:s3",
+      "Intellectualitaet",
+      "lex:intellectualitaet:s02"
+    ],
+    [
+      "p56:s4",
+      "Alphabet",
+      "lex:alphabet:s02"
+    ],
+    [
+      "p57:s1",
+      "Tones",
+      "lex:ton:s03"
+    ],
+    [
+      "p57:s1",
+      "Geräusch",
+      "lex:geraeusch:s02"
+    ],
+    [
+      "p57:s1",
+      "Sprachlaut",
+      "lex:sprachlaut:s02"
+    ],
+    [
+      "p57:s4",
+      "Geist",
+      "lex:geist:s03"
+    ],
+    [
+      "p58:s3",
+      "Continuum",
+      "lex:continuum:s01"
+    ],
+    [
+      "p58:s4",
+      "Sphäre",
+      "lex:sphaere:s02"
+    ],
+    [
+      "p59:s2",
+      "Stoff",
+      "lex:stoff:s03"
+    ],
+    [
+      "p59:s3",
+      "Geschiedenheit",
+      "lex:geschiedenheit:s01"
+    ],
+    [
+      "p60:s1",
+      "aesthetisches Gefühl",
+      "lex:aesthetisches-gefuehl:s01"
+    ],
+    [
+      "p61:s3",
+      "Buchstabenveränderung",
+      "lex:buchstabenveraenderung:s01"
+    ],
+    [
+      "p61:s4",
+      "Nebenbegriff",
+      "lex:nebenbegriff:s01"
+    ],
+    [
+      "p61:s6",
+      "Form",
+      "lex:form:s01"
+    ],
+    [
+      "p62:s3",
+      "Cerebralen",
+      "lex:cerebrale:s01"
+    ],
+    [
+      "p62:s3",
+      "Lingualen",
+      "lex:linguale:s01"
+    ],
+    [
+      "p62:s6",
+      "Schriftzeichen",
+      "lex:schriftzeichen:s01"
+    ],
+    [
+      "p63:s3",
+      "Buchstabenverwandlung",
+      "lex:buchstabenverwandlung:s01"
+    ],
+    [
+      "p64:s1",
+      "Wohllaut",
+      "lex:wohllaut:s01"
+    ],
+    [
+      "p64:s3",
+      "richtige Gliederung der Rede vor dem Verstände",
+      "lex:verstand:s01"
+    ],
+    [
+      "p64:s7",
+      "Lautverwandlung",
+      "lex:lautverwandlung:s01"
+    ],
+    [
+      "p65:s1",
+      "Zeitmass",
+      "lex:zeitmass:s01"
+    ],
+    [
+      "p65:s2",
+      "Länge",
+      "lex:laenge:s01"
+    ],
+    [
+      "p65:s2",
+      "Kürze",
+      "lex:kuerze:s01"
+    ],
+    [
+      "p66:s1",
+      "Accent",
+      "lex:accent:s01"
+    ],
+    [
+      "p66:s4",
+      "welche der Betonung vorausgehen",
+      "lex:betonung:s01"
+    ],
+    [
+      "p66:s7",
+      "Lautveränderungen",
+      "lex:lautveraenderung:s01"
+    ],
+    [
+      "p66:s8",
+      "Intonation",
+      "lex:intonation:s01"
+    ],
+    [
+      "p67:s1",
+      "Wortaccent",
+      "lex:wortaccent:s01"
+    ],
+    [
+      "p67:s2",
+      "Redeaccent",
+      "lex:redeaccent:s01"
+    ],
+    [
+      "p69:s1",
+      "Sprachaccent",
+      "lex:sprachaccent:s01"
+    ],
+    [
+      "p69:s2",
+      "enklitischen",
+      "lex:enklitisch:s01"
+    ],
+    [
+      "p69:s3",
+      "Geltung",
+      "lex:geltung:s03"
+    ],
+    [
+      "p69:s5",
+      "Lautgeltung",
+      "lex:lautgeltung:s01"
+    ],
+    [
+      "p69:s6",
+      "orthotonische",
+      "lex:orthotonisch:s01"
+    ],
+    [
+      "p70:s3",
+      "Verstandesgeltung",
+      "lex:verstandesgeltung:s01"
+    ],
+    [
+      "p71:s1",
+      "Buchstabenschrift",
+      "lex:buchstabenschrift:s01"
+    ],
+    [
+      "p71:s2",
+      "Schalles",
+      "lex:schall:s01"
+    ],
+    [
+      "p71:s2",
+      "Elementareigenschaft",
+      "lex:elementareigenschaft:s01"
+    ],
+    [
+      "note:bopp-64",
+      "Umstempelung",
+      "lex:umstempelung:s01"
+    ],
+    [
+      "note:bopp-64",
+      "Taddhita-Suffixen",
+      "lex:taddhita-suffix:s01"
+    ]
+  ],
+  "span_correspondences": [
+    [
+      "p56:s2",
+      "Verhältnisse und Verwandtschaft der Buchstaben",
+      "relations and affinities of the letters",
+      "Spoken elements and their relations"
+    ],
+    [
+      "p56:s3",
+      "reine und feine Intellectualitaet der Sprache",
+      "pure and refined intellectual character of language",
+      "Bearer of intellectual character"
+    ],
+    [
+      "p57:s1",
+      "Absonderung des Tones von allem mitschallendem Geräusch",
+      "separate sound from all accompanying noise",
+      "Sound/noise opposition"
+    ],
+    [
+      "p57:s4",
+      "Schnalzen, Schmettern, Zischen, Schnarren oder Hauchen",
+      "clicking, blaring, hissing, rasping or breathing",
+      "Historical auditory descriptions"
+    ],
+    [
+      "p58:s3",
+      "als ein Continuum",
+      "as a continuum",
+      "Range of articulatory movement"
+    ],
+    [
+      "p59:s2",
+      "durch den widerstrebenden Stoff gehemmt",
+      "checked to some extent by the resistant material",
+      "Material limits the asserted ascendancy"
+    ],
+    [
+      "p61:s3",
+      "einzelne Buchstabenveränderung",
+      "changing individual letters",
+      "Individual sound alteration and inflection"
+    ],
+    [
+      "p61:s4",
+      "in sich selbst ganz bedeutungslosen Buchstaben",
+      "letter, which is entirely meaningless in itself",
+      "Absence of associated lexical concept"
+    ],
+    [
+      "p61:s6",
+      "als Zeichen der Form",
+      "as a sign of form",
+      "Formal indication versus unnecessary content"
+    ],
+    [
+      "p62:s3",
+      "das gestrichene Polnische l",
+      "the Polish l with a stroke",
+      "Printed descriptive letter reference"
+    ],
+    [
+      "p62:s6",
+      "wirkt wieder auf das Sprechen zurück",
+      "acts back upon speaking",
+      "Written precision feeds back on speech"
+    ],
+    [
+      "p62a:s1",
+      "eine Anzahl von Sylben ausstossen",
+      "exclude a number of syllables",
+      "Inventory restriction rather than utterance elision"
+    ],
+    [
+      "p63:s4",
+      "die Rede vor dem Verstände",
+      "discourse, as it appears to the understanding",
+      "Explicitly provisional faculty presentation reading"
+    ],
+    [
+      "p64:s3",
+      "ideale Geltung der Sprache",
+      "conceptual force of language",
+      "Language contribution in the realm of thought"
+    ],
+    [
+      "p64:s4",
+      "nur insofern für nützlich halten",
+      "useful only insofar",
+      "Limited poetic concession"
+    ],
+    [
+      "p64:s7",
+      "auf die Gränzen des Wortes",
+      "within the bounds of the word",
+      "Restriction to the interior of the word"
+    ],
+    [
+      "p65:s1",
+      "Das Zeitmass",
+      "Quantity",
+      "Temporal quantity"
+    ],
+    [
+      "p65:s2",
+      "das Gefühl für dieselbe",
+      "the feeling for the syllable",
+      "Feminine antecedent made explicit"
+    ],
+    [
+      "p65:s9",
+      "Zu grosse Begünstigung desselben",
+      "Even excessive favour shown to quantity",
+      "Explicit provisional antecedent"
+    ],
+    [
+      "p65:s11",
+      "dem ersteren feindselig",
+      "hostile to the former",
+      "Rhythm is the potentially disadvantaged party"
+    ],
+    [
+      "p65:s12",
+      "erhält seine Freiheit",
+      "it preserves its freedom",
+      "Antecedent deliberately left unresolved"
+    ],
+    [
+      "p66:s1",
+      "ausschliesslich der Absicht des Redenden",
+      "exclusively to the speaker’s intention",
+      "Absolute claim retained with later constraints"
+    ],
+    [
+      "p66:s3",
+      "macht er die folgenden tonlos",
+      "accent makes those that follow unaccented",
+      "Accentual absence rather than voicelessness"
+    ],
+    [
+      "p66:s5",
+      "verschiedene Tongebiete",
+      "different accentual domains",
+      "Local grouping function of accent"
+    ],
+    [
+      "p67:s2",
+      "Theilen der unverbundenen Sprache",
+      "parts of language outside connected discourse",
+      "Word parts apart from actual discourse"
+    ],
+    [
+      "p67:s5",
+      "bis jetzt alle Nachrichten über die Accentuation",
+      "all information about accentuation has so far",
+      "Historical evidential limit"
+    ],
+    [
+      "p68:s1",
+      "die Einheit des Begriffes einhaucht",
+      "breathes the unity of the concept into it",
+      "Concept/accent unity metaphor"
+    ],
+    [
+      "p68:s4",
+      "denn alsdann waltet nothwendig ein Element vor",
+      "for when they do combine, one element necessarily predominates",
+      "Qualified reading of causal scope"
+    ],
+    [
+      "p69:s3",
+      "ihre selbständige Geltung",
+      "their independent standing",
+      "Standing absorbed by attachment"
+    ],
+    [
+      "p69:s5",
+      "die ganze Lautgeltung",
+      "the entire sound value",
+      "Audible realization"
+    ],
+    [
+      "p70:s3",
+      "Verstandesgeltung der Wörter und Sylben",
+      "significance of words and syllables for the understanding",
+      "Intellectual weight in delivery"
+    ],
+    [
+      "p71:s2",
+      "immer vergehenden Schalles",
+      "ever-vanishing audible sound",
+      "Transient acoustic event"
+    ],
+    [
+      "p71:s4",
+      "die Idee ihrer Gliederung",
+      "the idea of language’s articulation into parts",
+      "Organization into members"
+    ],
+    [
+      "note:bopp-64",
+      "Umstempelung der Wurzel zum Wort",
+      "root is stamped anew as a word",
+      "Stage of word formation"
+    ],
+    [
+      "note:sanskrit-pronouns",
+      "der ausführlichen, weil weniger üblichen Form",
+      "the full form, whose fullness is due to its less frequent use",
+      "Causal weil retained"
+    ]
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "synthesis_sha256": "367cdff36fa1724ec02273d83812ab09efc366164495dc08949161211aede295",
+  "changes": [
+    {
+      "source_id": "p56:s2",
+      "before": "Without complete knowledge of the treatment of sounds and of the relations and affinities of the letters, which in each language are subject to different laws and habits, the explanation of grammatical forms and the investigation of the language system as a whole always remain deficient. (29.)",
+      "after": "Without complete knowledge of the treatment of sounds and of the relations and affinities of the letters, which in each language are subject to different laws and habits, the explanation of grammatical forms and the engagement with the language system as a whole always remain deficient. (29.)"
+    },
+    {
+      "source_id": "p59:s2",
+      "before": "Articulated sound is too closely akin to the mind for its correct or faulty formation not to exert a corresponding influence on it time and again. This influence must in turn show itself in the mind’s reaction, giving rise to an interaction that continues to infinity: the mind always brings its purer nature into it victoriously, yet its ascendancy is repeatedly checked to some extent by the resistant material.",
+      "after": "Articulated sound is too closely akin to the mind for its correct or faulty formation not to exert a corresponding influence on it time and again. This influence in turn shows itself in the mind’s reaction, giving rise to an interaction that continues to infinity: the mind always brings its purer nature into it victoriously, yet its ascendancy is repeatedly checked to some extent by the resistant material."
+    },
+    {
+      "source_id": "p61:s4",
+      "before": "Inflection thus brings a double advantage: it gives the idea only as much body as it needs, and, by means of the letter, which is entirely meaningless in itself, avoids every misleading subsidiary concept.",
+      "after": "This brings a double advantage: it gives the idea only as much body as it needs, and, by means of the letter, which is entirely meaningless in itself, avoids every misleading subsidiary concept."
+    },
+    {
+      "source_id": "p63:s6",
+      "before": "At first sight, one is tempted to attribute the many rules that arise from this in Sanskrit, at least in part, to the grammarians’ passion for systematization.",
+      "after": "At first sight, one is tempted to attribute the many rules that arise from this in Sanskrit, at least in part, to the grammarians’ excessive zeal for systematization."
+    },
+    {
+      "source_id": "p63:s8",
+      "before": "Carey expressly states of Telinga, in which this chaining is especially frequent and difficult to recognize, that a foreigner who tried to disregard it would not be understood at all by the natives.",
+      "after": "Carey expressly states of Telinga, in which this chaining is especially frequent and difficult to recognize, that a foreigner who were to disregard it would not be understood at all by the natives."
+    },
+    {
+      "source_id": "p63:s9",
+      "before": "In Bengali, by contrast, it is not always strictly observed, making it still clearer how this point depends on the particular habits of individual tribes.",
+      "after": "In Bengali, by contrast, it is not always strictly observed, making it still clearer how this point depends on the particular habits of the tribes."
+    },
+    {
+      "source_id": "p65:s4",
+      "before": "Thus, in the case of Sanskrit, it remains uncertain whether the living language also possessed a short e and o.",
+      "after": "Thus, in the case of Sanskrit, it remains uncertain whether the living language did not also possess a short e and o."
+    },
+    {
+      "source_id": "p67:s2",
+      "before": "Discourse accent naturally varies with the character of the discourse and cannot attach to the parts of language taken in isolation.",
+      "after": "Discourse accent naturally varies with the character of the discourse and cannot attach to the parts of language outside connected discourse."
+    },
+    {
+      "source_id": "p68:s6",
+      "before": "It is a very common observation that nothing makes a foreigner so unintelligible to the lowest social classes as incorrect accentuation.",
+      "after": "It is a very common observation that nothing makes a foreigner so unintelligible to the commonest classes of the people as incorrect accentuation."
+    },
+    {
+      "source_id": "p71:s3",
+      "before": "Through the signs, the pronunciation of one generation passes into that of the next; deviations can be recognized in spelling, and speech sounds, together with everything that belongs to them, can become objects of reflection and scholarly study.",
+      "after": "Through the signs, the pronunciation of one generation passes into that of the next; deviations can be detected by reference to spelling, and speech sounds, together with everything that belongs to them, can become objects of reflection and scholarly study."
+    },
+    {
+      "source_id": "p71:s4",
+      "before": "Alphabetic writing thus brings two great advantages, from which many particular consequences subsequently extend throughout the language. First, all the sound relations of the language are set against one another and ordered more purely and distinctly, and are developed more completely and systematically. Second, as the understanding separates the basic parts of language more precisely and retains them more distinctly, the idea of language’s organization into parts gains greater life within it, and the representation of its structure, rising from the basic parts upwards, gains in vividness and completeness.",
+      "after": "Alphabetic writing thus brings two great advantages, from which many particular consequences subsequently extend throughout the language. First, all the sound relations of the language are set against one another and ordered more purely and distinctly, and are developed more completely and systematically. Second, as the understanding separates the basic parts of language more precisely and retains them more distinctly, the idea of language’s articulation into parts gains greater life within it, and the representation of its structure, rising from the basic parts upwards, gains in vividness and completeness."
+    },
+    {
+      "source_id": "note:bopp-62",
+      "before": "Bopp’s Lehrgebäude der Sanskrita Sprache [Systematic Account of the Sanskrit Language], p. 14, no. 20. (Bopp’s Grammar.)",
+      "after": "Bopp’s Lehrgebäude der Sanskrita Sprache, p. 14, no. 20. (Bopp’s Grammar.)"
+    },
+    {
+      "source_id": "note:deleted-near",
+      "before": "Deleted after ‘der’ (‘the’): ‘lying close to one another’.",
+      "after": "Deleted after ‘der’: ‘lying close to one another’."
+    },
+    {
+      "source_id": "note:thiersch",
+      "before": "Thiersch maintains that the Greeks joined words as Sanskrit does.",
+      "after": "Thiersch maintains that the Greeks joined words, as in Sanskrit."
+    }
+  ]
+}

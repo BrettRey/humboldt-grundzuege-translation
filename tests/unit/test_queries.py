@@ -150,4 +150,29 @@ class QueryTests(unittest.TestCase):
             self.assertNotIn('<option value="e2" selected>',chosen)
             self.assertLess(chosen.index('Recorded alignment: source_sentence_rendering'),chosen.index('<h2>Additional span alignments</h2>'))
 
+    def test_lettered_passages_sort_and_remain_separately_queryable(self):
+        from humboldt import render
+        data = fixture()
+        # Title, paragraph label and explicit declaration each discover a distinct ID.
+        data['text_version'][0]['title'] = 'Grundzüge §62b — source'
+        data['text_version'][1]['title'] = 'Unnumbered rendering'
+        data['text_version'][2]['title'] = 'Grundzüge §62 — revised'
+        next(u for u in data['unit'] if u['id'] == 'p-e')['label'] = '§62a'
+        data['build_metadata'].append(dict(key='passages', value_json=json.dumps([
+            dict(id='lettered', section='63a', version_ids=['g'])
+        ])))
+        data['build_metadata'].append(dict(key='reading_defaults', value_json=json.dumps([
+            dict(section='62a', target_id='e')
+        ])))
+        with closing(create_database(data=data)) as db:
+            self.assertEqual([v['section'] for v in queries.sections(db)], ['62', '62a', '62b', '63a'])
+            passage = queries.passage(db, '§62a')
+            self.assertEqual([v['id'] for v in passage['versions']], ['e'])
+            self.assertEqual(passage['reading_defaults']['target_id'], 'e')
+            self.assertIn('value="62a"', render.home(queries.sections(db), passage))
+            self.assertEqual([v['id'] for v in queries.passage(db, '62')['versions']], ['e2'])
+            for bad in ['62aa', '62A', '62; DROP TABLE unit', '-62a', '62/a']:
+                with self.assertRaises(ValueError):
+                    queries.passage(db, bad)
+
 if __name__=='__main__': unittest.main()

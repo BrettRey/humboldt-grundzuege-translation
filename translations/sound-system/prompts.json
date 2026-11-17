@@ -1,0 +1,46 @@
+{
+  "encoding": "UTF-8",
+  "joining": "Concatenate in array order without added separators.",
+  "recipes": {
+    "candidate": {
+      "parts": [
+        {
+          "file": "translations/sound-system/candidate-instructions.md"
+        },
+        {
+          "literal": "\n"
+        },
+        {
+          "file": "translations/sound-system/candidate-packet.md"
+        },
+        {
+          "literal": "\n# Whole-work German context — UNCORRECTED OCR\n\n"
+        },
+        {
+          "file": "sources/grundzuege-ocr.txt"
+        }
+      ],
+      "sha256": "6cfed3fbc4089290e350b836012bee838e9f0229df59cd5ff72e3f4734f1c1ab"
+    },
+    "audit": {
+      "parts": [
+        {
+          "literal": "Thank you for a fresh independent German-fidelity audit of a complete scholarly translation. Read and assess all120 supplied IDs (108 main-text rendering blocks, two headings, ten attributed source notes), together as the whole sound-system division56–71 including62a/b. Check omissions, additions, negation, causal and modal force, scope, antecedents, technical contrasts, historical claims as claims, cross-block consistency and readable precise English. Historical sound/letter/accent vocabulary is not necessarily modern terminology. The checked German governs; whole-work OCR is uncorrected background only. No candidates, translator notes, glossary answers or other audit are supplied. Do not use tools, outside research or delegation. Audit, do not replace the whole translation. Report every material finding and concise local fixes; you may report uncertainty, inability or push back rather than inventing certainty. Stop after this audit. Return ONLY JSON with: source_status_acknowledged boolean; coverage array in the supplied order, each {source_id, assessment, finding_ids}; findings array each {id, source_ids (array of exact supplied IDs), severity (major/minor/uncertainty), issue, proposed_fix, German_basis}; whole_unit_assessment string. Cover every ID exactly once, including sound-system headings and all source notes. No claim of expert human certification. An empty findings array is acceptable if justified by actual assessment."
+        },
+        {
+          "literal": "\n\n"
+        },
+        {
+          "file": "translations/sound-system/audit-packet.md"
+        },
+        {
+          "literal": "\n# Whole-work German context — UNCORRECTED OCR\n\n"
+        },
+        {
+          "file": "sources/grundzuege-ocr.txt"
+        }
+      ],
+      "sha256": "024e23aacbe2e5e692c270b2f08c4f1584efaa3d17c0ead08605cd4bfc2a03ee"
+    }
+  }
+}

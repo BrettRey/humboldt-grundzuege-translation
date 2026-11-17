@@ -1,0 +1,31 @@
+{
+  "label": "muse",
+  "command": [
+    "muse",
+    "exec",
+    "--preset",
+    "empty",
+    "--disable-web-tools",
+    "--disable-write",
+    "--disable-shell",
+    "--disable-reminders",
+    "--disable-request-user-input",
+    "--no-foreign-personal-context",
+    "--no-session-log",
+    "--max-model-steps",
+    "1",
+    "--approval-mode",
+    "never",
+    "--prompt-file",
+    "/var/folders/tq/7kfdnyd52zz82t095tvgbljc0000gp/T/humboldt-sound-system-audit-muse-cer7hcga/input.md",
+    "--json"
+  ],
+  "prompt_sha256": "024e23aacbe2e5e692c270b2f08c4f1584efaa3d17c0ead08605cd4bfc2a03ee",
+  "synthesis_sha256": "367cdff36fa1724ec02273d83812ab09efc366164495dc08949161211aede295",
+  "timeout_seconds": 1800,
+  "started_at": "2026-11-17T03:18:45.978860+00:00",
+  "exit_code": 0,
+  "elapsed_seconds": 210.612,
+  "stdout_bytes": 1249714,
+  "stderr_bytes": 269
+}

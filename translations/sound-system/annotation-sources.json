@@ -1,0 +1,47 @@
+{
+  "format": "humboldt.annotation-source-checks",
+  "date": "2026-11-17",
+  "scope": "Bounded primary/source-metadata checks for local notes, not an all-claim historical audit.",
+  "sources": [
+    {
+      "id": "ipa",
+      "url": "https://www.internationalphoneticassociation.org/IPAcharts/common_files/pdfs/pdfs_IPA_charts_archive/IPA_unitipa_2020.pdf",
+      "title": "International Phonetic Association, International Phonetic Alphabet, revised2020",
+      "locator": "Consonants(non-pulmonic): Clicks; complete one-page chart",
+      "access": "Official PDF downloaded to ignored working files; coordinator inspected the complete rendered page. Poppler emitted marked-content warnings, but the relevant labels and chart were legible.",
+      "support": "Clicks are classified as articulated consonants; the chart supplies no hierarchy of intellectual capacities."
+    },
+    {
+      "id": "telugu",
+      "url": "https://glottolog.org/glottolog?iso=tel",
+      "title": "Glottolog, Telugu classification",
+      "locator": "Language search row telu1262/Telugu/Dravidian; language profile https://glottolog.org/resource/languoid/id/telu1262",
+      "access": "Full search-result table and relevant profile sections read through web tool.",
+      "support": "Telugu belongs to the Dravidian family. This does not verify Carey’s cited preface or Humboldt’s claim about intelligibility."
+    },
+    {
+      "id": "carey-catalogue",
+      "url": "https://openlibrary.org/books/OL27882132M/A_grammar_of_the_Telinga_language",
+      "title": "Open Library catalogue, Carey, A grammar of the Telinga language",
+      "locator": "Title/author; subjects: Telugu language Grammar; source record: Internet Archive grammaroftelinga00care",
+      "access": "Full relevant catalogue metadata read, not the book’s prefatory content. Follow-up LoC link returned an inaccessible redirect and was not retried.",
+      "support": "The historical Telinga title is catalogued as a grammar of Telugu; no claim to have checked the quoted preface."
+    },
+    {
+      "id": "whitney",
+      "url": "https://en.wikisource.org/wiki/Sanskrit_Grammar_(Whitney)/Chapter_II",
+      "title": "Whitney, Sanskrit Grammar, chapterII",
+      "locator": "§45(lingual/cerebral articulation),§87(Vedic accent marks),§§92–96(word accent and its limits)",
+      "access": "Relevant complete numbered paragraphs read in the primary-work transcription; no complete grammar reread or new print collation.",
+      "support": "The historical cerebral/lingual terminology describes tongue position; later scholarship documents Vedic accent. More than one accented syllable is discussed in§94, but this alone does not refute Humboldt’s narrower claim about two exactly equal accents."
+    },
+    {
+      "id": "cantonese",
+      "url": "https://www.polyu.edu.hk/clc/cantonese/phoneticKnowledge/vowel/recognizingVowel/?lang=en",
+      "title": "Hong Kong Polytechnic University, Cantonese Flipped Classroom, Understanding Finals",
+      "locator": "Syllabic nasals table: m[m̩], no,m4;ng[ŋ̩],five,ng5",
+      "access": "Complete relevant table and final examples read through web tool.",
+      "support": "Cantonese has syllabic nasals with tones, so a vowel-only statement is not valid as a general claim about all Chinese varieties. It does not identify exactly which varieties Humboldt’s sources described."
+    }
+  ]
+}
