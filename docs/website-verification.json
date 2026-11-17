@@ -1,0 +1,198 @@
+{
+  "format": "humboldt.website-verification",
+  "version": 1,
+  "date": "2026-11-17",
+  "authorization": "D038",
+  "source_snapshot_commit": "31645fd8d041ab6abce7e539cff4e25bb3ab07ea",
+  "checks": {
+    "python_default": {
+      "unit": 63,
+      "integration": 19,
+      "corpus": 20,
+      "total": 102,
+      "all_pass": true
+    },
+    "attachment_guards_final": {
+      "tests": 3,
+      "all_pass": true,
+      "note": "Targeted rerun after strengthening the target-unit version check; final fixtures include a unit from the wrong version."
+    },
+    "client_search_and_routes": {
+      "tests": 4,
+      "all_pass": true
+    },
+    "python_3_11_syntax": true,
+    "export": {
+      "sections": 5,
+      "passages": 74,
+      "notes": 70,
+      "note_authorship": {
+        "1906 Ed.": 5,
+        "Trans.": 56,
+        "Humboldt": 9
+      },
+      "local_links": 407,
+      "search_records": 180,
+      "all_bodies_preserved": true,
+      "all_local_links_resolve": true,
+      "unique_ids": true,
+      "all_note_sequences_and_targets_valid": true,
+      "browser_interactions": "Require separate browser QA; these are structural and content checks."
+    },
+    "reproducibility": {
+      "two_independent_exports_identical": true,
+      "snapshot_sha256": "908fed942b2054cc20aa4cac513ad54ce11a9d6714d17d47c1c4124a257600d0"
+    },
+    "preservation": {
+      "edition_logical_digest_unchanged": true,
+      "logical_digest": "6c67634379c7142fb022fb650376303d0a1baf2c58e4a631a840bcfdc8d34f62",
+      "edition_and_journal_files_unchanged": true,
+      "earlier_translation_files_unchanged": true,
+      "frozen_agents_unchanged": true
+    }
+  },
+  "publication": {
+    "website_commit": "a316025d3268328ac35925473b3bf80e3dc74e23",
+    "pages_build": "built",
+    "all_live_files_match": true,
+    "verified_files": [
+      {
+        "url": "https://brettreynolds.ca/humboldt/code-license.txt",
+        "status": 200,
+        "sha256": "ae2f0fe7fe1979377b003cffe75e0037167c96198048bddc9639b7a7c36a2b6b"
+      },
+      {
+        "url": "https://brettreynolds.ca/humboldt/content-license.txt",
+        "status": 200,
+        "sha256": "9e5f1b3c610b9c2da5c313bf81d577a7d1acec686bdb0384edefa6df0f90cd94"
+      },
+      {
+        "url": "https://brettreynolds.ca/humboldt/",
+        "status": 200,
+        "sha256": "c36853b83c52c2fa529ba67f107f6ffa9ae3fd812f40d87470acd2be84777c36"
+      },
+      {
+        "url": "https://brettreynolds.ca/humboldt/introduction/",
+        "status": 200,
+        "sha256": "6233b0c56a2fe10e306bf31b6e8539cf80ec3abdb1a1f55c1ff2c9a01ce65174"
+      },
+      {
+        "url": "https://brettreynolds.ca/humboldt/introduction/reading.md",
+        "status": 200,
+        "sha256": "513fce6b02f73acd879820031d43182d5f2ddcf89cc5af4e04e2119f2c7b2950"
+      },
+      {
+        "url": "https://brettreynolds.ca/humboldt/introduction/records.json",
+        "status": 200,
+        "sha256": "15d829aded24a10f58713bec237732dc582a1bf0d5617e598db167ae386a0b16"
+      },
+      {
+        "url": "https://brettreynolds.ca/humboldt/nature-of-language/",
+        "status": 200,
+        "sha256": "fcb320b760767f95d10d91d77f7ad60bb175339830114543ad3e2b53e03b95fa"
+      },
+      {
+        "url": "https://brettreynolds.ca/humboldt/nature-of-language/reading.md",
+        "status": 200,
+        "sha256": "fbe2b1eefc9baf8d5d5f3efcd45d9b12531c4f7f9fe61af8e90c7087a759a49e"
+      },
+      {
+        "url": "https://brettreynolds.ca/humboldt/nature-of-language/records.json",
+        "status": 200,
+        "sha256": "e026982d2cb7d5fce678b202cb438e126f4059da9e9774b7dea563dcbaf7f956"
+      },
+      {
+        "url": "https://brettreynolds.ca/humboldt/part-i/",
+        "status": 200,
+        "sha256": "5133ddd92a5196c3e324b1f8f9656ee5dfe1055d2c6a1a1c66d83b995bc0bb80"
+      },
+      {
+        "url": "https://brettreynolds.ca/humboldt/part-i/reading.md",
+        "status": 200,
+        "sha256": "fb58ab971587191c466642ee58f579ab34ab2eb1bb81594428b51baa0c1066ba"
+      },
+      {
+        "url": "https://brettreynolds.ca/humboldt/part-i/records.json",
+        "status": 200,
+        "sha256": "dcf97cf95d92357e3fff6bf64f199c9082dfbed194e5f04915cd37ca5d0411a9"
+      },
+      {
+        "url": "https://brettreynolds.ca/humboldt/pilot-147/",
+        "status": 200,
+        "sha256": "70911a3425eb47e329cc6cd157a041a9dc7abfa20d42b0cd84cc47c35b5adf27"
+      },
+      {
+        "url": "https://brettreynolds.ca/humboldt/pilot-147/reading.md",
+        "status": 200,
+        "sha256": "d61440b120f3c3e402aa7ca08d71e7c330b739ac841706e04a3b3e5175cb97a1"
+      },
+      {
+        "url": "https://brettreynolds.ca/humboldt/pilot-147/records.json",
+        "status": 200,
+        "sha256": "0f40db5146f4b270f677d85208fa3c37a8a9fd4287986ea356055192ed927d18"
+      },
+      {
+        "url": "https://brettreynolds.ca/humboldt/reader.css",
+        "status": 200,
+        "sha256": "720726cacbf1aba22a69233c8dd8eccce57e2b13d195a55803b26d195529c2a1"
+      },
+      {
+        "url": "https://brettreynolds.ca/humboldt/reader.js",
+        "status": 200,
+        "sha256": "2aa7c49e1fc1c786e1293bb624741890aff8c7d6fab4078b77f8ce926c8a2d52"
+      },
+      {
+        "url": "https://brettreynolds.ca/humboldt/search-index.json",
+        "status": 200,
+        "sha256": "fb34970405752e6a58d509212a0719b78ec01abd6527b9b6b44ccfd8c1ea76fe"
+      },
+      {
+        "url": "https://brettreynolds.ca/humboldt/sound-system/",
+        "status": 200,
+        "sha256": "dd9f1f147e266b3e6303cdfcf59a82af723b5900dc42e4df681b63ac8c0e7ee3"
+      },
+      {
+        "url": "https://brettreynolds.ca/humboldt/sound-system/reading.md",
+        "status": 200,
+        "sha256": "2d8cd6c85081a80448ce5a4170aac9b62831475cfb6cc6c3a1fcd9abdb388d97"
+      },
+      {
+        "url": "https://brettreynolds.ca/humboldt/sound-system/records.json",
+        "status": 200,
+        "sha256": "f482941bb6a2def7b726a3190ce15fa8172c944823ffe1a8d76cc6f78cd2c7ff"
+      },
+      {
+        "url": "https://brettreynolds.ca/humboldt/snapshot.json",
+        "status": 200,
+        "sha256": "908fed942b2054cc20aa4cac513ad54ce11a9d6714d17d47c1c4124a257600d0"
+      },
+      {
+        "url": "https://brettreynolds.ca/index.html",
+        "status": 200,
+        "sha256": "b12c6f68aab3ce4dcb488d728a9cbe41c4b1969ddc6c8f946f636216064df72a"
+      },
+      {
+        "url": "https://brettreynolds.ca/sitemap.xml",
+        "status": 200,
+        "sha256": "852bbb54e06f302ee850a847d5f67f995a90f02c9239bae7aa5b753f22fb9114"
+      },
+      {
+        "url": "https://brettreynolds.ca/llms.txt",
+        "status": 200,
+        "sha256": "1108446a6429fa7c85c5581dde6e4fdfdacdfb06a6a87993c1aebcd2297f2bb4"
+      },
+      {
+        "url": "https://brettreynolds.ca/style-v3.css",
+        "status": 200,
+        "sha256": "853d513a5994368528f3b78ce77fa399ead6b44df4ece1e54c2148d9f1ec0dc2"
+      },
+      {
+        "url": "https://brettreynolds.ca/theme.js",
+        "status": 200,
+        "sha256": "84a0cca3c4e62fef6834459890c6692cc5e23ea400024d4b4951c7a9078b31ec"
+      }
+    ],
+    "browser_qa": "Browser host unavailable; no visual or interactive browser verification claimed."
+  },
+  "limits": "No visual or interactive browser QA was possible because the browser host was unavailable. Responsive layout, focus behaviour, theme switching and modal interaction are source-reviewed rather than browser-verified. Body/link/search checks do not establish German fidelity or complete the pending sound-system English review. A Pandoc smart-apostrophe change found in the first content check was eliminated by disabling smart punctuation; the final HTML preserves the recorded bodies."
+}
