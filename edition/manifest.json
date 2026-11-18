@@ -71,6 +71,10 @@
     {
       "path": "passages/sound-system-056-071/records.json",
       "sha256": "18a7d39959fc112f33f41224f65588797af79bca70c3b79c277b302a7e6c97bd"
+    },
+    {
+      "path": "passages/vocabulary-072-126/records.json",
+      "sha256": "c9f89ed5aadec9706e2f218c1b235f5f52458dd88170c06dbd040cfde44de6a1"
     }
   ],
   "format": "humboldt.edition",
@@ -445,6 +449,281 @@
       "section": "71",
       "source_id": "grundzuege-071-v1",
       "target_id": "en71-revised-v2"
+    },
+    {
+      "section": "72",
+      "source_id": "grundzuege-072-v1",
+      "target_id": "en72-revised-v2"
+    },
+    {
+      "section": "73",
+      "source_id": "grundzuege-073-v1",
+      "target_id": "en73-revised-v2"
+    },
+    {
+      "section": "74",
+      "source_id": "grundzuege-074-v1",
+      "target_id": "en74-revised-v2"
+    },
+    {
+      "section": "75",
+      "source_id": "grundzuege-075-v1",
+      "target_id": "en75-revised-v2"
+    },
+    {
+      "section": "76",
+      "source_id": "grundzuege-076-v1",
+      "target_id": "en76-revised-v2"
+    },
+    {
+      "section": "77",
+      "source_id": "grundzuege-077-v1",
+      "target_id": "en77-revised-v2"
+    },
+    {
+      "section": "78",
+      "source_id": "grundzuege-078-v1",
+      "target_id": "en78-revised-v2"
+    },
+    {
+      "section": "79",
+      "source_id": "grundzuege-079-v1",
+      "target_id": "en79-revised-v2"
+    },
+    {
+      "section": "80",
+      "source_id": "grundzuege-080-v1",
+      "target_id": "en80-revised-v2"
+    },
+    {
+      "section": "81",
+      "source_id": "grundzuege-081-v1",
+      "target_id": "en81-revised-v2"
+    },
+    {
+      "section": "82",
+      "source_id": "grundzuege-082-v1",
+      "target_id": "en82-revised-v2"
+    },
+    {
+      "section": "83",
+      "source_id": "grundzuege-083-v1",
+      "target_id": "en83-revised-v2"
+    },
+    {
+      "section": "84",
+      "source_id": "grundzuege-084-v1",
+      "target_id": "en84-revised-v2"
+    },
+    {
+      "section": "85",
+      "source_id": "grundzuege-085-v1",
+      "target_id": "en85-revised-v2"
+    },
+    {
+      "section": "86",
+      "source_id": "grundzuege-086-v1",
+      "target_id": "en86-revised-v2"
+    },
+    {
+      "section": "87",
+      "source_id": "grundzuege-087-v1",
+      "target_id": "en87-revised-v2"
+    },
+    {
+      "section": "88",
+      "source_id": "grundzuege-088-v1",
+      "target_id": "en88-revised-v2"
+    },
+    {
+      "section": "89",
+      "source_id": "grundzuege-089-v1",
+      "target_id": "en89-revised-v2"
+    },
+    {
+      "section": "90",
+      "source_id": "grundzuege-090-v1",
+      "target_id": "en90-revised-v2"
+    },
+    {
+      "section": "91",
+      "source_id": "grundzuege-091-v1",
+      "target_id": "en91-revised-v2"
+    },
+    {
+      "section": "92",
+      "source_id": "grundzuege-092-v1",
+      "target_id": "en92-revised-v2"
+    },
+    {
+      "section": "93",
+      "source_id": "grundzuege-093-v1",
+      "target_id": "en93-revised-v2"
+    },
+    {
+      "section": "94",
+      "source_id": "grundzuege-094-v1",
+      "target_id": "en94-revised-v2"
+    },
+    {
+      "section": "95",
+      "source_id": "grundzuege-095-v1",
+      "target_id": "en95-revised-v2"
+    },
+    {
+      "section": "96",
+      "source_id": "grundzuege-096-v1",
+      "target_id": "en96-revised-v2"
+    },
+    {
+      "section": "97",
+      "source_id": "grundzuege-097-v1",
+      "target_id": "en97-revised-v2"
+    },
+    {
+      "section": "98",
+      "source_id": "grundzuege-098-v1",
+      "target_id": "en98-revised-v2"
+    },
+    {
+      "section": "99",
+      "source_id": "grundzuege-099-v1",
+      "target_id": "en99-revised-v2"
+    },
+    {
+      "section": "100",
+      "source_id": "grundzuege-100-v1",
+      "target_id": "en100-revised-v2"
+    },
+    {
+      "section": "101",
+      "source_id": "grundzuege-101-v1",
+      "target_id": "en101-revised-v2"
+    },
+    {
+      "section": "102",
+      "source_id": "grundzuege-102-v1",
+      "target_id": "en102-revised-v2"
+    },
+    {
+      "section": "103",
+      "source_id": "grundzuege-103-v1",
+      "target_id": "en103-revised-v2"
+    },
+    {
+      "section": "104",
+      "source_id": "grundzuege-104-v1",
+      "target_id": "en104-revised-v2"
+    },
+    {
+      "section": "105",
+      "source_id": "grundzuege-105-v1",
+      "target_id": "en105-revised-v2"
+    },
+    {
+      "section": "106",
+      "source_id": "grundzuege-106-v1",
+      "target_id": "en106-revised-v2"
+    },
+    {
+      "section": "107",
+      "source_id": "grundzuege-107-v1",
+      "target_id": "en107-revised-v2"
+    },
+    {
+      "section": "108",
+      "source_id": "grundzuege-108-v1",
+      "target_id": "en108-revised-v2"
+    },
+    {
+      "section": "109",
+      "source_id": "grundzuege-109-v1",
+      "target_id": "en109-revised-v2"
+    },
+    {
+      "section": "110",
+      "source_id": "grundzuege-110-v1",
+      "target_id": "en110-revised-v2"
+    },
+    {
+      "section": "111",
+      "source_id": "grundzuege-111-v1",
+      "target_id": "en111-revised-v2"
+    },
+    {
+      "section": "112",
+      "source_id": "grundzuege-112-v1",
+      "target_id": "en112-revised-v2"
+    },
+    {
+      "section": "113",
+      "source_id": "grundzuege-113-v1",
+      "target_id": "en113-revised-v2"
+    },
+    {
+      "section": "114",
+      "source_id": "grundzuege-114-v1",
+      "target_id": "en114-revised-v2"
+    },
+    {
+      "section": "115",
+      "source_id": "grundzuege-115-v1",
+      "target_id": "en115-revised-v2"
+    },
+    {
+      "section": "116",
+      "source_id": "grundzuege-116-v1",
+      "target_id": "en116-revised-v2"
+    },
+    {
+      "section": "117",
+      "source_id": "grundzuege-117-v1",
+      "target_id": "en117-revised-v2"
+    },
+    {
+      "section": "118",
+      "source_id": "grundzuege-118-v1",
+      "target_id": "en118-revised-v2"
+    },
+    {
+      "section": "119",
+      "source_id": "grundzuege-119-v1",
+      "target_id": "en119-revised-v2"
+    },
+    {
+      "section": "120",
+      "source_id": "grundzuege-120-v1",
+      "target_id": "en120-revised-v2"
+    },
+    {
+      "section": "121",
+      "source_id": "grundzuege-121-v1",
+      "target_id": "en121-revised-v2"
+    },
+    {
+      "section": "122",
+      "source_id": "grundzuege-122-v1",
+      "target_id": "en122-revised-v2"
+    },
+    {
+      "section": "123",
+      "source_id": "grundzuege-123-v1",
+      "target_id": "en123-revised-v2"
+    },
+    {
+      "section": "124",
+      "source_id": "grundzuege-124-v1",
+      "target_id": "en124-revised-v2"
+    },
+    {
+      "section": "125",
+      "source_id": "grundzuege-125-v1",
+      "target_id": "en125-revised-v2"
+    },
+    {
+      "section": "126",
+      "source_id": "grundzuege-126-v1",
+      "target_id": "en126-revised-v2"
     }
   ],
   "resources": [

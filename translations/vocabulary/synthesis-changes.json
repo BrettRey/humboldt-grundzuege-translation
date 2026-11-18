@@ -1,0 +1,952 @@
+{
+  "base": "sol",
+  "policy": "Project conditional termbase, Oxford spelling and editorial typography",
+  "changes": [
+    {
+      "source_id": "p72:s2",
+      "German": "Es liegt also in dem Wort allemal Einheit des Lauts, die bei verbundenen durch den Accent bewirkt wird, und Einheit des Begriffs.",
+      "candidates": {
+        "sol": "A word therefore always has unity of sound, which is produced by accent where sounds are combined, and unity of concept.",
+        "muse": "There always lies in the word, therefore, unity of sound — which, where sounds are combined, is effected by the accent — and unity of concept.",
+        "claude": "In the word, therefore, there is always unity of sound, which where sounds are combined is brought about by the accent, and unity of concept."
+      },
+      "English": "Every word therefore has a unity of sound and a unity of concept. Where sounds are combined, accent produces their unity.",
+      "reason": "Supply sounds after the elliptical verbundenen in light of the immediate Laut and the treatment of accent in §68."
+    },
+    {
+      "source_id": "p72:s4",
+      "German": "Denn es enthält vollständig die ganze Verstandeshandlung der Sprache, es ist sogar selbst die Form, in welcher der Geist das in seine Subjectivitaet verwandelte Object wieder, als solches, aus sich hinausstellt (39.); dasjenige aber, was herauskommt, wenn man es selbst wieder zergliedert, die Sylbe und der Buchstabe, ist nicht mehr Sprache, sondern nur Element derselben.",
+      "candidates": {
+        "sol": "For it contains in full the entire operation of the understanding in language. It is even itself the form in which the mind sets outside itself again, as an object, what it has transformed into its own subjectivity (§39). What one obtains by analysing the word itself, however, the syllable and the letter, consists merely of elements of language and is no longer language.",
+        "muse": "For it contains completely the whole act of the understanding performed by language; it is indeed itself the form in which the mind places outside itself again, as such, the Object transformed into its subjectivity (39.); but that which results when it is itself in turn analysed — the syllable and the letter — is no longer language, but only an element of it.",
+        "claude": "For it contains completely the whole act of the understanding that belongs to language; indeed it is itself the form in which the mind sets the object that it has transformed into its subjectivity outside itself again, as object (39.); but what results when the word itself is analysed in turn, the syllable and the letter, is no longer language, but only an element of it."
+      },
+      "English": "It contains the entire operation of the understanding in language. It is itself the form in which the mind takes what it has transformed into its own subjectivity and sets it outside itself again as an object (§39). Analysing the word in turn yields the syllable and the letter, which are elements of language and cease to be language in their own right.",
+      "reason": "Retain the movement back out as an object, the role of the understanding and the difference between speech in a complete individual word and its elements."
+    },
+    {
+      "source_id": "p72:s5",
+      "German": "Alle, auch die zusammengesetzten Wörter sind die Bestandtheile, der Stoff der Rede, und in dem Wörtervorrath einer Sprache liegt also der gesammte Gedankenstoff einer Nation.",
+      "candidates": {
+        "sol": "All words, including compound words, are the constituents and material of speech, and the vocabulary of a language therefore contains the entire material of a nation's thought.",
+        "muse": "All words, even compound words, are the constituents, the material of discourse, and in the stock of words of a language there therefore lies the entire thought-material of a nation.",
+        "claude": "All words, the compound ones included, are the constituents, the material of discourse, and the vocabulary of a language therefore contains the whole thought-material of a nation."
+      },
+      "English": "All words, including compound words, are the constituents and material of speech, and the vocabulary of a language therefore contains the entire material of a nation’s thought.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "note:first-publication",
+      "German": "Erster Druck dieses Kapitels: Internationale Zeitschrift für allgemeine Sprachwissenschaft 1, 385—411 (1884).",
+      "candidates": {
+        "sol": "[Editor's note] This chapter was first published in *Internationale Zeitschrift für allgemeine Sprachwissenschaft* 1, 385–411 (1884).",
+        "muse": "Editor's note: First publication of this chapter: *Internationale Zeitschrift für allgemeine Sprachwissenschaft* 1, 385—411 (1884).",
+        "claude": "First printing of this chapter: Internationale Zeitschrift für allgemeine Sprachwissenschaft 1, 385–411 (1884)."
+      },
+      "English": "This chapter first appeared in *Internationale Zeitschrift für allgemeine Sprachwissenschaft* 1 (1884), pp. 385–411.",
+      "reason": "Translate the complete note. Apply the attribution label in display metadata and preserve the checked historical forms and quotation distinctions."
+    },
+    {
+      "source_id": "note:chinese-tones",
+      "German": "Es ist auffallend, dass die Chinesische Sprache, ihrer Armuth an gesprochenen Wörtern ungeachtet, doch nicht jedes der möglichen Wörter durch alle vorhandnen Betonungsarten durchführt. Noch weniger verbindet sie alle Endvocale mit jedem Anfangsconsonanten.",
+      "candidates": {
+        "sol": "[Author's note] It is striking that the Chinese language, despite its paucity of spoken words, does not run each possible word through all the available tones. Still less does it combine all final vowels with every initial consonant.",
+        "muse": "Author's note: It is striking that the Chinese language, notwithstanding its poverty in spoken words, does not carry each of the possible words through all the existing modes of accentuation. Still less does it combine all final vowels with every initial consonant.",
+        "claude": "It is striking that the Chinese language, its poverty in spoken words notwithstanding, nevertheless does not carry every one of the possible words through all the existing kinds of intonation. Still less does it combine all final vowels with every initial consonant."
+      },
+      "English": "It is striking that Chinese, despite its paucity of spoken words, does not run each possible word through all the available tones. Still less does it combine all final vowels with every initial consonant.",
+      "reason": "Translate the complete note. Apply the attribution label in display metadata and preserve the checked historical forms and quotation distinctions."
+    },
+    {
+      "source_id": "p75:s2",
+      "German": "Die Wortabtheilung, die dieser Classification zum Grunde liegt, beruht sogar in Absicht der Laute auf Umständen, die, wie eben gezeigt worden, um so schwieriger zu beurtheilen sind, als sie keine genaue Kenntniss des lebendigen Vortrags der Rede voraussetzen.",
+      "candidates": {
+        "sol": "Even as regards the sounds, the division into words underlying this classification depends on circumstances that, as we have just seen, are all the harder to judge because no precise knowledge of how speech is delivered in actual use can be taken for granted.",
+        "muse": "The division into words on which this classification is based rests, even with respect to the sounds, on circumstances which, as has just been shown, are all the more difficult to judge inasmuch as they do not presuppose exact knowledge of the living delivery of discourse.",
+        "claude": "The division of words that underlies this classification rests, even in respect of the sounds, on circumstances which, as has just been shown, are all the more difficult to judge as they presuppose no exact knowledge of the living delivery of discourse."
+      },
+      "English": "Even as regards sound, the division into words on which this classification rests depends on circumstances that, as we have just seen, are all the harder to judge because we cannot assume an exact knowledge of how discourse is actually delivered.",
+      "reason": "The German literally makes the circumstances presuppose no exact knowledge. The preceding account of real delivery supports reading the difficulty from the standpoint of the investigator."
+    },
+    {
+      "source_id": "p77:s6",
+      "German": "Da jedoch die Gleichheit der Sprachwerkzeuge und ihrer Gesetze überall dieselben und nur eine gewisse Anzahl von Wortlauten möglich macht, so kann (47.) die blosse Einerleiheit oder Verwandtschaft des Tons für sich nicht über ihren historischen oder physiologischen Unterschied entscheiden.",
+      "candidates": {
+        "sol": "Since, however, the sameness of the organs of speech and of the laws governing them makes the same limited set of word sounds possible everywhere, mere identity or affinity of sound cannot in itself decide the distinction between the historical and physiological grounds of that resemblance (§47).",
+        "muse": "Since, however, the sameness of the organs of speech and of their laws makes the same word-sounds, and only a certain number of them, possible everywhere, mere identity or affinity of tone cannot by itself decide (47.) concerning their historical or physiological difference.",
+        "claude": "Since, however, the sameness of the organs of speech and of their laws everywhere makes possible the same word-sounds, and only a certain number of them, the mere identity or kinship of tone cannot by itself (47.) decide the question of its historical or physiological difference."
+      },
+      "English": "Yet the organs of speech and their laws are everywhere the same, making the same limited range of word sounds possible. Mere identity or affinity of sound therefore cannot by itself tell us whether the resemblance is historical or physiological in origin (§47).",
+      "reason": "Read Unterschied by §47 and the immediate appeal to shared speech organs, rather than as a difference between the sounds themselves."
+    },
+    {
+      "source_id": "p78:s4",
+      "German": "An diesem Allem lässt sich sehr oft der rohere oder feinere Sprachsinn der Nationen erkennen.",
+      "candidates": {
+        "sol": "All this very often reveals how coarse or refined a nation's sense of language is.",
+        "muse": "In all this the cruder or finer sense for language of nations can very often be recognized.",
+        "claude": "In all this the cruder or finer sense of language of the nations can very often be recognized."
+      },
+      "English": "All this very often reveals how coarse or refined a nation’s sense of language is.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p79:s1",
+      "German": "Je näher eine Sprache aus einer schon vollständig geformten entnommen ist, desto weniger steigt sie zu einfachen Lauten auf, die in dem Wörtervorrath mehrerer von diesen kaum überhaupt angetroffen werden.",
+      "candidates": {
+        "sol": "The more directly a language is drawn from one already fully formed, the less far it goes back to simple sounds, which are hardly to be found at all in the vocabularies of several such languages.",
+        "muse": "The more directly a language has been taken from one already completely formed, the less does it go back up to simple sounds, such as are hardly encountered at all in the stock of words of several of these languages.",
+        "claude": "The more closely a language is taken from one already fully formed, the less it ascends to simple sounds, which in the vocabulary of several of these are scarcely met with at all."
+      },
+      "English": "The more directly a language is derived from one already fully formed, the less far it reaches back to simple sounds. In the vocabularies of several such languages these sounds scarcely occur at all.",
+      "reason": "Directness of borrowing or derivation is kept broad, with the second clause understood as the derived languages just described."
+    },
+    {
+      "source_id": "p80:s7",
+      "German": "Doch müssen die Fälle wohl beachtet werden, wo Wörter, in deren Bau Analogien dieser Art angedeutet sind, in andre Sprachen ohne diese Analogien selbst, d. h. ohne das Gefühl derselben bei der andren Nation, und daher ohne Fortbildung durch sie, übergegangen sind, und nun Theile einer Sprache werden, in welcher gar kein solcher Bau in solcher Vollkommenheit, oder ein andres System desselben vorhanden ist.",
+      "candidates": {
+        "sol": "Careful attention must be paid, however, to cases where words whose structure shows traces of analogies of this kind have passed into other languages without the analogies themselves. The other nation has no sense of those analogies, and consequently no further development takes place by their means. The words thus become parts of a language where such a structure is nowhere developed to the same degree of perfection, or where that structure follows a different system.",
+        "muse": "Care must, however, be taken to note the cases where words in whose structure analogies of this kind are indicated have passed into other languages without these analogies themselves — that is, without the feeling for them in the other nation, and therefore without further development by it — and now become parts of a language in which no such structure exists in such perfection, or in which a different system of it exists.",
+        "claude": "Yet careful note must be taken of the cases in which words in whose structure analogies of this kind are indicated have passed over into other languages without these analogies themselves, i.e. without the feeling for them in the other nation, and therefore without further development by that nation, and now become parts of a language in which no such structure exists at all in such perfection, or in which a different system of it exists."
+      },
+      "English": "We must pay close attention, however, to cases where words whose structure shows traces of analogies of this kind have passed into other languages without the analogies themselves. The receiving nation has no feeling for those analogies and so does not develop the words further along the same lines. The words thus become part of a language in which the structure in question is absent in that degree of development, or follows a different system.",
+      "reason": "Keep the receiving people as agents and the absence of productive analogies as the reason."
+    },
+    {
+      "source_id": "p81:s1",
+      "German": "Aus diesem inneren Zusammenhange der Wörter, auch in ihren Lauten, folgt nunmehr von selbst, dass die Wörter mehrerer Sprachen zum Behuf der Auffindung ihrer Gleichartigkeit nicht dürfen unmittelbar mit einander verglichen werden, sondern erst eine Vergleichung derselben in jeder einzeln vorausgehen muss.",
+      "candidates": {
+        "sol": "It now follows from this internal connectedness of words, extending even to their sounds, that to discover similarities in kind between languages one must first compare the words within each language before comparing them across languages.",
+        "muse": "From this inner connection of words, in their sounds also, it now follows of itself that the words of several languages must not be compared immediately with one another for the purpose of discovering their sameness of kind, but that a comparison of them in each language separately must first precede.",
+        "claude": "From this inner connection of words, in their sounds as well, it now follows of itself that the words of several languages may not, for the purpose of discovering their likeness in kind, be compared directly with one another, but that a comparison of them within each language singly must first precede."
+      },
+      "English": "This internal connection among words, which extends to their sounds, has a clear consequence. To find out in what respects the words of different languages are of the same kind, we must first compare the words within each language and only then compare them across languages.",
+      "reason": "Gleichartigkeit applies immediately to the words and is broader than historical cognacy."
+    },
+    {
+      "source_id": "note:coptic-sanskrit",
+      "German": "So könnte man das Coptische hrosch und Sanskritische rôsha, die beide Zorn bedeuten, für gleichartig halten, da das h hier ebenso ein blosser Hauch des r seyn könnte, wie es in hloili auch loili ist. Allein sorgfältigere Vergleichung zeigt, dass hrosch aus dem gleichbedeutenden horsch, wie hroyr aus hoyrooy und heri entstanden, und also jene Lautähnlichkeit mit dem Indischen Worte bloss zufällig ist.",
+      "candidates": {
+        "sol": "[Author's note] One might thus take Coptic *hrosch* and Sanskrit *rôsha*, both meaning ‘anger’, to be of the same kind, since the *h* here might be a mere aspiration of the *r*, just as *hloili* also occurs as *loili*. Closer comparison, however, shows that *hrosch* arose from *horsch*, which has the same meaning, just as *hroyr* arose from *hoyrooy* and *heri*. The resemblance in sound to the Indian word is therefore merely accidental.",
+        "muse": "Author's note: Thus one might regard Coptic *hrosch* and Sanskrit *rôsha*, which both mean ‘anger’, as of the same kind, since the *h* here could be a mere aspiration of the *r*, just as *hloili* is also *loili*. More careful comparison, however, shows that *hrosch* arose from *horsch*, with the same meaning, as *hroyr* arose from *hoyrooy* and *heri*, and that that similarity of sound with the Indian word is therefore merely accidental.",
+        "claude": "Thus one might take the Coptic *hrosch* and the Sanskrit *rôsha*, both of which mean 'anger', to be alike in kind, since the *h* here could just as well be a mere aspiration of the *r* as it is in *hloili*, which is also *loili*. But more careful comparison shows that *hrosch* has arisen from *horsch*, which has the same meaning, as *hroyr* has from *hoyrooy* and *heri*, and that this similarity of sound with the Indian word is therefore merely accidental."
+      },
+      "English": "One might take Coptic *hrosch* and Sanskrit *rôsha*, both meaning ‘anger’, to be of the same kind. The *h* might be a mere aspiration of the *r*, just as *hloili* also occurs as *loili*. Closer comparison, however, shows that *hrosch* arose from *horsch*, which has the same meaning, just as *hroyr* arose from *hoyrooy* and *heri*. The resemblance in sound to the Indian word is therefore merely accidental.",
+      "reason": "Translate the complete note. Apply the attribution label in display metadata and preserve the checked historical forms and quotation distinctions."
+    },
+    {
+      "source_id": "p82:s1",
+      "German": "In allen hier betrachteten Beziehungen ist nur auf die Abhängigkeit der Wortbildung von der Tonbehandlung der Nation gesehen worden, auf die Art, wie sie dem Vorrath ihrer Wortlaute Umfang und Mannigfaltigkeit giebt.",
+      "candidates": {
+        "sol": "In all the respects considered here, attention has been confined to the dependence of word formation on a nation's treatment of sound, to the way it gives scope and variety to its stock of word sounds.",
+        "muse": "In all the relations considered here, attention has been paid only to the dependence of word-formation on the nation's treatment of tone, to the way in which it gives extent and manifoldness to the stock of its word-sounds.",
+        "claude": "In all the respects considered here, regard has been had only to the dependence of word-formation on the nation's treatment of tone, to the way in which the nation gives extent and variety to the stock of its word-sounds."
+      },
+      "English": "In all the respects considered here, attention has been confined to the dependence of word formation on a nation’s treatment of sound, to the way it gives scope and variety to its stock of word sounds.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p82:s2",
+      "German": "Es gesellt sich aber der Wortbildung auch hauptsächlich Rücksicht auf die Bedeutung zu, und wenn z. B. die Entstehung von λαμβάνω aus λάβω blosse Tonveränderung ist, so führt die von legen aus liegen eine Nuance des Sinnes mit sich.",
+      "candidates": {
+        "sol": "Consideration of meaning, however, also plays a principal role in word formation. For example, while the formation of *λαμβάνω* from *λάβω* is a mere change of sound, the formation of *legen* from *liegen* brings with it a shade of difference in sense.",
+        "muse": "But regard for meaning is also principally associated with word-formation; and if, for example, the origin of *λαμβάνω* from *λάβω* is mere alteration of tone, that of *legen* from *liegen* carries with it a nuance of sense.",
+        "claude": "But word-formation is also, and chiefly, accompanied by regard for meaning, and if, for example, the origin of *λαμβάνω* from *λάβω* is mere alteration of tone, that of *legen* ['to lay'] from *liegen* ['to lie'] brings with it a nuance of sense."
+      },
+      "English": "Consideration of meaning also plays a principal role in word formation. The formation of *λαμβάνω* from *λάβω*, for example, may be a mere change of sound, but forming *legen* ‘lay’ from *liegen* ‘lie’ brings with it a shade of difference in sense.",
+      "reason": "Supply German glosses for the semantic comparison and retain the contrast without presenting the Greek account as a new editorial assertion."
+    },
+    {
+      "source_id": "p85:s4",
+      "German": "Diese Vorstellung muss von dem Gegenstande unterschieden werden ; sie kann individuell verschieden seyn, und muss es, da sie von allen Seiten bestimmt ist, der Gegenstand aber, als Object, immer nur allgemeiner gefasst werden kann; sie hat neben dem objectiven Theil, der sich auf den Gegenstand bezieht, einen subjectiven, in der Art der Auffassung liegenden, sowohl in der intellectuellen Ansicht, als in der diese begleitenden Empfindung.",
+      "candidates": {
+        "sol": "This presentation must be distinguished from the object. It can and must vary from one individual to another, since it is determinate in every respect, whereas the object, considered as object, can only ever be grasped in more general terms. Alongside the objective part, which relates to the object, the presentation has a subjective part that lies in the mode of apprehension, both in the intellectual view and in the feeling that accompanies it.",
+        "muse": "This presentation must be distinguished from the object; it can be individually different, and must be so, since it is determined on all sides, whereas the object, as Object, can only ever be grasped more generally; besides the objective part, which refers to the object, it has a subjective part, lying in the mode of apprehension, both in the intellectual view and in the sensation accompanying it.",
+        "claude": "This presentation must be distinguished from the object; it can be individually different, and must be so, since it is determined on all sides, whereas the object, as Object, can only ever be grasped more generally; besides the objective part, which relates to the object, it has a subjective part lying in the manner of apprehension, both in the intellectual view and in the sentiment accompanying this."
+      },
+      "English": "This presentation must be distinguished from the object. The presentation can and must vary from one individual to another because it is determinate in every respect. The object, considered in itself, can be grasped only in more general terms. Alongside the objective part, which relates to the object, the presentation has a subjective part that lies in the way it is apprehended, both in the intellectual view of it and in the feeling that accompanies that view.",
+      "reason": "Presentation consistently carries Vorstellung. Keep the object separate from both its presentation and the mode of apprehending it."
+    },
+    {
+      "source_id": "p85:s5",
+      "German": "Wiederum aber bedarf es kaum der Bemerkung, dass diese Trennung nur auf der Abstraction beruht, dass das Wort keine Stätte ausser dem Denken haben kann, und ebensowenig der Gegenstand desselben, wenn dieser ein unkörperlicher ist, dass es selbst jedesmal ganz von dem Geiste hervorgebracht wird, dass es wahrhaft seine Vollständigkeit und Individualität nur in dem jedesmaligen Denken hat, und als Bestandtheil der Sprache, als Object der Sprachuntersuchung, nur eine allgemeine, auf verschiedene, jedoch durch seine Natur beschränkte Weise individualisirbare Form ist.",
+      "candidates": {
+        "sol": "Again, it hardly needs saying that this separation rests solely on abstraction. The word can have no place outside thinking, and neither can its object if that object is incorporeal. The mind produces the word in its entirety on every occasion. The word truly has its completeness and individuality only in each act of thinking, and as a constituent of language and an object of linguistic inquiry it is merely a general form that can be individualised in various ways within the limits set by its nature.",
+        "muse": "But again, it hardly needs remarking that this separation rests only on abstraction, that the word can have no place outside thinking, and just as little can its object, if the latter is an incorporeal one, that the word itself is each time produced wholly by the mind, that it truly has its completeness and individuality only in the thinking of the moment, and as a constituent of language, as an Object of linguistic investigation, is only a general form, individualizable in different ways, though in ways limited by its nature.",
+        "claude": "Again, however, it scarcely needs remarking that this separation rests only on abstraction; that the word can have no abode outside thinking, and just as little can its object, if this is an incorporeal one; that the word itself is each time wholly produced by the mind; that it truly has its completeness and individuality only in the thinking of each occasion; and that, as a constituent of language, as Object of linguistic investigation, it is only a general form which can be individualized in different ways, though ways limited by its nature."
+      },
+      "English": "Again, it hardly needs saying that this separation rests solely on abstraction. The word can have no place outside thinking, and neither can its object if that object is incorporeal. The mind produces the word in its entirety on every occasion. The word truly has its completeness and individuality only in each act of thinking, and as a constituent of language and an object of linguistic inquiry it is merely a general form that can be individualized in various ways within the limits set by its nature.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p86:s1",
+      "German": "Darauf dass jedes Wort einer Sprache eine gewisse Weite für die Möglichkeit verschiedenartiger Vorstellungen besitzt, beruht die Möglichkeit, dass sich in derselben Sprache die Vorstellungsweisen ganz verschiedener Individualitäten der Menschen und Zeiten vereinigen, und bei der Einerleiheit der allgemeinen Sprache dennoch jedes (50.) seine eigene haben kann.",
+      "candidates": {
+        "sol": "Each word in a language allows a certain latitude for different presentations. This makes it possible for the modes of presentation of very different individuals and ages to come together in the same language, and for each to have a language of its own even while the common language remains the same (50).",
+        "muse": "On the fact that every word of a language possesses a certain latitude for the possibility of different kinds of presentations rests the possibility that, in one and the same language, the modes of presentation of quite different human individualities and ages can unite, and that, despite the sameness of the general language, each person (50.) can nevertheless have his own.",
+        "claude": "On the fact that every word of a language possesses a certain breadth for the possibility of diverse presentations rests the possibility that the modes of presentation of quite different individualities of persons and of ages unite in the same language, and that, for all the sameness of the general language, each (50.) can nevertheless have its own."
+      },
+      "English": "Each word in a language allows a certain latitude for different presentations. This makes it possible for the modes of presentation of very different individuals and ages to come together in the same language, and for each to have a language of its own even while the common language remains the same (§50).",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p86:s2",
+      "German": "Denn das Verstehen ist kein Zusammentreffen der Vorstellungsweisen in einem untheilbaren Punkt, sondern ein Zusammentreffen von Gedankensphären, von welchen der allgemeinere Theil sich deckt, der individuellere überragt.",
+      "candidates": {
+        "sol": "For understanding is no coincidence of modes of presentation at an indivisible point. It is a meeting of spheres of thought whose more general parts coincide and whose more individual parts extend beyond the overlap.",
+        "muse": "For understanding is not a meeting of modes of presentation in an indivisible point, but a meeting of spheres of thought, of which the more general part coincides, the more individual projects beyond it.",
+        "claude": "For understanding is not a meeting of the modes of presentation in an indivisible point, but a meeting of spheres of thought, of which the more general part coincides, while the more individual part projects beyond."
+      },
+      "English": "In understanding one another, we do not meet at a single indivisible point where our modes of presentation coincide. Rather, our spheres of thought meet. Their more general parts overlap, and their more individual parts extend beyond that overlap.",
+      "reason": "Recast the geometric analogy in ordinary English while retaining the opposition of point and overlapping spheres."
+    },
+    {
+      "source_id": "p87:s1",
+      "German": "Der zu der Klarheit und Bestimmtheit des Worts gesteigerte Begriff ist allemal der Erfolg des Zusammenwirkens der ganzen Seelenkraft, und da es nun die Eigenthümlichkeit des Wortes ist, diesen Begriff durch den Ton, wie durch einen elektrischen Schlag, hervorzurufen, so strahlt die Wirkung desselben durch die ganze Seele nach allen Richtungen hin.",
+      "candidates": {
+        "sol": "A concept raised to the clarity and determinacy of a word is always the result of the whole power of the soul working together. Since it is characteristic of the word to evoke this concept through sound, as if by an electric shock, its effect radiates in every direction through the whole soul.",
+        "muse": "The concept raised to the clarity and determinateness of the word is in every case the result of the co-operation of the whole power of the soul, and since it is now the peculiarity of the word to call forth this concept through the tone, as through an electric shock, its effect radiates through the whole soul in all directions.",
+        "claude": "The concept raised to the clarity and determinacy of the word is always the result of the cooperation of the whole power of the soul, and since it is the peculiarity of the word to call forth this concept by the tone, as if by an electric shock, its effect radiates through the whole soul in all directions."
+      },
+      "English": "A concept raised to the clarity and determinacy of a word is always the result of the whole power of the soul working together. Since it is characteriztic of the word to evoke this concept through sound, as if by an electric shock, its effect radiates in every direction through the whole soul.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p87:s2",
+      "German": "Die Einheit einer Kraft lässt sich nicht in Theile zerspalten, indess leuchten in der Bildung und dem Einfluss des Worts doch drei grosse und hauptsächliche Beziehungen hervor, unter denen jedes betrachtet und geprüft werden kann: seine logische Construction, seine sinnliche Geltung und sein Eindruck auf das Gefühl.",
+      "candidates": {
+        "sol": "The unity of a power cannot be split into parts. Yet three principal aspects stand out in the formation and influence of the word, and each word can be considered and examined under them. They are its logical construction, its sensory import and its impression on feeling.",
+        "muse": "The unity of a power cannot be split into parts, yet in the formation and influence of the word three great and principal relations do stand out, under which every word can be considered and tested: its logical construction, its sensible validity, and its impression on feeling.",
+        "claude": "The unity of a power cannot be split into parts; nevertheless, in the formation and the influence of the word three great and principal relations stand out, under which each word can be considered and examined: its logical construction, its sensuous validity and its impression on feeling."
+      },
+      "English": "The unity of a power cannot be split into parts. Yet three principal aspects stand out in the formation and effect of a word. We can examine each word in terms of its logical construction, its sensory import and the impression it makes on feeling.",
+      "reason": "The list names aspects of the whole, not faculties or components. Sensory import recurs in §88."
+    },
+    {
+      "source_id": "p87:s3",
+      "German": "Jedes dieser drei Stücke erscheint aber wieder in dem Wort auf eine zwiefache Weise, da man die Vorstellung des Gegenstandes selbst (85.) von derjenigen unterscheiden muss, welche das Wort, seiner Bildung und Entstehung nach, von ihm giebt, und von diesen beiden Vorstellungen keine die andere aufhebt, sondern beide in ein gewisses Verhältniss zu einander treten.",
+      "candidates": {
+        "sol": "Each of these three aspects in turn appears in the word in two ways, since we must distinguish the presentation of the object itself (85) from the presentation the word gives of it by virtue of its formation and origin. Neither presentation cancels the other, and the two enter into a definite relation with each other.",
+        "muse": "Each of these three items, however, appears again in the word in a twofold way, since one must distinguish the presentation of the object itself (85.) from that which the word, according to its formation and origin, gives of it, and of these two presentations neither cancels the other, but both enter into a certain relation to one another.",
+        "claude": "Each of these three items, however, appears in the word again in a twofold manner, since one must distinguish the presentation of the object itself (85.) from that which the word, by its formation and origin, gives of it, and of these two presentations neither cancels the other, but both enter into a certain relation to one another."
+      },
+      "English": "Each of these three aspects in turn appears in the word in two ways, since we must distinguish the presentation of the object itself (§85) from the presentation the word gives of it by virtue of its formation and origin. Neither presentation cancels the other, and the two enter into a definite relation with each other.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p88:s4",
+      "German": "Es kann daher Jenen nur von einem einzelnen Standpunkte aus nehmen, darf jedoch nichts aufgeben von seinem Gehalt, und dies wird erreicht, indem das Wort der Seele nach jenen drei Hauptbeziehungen hin eine bestimmte Anregung ertheilt, durch welche die Begriffserzeugung zwar vollständig, aber von einer scharf bestimmten Seite aus geschieht.",
+      "candidates": {
+        "sol": "It can therefore take up the concept only from a single standpoint, yet it must give up none of the concept's content. The word achieves this by giving the soul a definite stimulus along those three principal lines, so that the concept is produced in full, but from a sharply defined side.",
+        "muse": "It can therefore take that concept only from a single standpoint, yet it must give up nothing of its content, and this is achieved in that the word imparts to the soul, in the directions of those three principal relations, a determinate excitation, through which the generation of the concept does indeed take place completely, but from a sharply determinate side.",
+        "claude": "It can therefore take the concept only from a single standpoint, yet may give up nothing of its import, and this is achieved in that the word imparts to the soul, in the direction of those three principal relations, a determinate stimulus, through which the generation of the concept takes place completely indeed, but from one sharply determined side."
+      },
+      "English": "It can therefore take up the concept only from a single standpoint, yet it must give up none of the concept’s content. The word achieves this by giving the soul a definite stimulus along those three principal lines, so that the concept is produced in full, but from a sharply defined side.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p89:s1",
+      "German": "So wie die Sprache und in ihr das Wort die individuelle Natur der Welt verallgemeinert, so vergeistigt sie die in äusserer und innerer Wahrnehmung stoffartige.",
+      "candidates": {
+        "sol": "Just as language, and the word within it, generalises the individual nature of the world, so it spiritualises that nature which has the character of material in outward and inward perception.",
+        "muse": "Just as language, and in it the word, generalizes the individual nature of the world, so it spiritualizes the material-like nature of that world in outer and inner perception.",
+        "claude": "Just as language, and in it the word, generalizes the individual nature of the world, so it spiritualizes that nature which, in outer and inner perception, is material in kind."
+      },
+      "English": "Just as language, and the word within it, generalizes what is individual in the world, so it gives mental form to what has the character of material in outward and inward perception.",
+      "reason": "The original vergeistigt describes a transformation into the domain of Geist and locally contrasts with taking on corporeal form."
+    },
+    {
+      "source_id": "p89:s3",
+      "German": "Das eine und das andre geschieht aber zugleich und in untheilbarer Einheit, synthetisch, und Allgemeinheit und Individualitaet, Geistigkeit und Stoffartigkeit durchdringen einander im Wort, was, da jene Begriffe sich sonst aufheben würden, nur dadurch möglich ist, dass das Wort, als Sprachbestandtheil ausser der Seele gedacht, nichts als eine Anregung zum Denken, als vollendeter Begriff in der Seele gedacht, das Denken selbst ist, und der menschlich geistigen Kraft dies unaufhörliche Entwickeln und Rückkehren des Allgemeinen und Unsinnlichen aus Individuellem und Sinnlichem und in dasselbe eigenthümlich angehört.",
+      "candidates": {
+        "sol": "Both take place at once and in indivisible unity, synthetically, and generality and individuality, spirituality and materiality interpenetrate in the word. Since these concepts would otherwise cancel one another, this is possible only because the word, conceived as a constituent of language outside the soul, is merely a stimulus to thinking, whereas conceived as a completed concept in the soul it is thinking itself. It is characteristic of the power of the human mind that the general and the non-sensory should ceaselessly develop out of the individual and the sensory and return into them.",
+        "muse": "The one and the other, however, happen at the same time and in indivisible unity, synthetically, and generality and individuality, spirituality and materiality interpenetrate one another in the word, which, since those concepts would otherwise cancel one another, is possible only through the fact that the word, thought as a constituent of language outside the soul, is nothing but an excitation to thinking, thought as a completed concept in the soul, is thinking itself, and that this unceasing developing and returning of the general and non-sensible out of the individual and sensible, and back into the same, belongs peculiarly to human mental power.",
+        "claude": "The one and the other, however, take place at once and in indivisible unity, synthetically, and generality and individuality, spirituality and materiality permeate one another in the word; which, since those concepts would otherwise cancel one another, is possible only because the word, thought as a constituent of language outside the soul, is nothing but a stimulus to thinking, whereas, thought as a completed concept in the soul, it is thinking itself, and because this unceasing developing of the general and non-sensuous out of the individual and sensuous, and its returning into the same, belongs peculiarly to the human mental power."
+      },
+      "English": "Both take place at once in an indivisible unity. Generality and individuality, mental character and material character, interpenetrate synthetically in the word. These otherwise opposed qualities can coexist because the word, considered outside the soul as a constituent of language, is a stimulus to thinking, while the word considered in the soul as a completed concept is the thinking itself. The capacity for this unceasing development of the general and non-sensory out of the individual and sensory, and their return into them, is characteriztic of human mental power.",
+      "reason": "Keep both directions of the movement and the distinction between the word considered externally and in actual thought."
+    },
+    {
+      "source_id": "p89:s4",
+      "German": "Blicken wir nun auf die oben (87.) erwähnten drei Hauptrichtungen zurück, nach welchen hin das Wort die Seele anregt, so kann dasselbe nur insofern sinnliche und Empfindungsgeltung besitzen, als es sich dieselbe auf dem Gebiete der Intellectualität zu erhalten vermag.",
+      "candidates": {
+        "sol": "Returning now to the three principal directions mentioned above (87) in which the word stimulates the soul, we see that the word can have import for sense and feeling only insofar as it can retain that import in the intellectual domain.",
+        "muse": "If we now look back at the three principal directions mentioned above (87.), in which the word excites the soul, the word can possess sensible validity and validity for sensation only in so far as it can preserve the same for itself in the domain of intellectuality.",
+        "claude": "If we now look back at the three principal directions mentioned above (87.) in which the word stimulates the soul, the word can possess sensuous validity and validity for sentiment only in so far as it is able to maintain these for itself in the domain of intellectuality."
+      },
+      "English": "Returning now to the three principal directions mentioned above (§87) in which the word stimulates the soul, we see that the word can have import for sense and feeling only insofar as it can retain that import in the intellectual domain.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p91:s6",
+      "German": "Ich habe hierauf schon im Vorigen (87.) in dem Unterschiede zwischen der Vorstellung von dem Gegenstande und der des Wortes von ihm hingedeutet.",
+      "candidates": {
+        "sol": "I already pointed to this above (87) in distinguishing the presentation of the object from the presentation the word gives of it.",
+        "muse": "I have already pointed to this above (87.) in the distinction between the presentation of the object and the word's presentation of it.",
+        "claude": "I have already pointed to this above (87.), in the distinction between the presentation of the object and the word's presentation of it."
+      },
+      "English": "I already pointed to this above (§87) in distinguishing the presentation of the object from the presentation the word gives of it.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p91:s8",
+      "German": "Die Ausdrücke für körperliche Gegenstände sind gewiss zum grössten Theile aus Eigenschaften entstanden, die an denselben vorzüglich auffielen, und sind nichts anders, als zu Adjectiven gewordene Substantiva, unsinnliche Begriffe werden metaphorisch nach körperlichen bezeichnet, grammatische, bloss die Verbindung der Rede bestimmende, nach Wörtern für Sachbegriffe.",
+      "candidates": {
+        "sol": "Expressions for corporeal objects have certainly arisen for the most part from properties that were especially striking in those objects and are simply nouns that have become adjectives. Non-sensory concepts are designated metaphorically in terms of corporeal ones, and grammatical concepts, which merely determine the way discourse is connected, are designated after words for concepts of things.",
+        "muse": "The expressions for corporeal objects have certainly for the most part arisen from properties that were pre-eminently striking in them, and are nothing other than substantives that have become adjectives; non-sensible concepts are metaphorically designated after corporeal ones, grammatical concepts, which merely determine the connexion of speech, after words for thing-concepts.",
+        "claude": "The expressions for corporeal objects have certainly for the most part arisen from properties that were especially striking in them, and are nothing other than substantives that have become adjectives; non-sensuous concepts are designated metaphorically after corporeal ones; grammatical concepts, which merely determine the connection of discourse, after words for concepts of things."
+      },
+      "English": "Expressions for corporeal objects have certainly arisen for the most part from properties that were especially striking in those objects. They are simply nouns that have become adjectives. Non-sensory concepts are designated metaphorically in terms of corporeal ones. Grammatical concepts, which merely govern the linking of discourse, are designated after words for concepts of things.",
+      "reason": "Translate the verified printed sequence zu Adjectiven gewordene Substantiva and attach a note citing the apparent reverse in §93."
+    },
+    {
+      "source_id": "p91:s10",
+      "German": "Schwerlich ist bei dem Indischen dwipa für Elephant immer an die Eigenschaft des doppelten Trinkens durch den Rüssel und den Mund gedacht worden, wenigen, die das deutsche Vernunft und zurück gebrauchen, fällt es ein, dass jenes von vernehmen, dieses von Rücken kommt.",
+      "candidates": {
+        "sol": "The Indian word *dwîpa* for ‘elephant’ can hardly have always prompted people to think of the animal's twofold manner of drinking through trunk and mouth. Few who use the German *Vernunft* and *zurück* think of the former as coming from *vernehmen* or the latter from *Rücken*.",
+        "muse": "Hardly was the property of drinking doubly, through the trunk and the mouth, always thought of with the Indian *dwîpa* for 'elephant'; few who use the German *Vernunft* and *zurück* think of the fact that the former comes from *vernehmen*, the latter from *Rücken*.",
+        "claude": "With the Indian *dwîpa* for elephant, the property of drinking twice, through the trunk and the mouth, has hardly always been thought of; and it occurs to few who use the German *Vernunft* ['reason'] and *zurück* ['back'] that the former comes from *vernehmen* ['to perceive, to hear'] and the latter from *Rücken* ['the back']."
+      },
+      "English": "It is unlikely that the Indian word *dwipa* ‘elephant’ has always called to mind the quality of drinking twice, through the trunk and through the mouth. Few people who use the German words *Vernunft* ‘reason’ and *zurück* ‘back’ think that the former comes from *vernehmen* ‘perceive’ and the latter from *Rücken* ‘back’.",
+      "reason": "Show the distinction between the word as used and awareness of its original motivation by glossing all cited forms."
+    },
+    {
+      "source_id": "p92:s1",
+      "German": "Dies trifft mit dem oben (86.) Bemerkten zusammen, dass die Natur des Wortes, auch in der gleichen Sprache, dem Einzelnen bis auf einen gewissen Grad seine eigne Sprache zu haben erlaubt.",
+      "candidates": {
+        "sol": "This accords with the observation above (86) that the nature of the word allows individuals, even within the same language, to have a language of their own up to a point.",
+        "muse": "This coincides with what was remarked above (86.), that the nature of the word, even in the same language, allows the individual to have, up to a certain degree, a language of his own.",
+        "claude": "This coincides with what was remarked above (86.), that the nature of the word, even within the same language, permits each individual to have, up to a certain degree, a language of their own."
+      },
+      "English": "This accords with the observation above (§86) that the nature of the word allows individuals, even within the same language, to have a language of their own up to a point.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p93:s5",
+      "German": "Viel angemessener wirkt das Uebereinkommen des Begriffs mit dem Laut nach dunklem Verwandtschaftsgefühl (83.), da die Seele dadurch gestimmt und geleitet, aber nicht in der Weise der Vorstellung beschränkt wird.",
+      "candidates": {
+        "sol": "The accord of concept and sound through an obscure feeling of kinship (83) has a much more fitting effect, since it attunes and guides the soul while leaving its mode of presentation unrestricted.",
+        "muse": "Much more appropriately acts the agreement of the concept with the sound according to an obscure feeling of kinship (83.), since the soul is thereby attuned and guided, but not restricted in the manner of presentation.",
+        "claude": "Far more fitting in its effect is the accord of the concept with the sound according to an obscure feeling of affinity (83.), since the soul is thereby attuned and guided, but not restricted in the manner of presentation."
+      },
+      "English": "The accord of concept and sound through an obscure feeling of kinship (§83) has a much more fitting effect, since it attunes and guides the soul while leaving its mode of presentation unrestricted.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p93:s6",
+      "German": "Wenn die Sprachuntersuchung sich auf diese Beziehungen richtet, sie in den Wörtern aufsucht, ohne sie hineinzulegen, und auf diese Weise den immer der Muttersprache, auch unbewusst, verwandten Sprachsinn der Nation weckt, und dadurch klarere Einsicht und ein feineres Gefühl der Sprache bewirkt; so kann die ursprüngliche Individualitaet der Wörter wieder heller ans Licht treten, und ordnet sich nun, ohne weiter zu schaden, der durch die Zeit freier und intellectueller gewordenen Auffassung der Gegenstände unter.",
+      "candidates": {
+        "sol": "If linguistic inquiry attends to these relations, looks for them in words without reading them into the words, and in this way awakens the nation's sense of language, which always has an affinity with its mother tongue even without conscious awareness, it brings about clearer insight and a finer feeling for language. The original individuality of words can then come to light again more distinctly and, without doing further harm, take its place under a mode of apprehending objects that has grown freer and more intellectual with time.",
+        "muse": "If linguistic investigation directs itself to these relations, seeks them out in the words without putting them into them, and in this way awakens the linguistic sense of the nation, which is always akin, even unconsciously, to the mother tongue, and thereby effects clearer insight and a finer feeling for the language, then the original individuality of the words can step forth again more brightly into the light, and now subordinates itself, without doing further harm, to the apprehension of objects that has in the course of time become freer and more intellectual.",
+        "claude": "When linguistic investigation turns to these relations, seeks them out in words without reading them into them, and in this way awakens the nation's linguistic sense, which is always akin, even unconsciously, to the mother tongue, and thereby brings about clearer insight and a finer feeling for the language, the original individuality of words can again come more brightly to light, and now subordinates itself, without doing further harm, to the apprehension of objects that has through time become freer and more intellectual."
+      },
+      "English": "If linguistic inquiry attends to these relations, looks for them in words without reading them into the words, and in this way awakens the nation’s sense of language, which always has an affinity with its mother tongue even without conscious awareness, it brings about clearer insight and a finer feeling for language. The original individuality of words can then come to light again more distinctly and, without doing further harm, take its place under a mode of apprehending objects that has grown freer and more intellectual with time.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p94:s1",
+      "German": "Nicht leicht werden zwei Sprachen in der Form ihrer Wörter ein vollkommenes Gleichgewicht zwischen den verschiedenen Anregungen halten, welche die Seele dadurch erfährt.",
+      "candidates": {
+        "sol": "Two languages will scarcely maintain a perfect balance in the form of their words among the different stimuli that the soul receives through them.",
+        "muse": "Two languages will not easily keep, in the form of their words, a perfect equilibrium among the different excitations that the soul experiences through them.",
+        "claude": "Not easily will two languages maintain, in the form of their words, a perfect equilibrium between the different stimuli which the soul thereby receives."
+      },
+      "English": "Two languages are unlikely to have precisely the same balance in the form of their words among the different ways in which words stimulate the soul.",
+      "reason": "The comparison of two languages and the successive examples support reading the balance as shared between those languages."
+    },
+    {
+      "source_id": "p94:s5",
+      "German": "Diesen Charakter kann die sich ändernde Richtung der Nation abändern, aber, unaufhörlich seinen Einflüssen unterliegend, niemals verlassen.",
+      "candidates": {
+        "sol": "As the nation's direction changes, it can modify this character, but it can never leave it behind, since it is continually subject to its influences.",
+        "muse": "The changing direction of the nation can alter this character, but, incessantly subject to its influences, can never abandon it.",
+        "claude": "The changing orientation of the nation can modify this character, but, being unceasingly subject to its influences, can never abandon it."
+      },
+      "English": "As the nation’s direction changes, it can modify this character, but it can never leave it behind, since it is continually subject to its influences.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p95:s1",
+      "German": "Bei der Materie der Wörter tritt nun die Natur der Gegenstände hinzu, und es entstehen mithin bei jedem Worte die Fragen : was fasst das Wort, als seinen Gegenstand, zusammen? wie bezeichnet es dies Zusammengefasste ? und welchen Nebenbegriff verbindet es, nach begleitendem Gefühle, mit dieser Bezeichnung?",
+      "candidates": {
+        "sol": "When we consider the matter of words, the nature of the objects also comes into play, and three questions arise for every word. What does the word bring together as its object? How does it designate what it has brought together? What subsidiary concept does it associate with this designation in accordance with the accompanying feeling?",
+        "muse": "With the matter of words there now comes in addition the nature of the objects, and there thus arise, with every word, the questions: what does the word comprehend together as its object? how does it designate what is thus comprehended together? and what subsidiary concept, according to accompanying feeling, does it connect with this designation?",
+        "claude": "With the matter of words the nature of the objects now comes in as well, and with every word there accordingly arise the questions: what does the word gather together as its object? how does it designate what is thus gathered together? and what accessory concept does it, in accordance with accompanying feeling, connect with this designation?"
+      },
+      "English": "When we examine the matter of words, the nature of the objects also comes into play. We can ask three questions of every word. What does it bring together as its object? How does it designate what it brings together? What subsidiary concept does the accompanying feeling lead it to associate with this designation?",
+      "reason": "Keep all three questions as the programme for §§96–105 and retain the distinction between feeling and subsidiary concept."
+    },
+    {
+      "source_id": "p96:s7",
+      "German": "In dieser Vertheilung der Begriffe auf die Wörter offenbart sich nun zunächst der Sinn der Nation für richtige und scharfe Naturauffassung und logische Genauigkeit; aber in höheren Beziehungen geht daraus das glückliche Schöpfungsvermögen des Geistes hervor.",
+      "candidates": {
+        "sol": "This distribution of concepts among words reveals, first of all, the nation's sense for a correct and sharply defined apprehension of nature and for logical precision. In higher respects, however, from it emerges the mind's fortunate capacity for creation.",
+        "muse": "In this distribution of concepts over words there is now revealed, in the first instance, the nation's sense for correct and sharp apprehension of nature and for logical exactness; but in higher respects there emerges from it the fortunate creative capacity of the mind.",
+        "claude": "In this distribution of concepts among words there is revealed, in the first instance, the nation's sense for correct and sharp apprehension of nature and for logical exactness; but in higher respects there issues from it the mind's happy power of creation."
+      },
+      "English": "This distribution of concepts among words reveals, first of all, the nation’s sense for a correct and sharply defined apprehension of nature and for logical precision. In higher respects, however, from it emerges the mind’s fortunate capacity for creation.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "note:sanskrit-hips",
+      "German": "Von dieser Art sind im Sanskrit kaṭi, taṭa, śrôṇi, nitamba, die alle die Gegend des Leibes um die Hüften in unbestimmter Begränzung andeuten.",
+      "candidates": {
+        "sol": "Author's note. Examples of this kind in Sanskrit are *kaṭi*, *taṭa*, *śrôṇi*, *nitamba*, all of which indicate the region of the body around the hips without drawing definite boundaries.",
+        "muse": "Of this kind in Sanskrit are *kaṭi*, *taṭa*, *śrôṇi*, *nitamba*, which all indicate the region of the body around the hips within an indeterminate delimitation.",
+        "claude": "Of this kind in Sanskrit are *kaṭi*, *taṭa*, *śrôṇi*, *nitamba*, all of which indicate the region of the body about the hips with indeterminate delimitation."
+      },
+      "English": "Sanskrit examples of this kind are *kaṭi*, *taṭa*, *śrôṇi* and *nitamba*, all of which designate the area around the hips without drawing definite boundaries.",
+      "reason": "Translate the complete note. Apply the attribution label in display metadata and preserve the checked historical forms and quotation distinctions."
+    },
+    {
+      "source_id": "note:sanskrit-concepts",
+      "German": "Man kann hier die Sanskritischen nyâya und yôga anführen",
+      "candidates": {
+        "sol": "Author's note. The Sanskrit *nyâya* and *yôga* may be cited here.",
+        "muse": "One may adduce here the Sanskrit *nyâya* and *yôga*.",
+        "claude": "Here one may cite the Sanskrit *nyâya* and *yôga*."
+      },
+      "English": "The Sanskrit words *nyâya* and *yôga* are examples.",
+      "reason": "Translate the complete note. Apply the attribution label in display metadata and preserve the checked historical forms and quotation distinctions."
+    },
+    {
+      "source_id": "p97:s3",
+      "German": "Doch sollte man nicht vergessen, dass diese grösstentheils nur die Mangelhaftigkeit der Wörterbücher trifft, die, ohne Ordnung und Nachdenken, alle Bedeutungen, in welchen sich das Wort in einzelnen Stellen findet, auf einander folgen lassen, und aus jeder Stelle gerade die bestimmteste Bedeutung herausheben, zu welcher der Zusammenhang der Begriffe den natürlichen und einfachen Sinn des Worts hinüberzwängt.",
+      "candidates": {
+        "sol": "Yet we should remember that the complaint mostly applies to the shortcomings of dictionaries. Without order or reflection, they list one after another all the meanings in which a word occurs in particular passages, singling out from each passage precisely the most specific meaning into which the connection among the concepts forces the word's natural and simple sense.",
+        "muse": "Yet one should not forget that this complaint mostly hits only the defectiveness of dictionaries, which, without order and reflection, let all the meanings in which the word is found in individual passages follow one upon another, and from every passage single out precisely the most determinate meaning to which the connexion of the concepts constrains the natural and simple sense of the word over.",
+        "claude": "Yet it should not be forgotten that this complaint for the most part touches only the deficiency of the dictionaries, which, without order or reflection, let all the meanings in which the word is found in individual passages follow one upon another, and pick out from each passage precisely the most determinate meaning, into which the connection of the concepts forces the natural and simple sense of the word."
+      },
+      "English": "Yet we should remember that the complaint mostly applies to the shortcomings of dictionaries. Without order or reflection, they list one after another all the meanings in which a word occurs in particular passages, singling out from each passage precisely the most specific meaning into which the connection among the concepts forces the word’s natural and simple sense.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p97:s5",
+      "German": "Wo sie jedoch nicht abgeläugnet werden kann, da fällt sie auf der einen Seite mit der oben (96.) gerügten Unbestimmtheit zusammen, die mehr als Eine Bestimmung des Begriffs, und mithin mehrere Begriffe zulässt, kann aber auf der andren auch aus zu scharfsinniger Ausspinnung eines Begriffs in alle von ihm ausgehende Fäden, oder aus Vorliebe zu allzu kühnen Metaphern entstehen, und mithin gerade den Sprachen sehr geistreicher Nationen eigen seyn.",
+      "candidates": {
+        "sol": "Where it cannot be denied, however, it coincides on the one hand with the indeterminacy criticised above (96), which admits more than one determination of the concept and hence more than one concept. On the other hand, it may also arise from spinning out a concept with excessive ingenuity into all the threads that issue from it, or from a fondness for overbold metaphors, and may thus be characteristic precisely of the languages of highly ingenious nations.",
+        "muse": "Where it cannot, however, be denied, it coincides on the one side with the indeterminateness censured above (96.), which allows more than one determination of the concept, and consequently several concepts, but on the other side it can also arise from too ingenious a spinning-out of a concept into all the threads issuing from it, or from a predilection for all too bold metaphors, and consequently be peculiar precisely to the languages of very ingenious nations.",
+        "claude": "Where it cannot be denied, however, it coincides on the one hand with the indeterminacy censured above (96.), which admits more than one determination of the concept and hence several concepts; but on the other hand it can also arise from too acute a spinning-out of a concept into all the threads proceeding from it, or from a fondness for all too bold metaphors, and hence be peculiar precisely to the languages of very ingenious nations."
+      },
+      "English": "Where it cannot be denied, however, it coincides on the one hand with the indeterminacy criticised above (§96), which admits more than one determination of the concept and hence more than one concept. On the other hand, it may also arise from spinning out a concept with excessive ingenuity into all the threads that issue from it, or from a fondness for overbold metaphors, and may thus be characteriztic precisely of the languages of highly ingenious nations.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p97:s7",
+      "German": "Bei ihm bleibt diese doch einfach, und eine das Nachdenken wahrhaft befördernde Sprache muss gerade auch auf den höchsten Stufen der Abstraction, oder den niedrigsten der individualisirenden Bestimmung (da solche Wörter auf beiden entstehen können) den Gedanken geheftet haben.",
+      "candidates": {
+        "sol": "However wide its scope, the meaning remains single, and a language that genuinely fosters reflection must have found a way to give thought a foothold even at the highest stages of abstraction or the lowest stages of individualising determination, since such words can arise at either.",
+        "muse": "With the latter, the meaning nonetheless remains simple, and a language that truly promotes reflection must precisely have fixed thought even at the highest levels of abstraction, or the lowest of individualizing determination (since such words can arise at both).",
+        "claude": "With the latter the meaning nevertheless remains simple, and a language that truly furthers reflection must have fixed the thought precisely at the highest levels of abstraction too, or at the lowest of individualizing determination (since such words can arise at both)."
+      },
+      "English": "However wide its scope, the meaning remains single, and a language that genuinely fosters reflection must have found a way to give thought a foothold even at the highest stages of abstraction or the lowest stages of individualizing determination, since such words can arise at either.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p98:s2",
+      "German": "Sonst aber ist vom Tone allgemein (73 — 82.) und besonders in Beziehung auf die Bedeutung (83.) schon im Vorigen gesprochen worden.",
+      "candidates": {
+        "sol": "Sound has already been discussed above, both generally (73–82) and with special reference to meaning (83).",
+        "muse": "Otherwise, however, tone in general (73–82.) and especially in relation to meaning (83.) has already been spoken of above.",
+        "claude": "Otherwise, however, the tone in general (73–82.), and in particular in relation to meaning (83.), has already been spoken of above."
+      },
+      "English": "Sound has already been discussed above, both generally (§§73–82) and with special reference to meaning (§83).",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p98:s4",
+      "German": "Allein der Begriff kann weder in seiner Definition, noch, wenn er einem körperlichen Gegenstand angehört, in dem ganzen Wesen desselben gegeben werden; das Wort muss ihn in Einheit gestalten (88.), das also, wodurch es ihn dem Geiste des Hörenden andeutet, ist, auch als Begriff, seine Bezeichnung.",
+      "candidates": {
+        "sol": "But the concept cannot be given in its definition or, if it belongs to a corporeal object, in the whole being of that object. The word must shape it into a unity (88). What the word uses to indicate the concept to the hearer's mind therefore constitutes its designation, even though it too is a concept.",
+        "muse": "But the concept can be given neither in its definition nor, if it belongs to a corporeal object, in the whole being of the latter; the word must shape it in unity (88.); that, therefore, through which it indicates it to the mind of the hearer is, even as concept, its designation.",
+        "claude": "But the concept can be given neither in its definition nor, if it belongs to a corporeal object, in the whole essence of that object; the word must shape it into unity (88.); that, therefore, by which the word indicates it to the mind of the hearer is, even as concept, its designation."
+      },
+      "English": "But a concept cannot be given by providing its definition, or, if it concerns a corporeal object, by presenting that object in its entirety. The word must give it shape as a unity (§88). What the word uses to indicate it to the hearer’s mind, then, is what designates it, and this too is a concept.",
+      "reason": "Preserve the conceptual mode of designation under discussion, as distinct from its realization in sound. Compare §119."
+    },
+    {
+      "source_id": "p98:s5",
+      "German": "Ursprünglich liegt diese Bezeichnung (die eigentlich nur in Beziehung auf den Hörenden eine solche, von Seiten des Sprechenden aber eine Auffassung ist) in jedem Wort, bei den den Naturlauten nachgebildeten in dem Tönen der Gegenstände, bei andren für körperliche Dinge in andren ihrer Eigenschaften, bei intellectuellen in den zu ihrer Andeutung gewählten Metaphern.",
+      "candidates": {
+        "sol": "This designation, which is properly a designation only in relation to the hearer and on the speaker's side is an apprehension, is originally present in every word. In words modelled on natural sounds it lies in the sounds the objects make, in other words for corporeal things it lies in other properties of those things, and in words for intellectual concepts it lies in the metaphors chosen to indicate them.",
+        "muse": "Originally this designation (which properly is such only in relation to the hearer, but on the speaker's part is an apprehension) lies in every word: in those formed after natural sounds, in the sounding of the objects, in others for corporeal things in other of their properties, in intellectual ones in the metaphors chosen to indicate them.",
+        "claude": "Originally this designation (which properly is such only in relation to the hearer, but on the side of the speaker is an apprehension) lies in every word: in those modelled on natural sounds, in the sounding of the objects; in others for corporeal things, in other properties of theirs; in intellectual ones, in the metaphors chosen to indicate them."
+      },
+      "English": "This designation, which is properly a designation only in relation to the hearer and on the speaker’s side is an apprehension, is originally present in every word. In words modelled on natural sounds it lies in the sounds the objects make, in other words for corporeal things it lies in other properties of those things, and in words for intellectual concepts it lies in the metaphors chosen to indicate them.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p98:s6",
+      "German": "Denn indem der Begriff in einen Ton gekleidet wurde, musste sich die Zunge doch durch etwas bei der Wahl desselben bestimmen lassen, und dies konnte nur diese, den ganzen Begriff in Einem Punkte zusammenfassende Anschauungsweise seyn.",
+      "candidates": {
+        "sol": "For when the concept was clothed in a sound, something had to guide the tongue in choosing that sound, and this could only have been the mode of intuition that brings the entire concept together at a single point.",
+        "muse": "For in that the concept was clothed in a tone, the tongue had after all to let itself be determined by something in the choice of that tone, and this could only be this mode of intuition, comprehending the whole concept together in one point.",
+        "claude": "For when the concept was clothed in a tone, the tongue had after all to let itself be determined by something in the choice of it, and this could only be this mode of intuition, which gathers the whole concept together in one point."
+      },
+      "English": "When the concept was clothed in a sound, something had to guide the tongue in choosing that sound. It could only have been this manner of sensory apprehension that brings the whole concept together at one point.",
+      "reason": "Use sensory apprehension for Anschauung here, given the explicit conditions in the next line."
+    },
+    {
+      "source_id": "p98:s7",
+      "German": "Diese selbst aber kann man sich nur sinnlich denken, theils weil sie zur Wahl des Tons leiten soll, theils weil die ganze Wortbildung (89.) in der Sphäre der Einbildungskraft schwebt.",
+      "candidates": {
+        "sol": "This mode of intuition itself can only be conceived as sensory, partly because it is to guide the choice of sound, and partly because word formation as a whole hovers in the sphere of the imagination (89).",
+        "muse": "This mode itself, however, one can only think of as sensible, partly because it is to guide the choice of tone, partly because the whole of word-formation (89.) hovers in the sphere of the imagination.",
+        "claude": "This mode of intuition itself, however, can only be thought of as sensuous, partly because it is to guide the choice of the tone, partly because the whole of word-formation (89.) hovers in the sphere of the imagination."
+      },
+      "English": "We can conceive of this manner of apprehension only as sensory, partly because it is to guide the choice of sound and partly because word formation as a whole hovers in the sphere of the imagination (§89).",
+      "reason": "Keep continuity with the previous rendering and retain the metaphor of hovering."
+    },
+    {
+      "source_id": "p98:s8",
+      "German": "In den meisten Fällen ist jedoch diese sinnliche Auffassungsweise des Gegenstandes, welche dem Tone vorausgieng, oder mit ihm zugleich, doch immer ihn bestimmend, entstand, nicht mehr aufzuspüren, und dann hängt sie noch bloss an der auf den Ton ausgeübten Wirkung, bisweilen auch nicht einmal mehr an dieser auf eine erkennbare Weise.",
+      "candidates": {
+        "sol": "In most cases, however, this sensory mode of apprehending the object, which preceded the sound or arose together with it but always determined it, can no longer be traced. It then survives only in the effect it had on the sound, and sometimes it is no longer recognisable even there.",
+        "muse": "In most cases, however, this sensible mode of apprehending the object, which preceded the tone, or arose simultaneously with it, yet always determining it, is no longer to be traced, and then it still hangs merely on the effect exercised on the tone, sometimes not even any longer on this in a recognizable way.",
+        "claude": "In most cases, however, this sensuous mode of apprehension of the object, which preceded the tone, or arose together with it yet always determining it, can no longer be traced, and then it still adheres merely in the effect exerted on the tone, and sometimes no longer even in this in any recognizable way."
+      },
+      "English": "In most cases, however, this sensory mode of apprehending the object, which preceded the sound or arose together with it but always determined it, can no longer be traced. It then survives only in the effect it had on the sound, and sometimes it is no longer recognizable even there.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p98:s9",
+      "German": "Im ersteren Fall ist der Lautcharakter des Worts (seine Härte oder Sanftheit, seine Helligkeit oder Dumpfheit u. s. f.), im letzteren bloss der Schall der articulirten Töne selbst die Bezeichnung des Wortinhalts.",
+      "candidates": {
+        "sol": "In the former case, the sound character of the word, its harshness or softness, its brightness or dullness and so on, is the designation of the word's content. In the latter case, the designation is simply the audible sound of the articulated sounds themselves.",
+        "muse": "In the former case the sound-character of the word (its hardness or softness, its brightness or dullness, and so forth), in the latter merely the acoustic sound of the articulated tones themselves, is the designation of the word-content.",
+        "claude": "In the former case the sound-character of the word (its hardness or softness, its brightness or dullness, etc.), in the latter merely the audible sound of the articulated tones themselves, is the designation of the word's content."
+      },
+      "English": "In the former case, the sound character of the word, its harshness or softness, its brightness or dullness and so on, is the designation of the word’s content. In the latter case, the designation is simply the audible sound of the articulated sounds themselves.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p98:s11",
+      "German": "Bei dem ersten ist die Bezeichnung des Begriffs das unaufhörlich wiederkehrende Fliegen, wodurch das Thier so vorzüglich lästig wird; bei dem zweiten das Geschrei des Vogels; bei dem dritten das blosse, aus dem Indischen stammende, und auch da nicht zu erklärende Wort.",
+      "candidates": {
+        "sol": "In the first, the designation of the concept is the incessant flying that makes the animal so particularly troublesome. In the second, it is the bird's cry. In the third, it is simply the word itself, which comes from Indian and cannot be explained there either.",
+        "muse": "In the first, the designation of the concept is the incessantly recurring flying, whereby the animal becomes so pre-eminently troublesome; in the second, the cry of the bird; in the third, the mere word, stemming from Indian, and not explicable even there.",
+        "claude": "In the first, the designation of the concept is the incessantly recurring flying by which the creature becomes so especially troublesome; in the second, the cry of the bird; in the third, the mere word, which derives from the Indian and cannot be explained there either."
+      },
+      "English": "In the first, what designates the concept is the incessant flying that makes the animal particularly troublesome. In the second, it is the bird’s cry. In the third, it is just the word itself, which comes from the Indian language and defies explanation there too.",
+      "reason": "Retain Humboldt’s etymological claim in the text and attach the evidence-based correction separately."
+    },
+    {
+      "source_id": "p98:s12",
+      "German": "Aehnliche Beispiele gewähren die Wörter für geistige Begriffe mit und ohne erkennbare Metaphern.",
+      "candidates": {
+        "sol": "Words for concepts of the mind, with and without recognisable metaphors, furnish similar examples.",
+        "muse": "Similar examples are afforded by the words for mental concepts with and without recognizable metaphors.",
+        "claude": "Similar examples are afforded by the words for mental concepts, with and without recognizable metaphors."
+      },
+      "English": "Words for concepts of the mind, with and without recognizable metaphors, furnish similar examples.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p99:s1",
+      "German": "Diese Art der Begriffsbezeichnung könnte man die Selbstbedeutung der Wörter nennen.",
+      "candidates": {
+        "sol": "This mode of designating concepts might be called the self-meaning of words.",
+        "muse": "This mode of designating the concept might be called the self-meaning of words.",
+        "claude": "This kind of designation of the concept could be called the self-meaning of words."
+      },
+      "English": "We might call this way of designating a concept a word’s motivating meaning.",
+      "reason": "Use the conditional T14 wording for Selbstbedeutung, whose scope is defined by §§98–99."
+    },
+    {
+      "source_id": "p99:s3",
+      "German": "Es ist in vielen Rücksichten wichtig nachzuforschen, ob in einer Sprache vielen Wörtern eine solche Selbstbedeutung eigen ist? und auch den schon (91.) angedeuteten Fall zu unterscheiden, ob dieselbe noch allgemein von dem Volke gefühlt wird, oder nur noch dem Forscher erkennbar da liegt ?",
+      "candidates": {
+        "sol": "It is important in many respects to investigate whether many words in a language possess such a self-meaning, and also to make the distinction already indicated (91) between cases in which it is still generally felt by the people and those in which it remains discernible only to the investigator.",
+        "muse": "It is important in many respects to investigate whether in a language such a self-meaning is peculiar to many words, and also to distinguish the case already indicated at (91.), whether it is still generally felt by the people, or now lies there recognizable only to the investigator.",
+        "claude": "It is in many respects important to inquire whether in a language such a self-meaning belongs to many words, and also to distinguish the case already indicated (91.): whether it is still generally felt by the people, or only still lies there recognizable to the investigator."
+      },
+      "English": "It is important in several respects to investigate whether many words in a language have such a motivating meaning. We must also make the distinction already indicated (§91) between cases in which the people still generally feel it and cases in which only the investigator can discern it.",
+      "reason": "Distinguish felt motivation from motivation recoverable only by historical inquiry."
+    },
+    {
+      "source_id": "p99:s4",
+      "German": "Da man das Vorherrschen der Selbstbedeutungen wohl mit Recht als das Ursprünglichere in den Sprachen ansehen muss, so lassen sich daraus Folgerungen auf die in ihr vorgegangenen Umänderungen ziehen.",
+      "candidates": {
+        "sol": "Since the predominance of self-meanings must presumably be regarded as a more original condition of languages, conclusions can be drawn from it about the changes that have taken place in a language.",
+        "muse": "Since the predominance of self-meanings must rightly be regarded as what is more original in languages, conclusions can be drawn from it as to the changes that have taken place in the language.",
+        "claude": "Since the predominance of self-meanings must probably rightly be regarded as the more original state in languages, inferences can be drawn from it as to the changes that have taken place in a language."
+      },
+      "English": "We presumably have good reason to regard the prevalence of motivating meanings as an earlier state in the history of languages, and so can draw conclusions from it about changes in a language.",
+      "reason": "Retain the historical inference and its modal force without making the claim one of chronological priority for any particular meaning."
+    },
+    {
+      "source_id": "p99:s5",
+      "German": "Sie selbst aber, soweit sie sich mit Zuverlässigkeit offenbaren, sind wichtig zu untersuchen, weil sie die Richtung zeigen, nach welcher ein Volk die Natur aufgefasst, und das Geistige in sinnlicher Umhüllung der Sprache angeeignet hat.",
+      "candidates": {
+        "sol": "The self-meanings themselves, insofar as they can be identified reliably, are important to study because they show the direction in which a people has apprehended nature and made what belongs to the mind its own in the sensory clothing of language.",
+        "muse": "But they themselves, in so far as they reveal themselves with reliability, are important to investigate, because they show the direction in which a people has apprehended nature, and has appropriated what is mental to language in a sensible covering.",
+        "claude": "The self-meanings themselves, however, so far as they reveal themselves with reliability, are important to investigate, because they show the direction in which a people has apprehended nature and has appropriated what is mental to language in sensuous envelopment."
+      },
+      "English": "Insofar as they can be established reliably, motivating meanings themselves are worth investigating. They show the direction in which a people has apprehended nature and has appropriated what belongs to the mind in the sensory clothing of language.",
+      "reason": "The condition concerns reliable evidence; the second half keeps the joint treatment of sensory clothing and intellectual content."
+    },
+    {
+      "source_id": "p101:s4",
+      "German": "Dies zu verkennen, und die Wörter als blosse Zeichen anzusehen, ist der Grundirrthum, der alle Sprachwissenschaft und alle richtige Würdigung der Sprache zerstört.",
+      "candidates": {
+        "sol": "To fail to recognise this and to regard words as mere signs is the fundamental error that destroys all science of language and all proper appreciation of language.",
+        "muse": "To misconceive this, and to regard words as mere signs, is the fundamental error that destroys all science of language and all correct appreciation of language.",
+        "claude": "To misjudge this, and to regard words as mere signs, is the fundamental error that destroys all linguistic science and all correct appreciation of language."
+      },
+      "English": "To fail to recognize this and to regard words as mere signs is the fundamental error that destroys all science of language and all proper appreciation of language.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p101:s9",
+      "German": "Bei dem Worte lässt sich der Begriff auch nicht rein abscheiden vom Laute, nicht an sich, da er nicht ohne Sprache gedacht werden kann, nicht von dem ihm bestimmt in einer Sprache eignen, weil er zugleich dessen Individualitaet an sich trägt.",
+      "candidates": {
+        "sol": "In the word, too, the concept cannot be cleanly separated from sound, whether from sound as such, since the concept cannot be thought without language, or from the particular sound that belongs to it in a given language, since it also bears that sound's individuality.",
+        "muse": "With the word, too, the concept cannot be purely separated off from the sound: not in itself, since it cannot be thought without language; not from the sound peculiar determinately to it in a language, because it at the same time bears the latter's individuality upon itself.",
+        "claude": "With the word, too, the concept cannot be cleanly separated from the sound: not in itself, since it cannot be thought without language; not from the sound that is determinately its own in a language, because it at the same time bears that sound's individuality in itself."
+      },
+      "English": "In a word, too, the concept cannot be cleanly separated from sound. It cannot be separated from sound in the abstract, because it cannot be thought without language, or from the particular sound it has in a given language, because the concept bears the individuality of that sound as well.",
+      "reason": "The readings are physical sound in general, and the particular sound in a given language. The last pronouns take up Begriff and Laut."
+    },
+    {
+      "source_id": "note:deleted-word-symbol",
+      "German": "Nach „sich“ gestrichen: „Allein genauer untersucht, hat das Wort ganz und gar nicht die Natur eines Symbols, und der symbolisirende und der durch richtigen und feinen Sprachsinn geleitete Verstand sind vielmehr einander entgegengesetzt. Denn die Sprache sucht in dem Worte den Begriff selbst, rein und unmittelbar, den körperlichen Gegenstand oder die unkörperliche Idee, und bedient sich des scheinbaren Symbols, des Lautes, nur als eines Mittels.“",
+      "candidates": {
+        "sol": "Editor's note. After *sich* (‘itself’), the following was deleted: \"On closer examination, however, the word has altogether none of the nature of a symbol, and the understanding that symbolises and the understanding guided by a correct and refined sense of language are in fact opposed to one another. For language seeks in the word the concept itself, purely and immediately, the corporeal object or the incorporeal idea, and uses the apparent symbol, the sound, merely as a means.\"",
+        "muse": "After *sich* deleted: \"But more exactly examined, the word has wholly and entirely not the nature of a symbol, and the symbolizing understanding and the understanding guided by correct and fine linguistic sense are rather opposed to one another. For language seeks in the word the concept itself, purely and immediately, the corporeal object or the incorporeal idea, and uses the apparent symbol, the sound, only as a means.\"",
+        "claude": "Deleted after *sich*: \"Examined more closely, however, the word has not at all the nature of a symbol, and the symbolizing understanding and the understanding guided by a correct and fine linguistic sense are rather opposed to one another. For language seeks in the word the concept itself, purely and immediately, the corporeal object or the incorporeal idea, and makes use of the apparent symbol, the sound, only as a means.\""
+      },
+      "English": "After *sich* (at the end of ‘contains the concept within itself’), the following was deleted. “On closer examination, however, the word has none of the nature of a symbol, and the understanding that makes symbols and the understanding guided by a correct and refined sense of language are in fact opposed to one another. For language seeks in the word the concept itself, purely and immediately, the corporeal object or the incorporeal idea, and uses the apparent symbol, the sound, only as a means.”",
+      "reason": "Translate the complete note. Apply the attribution label in display metadata and preserve the checked historical forms and quotation distinctions."
+    },
+    {
+      "source_id": "note:creuzer",
+      "German": "Man findet diese Begriffe mit grosser Klarheit und auf vorzüglich geistreiche Weise im 3. Kapitel des 1. Buchs der Creuzerschen Symbolik und Mythologie entwickelt. „Immer“, heisst es S. 57., „bleibt es wesentliche Eigenschaft dieser (der tropischen) Darstellungsart, dass sie ein Einziges, ein Ungetheiltes giebt.“ und S. 63. „Das Wesen durchdringt und belebt die Naturform. Jener Streit zwischen dem Unendlichen und dem Endlichen ist also aufgelöset, dadurch dass jenes, sich selbst begränzend, ein Menschliches ward.“",
+      "candidates": {
+        "sol": "Author's note. These concepts are developed with great clarity and exceptional insight in chapter 3 of book 1 of Creuzer's *Symbolik und Mythologie*. On p. 57 we read, \"It always remains an essential property of this (tropical) mode of representation that it gives something single, something undivided.\" And on p. 63, \"The essence permeates and animates the natural form. That conflict between the infinite and the finite is thus resolved by the infinite, in setting limits to itself, becoming something human.\"",
+        "muse": "These concepts are found developed with great clarity and in a pre-eminently ingenious way in chapter 3 of book 1 of Creuzer's *Symbolik und Mythologie*. \"Always\", it is said on p. 57, \"it remains the essential property of this (the tropical) mode of presentation, that it gives something single, something undivided\", and on p. 63: \"The being interpenetrates and enlivens the natural form. That conflict between the Infinite and the Finite is thus resolved, through the former, limiting itself, having become something human.\"",
+        "claude": "These concepts are found developed with great clarity and in an eminently ingenious manner in the 3rd chapter of the 1st book of Creuzer's *Symbolik und Mythologie*. \"It always remains\", it says on p. 57, \"an essential property of this (the tropical) mode of portrayal that it gives something single, something undivided.\" and on p. 63: \"The essence permeates and animates the natural form. That conflict between the infinite and the finite is thus resolved, in that the former, limiting itself, became something human.\""
+      },
+      "English": "These concepts are developed with great clarity and exceptional insight in book 1, chapter 3 of Creuzer’s *Symbolik und Mythologie*. On p. 57 we read, “It always remains an essential property of this mode of representation (by tropes) that it gives a single, undivided thing.” On p. 63, “Essence permeates and animates the natural form. The conflict between the infinite and the finite is thus resolved when the former sets bounds to itself and becomes something human.”",
+      "reason": "Translate the complete note. Apply the attribution label in display metadata and preserve the checked historical forms and quotation distinctions."
+    },
+    {
+      "source_id": "note:deleted-images-signs",
+      "German": "Nach „zusammen“ gestrichen: „Ein in allen Beziehungen auf die Sprache höchst wichtiger Unterschied der Einwirkung beider auf den Geist ist, dass das Beschäftigen mit Bildern verweilend und vertiefend stimmt, das Beschäftigen mit Zeichen rasch übergehend und Vieles umfassend.“",
+      "candidates": {
+        "sol": "Editor's note. After *zusammen* (in ‘coincide’), the following was deleted: \"A difference in the effect of the two on the mind, of the utmost importance in every respect concerning language, is that attending to images disposes the mind to linger and probe more deeply, while attending to signs disposes it to move on rapidly and take in many things.\"",
+        "muse": "After *zusammen* deleted: \"A difference, in all relations to language most important, in the effect of both on the mind is that occupying oneself with images attunes one to tarry and to deepen, occupying oneself with signs to pass rapidly over and to comprehend much.\"",
+        "claude": "Deleted after *zusammen*: \"A difference between the effect of the two on the mind that is of the highest importance in every relation to language is that occupation with images disposes the mind to linger and immerse itself, occupation with signs to pass on rapidly and to embrace much.\""
+      },
+      "English": "After *zusammen* (at the end of ‘idea and bodily material coincide’), the following was deleted. “A difference in the effect of the two on the mind, of the utmost importance in every respect concerning language, is that attending to images inclines us to linger and probe more deeply, while attending to signs inclines us to move on rapidly and take in many things.”",
+      "reason": "Translate the complete note. Apply the attribution label in display metadata and preserve the checked historical forms and quotation distinctions."
+    },
+    {
+      "source_id": "note:egyptian-vowels",
+      "German": "Demetrius de elocutione. c. 71. Dass auch die Zahl der Buchstaben symbolisch beachtet wurde, sieht man aus dem Ἑπταγράμματος Σάραπις bei Hesychius. (h. v.)",
+      "candidates": {
+        "sol": "Author's note. Demetrius, *de elocutione*, ch. 71. That the number of letters was also regarded symbolically can be seen from *Ἑπταγράμματος Σάραπις* in Hesychius (under this entry).",
+        "muse": "Demetrius, *de elocutione*, c. 71. That the number of the letters, too, was symbolically heeded is seen from the Ἑπταγράμματος Σάραπις in Hesychius. (h. v.)",
+        "claude": "Demetrius, *De elocutione*, ch. 71. That the number of the letters, too, was symbolically regarded can be seen from the Ἑπταγράμματος Σάραπις in Hesychius (h. v.)."
+      },
+      "English": "Demetrius, *De elocutione*, ch. 71. That the number of letters was also treated symbolically can be seen from *Ἑπταγράμματος Σάραπις* in Hesychius (under this expression).",
+      "reason": "Translate the complete note. Apply the attribution label in display metadata and preserve the checked historical forms and quotation distinctions."
+    },
+    {
+      "source_id": "p102:s2",
+      "German": "Die Sprache dagegen ist ein rein geistiges Streben, gehend (24.) vom Denken zum Denken, nur auf diesem Wege gezwungen Körperstoff annehmend, und nur so wenig, als möglich, nur den leichten, gleich verhallenden Ton, und von diesem nur den articulirten, den mit möglichster Abschneidung alles Geräusches zum bloss hörbaren Verhältniss zurückgeführten.",
+      "candidates": {
+        "sol": "Language, by contrast, is a purely mental striving that proceeds from thinking to thinking (24). Only on this passage is it compelled to take on corporeal material, and it takes on as little as possible, merely the light sound that fades as soon as it is heard, and of that only the articulated sound, reduced to a merely audible relation by cutting away as much noise as possible.",
+        "muse": "Language, by contrast, is a purely mental striving, going (24.) from thinking to thinking, only on this path compelled to take on corporeal material, and only as little as possible, only the light tone that dies away at once, and of this only the articulated tone, the tone reduced, with the greatest possible cutting-away of all noise, to a merely audible relation.",
+        "claude": "Language, by contrast, is a purely mental striving, going (24.) from thinking to thinking, taking on corporeal material only under compulsion on this path, and only as little as possible: only the light, immediately dying tone, and of this only the articulated tone, reduced, by the utmost possible cutting away of all noise, to the merely audible relation."
+      },
+      "English": "Language, by contrast, is a purely mental striving that proceeds from thinking to thinking (§24). Only on this passage is it compelled to take on corporeal material, and it takes on as little as possible, merely the light sound that fades as soon as it is heard, and of that only the articulated sound, reduced to a merely audible relation by cutting away as much noise as possible.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p102:s3",
+      "German": "Der symbolisirende Verstand und der Sinn und das Genie zur Sprache stehen daher in natürlichem Gegensatz mit einander.",
+      "candidates": {
+        "sol": "The understanding that symbolises thus stands in natural opposition to the sense and genius for language.",
+        "muse": "The symbolizing understanding and the sense and genius for language therefore stand in natural opposition to one another.",
+        "claude": "The symbolizing understanding and the sense and the genius for language therefore stand in natural opposition to one another."
+      },
+      "English": "The understanding that symbolizes thus stands in natural opposition to the sense and genius for language.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p102:s4",
+      "German": "Sie gewöhnen auch den Geist an eine ganz verschiedene Weile in der Folge der Vorstellungen, was in der Bildung der Köpfe bei Individuen und Nationen einer der hauptsächlichsten Punkte ist.",
+      "candidates": {
+        "sol": "They also accustom the mind to very different lengths of pause in the succession of presentations, a matter of the first importance in the education of minds, whether of individuals or of nations.",
+        "muse": "They also accustom the mind to a quite different tarrying in the succession of presentations, which is one of the most principal points in the formation of minds in individuals and nations.",
+        "claude": "They also accustom the mind to a quite different measure of lingering in the succession of presentations, which is one of the chief points in the formation of intellects in individuals and nations."
+      },
+      "English": "They also accustom the mind to very different lengths of pause in the succession of presentations. This is of first importance in the formation of minds, whether of individuals or of nations.",
+      "reason": "Weile is confirmed in print. The deleted passage at §101 contrasts lingering with moving on, supporting the temporal reading."
+    },
+    {
+      "source_id": "p102:s6",
+      "German": "Denn er folgt der Flüchtigkeit des Gedanken und strebt nach seiner Unendlichkeit.",
+      "candidates": {
+        "sol": "For it follows the fleeting movement of thought and strives towards thought's infinity.",
+        "muse": "For it follows the fugitivity of thought and strives after its infinity.",
+        "claude": "For it follows the fleetingness of thought and strives after its infinity."
+      },
+      "English": "For it follows the fleeting movement of thought and strives towards thought’s infinity.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p103:s8",
+      "German": "Dies unläugbare Symbolisiren der Sprache beweist, dass die glückliche Anlage dazu den Sprachsinn wohlthätig unterstützt, es wird aber nun auch vollständig deutlich, in welchem Verhältniss beide zu einander stehen.",
+      "candidates": {
+        "sol": "This undeniable symbolising activity of language shows that a natural gift for it benefits the sense of language. The relation between the two now also becomes completely clear.",
+        "muse": "This undeniable symbolizing of language proves that the fortunate disposition for it beneficially supports linguistic sense, but now it also becomes fully clear in what relation the two stand to one another.",
+        "claude": "This undeniable symbolizing on the part of language proves that a happy aptitude for it beneficially supports the linguistic sense; but it now also becomes completely clear in what relation the two stand to one another."
+      },
+      "English": "This undeniable symbolizing activity of language shows that a natural gift for it benefits the sense of language. The relation between the two now also becomes completely clear.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p104:s1",
+      "German": "Da hier von der in dem Wort liegenden sinnlichen Vorstellung und von seiner Selbstbedeutung die Rede ist, so entsteht die Frage, was sich eigentlich die Seele bei dem Wort sinnlich vorstellt? ob den Gegenstand im Ganzen? oder die in dem Wort daran aufgefassten Eigenschaften ? oder etwas dem durch das Wort erregten Gefühle entsprechendes Unbestimmtes ? oder bei Völkern, die schon lang ein Alphabet besitzen, die Schriftzüge ?",
+      "candidates": {
+        "sol": "Since we are concerned here with the sensory presentation contained in the word and with its self-meaning, the question arises of what the soul actually presents to itself in sensory terms when it encounters the word. Is it the object as a whole? The properties of the object apprehended in the word? Something indefinite corresponding to the feeling aroused by the word? Or, among peoples that have long had an alphabet, the written characters?",
+        "muse": "Since what is at issue here is the sensible presentation lying in the word and its self-meaning, the question arises: what, properly, does the soul sensibly present to itself with the word? the object as a whole? or the properties apprehended in it in the word? or something indeterminate corresponding to the feeling excited through the word? or, in peoples that have long possessed an alphabet, the written characters?",
+        "claude": "Since the sensuous presentation lying in the word and its self-meaning are here in question, the question arises what the soul actually presents to itself sensuously with the word: the object as a whole? or the properties apprehended in it in the word? or something indeterminate corresponding to the feeling aroused by the word? or, among peoples that have long possessed an alphabet, the written characters?"
+      },
+      "English": "We have been discussing the sensory presentation in the word and its motivating meaning. What, then, does the soul actually present to itself in sensory terms when it encounters a word? The object as a whole? The properties of the object apprehended in the word? Something indefinite corresponding to the feeling the word arouses? Or, among peoples who have long had an alphabet, the written characters?",
+      "reason": "Retain all four possibilities and the conditional question about literacy."
+    },
+    {
+      "source_id": "p104:s4",
+      "German": "Was dagegen, nicht bloss als gewiss, sondern auch als entscheidend für das Erkennen der wahren Natur der Sprache festgehalten werden muss, ist dass das Wort den Gegenstand nie anders in die Vorstellung bringt, und diese nie länger bei ihm verweilen lässt, als es die jedesmalige Gedankenverknüpfung erfordert, der es ihn unterordnet, und in die es ihn, als ein Glied, einflicht.",
+      "candidates": {
+        "sol": "One point must be held to be both certain and decisive for recognising the true nature of language. The word brings the object into presentation only in the way required by the particular connection of thoughts to which it subordinates the object and into which it weaves it as a component. The word allows the presentation to dwell on the object only as long as that connection requires.",
+        "muse": "What, by contrast, must be held fast not only as certain but also as decisive for recognizing the true nature of language is that the word never brings the object into presentation otherwise, and never lets the latter tarry with it longer, than the connexion of thoughts of the moment requires — the connexion to which it subordinates it and into which it interweaves it as a member.",
+        "claude": "What, on the other hand, must be held fast not merely as certain but also as decisive for recognizing the true nature of language is that the word never brings the object into presentation otherwise, and never lets presentation dwell on it longer, than is required by the connection of thought of the moment, to which it subordinates the object and into which it weaves it as a link."
+      },
+      "English": "One point must be held to be both certain and decisive for recognizing the true nature of language. The word brings the object into presentation only in the way required by the particular connection of thoughts to which it subordinates the object and into which it weaves it as a component. The word allows the presentation to dwell on the object only as long as that connection requires.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p104:s5",
+      "German": "Dies liegt in der Natur des Worts, das ja nur darum an die Stelle der wirklichen Gegenstände Töne setzt, um dieselben durch diese Vermittlung in Gedanken zu verwandeln; es liegt ferner darin, dass die durch mehrere Worte ausgedrückte Gedankenreihe, genau genommen,",
+      "candidates": {
+        "sol": "This lies in the nature of the word, which substitutes sounds for actual objects only to turn them into thoughts through that mediation. It lies further in the fact that the sequence of thoughts expressed by several words is, strictly speaking,",
+        "muse": "This lies in the nature of the word, which indeed puts tones in the place of real objects only in order, through this mediation, to transform the latter into thoughts; it lies further in the fact that the series of thoughts expressed through several words is, strictly taken,",
+        "claude": "This lies in the nature of the word, which after all puts tones in the place of actual objects only in order to transform these, by this mediation, into thoughts; it lies further in the fact that the series of thoughts expressed by several words is, strictly taken,"
+      },
+      "English": "This follows from the nature of the word, which substitutes sounds for actual objects precisely to transform them into thoughts through that mediation. It follows also from the fact that the succession of thoughts expressed through several words is, strictly speaking,",
+      "reason": "Preserve the link across two stable IDs after correcting the scan punctuation."
+    },
+    {
+      "source_id": "p104:s6",
+      "German": "Eins, und die Rede ein Ganzes ist, wo die Einschnitte immer zugleich den Zweck haben, den Bau, als Ganzes, vorzugsweise sichtbar zu machen.",
+      "candidates": {
+        "sol": "one, and that discourse is a whole whose divisions always serve at the same time to make the structure as a whole especially apparent.",
+        "muse": "one, and speech is a whole, in which the incisions always at the same time have the purpose of making the structure, as a whole, pre-eminently visible.",
+        "claude": "one, and discourse a whole, in which the breaks always at the same time have the purpose of making the structure, as a whole, pre-eminently visible."
+      },
+      "English": "a unity, and that discourse is a whole whose divisions serve above all to make its structure as a whole apparent.",
+      "reason": "The divisions make the encompassing unity visible. This continues the former rendering block."
+    },
+    {
+      "source_id": "p104:s8",
+      "German": "Dies wird nun zwar grossentheils bewirkt durch die angemessene Verbindung mit andren bestimmenden Worten und durch die ganze der Seele des Hörenden gegebene Richtung.",
+      "candidates": {
+        "sol": "This is indeed achieved largely by combining the word appropriately with other words that determine it and by the overall direction given to the hearer's soul.",
+        "muse": "This is indeed effected for the most part through the appropriate connexion with other determining words and through the whole direction given to the hearer's soul.",
+        "claude": "This is indeed brought about in large part by the appropriate connection with other determining words and by the whole orientation given to the soul of the hearer."
+      },
+      "English": "This is indeed achieved largely by combining the word appropriately with other words that determine it and by the overall direction given to the hearer’s soul.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p104:s12",
+      "German": "Denn dasselbe Wort ist offenbar von verschiedenen in einem dichterischen, und in einem wissenschaftlichen Vortrage begleitet.",
+      "candidates": {
+        "sol": "For the same word is plainly accompanied by different words in poetic and in scientific discourse.",
+        "muse": "For the same word is manifestly accompanied by different ones in a poetic delivery and in a scientific one.",
+        "claude": "For the same word is evidently accompanied by different presentations in a poetic and in a scientific exposition."
+      },
+      "English": "What accompanies the same word in a poetic exposition plainly differs from what accompanies it in a scientific one.",
+      "reason": "Leave the elliptical companion open between the modes of presentation and the dispositions described nearby."
+    },
+    {
+      "source_id": "p105:s1",
+      "German": "Das begleitende Gefühl (95.) wirkt auf die Wörter entweder als einzelne Empfindung des Gemüths, oder als Gesammtstimmung der verbundenen intellectuellen und Gemüthskräfte, wo jene zwar herrschen, aber die Farbe dieser annehmen.",
+      "candidates": {
+        "sol": "The accompanying feeling (95) acts on words either as a particular feeling of the heart or as an overall attunement of the intellectual and affective powers working together, in which the former predominate but take on the colouring of the latter.",
+        "muse": "The accompanying feeling (95.) acts on words either as an individual sensation of the mind [*Gemüth*], or as a total attunement of the combined intellectual powers and powers of the mind [*Gemüthskräfte*], in which the former do indeed rule, but take on the colour of the latter.",
+        "claude": "The accompanying feeling (95.) acts on words either as a single sentiment of the heart, or as the collective mood of the combined intellectual powers and powers of the heart, where the former indeed rule but take on the colour of the latter."
+      },
+      "English": "The accompanying feeling (§95) acts on words either as a particular emotion of the inner life or as an overall disposition of the intellectual and affective powers working together. In the latter case the intellectual powers predominate and take on the colouring of the affective powers.",
+      "reason": "Retain particular affect vs combined orientation; compare the deliberately broad stipulation in §125."
+    },
+    {
+      "source_id": "p105:s2",
+      "German": "Aus jenem entstehen die liebkosenden, ehrenden, feierlichen, scheltenden, verächtlichen, spöttischen, scherzhaften, aus diesem die dichterischen, philosophischen, ermahnend rührenden Ausdrücke u. s. f. Es wird eigentlich kein Wort ohne eine dieser, wenn gleich im Einzelnen unbemerkbaren Nuancen der Empfindungen ausgesprochen, da die dadurch angeklungenen Saiten immer gespannt im Gemüthe da liegen.",
+      "candidates": {
+        "sol": "From the former arise endearing, honorific, solemn, scolding, contemptuous, mocking and jocular expressions. From the latter arise poetic and philosophical expressions, expressions that move by exhortation, and so on. Strictly speaking, no word is uttered without one of these nuances of feeling, though it may be imperceptible in a particular case, since the strings that such nuances set resonating are always stretched taut in the heart.",
+        "muse": "From the former arise the caressing, honouring, solemn, scolding, contemptuous, mocking, joking expressions, from the latter the poetic, philosophical, exhortingly moving expressions, and so forth. Properly no word is uttered without one of these nuances of sensation, even if imperceptible in the individual case, since the strings struck thereby always lie there tensed in the mind [*Gemüth*].",
+        "claude": "From the former arise the caressing, honorific, solemn, scolding, contemptuous, mocking and jocular expressions; from the latter the poetic, the philosophical, the admonitory and moving, etc. Properly, no word is uttered without one of these nuances of sentiment, even though they are unnoticeable in the individual case, since the strings thereby set sounding always lie taut in the heart."
+      },
+      "English": "From the first arise endearing, honorific, solemn, scolding, contemptuous, mocking and jocular expressions. From the second arise poetic and philosophical expressions, expressions that move us by exhortation, and so on. Strictly speaking, we never utter a word without some such nuance of feeling, even if it passes unnoticed in a particular case, because the strings it sets resonating are always taut in the inner life.",
+      "reason": "Choose an affective referent for Gemüth rather than collapsing it into Seele or Geist. Preserve the instrument metaphor."
+    },
+    {
+      "source_id": "p105:s6",
+      "German": "Die Sprache vergeistigt immer den Menschen, führt ihn erst zu reiner Intellectualitaet hinauf, dann aber, wenn kein Gegengewicht eintritt, zu trockner, sophistischer und spielender über den Gipfelpunkt hinüber; allein sie thut dies nur allmählich.",
+      "candidates": {
+        "sol": "Language continually spiritualises human beings, leading them first upwards to pure intellectuality and then, if no counterweight intervenes, beyond the summit to a dry, sophistical and playful intellectuality. It does this only gradually.",
+        "muse": "Language always spiritualizes man, leads him up first to pure intellectuality, but then, if no counterweight intervenes, over beyond the summit-point to a dry, sophistical and playful one; but it does this only gradually.",
+        "claude": "Language always spiritualizes human beings, leads them first up to pure intellectuality, but then, if no counterweight comes in, beyond the summit to an intellectuality that is dry, sophistical and trifling; yet it does this only gradually."
+      },
+      "English": "Language continually draws human beings towards the life of the mind. It first leads them up to pure intellectuality. Then, if no counterweight intervenes, it leads them beyond that summit to a dry, sophistical and playful intellectuality. It does so only gradually.",
+      "reason": "Vergeistigt continues transformation towards the mental in §89 and the explicit ascent here."
+    },
+    {
+      "source_id": "p105:s10",
+      "German": "Dies entspringt nur mittelbar aus dem dichterischen Gefühl der Nation, unmittelbar aber aus dem, einen viel höher gesteigerten und feiner geläuterten Sprachsinn voraussetzenden für die Prosa, als eigene Gattung der Rede.",
+      "candidates": {
+        "sol": "This arises only indirectly from the nation's feeling for poetry. It arises directly from its feeling for prose as a distinct kind of discourse, which presupposes a sense of language developed to a much higher degree and more finely refined.",
+        "muse": "This springs only mediately from the poetic feeling of the nation, but immediately from the feeling for prose as a kind of speech of its own, a feeling presupposing a much more highly raised and more finely purified linguistic sense.",
+        "claude": "This springs only mediately from the nation's feeling for poetry, but immediately from its feeling for prose as a distinct genre of discourse, a feeling which presupposes a far more highly heightened and more finely refined linguistic sense."
+      },
+      "English": "This arises only indirectly from the nation’s feeling for poetry. It arises directly from its feeling for prose as a distinct kind of discourse, which presupposes a sense of language developed to a much higher degree and refined with greater care.",
+      "reason": "Keep the distinction between direct and indirect grounds without doubling the root in English."
+    },
+    {
+      "source_id": "p105:s12",
+      "German": "Bei den philosophischen Wörtern muss man die nur logischen, durch den Verstand construirten, die bloss zu den technisch wissenschaftlichen gehören, unterscheiden von den aus tieferem Nachdenken oder höherer Offenbarung, durch die synthetisirende Vernunft entstandenen.",
+      "candidates": {
+        "sol": "Among philosophical words we must distinguish those that are merely logical, constructed by the understanding and belonging solely to technical scientific vocabulary, from those that arise out of deeper reflection or higher revelation through the synthesising power of reason.",
+        "muse": "With philosophical words one must distinguish the merely logical ones, constructed by the understanding, which belong only to the technical-scientific, from those that have arisen, through synthesizing reason, from deeper reflection or higher revelation.",
+        "claude": "Among philosophical words one must distinguish the merely logical ones, constructed by the understanding, which belong simply to the technical and scientific ones, from those that have arisen from deeper reflection or higher revelation, through synthesizing reason."
+      },
+      "English": "Among philosophical words we must distinguish those that are merely logical, constructed by the understanding and belonging solely to technical scientific vocabulary, from those that arise out of deeper reflection or higher revelation through the synthesizing power of reason.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p113:s6",
+      "German": "Es giebt jedoch ein Analogon, durch welches sich wenigstens einigermassen zu dem beabsichteten Zwecke gelangen lässt.",
+      "candidates": {
+        "sol": "There is, however, an analogue by which we can at least come somewhat closer to the intended aim.",
+        "muse": "There is, however, an analogue by means of which one can at least to some extent attain the intended purpose.",
+        "claude": "There is, however, an analogue by which the intended purpose can be attained at least to some extent."
+      },
+      "English": "We can, however, follow a comparable procedure that brings us at least somewhat closer to the aim.",
+      "reason": "Render Analogon through the practical procedure described next, rather than suggesting a category of concepts."
+    },
+    {
+      "source_id": "p114:s1",
+      "German": "Nach Kategorien geordnete Wörterbücher, wie Pollux und Amara's Cosha sind hierzu nützliche Hülfsmittel, und es war ein zweckmässiger Einfall Havestadts die Wörter der Sprache Chilis auch auf diese Weise zu ordnen.",
+      "candidates": {
+        "sol": "Dictionaries arranged by category, such as that of Pollux and Amara’s *Cosha*, are useful aids here, and it was a good idea of Havestadt’s to arrange the words of the language of Chile in the same way.",
+        "muse": "Dictionaries ordered by categories, such as Pollux and Amara's *Cosha*, are useful aids for this, and it was a purposeful idea of Havestadt's also to order the words of the language of Chile in this way.",
+        "claude": "Dictionaries arranged by categories, such as Pollux and Amara's Cosha, are useful aids to this end, and it was an apt idea of Havestadt's to arrange the words of the language of Chili in this way too."
+      },
+      "English": "Dictionaries arranged by category, such as Pollux’s and Amara’s *Cosha*, are useful aids here. Havestadt had the practical idea of arranging the words of the language of Chile in the same way.",
+      "reason": "Maintain the bibliographic reference, and keep the observation the author actually makes."
+    },
+    {
+      "source_id": "note:havestadt-title",
+      "German": "Der Titel seines Werkes ist oben S. 18 Anm. genauer angegeben.",
+      "candidates": {
+        "sol": "[Editor’s note] The title of his work is given more precisely in the note on p. 18 above.",
+        "muse": "Editor's note: The title of his work is given more exactly above, p. 18, note.",
+        "claude": "[Editor's footnote] The title of his work is given more exactly above, p. 18, note."
+      },
+      "English": "The title of his work is given more precisely in the note on p. 18 above.",
+      "reason": "Translate the complete note. Apply the attribution label in display metadata and preserve the checked historical forms and quotation distinctions."
+    },
+    {
+      "source_id": "p117:s2",
+      "German": "Denn das Denken bedarf eigener, um die Begriffe zu verbinden, zu trennen, zu vergleichen und nach den ihm eigenthümlichen Operationen zu behandeln.",
+      "candidates": {
+        "sol": "For thinking needs words of its own to connect, separate and compare concepts, and to handle them according to its characteristic operations.",
+        "muse": "For thinking needs words of its own in order to combine, separate and compare concepts and to treat them according to the operations peculiar to it.",
+        "claude": "For thinking needs words of its own in order to connect, to separate and to compare the concepts, and to treat them according to the operations peculiar to it."
+      },
+      "English": "For thinking needs words of its own to connect, separate and compare concepts, and to handle them according to its characteriztic operations.",
+      "reason": "Regularize passage references, Oxford spelling and apostrophes."
+    },
+    {
+      "source_id": "p118:s8",
+      "German": "Denn in allen giebt es Wörter, die ursprünglich und ihrem Begriff nach, also lexicalisch, auch ohne alle grammatische Abzeichen, Substantiva, Adjectiva und Adverbia, oder Verba sind, und die hiernach Einer Gattung angehörenden bildet nachher die Grammatik in die beiden andren Gattungen um.",
+      "candidates": {
+        "sol": "For in all languages there are words that are originally and by virtue of their concepts, hence lexically, nouns, adjectives and adverbs, or verbs, even without any grammatical markers. Grammar can then recast words belonging on this basis to one of the three classes into the other two.",
+        "muse": "For in all of them there are words which originally and according to their concept, thus lexically, even without any grammatical marks, are substantives, adjectives and adverbs, or verbs, and grammar afterwards transforms those belonging in this way to one kind into the two other kinds.",
+        "claude": "For in all of them there are words which originally and by their concept — that is, lexically — are substantives, adjectives and adverbs, or verbs, even without any grammatical marks; and those which accordingly belong to one genus grammar afterwards transforms into the two other genera."
+      },
+      "English": "For in every language some words are, by origin and by virtue of their concepts, already nouns, adjectives and adverbs, or verbs. They belong to these classes lexically, even without grammatical marks. Grammar can then recast words that belong to one of these three classes into the other two.",
+      "reason": "The source list treats adjectives and adverbs together, with the two other classes and the threefold substantive, quality and action discussion as internal evidence."
+    },
+    {
+      "source_id": "p122:s4",
+      "German": "Von dieser Art sind die Patronymica, Gentilitia, Abstracta, die Eigenthumswörter (eine fast durch alle Amerikanischen Sprachen gehende Gattung), die Causal- Volitiv-Verba u. s. f. Da man sich aus praktisch sehr zu billigenden Gründen einmal gewöhnt hat,",
+      "candidates": {
+        "sol": "Examples include patronymics, names of clans or peoples, abstract nouns, words of possession (a class found in almost all American languages), causative and volitive verbs, and so forth. Since, for excellent practical reasons, it has become customary",
+        "muse": "Of this kind are the *Patronymica*, *Gentilitia*, *Abstracta*, the property words (a kind running through almost all American languages), the causal-volitive verbs, etc. Since one has once accustomed oneself, for reasons in practical respects much to be approved,",
+        "claude": "Of this kind are the patronymics, gentile nouns, abstract nouns, the ownership-words (a genus running through almost all the American languages), the causal and volitive verbs, and so forth. Since, for reasons very much to be approved in practice, one has by now become accustomed"
+      },
+      "English": "Examples include patronymics, names derived from those of peoples, abstract nouns, words of possession (a class found through almost all American languages), causative and volitive verbs, and so forth. For good practical reasons, it has become customary",
+      "reason": "Keep the label words of possession, linked to the later possession clause. The printed German continues into the next rendering block."
+    },
+    {
+      "source_id": "p122:s5",
+      "German": "Alles, was sich auf Regeln bringen lässt, in die Grammatik aufzunehmen, und dem Wörterbuch nur das alphabetische Nachweisen des Einzelnen zu überlassen, so findet man diese Bezeichnungsmethoden jetzt gewöhnlich in den Grammatiken, aber sie gehören offenbar zu der Bildung des Wortvorraths, nicht zu der Verbindung der Rede.",
+      "candidates": {
+        "sol": "to include in the grammar everything that can be reduced to rules and leave the dictionary only to list individual items alphabetically, these methods of designation are now usually found in grammars. They plainly belong, however, to the formation of the vocabulary rather than to the combining of words in speech.",
+        "muse": "to take into grammar everything that can be brought under rules, and to leave to the dictionary only the alphabetical listing of the individual item, one now usually finds these methods of designation in grammars, but they evidently belong to the formation of the stock of words, not to the combination of speech.",
+        "claude": "to admit into the grammar everything that can be reduced to rules, and to leave to the dictionary only the alphabetical registering of the particular item, these methods of designation are now usually found in the grammars; but they evidently belong to the formation of the stock of words, not to the connection of discourse."
+      },
+      "English": "to include in the grammar whatever can be brought under rules, and to leave the dictionary to list individual cases alphabetically. That is why these methods of designation are now generally found in grammars. They clearly belong to the formation of vocabulary rather than to the combining of words in discourse.",
+      "reason": "Retain the practical motivation and the placement in vocabulary rather than connected discourse."
+    },
+    {
+      "source_id": "p124:s4",
+      "German": "Die leichtere oder trägere Erregbarkeit des Gefühls, die hellere oder dunklere Farbe der Phantasie, die mehr prosaische oder poetische Richtung werden hier als Ursachen offenbar, wie man sie bei der objectiven Bildung der Wörter als Erfolge erkannt hat.",
+      "candidates": {
+        "sol": "The greater or lesser readiness with which feeling is aroused, the lighter or darker colouring of the imagination, and the more prosaic or more poetic tendency emerge here as causes, just as they were recognized as effects in the objective formation of words.",
+        "muse": "The easier or more sluggish excitability of feeling, the brighter or darker colour of the imagination, the more prosaic or poetic direction become manifest here as causes, as one recognised them in the objective formation of words as results.",
+        "claude": "The readier or more sluggish excitability of feeling, the brighter or darker colour of fancy, the more prosaic or more poetic direction become manifest here as causes, just as, in the objective formation of words, one recognized them as results."
+      },
+      "English": "The greater or lesser readiness with which feeling is aroused, the lighter or darker colouring of fancy and the more prosaic or more poetic tendency emerge here as causes, just as they were recognized as effects in the objective formation of words.",
+      "reason": "Phantasie here concerns colouring rather than the mediating faculty named Einbildungskraft in §89."
+    },
+    {
+      "source_id": "p125:s9",
+      "German": "Es wird aber zugleich daraus entstehen, dass diese Ausdrücke auch selbst in der Bezeichnung ihre Gegenstände mehr von der oberflächlichen Seite nehmen.",
+      "candidates": {
+        "sol": "At the same time, this will lead those expressions themselves to apprehend their objects in designation from a more superficial aspect.",
+        "muse": "But at the same time it will arise from this that these expressions, in their designation too, themselves take their objects more from the superficial side.",
+        "claude": "But at the same time it will result from this that these expressions themselves also, in the designation, take their objects more from the superficial side."
+      },
+      "English": "At the same time, even in designating their objects, these expressions will take them from a more superficial side.",
+      "reason": "Retain the claim that the orientation leaves a mark on objective designation itself."
+    },
+    {
+      "source_id": "p126:s4",
+      "German": "So schiebt sich besonders unkörperlichen Ausdrücken: Seele, Geist, Herz, Gemüth u. s. f. nach und nach durch die blosse Auffassung ein sehr verschiedener Sinn unter.",
+      "candidates": {
+        "sol": "In this way, expressions for incorporeal things in particular, such as *Seele* ‘soul’, *Geist* ‘spirit’, *Herz* ‘heart’ and *Gemüth* ‘mind in its affective aspect’, gradually acquire a very different sense simply through the way they are apprehended.",
+        "muse": "Thus especially to incorporeal expressions: *Seele* 'soul', *Geist* 'spirit, mind', *Herz* 'heart', *Gemüth* 'inner disposition, mind', etc., a very different sense gradually insinuates itself through mere apprehension.",
+        "claude": "Thus, through mere apprehension, a very different sense is gradually slipped beneath incorporeal expressions in particular: *Seele* ['soul'], *Geist* ['mind, spirit'], *Herz* ['heart'], *Gemüth* ['mind, temper'], and so forth."
+      },
+      "English": "This is how expressions for incorporeal things in particular, such as *Seele* ‘soul’, *Geist* ‘mind’ or ‘spirit’, *Herz* ‘heart’ and *Gemüth* ‘inner life’, gradually acquire very different senses simply through the way they are apprehended.",
+      "reason": "The glosses help distinguish the four forms while allowing overlap in the German field and variation across earlier occurrences."
+    },
+    {
+      "source_id": "p126:s9",
+      "German": "Ihr Studium gehört hauptsächlich in die Geschichte der Geistesbildung, die Sprachkunde lässt sie oft ganz ausserhalb ihres Kreises liegen, und thut nicht Unrecht hieran, wenn sie sich bloss auf den materiellen, gewissermassen roheren Theil der Sprache beschränken will, muss ihn aber nothwendig in sich fassen, wenn diese, wie es hier der Zweck ist, in ihrem vollständigen Verhältniss zum Menschen dargestellt werden soll.",
+      "candidates": {
+        "sol": "The study of these changes belongs chiefly to the history of intellectual cultivation. The study of language often leaves them entirely outside its scope and is justified in doing so if it means to confine itself to the material, in a sense coarser, part of language. But it must include them if language is to be presented in the full extent of its relation to the human being, as is the aim here.",
+        "muse": "Their study belongs chiefly to the history of mental formation; the study of language often leaves them wholly outside its circle, and does not do wrong in this if it wishes to restrict itself merely to the material, in a certain measure cruder, part of language, but must necessarily include it within itself if language, as is the purpose here, is to be represented in its complete relation to man.",
+        "claude": "Their study belongs chiefly to the history of the cultivation of the mind; the study of language often leaves them lying wholly outside its circle, and does no wrong in this if it wishes to confine itself merely to the material, as it were cruder, part of language, but must necessarily include it within itself if language, as is the aim here, is to be represented in its complete relation to the human being."
+      },
+      "English": "The study of these changes belongs chiefly to the history of intellectual cultivation. Linguistic study often leaves them outside its scope and is justified in doing so if it confines itself to the material, in a sense coarser, part of language. If, as here, the aim is to show language in the full extent of its relation to human beings, the study must include these changes.",
+      "reason": "The masculine pronoun is syntactically awkward. The closing scope governs inclusion of the phenomena just described."
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "section": "Vocabulary",
+  "decisions": [
+    {
+      "source_id": "p72:s2",
+      "question": "Accent joins sounds",
+      "resolution": "The local noun is implicit. §68 explains how accent brings several articulated sounds together into the unity of a word."
+    },
+    {
+      "source_id": "p77:s6",
+      "question": "Historical and physiological explanation",
+      "resolution": "§47 explains why similarity of sound cannot decide the distinction. Keep its wording broad enough to leave open the precise historical process."
+    },
+    {
+      "source_id": "p85:s4",
+      "question": "Object and presentation",
+      "resolution": "Presentation names what becomes present in thought, distinct from the object as object. The object is what a person apprehends."
+    },
+    {
+      "source_id": "p88:s5",
+      "question": "A language-specific view",
+      "resolution": "The view comes from the ways a language makes concepts available. §86 preserves differences among individuals who share a language."
+    },
+    {
+      "source_id": "p90:s1",
+      "question": "Matter and form of the word",
+      "resolution": "This label belongs to the threefold way of bringing objects before the soul. The contrasting form concerns cooperation of faculties. Form denotes the cooperation of faculties in the same three respects. The definition is local to the word."
+    },
+    {
+      "source_id": "p91:s8",
+      "question": "Direction of derivation",
+      "resolution": "The order is confirmed on p. 421. The converse in §93 makes a reversal plausible. Preserve the print and signal the difference at both anchors in the records."
+    },
+    {
+      "source_id": "p99:s1",
+      "question": "A word’s way of designating a concept",
+      "resolution": "This is the word-specific designation through a selected conceptual aspect. §99 asks separately whether speakers still feel the motivation and whether an investigator can recover it."
+    },
+    {
+      "source_id": "p102:s4",
+      "question": "Dwelling in a sequence of presentations",
+      "resolution": "The print reads Weile. §102:s5 and the deleted passage under §101 contrast dwelling with movement. §102:s7 separately concerns breaks and pauses."
+    },
+    {
+      "source_id": "p112:s6",
+      "question": "The bearer of the resonance",
+      "resolution": "Keep the straightforward attachment of the genitive to Geist. A preposed genitive with Gehalt gives another plausible reading, in which the substance held in the language resounds to a human mind."
+    },
+    {
+      "source_id": "p118:s9",
+      "question": "First element in a derived verb",
+      "resolution": "Verba supplies the closest stated class. The parallel with the original stem also permits original stem as the first constituent."
+    },
+    {
+      "source_id": "p122:s4",
+      "question": "Historical classifier for possession",
+      "resolution": "The label is glossed through the factual relation of possession mentioned later. No example in §122 establishes its grammatical realization."
+    },
+    {
+      "source_id": "p125:s4",
+      "question": "Scope of feeling",
+      "resolution": "This is the author’s broader stipulated sense, inclusive of an intellectual orientation operating without clear consciousness."
+    },
+    {
+      "source_id": "p126:s9",
+      "question": "Uncertain antecedent in the closing line",
+      "resolution": "The printed pronoun is masculine singular and does not agree with the earlier pronoun for the changes. The argument from the material part to a fuller study supports including the changes."
+    }
+  ],
+  "term_associations": [
+    [
+      "p72:s4",
+      "Verstandeshandlung",
+      "lex:verstand:s01"
+    ],
+    [
+      "p72:s5",
+      "Stoff",
+      "lex:stoff:s04"
+    ],
+    [
+      "p74:s5",
+      "Stammworts",
+      "lex:stammwort:s01"
+    ],
+    [
+      "p84:s1",
+      "Wortlaute",
+      "lex:wortlaut:s01"
+    ],
+    [
+      "p85:s1",
+      "Gegenstand",
+      "lex:gegenstand:s02"
+    ],
+    [
+      "p85:s4",
+      "Diese Vorstellung",
+      "lex:vorstellung:s03"
+    ],
+    [
+      "p88:s5",
+      "Weltansicht",
+      "lex:weltansicht:s01"
+    ],
+    [
+      "p89:s5",
+      "als Stoff",
+      "lex:stoff:s05"
+    ],
+    [
+      "p89:s5",
+      "Einbildungskraft",
+      "lex:einbildungskraft:s02"
+    ],
+    [
+      "p90:s1",
+      "seine Materie",
+      "lex:materie:s02"
+    ],
+    [
+      "p90:s1",
+      "seine Form",
+      "lex:form:s03"
+    ],
+    [
+      "p95:s1",
+      "begleitendem Gefühle",
+      "lex:gefuehl:s03"
+    ],
+    [
+      "p99:s1",
+      "Selbstbedeutung",
+      "lex:selbstbedeutung:s01"
+    ],
+    [
+      "p101:s3",
+      "eines Zeichens",
+      "lex:zeichen:s03"
+    ],
+    [
+      "p101:s11",
+      "eine vollständige, für sich bestehende Naturform",
+      "lex:symbol:s01"
+    ],
+    [
+      "p102:s4",
+      "Weile",
+      "lex:weile:s01"
+    ],
+    [
+      "p105:s1",
+      "des Gemüths",
+      "lex:gemueth:s02"
+    ],
+    [
+      "p121:s1",
+      "Wurzelwörtern",
+      "lex:wurzelwort:s01"
+    ],
+    [
+      "p122:s4",
+      "Eigenthumswörter",
+      "lex:eigenthumswort:s01"
+    ],
+    [
+      "p125:s4",
+      "Ich nenne es aber Gefühl",
+      "lex:gefuehl:s04"
+    ]
+  ],
+  "span_correspondences": [
+    [
+      "p72:s2",
+      "bei verbundenen",
+      "Where sounds are combined",
+      "Accent joins sounds"
+    ],
+    [
+      "p77:s6",
+      "historischen oder physiologischen Unterschied",
+      "historical or physiological distinction",
+      "Historical and physiological explanation"
+    ],
+    [
+      "p85:s4",
+      "Diese Vorstellung",
+      "This presentation",
+      "Object and presentation"
+    ],
+    [
+      "p88:s5",
+      "eine eigne Weltansicht",
+      "a view of the world of its own",
+      "A language-specific view"
+    ],
+    [
+      "p90:s1",
+      "seine Materie",
+      "its matter",
+      "Matter of the word"
+    ],
+    [
+      "p90:s1",
+      "seine Form",
+      "its form",
+      "Form of the word"
+    ],
+    [
+      "p91:s8",
+      "zu Adjectiven gewordene Substantiva",
+      "nouns that have become adjectives",
+      "Direction of derivation"
+    ],
+    [
+      "p99:s1",
+      "Selbstbedeutung",
+      "motivating meaning",
+      "A word’s way of designating a concept"
+    ],
+    [
+      "p102:s4",
+      "Weile",
+      "lingering",
+      "Dwelling in a sequence of presentations"
+    ],
+    [
+      "p112:s6",
+      "dem Geiste einer Sprache",
+      "the spirit of a language",
+      "The bearer of the resonance"
+    ],
+    [
+      "p118:s9",
+      "eines ursprünglichen",
+      "an original verb",
+      "First element in a derived verb"
+    ],
+    [
+      "p122:s4",
+      "Eigenthumswörter",
+      "words of possession",
+      "Historical classifier for possession"
+    ],
+    [
+      "p125:s4",
+      "Ich nenne es aber Gefühl",
+      "I call it feeling",
+      "Scope of feeling"
+    ],
+    [
+      "p126:s9",
+      "muss ihn aber nothwendig in sich fassen",
+      "the study must include these changes",
+      "Uncertain antecedent in the closing line"
+    ]
+  ]
+}

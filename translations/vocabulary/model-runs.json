@@ -1,0 +1,233 @@
+{
+  "section": "Vocabulary",
+  "candidate_runs": 9,
+  "audit_runs": 6,
+  "runs": [
+    {
+      "stage": "audit",
+      "block": 1,
+      "route": "astra",
+      "models": [
+        "gpt-6-astra"
+      ],
+      "prompt_sha256": "201a05b624119ceddd564ead3719ed974cbf89ba935daedbab329675e593d1a2",
+      "receipt_sha256": "eba466b3fadf211397d99a86d44ac167bb87d3b6916cc93b0d0ab1edc9ba6c09",
+      "response_sha256": "05eadd4c723a31d1f9e0e962cfa44e6ed8cb4875c2997c4a1c55b78f16443e64",
+      "started_at": "2026-11-18T22:21:53.989736+00:00",
+      "elapsed_seconds": 271.11,
+      "stdout_bytes": 11918,
+      "exit_code": 0
+    },
+    {
+      "stage": "audit",
+      "block": 1,
+      "route": "muse",
+      "models": [
+        "muse-wonder-full-1.0"
+      ],
+      "prompt_sha256": "201a05b624119ceddd564ead3719ed974cbf89ba935daedbab329675e593d1a2",
+      "receipt_sha256": "fdc899ead28e615392fd32a7be16f5c5cc7a6b3bcfcd2a4d74f0574436793c2d",
+      "response_sha256": "0754e0662cfdd49a93f2defc49bc7a258ddf41dd9959cdee55646507c532b0e2",
+      "started_at": "2026-11-18T22:21:53.977311+00:00",
+      "elapsed_seconds": 188.95,
+      "stdout_bytes": 1551997,
+      "exit_code": 0
+    },
+    {
+      "stage": "audit",
+      "block": 2,
+      "route": "astra",
+      "models": [
+        "gpt-6-astra"
+      ],
+      "prompt_sha256": "29deaa191480768aa4ccf55f0a1df66f542ebeb4e1e32010fe0db917b569138c",
+      "receipt_sha256": "01d1422643d65941bbc54efc1ef4ff49fbac8021bbb0ac2086d6c19cdd75816a",
+      "response_sha256": "40ae15ccc54ec75d6a4415f82d0a5581630c7ea1796a043b883bf1b8d1964391",
+      "started_at": "2026-11-18T22:21:53.985794+00:00",
+      "elapsed_seconds": 291.61,
+      "stdout_bytes": 20736,
+      "exit_code": 0
+    },
+    {
+      "stage": "audit",
+      "block": 2,
+      "route": "muse",
+      "models": [
+        "muse-wonder-full-1.0"
+      ],
+      "prompt_sha256": "29deaa191480768aa4ccf55f0a1df66f542ebeb4e1e32010fe0db917b569138c",
+      "receipt_sha256": "ec8184ad76c3559f6130757dc9f3487040e980b1bcf8d17f1195b33cc62df0ef",
+      "response_sha256": "63309834530164306864cc6e61bb9fbaa58fc51f63a12c00c7447d6c4ec6710b",
+      "started_at": "2026-11-18T22:21:53.977843+00:00",
+      "elapsed_seconds": 222.91,
+      "stdout_bytes": 1617612,
+      "exit_code": 0
+    },
+    {
+      "stage": "audit",
+      "block": 3,
+      "route": "astra",
+      "models": [
+        "gpt-6-astra"
+      ],
+      "prompt_sha256": "0ad7037b69ef0f2b7209b15370b1edaadc83c9622afc90ca946b07a2e4342401",
+      "receipt_sha256": "ea8bd0834210bc6b97c5d0314c02e71f1dc634adcaa5f79dad2ab8e72a142751",
+      "response_sha256": "7546c3843befa6e6b1ad84cab8c42a0760670399f747c6ea277fb8ee8e815052",
+      "started_at": "2026-11-18T22:21:53.985551+00:00",
+      "elapsed_seconds": 160.22,
+      "stdout_bytes": 10673,
+      "exit_code": 0
+    },
+    {
+      "stage": "audit",
+      "block": 3,
+      "route": "muse",
+      "models": [
+        "muse-wonder-full-1.0"
+      ],
+      "prompt_sha256": "0ad7037b69ef0f2b7209b15370b1edaadc83c9622afc90ca946b07a2e4342401",
+      "receipt_sha256": "8a168e520e2614ac86368823d65d74552d16a2cc459b5d1a65ee4e15cc2c1f09",
+      "response_sha256": "4cda933269215ab6334dae6eedd1ee7c49fb2ef74a3586b0d6bee5c4e6c4f93c",
+      "started_at": "2026-11-18T22:21:53.980675+00:00",
+      "elapsed_seconds": 328.32,
+      "stdout_bytes": 1454671,
+      "exit_code": 0
+    },
+    {
+      "stage": "candidate",
+      "block": 1,
+      "route": "claude",
+      "models": [
+        "claude-fable-5-2"
+      ],
+      "prompt_sha256": "a7011f6b05f450e714b2a51f7195715808bd4191d9d2b4da795ba8705c67cd48",
+      "receipt_sha256": "772d6a677cf8e35adfb19f3479b6201966f50bd33d3d66860407a5c91a536bff",
+      "response_sha256": "227e75d0979622e941c2c5c6fd5b943f302099ab96080e11a66cd4d3769650e9",
+      "started_at": "2026-11-18T22:12:29.693500+00:00",
+      "elapsed_seconds": 274.21,
+      "stdout_bytes": 31288,
+      "exit_code": 0
+    },
+    {
+      "stage": "candidate",
+      "block": 1,
+      "route": "muse",
+      "models": [
+        "muse-wonder-full-1.0"
+      ],
+      "prompt_sha256": "a7011f6b05f450e714b2a51f7195715808bd4191d9d2b4da795ba8705c67cd48",
+      "receipt_sha256": "142fd9bbd8c86f0209f6e1aa9aac38ee918ca2498ae211ad70358b5511efa14c",
+      "response_sha256": "a932b7272918e188d104ad3090217962656fbaf8eff48ed324d21e3f76295229",
+      "started_at": "2026-11-18T22:12:29.705648+00:00",
+      "elapsed_seconds": 180.5,
+      "stdout_bytes": 1284504,
+      "exit_code": 0
+    },
+    {
+      "stage": "candidate",
+      "block": 1,
+      "route": "sol",
+      "models": [
+        "gpt-6.2-sol"
+      ],
+      "prompt_sha256": "a7011f6b05f450e714b2a51f7195715808bd4191d9d2b4da795ba8705c67cd48",
+      "receipt_sha256": "a44bb8aedfa46246a6df04315cc54a0617cf40dbfc835c4aa0490ba2f98667fb",
+      "response_sha256": "13309617a9c216161ecdea00c432e4637e501e0559ce110f82b92368f70332bc",
+      "started_at": "2026-11-18T22:12:29.704980+00:00",
+      "elapsed_seconds": 150.26,
+      "stdout_bytes": 26336,
+      "exit_code": 0
+    },
+    {
+      "stage": "candidate",
+      "block": 2,
+      "route": "claude",
+      "models": [
+        "claude-fable-5-2"
+      ],
+      "prompt_sha256": "46f9d3e15ec69c1167fad903ac39ce3ff7b86d7ba5a3e12a756b07a1d2ee11c1",
+      "receipt_sha256": "daca5c1bdfe54f9dbf85bf886f8fdbc4d61fa8bceb505c284fe4470c47281ec7",
+      "response_sha256": "c1e8b647745b3332c1339c747993b9cb5376507a3421384ebefe3b4ee50855bf",
+      "started_at": "2026-11-18T22:12:29.696115+00:00",
+      "elapsed_seconds": 407.27,
+      "stdout_bytes": 58585,
+      "exit_code": 0
+    },
+    {
+      "stage": "candidate",
+      "block": 2,
+      "route": "muse",
+      "models": [
+        "muse-wonder-full-1.0"
+      ],
+      "prompt_sha256": "46f9d3e15ec69c1167fad903ac39ce3ff7b86d7ba5a3e12a756b07a1d2ee11c1",
+      "receipt_sha256": "4215ab504e76d4e34ec49ac177a45065f449ea2933a29b6c73448e995b9cdc69",
+      "response_sha256": "6e9a4f896d1edf2698380124a405f701ce18b0ddfc13edf72bc193ded5e26a24",
+      "started_at": "2026-11-18T22:12:29.697261+00:00",
+      "elapsed_seconds": 135.79,
+      "stdout_bytes": 1892124,
+      "exit_code": 0
+    },
+    {
+      "stage": "candidate",
+      "block": 2,
+      "route": "sol",
+      "models": [
+        "gpt-6.2-sol"
+      ],
+      "prompt_sha256": "46f9d3e15ec69c1167fad903ac39ce3ff7b86d7ba5a3e12a756b07a1d2ee11c1",
+      "receipt_sha256": "b4f7aa26220d3ce4c488ac3fa31a4d5d5dc31a7f15bf90f45668fbcdfd5af137",
+      "response_sha256": "023b0effbc2c173fb29dd1925f3e837a18a2223a9d06cff4ec38dbee99b58c88",
+      "started_at": "2026-11-18T22:12:29.707195+00:00",
+      "elapsed_seconds": 237.39,
+      "stdout_bytes": 48266,
+      "exit_code": 0
+    },
+    {
+      "stage": "candidate",
+      "block": 3,
+      "route": "claude",
+      "models": [
+        "claude-fable-5-2"
+      ],
+      "prompt_sha256": "b7a762a5270f4400f105a3d69eec3311ab335d61c8a43a0cc88ad5d38bca74a4",
+      "receipt_sha256": "56b0df8842af7c3bac2c43c68ed61c876479dfbe3915fbce591dec0aeba4648f",
+      "response_sha256": "a076dba49451fb3919cc782eae6c4752ecbcece1d555d00739218231029143d6",
+      "started_at": "2026-11-18T22:12:29.694140+00:00",
+      "elapsed_seconds": 510.54,
+      "stdout_bytes": 47772,
+      "exit_code": 0
+    },
+    {
+      "stage": "candidate",
+      "block": 3,
+      "route": "muse",
+      "models": [
+        "muse-wonder-full-1.0"
+      ],
+      "prompt_sha256": "b7a762a5270f4400f105a3d69eec3311ab335d61c8a43a0cc88ad5d38bca74a4",
+      "receipt_sha256": "64d9d289478e6fa481a78289ba3e9d99a5d3cae19cb64e0919e0c8443b872637",
+      "response_sha256": "087eeaa53d36db28aa9f1744f0eb4f22d7494d971ca0412c149abdd8a50ca945",
+      "started_at": "2026-11-18T22:12:29.694248+00:00",
+      "elapsed_seconds": 159.59,
+      "stdout_bytes": 1477562,
+      "exit_code": 0
+    },
+    {
+      "stage": "candidate",
+      "block": 3,
+      "route": "sol",
+      "models": [
+        "gpt-6.2-sol"
+      ],
+      "prompt_sha256": "b7a762a5270f4400f105a3d69eec3311ab335d61c8a43a0cc88ad5d38bca74a4",
+      "receipt_sha256": "c84b555f4761941024dfc5bb171dcac8ba0be4a980d05f34f270898760400a23",
+      "response_sha256": "3282c75ba5e402585c0b9a0e11ce96133bcf18f89b99f61b37ef9b539ba1a2ae",
+      "started_at": "2026-11-18T22:12:29.707353+00:00",
+      "elapsed_seconds": 218.46,
+      "stdout_bytes": 40163,
+      "exit_code": 0
+    }
+  ],
+  "inputs": "Candidates received the checked public-domain target and whole-work German OCR. Audit prompts additionally included the synthesis. Each route used an isolated read-only or tool-disabled invocation."
+}

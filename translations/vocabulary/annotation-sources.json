@@ -1,0 +1,19 @@
+{
+  "section": "Vocabulary",
+  "sources": [
+    {
+      "id": "ewa-gans",
+      "url": "https://ewa.saw-leipzig.de/articles/50320/de",
+      "locator": "Albert L. Lloyd and Rosemarie Lühr, Etymologisches Wörterbuch des Althochdeutschen IV (2009), col. 66, s.v. gans",
+      "access": "Read the online dictionary entry, including its comparison of Germanic forms and Indo-European continuants.",
+      "support": "Reconstructs the Germanic noun from the inherited Indo-European consonant stem and identifies Sanskrit haṃsá- as a separately formed continuant."
+    },
+    {
+      "id": "gs-v-havestadt",
+      "url": "https://archive.org/download/gesammelteschrif05humbuoft/gesammelteschrif05humbuoft.pdf#page=28",
+      "locator": "GS V (1906), p. 18, footnote 1; PDF 28",
+      "access": "Consulted the same edition cited by the printed note in §114.",
+      "support": "Gives Havestadt’s work as Chilidugu sive res chilenses, Münster 1777."
+    }
+  ]
+}

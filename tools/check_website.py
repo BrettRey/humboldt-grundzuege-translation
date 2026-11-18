@@ -101,11 +101,14 @@ def check(output, website=None):
         data = json.loads((folder / 'records.json').read_text())
         doc = documents[folder / 'index.html']
         passages = doc.all(lambda n: n.tag == 'article' and n.has_class('passage'))
-        assert [n.text() for n in doc.all(lambda n: n.has_class('printed-heading'))] == [h['text'] for h in data['headings']]
+        assert [n.text(skip_sup=True) for n in doc.all(lambda n: n.has_class('printed-heading'))] == [h['text'] for h in data['headings']]
         assert [n.attrs['id'] for n in passages] == ['p' + p['number'] for p in data['paragraphs']]
         for paragraph, node in zip(data['paragraphs'], passages):
             en = node.all(lambda n: n.has_class('english'))[0]
-            assert normal(en.text(skip_sup=True)) == normal(paragraph['english']), ('English changed', paragraph['number'])
+            mentions = r'(?<!\*)\*([^*\n]+)\*(?!\*)'
+            assert [n.text() for n in en.all(lambda n: n.tag == 'em')] == re.findall(mentions, paragraph['english']), ('Emphasis changed', paragraph['number'])
+            visible = re.sub(mentions, r'\1', paragraph['english'])
+            assert normal(en.text(skip_sup=True)) == normal(visible), ('English changed', paragraph['number'])
             assert len(en.all(lambda n: n.tag == 'p')) == len(paragraph['english_groups']), ('Printed English breaks changed', paragraph['number'])
             de = node.all(lambda n: n.has_class('german'))[0]
             source = de.all(lambda n: n.tag == 'p' and not n.has_class('source-links'))

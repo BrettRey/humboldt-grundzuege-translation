@@ -1,0 +1,429 @@
+{
+  "section": "Vocabulary",
+  "source": "sources/terminology/v2/termbase.json",
+  "controls": [
+    {
+      "source_id": "p72:s4",
+      "source_span": "Verstandeshandlung",
+      "rule": {
+        "headword": "Verstand",
+        "id": "lex:verstand:s01",
+        "lexeme_id": "lex:verstand",
+        "label": "faculty of understanding",
+        "definition": "Understanding as an intellectual faculty engaged in analysis, distinctions and thought, locally contrasted with other faculties such as creative imagination or synthesizing reason.",
+        "rule": "Prefer understanding where faculty contrasts matter. In im Verstande des Redenden the possessor identifies the speaker’s faculty; it is not the idiom in the sense.",
+        "caution": "Different activities of this faculty are retained as contextual uses, not counted as new lexical senses. The separate sense-of-expression idiom requires its own construction and context.",
+        "decision_id": "D009.lex:verstand:s01"
+      },
+      "renderings": [
+        "understanding",
+        "intellect"
+      ],
+      "attestation_pages": [
+        395,
+        410,
+        432,
+        455,
+        462
+      ]
+    },
+    {
+      "source_id": "p72:s5",
+      "source_span": "Stoff",
+      "rule": {
+        "headword": "Stoff",
+        "id": "lex:stoff:s04",
+        "lexeme_id": "lex:stoff",
+        "label": "words as material of discourse",
+        "definition": "Words as the material out of which discourse is formed.",
+        "rule": "Distinct from sound as resistant material and from unnecessary conceptual matter.",
+        "caution": "",
+        "decision_id": "D009.lex:stoff:s04"
+      },
+      "renderings": [
+        "material"
+      ],
+      "attestation_pages": [
+        411
+      ]
+    },
+    {
+      "source_id": "p74:s5",
+      "source_span": "Stammworts",
+      "rule": {
+        "headword": "Stammwort",
+        "id": "lex:stammwort:s01",
+        "lexeme_id": "lex:stammwort",
+        "label": "Base word identified relatively within an analysis whose access to original beginnings is limited",
+        "definition": "Base word identified relatively within an analysis whose access to original beginnings is limited.",
+        "rule": "Not automatically a historical first word.",
+        "caution": "",
+        "decision_id": "D009.lex:stammwort:s01"
+      },
+      "renderings": [
+        "base word",
+        "stem word"
+      ],
+      "attestation_pages": [
+        412
+      ]
+    },
+    {
+      "source_id": "p84:s1",
+      "source_span": "Wortlaute",
+      "rule": {
+        "headword": "Wortlaut",
+        "id": "lex:wortlaut:s01",
+        "lexeme_id": "lex:wortlaut",
+        "label": "Inherited audible word forms which can remain relatively stable while their meanings shift",
+        "definition": "Inherited audible word forms which can remain relatively stable while their meanings shift.",
+        "rule": "Not only the exact wording of a written passage.",
+        "caution": "",
+        "decision_id": "D009.lex:wortlaut:s01"
+      },
+      "renderings": [
+        "word sound",
+        "sound form of a word"
+      ],
+      "attestation_pages": [
+        417
+      ]
+    },
+    {
+      "source_id": "p85:s1",
+      "source_span": "Gegenstand",
+      "rule": {
+        "headword": "Gegenstand",
+        "id": "lex:gegenstand:s02",
+        "lexeme_id": "lex:gegenstand",
+        "label": "What a word presents as its object, whether physically identifiable or formed by mind",
+        "definition": "What a word presents as its object, whether physically identifiable or formed by mind.",
+        "rule": "Not restricted to a physical referent.",
+        "caution": "",
+        "decision_id": "D009.lex:gegenstand:s02"
+      },
+      "renderings": [
+        "object"
+      ],
+      "attestation_pages": [
+        418
+      ]
+    },
+    {
+      "source_id": "p85:s4",
+      "source_span": "Diese Vorstellung",
+      "rule": {
+        "headword": "Vorstellung",
+        "id": "lex:vorstellung:s03",
+        "lexeme_id": "lex:vorstellung",
+        "label": "The individual representation of an object occasioned by a word, distinguished from the object itself",
+        "definition": "The individual representation of an object occasioned by a word, distinguished from the object itself.",
+        "rule": "Do not silently translate as concept or physical image in all cases.",
+        "caution": "",
+        "decision_id": "D009.lex:vorstellung:s03"
+      },
+      "renderings": [
+        "representation",
+        "conception"
+      ],
+      "attestation_pages": [
+        418
+      ]
+    },
+    {
+      "source_id": "p88:s5",
+      "source_span": "Weltansicht",
+      "rule": {
+        "headword": "Weltansicht",
+        "id": "lex:weltansicht:s01",
+        "lexeme_id": "lex:weltansicht",
+        "label": "view or standpoint of the world",
+        "definition": "A view/standpoint of the world belonging to an individual and further shaped and intensified through language; a language’s connected presentation can thus have its own distinctive world-view.",
+        "rule": "Preserve the individual standpoint already possible independently of language in§39 and the additional contribution made by language. Keep individual and language bearers explicit.",
+        "caution": "The uses do not imply identical beliefs or one ideology for all speakers. The later Weltansicht/Weltanschauung interpretive distinction is a control, not an invariant lexical law proved here.",
+        "decision_id": "D009.lex:weltansicht:s01"
+      },
+      "renderings": [
+        "view of the world",
+        "world-view"
+      ],
+      "attestation_pages": [
+        387,
+        420
+      ]
+    },
+    {
+      "source_id": "p89:s5",
+      "source_span": "als Stoff",
+      "rule": {
+        "headword": "Stoff",
+        "id": "lex:stoff:s05",
+        "lexeme_id": "lex:stoff",
+        "label": "sensory-affective material negated as material",
+        "definition": "Sensory and affective content regarded as material to be negated as such while retained formally.",
+        "rule": "Preserve the qualification as material; the text does not say all sensory contribution simply disappears.",
+        "caution": "",
+        "decision_id": "D009.lex:stoff:s05"
+      },
+      "renderings": [
+        "material",
+        "matter"
+      ],
+      "attestation_pages": [
+        420
+      ]
+    },
+    {
+      "source_id": "p89:s5",
+      "source_span": "Einbildungskraft",
+      "rule": {
+        "headword": "Einbildungskraft",
+        "id": "lex:einbildungskraft:s02",
+        "lexeme_id": "lex:einbildungskraft",
+        "label": "mediating synthesis of the word’s contributions",
+        "definition": "Imagination as the mediating, synthesizing faculty uniting intellectual, sensory, and affective powers in producing or understanding a word.",
+        "rule": "Distinct from uncontrolled historical speculation by Phantasie or ingenuity.",
+        "caution": "",
+        "decision_id": "D009.lex:einbildungskraft:s02"
+      },
+      "renderings": [
+        "imagination"
+      ],
+      "attestation_pages": [
+        420
+      ]
+    },
+    {
+      "source_id": "p90:s1",
+      "source_span": "seine Materie",
+      "rule": {
+        "headword": "Materie",
+        "id": "lex:materie:s02",
+        "lexeme_id": "lex:materie",
+        "label": "The word’s objective side: how it brings objects of outer and inner perception before the soul in the three stated directions",
+        "definition": "The word’s objective side: how it brings objects of outer and inner perception before the soul in the three stated directions.",
+        "rule": "Not simply its acoustic substance.",
+        "caution": "",
+        "decision_id": "D009.lex:materie:s02"
+      },
+      "renderings": [
+        "matter",
+        "material content"
+      ],
+      "attestation_pages": [
+        421
+      ]
+    },
+    {
+      "source_id": "p90:s1",
+      "source_span": "seine Form",
+      "rule": {
+        "headword": "Form",
+        "id": "lex:form:s03",
+        "lexeme_id": "lex:form",
+        "label": "form relative to the matter or material of a particular analysis",
+        "definition": "The organizing or active side of a locally specified form/matter relation: discourse-connection versus words, the word’s coordinating contribution, or thought’s operations versus objects.",
+        "rule": "State what counts as matter and form in each source use. In§55 words/discourse-connection is expressly not sounds/rules; the word and thought discussions have different bearers.",
+        "caution": "These contextual uses must not be flattened into syntax, sound shape, or one independent metaphysical substance.",
+        "decision_id": "D009.lex:form:s03"
+      },
+      "renderings": [
+        "form"
+      ],
+      "attestation_pages": [
+        399,
+        420,
+        421,
+        438,
+        439
+      ]
+    },
+    {
+      "source_id": "p95:s1",
+      "source_span": "begleitendem Gefühle",
+      "rule": {
+        "headword": "Gefühl",
+        "id": "lex:gefuehl:s03",
+        "lexeme_id": "lex:gefuehl",
+        "label": "affective tuning",
+        "definition": "Feeling tuned by language alongside sensory clarity and logical determination.",
+        "rule": "A broader unconscious intellectual-orientational use is explicitly distinguished on p443.",
+        "caution": "",
+        "decision_id": "D009.lex:gefuehl:s03"
+      },
+      "renderings": [
+        "feeling"
+      ],
+      "attestation_pages": [
+        423
+      ]
+    },
+    {
+      "source_id": "p99:s1",
+      "source_span": "Selbstbedeutung",
+      "rule": {
+        "headword": "Selbstbedeutung",
+        "id": "lex:selbstbedeutung:s01",
+        "lexeme_id": "lex:selbstbedeutung",
+        "label": "The word’s own motivating conceptual manner of designation, distinguishing expressions for the same object",
+        "definition": "The word’s own motivating conceptual manner of designation, distinguishing expressions for the same object.",
+        "rule": "Distinguish historically recoverable motivation from what speakers still feel.",
+        "caution": "",
+        "decision_id": "D009.lex:selbstbedeutung:s01"
+      },
+      "renderings": [
+        "intrinsic meaning",
+        "motivating meaning"
+      ],
+      "attestation_pages": [
+        426
+      ]
+    },
+    {
+      "source_id": "p101:s3",
+      "source_span": "eines Zeichens",
+      "rule": {
+        "headword": "Zeichen",
+        "id": "lex:zeichen:s03",
+        "lexeme_id": "lex:zeichen",
+        "label": "sign with independently existing designated content",
+        "definition": "A sign standing for what can exist independently of it; contrasted with a word whose concept receives completion through it.",
+        "rule": "A word may serve a sign’s purpose without being reducible to this relation.",
+        "caution": "",
+        "decision_id": "D009.lex:zeichen:s03"
+      },
+      "renderings": [
+        "sign"
+      ],
+      "attestation_pages": [
+        428
+      ]
+    },
+    {
+      "source_id": "p101:s11",
+      "source_span": "eine vollständige, für sich bestehende Naturform",
+      "rule": {
+        "headword": "Symbol",
+        "id": "lex:symbol:s01",
+        "lexeme_id": "lex:symbol",
+        "label": "Symbolic relation in which sensory natural form and nonsensory idea mutually penetrate; its natural form remains independently substantial",
+        "definition": "Symbolic relation in which sensory natural form and nonsensory idea mutually penetrate; its natural form remains independently substantial.",
+        "rule": "Keep the later explicit distinction between symbol and word.",
+        "caution": "",
+        "decision_id": "D009.lex:symbol:s01"
+      },
+      "renderings": [
+        "symbol"
+      ],
+      "attestation_pages": [
+        428,
+        429
+      ]
+    },
+    {
+      "source_id": "p102:s4",
+      "source_span": "Weile",
+      "rule": {
+        "headword": "Weile",
+        "id": "lex:weile:s01",
+        "lexeme_id": "lex:weile",
+        "label": "Mode or duration of dwelling within a sequence of representations, contrasted in symbolizing and linguistic activity",
+        "definition": "Mode or duration of dwelling within a sequence of representations, contrasted in symbolizing and linguistic activity.",
+        "rule": "Not simply a measurable interval detached from the cognitive contrast.",
+        "caution": "",
+        "decision_id": "D009.lex:weile:s01"
+      },
+      "renderings": [
+        "dwelling",
+        "pace of dwelling"
+      ],
+      "attestation_pages": [
+        429
+      ]
+    },
+    {
+      "source_id": "p105:s1",
+      "source_span": "des Gemüths",
+      "rule": {
+        "headword": "Gemüth",
+        "id": "lex:gemueth:s02",
+        "lexeme_id": "lex:gemueth",
+        "label": "Affective disposition/power in which feelings and resonances are available, distinguished from intellectual powers while interacting with them",
+        "definition": "Affective disposition/power in which feelings and resonances are available, distinguished from intellectual powers while interacting with them.",
+        "rule": "Do not flatten Gemüth into the faculty Verstand.",
+        "caution": "",
+        "decision_id": "D009.lex:gemueth:s02"
+      },
+      "renderings": [
+        "mind",
+        "affective mind",
+        "disposition"
+      ],
+      "attestation_pages": [
+        432
+      ]
+    },
+    {
+      "source_id": "p121:s1",
+      "source_span": "Wurzelwörtern",
+      "rule": {
+        "headword": "Wurzelwort",
+        "id": "lex:wurzelwort:s01",
+        "lexeme_id": "lex:wurzelwort",
+        "label": "Root word with both grammatical distribution and lexical derivational roles; not necessarily the universal origin of all other words",
+        "definition": "Root word with both grammatical distribution and lexical derivational roles; not necessarily the universal origin of all other words.",
+        "rule": "Do not force every lexical item under assumed roots.",
+        "caution": "",
+        "decision_id": "D009.lex:wurzelwort:s01"
+      },
+      "renderings": [
+        "root word"
+      ],
+      "attestation_pages": [
+        440
+      ]
+    },
+    {
+      "source_id": "p122:s4",
+      "source_span": "Eigenthumswörter",
+      "rule": {
+        "headword": "Eigenthumswort",
+        "id": "lex:eigenthumswort:s01",
+        "lexeme_id": "lex:eigenthumswort",
+        "label": "Class of possession/property expressions, later criticized as based on a particular factual relation rather than purely deducible categories",
+        "definition": "Class of possession/property expressions, later criticized as based on a particular factual relation rather than purely deducible categories.",
+        "rule": "Retain the historical label; not simply possessive pronoun.",
+        "caution": "",
+        "decision_id": "D009.lex:eigenthumswort:s01"
+      },
+      "renderings": [
+        "possession word",
+        "property word"
+      ],
+      "attestation_pages": [
+        441
+      ]
+    },
+    {
+      "source_id": "p125:s4",
+      "source_span": "Ich nenne es aber Gefühl",
+      "rule": {
+        "headword": "Gefühl",
+        "id": "lex:gefuehl:s04",
+        "lexeme_id": "lex:gefuehl",
+        "label": "unreflective subjective orientation including intellect",
+        "definition": "Unreflective subjective orientation accompanying word formation and use, expressly broad enough to include purely intellectual direction.",
+        "rule": "Do not restrict this stipulated broad use to emotion.",
+        "caution": "",
+        "decision_id": "D009.lex:gefuehl:s04"
+      },
+      "renderings": [
+        "feeling",
+        "unreflective orientation"
+      ],
+      "attestation_pages": [
+        443
+      ]
+    }
+  ]
+}

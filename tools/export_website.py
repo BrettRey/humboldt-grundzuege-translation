@@ -124,7 +124,9 @@ def model():
         else:
             paragraphs = final['paragraphs']
         wanted = {str(p['number']) for p in paragraphs}
-        selected = [n.copy() for n in annotation['notes'] if number(n['source_id']) in wanted]
+        heading_ids = {h['id'] for h in source.get('headings', [])}
+        selected = [n.copy() for n in annotation['notes']
+                    if number(n['source_id']) in wanted or n['source_id'] in heading_ids]
         for n in selected:
             n['text'] = annotation_text(evidence[spec['prefix'] + 'note:' + n['id']], typography)
         # Keep printed reading order; numbering is local to this complete page.
@@ -184,7 +186,21 @@ def model():
             result['paragraphs'].append(dict(number=label, english=en['body'], german=de['body'], html='\n'.join(grouped), english_groups=[' '.join(texts[i - 1] for i in g) for g in groups], german_groups=german, source_id=de['id'], target_id=en['id'], source_sha256=de['body_sha256'], target_sha256=en['body_sha256'], locator=de['locator']))
         ancillary = {x['source_id']: x['english'] for x in final.get('ancillary', [])}
         for h in source.get('headings', []):
-            result['headings'].append(dict(before=str(h['before']), text=ancillary[h['id']], id=h['id']))
+            heading = dict(before=str(h['before']), text=ancillary[h['id']], id=h['id'])
+            notes = [n for n in selected if n['source_id'] == h['id']]
+            if notes:
+                # Printed title notes follow the whole heading.
+                for n in notes:
+                    de = versions[n['source_version']]
+                    en = versions[n['target_version']]
+                    if (units[n['source_unit']]['version_id'] != de['id']
+                            or n['source_body_sha256'] != de['body_sha256']
+                            or de['body'] != h['marker'] + ' ' + h['German']
+                            or en['body'] != heading['text']
+                            or check_anchor(n, en, units[n['target_unit']]) != len(heading['text'])):
+                        raise ValueError('Note/heading version or anchor differs: ' + n['id'])
+                heading['note_ids'] = [n['id'] for n in notes]
+            result['headings'].append(heading)
         if final.get('heading_English'):
             result['headings'].append(dict(before=str(paragraphs[0]['number']), text=final['heading_English'], id='heading:part-i'))
         sections.append(result)
@@ -238,7 +254,8 @@ def section_page(section, sections):
         n = p['number']
         for h in section['headings']:
             if h['before'] == n:
-                parts.append(f'<h2 class="printed-heading" id="{escape(h["id"], quote=True)}">{escape(h["text"])}</h2>')
+                refs = ''.join(note_ref(note) for note in section['notes'] if note['id'] in h.get('note_ids', ()))
+                parts.append(f'<h2 class="printed-heading" id="{escape(h["id"], quote=True)}">{escape(h["text"])}{refs}</h2>')
         citation = f'Wilhelm von Humboldt, Outlines of the General Type of Language, passage {n}. Developing English translation, edition {SOURCE_COMMIT[:7]}. {BASE}{slug}/#p{n}'
         # Scanleaf coordinates are retained separately in snapshot metadata.
         match = re.search(r'PDF\s*(\d+)', p['locator'], re.I)
@@ -275,7 +292,7 @@ def section_page(section, sections):
     if following:
         parts.append(f'<a rel="next" href="../{following["slug"]}/">{escape(following["title"])} →</a>')
     elif not section.get('sample'):
-        parts.append('<span class="meta">Next: Vocabulary, 72–126 · not yet translated</span>')
+        parts.append('<span class="meta">Next: Combination into discourse, 127–149</span>')
     else:
         parts.append('<a href="../">← Back to contents</a>')
     parts.append('</nav></main>')
@@ -288,8 +305,8 @@ def home_page(sections):
     text = f'''<main id="main"><div class="reading-top"><p class="eyebrow">Wilhelm von Humboldt</p><h1>Outlines of the General Type of Language</h1>
 <p class="original-title" lang="de"><cite>Grundzüge des allgemeinen Sprachtypus</cite></p><p class="edition-deck">A developing English translation</p>
 <p>Read Humboldt’s account of language, with the German available alongside the English, explanatory notes and a record of consequential translation choices.</p>
-<p class="meta">Available in sequence: passages 1–71, including 62a and 62b. Vocabulary and the remaining division are still to come.</p><a class="start-reading" href="introduction/">Begin with the Introduction →</a><a class="resume-reading" hidden>Resume reading →</a></div>
-<section class="edition-contents"><h2>Read the translation</h2><ol>{rows}<li class="not-yet"><span class="contents-title">Vocabulary</span><span class="meta">72–126 · not yet translated</span></li><li class="not-yet"><span class="contents-title">Combination into discourse</span><span class="meta">127–149 · not yet translated as a complete division</span></li></ol><p class="sample-link">A separate later sample is also available: <a href="{sample['slug']}/">passage 147, on grammatical form</a>. It is not the continuation of passage 71.</p></section>
+<p class="meta">Available in sequence: passages 1–126, including 62a and 62b.</p><a class="start-reading" href="introduction/">Begin with the Introduction →</a><a class="resume-reading" hidden>Resume reading →</a></div>
+<section class="edition-contents"><h2>Read the translation</h2><ol>{rows}<li class="not-yet"><span class="contents-title">Combination into discourse</span><span class="meta">127–149 · forthcoming as a complete division</span></li></ol><p class="sample-link">A separate later sample is also available: <a href="{sample['slug']}/">passage 147, on grammatical form</a>.</p></section>
 <section><h2>Find a passage or term</h2>{search_form()}</section>
 <section id="about"><h2>About this developing edition</h2>
 <p>The base text is Albert Leitzmann’s 1906 edition, <cite>Gesammelte Schriften</cite>, volume V, pages 364–473. This is a provisional research translation, not a critical edition. The 2017 critical edition has not been acquired, and the manuscript has not been collated.</p>
@@ -311,7 +328,8 @@ def download(section):
     for p in section['paragraphs']:
         for h in section['headings']:
             if h['before'] == p['number']:
-                lines += ['## ' + h['text'], '']
+                refs = ''.join('[^' + nid + ']' for nid in h.get('note_ids', ()))
+                lines += ['## ' + h['text'] + refs, '']
         positions = defaultdict(list)
         for n in section['notes']:
             if number(n['source_id']) == p['number'] and n.get('display_at') != 'work_title':

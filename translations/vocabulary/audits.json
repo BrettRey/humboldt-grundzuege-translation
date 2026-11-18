@@ -1,0 +1,3135 @@
+{
+  "section": "Vocabulary",
+  "synthesis_sha256": "b86195a4cca9dd1a9db1e7bcf898a2e34df7aa06e71ee0a0912e72f0ca65d8a8",
+  "auditors": [
+    {
+      "auditor": "astra",
+      "models": [
+        "gpt-6-astra"
+      ],
+      "coverage": [
+        "heading:vocabulary",
+        "p72:s1",
+        "p72:s2",
+        "p72:s3",
+        "p72:s4",
+        "p72:s5",
+        "p72:s6",
+        "p72:s7",
+        "p72:s8",
+        "p72:s9",
+        "note:first-publication",
+        "p73:s1",
+        "p73:s2",
+        "p73:s3",
+        "note:chinese-tones",
+        "p74:s1",
+        "p74:s2",
+        "p74:s3",
+        "p74:s4",
+        "p74:s5",
+        "p74:s6",
+        "p74:s7",
+        "p74:s8",
+        "p74:s9",
+        "p74:s10",
+        "p74:s11",
+        "p75:s1",
+        "p75:s2",
+        "p75:s3",
+        "p75:s4",
+        "p75:s5",
+        "p75:s6",
+        "p76:s1",
+        "p77:s1",
+        "p77:s2",
+        "p77:s3",
+        "p77:s4",
+        "p77:s5",
+        "p77:s6",
+        "p77:s7",
+        "p77:s8",
+        "p78:s1",
+        "p78:s2",
+        "p78:s3",
+        "p78:s4",
+        "p79:s1",
+        "p79:s2",
+        "p79:s3",
+        "p79:s4",
+        "p80:s1",
+        "p80:s2",
+        "p80:s3",
+        "p80:s4",
+        "p80:s5",
+        "p80:s6",
+        "p80:s7",
+        "p81:s1",
+        "p81:s2",
+        "p81:s3",
+        "p81:s4",
+        "p81:s5",
+        "note:coptic-sanskrit",
+        "p82:s1",
+        "p82:s2",
+        "p82:s3",
+        "p82:s4",
+        "p83:s1",
+        "p83:s2",
+        "p83:s3",
+        "p83:s4",
+        "p83:s5",
+        "p83:s6",
+        "p83:s7",
+        "p83:s8",
+        "p83:s9",
+        "p84:s1",
+        "p84:s2",
+        "p84:s3",
+        "p84:s4",
+        "p85:s1",
+        "p85:s2",
+        "p85:s3",
+        "p85:s4",
+        "p85:s5",
+        "p85:s6",
+        "p86:s1",
+        "p86:s2",
+        "p86:s3",
+        "p86:s4",
+        "p87:s1",
+        "p87:s2",
+        "p87:s3",
+        "p88:s1",
+        "p88:s2",
+        "p88:s3",
+        "p88:s4",
+        "p88:s5",
+        "p89:s1",
+        "p89:s2",
+        "p89:s3",
+        "p89:s4",
+        "p89:s5",
+        "p89:s6",
+        "p90:s1",
+        "p91:s1",
+        "p91:s2",
+        "p91:s3",
+        "p91:s4",
+        "p91:s5",
+        "p91:s6",
+        "p91:s7",
+        "p91:s8",
+        "p91:s9",
+        "p91:s10",
+        "p91:s11",
+        "p91:s12",
+        "p91:s13",
+        "p91:s14",
+        "p92:s1",
+        "p92:s2",
+        "p92:s3",
+        "p93:s1",
+        "p93:s2",
+        "p93:s3",
+        "p93:s4",
+        "p93:s5",
+        "p93:s6",
+        "p94:s1",
+        "p94:s2",
+        "p94:s3",
+        "p94:s4",
+        "p94:s5",
+        "p94:s6",
+        "p95:s1",
+        "p95:s2",
+        "p95:s3",
+        "p96:s1",
+        "p96:s2",
+        "p96:s3",
+        "p96:s4",
+        "p96:s5",
+        "p96:s6",
+        "p96:s7",
+        "p96:s8",
+        "note:sanskrit-hips",
+        "note:sanskrit-concepts",
+        "p97:s1",
+        "p97:s2",
+        "p97:s3",
+        "p97:s4",
+        "p97:s5",
+        "p97:s6",
+        "p97:s7",
+        "p97:s8",
+        "p98:s1",
+        "p98:s2",
+        "p98:s3",
+        "p98:s4",
+        "p98:s5",
+        "p98:s6",
+        "p98:s7",
+        "p98:s8",
+        "p98:s9",
+        "p98:s10",
+        "p98:s11",
+        "p98:s12",
+        "p99:s1",
+        "p99:s2",
+        "p99:s3",
+        "p99:s4",
+        "p99:s5",
+        "p99:s6",
+        "p100:s1",
+        "p100:s2",
+        "p100:s3",
+        "p100:s4",
+        "p101:s1",
+        "p101:s2",
+        "p101:s3",
+        "p101:s4",
+        "p101:s5",
+        "p101:s6",
+        "p101:s7",
+        "p101:s8",
+        "p101:s9",
+        "p101:s10",
+        "p101:s11",
+        "p101:s12",
+        "p101:s13",
+        "p101:s14",
+        "p101:s15",
+        "p101:s16",
+        "note:deleted-word-symbol",
+        "note:creuzer",
+        "note:deleted-images-signs",
+        "note:egyptian-vowels",
+        "p102:s1",
+        "p102:s2",
+        "p102:s3",
+        "p102:s4",
+        "p102:s5",
+        "p102:s6",
+        "p102:s7",
+        "p103:s1",
+        "p103:s2",
+        "p103:s3",
+        "p103:s4",
+        "p103:s5",
+        "p103:s6",
+        "p103:s7",
+        "p103:s8",
+        "p103:s9",
+        "p104:s1",
+        "p104:s2",
+        "p104:s3",
+        "p104:s4",
+        "p104:s5",
+        "p104:s6",
+        "p104:s7",
+        "p104:s8",
+        "p104:s9",
+        "p104:s10",
+        "p104:s11",
+        "p104:s12",
+        "p104:s13",
+        "p105:s1",
+        "p105:s2",
+        "p105:s3",
+        "p105:s4",
+        "p105:s5",
+        "p105:s6",
+        "p105:s7",
+        "p105:s8",
+        "p105:s9",
+        "p105:s10",
+        "p105:s11",
+        "p105:s12",
+        "p105:s13",
+        "p106:s1",
+        "p106:s2",
+        "p107:s1",
+        "p107:s2",
+        "p107:s3",
+        "p108:s1",
+        "p108:s2",
+        "p108:s3",
+        "p108:s4",
+        "p108:s5",
+        "p109:s1",
+        "p109:s2",
+        "p109:s3",
+        "p109:s4",
+        "p109:s5",
+        "p109:s6",
+        "p109:s7",
+        "p109:s8",
+        "p109:s9",
+        "p109:s10",
+        "p109:s11",
+        "p110:s1",
+        "p110:s2",
+        "p110:s3",
+        "p110:s4",
+        "p110:s5",
+        "p111:s1",
+        "p111:s2",
+        "p111:s3",
+        "p111:s4",
+        "p111:s5",
+        "p111:s6",
+        "p111:s7",
+        "p111:s8",
+        "p111:s9",
+        "p111:s10",
+        "p112:s1",
+        "p112:s2",
+        "p112:s3",
+        "p112:s4",
+        "p112:s5",
+        "p112:s6",
+        "p113:s1",
+        "p113:s2",
+        "p113:s3",
+        "p113:s4",
+        "p113:s5",
+        "p113:s6",
+        "p113:s7",
+        "p113:s8",
+        "p113:s9",
+        "p114:s1",
+        "p114:s2",
+        "p114:s3",
+        "p114:s4",
+        "p114:s5",
+        "note:havestadt-title",
+        "p115:s1",
+        "p115:s2",
+        "p115:s3",
+        "p115:s4",
+        "p116:s1",
+        "p116:s2",
+        "p116:s3",
+        "p117:s1",
+        "p117:s2",
+        "p117:s3",
+        "p118:s1",
+        "p118:s2",
+        "p118:s3",
+        "p118:s4",
+        "p118:s5",
+        "p118:s6",
+        "p118:s7",
+        "p118:s8",
+        "p118:s9",
+        "p118:s10",
+        "p119:s1",
+        "p119:s2",
+        "p119:s3",
+        "p119:s4",
+        "p120:s1",
+        "p120:s2",
+        "p120:s3",
+        "p120:s4",
+        "p121:s1",
+        "p121:s2",
+        "p121:s3",
+        "p121:s4",
+        "p121:s5",
+        "p121:s6",
+        "p121:s7",
+        "p121:s8",
+        "p122:s1",
+        "p122:s2",
+        "p122:s3",
+        "p122:s4",
+        "p122:s5",
+        "p122:s6",
+        "p122:s7",
+        "p122:s8",
+        "p122:s9",
+        "p122:s10",
+        "p122:s11",
+        "p123:s1",
+        "p123:s2",
+        "p124:s1",
+        "p124:s2",
+        "p124:s3",
+        "p124:s4",
+        "p125:s1",
+        "p125:s2",
+        "p125:s3",
+        "p125:s4",
+        "p125:s5",
+        "p125:s6",
+        "p125:s7",
+        "p125:s8",
+        "p125:s9",
+        "p125:s10",
+        "p125:s11",
+        "p126:s1",
+        "p126:s2",
+        "p126:s3",
+        "p126:s4",
+        "p126:s5",
+        "p126:s6",
+        "p126:s7",
+        "p126:s8",
+        "p126:s9"
+      ],
+      "findings": [
+        {
+          "id": "b1-v72-83-f01",
+          "source_ids": [
+            "p74:s2"
+          ],
+          "severity": "minor",
+          "issue": "“Can hardly be called” weakens a categorical denial. Humboldt says that the classification cannot be called purely factual, rather than expressing reluctance or uncertainty about calling it so.",
+          "evidence": "“Rein factisch kann diese Abtheilung nicht genannt werden.”",
+          "suggestion": "“This classification cannot be called purely factual.”",
+          "block": 1,
+          "run_finding_id": "v72-83-f01"
+        },
+        {
+          "id": "b1-v72-83-f02",
+          "source_ids": [
+            "p74:s4",
+            "p74:s5",
+            "p76:s1"
+          ],
+          "severity": "minor",
+          "issue": "“Stammwort” is consistently “stem word” here but becomes “base word” in §121:s5. That change obscures the recurrence of the category when Humboldt later distinguishes roots from their role as bases for further formation. “Relative concept” in §74:s5 also leaves less explicit the relational character of being a base.",
+          "evidence": "“jedes Stammwort”; “der Begriff des Stammworts selbst nur ein Verhältnissbegriff”; “Gleichförmigkeit des Baues der Stammwörter”",
+          "suggestion": "Use one equivalent for Stammwort across these passages and §121:s5, preferably “base word”; consider “the concept of a base word is itself only a relational concept”. Keep Wurzel/Wurzelwort distinguishable as “root/root word”.",
+          "block": 1,
+          "run_finding_id": "v72-83-f02"
+        },
+        {
+          "id": "b1-v72-83-f03",
+          "source_ids": [
+            "p74:s11"
+          ],
+          "severity": "substantive",
+          "issue": "“An imbalance generally rights itself” adopts the contextually persuasive compensatory reading without exposing a difficulty in the supplied wording. Grammatically, the subject of “stellt sich ... her” is the imbalance, which could suggest its establishment or re-establishment rather than its correction. The final clause strongly supports compensation, but the wording warrants an explicit interpretive flag rather than an assumed transcription correction.",
+          "evidence": "“in der Natur stellt sich ein Misverhältniss gewöhnlich immer wieder durch andre daneben eintretende Umstände her, so dass im Ganzen wieder dieselbe Erscheinung, als wo es nicht vorhanden ist, hervorkommt”",
+          "suggestion": "The existing compensatory translation can stand as an interpretation, preferably with a translator’s note identifying the awkward printed wording and the support supplied by the concluding clause. Do not silently emend the German.",
+          "block": 1,
+          "run_finding_id": "v72-83-f03"
+        },
+        {
+          "id": "b1-v72-83-f04",
+          "source_ids": [
+            "p75:s2"
+          ],
+          "severity": "substantive",
+          "issue": "The English silently reconstructs the source’s logic and syntax. “We cannot assume an exact knowledge” is not what “sie keine genaue Kenntniss ... voraussetzen” directly says: the German makes the circumstances the apparent subject of “presuppose” and says that they presuppose no exact knowledge. The English supplies a plausible explanation for the difficulty of judging them, but that explanation is an editorial interpretation of a problematic reading.",
+          "evidence": "“auf Umständen, die ... um so schwieriger zu beurtheilen sind, als sie keine genaue Kenntniss des lebendigen Vortrags der Rede voraussetzen”",
+          "suggestion": "Retain the English reconstruction only with an explicit note recording “keine ... voraussetzen” and identifying the translation as an inferred sense. The supplied material does not establish an alternative German wording.",
+          "block": 1,
+          "run_finding_id": "v72-83-f04"
+        },
+        {
+          "id": "b1-v72-83-f05",
+          "source_ids": [
+            "p78:s1",
+            "p81:s3"
+          ],
+          "severity": "substantive",
+          "issue": "“Compound word sounds” and especially “compound words” can narrow the analysis to lexical compounds. Here the relevant complexity includes the products of the broader formation processes just enumerated: prefixation, suffixation, insertion and other patterned modifications. The translation itself uses the appropriately broader “composite” in §77:s7. A narrow technical reading of “compound” would exclude part of the evidence Humboldt requires for comparison.",
+          "evidence": "“die zusammengesetzten Wortlaute in immer einfachere ... zu zergliedern”; “die ... wirklich nach diesen Regeln geformten zusammengesetzten Wörter”",
+          "suggestion": "Consider “composite word sounds” in §78:s1 and “complex words actually formed according to these rules” in §81:s3. Preserve the expressly broader historical scope of Zusammensetzung when discussing its relation to affixation in §82.",
+          "block": 1,
+          "run_finding_id": "v72-83-f05"
+        },
+        {
+          "id": "b1-v72-83-f06",
+          "source_ids": [
+            "p79:s1"
+          ],
+          "severity": "substantive",
+          "issue": "“More directly” selects a reading of “näher” concerning immediacy of derivation. A temporal reading, “more recently”, is also plausible and consequential: the following sentence contrasts these languages with languages transmitted for centuries whose origins disappear into obscurity. The two readings make different claims about why simple forms are absent. The supplied context favours considering the temporal alternative but does not conclusively settle it.",
+          "evidence": "“Je näher eine Sprache aus einer schon vollständig geformten entnommen ist, desto weniger steigt sie zu einfachen Lauten auf”",
+          "suggestion": "Submit “The more recently a language has been derived from one already fully formed ...” as an explicit alternative for editorial decision; do not treat “more directly” as the only available reading.",
+          "block": 1,
+          "run_finding_id": "v72-83-f06"
+        },
+        {
+          "id": "b1-v72-83-f07",
+          "source_ids": [
+            "p79:s4"
+          ],
+          "severity": "substantive",
+          "issue": "“Sensations” narrows Empfindungen towards sensory experience in a passage about the inherited life of thought and feeling. The same pairing, Gedanken und Empfindungen, is rendered “thoughts and feelings” in §112:s5, where it likewise describes human experience passing into language. The change here weakens that connection and risks excluding affective experience.",
+          "evidence": "“eine unendlich erscheinende Masse einmal da gewesener ... Gedanken und Empfindungen”",
+          "suggestion": "Use “thoughts and feelings”, consistently with §112:s5.",
+          "block": 1,
+          "run_finding_id": "v72-83-f07"
+        },
+        {
+          "id": "b1-v72-83-f08",
+          "source_ids": [
+            "p80:s3"
+          ],
+          "severity": "minor",
+          "issue": "“Discerning” renders the practical consequence of geistiger but obscures its explicit reference to the mind. Humboldt is connecting the treatment of sound with intellectual activity, not merely describing more acute auditory discrimination. This matters to the division’s recurring account of sound as shaped by and acting upon the mind.",
+          "evidence": "“je feiner und geistiger sich das Gehör und der Sprachsinn in diesem erweist”",
+          "suggestion": "Consider “the more refinement and intellectual sensitivity the ear and the sense of language display in the sound system”.",
+          "block": 1,
+          "run_finding_id": "v72-83-f08"
+        },
+        {
+          "id": "b1-v72-83-f09",
+          "source_ids": [
+            "p81:s1"
+          ],
+          "severity": "substantive",
+          "issue": "The English explicitly makes the words the bearers of the Gleichartigkeit being investigated. German “ihrer” can refer to either the words or the languages, but the preceding argument expressly concerns “die Gleichartigkeit der Sprachen” (§80:s4) and the inference to historical connection (§80:s6). The English therefore resolves a consequential referential ambiguity in favour of the narrower object of inquiry.",
+          "evidence": "“dass die Wörter mehrerer Sprachen zum Behuf der Auffindung ihrer Gleichartigkeit nicht dürfen unmittelbar mit einander verglichen werden”",
+          "suggestion": "Prefer the contextually supported reading: “To establish the affinity between languages, their words must first be compared within each language before being compared across languages.” Record the alternative antecedent if the editor wishes to retain the existing wording.",
+          "block": 1,
+          "run_finding_id": "v72-83-f09"
+        },
+        {
+          "id": "b1-v72-83-f10",
+          "source_ids": [
+            "p82:s4"
+          ],
+          "severity": "minor",
+          "issue": "“Only occasionally” gives gelegentlich a frequency interpretation. In this contrast between meaning as the basis of composition and sound as a subordinate contributor, “incidentally” or “as occasion arises” is also plausible. The English can consequently make a stronger claim about the infrequency of sound’s involvement than the German requires.",
+          "evidence": "“Die Lautverhältnisse wirken dabei nur gelegentlich auf untergeordnete Weise mit.”",
+          "suggestion": "Consider “Sound relationships contribute only incidentally and in a subordinate way.”",
+          "block": 1,
+          "run_finding_id": "v72-83-f10"
+        },
+        {
+          "id": "b1-v72-83-f11",
+          "source_ids": [
+            "p83:s8",
+            "p83:s9"
+          ],
+          "severity": "substantive",
+          "issue": "The historical or genealogical reading of these terms remains obscured. “Mother tongue” normally means a speaker’s native language, whereas Muttersprache here may also mean an ancestral or parent language; the following reference to languages “abhängenden” on German strengthens that possibility. Conversely, “languages that depend on it” can suggest continuing practical or cultural dependence rather than historical derivation. Neither ambiguity should be resolved by silently modernizing Humboldt’s claim about German.",
+          "evidence": "“in einer unvermischt gebliebenen Muttersprache”; “im Deutschen, und den von ihm abhängenden Sprachen”",
+          "suggestion": "Consider “an ancestral language that has remained unmixed” and, if the genealogical reading is adopted, “German and the languages derived from it”. Treat these as linked interpretive alternatives; retain “German” rather than substituting a modern family label without further evidence.",
+          "block": 1,
+          "run_finding_id": "v72-83-f11"
+        },
+        {
+          "id": "b2-V84-105-01",
+          "source_ids": [
+            "p85:s4"
+          ],
+          "severity": "substantive",
+          "issue": "“Considered in itself” replaces “as object”, introducing a stronger suggestion of an object independent of its presentation. Later, “the way it is apprehended” can make the presentation itself the thing apprehended, whereas the subjective component concerns the apprehension of the object.",
+          "evidence": "“der Gegenstand aber, als Object, immer nur allgemeiner gefasst werden kann”; “einen subjectiven, in der Art der Auffassung liegenden”",
+          "suggestion": "Use “the object, as object, can always be grasped only in more general terms” and make the later bearer explicit: “a subjective part lying in the way the object is apprehended”. This preserves the distinction without importing an object-in-itself claim.",
+          "block": 2,
+          "run_finding_id": "V84-105-01"
+        },
+        {
+          "id": "b2-V84-105-02",
+          "source_ids": [
+            "p86:s3"
+          ],
+          "severity": "substantive",
+          "issue": "“Everything bound to appear on earth” turns dependence on earthly manifestation into an obligation or destiny to appear. The restructuring also obscures the parallel explanatory force of the two indem clauses: both transmission without fettering freedom and the development of languages explain how progress becomes possible.",
+          "evidence": "“indem jede gewonnene Erweiterung des Denkens ...”; “und indem zugleich die Formen des Denkens, die Sprachen, die Veränderungen erfahren, welche ihnen, wie Allem, was an irdische Erscheinung gebunden ist, in ihrem Entwicklungsgange vorgeschrieben sind”",
+          "suggestion": "Render the qualification as “everything bound to earthly manifestation” or “everything subject to the conditions of earthly existence”. Preserve the second explanatory connection with wording such as “and because, at the same time, the forms of thinking—the languages—undergo ...”.",
+          "block": 2,
+          "run_finding_id": "V84-105-02"
+        },
+        {
+          "id": "b2-V84-105-03",
+          "source_ids": [
+            "p87:s1",
+            "p89:s3",
+            "p97:s5"
+          ],
+          "severity": "minor",
+          "issue": "“Characteriztic” is a repeated misspelling, not an Oxford spelling variant.",
+          "evidence": "“die Eigenthümlichkeit des Wortes”; “eigenthümlich angehört”; “eigen seyn”",
+          "suggestion": "Change all three occurrences of “characteriztic” to “characteristic”.",
+          "block": 2,
+          "run_finding_id": "V84-105-03"
+        },
+        {
+          "id": "b2-V84-105-04",
+          "source_ids": [
+            "p89:s3"
+          ],
+          "severity": "substantive",
+          "issue": "The English weakens two restrictions supporting the reconciliation of the opposed aspects of the word. “Otherwise opposed qualities” does not convey that the concepts would otherwise cancel one another, and “is a stimulus” omits “nothing but”. The latter matters because Humboldt is denying an independently complete word outside the soul.",
+          "evidence": "“da jene Begriffe sich sonst aufheben würden”; “das Wort, als Sprachbestandtheil ausser der Seele gedacht, nichts als eine Anregung zum Denken”",
+          "suggestion": "Use “since these concepts would otherwise cancel one another” and “the word, considered outside the soul as a constituent of language, is nothing but a stimulus to thinking”.",
+          "block": 2,
+          "run_finding_id": "V84-105-04"
+        },
+        {
+          "id": "b2-V84-105-05",
+          "source_ids": [
+            "p91:s1"
+          ],
+          "severity": "substantive",
+          "issue": "“As the individuality of the speakers, they have attached themselves” is difficult to construe and suppresses the past tense of war. The sentence traces matter and form from the individuality of earlier speakers into sounds and back into living individuality; that movement is not clear in the English.",
+          "evidence": "“indem es die Individualitaet der Sprechenden war, hat es sich an die Laute geheftet, und kehrt durch sie in die lebendige Individualitaet zurück”",
+          "suggestion": "Make the temporal movement explicit, for example: “What was the individuality of the speakers has attached itself to the sounds and through them returns to living individuality.” Retain the preceding statement that both matter and form are present.",
+          "block": 2,
+          "run_finding_id": "V84-105-05"
+        },
+        {
+          "id": "b2-V84-105-06",
+          "source_ids": [
+            "p91:s8",
+            "p93:s4"
+          ],
+          "severity": "substantive",
+          "issue": "This is an unresolved inconsistency in the checked German, faithfully reproduced in English, rather than an established translation error. §91 says nouns have become adjectives; §93 explicitly describes nouns formed from adjectives. The former also sits awkwardly with its own explanation that names of corporeal objects arise from properties. It should not be silently reversed on contextual grounds.",
+          "evidence": "“zu Adjectiven gewordene Substantiva”; “Substantiva zu sichtlich aus Adjectiven bildend”",
+          "suggestion": "Retain the checked reading unless further collation authorizes an emendation. Add an explicitly editorial note identifying the apparent reversal and comparing §93; the discussion of designation through qualities in §§118–120 supplies further context but does not establish a corrected text.",
+          "block": 2,
+          "run_finding_id": "V84-105-06"
+        },
+        {
+          "id": "b2-V84-105-07",
+          "source_ids": [
+            "p93:s3"
+          ],
+          "severity": "substantive",
+          "issue": "“Beyond the particular riches” softens an explicit exclusion into a potentially additive claim. Humboldt says that the partial wealth of images and concepts does not determine linguistic merit; the determining consideration is the general effect on thinking and feeling.",
+          "evidence": "“werden nicht durch den partiellen Reichthum von Bildern und Begriffen bestimmt ... sondern durch ihre Einwirkung auf das Denken und Empfinden überhaupt”",
+          "suggestion": "Restore the contrast: “The merits of languages are determined not by the particular wealth of images and concepts they bring to the soul, but by their effect on thinking and feeling in general.”",
+          "block": 2,
+          "run_finding_id": "V84-105-07"
+        },
+        {
+          "id": "b2-V84-105-08",
+          "source_ids": [
+            "p93:s4"
+          ],
+          "severity": "minor",
+          "issue": "The English accurately reproduces the source’s reference to §90, but the relevant discussion of naming objects through their properties occurs in §91. §90 introduces the distinction between matter and form. Readers following the reference will not find the stated example.",
+          "evidence": "“die (90.) angeführte Bezeichnung der Gegenstände durch ihre Eigenschaften”",
+          "suggestion": "Preserve the source number with an editorial clarification such as “§90 [apparently §91]”, or retain §90 in the text and explain the likely intended reference in a translator’s note.",
+          "block": 2,
+          "run_finding_id": "V84-105-08"
+        },
+        {
+          "id": "b2-V84-105-09",
+          "source_ids": [
+            "p94:s1"
+          ],
+          "severity": "substantive",
+          "issue": "The English resolves an ambiguity by adding “precisely the same”: it makes the claim concern identical balances across two languages. The German explicitly locates the balance between the different stimuli, allowing a reading about their internal equilibrium. The next sentence, which says one stimulus predominates, supports keeping that alternative visible.",
+          "evidence": "“Nicht leicht werden zwei Sprachen in der Form ihrer Wörter ein vollkommenes Gleichgewicht zwischen den verschiedenen Anregungen halten”",
+          "suggestion": "Consider the less interpretively committed “Two languages will scarcely maintain, in the form of their words, a perfect balance among the different stimuli the soul receives through them.” If the comparative reading is retained, record that “the same balance” is an interpretation rather than an explicit expression in the German.",
+          "block": 2,
+          "run_finding_id": "V84-105-09"
+        },
+        {
+          "id": "b2-V84-105-10",
+          "source_ids": [
+            "p96:s7"
+          ],
+          "severity": "substantive",
+          "issue": "“From it emerges the mind’s fortunate capacity for creation” can assert that the distribution of concepts produces the creative capacity. A consequential alternative is evidential: that distribution reveals the creative capacity, continuing the preceding offenbart sich. The German permits this reading, and the paragraph concerns what word formation displays about the mind.",
+          "evidence": "“In dieser Vertheilung ... offenbart sich ... der Sinn der Nation”; “aber in höheren Beziehungen geht daraus das glückliche Schöpfungsvermögen des Geistes hervor”",
+          "suggestion": "Prefer “in higher respects, however, the mind’s successful creative power becomes apparent in it” if the evidential reading is intended. At minimum, record the manifestation-versus-production ambiguity rather than letting “from it emerges” decide it unobtrusively.",
+          "block": 2,
+          "run_finding_id": "V84-105-10"
+        },
+        {
+          "id": "b2-V84-105-11",
+          "source_ids": [
+            "p97:s1"
+          ],
+          "severity": "substantive",
+          "issue": "The restrictive relative clause in “too many meanings whose ties ... are too loose” makes the prohibition apply specifically to an excessive number of loosely related meanings. The German coordinates excessive number and excessively loose connection, and plausibly presents them as two defects. The English therefore risks narrowing the rule.",
+          "evidence": "“nicht zu viele und durch zu lockere VerwandtschaftsBande mit einander verknüpfte Bedeutungen”",
+          "suggestion": "Preserve the coordination more clearly: “a word should not encompass meanings that are too numerous and linked to one another by excessively loose ties of kinship”. If the two defects are read independently, make that reading explicit rather than retaining the restrictive “whose” construction.",
+          "block": 2,
+          "run_finding_id": "V84-105-11"
+        },
+        {
+          "id": "b2-V84-105-12",
+          "source_ids": [
+            "p98:s12",
+            "p100:s3"
+          ],
+          "severity": "substantive",
+          "issue": "“Concepts of the mind” and “relations of the mind” can turn geistig into a specification of subject matter: concepts about the mind and relations belonging to it. Here the contrast concerns intellectual or non-sensory concepts and relations more generally, including those expressed through corporeal metaphors.",
+          "evidence": "“die Wörter für geistige Begriffe mit und ohne erkennbare Metaphern”; “entdeckt die Seele ... die geistigen Beziehungen”",
+          "suggestion": "Consider “words for intellectual concepts” in §98 and “discovers intellectual relations” in §100, or another consistent rendering that does not restrict their objects to the mind. The same interpretive issue recurs in the contextual translation of §115.",
+          "block": 2,
+          "run_finding_id": "V84-105-12"
+        },
+        {
+          "id": "b2-V84-105-13",
+          "source_ids": [
+            "p99:s1",
+            "p99:s2",
+            "p99:s3",
+            "p99:s4",
+            "p99:s5",
+            "p104:s1"
+          ],
+          "severity": "substantive",
+          "issue": "“Motivating meaning” is a defensible but consequential interpretation of Selbstbedeutung that needs an explicit terminological decision. It suggests an explanatory or etymological motivation, whereas the term also stresses the word’s own distinctive manner of designating, as opposed to the object shared with other words. Its antecedent in §98 includes progressively less recoverable designation, ultimately the bare articulated sound.",
+          "evidence": "“die Selbstbedeutung der Wörter”; “Denn sie unterscheiden sich wirklich durch sie von andren, demselben Gegenstande gewidmeten”; “von seiner Selbstbedeutung”",
+          "suggestion": "Either retain “motivating meaning” with a first-occurrence gloss explaining this broader, word-specific sense, or consider “the word’s own distinctive meaning (Selbstbedeutung)”. Apply the decision consistently to all listed occurrences; avoid implying that the term guarantees a recoverable etymology.",
+          "block": 2,
+          "run_finding_id": "V84-105-13"
+        },
+        {
+          "id": "b2-V84-105-14",
+          "source_ids": [
+            "p100:s4",
+            "p102:s5"
+          ],
+          "severity": "minor",
+          "issue": "“Fertilises” and “Symbolising” depart from the stipulated Oxford spelling and from the translation’s own use of “symbolizing” elsewhere.",
+          "evidence": "“durch die Befruchtung der Naturmasse der Töne”; “Das Symbolisiren führt zur Vertiefung”",
+          "suggestion": "Use “fertilizes” and “Symbolizing”.",
+          "block": 2,
+          "run_finding_id": "V84-105-14"
+        },
+        {
+          "id": "b2-V84-105-15",
+          "source_ids": [
+            "p101:s14"
+          ],
+          "severity": "minor",
+          "issue": "“Has the stronger claim to its own rights” shifts an assertion about the natural form maintaining its primacy into language of comparative entitlement. The contrast with §101:s13 is that sound gives way to the concept in a word, while natural form actively maintains its position in a symbol.",
+          "evidence": "“Im Symbol ist die Naturform selbständig zugleich mit der sie durchdringenden Idee, und behauptet vorzugsweise ihre Rechte”",
+          "suggestion": "Use wording such as “and asserts its own rights with precedence” or “and maintains its own primacy”, preserving the claim about how the symbol operates.",
+          "block": 2,
+          "run_finding_id": "V84-105-15"
+        },
+        {
+          "id": "b2-V84-105-16",
+          "source_ids": [
+            "note:creuzer"
+          ],
+          "severity": "substantive",
+          "issue": "In the quoted passage, “is thus resolved when” replaces an explicit explanation of how the conflict is resolved with a temporal formulation. The infinite’s self-limitation and becoming human are the means of resolution, not merely the occasion.",
+          "evidence": "“Jener Streit zwischen dem Unendlichen und dem Endlichen ist also aufgelöset, dadurch dass jenes, sich selbst begränzend, ein Menschliches ward.”",
+          "suggestion": "Render “is thus resolved through the infinite’s limiting itself and becoming something human”, or “is thus resolved by the fact that the former, limiting itself, became something human”. Keep this wording inside the quotation attributed to Creuzer.",
+          "block": 2,
+          "run_finding_id": "V84-105-16"
+        },
+        {
+          "id": "b2-V84-105-17",
+          "source_ids": [
+            "note:deleted-images-signs"
+          ],
+          "severity": "minor",
+          "issue": "The added English locator quotes “idea and bodily material coincide”, but the corresponding main-text sentence actually reads “Idea and corporeal material coincide”. The anchor is identifiable, but the apparatus does not quote the frozen translation exactly.",
+          "evidence": "“Nach „zusammen“ gestrichen”",
+          "suggestion": "Change the locator to “at the end of ‘Idea and corporeal material coincide’”. Preserve its status as an English editorial locator and retain the deleted passage as deleted text.",
+          "block": 2,
+          "run_finding_id": "V84-105-17"
+        },
+        {
+          "id": "b2-V84-105-18",
+          "source_ids": [
+            "p102:s4"
+          ],
+          "severity": "substantive",
+          "issue": "“Different lengths of pause” risks identifying Weile with interruptions between presentations. The contrast developed immediately afterwards is chiefly how long the mind dwells on an individual object: symbolic absorption versus language’s onward movement. This also matters because §102:s7 separately uses Pausen for pauses.",
+          "evidence": "“eine ganz verschiedene Weile in der Folge der Vorstellungen”; “Das Symbolisiren führt zur Vertiefung in den einzelnen Gegenstand”",
+          "suggestion": "Consider “very different durations of dwelling on presentations as they succeed one another” or similarly explicit wording. Preserve the distinction between dwelling on a presentation and pausing between presentations.",
+          "block": 2,
+          "run_finding_id": "V84-105-18"
+        },
+        {
+          "id": "b2-V84-105-19",
+          "source_ids": [
+            "p103:s9"
+          ],
+          "severity": "substantive",
+          "issue": "The object of lingering changes. Humboldt says the mind must resist lingering precisely over the obscure and mysterious connection between the sensory and non-sensory. The English instead makes it linger on the connection’s “very obscurity and mystery”, narrowing the target to fascination with those qualities.",
+          "evidence": "“die Neigung niederdrücken, gerade bei dem dunkeln und geheimnissvollen Zusammenhange beider zu verweilen”",
+          "suggestion": "Use “suppress the inclination to linger precisely over the obscure and mysterious connection between the two”.",
+          "block": 2,
+          "run_finding_id": "V84-105-19"
+        },
+        {
+          "id": "b2-V84-105-20",
+          "source_ids": [
+            "p104:s12"
+          ],
+          "severity": "substantive",
+          "issue": "“What accompanies the same word ... differs” avoids resolving the German ellipsis but also removes its explanatory content. The immediate context most naturally supplies different sensory presentations, explaining the preceding claim about their character. Different states of mind remain a possible antecedent from the earlier sentences.",
+          "evidence": "“Denn dasselbe Wort ist offenbar von verschiedenen in einem dichterischen, und in einem wissenschaftlichen Vortrage begleitet.”",
+          "suggestion": "Prefer “For the same word is plainly accompanied by different sensory presentations in poetic and scientific exposition”, while recording that “sensory presentations” supplies the elliptical noun. If the editor instead chooses “states of mind”, make that decision explicit; the present indefinite “what” obscures the connection either way.",
+          "block": 2,
+          "run_finding_id": "V84-105-20"
+        },
+        {
+          "id": "b2-V84-105-21",
+          "source_ids": [
+            "p105:s8"
+          ],
+          "severity": "substantive",
+          "issue": "“In those dialects” fixes da exclusively to the popular dialects of the preceding sentence. The reference can encompass the broader discussion of languages of uncultivated peoples, which is resumed by the contrast with highly cultivated nations in §105:s9. The English therefore makes a consequential narrowing that the German does not require.",
+          "evidence": "“Dagegen darf man da nicht nach besondren dichterischen suchen”; “In den Sprachen einiger hochgebildeten Nationen ist auf der andren Seite ...”",
+          "suggestion": "Use the less restrictive “Here, however, one should not look for specifically poetic words”, or clarify editorially whether da is being taken to cover both the languages and the dialects just discussed.",
+          "block": 2,
+          "run_finding_id": "V84-105-21"
+        },
+        {
+          "id": "b3-F106-126-01",
+          "source_ids": [
+            "p109:s2"
+          ],
+          "severity": "minor",
+          "issue": "‘At no moment of its life complete’ can blur the distinction between being a whole at every moment (§§107–108) and having finished developing. The context partly protects the English, but ‘abgeschlossen’ concerns finality here, not the absence of present wholeness.",
+          "evidence": "‘in keinem Augenblick ihres Lebens als abgeschlossen, sondern immer als fortschreitend’; ‘ein Entfalten eines Ganzen aus einem Ganzen’",
+          "suggestion": "Use ‘at no moment of its life finally completed’ or ‘never finished developing’, retaining the subsequent unfolding of one whole out of another.",
+          "block": 3,
+          "run_finding_id": "F106-126-01"
+        },
+        {
+          "id": "b3-F106-126-02",
+          "source_ids": [
+            "p110:s4",
+            "p120:s4"
+          ],
+          "severity": "minor",
+          "issue": "‘Mode of viewing’ and ‘mode of sensory viewing’ obscure the recurrence of Anschauungsweise, rendered ‘mode of intuition’ in §§91 and 93. This matters particularly in §120, where Anschauungsweise and Auffassung occur together and should remain recognizably distinct.",
+          "evidence": "‘der Anschauungsweise, auf die man hinarbeitet’; ‘zu dieser oder jener sinnlichen Anschauungsweise, und die Art der geistigen Auffassung’",
+          "suggestion": "Consider ‘the mode of intuition one seeks to bring about’ and ‘one mode of sensory intuition or another’, keeping ‘mental apprehension’ for geistige Auffassung.",
+          "block": 3,
+          "run_finding_id": "F106-126-02"
+        },
+        {
+          "id": "b3-F106-126-03",
+          "source_ids": [
+            "p112:s6"
+          ],
+          "severity": "substantive",
+          "issue": "The English makes the ‘spirit of a language’ the recipient of the resonance. A contextually stronger parsing takes ‘dem Geiste’ as the human mind receiving it and ‘einer Sprache’ as a preposed genitive belonging to ‘Gehalt’: a language’s content of human existence resounds to the mind. This connects directly with the preceding accumulation of thoughts and feelings in language and the resulting stimulating power. The printed syntax permits competing attachments, so this requires adjudication rather than silent textual correction.",
+          "evidence": "‘Je mehr aber dem Geiste einer Sprache Gehalt menschlichen Daseyns entgegenklingt, desto grösser, lebendiger und geistiger ist ihre anregende Kraft.’",
+          "suggestion": "Prefer, subject to the editor’s decision, ‘The more the content of human existence in a language resounds to the mind, the greater, livelier and more intellectual its stimulating power.’ Record the competing genitive attachments.",
+          "block": 3,
+          "run_finding_id": "F106-126-03"
+        },
+        {
+          "id": "b3-F106-126-04",
+          "source_ids": [
+            "p115:s4"
+          ],
+          "severity": "minor",
+          "issue": "‘Concepts of the mind’ can suggest concepts whose subject matter is the mind. Here geistige Begriffe contrasts broadly with the particular objects just mentioned and continues the discussion of non-sensory concepts; its scope is not explicitly confined to psychological concepts.",
+          "evidence": "‘Entdeckung und Benennung besonderer Gegenstände’; ‘die Aufsuchung der Modificationen der geistigen Begriffe’",
+          "suggestion": "Use ‘the modifications of intellectual concepts’, or otherwise make clear that ‘of the mind’ describes the conceptual domain rather than restricting what the concepts concern.",
+          "block": 3,
+          "run_finding_id": "F106-126-04"
+        },
+        {
+          "id": "b3-F106-126-05",
+          "source_ids": [
+            "p117:s2"
+          ],
+          "severity": "minor",
+          "issue": "‘Characteriztic’ is a typographical error, not an Oxford spelling.",
+          "evidence": "‘nach den ihm eigenthümlichen Operationen’",
+          "suggestion": "Change ‘characteriztic operations’ to ‘characteristic operations’.",
+          "block": 3,
+          "run_finding_id": "F106-126-05"
+        },
+        {
+          "id": "b3-F106-126-06",
+          "source_ids": [
+            "p121:s1"
+          ],
+          "severity": "substantive",
+          "issue": "‘It is therefore by no means necessary’ presents non-necessity as the conclusion of §120. The German more naturally blocks a possible inference from that section: the existence of general designating concepts does not thereby require a stock of root words from which all other words originate. The following discussion explicitly separates semantic designation from exhaustive derivation.",
+          "evidence": "‘Es ist darum keinesweges nothwendig, dass eine Sprache eine Anzahl von Wurzelwörtern besitze, die man als den Ursprung aller übrigen ansehen könne.’",
+          "suggestion": "Use ‘This does not, however, mean that a language must possess a stock of root words that can be regarded as the source of all the rest.’",
+          "block": 3,
+          "run_finding_id": "F106-126-06"
+        },
+        {
+          "id": "b3-F106-126-07",
+          "source_ids": [
+            "p121:s5"
+          ],
+          "severity": "minor",
+          "issue": "‘Base words’ changes the established rendering of Stammwörter as ‘stem words’ in §§74 and 76. Here the relation between Wurzelwörter and Stammwörter is itself under discussion, so an unexplained new English term can suggest a third category.",
+          "evidence": "‘sie dienen als Stammwörter zur Ableitung und Zusammensetzung’",
+          "suggestion": "Use ‘they serve as stem words for derivation and compounding’, or explicitly explain any deliberate distinction between ‘base’ and the earlier ‘stem’.",
+          "block": 3,
+          "run_finding_id": "F106-126-07"
+        },
+        {
+          "id": "b3-F106-126-08",
+          "source_ids": [
+            "p122:s4"
+          ],
+          "severity": "substantive",
+          "issue": "‘Names derived from those of peoples’ gives Gentilitia a specific derivational source that the German label does not state. It can exclude formations indicating geographical origin and makes the example turn on derivation from an existing people-name rather than on the category designated.",
+          "evidence": "‘Von dieser Art sind die Patronymica, Gentilitia, Abstracta’",
+          "suggestion": "Retain ‘gentilics’ or ‘gentilic names’, with a cautious gloss such as ‘names indicating affiliation or origin’. The supplied passage does not settle the precise historical extension of the category.",
+          "block": 3,
+          "run_finding_id": "F106-126-08"
+        },
+        {
+          "id": "b3-F106-126-09",
+          "source_ids": [
+            "p122:s10"
+          ],
+          "severity": "minor",
+          "issue": "‘Here I can give only’ reads as a limitation on the examples available or permitted. The German construction more naturally means that merely mentioning these examples suffices, as the ensuing explanation confirms.",
+          "evidence": "‘Als Beispiele darf ich hier nur die Dimensionen des Raums und die Weltgegenden anführen.’",
+          "suggestion": "Use ‘As examples, I need only mention the dimensions of space and the points of the compass.’",
+          "block": 3,
+          "run_finding_id": "F106-126-09"
+        },
+        {
+          "id": "b3-F106-126-10",
+          "source_ids": [
+            "p124:s1"
+          ],
+          "severity": "minor",
+          "issue": "Seele becomes ‘mind’ here, although the division generally renders it ‘soul’ and reserves ‘mind’ for Geist. This passage explicitly resumes the earlier account of the word’s effects, so the changed term conceals that continuity.",
+          "evidence": "‘das die Wörter begleitende Gefühl, ihre Rückwirkung auf die Seele’",
+          "suggestion": "Use ‘the feeling that accompanies words (§105), their effect in turn on the soul’.",
+          "block": 3,
+          "run_finding_id": "F106-126-10"
+        },
+        {
+          "id": "b3-F106-126-11",
+          "source_ids": [
+            "p126:s9"
+          ],
+          "severity": "substantive",
+          "issue": "The English silently resolves a meaningful pronominal difficulty by supplying ‘these changes’ as what linguistic study must include. That is contextually persuasive, but the checked German has masculine singular ‘ihn’, not a pronoun agreeing with the changes or their study. Its nearest masculine antecedent is the ‘material … part of language’, which would yield a different and contextually awkward claim. The supplied material does not establish a correction.",
+          "evidence": "‘wenn sie sich bloss auf den materiellen, gewissermassen roheren Theil der Sprache beschränken will, muss ihn aber nothwendig in sich fassen’",
+          "suggestion": "Retain ‘must include these changes’ only as an explicitly acknowledged contextual interpretation. Add an editorial note recording the printed ‘ihn’ and its uncertain antecedent; do not silently amend the German.",
+          "block": 3,
+          "run_finding_id": "F106-126-11"
+        }
+      ],
+      "whole_unit_assessments": [
+        {
+          "block": 1,
+          "assessment": "The block establishes the word as a unity of sound and concept, qualifies monosyllabic classification, develops a method of lexical analysis and comparison, and then turns from sound formation to meaning and felt sound–meaning correspondence. The English largely preserves this progression, including Humboldt’s historical claims and the distinction between historical evidence and psychological influence in §83. The heading and all three notes have no consequential content mismatch. The principal concerns are unmarked interpretation of difficult printed wording in §§74–75, the scope and purpose of lexical comparison, and several consequential terminology choices. Across the division, §§98 and 123 confirm the scope of §§73–82, §93 resumes §83’s sound–meaning argument, and §121 makes consistent treatment of Stammwort particularly useful. The later emphasis on use and subjective response also develops §72’s warning against judging a language from isolated vocabulary."
+        },
+        {
+          "block": 2,
+          "assessment": "The block moves from the relative persistence of sounds and variability of meanings to the word’s object, individual presentation, matter and form; it then examines conceptual boundaries, designation, symbols and accompanying feeling. This completes the treatment of individual words before §106 turns to vocabulary as a whole. The English broadly preserves that architecture, the historical claims and the distinction between authorial notes and editorial deletions; p104:s5–s6 remains coherent across the ID boundary. The principal concerns are local changes in logical force, referents and interpretive scope. Several findings identify plausible alternatives rather than established errors. The noun/adjective reversal and §93’s reference to §90 are problems already present in the supplied German and require transparent editorial handling. Terminological decisions about Selbstbedeutung and geistig should remain compatible with §§113–120, while the treatment of feeling anticipates §§124–126. No critical reversal of the block’s overall argument was found."
+        },
+        {
+          "block": 3,
+          "assessment": "All 130 requested IDs were compared, including the editorial Havestadt note and the sentence spanning p122:s4–s5. The block moves from individual words to the vocabulary as an interconnected whole: its capacity for development, kinds of richness, comparative assessment, classificatory and derivational resources, and finally its subjective effects and historical transformation. The English largely preserves this structure, the methodological qualifications in §§113–114, and Humboldt’s historical claims. The principal decisions concern the recipient of resonance in §112, the inference blocked in §121, the scope of Gentilitia, and the unresolved pronoun in §126. Cross-block terminology should preserve the distinctions among Anschauungsweise, Auffassung, Seele, Geist, Stammwort and Wurzelwort. The closing account of subjective change returns to §§72, 84–94 and 105 and prepares the transition to discourse combination."
+        }
+      ],
+      "inputs": [
+        "eba466b3fadf211397d99a86d44ac167bb87d3b6916cc93b0d0ab1edc9ba6c09",
+        "01d1422643d65941bbc54efc1ef4ff49fbac8021bbb0ac2086d6c19cdd75816a",
+        "ea8bd0834210bc6b97c5d0314c02e71f1dc634adcaa5f79dad2ab8e72a142751"
+      ]
+    },
+    {
+      "auditor": "muse",
+      "models": [
+        "muse-wonder-full-1.0"
+      ],
+      "coverage": [
+        "heading:vocabulary",
+        "p72:s1",
+        "p72:s2",
+        "p72:s3",
+        "p72:s4",
+        "p72:s5",
+        "p72:s6",
+        "p72:s7",
+        "p72:s8",
+        "p72:s9",
+        "note:first-publication",
+        "p73:s1",
+        "p73:s2",
+        "p73:s3",
+        "note:chinese-tones",
+        "p74:s1",
+        "p74:s2",
+        "p74:s3",
+        "p74:s4",
+        "p74:s5",
+        "p74:s6",
+        "p74:s7",
+        "p74:s8",
+        "p74:s9",
+        "p74:s10",
+        "p74:s11",
+        "p75:s1",
+        "p75:s2",
+        "p75:s3",
+        "p75:s4",
+        "p75:s5",
+        "p75:s6",
+        "p76:s1",
+        "p77:s1",
+        "p77:s2",
+        "p77:s3",
+        "p77:s4",
+        "p77:s5",
+        "p77:s6",
+        "p77:s7",
+        "p77:s8",
+        "p78:s1",
+        "p78:s2",
+        "p78:s3",
+        "p78:s4",
+        "p79:s1",
+        "p79:s2",
+        "p79:s3",
+        "p79:s4",
+        "p80:s1",
+        "p80:s2",
+        "p80:s3",
+        "p80:s4",
+        "p80:s5",
+        "p80:s6",
+        "p80:s7",
+        "p81:s1",
+        "p81:s2",
+        "p81:s3",
+        "p81:s4",
+        "p81:s5",
+        "note:coptic-sanskrit",
+        "p82:s1",
+        "p82:s2",
+        "p82:s3",
+        "p82:s4",
+        "p83:s1",
+        "p83:s2",
+        "p83:s3",
+        "p83:s4",
+        "p83:s5",
+        "p83:s6",
+        "p83:s7",
+        "p83:s8",
+        "p83:s9",
+        "p84:s1",
+        "p84:s2",
+        "p84:s3",
+        "p84:s4",
+        "p85:s1",
+        "p85:s2",
+        "p85:s3",
+        "p85:s4",
+        "p85:s5",
+        "p85:s6",
+        "p86:s1",
+        "p86:s2",
+        "p86:s3",
+        "p86:s4",
+        "p87:s1",
+        "p87:s2",
+        "p87:s3",
+        "p88:s1",
+        "p88:s2",
+        "p88:s3",
+        "p88:s4",
+        "p88:s5",
+        "p89:s1",
+        "p89:s2",
+        "p89:s3",
+        "p89:s4",
+        "p89:s5",
+        "p89:s6",
+        "p90:s1",
+        "p91:s1",
+        "p91:s2",
+        "p91:s3",
+        "p91:s4",
+        "p91:s5",
+        "p91:s6",
+        "p91:s7",
+        "p91:s8",
+        "p91:s9",
+        "p91:s10",
+        "p91:s11",
+        "p91:s12",
+        "p91:s13",
+        "p91:s14",
+        "p92:s1",
+        "p92:s2",
+        "p92:s3",
+        "p93:s1",
+        "p93:s2",
+        "p93:s3",
+        "p93:s4",
+        "p93:s5",
+        "p93:s6",
+        "p94:s1",
+        "p94:s2",
+        "p94:s3",
+        "p94:s4",
+        "p94:s5",
+        "p94:s6",
+        "p95:s1",
+        "p95:s2",
+        "p95:s3",
+        "p96:s1",
+        "p96:s2",
+        "p96:s3",
+        "p96:s4",
+        "p96:s5",
+        "p96:s6",
+        "p96:s7",
+        "p96:s8",
+        "note:sanskrit-hips",
+        "note:sanskrit-concepts",
+        "p97:s1",
+        "p97:s2",
+        "p97:s3",
+        "p97:s4",
+        "p97:s5",
+        "p97:s6",
+        "p97:s7",
+        "p97:s8",
+        "p98:s1",
+        "p98:s2",
+        "p98:s3",
+        "p98:s4",
+        "p98:s5",
+        "p98:s6",
+        "p98:s7",
+        "p98:s8",
+        "p98:s9",
+        "p98:s10",
+        "p98:s11",
+        "p98:s12",
+        "p99:s1",
+        "p99:s2",
+        "p99:s3",
+        "p99:s4",
+        "p99:s5",
+        "p99:s6",
+        "p100:s1",
+        "p100:s2",
+        "p100:s3",
+        "p100:s4",
+        "p101:s1",
+        "p101:s2",
+        "p101:s3",
+        "p101:s4",
+        "p101:s5",
+        "p101:s6",
+        "p101:s7",
+        "p101:s8",
+        "p101:s9",
+        "p101:s10",
+        "p101:s11",
+        "p101:s12",
+        "p101:s13",
+        "p101:s14",
+        "p101:s15",
+        "p101:s16",
+        "note:deleted-word-symbol",
+        "note:creuzer",
+        "note:deleted-images-signs",
+        "note:egyptian-vowels",
+        "p102:s1",
+        "p102:s2",
+        "p102:s3",
+        "p102:s4",
+        "p102:s5",
+        "p102:s6",
+        "p102:s7",
+        "p103:s1",
+        "p103:s2",
+        "p103:s3",
+        "p103:s4",
+        "p103:s5",
+        "p103:s6",
+        "p103:s7",
+        "p103:s8",
+        "p103:s9",
+        "p104:s1",
+        "p104:s2",
+        "p104:s3",
+        "p104:s4",
+        "p104:s5",
+        "p104:s6",
+        "p104:s7",
+        "p104:s8",
+        "p104:s9",
+        "p104:s10",
+        "p104:s11",
+        "p104:s12",
+        "p104:s13",
+        "p105:s1",
+        "p105:s2",
+        "p105:s3",
+        "p105:s4",
+        "p105:s5",
+        "p105:s6",
+        "p105:s7",
+        "p105:s8",
+        "p105:s9",
+        "p105:s10",
+        "p105:s11",
+        "p105:s12",
+        "p105:s13",
+        "p106:s1",
+        "p106:s2",
+        "p107:s1",
+        "p107:s2",
+        "p107:s3",
+        "p108:s1",
+        "p108:s2",
+        "p108:s3",
+        "p108:s4",
+        "p108:s5",
+        "p109:s1",
+        "p109:s2",
+        "p109:s3",
+        "p109:s4",
+        "p109:s5",
+        "p109:s6",
+        "p109:s7",
+        "p109:s8",
+        "p109:s9",
+        "p109:s10",
+        "p109:s11",
+        "p110:s1",
+        "p110:s2",
+        "p110:s3",
+        "p110:s4",
+        "p110:s5",
+        "p111:s1",
+        "p111:s2",
+        "p111:s3",
+        "p111:s4",
+        "p111:s5",
+        "p111:s6",
+        "p111:s7",
+        "p111:s8",
+        "p111:s9",
+        "p111:s10",
+        "p112:s1",
+        "p112:s2",
+        "p112:s3",
+        "p112:s4",
+        "p112:s5",
+        "p112:s6",
+        "p113:s1",
+        "p113:s2",
+        "p113:s3",
+        "p113:s4",
+        "p113:s5",
+        "p113:s6",
+        "p113:s7",
+        "p113:s8",
+        "p113:s9",
+        "p114:s1",
+        "p114:s2",
+        "p114:s3",
+        "p114:s4",
+        "p114:s5",
+        "note:havestadt-title",
+        "p115:s1",
+        "p115:s2",
+        "p115:s3",
+        "p115:s4",
+        "p116:s1",
+        "p116:s2",
+        "p116:s3",
+        "p117:s1",
+        "p117:s2",
+        "p117:s3",
+        "p118:s1",
+        "p118:s2",
+        "p118:s3",
+        "p118:s4",
+        "p118:s5",
+        "p118:s6",
+        "p118:s7",
+        "p118:s8",
+        "p118:s9",
+        "p118:s10",
+        "p119:s1",
+        "p119:s2",
+        "p119:s3",
+        "p119:s4",
+        "p120:s1",
+        "p120:s2",
+        "p120:s3",
+        "p120:s4",
+        "p121:s1",
+        "p121:s2",
+        "p121:s3",
+        "p121:s4",
+        "p121:s5",
+        "p121:s6",
+        "p121:s7",
+        "p121:s8",
+        "p122:s1",
+        "p122:s2",
+        "p122:s3",
+        "p122:s4",
+        "p122:s5",
+        "p122:s6",
+        "p122:s7",
+        "p122:s8",
+        "p122:s9",
+        "p122:s10",
+        "p122:s11",
+        "p123:s1",
+        "p123:s2",
+        "p124:s1",
+        "p124:s2",
+        "p124:s3",
+        "p124:s4",
+        "p125:s1",
+        "p125:s2",
+        "p125:s3",
+        "p125:s4",
+        "p125:s5",
+        "p125:s6",
+        "p125:s7",
+        "p125:s8",
+        "p125:s9",
+        "p125:s10",
+        "p125:s11",
+        "p126:s1",
+        "p126:s2",
+        "p126:s3",
+        "p126:s4",
+        "p126:s5",
+        "p126:s6",
+        "p126:s7",
+        "p126:s8",
+        "p126:s9"
+      ],
+      "findings": [
+        {
+          "id": "b1-F1",
+          "source_ids": [
+            "p72:s4"
+          ],
+          "severity": "minor",
+          "issue": "Added qualification weakens a categorical distinction. English 'cease to be language in their own right' softens German 'ist nicht mehr Sprache, sondern nur Element derselben', which denies syllable and letter the status of language without the limiting phrase 'in their own right'.",
+          "evidence": "die Sylbe und der Buchstabe, ist nicht mehr Sprache, sondern nur Element derselben",
+          "suggestion": "Consider: 'the syllable and the letter, are no longer language, but only an element of it.'",
+          "block": 1,
+          "run_finding_id": "F1"
+        },
+        {
+          "id": "b1-F2",
+          "source_ids": [
+            "p72:s6"
+          ],
+          "severity": "minor",
+          "issue": "Bearer of 'eignen' is obscured. 'An ideal world of its own' can be read as the word's own world, whereas the definite German phrase, in a clause about language as a whole replacing the actual world (cross-referenced to §39), points to the particular ideal world belonging to language. The indefinite 'an' also loses the definiteness of 'der eignen ideellen Welt'.",
+          "evidence": "es bildet die Gegenstände zu der eignen ideellen Welt, die in der Sprache überhaupt an die Stelle der wirklichen tritt (39.)",
+          "suggestion": "Consider: 'it forms the objects into that distinctive ideal world which in language as a whole takes the place of the actual [world]'.",
+          "block": 1,
+          "run_finding_id": "F2"
+        },
+        {
+          "id": "b1-F3",
+          "source_ids": [
+            "p74:s3"
+          ],
+          "severity": "substantive",
+          "issue": "Quantifier scope is settled in one of two plausible ways. English 'a large proportion of languages' counts languages. German 'ein grosser Theil aller ... Sprachen' can also be read as a large part of every such language (i.e. of its vocabulary) being reducible to monosyllabic roots, which better supports the claim in p74:s2 that the monosyllabic division is not purely factual. The German is genuinely ambiguous and should not be silently resolved.",
+          "evidence": "Denn ein grosser Theil aller, auch noch so vielsylbiger Sprachen lässt sich auf einsylbige Wurzeln durch Zergliederung zurückführen",
+          "suggestion": "Flag for editorial decision. If the intra-language reading is intended: 'a large part of all languages, however polysyllabic, can be traced back by analysis to monosyllabic roots'. Retain a note on the ambiguity if the count-of-languages reading is kept.",
+          "block": 1,
+          "run_finding_id": "F3"
+        },
+        {
+          "id": "b1-F4",
+          "source_ids": [
+            "p74:s11"
+          ],
+          "severity": "substantive",
+          "issue": "Uncertain rendering of the compensation mechanism. English 'an imbalance generally rights itself' makes the imbalance its own agent of correction. German 'stellt sich ein Misverhältniss ... durch andre ... Umstände her' is idiomatically obscure with Misverhältniss as subject; the sense required by the result clause is that the disproportion is made good or compensated for by other circumstances, not that it re-establishes itself. The present wording obscures whose state is restored.",
+          "evidence": "in der Natur stellt sich ein Misverhältniss gewöhnlich immer wieder durch andre daneben eintretende Umstände her, so dass im Ganzen wieder dieselbe Erscheinung, als wo es nicht vorhanden ist, hervorkommt",
+          "suggestion": "Consider the more neutral: 'a disproportion is generally made good again in nature by other circumstances that come into play alongside it', and record the German idiom as uncertain.",
+          "block": 1,
+          "run_finding_id": "F4"
+        },
+        {
+          "id": "b1-F5",
+          "source_ids": [
+            "p75:s2"
+          ],
+          "severity": "substantive",
+          "issue": "Subject and presupposition are reversed in interpretation. English 'because we cannot assume an exact knowledge of how discourse is actually delivered' supplies 'we' and a lack of knowledge. German literally says the circumstances are harder to judge 'als sie keine genaue Kenntniss ... voraussetzen' — inasmuch as they presuppose no exact knowledge of living delivery. Whether Humboldt means that judgement must proceed without such knowledge, or that no such knowledge is available to presuppose, is not settled by the syntax; the English chooses the second without signalling the difficulty.",
+          "evidence": "um so schwieriger zu beurtheilen sind, als sie keine genaue Kenntniss des lebendigen Vortrags der Rede voraussetzen",
+          "suggestion": "Push back rather than invent: retain closeness, e.g. 'all the harder to judge in that they presuppose no exact knowledge of the living delivery of speech', with an editorial note, or confirm the intended sense from §67 on living delivery before finalising 'we cannot assume'.",
+          "block": 1,
+          "run_finding_id": "F5"
+        },
+        {
+          "id": "b1-F6",
+          "source_ids": [
+            "p77:s6"
+          ],
+          "severity": "substantive",
+          "issue": "Wrong bearer for 'dieselben'. English 'the organs of speech and their laws are everywhere the same, making the same limited range of word sounds possible' transfers sameness to organs and laws. In German the subject is 'die Gleichheit der Sprachwerkzeuge und ihrer Gesetze', and 'dieselben ... Wortlaute' is its object: the sameness of organs and laws makes the same word-sounds, and only a certain number of them, possible everywhere.",
+          "evidence": "Da jedoch die Gleichheit der Sprachwerkzeuge und ihrer Gesetze überall dieselben und nur eine gewisse Anzahl von Wortlauten möglich macht",
+          "suggestion": "Consider: 'Yet since the sameness of the organs of speech and of their laws makes the same word-sounds, and only a certain number of them, possible everywhere...'",
+          "block": 1,
+          "run_finding_id": "F6"
+        },
+        {
+          "id": "b1-F7",
+          "source_ids": [
+            "p77:s6"
+          ],
+          "severity": "minor",
+          "issue": "Narrowed recasting. German asks sound-identity/affinity to decide 'über ihren historischen oder physiologischen Unterschied' — over the historical or physiological distinction/difference in question. English 'whether the resemblance is historical or physiological in origin' adds 'in origin' and turns a distinction to be decided into a classification of a resemblance, easing but also narrowing the §47 problem cross-referenced here.",
+          "evidence": "so kann (47.) die blosse Einerleiheit oder Verwandtschaft des Tons für sich nicht über ihren historischen oder physiologischen Unterschied entscheiden",
+          "suggestion": "Consider: 'mere identity or affinity of sound cannot by itself decide the historical or physiological distinction', preserving the link to §47.",
+          "block": 1,
+          "run_finding_id": "F7"
+        },
+        {
+          "id": "b1-F8",
+          "source_ids": [
+            "p77:s8"
+          ],
+          "severity": "substantive",
+          "issue": "Modality strengthened. German 'dürften höchstens ... auszunehmen seyn' is tentative and maximal: at most, imitative words might be excepted. English 'The only possible exceptions ... are words that imitate natural sounds' asserts that such exceptions exist and are the only ones.",
+          "evidence": "Von dieser Entstehung jedes Worts aus einem andren Wort dürften höchstens die Naturlauten nachgeahmten auszunehmen seyn",
+          "suggestion": "Consider: 'At most, words imitating natural sounds might be excepted from this emergence of each word from another word.'",
+          "block": 1,
+          "run_finding_id": "F8"
+        },
+        {
+          "id": "b1-F9",
+          "source_ids": [
+            "p77:s7",
+            "p78:s3"
+          ],
+          "severity": "minor",
+          "issue": "Humboldt's sound-formation terms are paraphrased into generic additions, collapsing distinctions. 'Anklang' becomes 'echo', 'Anhängung, Vorschlag oder Einschiebung' becomes addition 'at the end, at the beginning, or within it', and 'Erweiterungen ... durch Vor- und Nachklänge' becomes extension 'by sounds added at the beginning or end'. The Klang metaphor and the difference between derivation by accretion and resonance-like recurrence are no longer terminologically visible, though §§77–78 turn on classifying just these processes.",
+          "evidence": "durch Ableitung, indem der einfachere durch Anhängung, Vorschlag oder Einschiebung zum mehr oder minder Zusammengesetzten wird, und durch Anklang; die Erweiterungen der Wörter durch Vor- und Nachklänge",
+          "suggestion": "Keep a glossed term at first use, e.g. Anklang 'sound-resonance', 'fore-sounds and after-sounds (Vor- und Nachklänge)', and distinguish suffixing/prothesis/insertion from mere position of addition if that is the intended sense.",
+          "block": 1,
+          "run_finding_id": "F9"
+        },
+        {
+          "id": "b1-F10",
+          "source_ids": [
+            "p79:s1"
+          ],
+          "severity": "substantive",
+          "issue": "Two directional choices settle ambiguous German. (a) 'Je näher eine Sprache aus einer schon vollständig geformten entnommen ist' is rendered 'the more directly derived', choosing directness of derivation over closeness (temporal or genealogical proximity) of the taking. (b) 'steigt sie zu einfachen Lauten auf' (ascends to simple sounds in analysis) becomes 'reaches back to', temporalising an analytic ascent. Both affect the §79 contrast with languages whose origin is lost in obscurity.",
+          "evidence": "Je näher eine Sprache aus einer schon vollständig geformten entnommen ist, desto weniger steigt sie zu einfachen Lauten auf",
+          "suggestion": "Consider: 'The more closely [or: the nearer] a language is taken from one already fully formed, the less it ascends to simple sounds', and record 'directly derived / reaches back' as an alternative for editorial decision.",
+          "block": 1,
+          "run_finding_id": "F10"
+        },
+        {
+          "id": "b1-F11",
+          "source_ids": [
+            "p79:s3"
+          ],
+          "severity": "minor",
+          "issue": "Referent and force of 'in sich' are settled. 'Acts in its own right' imports independent standing; German 'auch in sich ... auf die Nation zurück[wirkt]' more plainly contrasts an effect in itself (in consciousness and feeling), beyond its effect on use. In the next clause the pronoun in 'womit sie in Berührung steht' (Nation or Spracherzeugung, both feminine) is rendered by an ambiguous English 'it' after 'production of language among its people', leaving the bearer of fruitfulness unclear.",
+          "evidence": "Dies wirkt nun, ausser dem Einfluss einer solchen Fülle und Regelmässigkeit auf den Gebrauch, auch in sich, im klaren Bewusstseyn, wie in dunklem Gefühl auf die Nation zurück, und die Spracherzeugung in ihr wird fruchtbarer für Alles, womit sie in Berührung steht",
+          "suggestion": "Consider 'also acts in itself back upon the nation' and disambiguate the final pronoun editorially, e.g. 'for everything with which it [the nation / language-production] comes into contact', noting the German ambiguity.",
+          "block": 1,
+          "run_finding_id": "F11"
+        },
+        {
+          "id": "b1-F12",
+          "source_ids": [
+            "p80:s3"
+          ],
+          "severity": "substantive",
+          "issue": "Recurring term mistranslated. 'Geistiger' is rendered 'discerning' ('more refined and discerning the ear and the sense of language'). Elsewhere in the division geistig is kept as intellectual/mental, and the contrast feiner und geistiger is central to Humboldt's claim that fineness of hearing is also intellectuality of language-sense. 'Discerning' reduces this to perceptual acuity.",
+          "evidence": "Denn je feiner und geistiger sich das Gehör und der Sprachsinn in diesem erweist",
+          "suggestion": "Consider: 'the finer and more intellectual the ear and the sense of language prove to be in this [sound system]'.",
+          "block": 1,
+          "run_finding_id": "F12"
+        },
+        {
+          "id": "b1-F13",
+          "source_ids": [
+            "p80:s4",
+            "p80:s6",
+            "p81:s1",
+            "p81:s5",
+            "note:coptic-sanskrit"
+          ],
+          "severity": "substantive",
+          "issue": "Inconsistent and potentially misleading rendering of the technical Gleichartigkeit / gleichartig (see §47 in the background). Within a few pages it is 'similarity in kind' (p80:s4, p80:s6), 'in what respects ... are of the same kind' (p81:s1), 'to be of the same kind' (p81:s5, note). 'Similarity' suggests mere resemblance, whereas Humboldt's argument in §§80–81 distinguishes historically grounded sameness of kind, knowable through lexical analogy, from merely apparent sound-resemblance (p81:s5). The variation obscures that one concept is at issue.",
+          "evidence": "die Gleichartigkeit der Sprachen lässt sich ... an der lexikalischen Analogie ... erkennen; Je individueller aber eine Gleichartigkeit ist, desto sichrer weist sie auf einen geschichtlichen Zusammenhang hin; um nicht wirklich verschiedene wegen bloss scheinbarer Lautähnlichkeit, als gleichartig, anzusehen",
+          "suggestion": "Adopt one rendering throughout §§72–83 (e.g. 'sameness of kind' / 'of the same kind', glossed at first use as historically cognate where context requires) and avoid 'similarity' for Gleichartigkeit; reserve 'resemblance/similarity' for Aehnlichkeit.",
+          "block": 1,
+          "run_finding_id": "F13"
+        },
+        {
+          "id": "b1-F14",
+          "source_ids": [
+            "p80:s7"
+          ],
+          "severity": "minor",
+          "issue": "Strength and noun changed at the clause end. German: a language 'in welcher gar kein solcher Bau in solcher Vollkommenheit, oder ein andres System desselben vorhanden ist' — in which no such structure in such completeness/perfection at all, or another system of it, is present. English 'absent in that degree of development, or follows a different system' loses 'gar kein', replaces Vollkommenheit (completeness/perfection) with developmental degree, and shifts the subject of the alternative from a system being present to the structure following a system.",
+          "evidence": "in welcher gar kein solcher Bau in solcher Vollkommenheit, oder ein andres System desselben vorhanden ist",
+          "suggestion": "Consider: 'in which no such structure in such completeness is present at all, or a different system of it is present instead.'",
+          "block": 1,
+          "run_finding_id": "F14"
+        },
+        {
+          "id": "b1-F15",
+          "source_ids": [
+            "note:coptic-sanskrit"
+          ],
+          "severity": "minor",
+          "issue": "A syntactically odd printed reading is silently smoothed. German 'wie es in hloili auch loili ist' does not literally say 'just as hloili also occurs as loili'; the English supplies 'occurs as'. That is a plausible sense, but because the clause carries the evidential parallel for treating h as mere aspiration, the smoothing should be recorded rather than presented as transparent. No alternative reading is asserted here.",
+          "evidence": "da das h hier ebenso ein blosser Hauch des r seyn könnte, wie es in hloili auch loili ist",
+          "suggestion": "Keep the rendering if intended, but add a textual note that the German construction is elliptical/odd as printed; do not emend the transcription on this evidence alone.",
+          "block": 1,
+          "run_finding_id": "F15"
+        },
+        {
+          "id": "b1-F16",
+          "source_ids": [
+            "p82:s2"
+          ],
+          "severity": "substantive",
+          "issue": "Epistemic uncertainty added to Humboldt's example. German has a wenn–so construction: if/when the emergence of λαμβάνω from λάβω 'blosse Tonveränderung ist'. English 'may be a mere change of sound' introduces a tentative 'may' absent from the conditional assertion, presenting Humboldt's historical claim as hedged. Preserve his claim as his, without modernising caution.",
+          "evidence": "wenn z. B. die Entstehung von λαμβάνω aus λάβω blosse Tonveränderung ist, so führt die von legen aus liegen eine Nuance des Sinnes mit sich",
+          "suggestion": "Consider: 'whereas the emergence of λαμβάνω from λάβω, for example, is a mere change of sound, that of legen from liegen carries a shade of sense with it.'",
+          "block": 1,
+          "run_finding_id": "F16"
+        },
+        {
+          "id": "b1-F17",
+          "source_ids": [
+            "p82:s3"
+          ],
+          "severity": "minor",
+          "issue": "Modernising narrowing. 'Bildung durch Vor- und Nachsilben' (fore- and after-syllables) is rendered 'formation by prefixes and suffixes'. Prefix/suffix in current English need not be syllabic and belongs to a later morphological taxonomy; Humboldt's compound-by-syllables framing in §82, where Lautverhältnisse are said to cooperate only subordinately, is thereby tidied.",
+          "evidence": "wie bei der Bildung durch Vor- und Nachsilben, bloss zu verschiedner Bestimmung des Hauptbegriffs",
+          "suggestion": "Consider 'formation by fore- and after-syllables (prefixes and suffixes)' at first occurrence, then a consistent short form.",
+          "block": 1,
+          "run_finding_id": "F17"
+        },
+        {
+          "id": "b1-F18",
+          "source_ids": [
+            "p77:s6",
+            "p77:s7",
+            "p80:s5",
+            "p82:s1",
+            "p82:s2",
+            "p83:s1",
+            "p83:s2"
+          ],
+          "severity": "substantive",
+          "issue": "Cross-cutting collapse of Ton and Laut (and Klang) into indiscriminate 'sound'. The preceding Lautsystem division (§§56–71, background) and §§73–83 themselves exploit the difference between Laut as articulated sound (Wortlaut, Lautsystem, Wahl der Laute, Lautverhältnisse) and Ton as tone/sounded tone (Tonbehandlung, Tonveränderung, Grundton, Verhältnis zwischen Ton und Bedeutung). Rendering both as 'sound' throughout — e.g. 'treatment of sound' for Tonbehandlung in p82:s1 immediately before 'sound relationships' for Lautverhältnisse in p82:s4 — makes it impossible for the English reader to see when Humboldt shifts level, notably in §83's move from choice of Laute to Ton–meaning agreement.",
+          "evidence": "die Abhängigkeit der Wortbildung von der Tonbehandlung der Nation; In der Wahl der Laute für die Begriffe; bald der Ton von dem Grundton, bald der Begriff von dem Grundbegriff ... abgebeugt wird, erleidet dies Verhältniss zwischen Ton und Bedeutung",
+          "suggestion": "Decide a division-wide convention (e.g. Laut = '(articulated) sound', Ton = 'tone' where contrastive) and apply it at least where both occur in proximity or in defined phrases (Wortlaut, Tonbehandlung, Grundton); record places where 'sound' is retained for readability as a deliberate flattening.",
+          "block": 1,
+          "run_finding_id": "F18"
+        },
+        {
+          "id": "b2-F01",
+          "source_ids": [
+            "p85:s4"
+          ],
+          "severity": "minor",
+          "issue": "“als Object” is rendered “considered in itself”, importing the distinct “an sich” contrast of §85:s2 and obscuring that the object qua object is at issue.",
+          "evidence": "der Gegenstand aber, als Object, immer nur allgemeiner gefasst werden kann",
+          "suggestion": "“The object, as object, can always be grasped only more generally.”",
+          "block": 2,
+          "run_finding_id": "F01"
+        },
+        {
+          "id": "b2-F02",
+          "source_ids": [
+            "p89:s1",
+            "p105:s6"
+          ],
+          "severity": "substantive",
+          "issue": "The technical verb “vergeistigt” is rendered inconsistently and freely, first as “gives mental form to” and later as “draws … towards the life of the mind”. The first imports “form”; the second changes a direct transformation of the human being into movement towards a state.",
+          "evidence": "so vergeistigt sie die in äusserer und innerer Wahrnehmung stoffartige; Die Sprache vergeistigt immer den Menschen",
+          "suggestion": "Use one rendering, e.g. “spiritualizes/intellectualizes”: “so it spiritualizes what is material-like …”; “Language continually spiritualizes the human being…”, with a terminological note if “spiritualize” risks a religious sense.",
+          "block": 2,
+          "run_finding_id": "F02"
+        },
+        {
+          "id": "b2-F03",
+          "source_ids": [
+            "p89:s3"
+          ],
+          "severity": "minor",
+          "issue": "The exclusion in “nichts als eine Anregung” is dropped, weakening the contrast between the word outside the soul as nothing but a stimulus and the completed concept in the soul as thinking itself.",
+          "evidence": "das Wort, als Sprachbestandtheil ausser der Seele gedacht, nichts als eine Anregung zum Denken … ist",
+          "suggestion": "“… is nothing but a stimulus to thinking …”",
+          "block": 2,
+          "run_finding_id": "F03"
+        },
+        {
+          "id": "b2-F04",
+          "source_ids": [
+            "p91:s4"
+          ],
+          "severity": "minor",
+          "issue": "The bearer “eine … Individualitaet”, a technical term throughout §§86–92, is recast twice as a “person”. This obscures the level at which Humboldt is arguing — individuality within, and against, the generality of language.",
+          "evidence": "wenn daher diese auch als todte oder fremde von einer sehr verschiedenen Individualitaet aufgefasst wird, nöthtigt sie dieselbe dennoch, ihre Anschauungsweise anzunehmen",
+          "suggestion": "“even when [the language] is apprehended, as dead or foreign, by a very different individuality, it still compels that individuality to adopt its mode of intuition…”",
+          "block": 2,
+          "run_finding_id": "F04"
+        },
+        {
+          "id": "b2-F05",
+          "source_ids": [
+            "p91:s8",
+            "p93:s4"
+          ],
+          "severity": "critical",
+          "issue": "Unresolved textual/semantic reversal: the checked German of §91:s8, faithfully followed in English as “nouns that have become adjectives”, says substantives have become adjectives, although the properties-premise in the same sentence and §93:s4 (“Substantiva … aus Adjectiven bildend”) require the opposite direction. The uncorrected whole-work OCR shows the same order, so this cannot be settled from the supplied material as a transcription error; the editor must decide between retaining a printed/manuscript reading with a note and an emendation.",
+          "evidence": "sind nichts anders, als zu Adjectiven gewordene Substantiva; Substantiva zu sichtlich aus Adjectiven bildend",
+          "suggestion": "Do not silently reverse the translation. Collate the manuscript/print; if the order stands, keep “nouns that have become adjectives” with an editorial “sic”/note pointing to §93:s4; if emended, translate “adjectives that have become nouns” and record the emendation.",
+          "block": 2,
+          "run_finding_id": "F05"
+        },
+        {
+          "id": "b2-F06",
+          "source_ids": [
+            "p93:s3"
+          ],
+          "severity": "substantive",
+          "issue": "The German “nicht durch … sondern durch” contrast is lost in “… effect …, beyond the particular riches …”, which can be read as adding the riches rather than excluding them as the criterion of linguistic merit.",
+          "evidence": "die Vorzüge der Sprachen werden nicht durch den partiellen Reichthum von Bildern und Begriffen bestimmt … , sondern durch ihre Einwirkung auf das Denken und Empfinden überhaupt",
+          "suggestion": "“The merits of languages are determined not by the partial wealth of images and concepts they supply to the soul, but by their effect on thinking and feeling in general.”",
+          "block": 2,
+          "run_finding_id": "F06"
+        },
+        {
+          "id": "b2-F07",
+          "source_ids": [
+            "p93:s4"
+          ],
+          "severity": "minor",
+          "issue": "The parenthetical qualification “ohne anderer geringerer zu erwähnen” (“without mentioning other, lesser [disadvantages]”) is omitted; “among its disadvantages” only partly compensates.",
+          "evidence": "aber sie hat auch, ohne anderer geringerer zu erwähnen, den Nachtheil, dass …",
+          "suggestion": "“But it also has, not to mention lesser disadvantages, the disadvantage that …”",
+          "block": 2,
+          "run_finding_id": "F07"
+        },
+        {
+          "id": "b2-F08",
+          "source_ids": [
+            "p93:s4"
+          ],
+          "severity": "minor",
+          "issue": "Cross-reference: the designation of objects by their properties was introduced at §91:s8, not §90:s1 (objective/subjective, matter/form). English reproduces “§90” without comment.",
+          "evidence": "die (90.) angeführte Bezeichnung der Gegenstände durch ihre Eigenschaften",
+          "suggestion": "Verify against the manuscript. If Humboldt’s slip, retain “§90” with an editorial “[see §91]”; do not silently renumber.",
+          "block": 2,
+          "run_finding_id": "F08"
+        },
+        {
+          "id": "b2-F09",
+          "source_ids": [
+            "p94:s1",
+            "p94:s2"
+          ],
+          "severity": "substantive",
+          "issue": "Ambiguous referent of “Gleichgewicht” resolved, without warrant, as two languages having the “same balance” as each other. §94:s2, on one stimulus predominating over another, supports the alternative that equilibrium within a language’s word-form is itself rarely perfect.",
+          "evidence": "Nicht leicht werden zwei Sprachen in der Form ihrer Wörter ein vollkommenes Gleichgewicht zwischen den verschiedenen Anregungen halten, welche die Seele dadurch erfährt",
+          "suggestion": "Editor to choose and make explicit, e.g. “Scarcely will two languages keep the various stimulations … in perfect equilibrium in the form of their words”; if the inter-language reading is retained, justify it in a note against §94:s2.",
+          "block": 2,
+          "run_finding_id": "F09"
+        },
+        {
+          "id": "b2-F10",
+          "source_ids": [
+            "p94:s6"
+          ],
+          "severity": "minor",
+          "issue": "The antecedent of “durch diesen” is left undecidable by “which in turn helps determine it”: German “diesen” most nearly refers to the character of the literature (not to “use” or “literature” itself), and “helps” has no German counterpart there.",
+          "evidence": "Er bestimmt auch zum Theil den Gebrauch … , den mehr poetischen, philosophischen, wissenschaftlichen Charakter ihrer Literatur, und wird wieder durch diesen bestimmt",
+          "suggestion": "“… and the more poetic, philosophical or scientific character of its literature; and it is in turn determined by that character.”",
+          "block": 2,
+          "run_finding_id": "F10"
+        },
+        {
+          "id": "b2-F11",
+          "source_ids": [
+            "p96:s4"
+          ],
+          "severity": "minor",
+          "issue": "“mit welchen wir hier zunächst zu thun haben” is rendered “with which we are primarily concerned”, losing the deictic “here in the first instance” that points back to the American languages framing the whole work (cf. §75:s6).",
+          "evidence": "ganz gewöhnlich ist es bei den Sprachen, mit welchen wir hier zunächst zu thun haben",
+          "suggestion": "“in the languages with which we are here in the first instance concerned”.",
+          "block": 2,
+          "run_finding_id": "F11"
+        },
+        {
+          "id": "b2-F12",
+          "source_ids": [
+            "p96:s6"
+          ],
+          "severity": "substantive",
+          "issue": "“eine Masse Gedankenstoffes” becomes merely “a body of material”: the recurring term Gedankenstoff (“material of thought”, §72:s5, §96:s3) is dropped at the point where the benefit is made conditional on its bearing on thinking.",
+          "evidence": "wenn es eine Masse Gedankenstoffes betrifft, die zu Gewinnung erweiterter Ansichten befördernd in das Denken eingreifen kann",
+          "suggestion": "“if it concerns a mass of thought-material that can intervene in thinking so as to advance the attainment of broader views”.",
+          "block": 2,
+          "run_finding_id": "F12"
+        },
+        {
+          "id": "b2-F13",
+          "source_ids": [
+            "p96:s7",
+            "p103:s8"
+          ],
+          "severity": "minor",
+          "issue": "“glückliche” in Humboldt’s evaluative sense of a happy/felicitous endowment is rendered “fortunate” of the creative capacity (suggesting luck) and “natural” of the disposition to symbolize, losing the recurrent term and its positive valuation.",
+          "evidence": "das glückliche Schöpfungsvermögen des Geistes; die glückliche Anlage dazu",
+          "suggestion": "Standardize on “happy” or “felicitous”: “the mind’s felicitous creative power”; “a felicitous disposition towards it”.",
+          "block": 2,
+          "run_finding_id": "F13"
+        },
+        {
+          "id": "b2-F14",
+          "source_ids": [
+            "p98:s4"
+          ],
+          "severity": "substantive",
+          "issue": "The pivotal claim that what indicates the concept is itself, “auch als Begriff”, its designation is paraphrased into “is what designates it, and this too is a concept”, which blurs the identity being asserted and prepares §99:s1 poorly. “in dem ganzen Wesen” also becomes merely “in its entirety”, losing “essence/nature”.",
+          "evidence": "das also, wodurch es ihn dem Geiste des Hörenden andeutet, ist, auch als Begriff, seine Bezeichnung; noch … in dem ganzen Wesen desselben gegeben werden",
+          "suggestion": "“What indicates it to the hearer’s mind is therefore, itself also as a concept, its designation”; “… nor, in the case of a corporeal object, in the object’s whole nature.”",
+          "block": 2,
+          "run_finding_id": "F14"
+        },
+        {
+          "id": "b2-F15",
+          "source_ids": [
+            "p98:s6",
+            "p98:s7",
+            "p98:s8"
+          ],
+          "severity": "substantive",
+          "issue": "“Anschauungsweise” is rendered elsewhere in the block as “mode of intuition” (§§91–93), but here as “manner of sensory apprehension” / “sensory mode of apprehending”. “Sensory” is already inserted in §98:s6, although §98:s7 then argues that this mode can only be conceived as sensory; the sequence of the argument is obscured.",
+          "evidence": "dies konnte nur diese, den ganzen Begriff in Einem Punkte zusammenfassende Anschauungsweise seyn. Diese selbst aber kann man sich nur sinnlich denken; diese sinnliche Auffassungsweise des Gegenstandes",
+          "suggestion": "Keep “mode of intuition” in §98:s6 without “sensory”; let §98:s7 introduce “sensory”: “This mode of intuition itself, however, can be conceived only as sensory …” For §98:s8, mark the German change to “Auffassungsweise” (“mode of apprehension”) explicitly if terminological variation is retained.",
+          "block": 2,
+          "run_finding_id": "F15"
+        },
+        {
+          "id": "b2-F16",
+          "source_ids": [
+            "p99:s1",
+            "p99:s3",
+            "p99:s4",
+            "p99:s5",
+            "p104:s1"
+          ],
+          "severity": "substantive",
+          "issue": "Humboldt’s coinage “Selbstbedeutung” is uniformly rendered “motivating meaning”. This imports the later linguistic notion of (etymological) motivation and erases the “self-/its own” element by which the word signifies through the concept grasped in it; it is a defensible interpretation but not a neutral equivalent, and it governs §§99–104.",
+          "evidence": "Diese Art der Begriffsbezeichnung könnte man die Selbstbedeutung der Wörter nennen; von seiner Selbstbedeutung die Rede ist",
+          "suggestion": "Editorial choice required, e.g. first occurrence “a word’s self-meaning (Selbstbedeutung)” or “its own signification”, thereafter “self-meaning”; if “motivating meaning” is retained, gloss the German at §99:s1.",
+          "block": 2,
+          "run_finding_id": "F16"
+        },
+        {
+          "id": "b2-F17",
+          "source_ids": [
+            "p99:s4"
+          ],
+          "severity": "minor",
+          "issue": "“wohl mit Recht … ansehen muss” is weakened to “presumably have good reason”, and “das Ursprünglichere” (the more original state) is narrowed to “an earlier state in the history of languages”, adding “history”.",
+          "evidence": "Da man das Vorherrschen der Selbstbedeutungen wohl mit Recht als das Ursprünglichere in den Sprachen ansehen muss",
+          "suggestion": "“Since the predominance of self-meanings must surely rightly be regarded as the more original condition in languages…” (adjust to the term chosen under F16).",
+          "block": 2,
+          "run_finding_id": "F17"
+        },
+        {
+          "id": "b2-F18",
+          "source_ids": [
+            "p101:s6"
+          ],
+          "severity": "minor",
+          "issue": "“es schiebt der Idee eine Gestalt unter” becomes the neutral “it supplies the idea with a shape”. “Unterschieben” carries slipping/substituting something under or in place of the idea, which matters to the ensuing distinction between word and symbol.",
+          "evidence": "Denn es schiebt der Idee eine Gestalt unter",
+          "suggestion": "“For it slips a shape in under the idea” or “substitutes a shape for the idea”, with the editor choosing how much of the surreptitious nuance to preserve.",
+          "block": 2,
+          "run_finding_id": "F18"
+        },
+        {
+          "id": "b2-F19",
+          "source_ids": [
+            "p102:s4",
+            "p102:s7"
+          ],
+          "severity": "substantive",
+          "issue": "“Weile” (length of tarrying/dwelling) in §102:s4 is rendered “lengths of pause”, collapsing it into the distinct “Pausen” term used in §102:s7 and misdescribing the symbolizing mind’s lingering on an object as a gap between presentations.",
+          "evidence": "eine ganz verschiedene Weile in der Folge der Vorstellungen; den unterbrochnen Zusammenhang am wenigsten durch Pausen störenden Einschnitte",
+          "suggestion": "§102:s4: “a quite different tarrying/lingering in the succession of presentations”; reserve “pause” for “Pausen” in §102:s7.",
+          "block": 2,
+          "run_finding_id": "F19"
+        },
+        {
+          "id": "b2-F20",
+          "source_ids": [
+            "p103:s9"
+          ],
+          "severity": "minor",
+          "issue": "Checked German prints the noun as “Gäbe”, orthographically anomalous for “Gabe” (gift) and formally indistinguishable from a subjunctive form; English silently normalizes to “gift”. This is a meaningful ambiguity for the German apparatus, not a translation error in sense.",
+          "evidence": "Es muss Gäbe und Drang vorhanden seyn",
+          "suggestion": "Confirm the printed/manuscript form; if “Gäbe” stands, mark “[sic]” in the German or record “read Gabe”, and keep “gift” in English.",
+          "block": 2,
+          "run_finding_id": "F20"
+        },
+        {
+          "id": "b2-F21",
+          "source_ids": [
+            "p104:s12"
+          ],
+          "severity": "substantive",
+          "issue": "The German is elliptical: “von verschiedenen … begleitet” has no head noun (evidently the sensory presentations of §104:s11). English masks the ellipsis by recasting to “What accompanies the same word … plainly differs…”, leaving the reader unable to see what Humboldt left unexpressed. “Vortrage” as “exposition” also narrows delivery/discourse to expository writing.",
+          "evidence": "Denn dasselbe Wort ist offenbar von verschiedenen in einem dichterischen, und in einem wissenschaftlichen Vortrage begleitet",
+          "suggestion": "“For the same word is plainly accompanied by different [presentations] in poetic discourse and in scientific discourse”, with the bracketed supplement and a flag for the editor; do not present the supplement as certainly Humboldt’s word.",
+          "block": 2,
+          "run_finding_id": "F21"
+        },
+        {
+          "id": "b2-F22",
+          "source_ids": [
+            "p105:s1",
+            "p105:s5"
+          ],
+          "severity": "substantive",
+          "issue": "“Gemüth(-)” is rendered three ways within §105: “inner life” (§105:s1 “Empfindung des Gemüths”), “affective” (§105:s1 “Gemüthskräfte”), and “of the heart” (§105:s5 “Gemüthsempfindung”). The recurrence of a central anthropological term is lost and its scope shifts from affect to heart to inner life.",
+          "evidence": "als einzelne Empfindung des Gemüths, oder als Gesammtstimmung der verbundenen intellectuellen und Gemüthskräfte; die einzelne Gemüthsempfindung verrathen",
+          "suggestion": "Adopt one base equivalent for Gemüth (e.g. “mind” is too narrow here; prefer a glossed “Gemüth” or consistent “inner disposition/heart-and-mind”) and derive all compounds from it, e.g. “single sensation of the Gemüth”, “powers of Gemüth”, “sensation of the Gemüth”, with a first-use note.",
+          "block": 2,
+          "run_finding_id": "F22"
+        },
+        {
+          "id": "b2-F23",
+          "source_ids": [
+            "p105:s7"
+          ],
+          "severity": "minor",
+          "issue": "The contrast “Volksdialecte” / “höhere gereinigte Mundart” is weakened by rendering Mundart as “idiom” and “gereinigte” as “refined”, losing both the dialect-vs.-dialect parallelism and the notion of purification of the higher form.",
+          "evidence": "Alle Volksdialecte bedienen sich häufiger … , als die höhere gereinigte Mundart",
+          "suggestion": "“All folk dialects use … more frequently than the higher, purified dialect.”",
+          "block": 2,
+          "run_finding_id": "F23"
+        },
+        {
+          "id": "b2-F24",
+          "source_ids": [
+            "p105:s9"
+          ],
+          "severity": "minor",
+          "issue": "“in der fesselfreien Rede” is explicated as “discourse free of metrical constraints”. The prose reference in §105:s10 makes this plausible, but the metaphor of fetters and the generality of “unfettered discourse” are prematurely narrowed to metre.",
+          "evidence": "dass niemals ein dichterisches Wort in der fesselfreien Rede geduldet wird; für die Prosa, als eigene Gattung der Rede",
+          "suggestion": "“in unfettered discourse (prose)” or “in discourse free of fetters”; leave §105:s10 to specify prose.",
+          "block": 2,
+          "run_finding_id": "F24"
+        },
+        {
+          "id": "b2-F25",
+          "source_ids": [
+            "p87:s1",
+            "p89:s3",
+            "p97:s5",
+            "p102:s5"
+          ],
+          "severity": "minor",
+          "issue": "House-spelling/typography: “characteriztic” occurs three times in the block (for characteristic); “Symbolising” (§102:s5) breaks the block’s otherwise Oxford -ize- practice (“symbolizes”, “symbolizing”, “synthesizing”, “individualizing”).",
+          "evidence": "da es nun die Eigenthümlichkeit des Wortes ist; der menschlich geistigen Kraft … eigenthümlich angehört; gerade den Sprachen sehr geistreicher Nationen eigen seyn; Das Symbolisiren führt zur Vertiefung",
+          "suggestion": "Correct to “characteristic” in all three places; use “Symbolizing” for consistency with the adopted Oxford -ize- forms.",
+          "block": 2,
+          "run_finding_id": "F25"
+        },
+        {
+          "id": "b3-F01",
+          "source_ids": [
+            "p109:s7"
+          ],
+          "severity": "minor",
+          "issue": "German Erfahrung is rendered as historical evidence, shifting the ground from historical experience to documentary evidence.",
+          "evidence": "Der Mangel aller geschichtlichen Erfahrung verbietet über diesen Scheidepunkt etwas Näheres zu sagen.",
+          "suggestion": "Use 'the complete lack of historical experience prevents us from saying anything more precise about this dividing point'.",
+          "block": 3,
+          "run_finding_id": "F01"
+        },
+        {
+          "id": "b3-F02",
+          "source_ids": [
+            "p110:s4",
+            "p120:s4"
+          ],
+          "severity": "substantive",
+          "issue": "The recurring key term Anschauungsweise, rendered as mode of intuition in §§91-94, becomes mode of viewing and mode of sensory viewing here. Viewing narrows Anschauung to the visual and breaks the terminological chain; at p110 the mode one works towards also becomes one the speaker seeks to bring about.",
+          "evidence": "der Anschauungsweise, auf die man hinarbeitet; die in dem Volke vorherrschende Neigung zu dieser oder jener sinnlichen Anschauungsweise",
+          "suggestion": "Use 'mode of intuition' at p110, with 'towards which one is working', and 'sensory mode of intuition' at p120.",
+          "block": 3,
+          "run_finding_id": "F02"
+        },
+        {
+          "id": "b3-F03",
+          "source_ids": [
+            "p112:s2"
+          ],
+          "severity": "minor",
+          "issue": "Genauer bestimmen is rendered as giving more precise definition. Definition narrows bestimmen and sits awkwardly with the point that the finer determination in use need not be demonstrable in a dictionary.",
+          "evidence": "die Begriffe, wenigstens durch den Gebrauch der verschiedenen Ausdrücke, wenn es sich auch nicht immer im Wörterbuch nachweisen lässt, feiner zu nuanciren und genauer zu bestimmen.",
+          "suggestion": "Use 'to nuance concepts more finely and determine them more precisely, at least through the use of the different expressions'.",
+          "block": 3,
+          "run_finding_id": "F03"
+        },
+        {
+          "id": "b3-F04",
+          "source_ids": [
+            "p112:s3"
+          ],
+          "severity": "minor",
+          "issue": "Gebrauch becomes choice, and sprachkundigen Rednern, speakers who know the language, becomes speakers with a practised sense of language. Knowledge of the language and its origins, which explains why freedom and liberty differ in use despite differing only in origin, is replaced by practised taste.",
+          "evidence": "so ist der Gebrauch derselben bei feinsinnigen und sprachkundigen Rednern doch nicht ganz gleichgültig.",
+          "suggestion": "Use 'their use is still not wholly a matter of indifference among speakers of fine sensitivity who know the language'.",
+          "block": 3,
+          "run_finding_id": "F04"
+        },
+        {
+          "id": "b3-F05",
+          "source_ids": [
+            "p114:s2"
+          ],
+          "severity": "minor",
+          "issue": "Erschöpfenden Ausdruck, exhaustive expression, is weakened to fully adequate expression, lowering the criterion for words to be collected as lacking equivalents elsewhere.",
+          "evidence": "die in andren keinen erschöpfenden Ausdruck in einem eignen Worte finden.",
+          "suggestion": "Use 'find no exhaustive expression in a word of their own in other languages'.",
+          "block": 3,
+          "run_finding_id": "F05"
+        },
+        {
+          "id": "b3-F06",
+          "source_ids": [
+            "p115:s3"
+          ],
+          "severity": "minor",
+          "issue": "Kraft, elsewhere the active power at work in language, is rendered as capacity, a merely potential ability, where the amount of the world actually transformed into language is at issue.",
+          "evidence": "wenn es nicht von der Kraft und Gelegenheit abhienge, wieviel von dieser Welt wirklich in Sprache verwandelt wird.",
+          "suggestion": "Use 'depends on power and opportunity'.",
+          "block": 3,
+          "run_finding_id": "F06"
+        },
+        {
+          "id": "b3-F07",
+          "source_ids": [
+            "p117:s2"
+          ],
+          "severity": "minor",
+          "issue": "The English reads 'characteriztic operations', a misspelling of characteristic. The same misspelling recurs outside this block at p87:s1, p89:s3 and p97:s5.",
+          "evidence": "und nach den ihm eigenthümlichen Operationen zu behandeln.",
+          "suggestion": "Correct to 'characteristic operations' throughout.",
+          "block": 3,
+          "run_finding_id": "F07"
+        },
+        {
+          "id": "b3-F08",
+          "source_ids": [
+            "p118:s3"
+          ],
+          "severity": "minor",
+          "issue": "Schweben, consistently rendered as hover elsewhere in the division, for example the word hovering in the sphere of imagination at §89, is rationalised as stand highest, losing Humboldt's suspended-motion metaphor for the most general words.",
+          "evidence": "und Beschaffenheits- und Bewegungswörter schweben daher, als die obersten und allgemeinsten in der Sprache.",
+          "suggestion": "Use 'words for qualities and movements therefore hover in language as its highest and most general words', retaining the German's oddness rather than resolving it.",
+          "block": 3,
+          "run_finding_id": "F08"
+        },
+        {
+          "id": "b3-F09",
+          "source_ids": [
+            "p118:s8"
+          ],
+          "severity": "substantive",
+          "issue": "The English lists four labels, nouns, adjectives and adverbs, or verbs, and then speaks of one of these three classes. The German has three Gattungen corresponding to §118's objects, qualities and actions, with adjectives and adverbs forming the single quality class, but the English punctuation makes the count self-contradictory. Grammar can also weakens the German's categorical statement that grammar recasts them.",
+          "evidence": "Wörter, die ursprünglich und ihrem Begriff nach, also lexicalisch, auch ohne alle grammatische Abzeichen, Substantiva, Adjectiva und Adverbia, oder Verba sind, und die hiernach Einer Gattung angehörenden bildet nachher die Grammatik in die beiden andren Gattungen um.",
+          "suggestion": "Group the quality words explicitly, for example 'nouns, adjectives-and-adverbs, or verbs', and use 'grammar then recasts words belonging to one of these three classes into the other two'.",
+          "block": 3,
+          "run_finding_id": "F09"
+        },
+        {
+          "id": "b3-F10",
+          "source_ids": [
+            "p118:s9"
+          ],
+          "severity": "substantive",
+          "issue": "Uncertainty in the German is silently resolved. Eines ursprünglichen has no expressed noun, but the English supplies an original verb as the first member combined with an original stem. The English also turns the awkward so wesentlich ... dass construction into a causal for. The verb reading is plausible for incorporated stems, but an original word or stem cannot be ruled out from the wording alone.",
+          "evidence": "Es ist so wesentlich hierauf zu achten, dass in mehr als Einer Sprache nicht ursprüngliche Verba bloss durch Verbindung eines ursprünglichen mit einem gleichfalls ursprünglichen Stamm, also rein lexicalisch, und ohne alle Hülfe der Grammatik gebildet werden.",
+          "suggestion": "Flag for editorial decision. If the elliptical noun cannot be confirmed from the American-language material Humboldt has in view, keep it non-committal, for example 'by combining an original element with an equally original stem', with a note, rather than asserting an original verb.",
+          "block": 3,
+          "run_finding_id": "F10"
+        },
+        {
+          "id": "b3-F11",
+          "source_ids": [
+            "p120:s1"
+          ],
+          "severity": "minor",
+          "issue": "Nicht gleich durchgehend means not equally thoroughgoing or universal; applies less consistently recasts the difference as irregularity of application rather than extent.",
+          "evidence": "doch ist diese Regel nicht gleich durchgehend, als jene.",
+          "suggestion": "Use 'though the second rule is not as thoroughgoing as the first'.",
+          "block": 3,
+          "run_finding_id": "F11"
+        },
+        {
+          "id": "b3-F12",
+          "source_ids": [
+            "p121:s5"
+          ],
+          "severity": "substantive",
+          "issue": "Stammwörter is rendered as base words, although Stammwort is consistently stem word at §§74-76 and Stamm is stem at p118:s9. The change obscures the claim that root words serve as stem words for derivation and compounding and blurs the root/stem distinction on which §§121 and 123 depend.",
+          "evidence": "und sie dienen als Stammwörter zur Ableitung und Zusammensetzung.",
+          "suggestion": "Use 'they serve as stem words for derivation and compounding'.",
+          "block": 3,
+          "run_finding_id": "F12"
+        },
+        {
+          "id": "b3-F13",
+          "source_ids": [
+            "p122:s4"
+          ],
+          "severity": "minor",
+          "issue": "The Latin technical term Gentilitia is replaced by the explanatory gloss names derived from those of peoples. That narrows a traditional class of denomination by people, country or descent to derivations from peoples' names and may misstate its basis.",
+          "evidence": "Von dieser Art sind die Patronymica, Gentilitia, Abstracta, die Eigenthumswörter",
+          "suggestion": "Retain the term, as gentilicia, with at most a cautious gloss such as gentile nouns, and let the editor verify any expansion.",
+          "block": 3,
+          "run_finding_id": "F13"
+        },
+        {
+          "id": "b3-F14",
+          "source_ids": [
+            "p122:s5",
+            "p125:s11"
+          ],
+          "severity": "minor",
+          "issue": "Verbindung der Rede and Zusammenfügung der Rede are both narrowed to joining words. That obscures the technical discourse-connexion that is the subject of the next division, Redeverbindung from §127, and the distinction between forming the vocabulary and connecting discourse.",
+          "evidence": "sie gehören offenbar zu der Bildung des Wortvorraths, nicht zu der Verbindung der Rede.; namentlich z. B. in der Zusammenfügung der Rede",
+          "suggestion": "Use 'the connexion of discourse' at p122 and 'in the construction of discourse' at p125.",
+          "block": 3,
+          "run_finding_id": "F14"
+        },
+        {
+          "id": "b3-F15",
+          "source_ids": [
+            "p122:s8"
+          ],
+          "severity": "substantive",
+          "issue": "Logische Zweckmässigkeit is rendered as logical propriety. Zweckmässigkeit is fitness for a purpose, not propriety or correctness, and Humboldt's criterion is teleological: rule-governed formation is fit only where the classes derive purely from concepts.",
+          "evidence": "Denn der logischen Zweckmässigkeit wäre es gemässer die Bildung nach Gesetzen nur da vorzunehmen, wo die zu bezeichnenden Gattungen sich, der Zahl und Beschaffenheit nach, rein aus Begriffen ableiten lassen",
+          "suggestion": "Use 'more consonant with logical purposiveness' or 'with fitness for the logical purpose'.",
+          "block": 3,
+          "run_finding_id": "F15"
+        },
+        {
+          "id": "b3-F16",
+          "source_ids": [
+            "p122:s9"
+          ],
+          "severity": "minor",
+          "issue": "Sphäre is rendered as entire domain, although Sphäre is kept as sphere elsewhere, for example at p86, p89 and p125. Domain imports Gebiet language and entire strengthens filling a sphere into exhausting a whole field.",
+          "evidence": "nemlich an den Begriffen, die zusammen eine Sphäre ausfüllen",
+          "suggestion": "Use 'concepts that together fill out a sphere'.",
+          "block": 3,
+          "run_finding_id": "F16"
+        },
+        {
+          "id": "b3-F17",
+          "source_ids": [
+            "p122:s11"
+          ],
+          "severity": "substantive",
+          "issue": "The spatially conflated pairs are made hard to read. Humboldt names two different concepts that several languages unite under one expression, using German labels for the concepts. As in schmal narrow and eng tight, or breit broad and gross large can be read as citing two separate German expressions, the opposite of the conflation being described.",
+          "evidence": "Mehrere Sprachen fassen in jenen unter demselben Ausdruck zwei verschiedne wie schmal und eng, breit und gross zusammen",
+          "suggestion": "Make the labels concept labels, for example 'several languages unite two different concepts, such as narrow and tight, or broad and large, under the same expression', retaining the German words only if their status as labels is made explicit.",
+          "block": 3,
+          "run_finding_id": "F17"
+        },
+        {
+          "id": "b3-F18",
+          "source_ids": [
+            "p124:s1"
+          ],
+          "severity": "substantive",
+          "issue": "Seele is rendered as mind, although Seele is consistently soul and Geist is mind or spirit throughout §§85-105. This collapses the soul/mind distinction at the point where the argument turns to the words' effect back upon the soul.",
+          "evidence": "und hat nun nur noch (105.) das die Wörter begleitende Gefühl, ihre Rückwirkung auf die Seele zu betrachten.",
+          "suggestion": "Use 'their effect in turn on the soul'.",
+          "block": 3,
+          "run_finding_id": "F18"
+        },
+        {
+          "id": "b3-F19",
+          "source_ids": [
+            "p125:s9"
+          ],
+          "severity": "minor",
+          "issue": "The explicit resultative link daraus entstehen is omitted. The English merely adds a simultaneous consequence, weakening Humboldt's claim that the intellectual disposition itself produces the more superficial mode of designation.",
+          "evidence": "Es wird aber zugleich daraus entstehen, dass diese Ausdrücke auch selbst in der Bezeichnung ihre Gegenstände mehr von der oberflächlichen Seite nehmen.",
+          "suggestion": "Use 'From this it will at the same time result that, even in designation, these expressions take their objects from a more superficial side'.",
+          "block": 3,
+          "run_finding_id": "F19"
+        },
+        {
+          "id": "b3-F20",
+          "source_ids": [
+            "p126:s4"
+          ],
+          "severity": "minor",
+          "issue": "Sich unterschieben, a different sense slipping in underneath the same expression, becomes simply acquiring different senses. Acquisition suggests added senses rather than substitution under an unchanged sound, which is the mechanism distinguished in §126 from overt meaning change at §84.",
+          "evidence": "So schiebt sich besonders unkörperlichen Ausdrücken: Seele, Geist, Herz, Gemüth u. s. f. nach und nach durch die blosse Auffassung ein sehr verschiedener Sinn unter.",
+          "suggestion": "Use 'a very different sense gradually slips in under expressions for incorporeal things … simply through the way they are apprehended'.",
+          "block": 3,
+          "run_finding_id": "F20"
+        },
+        {
+          "id": "b3-F21",
+          "source_ids": [
+            "p126:s9"
+          ],
+          "severity": "substantive",
+          "issue": "The pronoun ihn is left without a grammatically concordant antecedent. Ihr Studium is neuter, the changes are plural, and the nearest masculine nouns are Kreis and Theil, neither of which fits as what linguistics must include. The English resolves the object as these changes, where the sense may rather be their study or this whole subjective domain. The checked German and the uncorrected background agree on ihn, so this is a genuine referent ambiguity, not a settled reading.",
+          "evidence": "Ihr Studium gehört hauptsächlich in die Geschichte der Geistesbildung, die Sprachkunde lässt sie oft ganz ausserhalb ihres Kreises liegen, und thut nicht Unrecht hieran, wenn sie sich bloss auf den materiellen, gewissermassen roheren Theil der Sprache beschränken will, muss ihn aber nothwendig in sich fassen, wenn diese, wie es hier der Zweck ist, in ihrem vollständigen Verhältniss zum Menschen dargestellt werden soll.",
+          "suggestion": "Flag for editorial decision against the manuscript. If no concordant reading is confirmed, prefer the less committal 'it must necessarily take this study of them within itself', or annotate the pronoun, rather than asserting that it must include the changes themselves.",
+          "block": 3,
+          "run_finding_id": "F21"
+        }
+      ],
+      "whole_unit_assessments": [
+        {
+          "block": 1,
+          "assessment": "§§72–83 open division β (Wörtervorrath) after the Lautsystem (§§56–71). §72 defines the word by unity of sound (by accent) and concept and makes vocabulary the nation's stock of thought-material; §§73–76 ask how many words are possible, qualify 'monosyllabic languages' as not a purely factual class, and set both monosyllabism and Semitic stem-uniformity aside as not American, merely assigning them a place in language in general; §§77–81 lay down the chain principle (every word from an earlier word, §43), the two affinities (derivation and Anklang), and the methodological consequence that words must be compared within each language (rules of lexical analogy and Grundlaute) before any cross-language comparison; §82 begins the turn from sound-treatment to meaning and compounding; §83 treats felt sound–meaning agreement, warns against weighting it historically, yet preserves its effect where it persists — the hinge to §84's analytic separation of word as sound and as concept and to §§85 ff. on presentation, object and world-view. No critical reversal was found in the block, and Humboldt's historical claims (Chinese tones, Coptic hrosch, λαμβάνω, German distinctiveness) and the editorial first-publication note are left attributed and unmodernised in substance. The consequential cross-block risks are terminological rather than local: Ton/Laut/Klang flattening (F18), Gleichartigkeit versus Aehnlichkeit (F13, rooted in §47), Accent as word-unifier (carried from §§66–69 into p72:s2 and p74:s6), geistig (F12), and the abgebeugt/Abbeugung family, here 'diverges' (p83:s2) but rendered by 'shift' verbs later in the division (§84, §109) — all should be settled division-wide before finalising §§84–126."
+        },
+        {
+          "block": 2,
+          "assessment": "§§84–105 form the conceptual core of the vocabulary division (§§72–126): after the treatment of word-sounds (§§73–83), they separate word-as-sound from word-as-concept only analytically (§84), develop object, presentation and the latitude of individual presentations (§§85–87), define the word’s threefold stimulation and its matter/form (§§88–95), state the first two laws of word-content (§§96–97) and the mode of designation that becomes “Selbstbedeutung” (§§98–100), distinguish word from sign and symbol (§§101–103), and close with the sensory presentation actually evoked and the accompanying feeling (§§104–105). The block thus prepares the turn at §106 from the single word to the whole vocabulary and its world-view (§§106–123) and the return to accompanying feeling as a property of the language as a whole (§§124–126, explicitly cross-referencing §105). Cross-block risks are chiefly terminological and therefore cumulative: Anschauungsweise, geistig/vergeistigen, Gemüth, Vortrag/rede, and the Selbstbedeutung coinage must be settled consistently with §§72–83 and §§106–126 (the “characteriztic” misspelling also recurs outside the block, e.g. §117:s2, but is flagged here only for the assigned IDs). Humboldt’s historical/ethnographic claims (Sanskrit hip-words and nyāya/yoga notes, dwipa, Gans “from Indian”, the Egyptian seven vowels, Creuzer quotations) are preserved as his, and the two deletion notes are kept attributable as editorial apparatus; the one place requiring manuscript adjudication before a final reading is the noun/adjective direction at §91:s8 against §93:s4 (F05)."
+        },
+        {
+          "block": 3,
+          "assessment": "§§106-126 form the second half of the vocabulary division: after the single word in §§72-105, Humboldt treats the whole stock in relation to the totality to be designated, degrees and kinds of lexical richness, classification by matter and form of thinking, the technique of designation through salient quality and movement concepts, root words and rule-governed derivation, then recapitulates at §123 and closes with the subjective accompanying feeling in §§124-126 before Redeverbindung begins at §127. The synthesis preserves that argument chain, Humboldt's historical claims and the editorial attribution of the Havestadt note, and it correctly joins the sentence split across p122:s4-p122:s5. The consequential risks are concentrated in recurring-term collapse, notably Seele as mind, Stammwörter as base words and Anschauungsweise as viewing, in the miscounted classes at p118:s8 and the conflation example at p122:s11, and in two genuinely ambiguous German ellipses or pronouns at p118:s9 and p126:s9 that the English resolves without signalling uncertainty. Cross-block, the misspelling characteriztic also occurs at p87:s1, p89:s3 and p97:s5, and sphere, stem word and mode of intuition should be checked for consistency across §§72-105 before the readings in this block are frozen."
+        }
+      ],
+      "inputs": [
+        "fdc899ead28e615392fd32a7be16f5c5cc7a6b3bcfcd2a4d74f0574436793c2d",
+        "ec8184ad76c3559f6130757dc9f3487040e980b1bcf8d17f1195b33cc62df0ef",
+        "8a168e520e2614ac86368823d65d74552d16a2cc459b5d1a65ee4e15cc2c1f09"
+      ]
+    }
+  ],
+  "dispositions": [
+    {
+      "auditor": "astra",
+      "finding_id": "b1-v72-83-f01",
+      "source_ids": [
+        "p74:s2"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. The source denies that the classification is purely factual; it does not attenuate the denial."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b1-v72-83-f02",
+      "source_ids": [
+        "p74:s4",
+        "p74:s5",
+        "p76:s1"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Stem word now recurs in §121. Clarified that the earlier assertion is relational."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b1-v72-83-f03",
+      "source_ids": [
+        "p74:s11"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted in part. The result clause supports compensation, so the revised English names the compensating circumstances. The grammatical alternative is preserved in the audit record."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b1-v72-83-f04",
+      "source_ids": [
+        "p75:s2"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted in part. The revision leaves the presupposition impersonal and preserves its negative force. The compressed German remains visible in the decision record."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b1-v72-83-f05",
+      "source_ids": [
+        "p78:s1",
+        "p81:s3"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. Use composite or complex where the source range includes more than lexical compounds alone."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b1-v72-83-f06",
+      "source_ids": [
+        "p79:s1"
+      ],
+      "severity": "substantive",
+      "resolution": "Retained with the alternative recorded. Näher can convey nearer to the fully formed source in both time and form. The directness reading avoids adding a strictly temporal interval."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b1-v72-83-f07",
+      "source_ids": [
+        "p79:s4"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. The thought-and-feeling pair belongs to the same topic as the corresponding phrase in §112."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b1-v72-83-f08",
+      "source_ids": [
+        "p80:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Adopted intellectually attuned alongside finer."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b1-v72-83-f09",
+      "source_ids": [
+        "p81:s1"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. The revision uses the immediately preceding theme of sameness of kind and avoids fixing the possessive to either its grammatical or thematic antecedent alone."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b1-v72-83-f10",
+      "source_ids": [
+        "p82:s4"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Incidentally better matches the force alongside subordinate."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b1-v72-83-f11",
+      "source_ids": [
+        "p83:s8",
+        "p83:s9"
+      ],
+      "severity": "substantive",
+      "resolution": "Partly accepted. Mother language keeps the shared national language and descent in view. Depend on remains broad since the print names no specific type of historical dependence."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b2-V84-105-01",
+      "source_ids": [
+        "p85:s4"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. The phrases now distinguish the object qua object and the object being apprehended."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b2-V84-105-02",
+      "source_ids": [
+        "p86:s3"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. The two explanatory grounds and the earthly conditions are explicit."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b2-V84-105-03",
+      "source_ids": [
+        "p87:s1",
+        "p89:s3",
+        "p97:s5"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Corrected the three occurrences."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b2-V84-105-04",
+      "source_ids": [
+        "p89:s3"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. Both restrictions hold in the revised wording."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b2-V84-105-05",
+      "source_ids": [
+        "p91:s1"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. Restored the temporal movement into and back out of sound."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b2-V84-105-06",
+      "source_ids": [
+        "p91:s8",
+        "p93:s4"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted as an annotation. The confirmed print remains in both texts, with the contrary process in §93 and the limit on emending it made explicit."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b2-V84-105-07",
+      "source_ids": [
+        "p93:s3"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. The particular richness is excluded as what determines merit."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b2-V84-105-08",
+      "source_ids": [
+        "p93:s4"
+      ],
+      "severity": "minor",
+      "resolution": "Retained with the printed reference. The note also directs readers to §91."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b2-V84-105-09",
+      "source_ids": [
+        "p94:s1"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. Removed the specification of an identical balance between languages."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b2-V84-105-10",
+      "source_ids": [
+        "p96:s7"
+      ],
+      "severity": "substantive",
+      "resolution": "Partly accepted. Derives from is plausible alongside geht daraus hervor. The simplified wording keeps emergence without specifying that the distribution itself causes a mental capacity."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b2-V84-105-11",
+      "source_ids": [
+        "p97:s1"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. The two descriptions are now explicitly coordinated."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b2-V84-105-12",
+      "source_ids": [
+        "p98:s12",
+        "p100:s3"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. Intellectual avoids an unintended restriction on the objects of thought."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b2-V84-105-13",
+      "source_ids": [
+        "p99:s1",
+        "p99:s2",
+        "p99:s3",
+        "p99:s4",
+        "p99:s5",
+        "p104:s1"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted in part. Own and the local guide protect the specifically word-bound meaning while preserving the adopted project term."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b2-V84-105-14",
+      "source_ids": [
+        "p100:s4",
+        "p102:s5"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Corrected both Oxford spellings."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b2-V84-105-15",
+      "source_ids": [
+        "p101:s14"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Maintaining primacy preserves the active assertion."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b2-V84-105-16",
+      "source_ids": [
+        "note:creuzer"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. Rendered the self-limitation and becoming human as the means of resolution."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b2-V84-105-17",
+      "source_ids": [
+        "note:deleted-images-signs"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. The English locator now reproduces the main-text line exactly."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b2-V84-105-18",
+      "source_ids": [
+        "p102:s4"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. Lingering is distinct from the interruptions mentioned later."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b2-V84-105-19",
+      "source_ids": [
+        "p103:s9"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. The object of lingering is the connection itself."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b2-V84-105-20",
+      "source_ids": [
+        "p104:s12"
+      ],
+      "severity": "substantive",
+      "resolution": "Retained with the alternative recorded. The preceding grammatical candidate is also the dispositions that affect presentation. Supplying presentations gives a narrower argument than the German obliges."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b2-V84-105-21",
+      "source_ids": [
+        "p105:s8"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. Here leaves the scope of the reference open."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b3-F106-126-01",
+      "source_ids": [
+        "p109:s2"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Finished preserves the distinction between development still in progress and a whole at any given moment."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b3-F106-126-02",
+      "source_ids": [
+        "p110:s4",
+        "p120:s4"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Mode of intuition recurs where it names Anschauungsweise. Apprehension remains distinct in §120."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b3-F106-126-03",
+      "source_ids": [
+        "p112:s6"
+      ],
+      "severity": "substantive",
+      "resolution": "Retained with a reading note. The immediate attachment of einer Sprache to Geiste is the unmarked parsing. The possibility of a genitive with Gehalt is supported by the argument and has a consequentially different recipient."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b3-F106-126-04",
+      "source_ids": [
+        "p115:s4"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Intellectual concepts is broader than concepts whose objects are mental entities."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b3-F106-126-05",
+      "source_ids": [
+        "p117:s2"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Corrected the spelling to characteristic."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b3-F106-126-06",
+      "source_ids": [
+        "p121:s1"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. Blocked the inference from a system of semantic relations to exhaustive derivation from roots."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b3-F106-126-07",
+      "source_ids": [
+        "p121:s5"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Stem words is consistent with the earlier sections. The guide was updated to use that wording."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b3-F106-126-08",
+      "source_ids": [
+        "p122:s4"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. Gentilic names retains the historical classification without implying a particular derivation."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b3-F106-126-09",
+      "source_ids": [
+        "p122:s10"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. The wording now indicates that the examples suffice for the purpose."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b3-F106-126-10",
+      "source_ids": [
+        "p124:s1"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Restored soul and the link to the account resumed from §105."
+    },
+    {
+      "auditor": "astra",
+      "finding_id": "b3-F106-126-11",
+      "source_ids": [
+        "p126:s9"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted as an annotation. The English continues the study of the changes. The note records the pronoun, the nearest grammatically compatible antecedent and the grounds for the contextual choice."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b1-F1",
+      "source_ids": [
+        "p72:s4"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Reintroduced the categorical distinction between language and its elements."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b1-F2",
+      "source_ids": [
+        "p72:s6"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Assigned the ideal world to language as a whole in the English, following §39."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b1-F3",
+      "source_ids": [
+        "p74:s3"
+      ],
+      "severity": "substantive",
+      "resolution": "Retained. Aller Sprachen supplies the population of languages from which ein grosser Theil selects. The proposed distribution to every language’s vocabulary would require a different quantifier scope and lacks support in the next clause."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b1-F4",
+      "source_ids": [
+        "p74:s11"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. The English now names the accompanying circumstances as what compensates for the imbalance. The result clause supports the contextual interpretation."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b1-F5",
+      "source_ids": [
+        "p75:s2"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. Keep the lack of presupposed knowledge without supplying an unambiguous agent. The German itself gives no independent cause beyond its compressed clause."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b1-F6",
+      "source_ids": [
+        "p77:s6"
+      ],
+      "severity": "substantive",
+      "resolution": "Partly accepted. The earlier two clauses expressed both samenesses. Recast them to make the argument and its subjects explicit."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b1-F7",
+      "source_ids": [
+        "p77:s6"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Restored the distinction referred to in §47 without treating origin as the only conceivable interpretation of Unterschied."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b1-F8",
+      "source_ids": [
+        "p77:s8"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. Restored the tentative upper bound for possible exceptions."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b1-F9",
+      "source_ids": [
+        "p77:s7",
+        "p78:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Retained. The three physical locations and the separate operation of echoing preserve the contrasts. Sound additions at the front or back convey Vor- und Nachklänge without ascribing a modern morphological category."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b1-F10",
+      "source_ids": [
+        "p79:s1"
+      ],
+      "severity": "substantive",
+      "resolution": "Partly accepted. Leads back up keeps the analytic ascent in a historical inquiry. Directness is plausible and the English should leave its precise genealogical or temporal measure open."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b1-F11",
+      "source_ids": [
+        "p79:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Retained with the alternative recorded. The juxtaposition of use and the direct effect on the nation already conveys the contrast. Both nation and linguistic production remain possible for the following pronoun."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b1-F12",
+      "source_ids": [
+        "p80:s3"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. Intellectual attunement is distinct from fineness and preserves the force of Geist."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b1-F13",
+      "source_ids": [
+        "p80:s4",
+        "p80:s6",
+        "p81:s1",
+        "p81:s5",
+        "note:coptic-sanskrit"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. Regularized the nominal form as sameness of kind and the related adjective as of the same kind. The argument itself distinguishes this from a mere similarity in sound."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b1-F14",
+      "source_ids": [
+        "p80:s7"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Restored the alternative structures and the completeness qualification in the receiving language."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b1-F15",
+      "source_ids": [
+        "note:coptic-sanskrit"
+      ],
+      "severity": "minor",
+      "resolution": "Retained with the uncertainty recorded. Occurs as conveys the relation needed in the comparison without asserting a direction of derivation the text does not give."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b1-F16",
+      "source_ids": [
+        "p82:s2"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. Kept the German conditional comparison without imposing a new hedge."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b1-F17",
+      "source_ids": [
+        "p82:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Rendered the cited syllables descriptively, preserving what Humboldt counts as the formative material."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b1-F18",
+      "source_ids": [
+        "p77:s6",
+        "p77:s7",
+        "p80:s5",
+        "p82:s1",
+        "p82:s2",
+        "p83:s1",
+        "p83:s2"
+      ],
+      "severity": "substantive",
+      "resolution": "Partly accepted. Restored tone for Grundton and the specifically treated alteration in §80. Many local Ton and Laut uses overlap in this print. The guide records the distinction where the opposition matters and avoids a blanket pitch interpretation."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b2-F01",
+      "source_ids": [
+        "p85:s4"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. The point concerns the object qua object, and the rendering now differs from the earlier in itself."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b2-F02",
+      "source_ids": [
+        "p89:s1",
+        "p105:s6"
+      ],
+      "severity": "substantive",
+      "resolution": "Retained with a conditional term choice. A common spiritualizes misleadingly suggests a religious or metaphysical process here. In §89 the verbs generalizing and taking bodily form identify the mental transformation. In §105 the ascent to intellectuality guides the English."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b2-F03",
+      "source_ids": [
+        "p89:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. The restriction is restored and remains distinct from actual thinking."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b2-F04",
+      "source_ids": [
+        "p91:s4"
+      ],
+      "severity": "minor",
+      "resolution": "Partly accepted. Very different individuality remains the explicit condition on apprehension and the language’s form is the active force. English idiom supports a person as the bearer of individuality."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b2-F05",
+      "source_ids": [
+        "p91:s8",
+        "p93:s4"
+      ],
+      "severity": "critical",
+      "resolution": "Retained from the print; annotated. The phrase on p. 421 is confirmed from the scan. The source and translation preserve the order and the reader note makes the contrary §93 account visible. Manuscript collation remains outstanding."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b2-F06",
+      "source_ids": [
+        "p93:s3"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. The revised pair of sentences preserves the exclusion of a partial stock as criterion."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b2-F07",
+      "source_ids": [
+        "p93:s4"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. The mention of lesser disadvantages is restored."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b2-F08",
+      "source_ids": [
+        "p93:s4"
+      ],
+      "severity": "minor",
+      "resolution": "Retained with the print reference and a reader note linking §91. The print does not specify a different marginal number."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b2-F09",
+      "source_ids": [
+        "p94:s1",
+        "p94:s2"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. The revised wording keeps two languages and a perfect balance, leaving the emphasis on the word-form balance and its variation."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b2-F10",
+      "source_ids": [
+        "p94:s6"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Both directions of influence are now explicit."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b2-F11",
+      "source_ids": [
+        "p96:s4"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Keep the immediate, text-internal restriction on the languages under consideration."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b2-F12",
+      "source_ids": [
+        "p96:s6"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. The condition expressly involves a body of material of thought."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b2-F13",
+      "source_ids": [
+        "p96:s7",
+        "p103:s8"
+      ],
+      "severity": "minor",
+      "resolution": "Partly accepted. Both expressions now retain the positive sense of a gift. Felicitous would sound like an evaluation of the wording rather than of the endowment."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b2-F14",
+      "source_ids": [
+        "p98:s4"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. The substance of the object and the conceptual status of its designation are explicit."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b2-F15",
+      "source_ids": [
+        "p98:s6",
+        "p98:s7",
+        "p98:s8"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. The sensory restriction is inferred in the next block; Anschauungsweise and Auffassungsweise remain distinct there."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b2-F16",
+      "source_ids": [
+        "p99:s1",
+        "p99:s3",
+        "p99:s4",
+        "p99:s5",
+        "p104:s1"
+      ],
+      "severity": "substantive",
+      "resolution": "Retained with clarification. Own restores Selbst at the introduction; the guide explains that the term covers the conceptual designation and distinguishes a historical reconstruction from what speakers still feel."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b2-F17",
+      "source_ids": [
+        "p99:s4"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. The revision retains the comparative original condition and the force of the qualified must."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b2-F18",
+      "source_ids": [
+        "p101:s6"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. The image of setting a shape in place of the idea better preserves unterschieben."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b2-F19",
+      "source_ids": [
+        "p102:s4",
+        "p102:s7"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. Lingering in the succession and the light interruptions of it are distinct. The 1906 text reads Weile."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b2-F20",
+      "source_ids": [
+        "p103:s9"
+      ],
+      "severity": "minor",
+      "resolution": "Retained in English and recorded. Enlarged p. 430 shows Gäbe; the noun Gabe is required by context, coordinated with Drang. The German remains as printed."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b2-F21",
+      "source_ids": [
+        "p104:s12"
+      ],
+      "severity": "substantive",
+      "resolution": "Partly accepted. Use discourse for Vortrag. The German can take the ellipsis up from the preceding dispositions as well as from presentations, so the English leaves its referent open."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b2-F22",
+      "source_ids": [
+        "p105:s1",
+        "p105:s5"
+      ],
+      "severity": "substantive",
+      "resolution": "Partly accepted. Inner life now recurs for Gemüth and Gemüthsempfindung. Affective powers makes the functional contrast within the compound clear; the guide connects them."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b2-F23",
+      "source_ids": [
+        "p105:s7"
+      ],
+      "severity": "minor",
+      "resolution": "Partly accepted. Dialect is restored. Refined aptly expresses gereinigt in the argument about cultivation; purified risks suggesting exclusion of foreign admixture."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b2-F24",
+      "source_ids": [
+        "p105:s9"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Restored the metaphor and left specification of prose to the next sentence."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b2-F25",
+      "source_ids": [
+        "p87:s1",
+        "p89:s3",
+        "p97:s5",
+        "p102:s5"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Corrected the three typographical errors and initial Symbolizing."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b3-F01",
+      "source_ids": [
+        "p109:s7"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Erfahrung remains experience."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b3-F02",
+      "source_ids": [
+        "p110:s4",
+        "p120:s4"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. Mode of intuition recurs and the intended orientation in §110 is unchanged."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b3-F03",
+      "source_ids": [
+        "p112:s2"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Determination can occur through use without a formulated definition."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b3-F04",
+      "source_ids": [
+        "p112:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. The English again concerns use by linguistically knowledgeable and sensitive speakers."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b3-F05",
+      "source_ids": [
+        "p114:s2"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Restored the force of exhaustive."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b3-F06",
+      "source_ids": [
+        "p115:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Power and opportunity are distinct conditions."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b3-F07",
+      "source_ids": [
+        "p117:s2"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Corrected characteristic throughout."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b3-F08",
+      "source_ids": [
+        "p118:s3"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Retained the image of hovering above the other words."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b3-F09",
+      "source_ids": [
+        "p118:s8"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. The central class is explicitly the one that includes adjectives and adverbs."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b3-F10",
+      "source_ids": [
+        "p118:s9"
+      ],
+      "severity": "substantive",
+      "resolution": "Partly accepted. The revision avoids the stronger causal reading, and a note preserves the choice of verb from the nearest expressed class and the equally possible stem from the parallel phrase."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b3-F11",
+      "source_ids": [
+        "p120:s1"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. The degree of application is distinct from consistency."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b3-F12",
+      "source_ids": [
+        "p121:s5"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. Retained the root/stem relation with stem word in both places."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b3-F13",
+      "source_ids": [
+        "p122:s4"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Gentilic names avoids adding a specific derivational source."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b3-F14",
+      "source_ids": [
+        "p122:s5",
+        "p125:s11"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Connection and construction of discourse now link to the following division."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b3-F15",
+      "source_ids": [
+        "p122:s8"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. The proposed restriction is what better serves a logical purpose."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b3-F16",
+      "source_ids": [
+        "p122:s9"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Kept the sphere metaphor and the stated extent."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b3-F17",
+      "source_ids": [
+        "p122:s11"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. Expressed the pairs as concept labels and preserved the German forms separately."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b3-F18",
+      "source_ids": [
+        "p124:s1"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted. Restored Seele as soul."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b3-F19",
+      "source_ids": [
+        "p125:s9"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. The disposition is the cause of the result described."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b3-F20",
+      "source_ids": [
+        "p126:s4"
+      ],
+      "severity": "minor",
+      "resolution": "Accepted. Restored the image of a different sense coming in under the expression."
+    },
+    {
+      "auditor": "muse",
+      "finding_id": "b3-F21",
+      "source_ids": [
+        "p126:s9"
+      ],
+      "severity": "substantive",
+      "resolution": "Accepted as an annotation. The English contextual supplement remains provisional and the printed form and its nearest antecedent are identified in the reader note."
+    }
+  ]
+}

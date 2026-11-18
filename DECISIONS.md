@@ -309,3 +309,13 @@ The exporter reads recorded versions and accepted annotation updates; it rejects
 ## D039 — Typography in notes and supporting material
 
 Brett specified italics for mentions, single quotes for meanings and paraphrases, and double quotes for direct quotations and scare quotes. Apply this to notes, terminology guides and supporting prose. The live reader and its downloads use display edits checked against the corresponding annotation excerpts. See the [editorial typography rules](docs/translation-workflow.md#editorial-typography).
+
+## D040 — Vocabulary scope
+
+On 18 November 2026 Brett authorized the next scheduled division, Vocabulary, and asked for the planned translation without special emphasis on the distribution of American-language examples. The unit begins with *β. Wörtervorrath.* and its publication note on p. 410, includes passages 72–126 and ends on p. 444. The approved internal output blocks preserve one editorial delivery. The next division begins on p. 445 at passage 127.
+
+## D041 — Vocabulary translation
+
+The [reading](translations/vocabulary/reading.md) follows the checked 1906 print. The complete [record](translations/vocabulary/record.json) preserves three independent drafts, a frozen synthesis, two audits with 368 blocks of coverage each, and dispositions for all 107 findings. It retains the literal direction of derivation in §91 alongside the contrary account in §93. Notes also preserve the alternative attachments in §112, the supplied noun in §118 and the printed pronoun in §126.
+
+The edition records 396 text versions, 20 selected term associations and 14 declared phrase correspondences for the new division. Its heading note shares one sequence with the text’s attributed notes. English readability and annotation review are pending. The published draft and earlier material follow D038.

@@ -1,0 +1,175 @@
+{
+  "format": "humboldt.section-translation",
+  "version": 1,
+  "section": "Vocabulary, 72–126",
+  "authorization": "D040; result D041",
+  "created_at": "2026-11-18T22:37:23.357537+00:00",
+  "printed_range": [
+    410,
+    444
+  ],
+  "pdf_range": [
+    420,
+    454
+  ],
+  "numbered_passages": [
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126
+  ],
+  "excluded_next_passage": 127,
+  "coverage": {
+    "numbered_passages": 55,
+    "rendering_blocks": 368,
+    "source_notes": 10,
+    "reader_notes": 16,
+    "terminology_guide_entries": 9,
+    "findings": 107,
+    "changed_renderings": 85,
+    "term_associations": 20,
+    "selected_span_pairs": 14
+  },
+  "source_status": "Provisional 1906 printed base. Compared page images, embedded OCR and an independent German OCR pass, with enlarged checks at the boundaries and apparatus. Manuscript collation and human German-fidelity review remain outstanding.",
+  "reading_review": {
+    "status": "pending",
+    "scope": "English readability and usefulness of annotations"
+  },
+  "artifacts": [
+    {
+      "path": "translations/vocabulary/annotation-sources.json",
+      "sha256": "9b468913a083c8af5dc25b88b14b88a270ac8ada317a4daf39f0b30f0f29b936"
+    },
+    {
+      "path": "translations/vocabulary/audit-instructions.md",
+      "sha256": "c89d1f12e415de25daaca30d82b1b49ccebeb7519e5db1bc1fd9d899d1b31718"
+    },
+    {
+      "path": "translations/vocabulary/audit-packet.md",
+      "sha256": "ee4736c370bc8dc498bdd05e41f8defe01a2f1608f9c116ec965fb84cb61f43f"
+    },
+    {
+      "path": "translations/vocabulary/audits.json",
+      "sha256": "5e8f537706ff8de00e94deb640bb53da0482f202fd2d6c6a57d4ab6e041d7fb7"
+    },
+    {
+      "path": "translations/vocabulary/candidate-instructions.md",
+      "sha256": "0143c7ff4ca854b750086f78a395b95c163eae7eabb67a85b4bd1262ef14b7a0"
+    },
+    {
+      "path": "translations/vocabulary/candidate-packet.md",
+      "sha256": "8c28f05a856f4796c275c54109f41e2e3b38662b816ddd2c31b8fd784e5ee4c9"
+    },
+    {
+      "path": "translations/vocabulary/candidates.json",
+      "sha256": "9fe5e20386d12fcfb545abd63be9b4acb0371acad1d2eff9a50f04bf3d2a487c"
+    },
+    {
+      "path": "translations/vocabulary/comparison.md",
+      "sha256": "7908cc649431674d75dcc2c8e294116d724970fd10cef37c238f1bc65b01b5d0"
+    },
+    {
+      "path": "translations/vocabulary/decisions.json",
+      "sha256": "115c9dba28b4c6c07488715e6ad933e7d86fbe9720101559091a4244b9475f7d"
+    },
+    {
+      "path": "translations/vocabulary/model-runs.json",
+      "sha256": "644abe57043cf9a2a226bbd4d2316c6f2453279753bde7d7db4e205a13513cc7"
+    },
+    {
+      "path": "translations/vocabulary/notes.json",
+      "sha256": "9ad949733c51a32adc6030ee81d24e2b034fe8e5db80189abb4f94e193c2cbfb"
+    },
+    {
+      "path": "translations/vocabulary/prompts.json",
+      "sha256": "493a0718e1cc9474b68ba992611fa116eb887f5a973bd8891053758f9920072f"
+    },
+    {
+      "path": "translations/vocabulary/reading.md",
+      "sha256": "c897933bb9f1cd3c0b295789654c696ecfcc739acd21781c0142ddc8da679661"
+    },
+    {
+      "path": "translations/vocabulary/revised.json",
+      "sha256": "76fc1c72612f4fc2836531a702e3ad9f3c30a310cf20caaa126f6a5ebf85dd59"
+    },
+    {
+      "path": "translations/vocabulary/revision-changes.json",
+      "sha256": "f3c4323cbaf16d8c0d997141cd555a24a2c9af03a0571bf22aa35ab28d8d3585"
+    },
+    {
+      "path": "translations/vocabulary/source-checks.json",
+      "sha256": "3776dadb105b09697026b222e312a76d0ec1d310868b65b69628d327f632349e"
+    },
+    {
+      "path": "translations/vocabulary/source-unit-map.json",
+      "sha256": "76b9a27c7cf1a438363ec9403d27d4073a4281d2d391b2b4b62b204bb7ed096e"
+    },
+    {
+      "path": "translations/vocabulary/source.json",
+      "sha256": "4e7a6a6e6a39b5424f7417b567c6b389a2383a68c8ce98af18f58c04985278e8"
+    },
+    {
+      "path": "translations/vocabulary/synthesis-changes.json",
+      "sha256": "3550aa198c7c1b92dd16278706619a251dbd9b48183a2fa3afa214106def895a"
+    },
+    {
+      "path": "translations/vocabulary/synthesis.json",
+      "sha256": "b86195a4cca9dd1a9db1e7bcf898a2e34df7aa06e71ee0a0912e72f0ca65d8a8"
+    },
+    {
+      "path": "translations/vocabulary/term-controls.json",
+      "sha256": "b6053ebdad99a773889a907ab0ba5253c2145553e7ffecca4f40d387268be21b"
+    }
+  ]
+}

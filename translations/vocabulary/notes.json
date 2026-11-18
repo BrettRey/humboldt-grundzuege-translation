@@ -1,0 +1,599 @@
+{
+  "notes": [
+    {
+      "id": "first-publication",
+      "source_id": "heading:vocabulary",
+      "source_note_id": "note:first-publication",
+      "source_ids": [
+        "heading:vocabulary",
+        "note:first-publication"
+      ],
+      "attribution": "1906 Ed.",
+      "text": "This chapter first appeared in *Internationale Zeitschrift für allgemeine Sprachwissenschaft* 1 (1884), pp. 385–411.",
+      "evidence": [],
+      "reason": "Retain the complete translated note, its authorship and its exact German anchor.",
+      "source_unit": "vocab:heading:vocabulary:de:s1",
+      "target_unit": "vocab:heading:vocabulary:revised:s1",
+      "source_version": "vocab:heading:vocabulary:de:v1",
+      "target_version": "vocab:heading:vocabulary:revised:v2",
+      "source_body_sha256": "182703b61adb9602840fbc3019b8bbceaa4f2ae3dd7091553f9ca047491b0813",
+      "target_body_sha256": "524abb0e1ba630602c2484786aa68bade9b93401ffb6837706ec18483bfd70a2",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 14
+      },
+      "authorship": "editor1906",
+      "original_marker": "1)",
+      "original_anchor": "After Wörtervorrath. on printed p. 410",
+      "source_text": "Erster Druck dieses Kapitels: Internationale Zeitschrift für allgemeine Sprachwissenschaft 1, 385—411 (1884).",
+      "source_note_target_unit": "vocab:note:first-publication:revised:s1",
+      "display_number": 1
+    },
+    {
+      "id": "chinese-tones",
+      "source_id": "p73:s2",
+      "source_note_id": "note:chinese-tones",
+      "source_ids": [
+        "p73:s2",
+        "note:chinese-tones"
+      ],
+      "attribution": "Humboldt",
+      "text": "It is striking that Chinese, despite its paucity of spoken words, does not run each possible word through all the available tones. Still less does it combine all final vowels with every initial consonant.",
+      "evidence": [],
+      "reason": "Retain the complete translated note, its authorship and its exact German anchor.",
+      "source_unit": "p73:de:s2",
+      "target_unit": "p73:revised:s2",
+      "source_version": "grundzuege-073-v1",
+      "target_version": "en73-revised-v2",
+      "source_body_sha256": "dd42123ec94015e8c8f9ecafc86e2dbbaf05766c8b941b2713b202d84fcbdcae",
+      "target_body_sha256": "661da67f471880e4539a301f33bf2877da71516cb2e7d112658c0647d23f546c",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 144
+      },
+      "authorship": "humboldt",
+      "original_marker": "*)",
+      "original_anchor": "After wirklich erschöpft wird. on printed p. 411",
+      "source_text": "Es ist auffallend, dass die Chinesische Sprache, ihrer Armuth an gesprochenen Wörtern ungeachtet, doch nicht jedes der möglichen Wörter durch alle vorhandnen Betonungsarten durchführt. Noch weniger verbindet sie alle Endvocale mit jedem Anfangsconsonanten.",
+      "source_note_target_unit": "vocab:note:chinese-tones:revised:s1",
+      "display_number": 2
+    },
+    {
+      "id": "coptic-sanskrit",
+      "source_id": "p81:s5",
+      "source_note_id": "note:coptic-sanskrit",
+      "source_ids": [
+        "p81:s5",
+        "note:coptic-sanskrit"
+      ],
+      "attribution": "Humboldt",
+      "text": "One might take Coptic *hrosch* and Sanskrit *rôsha*, both meaning ‘anger’, to be of the same kind. The *h* might be a mere aspiration of the *r*, just as *hloili* also occurs as *loili*. Closer comparison, however, shows that *hrosch* arose from *horsch*, which has the same meaning, just as *hroyr* arose from *hoyrooy* and *heri*. The resemblance in sound to the Indian word is therefore merely accidental.",
+      "evidence": [],
+      "reason": "Retain the complete translated note, its authorship and its exact German anchor.",
+      "source_unit": "p81:de:s5",
+      "target_unit": "p81:revised:s5",
+      "source_version": "grundzuege-081-v1",
+      "target_version": "en81-revised-v2",
+      "source_body_sha256": "029f08e8ba1a4ce2f215f4482f907eb0c2b69d73edc027b822e6e13904f8e9cf",
+      "target_body_sha256": "d952e545b75aa5743d2a82d0310be1fb7631ca81f8cce96db67ecf7beabe4f14",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 485
+      },
+      "authorship": "humboldt",
+      "original_marker": "*)",
+      "original_anchor": "After als gleichartig, anzusehen. on printed p. 416",
+      "source_text": "So könnte man das Coptische hrosch und Sanskritische rôsha, die beide Zorn bedeuten, für gleichartig halten, da das h hier ebenso ein blosser Hauch des r seyn könnte, wie es in hloili auch loili ist. Allein sorgfältigere Vergleichung zeigt, dass hrosch aus dem gleichbedeutenden horsch, wie hroyr aus hoyrooy und heri entstanden, und also jene Lautähnlichkeit mit dem Indischen Worte bloss zufällig ist.",
+      "source_note_target_unit": "vocab:note:coptic-sanskrit:revised:s1",
+      "display_number": 3
+    },
+    {
+      "id": "noun-adjective-order",
+      "source_id": "p91:s8",
+      "source_ids": [
+        "p91:s8",
+        "p93:s4"
+      ],
+      "attribution": "Trans.",
+      "text": "The 1906 print reads *zu Adjectiven gewordene Substantiva*, ‘nouns that have become adjectives’. In §93 Humboldt describes the reverse process, forming nouns from adjectives, which also fits his account here of objects named for salient properties. The example of naming for a property occurs in §91. §93 refers in print to §90. The manuscript reading remains to be checked.",
+      "reason": "The direction of derivation changes Humboldt’s claim.",
+      "evidence": [],
+      "source_unit": "p91:de:s8",
+      "target_unit": "p91:revised:s8",
+      "source_version": "grundzuege-091-v1",
+      "target_version": "en91-revised-v2",
+      "source_body_sha256": "e975e5cc88b7c32d2f087d81167b6e1e40b4b8057a0642af991adbffa31aae77",
+      "target_body_sha256": "e5ff9a4e495a447099de596f67cc37fe7d356a755392397749d6321f8eb3c613",
+      "anchor": {
+        "after": "nouns that have become adjectives.",
+        "offset_in_rendering": 188
+      },
+      "authorship": "translator",
+      "display_number": 4
+    },
+    {
+      "id": "sanskrit-hips",
+      "source_id": "p96:s4",
+      "source_note_id": "note:sanskrit-hips",
+      "source_ids": [
+        "p96:s4",
+        "note:sanskrit-hips"
+      ],
+      "attribution": "Humboldt",
+      "text": "Sanskrit examples of this kind are *kaṭi*, *taṭa*, *śrôṇi* and *nitamba*, all of which designate the area around the hips without drawing definite boundaries.",
+      "evidence": [],
+      "reason": "Retain the complete translated note, its authorship and its exact German anchor.",
+      "source_unit": "p96:de:s4",
+      "target_unit": "p96:revised:s4",
+      "source_version": "grundzuege-096-v1",
+      "target_version": "en96-revised-v2",
+      "source_body_sha256": "befddde242d92aac6d809b5ca909792798c6aba7d3adf13d9bdb9a58aa783b04",
+      "target_body_sha256": "e827b772a5ba6ee9d970f6f49699abbde9a1140ade96cbeabeac851fa193e5ab",
+      "anchor": {
+        "after": "between them.",
+        "offset_in_rendering": 142
+      },
+      "authorship": "humboldt",
+      "original_marker": "*)",
+      "original_anchor": "After zwischen ihnen herum; on printed p. 424",
+      "source_text": "Von dieser Art sind im Sanskrit kaṭi, taṭa, śrôṇi, nitamba, die alle die Gegend des Leibes um die Hüften in unbestimmter Begränzung andeuten.",
+      "source_note_target_unit": "vocab:note:sanskrit-hips:revised:s1",
+      "display_number": 5
+    },
+    {
+      "id": "sanskrit-concepts",
+      "source_id": "p96:s6",
+      "source_note_id": "note:sanskrit-concepts",
+      "source_ids": [
+        "p96:s6",
+        "note:sanskrit-concepts"
+      ],
+      "attribution": "Humboldt",
+      "text": "The Sanskrit words *nyâya* and *yôga* are examples.",
+      "evidence": [],
+      "reason": "Retain the complete translated note, its authorship and its exact German anchor.",
+      "source_unit": "p96:de:s6",
+      "target_unit": "p96:revised:s6",
+      "source_version": "grundzuege-096-v1",
+      "target_version": "en96-revised-v2",
+      "source_body_sha256": "befddde242d92aac6d809b5ca909792798c6aba7d3adf13d9bdb9a58aa783b04",
+      "target_body_sha256": "e827b772a5ba6ee9d970f6f49699abbde9a1140ade96cbeabeac851fa193e5ab",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 183
+      },
+      "authorship": "humboldt",
+      "original_marker": "**)",
+      "original_anchor": "After von unermesslichem Gewinn. on printed p. 424",
+      "source_text": "Man kann hier die Sanskritischen nyâya und yôga anführen",
+      "source_note_target_unit": "vocab:note:sanskrit-concepts:revised:s1",
+      "display_number": 6
+    },
+    {
+      "id": "gans-etymology",
+      "source_id": "p98:s11",
+      "source_ids": [
+        "p98:s11",
+        "p98:s10"
+      ],
+      "attribution": "Trans.",
+      "text": "German *Gans* and Sanskrit *haṃsá-* are cognates inherited through different branches of Indo-European. German inherited its form through Germanic. See Lloyd and Lühr’s [entry for *gans*](https://ewa.saw-leipzig.de/articles/50320/de).",
+      "reason": "Correct the express claim about the direction of descent without changing the author’s example.",
+      "evidence": [
+        "ewa-gans"
+      ],
+      "source_unit": "p98:de:s11",
+      "target_unit": "p98:revised:s11",
+      "source_version": "grundzuege-098-v1",
+      "target_version": "en98-revised-v2",
+      "source_body_sha256": "04b95ebd811a163a793527b12f780400a08a9db9d86ee3695333456ae6106a69",
+      "target_body_sha256": "4b0a2b62d2e720bab95d5610b659f9a271581c0c058f50d98315e34d590271da",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 263
+      },
+      "authorship": "translator",
+      "display_number": 7
+    },
+    {
+      "id": "deleted-word-symbol",
+      "source_id": "p101:s7",
+      "source_note_id": "note:deleted-word-symbol",
+      "source_ids": [
+        "p101:s7",
+        "note:deleted-word-symbol"
+      ],
+      "attribution": "1906 Ed.",
+      "text": "After *sich* (at the end of *contains the concept within itself*), the following was deleted. “On closer examination, however, the word has none of the nature of a symbol, and the understanding that makes symbols and the understanding guided by a correct and refined sense of language are in fact opposed to one another. For language seeks in the word the concept itself, purely and immediately, the corporeal object or the incorporeal idea, and uses the apparent symbol, the sound, only as a means.”",
+      "evidence": [],
+      "reason": "Retain the complete translated note, its authorship and its exact German anchor.",
+      "source_unit": "p101:de:s7",
+      "target_unit": "p101:revised:s7",
+      "source_version": "grundzuege-101-v1",
+      "target_version": "en101-revised-v2",
+      "source_body_sha256": "5d43c53b473cf2a861118c575a7c96f809a401fa2abf0cf2fce96acbd49989ee",
+      "target_body_sha256": "1e2a6086b19466e3f54a8c87b35c38d31e98c58fb1412f580da3187dad58c8bd",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 69
+      },
+      "authorship": "editor1906",
+      "original_marker": "1)",
+      "original_anchor": "After den Begriff in sich. on printed p. 428",
+      "source_text": "Nach „sich“ gestrichen: „Allein genauer untersucht, hat das Wort ganz und gar nicht die Natur eines Symbols, und der symbolisirende und der durch richtigen und feinen Sprachsinn geleitete Verstand sind vielmehr einander entgegengesetzt. Denn die Sprache sucht in dem Worte den Begriff selbst, rein und unmittelbar, den körperlichen Gegenstand oder die unkörperliche Idee, und bedient sich des scheinbaren Symbols, des Lautes, nur als eines Mittels.“",
+      "source_note_target_unit": "vocab:note:deleted-word-symbol:revised:s1",
+      "display_number": 8
+    },
+    {
+      "id": "creuzer",
+      "source_id": "p101:s8",
+      "source_note_id": "note:creuzer",
+      "source_ids": [
+        "p101:s8",
+        "note:creuzer"
+      ],
+      "attribution": "Humboldt",
+      "text": "These concepts are developed with great clarity and exceptional insight in book 1, chapter 3 of Creuzer’s *Symbolik und Mythologie*. On p. 57 we read, “It always remains an essential property of this mode of representation (by tropes) that it gives a single, undivided thing.” On p. 63, “Essence permeates and animates the natural form. The conflict between the infinite and the finite is thus resolved through the former’s setting bounds to itself and becoming something human.”",
+      "evidence": [],
+      "reason": "Retain the complete translated note, its authorship and its exact German anchor.",
+      "source_unit": "p101:de:s8",
+      "target_unit": "p101:revised:s8",
+      "source_version": "grundzuege-101-v1",
+      "target_version": "en101-revised-v2",
+      "source_body_sha256": "5d43c53b473cf2a861118c575a7c96f809a401fa2abf0cf2fce96acbd49989ee",
+      "target_body_sha256": "1e2a6086b19466e3f54a8c87b35c38d31e98c58fb1412f580da3187dad58c8bd",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 216
+      },
+      "authorship": "humboldt",
+      "original_marker": "*)",
+      "original_anchor": "After Idee und Körperstoff fallen zusammen. on printed p. 428",
+      "source_text": "Man findet diese Begriffe mit grosser Klarheit und auf vorzüglich geistreiche Weise im 3. Kapitel des 1. Buchs der Creuzerschen Symbolik und Mythologie entwickelt. „Immer“, heisst es S. 57., „bleibt es wesentliche Eigenschaft dieser (der tropischen) Darstellungsart, dass sie ein Einziges, ein Ungetheiltes giebt.“ und S. 63. „Das Wesen durchdringt und belebt die Naturform. Jener Streit zwischen dem Unendlichen und dem Endlichen ist also aufgelöset, dadurch dass jenes, sich selbst begränzend, ein Menschliches ward.“",
+      "source_note_target_unit": "vocab:note:creuzer:revised:s1",
+      "display_number": 9
+    },
+    {
+      "id": "deleted-images-signs",
+      "source_id": "p101:s8",
+      "source_note_id": "note:deleted-images-signs",
+      "source_ids": [
+        "p101:s8",
+        "note:deleted-images-signs"
+      ],
+      "attribution": "1906 Ed.",
+      "text": "After *zusammen* (at the end of *Idea and corporeal material coincide*), the following was deleted. “A difference in the effect of the two on the mind, of the utmost importance in every respect concerning language, is that attending to images inclines us to linger and probe more deeply, while attending to signs inclines us to move on rapidly and take in many things.”",
+      "evidence": [],
+      "reason": "Retain the complete translated note, its authorship and its exact German anchor.",
+      "source_unit": "p101:de:s8",
+      "target_unit": "p101:revised:s8",
+      "source_version": "grundzuege-101-v1",
+      "target_version": "en101-revised-v2",
+      "source_body_sha256": "5d43c53b473cf2a861118c575a7c96f809a401fa2abf0cf2fce96acbd49989ee",
+      "target_body_sha256": "1e2a6086b19466e3f54a8c87b35c38d31e98c58fb1412f580da3187dad58c8bd",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 216
+      },
+      "authorship": "editor1906",
+      "original_marker": "2)",
+      "original_anchor": "After Idee und Körperstoff fallen zusammen. on printed p. 428",
+      "source_text": "Nach „zusammen“ gestrichen: „Ein in allen Beziehungen auf die Sprache höchst wichtiger Unterschied der Einwirkung beider auf den Geist ist, dass das Beschäftigen mit Bildern verweilend und vertiefend stimmt, das Beschäftigen mit Zeichen rasch übergehend und Vieles umfassend.“",
+      "source_note_target_unit": "vocab:note:deleted-images-signs:revised:s1",
+      "display_number": 10
+    },
+    {
+      "id": "egyptian-vowels",
+      "source_id": "p101:s16",
+      "source_note_id": "note:egyptian-vowels",
+      "source_ids": [
+        "p101:s16",
+        "note:egyptian-vowels"
+      ],
+      "attribution": "Humboldt",
+      "text": "Demetrius, *De elocutione*, ch. 71. That the number of letters was also treated symbolically can be seen from *Ἑπταγράμματος Σάραπις* in Hesychius (under this expression).",
+      "evidence": [],
+      "reason": "Retain the complete translated note, its authorship and its exact German anchor.",
+      "source_unit": "p101:de:s16",
+      "target_unit": "p101:revised:s16",
+      "source_version": "grundzuege-101-v1",
+      "target_version": "en101-revised-v2",
+      "source_body_sha256": "5d43c53b473cf2a861118c575a7c96f809a401fa2abf0cf2fce96acbd49989ee",
+      "target_body_sha256": "1e2a6086b19466e3f54a8c87b35c38d31e98c58fb1412f580da3187dad58c8bd",
+      "anchor": {
+        "after": "Egyptian priests",
+        "offset_in_rendering": 236
+      },
+      "authorship": "humboldt",
+      "original_marker": "*)",
+      "original_anchor": "After den Aegyptischen Priestern on printed p. 429",
+      "source_text": "Demetrius de elocutione. c. 71. Dass auch die Zahl der Buchstaben symbolisch beachtet wurde, sieht man aus dem Ἑπταγράμματος Σάραπις bei Hesychius. (h. v.)",
+      "source_note_target_unit": "vocab:note:egyptian-vowels:revised:s1",
+      "display_number": 11
+    },
+    {
+      "id": "resonance-recipient",
+      "source_id": "p112:s6",
+      "source_ids": [
+        "p112:s6",
+        "p112:s5"
+      ],
+      "attribution": "Trans.",
+      "text": "The English attaches *einer Sprache* to *Geiste*, so that the spirit of a language receives the resonance. The phrase can also be read with *Gehalt*, giving ‘a language’s store of human experience resounds to the mind’.",
+      "reason": "The attachment changes what the resonance acts upon.",
+      "evidence": [],
+      "source_unit": "p112:de:s6",
+      "target_unit": "p112:revised:s6",
+      "source_version": "grundzuege-112-v1",
+      "target_version": "en112-revised-v2",
+      "source_body_sha256": "558ae458de8890046aca4e33c04285fbf9c5054416892ee89ca26d8d6a80f1a6",
+      "target_body_sha256": "3533f85f182e5a49f0eca4601ea5a1379b4ee8920ddcca0e081b1b71b6f3b240",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 169
+      },
+      "authorship": "translator",
+      "display_number": 12
+    },
+    {
+      "id": "havestadt-title",
+      "source_id": "p114:s1",
+      "source_note_id": "note:havestadt-title",
+      "source_ids": [
+        "p114:s1",
+        "note:havestadt-title"
+      ],
+      "attribution": "1906 Ed.",
+      "text": "The title of his work is given more precisely in the note on p. 18 above.",
+      "evidence": [],
+      "reason": "Retain the complete translated note, its authorship and its exact German anchor.",
+      "source_unit": "p114:de:s1",
+      "target_unit": "p114:revised:s1",
+      "source_version": "grundzuege-114-v1",
+      "target_version": "en114-revised-v2",
+      "source_body_sha256": "4ee9596cd62d99c3f304b07c3404c407ba037d3fa9bbd933459202c7c6f5461f",
+      "target_body_sha256": "d3e37ab278fb645480eccde49365f24ebec6e7b45e1304d8b2e35dc710ffb0b3",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 192
+      },
+      "authorship": "editor1906",
+      "original_marker": "1)",
+      "original_anchor": "After auch auf diese Weise zu ordnen. on printed p. 437",
+      "source_text": "Der Titel seines Werkes ist oben S. 18 Anm. genauer angegeben.",
+      "source_note_target_unit": "vocab:note:havestadt-title:revised:s1",
+      "display_number": 13
+    },
+    {
+      "id": "havestadt-reference",
+      "source_id": "p114:s1",
+      "source_ids": [
+        "p114:s1",
+        "note:havestadt-title"
+      ],
+      "attribution": "Trans.",
+      "text": "The 1906 editor points to the preceding essay in the same volume, whose note names Havestadt’s *Chilidugu sive res chilenses* (Münster, 1777). [GS V, p. 18, n. 1](https://archive.org/download/gesammelteschrif05humbuoft/gesammelteschrif05humbuoft.pdf#page=28).",
+      "reason": "Make a print-volume cross-reference recoverable in the standalone translation.",
+      "evidence": [
+        "gs-v-havestadt"
+      ],
+      "source_unit": "p114:de:s1",
+      "target_unit": "p114:revised:s1",
+      "source_version": "grundzuege-114-v1",
+      "target_version": "en114-revised-v2",
+      "source_body_sha256": "4ee9596cd62d99c3f304b07c3404c407ba037d3fa9bbd933459202c7c6f5461f",
+      "target_body_sha256": "d3e37ab278fb645480eccde49365f24ebec6e7b45e1304d8b2e35dc710ffb0b3",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 192
+      },
+      "authorship": "translator",
+      "display_number": 14
+    },
+    {
+      "id": "verb-stem-ellipsis",
+      "source_id": "p118:s9",
+      "source_ids": [
+        "p118:s9",
+        "p121:s5"
+      ],
+      "attribution": "Trans.",
+      "text": "The German leaves the first element unexpressed in *eines ursprünglichen*. The English supplies *verb* from the preceding *Verba*. The parallel with the second element also supports ‘one original stem with another’.",
+      "reason": "The alternatives change the description of lexical verb formation.",
+      "evidence": [],
+      "source_unit": "p118:de:s9",
+      "target_unit": "p118:revised:s9",
+      "source_version": "grundzuege-118-v1",
+      "target_version": "en118-revised-v2",
+      "source_body_sha256": "c41d68319c5ebc3371807f1dcc5556ebe26d9f4a368871dd744001c03197a664",
+      "target_body_sha256": "816b8fd0ad4c9aad05cad22323cae2910ee2c65aa19b85dc82834c1e1ff7ec48",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 225
+      },
+      "authorship": "translator",
+      "display_number": 15
+    },
+    {
+      "id": "closing-pronoun",
+      "source_id": "p126:s9",
+      "source_ids": [
+        "p126:s9"
+      ],
+      "attribution": "Trans.",
+      "text": "The print has *ihn*, a masculine singular pronoun whose nearest grammatical antecedent is *Theil*, the material part of language. The English supplies *these changes* because the closing argument concerns what a full study of language must also include.",
+      "reason": "The printed construction leaves the scope of the conclusion open to textual clarification.",
+      "evidence": [],
+      "source_unit": "p126:de:s9",
+      "target_unit": "p126:revised:s9",
+      "source_version": "grundzuege-126-v1",
+      "target_version": "en126-revised-v2",
+      "source_body_sha256": "3f794e6790433ae1bc76ce9ba8ae26fcbcfecd11513a4b9d82c0930904199d1a",
+      "target_body_sha256": "81a231e4e50d48a7c005b21052781fb9c754057660e74a93123d00217307535a",
+      "anchor": {
+        "after": "complete rendering block",
+        "offset_in_rendering": 376
+      },
+      "authorship": "translator",
+      "display_number": 16
+    }
+  ],
+  "term_guide": [
+    {
+      "id": "concept-object-presentation",
+      "term": "Concept, object and presentation",
+      "German": [
+        "Begriff",
+        "Gegenstand",
+        "Object",
+        "Vorstellung",
+        "Auffassung"
+      ],
+      "source_ids": [
+        "p72:s4",
+        "p85:s1",
+        "p85:s4",
+        "p87:s3",
+        "p88:s5"
+      ],
+      "text": "A *presentation* is how an object becomes present to someone’s mind. The object can be corporeal or formed by the mind. A word gives the concept a shape from a particular standpoint, and the presentation given by the word continues to act alongside the individual’s presentation of the object. *Apprehension* names the way of taking up the object."
+    },
+    {
+      "id": "word-sound",
+      "term": "Word sound",
+      "German": [
+        "Wortlaut",
+        "Laut",
+        "Ton",
+        "Schall"
+      ],
+      "source_ids": [
+        "p72:s1",
+        "p84:s1",
+        "p84:s2",
+        "p91:s12"
+      ],
+      "text": "The sound of a word can continue across generations while its content varies. The German terms for sound overlap. In §91 *Schall* draws attention to the audible sound that may stay the same even when the word as actually thought or spoken changes."
+    },
+    {
+      "id": "form-and-matter",
+      "term": "Form, matter and material",
+      "German": [
+        "Form",
+        "Materie",
+        "Stoff",
+        "Einbildungskraft"
+      ],
+      "source_ids": [
+        "p72:s5",
+        "p89:s5",
+        "p90:s1",
+        "p91:s4",
+        "p95:s1"
+      ],
+      "text": "In §90 a word’s *matter* is how it presents objects along the logical, sensory and affective lines set out in §87. Its *form* is how the faculties work together in those respects. In §89 sensory and affective content is transformed by imagination, which can preserve it as form. *Material* also names what the words provide for discourse in §72."
+    },
+    {
+      "id": "motivating-meaning",
+      "term": "Motivating meaning",
+      "German": [
+        "Selbstbedeutung",
+        "Bezeichnung",
+        "Bedeutung"
+      ],
+      "source_ids": [
+        "p98:s4",
+        "p98:s5",
+        "p99:s1",
+        "p99:s3",
+        "p104:s1"
+      ],
+      "text": "The *motivating meaning* is what gives a word its particular way of designating a concept. It can lie in a perceptible feature of a thing or in a metaphor. Humboldt distinguishes cases where speakers still feel the motivation from those where a historical investigator can recover it."
+    },
+    {
+      "id": "word-sign-symbol",
+      "term": "Word, sign and symbol",
+      "German": [
+        "Wort",
+        "Zeichen",
+        "Symbol"
+      ],
+      "source_ids": [
+        "p101:s3",
+        "p101:s9",
+        "p101:s11",
+        "p101:s14",
+        "p103:s3",
+        "p103:s5"
+      ],
+      "text": "A sign in the strict sense designates something with an existence of its own. A concept takes its completed shape through a word. The natural form of a symbol can stand on its own, and its idea can be seen throughout that form. A word can have symbolic properties even though its sound and concept have the more tightly joined relation described in §101."
+    },
+    {
+      "id": "view-of-the-world",
+      "term": "View of the world",
+      "German": [
+        "Weltansicht"
+      ],
+      "source_ids": [
+        "p86:s2",
+        "p88:s5",
+        "p107:s3",
+        "p115:s2",
+        "p119:s3"
+      ],
+      "text": "Each language makes a view of the world available through its ways of forming and designating concepts. There is room within that view for individual modes of presentation and for changes in language and thought over time."
+    },
+    {
+      "id": "stem-word-root",
+      "term": "Stem word and root word",
+      "German": [
+        "Stammwort",
+        "Wurzelwort"
+      ],
+      "source_ids": [
+        "p74:s5",
+        "p78:s1",
+        "p121:s1",
+        "p121:s4",
+        "p121:s5"
+      ],
+      "text": "A stem word is a starting point for an analysis of word formation. Root words can serve as stem words for derivation and composition and are constrained in connected discourse. The analysis traces relative starting points. Humboldt also rejects the forced assignment of every word to a proposed root."
+    },
+    {
+      "id": "feeling",
+      "term": "Feeling and the inner life",
+      "German": [
+        "Gefühl",
+        "Empfindung",
+        "Gemüth",
+        "Stimmung"
+      ],
+      "source_ids": [
+        "p87:s2",
+        "p105:s1",
+        "p125:s4",
+        "p125:s5",
+        "p126:s4"
+      ],
+      "text": "The term *feeling* includes the intellectual orientation that operates without clear reflective awareness in forming and using words. §105 distinguishes particular emotions from a combined intellectual and affective disposition. *Inner life* renders *Gemüth* where its affective capacities matter."
+    },
+    {
+      "id": "words-of-possession",
+      "term": "Words of possession",
+      "German": [
+        "Eigenthumswörter"
+      ],
+      "source_ids": [
+        "p122:s4",
+        "p122:s8"
+      ],
+      "text": "Humboldt lists *words of possession* among families formed by a recurring procedure. He explains the basis of the class through a factual relation of possession. The passage gives no forms from which to identify a particular grammatical category."
+    }
+  ],
+  "format": "humboldt.reader-notes",
+  "version": 1,
+  "status": "provisional; English and annotation review pending",
+  "policy": "docs/footnoting-policy.md",
+  "policy_sha256": "f31503d00281d2c18aaf29fa52ebe1e6a41713ffd07dab128c08254378ffe89f",
+  "source_checks": "translations/vocabulary/annotation-sources.json"
+}

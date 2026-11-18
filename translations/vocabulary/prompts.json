@@ -1,0 +1,161 @@
+{
+  "section": "Vocabulary",
+  "recipes": [
+    {
+      "stage": "candidate",
+      "block": 1,
+      "range": [
+        72,
+        83
+      ],
+      "sha256": "a7011f6b05f450e714b2a51f7195715808bd4191d9d2b4da795ba8705c67cd48",
+      "parts": [
+        {
+          "file": "translations/vocabulary/candidate-instructions.md"
+        },
+        {
+          "literal": "\nOutput §§72–83 only, including these 75 IDs in order:\nheading:vocabulary, p72:s1, p72:s2, p72:s3, p72:s4, p72:s5, p72:s6, p72:s7, p72:s8, p72:s9, note:first-publication, p73:s1, p73:s2, p73:s3, note:chinese-tones, p74:s1, p74:s2, p74:s3, p74:s4, p74:s5, p74:s6, p74:s7, p74:s8, p74:s9, p74:s10, p74:s11, p75:s1, p75:s2, p75:s3, p75:s4, p75:s5, p75:s6, p76:s1, p77:s1, p77:s2, p77:s3, p77:s4, p77:s5, p77:s6, p77:s7, p77:s8, p78:s1, p78:s2, p78:s3, p78:s4, p79:s1, p79:s2, p79:s3, p79:s4, p80:s1, p80:s2, p80:s3, p80:s4, p80:s5, p80:s6, p80:s7, p81:s1, p81:s2, p81:s3, p81:s4, p81:s5, note:coptic-sanskrit, p82:s1, p82:s2, p82:s3, p82:s4, p83:s1, p83:s2, p83:s3, p83:s4, p83:s5, p83:s6, p83:s7, p83:s8, p83:s9\n\n"
+        },
+        {
+          "file": "translations/vocabulary/candidate-packet.md"
+        },
+        {
+          "literal": "\n\n# Whole-work German context — UNCORRECTED OCR\n\n"
+        },
+        {
+          "file": "sources/grundzuege-ocr.txt"
+        }
+      ]
+    },
+    {
+      "stage": "candidate",
+      "block": 2,
+      "range": [
+        84,
+        105
+      ],
+      "sha256": "46f9d3e15ec69c1167fad903ac39ce3ff7b86d7ba5a3e12a756b07a1d2ee11c1",
+      "parts": [
+        {
+          "file": "translations/vocabulary/candidate-instructions.md"
+        },
+        {
+          "literal": "\nOutput §§84–105 only, including these 163 IDs in order:\np84:s1, p84:s2, p84:s3, p84:s4, p85:s1, p85:s2, p85:s3, p85:s4, p85:s5, p85:s6, p86:s1, p86:s2, p86:s3, p86:s4, p87:s1, p87:s2, p87:s3, p88:s1, p88:s2, p88:s3, p88:s4, p88:s5, p89:s1, p89:s2, p89:s3, p89:s4, p89:s5, p89:s6, p90:s1, p91:s1, p91:s2, p91:s3, p91:s4, p91:s5, p91:s6, p91:s7, p91:s8, p91:s9, p91:s10, p91:s11, p91:s12, p91:s13, p91:s14, p92:s1, p92:s2, p92:s3, p93:s1, p93:s2, p93:s3, p93:s4, p93:s5, p93:s6, p94:s1, p94:s2, p94:s3, p94:s4, p94:s5, p94:s6, p95:s1, p95:s2, p95:s3, p96:s1, p96:s2, p96:s3, p96:s4, p96:s5, p96:s6, p96:s7, p96:s8, note:sanskrit-hips, note:sanskrit-concepts, p97:s1, p97:s2, p97:s3, p97:s4, p97:s5, p97:s6, p97:s7, p97:s8, p98:s1, p98:s2, p98:s3, p98:s4, p98:s5, p98:s6, p98:s7, p98:s8, p98:s9, p98:s10, p98:s11, p98:s12, p99:s1, p99:s2, p99:s3, p99:s4, p99:s5, p99:s6, p100:s1, p100:s2, p100:s3, p100:s4, p101:s1, p101:s2, p101:s3, p101:s4, p101:s5, p101:s6, p101:s7, p101:s8, p101:s9, p101:s10, p101:s11, p101:s12, p101:s13, p101:s14, p101:s15, p101:s16, note:deleted-word-symbol, note:creuzer, note:deleted-images-signs, note:egyptian-vowels, p102:s1, p102:s2, p102:s3, p102:s4, p102:s5, p102:s6, p102:s7, p103:s1, p103:s2, p103:s3, p103:s4, p103:s5, p103:s6, p103:s7, p103:s8, p103:s9, p104:s1, p104:s2, p104:s3, p104:s4, p104:s5, p104:s6, p104:s7, p104:s8, p104:s9, p104:s10, p104:s11, p104:s12, p104:s13, p105:s1, p105:s2, p105:s3, p105:s4, p105:s5, p105:s6, p105:s7, p105:s8, p105:s9, p105:s10, p105:s11, p105:s12, p105:s13\n\n"
+        },
+        {
+          "file": "translations/vocabulary/candidate-packet.md"
+        },
+        {
+          "literal": "\n\n# Whole-work German context — UNCORRECTED OCR\n\n"
+        },
+        {
+          "file": "sources/grundzuege-ocr.txt"
+        }
+      ]
+    },
+    {
+      "stage": "candidate",
+      "block": 3,
+      "range": [
+        106,
+        126
+      ],
+      "sha256": "b7a762a5270f4400f105a3d69eec3311ab335d61c8a43a0cc88ad5d38bca74a4",
+      "parts": [
+        {
+          "file": "translations/vocabulary/candidate-instructions.md"
+        },
+        {
+          "literal": "\nOutput §§106–126 only, including these 130 IDs in order:\np106:s1, p106:s2, p107:s1, p107:s2, p107:s3, p108:s1, p108:s2, p108:s3, p108:s4, p108:s5, p109:s1, p109:s2, p109:s3, p109:s4, p109:s5, p109:s6, p109:s7, p109:s8, p109:s9, p109:s10, p109:s11, p110:s1, p110:s2, p110:s3, p110:s4, p110:s5, p111:s1, p111:s2, p111:s3, p111:s4, p111:s5, p111:s6, p111:s7, p111:s8, p111:s9, p111:s10, p112:s1, p112:s2, p112:s3, p112:s4, p112:s5, p112:s6, p113:s1, p113:s2, p113:s3, p113:s4, p113:s5, p113:s6, p113:s7, p113:s8, p113:s9, p114:s1, p114:s2, p114:s3, p114:s4, p114:s5, note:havestadt-title, p115:s1, p115:s2, p115:s3, p115:s4, p116:s1, p116:s2, p116:s3, p117:s1, p117:s2, p117:s3, p118:s1, p118:s2, p118:s3, p118:s4, p118:s5, p118:s6, p118:s7, p118:s8, p118:s9, p118:s10, p119:s1, p119:s2, p119:s3, p119:s4, p120:s1, p120:s2, p120:s3, p120:s4, p121:s1, p121:s2, p121:s3, p121:s4, p121:s5, p121:s6, p121:s7, p121:s8, p122:s1, p122:s2, p122:s3, p122:s4, p122:s5, p122:s6, p122:s7, p122:s8, p122:s9, p122:s10, p122:s11, p123:s1, p123:s2, p124:s1, p124:s2, p124:s3, p124:s4, p125:s1, p125:s2, p125:s3, p125:s4, p125:s5, p125:s6, p125:s7, p125:s8, p125:s9, p125:s10, p125:s11, p126:s1, p126:s2, p126:s3, p126:s4, p126:s5, p126:s6, p126:s7, p126:s8, p126:s9\n\n"
+        },
+        {
+          "file": "translations/vocabulary/candidate-packet.md"
+        },
+        {
+          "literal": "\n\n# Whole-work German context — UNCORRECTED OCR\n\n"
+        },
+        {
+          "file": "sources/grundzuege-ocr.txt"
+        }
+      ]
+    },
+    {
+      "stage": "audit",
+      "block": 1,
+      "range": [
+        72,
+        83
+      ],
+      "sha256": "201a05b624119ceddd564ead3719ed974cbf89ba935daedbab329675e593d1a2",
+      "parts": [
+        {
+          "file": "translations/vocabulary/audit-instructions.md"
+        },
+        {
+          "literal": "\nAudit the 75 IDs in §§72–83:\nheading:vocabulary, p72:s1, p72:s2, p72:s3, p72:s4, p72:s5, p72:s6, p72:s7, p72:s8, p72:s9, note:first-publication, p73:s1, p73:s2, p73:s3, note:chinese-tones, p74:s1, p74:s2, p74:s3, p74:s4, p74:s5, p74:s6, p74:s7, p74:s8, p74:s9, p74:s10, p74:s11, p75:s1, p75:s2, p75:s3, p75:s4, p75:s5, p75:s6, p76:s1, p77:s1, p77:s2, p77:s3, p77:s4, p77:s5, p77:s6, p77:s7, p77:s8, p78:s1, p78:s2, p78:s3, p78:s4, p79:s1, p79:s2, p79:s3, p79:s4, p80:s1, p80:s2, p80:s3, p80:s4, p80:s5, p80:s6, p80:s7, p81:s1, p81:s2, p81:s3, p81:s4, p81:s5, note:coptic-sanskrit, p82:s1, p82:s2, p82:s3, p82:s4, p83:s1, p83:s2, p83:s3, p83:s4, p83:s5, p83:s6, p83:s7, p83:s8, p83:s9\n\n"
+        },
+        {
+          "file": "translations/vocabulary/audit-packet.md"
+        },
+        {
+          "literal": "\n\n# Whole-work German context — UNCORRECTED OCR\n\n"
+        },
+        {
+          "file": "sources/grundzuege-ocr.txt"
+        }
+      ]
+    },
+    {
+      "stage": "audit",
+      "block": 2,
+      "range": [
+        84,
+        105
+      ],
+      "sha256": "29deaa191480768aa4ccf55f0a1df66f542ebeb4e1e32010fe0db917b569138c",
+      "parts": [
+        {
+          "file": "translations/vocabulary/audit-instructions.md"
+        },
+        {
+          "literal": "\nAudit the 163 IDs in §§84–105:\np84:s1, p84:s2, p84:s3, p84:s4, p85:s1, p85:s2, p85:s3, p85:s4, p85:s5, p85:s6, p86:s1, p86:s2, p86:s3, p86:s4, p87:s1, p87:s2, p87:s3, p88:s1, p88:s2, p88:s3, p88:s4, p88:s5, p89:s1, p89:s2, p89:s3, p89:s4, p89:s5, p89:s6, p90:s1, p91:s1, p91:s2, p91:s3, p91:s4, p91:s5, p91:s6, p91:s7, p91:s8, p91:s9, p91:s10, p91:s11, p91:s12, p91:s13, p91:s14, p92:s1, p92:s2, p92:s3, p93:s1, p93:s2, p93:s3, p93:s4, p93:s5, p93:s6, p94:s1, p94:s2, p94:s3, p94:s4, p94:s5, p94:s6, p95:s1, p95:s2, p95:s3, p96:s1, p96:s2, p96:s3, p96:s4, p96:s5, p96:s6, p96:s7, p96:s8, note:sanskrit-hips, note:sanskrit-concepts, p97:s1, p97:s2, p97:s3, p97:s4, p97:s5, p97:s6, p97:s7, p97:s8, p98:s1, p98:s2, p98:s3, p98:s4, p98:s5, p98:s6, p98:s7, p98:s8, p98:s9, p98:s10, p98:s11, p98:s12, p99:s1, p99:s2, p99:s3, p99:s4, p99:s5, p99:s6, p100:s1, p100:s2, p100:s3, p100:s4, p101:s1, p101:s2, p101:s3, p101:s4, p101:s5, p101:s6, p101:s7, p101:s8, p101:s9, p101:s10, p101:s11, p101:s12, p101:s13, p101:s14, p101:s15, p101:s16, note:deleted-word-symbol, note:creuzer, note:deleted-images-signs, note:egyptian-vowels, p102:s1, p102:s2, p102:s3, p102:s4, p102:s5, p102:s6, p102:s7, p103:s1, p103:s2, p103:s3, p103:s4, p103:s5, p103:s6, p103:s7, p103:s8, p103:s9, p104:s1, p104:s2, p104:s3, p104:s4, p104:s5, p104:s6, p104:s7, p104:s8, p104:s9, p104:s10, p104:s11, p104:s12, p104:s13, p105:s1, p105:s2, p105:s3, p105:s4, p105:s5, p105:s6, p105:s7, p105:s8, p105:s9, p105:s10, p105:s11, p105:s12, p105:s13\n\n"
+        },
+        {
+          "file": "translations/vocabulary/audit-packet.md"
+        },
+        {
+          "literal": "\n\n# Whole-work German context — UNCORRECTED OCR\n\n"
+        },
+        {
+          "file": "sources/grundzuege-ocr.txt"
+        }
+      ]
+    },
+    {
+      "stage": "audit",
+      "block": 3,
+      "range": [
+        106,
+        126
+      ],
+      "sha256": "0ad7037b69ef0f2b7209b15370b1edaadc83c9622afc90ca946b07a2e4342401",
+      "parts": [
+        {
+          "file": "translations/vocabulary/audit-instructions.md"
+        },
+        {
+          "literal": "\nAudit the 130 IDs in §§106–126:\np106:s1, p106:s2, p107:s1, p107:s2, p107:s3, p108:s1, p108:s2, p108:s3, p108:s4, p108:s5, p109:s1, p109:s2, p109:s3, p109:s4, p109:s5, p109:s6, p109:s7, p109:s8, p109:s9, p109:s10, p109:s11, p110:s1, p110:s2, p110:s3, p110:s4, p110:s5, p111:s1, p111:s2, p111:s3, p111:s4, p111:s5, p111:s6, p111:s7, p111:s8, p111:s9, p111:s10, p112:s1, p112:s2, p112:s3, p112:s4, p112:s5, p112:s6, p113:s1, p113:s2, p113:s3, p113:s4, p113:s5, p113:s6, p113:s7, p113:s8, p113:s9, p114:s1, p114:s2, p114:s3, p114:s4, p114:s5, note:havestadt-title, p115:s1, p115:s2, p115:s3, p115:s4, p116:s1, p116:s2, p116:s3, p117:s1, p117:s2, p117:s3, p118:s1, p118:s2, p118:s3, p118:s4, p118:s5, p118:s6, p118:s7, p118:s8, p118:s9, p118:s10, p119:s1, p119:s2, p119:s3, p119:s4, p120:s1, p120:s2, p120:s3, p120:s4, p121:s1, p121:s2, p121:s3, p121:s4, p121:s5, p121:s6, p121:s7, p121:s8, p122:s1, p122:s2, p122:s3, p122:s4, p122:s5, p122:s6, p122:s7, p122:s8, p122:s9, p122:s10, p122:s11, p123:s1, p123:s2, p124:s1, p124:s2, p124:s3, p124:s4, p125:s1, p125:s2, p125:s3, p125:s4, p125:s5, p125:s6, p125:s7, p125:s8, p125:s9, p125:s10, p125:s11, p126:s1, p126:s2, p126:s3, p126:s4, p126:s5, p126:s6, p126:s7, p126:s8, p126:s9\n\n"
+        },
+        {
+          "file": "translations/vocabulary/audit-packet.md"
+        },
+        {
+          "literal": "\n\n# Whole-work German context — UNCORRECTED OCR\n\n"
+        },
+        {
+          "file": "sources/grundzuege-ocr.txt"
+        }
+      ]
+    }
+  ]
+}

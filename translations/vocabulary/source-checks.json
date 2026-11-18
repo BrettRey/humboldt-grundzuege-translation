@@ -1,0 +1,858 @@
+{
+  "format": "humboldt.print-source-checks",
+  "source_sha256": "4b9227f0d1ec7065a8c80df11031581399bef1962d085a4e267ba466ac58e17f",
+  "method": "Provisional 1906 printed base. Compared page images, embedded OCR and an independent German OCR pass, with enlarged checks at the boundaries and apparatus. Manuscript collation and human German-fidelity review remain outstanding.",
+  "printed_pages": [
+    410,
+    411,
+    412,
+    413,
+    414,
+    415,
+    416,
+    417,
+    418,
+    419,
+    420,
+    421,
+    422,
+    423,
+    424,
+    425,
+    426,
+    427,
+    428,
+    429,
+    430,
+    431,
+    432,
+    433,
+    434,
+    435,
+    436,
+    437,
+    438,
+    439,
+    440,
+    441,
+    442,
+    443,
+    444
+  ],
+  "pdf_pages": [
+    420,
+    421,
+    422,
+    423,
+    424,
+    425,
+    426,
+    427,
+    428,
+    429,
+    430,
+    431,
+    432,
+    433,
+    434,
+    435,
+    436,
+    437,
+    438,
+    439,
+    440,
+    441,
+    442,
+    443,
+    444,
+    445,
+    446,
+    447,
+    448,
+    449,
+    450,
+    451,
+    452,
+    453,
+    454
+  ],
+  "excluded_boundary": {
+    "printed_page": 445,
+    "pdf_page": 455,
+    "heading": "γ. Redeverbindung.",
+    "passage": 127
+  },
+  "paragraphs": 55,
+  "source_notes": {
+    "humboldt": 6,
+    "editor1906": 4
+  },
+  "details": [
+    {
+      "source_id": "p82:s2",
+      "fragment": "λαμβάνω",
+      "style": "word form",
+      "interpretation": "Greek and German word forms"
+    },
+    {
+      "source_id": "p82:s2",
+      "fragment": "λάβω",
+      "style": "word form",
+      "interpretation": "Greek and German word forms"
+    },
+    {
+      "source_id": "p82:s2",
+      "fragment": "legen",
+      "style": "word form",
+      "interpretation": "Greek and German word forms"
+    },
+    {
+      "source_id": "p82:s2",
+      "fragment": "liegen",
+      "style": "word form",
+      "interpretation": "Greek and German word forms"
+    },
+    {
+      "source_id": "p91:s10",
+      "fragment": "dwipa",
+      "style": "word form",
+      "interpretation": "Sanskrit and German word forms"
+    },
+    {
+      "source_id": "p91:s10",
+      "fragment": "Vernunft",
+      "style": "word form",
+      "interpretation": "Sanskrit and German word forms"
+    },
+    {
+      "source_id": "p91:s1",
+      "fragment": "zurück",
+      "style": "word form",
+      "interpretation": "Sanskrit and German word forms"
+    },
+    {
+      "source_id": "p91:s10",
+      "fragment": "zurück",
+      "style": "word form",
+      "interpretation": "Sanskrit and German word forms"
+    },
+    {
+      "source_id": "p91:s10",
+      "fragment": "vernehmen",
+      "style": "word form",
+      "interpretation": "Sanskrit and German word forms"
+    },
+    {
+      "source_id": "p91:s10",
+      "fragment": "Rücken",
+      "style": "word form",
+      "interpretation": "Sanskrit and German word forms"
+    },
+    {
+      "source_id": "p98:s10",
+      "fragment": "Fliege",
+      "style": "word form",
+      "interpretation": "German word forms"
+    },
+    {
+      "source_id": "p98:s10",
+      "fragment": "Krähe",
+      "style": "word form",
+      "interpretation": "German word forms"
+    },
+    {
+      "source_id": "p98:s10",
+      "fragment": "Gans",
+      "style": "word form",
+      "interpretation": "German word forms"
+    },
+    {
+      "source_id": "p103:s1",
+      "fragment": "Stärke",
+      "style": "word form",
+      "interpretation": "German word forms"
+    },
+    {
+      "source_id": "p103:s9",
+      "fragment": "Stärke",
+      "style": "word form",
+      "interpretation": "German word forms"
+    },
+    {
+      "source_id": "p103:s1",
+      "fragment": "Wolke",
+      "style": "word form",
+      "interpretation": "German word forms"
+    },
+    {
+      "source_id": "p103:s1",
+      "fragment": "Wolle",
+      "style": "word form",
+      "interpretation": "German word forms"
+    },
+    {
+      "source_id": "p103:s1",
+      "fragment": "Wald",
+      "style": "word form",
+      "interpretation": "German word forms"
+    },
+    {
+      "source_id": "p112:s3",
+      "fragment": "freedom",
+      "style": "word form",
+      "interpretation": "English word forms"
+    },
+    {
+      "source_id": "p112:s3",
+      "fragment": "liberty",
+      "style": "word form",
+      "interpretation": "English word forms"
+    },
+    {
+      "source_id": "p122:s11",
+      "fragment": "schmal",
+      "style": "word form",
+      "interpretation": "German word forms"
+    },
+    {
+      "source_id": "p122:s11",
+      "fragment": "eng",
+      "style": "word form",
+      "interpretation": "German word forms"
+    },
+    {
+      "source_id": "p122:s11",
+      "fragment": "breit",
+      "style": "word form",
+      "interpretation": "German word forms"
+    },
+    {
+      "source_id": "p122:s11",
+      "fragment": "gross",
+      "style": "word form",
+      "interpretation": "German word forms"
+    },
+    {
+      "source_id": "note:coptic-sanskrit",
+      "fragment": "hrosch",
+      "style": "word form",
+      "interpretation": "Coptic and Sanskrit word forms"
+    },
+    {
+      "source_id": "note:coptic-sanskrit",
+      "fragment": "rôsha",
+      "style": "word form",
+      "interpretation": "Coptic and Sanskrit word forms"
+    },
+    {
+      "source_id": "note:coptic-sanskrit",
+      "fragment": "h",
+      "style": "word form",
+      "interpretation": "Coptic and Sanskrit word forms"
+    },
+    {
+      "source_id": "note:coptic-sanskrit",
+      "fragment": "r",
+      "style": "word form",
+      "interpretation": "Coptic and Sanskrit word forms"
+    },
+    {
+      "source_id": "note:coptic-sanskrit",
+      "fragment": "hloili",
+      "style": "word form",
+      "interpretation": "Coptic and Sanskrit word forms"
+    },
+    {
+      "source_id": "note:coptic-sanskrit",
+      "fragment": "loili",
+      "style": "word form",
+      "interpretation": "Coptic and Sanskrit word forms"
+    },
+    {
+      "source_id": "note:coptic-sanskrit",
+      "fragment": "horsch",
+      "style": "word form",
+      "interpretation": "Coptic and Sanskrit word forms"
+    },
+    {
+      "source_id": "note:coptic-sanskrit",
+      "fragment": "hroyr",
+      "style": "word form",
+      "interpretation": "Coptic and Sanskrit word forms"
+    },
+    {
+      "source_id": "note:coptic-sanskrit",
+      "fragment": "hoyrooy",
+      "style": "word form",
+      "interpretation": "Coptic and Sanskrit word forms"
+    },
+    {
+      "source_id": "note:coptic-sanskrit",
+      "fragment": "heri",
+      "style": "word form",
+      "interpretation": "Coptic and Sanskrit word forms"
+    },
+    {
+      "source_id": "note:sanskrit-hips",
+      "fragment": "kaṭi",
+      "style": "word form",
+      "interpretation": "Sanskrit word forms"
+    },
+    {
+      "source_id": "note:sanskrit-hips",
+      "fragment": "taṭa",
+      "style": "word form",
+      "interpretation": "Sanskrit word forms"
+    },
+    {
+      "source_id": "note:sanskrit-hips",
+      "fragment": "śrôṇi",
+      "style": "word form",
+      "interpretation": "Sanskrit word forms"
+    },
+    {
+      "source_id": "note:sanskrit-hips",
+      "fragment": "nitamba",
+      "style": "word form",
+      "interpretation": "Sanskrit word forms"
+    },
+    {
+      "source_id": "note:sanskrit-concepts",
+      "fragment": "nyâya",
+      "style": "word form",
+      "interpretation": "Sanskrit word forms"
+    },
+    {
+      "source_id": "note:sanskrit-concepts",
+      "fragment": "yôga",
+      "style": "word form",
+      "interpretation": "Sanskrit word forms"
+    },
+    {
+      "source_id": "note:egyptian-vowels",
+      "fragment": "Ἑπταγράμματος Σάραπις",
+      "style": "word form",
+      "interpretation": "Greek epithet"
+    }
+  ],
+  "corrections": {
+    "72": [
+      [
+        "w^nig",
+        "wenig"
+      ],
+      [
+        "w^enig",
+        "wenig"
+      ],
+      [
+        "wächtigsten",
+        "wichtigsten"
+      ],
+      [
+        "Wörten'orrath",
+        "Wörtervorrath"
+      ],
+      [
+        "\"zusammengesetzten",
+        "zusammengesetzten"
+      ]
+    ],
+    "73": [
+      [
+        "(62.*'*\")",
+        "(62.a.)"
+      ],
+      [
+        "(62.^-)",
+        "(62.b.)"
+      ],
+      [
+        "wird.*)",
+        "wird."
+      ]
+    ],
+    "74": [
+      [
+        "se3^n",
+        "seyn"
+      ],
+      [
+        "w^elchen",
+        "welchen"
+      ]
+    ],
+    "75": [],
+    "76": [],
+    "77": [
+      [
+        "Dase3'n",
+        "Daseyn"
+      ],
+      [
+        "plötzHch",
+        "plötzlich"
+      ],
+      [
+        "anschhessen",
+        "anschliessen"
+      ],
+      [
+        "gewöhnhch",
+        "gewöhnlich"
+      ]
+    ],
+    "78": [],
+    "79": [
+      [
+        "beündliche",
+        "befindliche"
+      ]
+    ],
+    "80": [],
+    "81": [
+      [
+        "lexikaUschen",
+        "lexikalischen"
+      ],
+      [
+        "anzusehen.*)",
+        "anzusehen."
+      ]
+    ],
+    "82": [
+      [
+        "ist,so",
+        "ist, so"
+      ],
+      [
+        "^\"o^^ath",
+        "Vorrath"
+      ],
+      [
+        "l(x(j.ßdv(x)",
+        "λαμβάνω"
+      ],
+      [
+        "läßco",
+        "λάβω"
+      ]
+    ],
+    "83": [
+      [
+        "Gonsonanten",
+        "Consonanten"
+      ],
+      [
+        "Gharakter",
+        "Charakter"
+      ],
+      [
+        "Begriff'",
+        "Begriff"
+      ]
+    ],
+    "84": [
+      [
+        "Wones",
+        "Wortes"
+      ]
+    ],
+    "85": [],
+    "86": [],
+    "87": [
+      [
+        "Begriflf",
+        "Begriff"
+      ],
+      [
+        "w^elche",
+        "welche"
+      ]
+    ],
+    "88": [
+      [
+        "w^ird",
+        "wird"
+      ],
+      [
+        "Begriff\"serzeugung",
+        "Begriffserzeugung"
+      ]
+    ],
+    "89": [
+      [
+        "stoff'artige",
+        "stoffartige"
+      ],
+      [
+        "Stoftartigkeit",
+        "Stoffartigkeit"
+      ],
+      [
+        "Ivraft",
+        "Kraft"
+      ],
+      [
+        "Stoff\"",
+        "Stoff"
+      ],
+      [
+        "zusammenfasse",
+        "zusammenfasst."
+      ]
+    ],
+    "90": [],
+    "91": [
+      [
+        "gevv^iss",
+        "gewiss"
+      ],
+      [
+        "Begriff\"",
+        "Begriff"
+      ],
+      [
+        "dzmpa",
+        "dwîpa"
+      ]
+    ],
+    "92": [
+      [
+        "W^ort",
+        "Wort"
+      ]
+    ],
+    "93": [],
+    "94": [],
+    "95": [
+      [
+        "2um",
+        "zum"
+      ]
+    ],
+    "96": [
+      [
+        "herum;*)",
+        "herum;"
+      ],
+      [
+        "Gewinn.**)",
+        "Gewinn."
+      ]
+    ],
+    "97": [
+      [
+        "w^elche",
+        "welche"
+      ],
+      [
+        "^\"e^A^andtschaftsBande",
+        "VerwandtschaftsBande"
+      ],
+      [
+        "abgeleugnet",
+        "abgeläugnet"
+      ],
+      [
+        "Anw^endung",
+        "Anwendung"
+      ],
+      [
+        "((jG.)",
+        "(96.)"
+      ]
+    ],
+    "98": [
+      [
+        "körperiichen",
+        "körperlichen"
+      ],
+      [
+        "w^erden",
+        "werden"
+      ]
+    ],
+    "99": [
+      [
+        "Rüclvsichten",
+        "Rücksichten"
+      ],
+      [
+        "wiclitig",
+        "wichtig"
+      ],
+      [
+        "w^orauf",
+        "worauf"
+      ]
+    ],
+    "100": [],
+    "101": [
+      [
+        "Begriff\"",
+        "Begriff"
+      ],
+      [
+        "Begriff'",
+        "Begriff"
+      ],
+      [
+        "S3^mbol",
+        "Symbol"
+      ],
+      [
+        "sinnhcher",
+        "sinnlicher"
+      ],
+      [
+        "Begrilf",
+        "Begriff"
+      ],
+      [
+        "Aeg}^ptischen",
+        "Aegyptischen"
+      ],
+      [
+        "sich.^)",
+        "sich."
+      ],
+      [
+        "zusammen.*)-)",
+        "zusammen."
+      ],
+      [
+        "Priestern*)",
+        "Priestern"
+      ]
+    ],
+    "102": [
+      [
+        "Körperstotf",
+        "Körperstoff"
+      ],
+      [
+        "entv^^ickelnde",
+        "entwickelnde"
+      ]
+    ],
+    "103": [
+      [
+        "verv^^eilen",
+        "verweilen"
+      ]
+    ],
+    "104": [
+      [
+        "W^ort",
+        "Wort"
+      ],
+      [
+        "Nebenbegrif!",
+        "Nebenbegriff"
+      ]
+    ],
+    "105": [
+      [
+        "trilTt",
+        "trifft"
+      ]
+    ],
+    "106": [
+      [
+        "Begriff\"",
+        "Begriff"
+      ],
+      [
+        "nothw^endig",
+        "nothwendig"
+      ]
+    ],
+    "107": [],
+    "108": [],
+    "109": [
+      [
+        "Wonklänge",
+        "Wortklänge"
+      ]
+    ],
+    "110": [
+      [
+        "Ausdrucl^s",
+        "Ausdrucks"
+      ]
+    ],
+    "111": [
+      [
+        "Alittheilung",
+        "Mittheilung"
+      ]
+    ],
+    "112": [
+      [
+        "se3^n",
+        "seyn"
+      ],
+      [
+        "libcrty\\",
+        "liberty,"
+      ]
+    ],
+    "113": [
+      [
+        "Gedankenstotf",
+        "Gedankenstoff"
+      ]
+    ],
+    "114": [
+      [
+        "Hüifsmittel",
+        "Hülfsmittel"
+      ],
+      [
+        "vv^elche",
+        "welche"
+      ],
+      [
+        "ordnen.^)",
+        "ordnen."
+      ]
+    ],
+    "115": [
+      [
+        "w^ie\\'iel",
+        "wieviel"
+      ]
+    ],
+    "116": [
+      [
+        "Glassen",
+        "Classen"
+      ],
+      [
+        "sov^ohl",
+        "sowohl"
+      ]
+    ],
+    "117": [],
+    "118": [
+      [
+        "Abtheüung",
+        "Abtheilung"
+      ],
+      [
+        "herv^orstechende",
+        "hervorstechende"
+      ]
+    ],
+    "119": [
+      [
+        "W^ort",
+        "Wort"
+      ],
+      [
+        "(q8.)",
+        "(98.)"
+      ],
+      [
+        "durch •",
+        "durch"
+      ]
+    ],
+    "120": [],
+    "121": [
+      [
+        "nemhch",
+        "nemlich"
+      ],
+      [
+        "doppehe",
+        "doppelte"
+      ],
+      [
+        "Hesse",
+        "liesse"
+      ]
+    ],
+    "122": [
+      [
+        "w^eil",
+        "weil"
+      ]
+    ],
+    "123": [],
+    "124": [
+      [
+        "w^ar",
+        "war"
+      ]
+    ],
+    "125": [
+      [
+        "offenbart.^",
+        "offenbart?"
+      ]
+    ],
+    "126": [
+      [
+        "W^örter",
+        "Wörter"
+      ],
+      [
+        "([25.)",
+        "(125.)"
+      ]
+    ]
+  },
+  "additional_corrections": {
+    "79": {
+      "Seite Stellt.": "Seite stellt."
+    },
+    "83": {
+      "Grundbegriff'": "Grundbegriff"
+    },
+    "91": {
+      "dwîpa": "dwîpa"
+    },
+    "102": {
+      "W^ege": "Wege"
+    },
+    "103": {
+      "Begrenzung": "Begränzung"
+    }
+  },
+  "limits": "The 1906 editor’s two reports of deletions remain apparatus. Historical spellings, claims and examples are retained. Normalized line wrapping and note-marker position are recorded in the source data.",
+  "after_candidate_packet_freeze": [
+    {
+      "source_id": "p88:s3",
+      "before": "Begriff 2u einem",
+      "after": "Begriff zu einem",
+      "printed_page": 420
+    },
+    {
+      "source_id": "p104:s5",
+      "before": "genau genommen.",
+      "after": "genau genommen,",
+      "printed_page": 431
+    },
+    {
+      "source_id": "p122:s4",
+      "before": "gewöhnt hat.",
+      "after": "gewöhnt hat,",
+      "printed_page": 441
+    },
+    {
+      "source_id": "p91:s10",
+      "before": "dwîpa",
+      "after": "dwipa",
+      "printed_page": 422
+    }
+  ],
+  "confirmed_print_readings": [
+    {
+      "source_id": "p103:s9",
+      "text": "Gäbe",
+      "note": "The 1906 page prints an umlaut. English reads the contextually intended Gabe, gift."
+    }
+  ]
+}
