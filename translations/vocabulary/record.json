@@ -83,8 +83,13 @@
   },
   "source_status": "Provisional 1906 printed base. Compared page images, embedded OCR and an independent German OCR pass, with enlarged checks at the boundaries and apparatus. Manuscript collation and human German-fidelity review remain outstanding.",
   "reading_review": {
-    "status": "pending",
-    "scope": "English readability and usefulness of annotations"
+    "status": "completed",
+    "scope": "English readability and annotations for passages 72–126",
+    "record": "translations/vocabulary/review.json",
+    "pre_review_record": {
+      "git_commit": "35efbbca245b2a9b93cfba2a7ee131085828fc49",
+      "sha256": "6afd2dff01abb7eae9aa956b2b4f6ce53eb42b1e83197e018e1799cce3b0aabe"
+    }
   },
   "artifacts": [
     {
@@ -137,7 +142,7 @@
     },
     {
       "path": "translations/vocabulary/reading.md",
-      "sha256": "c897933bb9f1cd3c0b295789654c696ecfcc739acd21781c0142ddc8da679661"
+      "sha256": "2b1d824c4b155c295cc2c1e4e5343f94eed8a2c7eff360dcc2377e7d9aa9fe63"
     },
     {
       "path": "translations/vocabulary/revised.json",
@@ -170,6 +175,10 @@
     {
       "path": "translations/vocabulary/term-controls.json",
       "sha256": "b6053ebdad99a773889a907ab0ba5253c2145553e7ffecca4f40d387268be21b"
+    },
+    {
+      "path": "translations/vocabulary/review.json",
+      "sha256": "5738f01f91d1d63f087a5c3249bfd77c2a2ff190800d2fefabfbc8ff2b4a7b41"
     }
   ]
 }

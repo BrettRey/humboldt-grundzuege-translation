@@ -6,7 +6,7 @@ Wilhelm von Humboldt · *Outlines of the General Type of Language*
 
 **Scope.** The complete vocabulary division, passages 72–126, follows the 1906 German print on pp. 410–444. The marginal passage numbers are Humboldt’s printed numbering.
 
-**Review:** English readability and annotation review pending. The German follows the provisional printed base and awaits manuscript collation and specialist human review.
+**Review:** Brett approved the English reading and annotations on 18 November 2026. The translation follows the provisional 1906 printed base. [Source, alternatives and audit decisions](comparison.md) are available for closer inspection.
 
 **Notes.** Humboldt’s own notes, the 1906 editor’s notes and the translator’s notes share one Arabic sequence. The labels identify their authorship.
 

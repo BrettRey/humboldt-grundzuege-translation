@@ -1,9 +1,11 @@
 # Project handoff
-<!-- SUMMARY: Complete Vocabulary division through audit and revision · status: English and annotation review pending · updated: 2026-11-18 -->
+<!-- SUMMARY: Complete Vocabulary division through audit and revision · status: English and annotation review completed · updated: 2026-11-18 -->
+
+**Vocabulary review — D042.** Brett approved the English and annotations, with no inline comments or suggestions. The review record preserves the exact Roughdraft return and links to the opened version. [Review record](../translations/vocabulary/review.json)
 
 **Current result — D040–D041.** The complete [Vocabulary reading](../translations/vocabulary/reading.md) comprises passages 72–126, its printed heading and ten source notes from GS V, pp. 410–444. The [translation record](../translations/vocabulary/record.json) includes three independent candidates, two full audits, 107 dispositions and the resulting revision. It retains the printed German, source coordinates and selected word and phrase correspondences. The reading contains one attributed note sequence and a terminology guide.
 
-Open the current reading for English readability and annotation review. Rebuild the edition with `./humboldt build --force`. View the version and alignment records with `./humboldt passage 99` and `./humboldt trace vocab:span:8:right`. Regenerate the Markdown with `python3 tools/render_section_reading_v2.py translations/vocabulary --write`. Passage 127 begins the next printed division.
+Rebuild the edition with `./humboldt build --force`. View the version and alignment records with `./humboldt passage 99` and `./humboldt trace vocab:span:8:right`. Regenerate the Markdown with `python3 tools/render_section_reading_v2.py translations/vocabulary --write`. Passage 127 begins the next printed division.
 
 **Website publication — D038:** Brett approved the complete `/humboldt/` reader design with “all approved” in Roughdraft and “approved” in the conversation. English-first with optional parallel German and publication of latest drafts with explicit review labels are authorized. The new [web reader](https://brettreynolds.ca/humboldt/) is generated from the recorded bodies and accepted annotation updates; [maintenance instructions](website.md) describe the exporter, stale-anchor guards and structural checks. The website receives static HTML/Markdown/JSON, source-linked paragraph IDs, all70 notes across five reading units and the existing typography/theme. No edition rows, journal events or existing translations change. The separate147 sample remains separate. This website approval does not complete the pending56–71 English review or authorize72. Browser inspection was unavailable; live-file verification is recorded separately from interactive QA.
 

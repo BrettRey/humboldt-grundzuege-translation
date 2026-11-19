@@ -1,9 +1,9 @@
 # Humboldt: Grundzüge des allgemeinen Sprachtypus
-<!-- SUMMARY: Complete Vocabulary division translated with linked apparatus · status: 72–126 English and annotation review pending · updated: 2026-11-18 -->
+<!-- SUMMARY: Complete Vocabulary division translated with linked apparatus · status: 72–126 English and annotation review completed · updated: 2026-11-18 -->
 
 The [developing web edition](https://brettreynolds.ca/humboldt/) presents the recorded translation with optional parallel German, attributed notes, search and source-linked paragraph references. [Maintenance and export instructions](docs/website.md) explain how to refresh it from the edition records.
 
-The complete [Vocabulary reading, passages 72–126](translations/vocabulary/reading.md), is ready for English and annotation review. It includes the printed heading, ten historical notes, six translator’s notes and a local terminology guide. The [comparison and audit record](translations/vocabulary/comparison.md) links the checked German, three independent drafts, two audits and the revised English.
+The complete Vocabulary reading, passages 72–126, includes the printed heading, ten historical notes, six translator’s notes and a local terminology guide. Brett approved the English and annotations in Roughdraft. [Vocabulary reading](translations/vocabulary/reading.md) · [Review record](translations/vocabulary/review.json) · [Comparison and audit record](translations/vocabulary/comparison.md)
 
 The complete [sound-system reading, passages 56–71 including 62a and 62b](translations/sound-system/reading.md), is ready for English and annotation review. Three isolated candidates, two fresh audits of all 120 blocks and one source-based revision are preserved with all 24 finding dispositions in [the comparison](translations/sound-system/comparison.md). The reader includes all ten printed source notes, thirteen translator notes and twelve terminology entries. Earlier translations and journal records are preserved. Stop before 72. See [the record](translations/sound-system/record.json) and [verification](translations/sound-system/verification.json) for exact coverage and limits. Engine 0.2.2 adds separate querying and correct ordering for lettered passages, such as `./humboldt passage 62a`, without changing the database schema.
 

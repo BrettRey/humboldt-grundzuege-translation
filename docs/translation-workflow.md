@@ -21,7 +21,7 @@ The [printed contents](../sources/raw/gs-v-1906.pdf#page=484) supply this workin
 
 Under D033,16–18 and19–55 form one editorial delivery, with internal blocks16–37 and38–55. The following recommended delivery groups are56–71,72–126 and127–149; the larger two can use internal blocks72–83/84–105/106–126 and127–141/142–149. These are processing aids, not new printed divisions or authorization to begin the next delivery.
 
-Under D040 and D041, the complete Vocabulary division spans passages 72–126, including its printed heading and ten source notes. Its English and annotation review is the current checkpoint. The following printed division begins at passage 127.
+The complete Vocabulary division spans passages 72–126, including its printed heading and ten source notes. Brett approved the English and annotations under D042. The following printed division begins at passage 127.
 
 The opening-material ranges collect everything between printed headings; they are not invented chapter titles. Do not impose a word cap on the larger topic sections. If a tool needs consecutive output parts, keep the full section context, a common coverage ledger and one editorial deliverable.
 

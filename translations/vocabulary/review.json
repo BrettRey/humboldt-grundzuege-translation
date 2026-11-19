@@ -1,0 +1,46 @@
+{
+  "format": "humboldt.reader-review",
+  "version": 1,
+  "reviewer": "Brett Reynolds",
+  "completed": true,
+  "scope": "English readability and annotations for passages 72–126",
+  "completion": {
+    "user_message": "done",
+    "watch_exit_code": 0,
+    "roughdraft_event_count": 1,
+    "event_path": "translations/vocabulary/reviews/2026-11-19T001344Z/completion-event.json",
+    "event_sha256": "e420104de853a566ef50cab8af171a80e29b87635fdffb6ad546487da739095d"
+  },
+  "opened": {
+    "path": "translations/vocabulary/reading.md",
+    "git_commit": "35efbbca245b2a9b93cfba2a7ee131085828fc49",
+    "sha256": "c897933bb9f1cd3c0b295789654c696ecfcc739acd21781c0142ddc8da679661",
+    "bytes": 88250
+  },
+  "returned": {
+    "path": "translations/vocabulary/reviews/2026-11-19T001344Z/returned.md",
+    "sha256": "674dbb05986b3b93de10b08310e737d9a5e57dd2222b2337ada7fe134988d0cb",
+    "bytes": 88336
+  },
+  "comments": [
+    {
+      "id": "c1",
+      "kind": "overall",
+      "body": "approved",
+      "by": "user",
+      "at": "2026-11-19T00:13:44.934Z",
+      "disposition": "Recorded approval. No edits requested."
+    }
+  ],
+  "inline_comments": 0,
+  "suggestions": 0,
+  "main_text_unchanged": true,
+  "footnotes_and_guide_unchanged": true,
+  "fidelity_status": "The source and translation remain provisional.",
+  "reading_status_text": "**Review:** Brett approved the English reading and annotations on 18 November 2026. The translation follows the provisional 1906 printed base. [Source, alternatives and audit decisions](comparison.md) are available for closer inspection.",
+  "clean_reading": {
+    "path": "translations/vocabulary/reading.md",
+    "sha256": "2b1d824c4b155c295cc2c1e4e5343f94eed8a2c7eff360dcc2377e7d9aa9fe63",
+    "only_edit": "Update the review-status paragraph."
+  }
+}
